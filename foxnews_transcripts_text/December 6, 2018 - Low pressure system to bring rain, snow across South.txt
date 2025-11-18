@@ -1,0 +1,37 @@
+Headline: Low pressure system to bring rain, snow across South
+Sub-headline: No sub-headline found
+
+
+   
+Rain, wind, and mountain snow continues today from Southern California into the Southwest.
+   
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+As this low moves into the Southern Rockies, Southern Plains, and South tomorrow and Saturday, a wintry mix of rain, ice, and snow will develop.
+  
+Heavy snow is possible Friday from northeastern New Mexico into the Texas Panhandle, along with freezing rain across portions of northern Texas, Oklahoma, and northern Arkansas.  Locally heavy rain may cause flash flooding across eastern and southeastern Texas and the Gulf Coast.
+   
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+When this system reaches the Southeast and Carolinas late Saturday through Monday, heavy snowfall will fall across the southern Appalachians and western Carolinas.
+    

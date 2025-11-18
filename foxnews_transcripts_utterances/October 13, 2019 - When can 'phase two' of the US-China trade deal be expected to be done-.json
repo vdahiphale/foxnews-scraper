@@ -1,0 +1,1437 @@
+{
+  "date": "October 13, 2019",
+  "headline": "When can 'phase two' of the US-China trade deal be expected to be done?",
+  "subHeadline": "Guests: Mark Penn, Kellyanne Conway, Doug Collins, Mark Meadows",
+  "url": "https://www.foxnews.com/transcript/when-can-phase-two-of-the-us-china-trade-deal-be-expected-to-be-done",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MARIA BARTIROMO, HOST",
+      "sentences": "Good Sunday morning, everyone, thanks so much for joining me. I'm Maria Bartiromo. This morning, joining me exclusively straight ahead, right here on “Sunday Morning Futures,” Kellyanne Conway, the counselor to president on House Democrats intensifying their impeachment push. Plus the very latest on a potential trade deal with China this morning, and America's next steps in the Middle East. Also ahead, two influential Republican lawmakers are here, House Judiciary Ranking Member Doug Collins along with Congressman Mark Meadows on whether the Democrats are being transparent enough about what's behind their impeachment inquiry into President Trump. Plus, Mark Penn is here. He's involved -- has been involved in both Bill and Hillary Clinton's presidential campaigns. His unique perspective on how the Joe Biden Ukraine controversy is affecting the 2020 field, as the Wall Street Journal is reporting this morning that Hunter Biden plans to resign from the board of a Chinese private equity firm. All those stories and a lot more right here right now on “Sunday Morning Futures.” if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } And we begin this morning with President Trump. He is firing back at House Democrats as they accelerate their impeachment push with a flurry of new subpoenas seeking testimony from Energy Secretary Rick Perry and the two indicted associates of President Trump's personal attorney, Rudy Giuliani. The president reacting at the Values Voter Summit last night in our nation's capital. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "sentences": "Now it is the outrageous impeaching. Look, impeachment. I never thought the I'd see or hear that word with regard to me. Impeachment. It's a witch hunt. It's based on a single phone call of congratulations to the president of Ukraine, which they fraudulently mischaracterized to sound absolutely horrible. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Meanwhile, Democratic front-runner Joe Biden is now voicing his full support for impeachment, saying that President Trump has left Congress with no other choice. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } FORMER VICE PRESIDENT JOE BIDEN, D-2020 PRESIDENTIAL CANDIDATE: Donald Trump has violated his oath of office, betrayed this nation and committed impeachable acts. To preserve our Constitution, our democracy, our basic (ph) (inaudible). if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Joining me right now is Georgia Congressman Doug Collins. He's the ranking Republican on the House Judiciary Committee. And Congressman, it's always a pleasure to see you. Thanks so much for being here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. DOUG COLLINS, R-GA",
+      "sentences": "Good morning, Maria. It's good to be with you. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "I want to get to the impeachment push in a moment but first, let me get your reaction to this breaking news this morning. The Wall Street Journal is reporting that Hunter Biden, Joe Biden's son, has pledged to resign from this private equity firm that he is on the board of on October 31st, and he says he will not work on any foreign-owned companies or serve on their boards if his father is elected president. This just coming out now. We know that there has been so much around this story, but now Hunter Biden says he will step down. Your reaction.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "Well, it's pretty amazing now that Hunter Biden, after the -- you know, the light has been shined onto what seemingly is some interesting deals that were in Ukraine and China and other places, now you're going to come out and say, well, I'll step away from all of this because it might seem to be a conflict with my father, if he ever becomes president, which I think is a big leap of faith here to -- to start that. This just shows you how much this is just a messed up situation and how much that there were other things going on and all the Democrats want to do is focus on President Trump because they don't like President Trump because of everything going on. I think this is just another way to save a flailing campaign that's going down, he knows he's in trouble, and this is just another way to -- to try and detract attention. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Now, we know that there have already been three testimonies behind closed doors as part of this impeachment push, another one on Friday. Some of it leaked down and then others -- other things from that cannot be leaked or discussed. Tell me what you've learned so far from these behind closed doors testimonies and this impeachment inquiry. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "Well I think to first understand the closed door testimony -- let's -- let's at least go back and remember a few points. Number one -- November 2016 began the impeachment push for the Democrats, because they cried in Brooklyn, they haven't got over it yet. So number one. Number two -- when gained control of the Congress last year, instead of being truthful to the American people about wanting to do something for the American people, all they said was we're going to impeach the president. Jerry Nadler wanted to be chairman of the Judiciary because he's going to impeach the president. Number three, when the impeachment hit in January, all Jerry Nadler's focus and the chairman of the Judiciary Committee was let's have investigations. Mueller was going to show it -- everything was going to show that the president needed to be impeached. We felt back (ph), it failed. Now you go to -- Miss -- Speaker Pelosi and Adam Schiff had to say we're got a failing plan here, we promised the Democratic base that we would impeach the president, and so far we can't do it, in fact, we've shown that he's done nothing wrong except have a great economy and a great standing around the world. So here's what they did, Maria -- and the viewers need to know this. They said we can't win this in the public eye, so we're going to take it behind closed doors. And so in the last few days, they have taken it behind closed doors, Adam Schiff, who has trouble telling the truth, much less spelling it, but he's a very good leaker. Let's -- let's be honest about what he is good at. He's a good leaker. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); } So what they did is take it behind closed doors, have testimony that I have heard from folks who were in the room that said these transcripts should be released completely because the defeat the entire narrative. But as long as he can keep it behind closed doors then they leak out to the American people only what they want to leak out and this is why you have seen this progression at this point. The president has done nothing wrong, as he has said and has come out in the transcripts. And by the way, if you don't believe it just ask the Ukrainian president who said, I felt no pressure this was simply a discussion of what's going on in our two countries. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); } Maria, this is a sham of what's going on right now. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Well last week we had on Congressman John Ratcliffe, and Congressman Ratcliffe mentioned three reasons that this seems to be questionable. Number one was that typically in any impeachment it -- the jurisdiction for impeachment is the Judiciary Committee. It's not happening in the Judiciary Committee which Nadler runs, it's actually in the Intel Committee. Number two it is all happening behind closed doors. We don't know what anybody said -- on Friday you had another testimony from Marie Yovanovich - - she's the former Ambassador to Ukraine. Her opening statement leaks (ph), but then everything else as part of that is behind closed doors. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } And now they're calling him a fact witness. John Ratcliffe called him, Adam Schiff, a fact witness because of course he did meet with the so- called whistleblower before the complaint was public. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "John's exactly right. Here's an interesting thing (ph) -- Adam Schiff is so deeply involved in this -- this is a man who once said there's collusion in plain sight, we'll do whatever we want to do. You know, because the president needs to be impeached and we've got the proof. And he's been saying this for well over two years that this president was someone needed to be impeached. But notice what you just said there, he's a fact witness in that his staff and others met with the whistleblower before this came out. The president then released the transcript of the call and everybody said OK where's the \"their\" (ph) there because there's not a \"their\" there. And yet, they had helped put this out -- in fact, many reporters said if you look at the whistleblower complaint it was laid out in a way in which Adam Schiff could then to go to committee and start talk about this -- and then keep it behind closed doors to only get out what they want to get out. But it's not just the Judiciary Committee that's been left out here, the Foreign Affairs Committee has been left out here as well. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); } Speaker Pelosi knew that Adam Schiff would do whatever she wanted him to do. He's done it for years, he's doing it now and the American people are the one that'll (ph) suffer here. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } If they want to overturn a 2016 election then I would recommend get in the field, have a candidate who knew where some of these states were to actually go campaign and do that in 2020. You don't turn over an election based on the fact that you hate a president who got elected, who beat the person you thought was going to elected. And then, by the way he also put in trade -- he's working on trade deals, we have an economy. They can't beat him on the facts, so they're going to beat him on the lies. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "But what are you going to do about it? I mean, your colleagues on the left are in control, they are in the majority. We -- the American people are wondering what's going on in terms of this impeachment inquiry? We don't see any transcripts, we can't hear any of these hearings -- are you just going to -- and then, by the way no one's getting anything done, you're supposed to pass USMCA, you're supposed to get trade deals done as well as perhaps gun legislation infrastructure. So what are you going to do about it? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "Well if anybody's watched me over the last nine months in particular, I don't sit back and take it -- that's why I'm on here with you this morning, that's why we've been talking about the story. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); } If Adam Schiff wants to have it behind closed doors, my job is to pick the lock. Mine is to open it up and say, look at what has actually been happening here. Look at the lies that have been told, look at the hearings that have been had and nothing has came from it. And now, because you don't like the results you take it behind closed doors. Here's what we're going to keep (ph) doing, we're going to keep putting this out, we're going to work to get these transcripts released -- but also the Senate in the next couple weeks is hopefully going to be able to begin looking at other things as well, especially the Horowitz report which should be coming out in the next little bit. These are the kind of things Maria that viewers have to understand. When they look at Washington, D.C. what they're getting right now is a one-sided approach to an impeachment because Democrats know they can't win on the facts so they're having to move it behind closed doors, so those of us like myself are going to keep going forward. I believe that sunshine is the disinfectant. Right now Adam Schiff don't want to have disinfectant anywhere close to what he's doing. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Congressman, stay with us -- we want to put some sunshine on the IG report that is coming out in a week. We want to talk to you about that and the origins of the Russia probe. I've got more with Congressman Doug Collins straight ahead. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); } Also, counsel to the president Kellyanne Conway and and Congressman Mark Meadows is coming up. Follow me on Twitter @MariaBartiromo @SundayFeatures and on Instagram @SundayFeatures @ MariaBartiromo. Stay with us, we've got a big show this morning -- we're looking ahead on \"Sunday Morning Futures.\" if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Welcome back. And we are back with the Ranking Republican on the House Judiciary Committee, Congressman Georgia, Congressman Doug Collins. Congressman, I want to get your take on the I.G. report. I have reported last week on Fox Business, I reported that I'm hearing the I.G. report will be out this upcoming Friday, October 18. And my sources say it's as thick as a telephone book, more than just FISA abuse. Can you give us any sense of what you're expecting out of this Inspector General report, which is forth coming? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "Well, we're expecting it to show exactly what we've been concerned about for a long time. That there was issues at the Department of Justice, especially dealing with the FISA court. And you know, Maria, how I actually know this? I start looking at the ones that should be the most concern because one of the things I did (ph) mention a few minutes ago is the Democrats wanted nothing to do with any investigation to the really issues of collusion and corruption. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); } It was part of the 2016 campaign, which is the Democratic National Committee and (inaudible) and Fusion GPS and all of these parties that came together to try and deny Donald Trump from becoming president. And they never wanted any part of that. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); } And they're not wanting a part now and you see it when you see Brennan and you see McCabe and you see some of these really ramping up the I'm innocent phase of their life when they go on T.V. and talk about this is not really happening. But the best one is when Mr. Comey, the one who has the trouble with the truth, who has a Superman syndrome is out there saying oh I wish that this would just go away. But then he reveals himself and he says all I want to do is get rid of this president. This report is going to show what happened in that time frame, and I believe from what we're seeing from their reaction, it's not going to be very good. My only question is will the Democrats have an integrity bone in their body to actually -- Jerry Nadler to call Mr. Horowitz to our committee to have to answer about this report. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes, last week -- well, last weekend on this program we had George Papadopoulos on the program. And we had been following this, obviously, for the last couple of years and we've put together this timeline of really what looks like entrapment of Papadopoulos, given the fact that he got all of this outreach from these internationalist, quote -- quote/unquote, ambassadors and -- and people who invited him to conferences like Steven Halper or Alexander Downer from Australia or Joseph Mifsud. Now on the Joseph Mifsud situation, this was the individual who dropped the news on George Papadopoulos that Russia had Hillary Clinton's emails and he said -- and another of these internationalist said to him well, this is great news for you and Donald Trump that you've got this -- these emails and he said I would never do that, that's treason. And that transcript, that conversation was transcribed, because he was an informant, the guy who said that to him, and that was not given to the FISA Court. So, many people have come on this program, Trey Gowdy included, John Ratcliffe, to say that that was exculpatory evidence that was not given to the FISA Court. Is that something that you are going to be looking for in this upcoming report on Friday? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "That's the first of many things. I think what we've we got to understand here is, you have a court that meets in secret, that is integral that they have a position which they receive all the information, especially when you're dealing with an American citizen. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); } And, if there is being withheld exculpatory material, then it just goes to the -- to the position that I've said all along, that the corrupt cabal of McCabe, and Comey, and Strzock, and Page, and all these folk, have really had a mindset of, they came off of an e-mail investigation with Hillary Clinton, went right into, let's see if we can investigate this president, because we don't like who this president may be. And at that time he was still a candidate. And we're seeing this build up, and build up, and build up. So, I think this report is going to show -- even Comey himself said that the dossier was salacious and unverified. Well then why would he actually go out there and verify that before a FISA Court? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); } Why do we then come in finding out later that Mr. Durham now is enlarging his investigation to other areas all the way into spring of 2017 --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "-- when we have the Special Counsel name. When we're also beginning to have doubts of Mr. Mueller's truthfulness in what he was actually looking for and how much Rosenstein was actually a part of McCabe? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); } This whole deal, the McCabe memo, shows that there were actually discussions of wearing a wire to the White House. Maria, this is something that everybody needs to be concerned about, I don't care what Party affiliation you have. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); } If you are an American, you need to make sure that we actually find out, did our Department of Justice turn on us and then these questions are going to be answered. And I believe this is what you're going to see, starting with this Inspector General.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes. And as our timeline correctly points out, Mifsud telling -- telling George Papadopoulos about the -- about the e-mails that Russia had happened in April of 2016. That was way before the FBI said that they started an investigation. That was March and April in 2016, was when -- when he first got that information. Also, this $10,000 in cash that was dropped in his lap from another information. They said, oh, we want to do business with you, here's $10,000 in cash. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); } Again, they were using -- I mean, if this is -- comes to light, in this I.G. report and Bill Barr's investigation and John Durham's investigation, they were actually using the tools that this country uses on terrorists, that's informants, wire tapping. These are the tools that this country uses on terrorists and they were using it to entrap Donald Trump's campaign if this is true. And this is what everything we've learned so far leads me to believe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "Well, unlike the Democrats, I actually believe that let's let the facts come out. And I think what we're seeing here, is let's remember, Maria, everything you just talked about, let's look at the timeframe here, that was under the Obama/Biden Administration. That was under the previous Administration. When the collusion and the work from Russian operatives, when we had this dossier coming out, which was paid for by the DNC, this was under the watch of President Obama. I'm sort of tired of being lectured by the former president, about how he was in charge and how they would never had done this on a world stage, but yet, it was under his watch that this was the election interference from Russia actually happened. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } Let's just put this all in perspective, the I.G.'s report going to show what it's going to show, and I believe it's going to have a lot more that most people are aware of, because you're seeing the players who have been involved in it squirming on stage and we'll see how that comes out. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } You have a John Durham who is actually looking into this from possible charges as we go forward, but all at the same point, while all of this is starting to come out, the Democrats realize that in the light of day, they couldn't find anything to impeach President Trump on, so now they're going behind closed doors and they're just believing that the American public is not smart enough to realize what they're doing. That they can just leak out what they want to and influence this next election cycle. Never forget, this is not about a Ukrainian phone call, this is not about anything else, this is about the 2016 election that was failure and the 2020 election that is almost a year away.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Wow. So, can you do anything, being in the minority? Can Lindsey Graham, as the Chairman of the -- of the Senate Judiciary, with subpoena power, can he do anything? What -- what can you do to push back on this? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "Well, number one, like I said, I -- I -- it's amazing to me that my Chairman would like to have just very partisan hearings that go nowhere, and simply are for show in the House Judiciary Committee. But Lindsey Graham is the Chairman of the House over the Senate Judiciary Committee, and he's already said that he will have Mr. Horowitz there. I can't wait to see this report come out to see this. Now remember, this is not going to be a report like the Mueller Report, it's going to be -- there's a lot of probably classified information, but there's a lot of public information, because we're dealing with a very intelligence community and very secretive issues that we have to the report (ph) on national security. So, I think everybody just needs to be aware, sit back, let the facts come.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "OK. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "Unlike the Democrats, who want to change the facts, let the facts come to us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "And by the way, you're not getting anything done in the meantime, right? Anything else done?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "I mean, we've talked about a prescription drug plan, we've talked about gun legislation, we've talked about, obviously, USMCA. Is that ever going to come to the floor do you think? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "No. And here's the interesting part about it, think about this Maria, the president himself has reached out on transportation. The president himself has reached out on prescription drugs. The president himself has reached out on trade. The president himself did criminal justice reform last year, a bill that I helped write. There are the kinds of things this president who's reached out and every time he reaches a hand out, the Democrats now in majority, bit it. It's amazing he keeps wanting to work with these folks because they have no desire to work with him because they know that these things of success is for the American people and they're no -- they're not wanting to be a part of that. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "All right Congressman, we'll be watching the developments. Thanks so much for joining me this morning.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "It's always good to be with you Maria. Take care.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "And to you. Congressman Doug Collins there. President Trump is ramping up his attacks on the Democrats impeachment push this morning, now threatening to sue House party leaders. Reaction from the Counsel (ph) to the president, Kellyanne Conway, she's coming up next. Also ahead, Congressman Mark Meadows. And Mark Penn with his unique perspective on how the Joe Biden/Ukraine controversy is effecting the 2020 field. We're back in two minutes time. Stay with us. Welcome back. The president taking aim at the Democrats impeachment push this morning for a third straight evening last night; telling a gathering at the Values Voter's Summit last night in Washington that the Democrats are consumed by their quote, hate, to see him removed from office. That he's looking into suing Speaker Nancy Pelosi and Adam Schiff, Pelosi's point man in the House's impeachment inquiry. Watch. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "The radical left tolerates no descent (ph). It permits no opposition. It accepts no compromise. And -- look, we have all seen it, we see what's going on. There is no compromise. Frankly these people are crazy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Joining me right now is the counselor to the president, Kellyanne Conway. And Kellyanne, it's good to have you this morning. Thanks so much for being here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLYANNE CONWAY, COUNSELOR TO PRESIDENT DONALD TRUMP",
+      "sentences": "Good morning, Maria.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "I want to first get your reaction to the news of the morning, and that is the Wall Street Journal is reporting that Joe Biden's son, Hunter Biden plans to now step down from the board of a Chinese private equity firm.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Yes, well, he should have done this quite a while ago. In fact, he probably shouldn't have been on the board to begin with. He hitched a ride on Air Force Two with the vice president of the United States, also his father at that time, came back with sweetheart deals, and I am really disappointed in so many members of the mainstream media stretching their necks to defend Hunter Biden, saying -- and we must say that there's no -- there's no wrongdoing here, nothing illegal. Folks, this is what people hate about the swamp. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); } This is a part of how Donald Trump won in the first place, saying that we're going to get rid of these sweetheart deals, we're going to make sure that we clean up the -- the axis of power in a place like Washington, D.C., where someone like Hunter Biden can get a $50,000 a month retainer for a Ukrainian energy company when everybody knows that he doesn't have that skill set. And, Maria, I want to say a couple things. You know, Joe Biden's in big trouble. He's plummeting in the polls, he's desperate now, calling for the president's impeachment because he doesn't have a path to beat the president at the ballot box. If the Democrats thought that they could defeat Donald Trump a year from now at the ballot box, they will put all their energies behind that candidate, but they can't do that because they don't have it. They have to run against the Trump economy, the Trump deregulation, the fact that we are net exporters of oil and natural gas now, the fact that he's trying to bring peace and prosperity around the globe. And I think Joe Biden's got a bigger problem. He's now seen in the news as Hunter Biden's father, not as Barack Obama's vice president. And where -- people are saying where is Hunter? Fine. But where is President Obama? Why isn't he out there supporting the man who served as his vice president for eight years? Why isn't Biden on top of the polls just by saying I'm going to bring us back to the Obama years, give me eight more of the Obama years? He's in trouble, that's why he's calling for impeachment. And in the president's defense, when he said in the Ukrainian call, hey, people are talking about Biden and his son, they darn well were. The New York Times had an article on May 1, the Hill had one on April 1st, Fox News, CNN's John King talked about it on May 12, ABC June 20th. And may I tell everybody, three months ago the New Yorker had a scathing cover story, and in that cover story about Hunter Biden, it said could Hunter Biden's business dealings in the Ukraine and, quote, tumultuous personal life --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "-- damage his -- his -- his father's chance at the presidency. So people who were talking about it three months ago are in hiding now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "So why is he still the front-runner, Kellyanne? I mean, look, obviously it doesn't look right if he's the vice president and his son getting money from the Chinese while the vice president is doing official business with the Chinese. But Joe Biden, if you look at the polls, is still the front-runner in the 2020 election. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Well, barely. And I'm one of the people around the president who just -- who says, you know, prop him up, meaning let's keep Biden in there for a while, because Biden made a huge mistake. He could have had this running away had he announced the presidency by going to five states that Obama-Biden won and then Donald Trump and Mike Pence won. So Wisconsin, Pennsylvania, Ohio, Iowa, Michigan. He didn't do that. He sent out a videotape about things that have already been disproven. So he doesn't know what he's doing. He's -- he's zero -- oh for two, running for himself for president. But he's not my problem. The reason he's the front-runner is because the rest of the field are unabashed socialists. You've got -- you actually had Bernie Sanders insulting Elizabeth Warren this week. You know what she said, Maria? He said socialist Bernie Sanders insulted socialist Elizabeth Warren by saying she's actually a capitalist. He thinks that's an insult to the Democratic primary voters. But Biden obviously was -- he was leading by 20 or 30 points a couple months ago, now he's just hanging on there. A lot of national polls show Warren surging. But -- but look --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Do you think Warren will be the front-runner? Do you think it will be Trump-Warren in 2020?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Have no idea. I'm sure a couple of the hangers-on, a couple of the strap hangers who are third, fourth and fifth are going to hang in there a little bit longer and the media will say, look who's having a resurgence now. I do think it's funny that in a party that says we're woke and we're going to be transformational, they're not backing the African- American woman, they're not backing the African-American man, they're not - - they're not backing the gay man, the mayor, you know? We're going to have people who are different as our -- they could do that. Those are Democratic primary voters, and they've got the -- the three white people at the top of the polls. What I think is going on with impeachment, though, is an absolute disgrace. Adam Schiff loves to be in front of the cameras. It's his favorite place to be. And yet the one place he's not in front of the cameras is while he's leading an impeachment inquiry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "That's so curious to me. Why doesn't he come out in the open -- and I want Adam Schiff under oath every time he talks from now on, because he does what liars and cheaters do all the time when they don't have the facts on their side, they lie and they cheat. He lied to the American people, he has no credibility, 100 Republicans have called for his censure. They don't have faith that he can be impartial here, and neither do we. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Well we'll see. I mean, he has -- he said it was the in plain sight, the collusion between Donald Trump and the Russians --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Yes, he lied (ph).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "-- for two years. I want to switch gears and ask you about China. The markets rallied big on Friday --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "-- because the -- there was a sense that a deal was getting done. And the president tweeted on Saturday that an initial trade agreement was the greatest and biggest deal ever, citing wins for U.S. farms and billions in Boeing plane sales. Can this deal stand with the Chinese just buying more stuff from America? What about the intellectual property theft that the president had spoken so much about? And the forced transfer of technology? Do you feel that this initial deal gets a handle on those things?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "I do Maria, it's a huge first step and the president made clear that we're talking about such massive deals here with China that it has to come in different phases. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } So phase one does tackle the fact that $40 billion to $50 billion more for our farmers, the president said that he hoped that the farmers have enough tractors to sustain that, what will be incoming. It also -- it also tackled structural agricultural issues which are just as important. It may be something that's not necessarily within the (inaudible) the public every day. Also they started with the technology transfers -- the theft of intellectual property, those will come more in phase two. And the president looks forward to seeing President Xi at Chile soon, and the fact is that this is a big step forward because we haven't had a deal. They pulled out last-minute from the deal in April last spring. We've been negotiating and I think Ambassador Lighthizer and Secretary Mnuchin have also expressed great optimism about what happened on Monday and the markets liked it as well. This is also why they want to impeach the president because they can't argue with the fact that we finally have a president who brought China to the table in the first place --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yeah.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "He has said, we're tired of American workers, American industries getting screwed -- why do we have a half a trillion dollar trade deficit with the world's second largest economy in China?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Well there's also the human rights abuses. We're going to take a short break, I want to ask you about that and how important that is for any deal. Kellyanne Conway, on America's next steps in the Middle East as well. Then comes Mark Meadows and Mark Penn are here, back in a minute with Kellyanne Conway. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "And we are back with council to the president, Kellyanne Conway. And Kellyanne, you were telling us about phase one of a deal with China. When would we expect phase two?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Well, in due course. I mean, they still continue to negotiate, and Secretary Mnuchin, Ambassador Lighthizer and indeed the president himself have said that this is a long process. So this president takes the long view. He at least is the first president, obviously in modern times, to get China to the table in a serious way. And you see what's happening in the Chinese economy; you see the effect of the tariffs. This president is there for the farmers. And that's also another reason there, Maria, why the USMCA has to get passed in Congress. They're so busy trying to impeach a president who's been successful, economically and so many other ways, that they can't even put to a vote the USMCA, the trade deal with Mexico, Canada and the U.S., that when you have that along with what we've done with Japan, what we've done with Korea --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "-- what we're doing with China, really shows a president who has elevated the issue of trade from where it was for years, mired in single digits, if not an asterisk, in the national polls, to one of the most prominent issues of his presidency.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "So we'll continue to press China on the forced technology transfers and obviously intellectual property theft. We'll continue to get the great deal for the farmers. But Monday -- excuse me, Friday was a big step forward.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "And he looks forward to, also, President Xi making good on his promise to get fentanyl the heck out of our country. It's killing Americans, and that's important, too.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Kellyanne, what about the Middle East policy? There is a continued upset over the president's policies in Syria and the way that we've left our partners, the Kurds. There is a shifting position, even within Republicans, that the president's policy by pulling our troops out is worsening an already chaotic situation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Secretary Esper, a different show this morning, Maria, made clear that our first priority is the safety of our -- of our soldiers and that we felt like the situation was worsening. We've tried to remove them out of harm's way. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); } We have two competing interests here. Turkey is a NATO ally that we've put on notice, if they continue with this incursion, it could lead to a humanitarian crisis, the release of ISIS prisoners, which no one wants and most importantly for Turkey, a destruction of their economy. On Friday, Treasury Secretary Mnuchin announced new possible sanctions. He had to get the authorities in place, but at the moment the president commands the treasury secretary, he can go ahead and do maximum sanctions which, of course, would wreak great damage to the Turkish economy. Turkey's a NATO ally. The Kurds have been incredibly helpful in helping us to defeat ISIS. The ISIS Caliphate, the physical Caliphate, is destroyed. That continues. And at the same time, this president has made a commitment to not be in endless wars. The last two administrations kept us in the Middle East, a great expense of money, but most importantly, of lives. And he doesn't want to continue doing this. He's been very clear about that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Kellyanne, what is the president going to do in the face of all of this? He's trying to conduct business, and yet, the resistance is trying to stop him at every turn. Are you expecting him to try to sue Nancy Pelosi and Adam Schiff as he suggested last night?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Well, maybe he can. But I think most importantly, America is smart. Americans are smart and fair-minded, and they see what's happening here. You have Democrats and some of their friends in the mainstream media trying to undo an election result from three years ago and trying to, yes, I'll use the word, interfere in the next election. They're so worried about foreign governments interfering in our election. Why do we have people -- Democrats and some in the media in our own country interfering in the 2020 election by just trying to get in the president's way? But he doesn't want the resistance to up him. Look what he just did this week. He got a first phase in the deal with China.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "He did an amazing executive order on transparency. He's continuing to deregulate. He's trying to continue to bolster our economy. We had great economic numbers last week, even though the critics said otherwise. They -- two months ago, they were predicting a recession, Maria.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "So he will continue. He's ready to sign the USMCA. He's ready to do drug pricing. He's ready to do infrastructure. He's got 160 federal judges and counting on his watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "So no one stops him. I mean, the last couple days, he got home at 1:30 in the morning, two of the days, and then yesterday, went back out and gave a speech to a different group. He's working all the time. People see where he is. He gives a lot of availability to the public and to the press, so they know what he's thinking. And yet you've got the Democrats, what have they done. They voted impeachment a couple months ago, got 95 votes. The same day they voted -- they had a resolution to condemn a tweet. America, they work for you. They're wasting their time and your money. They were on recess for six weeks, came back for a few days to try to impeach a president and were gone for two more weeks. What are they doing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "What -- what a moment in time. What a moment in time. Kellyanne, thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Yes. But he'll continue to work. Thank you, Maria. Take care.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "All right. We will -- we will be watching. Kellyanne Conway there. And Democrats are in fact, ramping up their impeachment defensive by issuing subpoenas for Energy Secretary, Rick Perry. And for two indicted associates of Rudy Giuliani as they have no plans yet, to hold a vote on a formal impeachment inquiry. My next guest says hardened criminals have better protections than President Trump. Republican Congressman, Mark Meadows of North Carolina sits on the House Oversight Committee. Congressman, it's a pleasure to see you. Thanks very much for joining us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. MARK MEADOWS, R-N.C.",
+      "sentences": "Great to be back with you, Maria.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "First, your reaction to what's taken place in terms of the impeachment push. You heard what Doug Collins said. What are you going to do about it that it's all in secret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEADOWS",
+      "sentences": "Well, we need to bring it out and let the American people judge for themselves. You know I've now spent over 20 hours behind closed doors listening testimony. And if that testimony were to come out, you would realize that it would be exhibit A and exhibit B on -- on the exoneration of this president, but yet you know Adam Schiff wants to make sure he keeps it all in private. So what we have to do is continue to appeal to the American people. I -- I think an open and transparent process is really what we need. But this president has been faced with unrelenting, you know, just attacks each and every day. If they spent 1/10 of the energy trying to lower prescription drug prices, we'd see 30 percent reduction in prescription drug prices. But instead, they're constantly, each and every day, putting out a false narrative that are not supported by the facts.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Do you think that Nancy Pelosi will bring the USMCA to the floor for a vote?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEADOWS",
+      "sentences": "Well, if -- if it's all about the 2020 election, she will not do that. She will say that ultimately they can't give the president a win. I've talked to some of my Democrat colleagues and in the privacy of their caucus where they're getting together, each and every time that it's brought up that we need to do something that is good for the hardworking American tax payer, they say we can't give this a president a win. Now, you know, when you have that kind of attitude and that's coming from the Democratic caucus, certainly they're not going to vote on it because it would -- it would make the economy boom and it would re-elect this president, which by the way, he's going to be re-elected anyway.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "And -- and what about this impeachment inquiry. I mean the -- the -- the threat here is that the public really doesn't understand what's true and what isn't true. You've got a lot of noise around this impeachment inquiry. Is it the right process, maybe not. But it's continuing to be sort of taking all the oxygen out of the room.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEADOWS",
+      "sentences": "Well, if it's coming from Adam Schiff's mouth it's not true. Maria, you've followed this for a long time. You knew the whole Russia collusion hoax. You know that -- that evidence that was going to come out that was there available for everybody to see, well, you know we spent $30 million and -- and had a special prosecutor and yet they found no evidence. They're going to find the same thing here. But here's the problem is, impeachment is a -- is a much lower bar. It's a political process. So you don't even have to have the facts as long as you have 218 Democrats willing to vote for it. So we've got to clear it up and make sure it's transparent and make sure the American people are the -- the final judge and jury.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "I think this has a lot to do with what we are about to learn from John Doerr and Bill Barr. I want to take a short break and then come back and ask you Congressman Mark Meadows, what you're expecting from the I.G. report out this upcoming weekend as well as what you're expecting from those investigations that are active. Back in a moment with Mark Meadows and then Mark Penn. Stay with us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "And we are back with Republican Congressman Mark Meadows. And Congressman, we are looking forward to getting the Inspector General report out. My sources tell me it will be out on Friday the 18th. What is you expectation of what we'll learn?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEADOWS",
+      "sentences": "Well, based on the documents that we have provided, many of those documents to Inspector General Horowitz and his team, who, by the way, have spent an unbelievable amount of time doing just a very thorough research. We believe it will be a scathing rebuke on the FBI's FISA process. Not just the fourth and third FISA, but the whole FISA process. What they knew, when they knew it, and based on documents that I have seen, and I have not seen the I.G.'s report, but based on documents that I've seen that we provided to the I.G., there's a real question in terms of, did they turn a blind eye to flashing yellows and flashing red lights, and go on through it in the interest of trying to dig up dirt on this president? I believe they did. I think what you'll see is a strong recommendation at a minimum of changing the protocols as it relates to a FISA application process, because we know that they used unverified information, we knew that they used information that they had a high probability that it was actually made up and yet they continued to use it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Well, you would think that anybody from both sides of the aisle would be outraged that our intelligence agencies were using the tools that we used on terrorists to stop Donald Trump. And then even after he was elected, a duly elected president, to use those tools to try to take him down. I just wonder if we're going to see accountability. Do you believe we'll see prosecutions, indictments, for the people who actually inserted Donald Trump into the story of Russia meddling in the U.S.?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEADOWS",
+      "sentences": "Well, I can tell you, the American people that have been following this want accountability. They don't believe the FBI should have a different standard. Now, what normally comes out of an I.G.'s report is that they will make some recommendations to the Attorney General, sometimes criminal referrals. I do believe, based on what I've seen, that there are a few areas that should be criminally referred. And at the same time, whether there's indictments, that's going to be a question for the Attorney General, but I -- a lot of people out there are saying, we can't continue to allow wrongdoing to happen and no accountability. I know you hear it, I hear it, and hopefully at the end of the day justice will prevail.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes. Well, we already saw a criminal referral for Andrew McCabe. So, where -- that just -- what does that mean?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEADOWS",
+      "sentences": "Well, I mean, when you -- when you look at a criminal referral and when you look at possible indictments --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEADOWS",
+      "sentences": "-- obviously, they're looking at all the evidence. Sometimes they say, well we're going to wait for the rest of the story or the bigger part of the picture.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEADOWS",
+      "sentences": "I think what Americans say is, if there's wrongdoing they need to -- whether it's a small infraction or a large one, they need to be held accountable.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Congressman, you've done great work on this, we so appreciate it, and thanks for joining us this morning. Thank you Congressman.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEADOWS",
+      "sentences": "Thank you Maria.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "We'll see you soon. Mark Meadows. Meanwhile, Hunter Biden issuing his first public response to President Trump's attacks on his work in Ukraine. As the \"Wall Street Journal\" is reporting this morning, young Biden is planning to step down from the board of a Chinese private equity firm. I'll get new reaction from Bill Clinton's former Chief Campaign Strategist, Mark Penn, on the evolving controversy that could have big repercussions in 2020. Back in a minute with that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Welcome back, the Ukraine controversy still looming large over both the Trump and Biden campaigns. The president of course facing an impeachment inquiry for asking Ukraine to investigate Hunter Biden's role on the board of a gas company there. Hunter Biden today issuing his first public response for the controversy. This morning saying that his work in Ukraine focused on corporate transparency and governance. He also said he would not work for any foreign owned companies if his father wins the White House, and today he is announcing that he will step down off (ph) the board of the private equity firm that is backed by the Chinese government. Joining us right now is Mark Penn, he is the President of the Stagwell Group, the Chief Strategist on Bill Clinton's 1996 presidential campaign as well as Hillary Clinton's 2008 presidential campaign. Mark, it's great to see you this morning, thanks so much for being here. MARK PENN, 1996 CLINTON CAMPAIGN STRATEGIST: Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Your reaction to all this news this morning in terms of Hunter Biden stepping down, and its impact on 2020?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENN",
+      "sentences": "Well, a bit late to really clear everything up. I think I'm glad that he's done that. I think at a certain point he is going to kind of go through exactly what did and did not happen here. I do think the American public wants to know about everything that everybody did here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "So assess the field for us, Mark, in terms of 2020, where are we now? Do you think Elizabeth Warren is going to be the frontrunner?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENN",
+      "sentences": "Well I wouldn't count Joe Biden out yet --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENN",
+      "sentences": "I think he continues to, I think be the frontrunner in national polls -- I think he's got more problems in Iowa and New Hampshire. I think Elizabeth Warren has shown more momentum than any other candidate. But really, people are in the 20s and 30s. No one is a clear front-runner in this race today, and no one should be counted out either.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "When you were doing the strategy for Bill Clinton, you said -- you were the architect of that strategy, and you said, look, do the job of president, let the lawyers and P.R. folks fight impeachment. That's not what President Trump is doing. Assess that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENN",
+      "sentences": "Well, yes, I was one of the architects of a strategy that when the president was asked, he would say, look, I'm here today to talk about education. And you know what, the American people want the president doing his or her job. That's the most important thing. Rather than be your own attorney and rather than prosecute the case against the Democrats and increase partisanship, our strategy then was for the president to stick to his job, and I think that's a much better strategy. That's what the American public wants to see in response to all these investigations and charges and countercharges.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "How -- how's it impacting the president's chances for re- election?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENN",
+      "sentences": "Well, I -- I -- I think the president's job rating has held up in all of the polls, so I think most people are seeing this as a partisan political fight --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENN",
+      "sentences": "-- at --at this point, regardless of the fact they'd like to see things investigated. Look, right now the American public, a majority don't like the president, a majority don't like the Democrats, and a majority don't like the Republicans. So you've got to understand, the more they --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes, there you go.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENN",
+      "sentences": "-- the more that Washington looks this way, in a time of record prosperity --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENN",
+      "sentences": "-- you've -- you have such a sour mood. And that makes for an electorate that's going to be highly volatile.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "Any thoughts ahead of Tuesday's big debate? The Democratic is Tuesday night. Real quick, Mark.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENN",
+      "sentences": "I think it's going to be fascinating. Will Democrats really surround Joe Biden against these charges? Will Tulsi Gabbard attack the New York Times, and will people turn on Warren, because she's the front- runner? Those are the three things I'd be looking for.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "It's great to talk with you always, Mark. You have such a finger on all of this. Thanks for joining me. Mark Penn there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENN",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARTIROMO",
+      "sentences": "And thank you so much for watching this morning. I'll see you tomorrow morning on “Mornings With Maria” over on the Fox Business Network. Have a great rest of your Sunday, everybody. Thanks. Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARIA BARTIROMO, HOST",
+      "utterance": "Good Sunday morning, everyone, thanks so much for joining me. I'm Maria Bartiromo. This morning, joining me exclusively straight ahead, right here on “Sunday Morning Futures,” Kellyanne Conway, the counselor to president on House Democrats intensifying their impeachment push. Plus the very latest on a potential trade deal with China this morning, and America's next steps in the Middle East. Also ahead, two influential Republican lawmakers are here, House Judiciary Ranking Member Doug Collins along with Congressman Mark Meadows on whether the Democrats are being transparent enough about what's behind their impeachment inquiry into President Trump. Plus, Mark Penn is here. He's involved -- has been involved in both Bill and Hillary Clinton's presidential campaigns. His unique perspective on how the Joe Biden Ukraine controversy is affecting the 2020 field, as the Wall Street Journal is reporting this morning that Hunter Biden plans to resign from the board of a Chinese private equity firm. All those stories and a lot more right here right now on “Sunday Morning Futures.” And we begin this morning with President Trump. He is firing back at House Democrats as they accelerate their impeachment push with a flurry of new subpoenas seeking testimony from Energy Secretary Rick Perry and the two indicted associates of President Trump's personal attorney, Rudy Giuliani. The president reacting at the Values Voter Summit last night in our nation's capital."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "utterance": "Now it is the outrageous impeaching. Look, impeachment. I never thought the I'd see or hear that word with regard to me. Impeachment. It's a witch hunt. It's based on a single phone call of congratulations to the president of Ukraine, which they fraudulently mischaracterized to sound absolutely horrible."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Meanwhile, Democratic front-runner Joe Biden is now voicing his full support for impeachment, saying that President Trump has left Congress with no other choice. FORMER VICE PRESIDENT JOE BIDEN, D-2020 PRESIDENTIAL CANDIDATE: Donald Trump has violated his oath of office, betrayed this nation and committed impeachable acts. To preserve our Constitution, our democracy, our basic (ph) (inaudible)."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Joining me right now is Georgia Congressman Doug Collins. He's the ranking Republican on the House Judiciary Committee. And Congressman, it's always a pleasure to see you. Thanks so much for being here."
+    },
+    {
+      "speaker": "REP. DOUG COLLINS, R-GA",
+      "utterance": "Good morning, Maria. It's good to be with you."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "I want to get to the impeachment push in a moment but first, let me get your reaction to this breaking news this morning. The Wall Street Journal is reporting that Hunter Biden, Joe Biden's son, has pledged to resign from this private equity firm that he is on the board of on October 31st, and he says he will not work on any foreign-owned companies or serve on their boards if his father is elected president. This just coming out now. We know that there has been so much around this story, but now Hunter Biden says he will step down. Your reaction."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "Well, it's pretty amazing now that Hunter Biden, after the -- you know, the light has been shined onto what seemingly is some interesting deals that were in Ukraine and China and other places, now you're going to come out and say, well, I'll step away from all of this because it might seem to be a conflict with my father, if he ever becomes president, which I think is a big leap of faith here to -- to start that. This just shows you how much this is just a messed up situation and how much that there were other things going on and all the Democrats want to do is focus on President Trump because they don't like President Trump because of everything going on. I think this is just another way to save a flailing campaign that's going down, he knows he's in trouble, and this is just another way to -- to try and detract attention."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Now, we know that there have already been three testimonies behind closed doors as part of this impeachment push, another one on Friday. Some of it leaked down and then others -- other things from that cannot be leaked or discussed. Tell me what you've learned so far from these behind closed doors testimonies and this impeachment inquiry."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "Well I think to first understand the closed door testimony -- let's -- let's at least go back and remember a few points. Number one -- November 2016 began the impeachment push for the Democrats, because they cried in Brooklyn, they haven't got over it yet. So number one. Number two -- when gained control of the Congress last year, instead of being truthful to the American people about wanting to do something for the American people, all they said was we're going to impeach the president. Jerry Nadler wanted to be chairman of the Judiciary because he's going to impeach the president. Number three, when the impeachment hit in January, all Jerry Nadler's focus and the chairman of the Judiciary Committee was let's have investigations. Mueller was going to show it -- everything was going to show that the president needed to be impeached. We felt back (ph), it failed. Now you go to -- Miss -- Speaker Pelosi and Adam Schiff had to say we're got a failing plan here, we promised the Democratic base that we would impeach the president, and so far we can't do it, in fact, we've shown that he's done nothing wrong except have a great economy and a great standing around the world. So here's what they did, Maria -- and the viewers need to know this. They said we can't win this in the public eye, so we're going to take it behind closed doors. And so in the last few days, they have taken it behind closed doors, Adam Schiff, who has trouble telling the truth, much less spelling it, but he's a very good leaker. Let's -- let's be honest about what he is good at. He's a good leaker. So what they did is take it behind closed doors, have testimony that I have heard from folks who were in the room that said these transcripts should be released completely because the defeat the entire narrative. But as long as he can keep it behind closed doors then they leak out to the American people only what they want to leak out and this is why you have seen this progression at this point. The president has done nothing wrong, as he has said and has come out in the transcripts. And by the way, if you don't believe it just ask the Ukrainian president who said, I felt no pressure this was simply a discussion of what's going on in our two countries. Maria, this is a sham of what's going on right now."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Well last week we had on Congressman John Ratcliffe, and Congressman Ratcliffe mentioned three reasons that this seems to be questionable. Number one was that typically in any impeachment it -- the jurisdiction for impeachment is the Judiciary Committee. It's not happening in the Judiciary Committee which Nadler runs, it's actually in the Intel Committee. Number two it is all happening behind closed doors. We don't know what anybody said -- on Friday you had another testimony from Marie Yovanovich - - she's the former Ambassador to Ukraine. Her opening statement leaks (ph), but then everything else as part of that is behind closed doors. And now they're calling him a fact witness. John Ratcliffe called him, Adam Schiff, a fact witness because of course he did meet with the so- called whistleblower before the complaint was public."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "John's exactly right. Here's an interesting thing (ph) -- Adam Schiff is so deeply involved in this -- this is a man who once said there's collusion in plain sight, we'll do whatever we want to do. You know, because the president needs to be impeached and we've got the proof. And he's been saying this for well over two years that this president was someone needed to be impeached. But notice what you just said there, he's a fact witness in that his staff and others met with the whistleblower before this came out. The president then released the transcript of the call and everybody said OK where's the \"their\" (ph) there because there's not a \"their\" there. And yet, they had helped put this out -- in fact, many reporters said if you look at the whistleblower complaint it was laid out in a way in which Adam Schiff could then to go to committee and start talk about this -- and then keep it behind closed doors to only get out what they want to get out. But it's not just the Judiciary Committee that's been left out here, the Foreign Affairs Committee has been left out here as well. Speaker Pelosi knew that Adam Schiff would do whatever she wanted him to do. He's done it for years, he's doing it now and the American people are the one that'll (ph) suffer here. If they want to overturn a 2016 election then I would recommend get in the field, have a candidate who knew where some of these states were to actually go campaign and do that in 2020. You don't turn over an election based on the fact that you hate a president who got elected, who beat the person you thought was going to elected. And then, by the way he also put in trade -- he's working on trade deals, we have an economy. They can't beat him on the facts, so they're going to beat him on the lies."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "But what are you going to do about it? I mean, your colleagues on the left are in control, they are in the majority. We -- the American people are wondering what's going on in terms of this impeachment inquiry? We don't see any transcripts, we can't hear any of these hearings -- are you just going to -- and then, by the way no one's getting anything done, you're supposed to pass USMCA, you're supposed to get trade deals done as well as perhaps gun legislation infrastructure. So what are you going to do about it?"
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "Well if anybody's watched me over the last nine months in particular, I don't sit back and take it -- that's why I'm on here with you this morning, that's why we've been talking about the story. If Adam Schiff wants to have it behind closed doors, my job is to pick the lock. Mine is to open it up and say, look at what has actually been happening here. Look at the lies that have been told, look at the hearings that have been had and nothing has came from it. And now, because you don't like the results you take it behind closed doors. Here's what we're going to keep (ph) doing, we're going to keep putting this out, we're going to work to get these transcripts released -- but also the Senate in the next couple weeks is hopefully going to be able to begin looking at other things as well, especially the Horowitz report which should be coming out in the next little bit. These are the kind of things Maria that viewers have to understand. When they look at Washington, D.C. what they're getting right now is a one-sided approach to an impeachment because Democrats know they can't win on the facts so they're having to move it behind closed doors, so those of us like myself are going to keep going forward. I believe that sunshine is the disinfectant. Right now Adam Schiff don't want to have disinfectant anywhere close to what he's doing."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Congressman, stay with us -- we want to put some sunshine on the IG report that is coming out in a week. We want to talk to you about that and the origins of the Russia probe. I've got more with Congressman Doug Collins straight ahead. Also, counsel to the president Kellyanne Conway and and Congressman Mark Meadows is coming up. Follow me on Twitter @MariaBartiromo @SundayFeatures and on Instagram @SundayFeatures @ MariaBartiromo. Stay with us, we've got a big show this morning -- we're looking ahead on \"Sunday Morning Futures.\""
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Welcome back. And we are back with the Ranking Republican on the House Judiciary Committee, Congressman Georgia, Congressman Doug Collins. Congressman, I want to get your take on the I.G. report. I have reported last week on Fox Business, I reported that I'm hearing the I.G. report will be out this upcoming Friday, October 18. And my sources say it's as thick as a telephone book, more than just FISA abuse. Can you give us any sense of what you're expecting out of this Inspector General report, which is forth coming?"
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "Well, we're expecting it to show exactly what we've been concerned about for a long time. That there was issues at the Department of Justice, especially dealing with the FISA court. And you know, Maria, how I actually know this? I start looking at the ones that should be the most concern because one of the things I did (ph) mention a few minutes ago is the Democrats wanted nothing to do with any investigation to the really issues of collusion and corruption. It was part of the 2016 campaign, which is the Democratic National Committee and (inaudible) and Fusion GPS and all of these parties that came together to try and deny Donald Trump from becoming president. And they never wanted any part of that. And they're not wanting a part now and you see it when you see Brennan and you see McCabe and you see some of these really ramping up the I'm innocent phase of their life when they go on T.V. and talk about this is not really happening. But the best one is when Mr. Comey, the one who has the trouble with the truth, who has a Superman syndrome is out there saying oh I wish that this would just go away. But then he reveals himself and he says all I want to do is get rid of this president. This report is going to show what happened in that time frame, and I believe from what we're seeing from their reaction, it's not going to be very good. My only question is will the Democrats have an integrity bone in their body to actually -- Jerry Nadler to call Mr. Horowitz to our committee to have to answer about this report."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes, last week -- well, last weekend on this program we had George Papadopoulos on the program. And we had been following this, obviously, for the last couple of years and we've put together this timeline of really what looks like entrapment of Papadopoulos, given the fact that he got all of this outreach from these internationalist, quote -- quote/unquote, ambassadors and -- and people who invited him to conferences like Steven Halper or Alexander Downer from Australia or Joseph Mifsud. Now on the Joseph Mifsud situation, this was the individual who dropped the news on George Papadopoulos that Russia had Hillary Clinton's emails and he said -- and another of these internationalist said to him well, this is great news for you and Donald Trump that you've got this -- these emails and he said I would never do that, that's treason. And that transcript, that conversation was transcribed, because he was an informant, the guy who said that to him, and that was not given to the FISA Court. So, many people have come on this program, Trey Gowdy included, John Ratcliffe, to say that that was exculpatory evidence that was not given to the FISA Court. Is that something that you are going to be looking for in this upcoming report on Friday?"
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "That's the first of many things. I think what we've we got to understand here is, you have a court that meets in secret, that is integral that they have a position which they receive all the information, especially when you're dealing with an American citizen. And, if there is being withheld exculpatory material, then it just goes to the -- to the position that I've said all along, that the corrupt cabal of McCabe, and Comey, and Strzock, and Page, and all these folk, have really had a mindset of, they came off of an e-mail investigation with Hillary Clinton, went right into, let's see if we can investigate this president, because we don't like who this president may be. And at that time he was still a candidate. And we're seeing this build up, and build up, and build up. So, I think this report is going to show -- even Comey himself said that the dossier was salacious and unverified. Well then why would he actually go out there and verify that before a FISA Court? Why do we then come in finding out later that Mr. Durham now is enlarging his investigation to other areas all the way into spring of 2017 --"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "-- when we have the Special Counsel name. When we're also beginning to have doubts of Mr. Mueller's truthfulness in what he was actually looking for and how much Rosenstein was actually a part of McCabe? This whole deal, the McCabe memo, shows that there were actually discussions of wearing a wire to the White House. Maria, this is something that everybody needs to be concerned about, I don't care what Party affiliation you have. If you are an American, you need to make sure that we actually find out, did our Department of Justice turn on us and then these questions are going to be answered. And I believe this is what you're going to see, starting with this Inspector General."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes. And as our timeline correctly points out, Mifsud telling -- telling George Papadopoulos about the -- about the e-mails that Russia had happened in April of 2016. That was way before the FBI said that they started an investigation. That was March and April in 2016, was when -- when he first got that information. Also, this $10,000 in cash that was dropped in his lap from another information. They said, oh, we want to do business with you, here's $10,000 in cash. Again, they were using -- I mean, if this is -- comes to light, in this I.G. report and Bill Barr's investigation and John Durham's investigation, they were actually using the tools that this country uses on terrorists, that's informants, wire tapping. These are the tools that this country uses on terrorists and they were using it to entrap Donald Trump's campaign if this is true. And this is what everything we've learned so far leads me to believe."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "Well, unlike the Democrats, I actually believe that let's let the facts come out. And I think what we're seeing here, is let's remember, Maria, everything you just talked about, let's look at the timeframe here, that was under the Obama/Biden Administration. That was under the previous Administration. When the collusion and the work from Russian operatives, when we had this dossier coming out, which was paid for by the DNC, this was under the watch of President Obama. I'm sort of tired of being lectured by the former president, about how he was in charge and how they would never had done this on a world stage, but yet, it was under his watch that this was the election interference from Russia actually happened. Let's just put this all in perspective, the I.G.'s report going to show what it's going to show, and I believe it's going to have a lot more that most people are aware of, because you're seeing the players who have been involved in it squirming on stage and we'll see how that comes out. You have a John Durham who is actually looking into this from possible charges as we go forward, but all at the same point, while all of this is starting to come out, the Democrats realize that in the light of day, they couldn't find anything to impeach President Trump on, so now they're going behind closed doors and they're just believing that the American public is not smart enough to realize what they're doing. That they can just leak out what they want to and influence this next election cycle. Never forget, this is not about a Ukrainian phone call, this is not about anything else, this is about the 2016 election that was failure and the 2020 election that is almost a year away."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Wow. So, can you do anything, being in the minority? Can Lindsey Graham, as the Chairman of the -- of the Senate Judiciary, with subpoena power, can he do anything? What -- what can you do to push back on this?"
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "Well, number one, like I said, I -- I -- it's amazing to me that my Chairman would like to have just very partisan hearings that go nowhere, and simply are for show in the House Judiciary Committee. But Lindsey Graham is the Chairman of the House over the Senate Judiciary Committee, and he's already said that he will have Mr. Horowitz there. I can't wait to see this report come out to see this. Now remember, this is not going to be a report like the Mueller Report, it's going to be -- there's a lot of probably classified information, but there's a lot of public information, because we're dealing with a very intelligence community and very secretive issues that we have to the report (ph) on national security. So, I think everybody just needs to be aware, sit back, let the facts come."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "Unlike the Democrats, who want to change the facts, let the facts come to us."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "And by the way, you're not getting anything done in the meantime, right? Anything else done?"
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "No."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "I mean, we've talked about a prescription drug plan, we've talked about gun legislation, we've talked about, obviously, USMCA. Is that ever going to come to the floor do you think?"
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "No. And here's the interesting part about it, think about this Maria, the president himself has reached out on transportation. The president himself has reached out on prescription drugs. The president himself has reached out on trade. The president himself did criminal justice reform last year, a bill that I helped write. There are the kinds of things this president who's reached out and every time he reaches a hand out, the Democrats now in majority, bit it. It's amazing he keeps wanting to work with these folks because they have no desire to work with him because they know that these things of success is for the American people and they're no -- they're not wanting to be a part of that."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "All right Congressman, we'll be watching the developments. Thanks so much for joining me this morning."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "It's always good to be with you Maria. Take care."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "And to you. Congressman Doug Collins there. President Trump is ramping up his attacks on the Democrats impeachment push this morning, now threatening to sue House party leaders. Reaction from the Counsel (ph) to the president, Kellyanne Conway, she's coming up next. Also ahead, Congressman Mark Meadows. And Mark Penn with his unique perspective on how the Joe Biden/Ukraine controversy is effecting the 2020 field. We're back in two minutes time. Stay with us. Welcome back. The president taking aim at the Democrats impeachment push this morning for a third straight evening last night; telling a gathering at the Values Voter's Summit last night in Washington that the Democrats are consumed by their quote, hate, to see him removed from office. That he's looking into suing Speaker Nancy Pelosi and Adam Schiff, Pelosi's point man in the House's impeachment inquiry. Watch."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "The radical left tolerates no descent (ph). It permits no opposition. It accepts no compromise. And -- look, we have all seen it, we see what's going on. There is no compromise. Frankly these people are crazy."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Joining me right now is the counselor to the president, Kellyanne Conway. And Kellyanne, it's good to have you this morning. Thanks so much for being here."
+    },
+    {
+      "speaker": "KELLYANNE CONWAY, COUNSELOR TO PRESIDENT DONALD TRUMP",
+      "utterance": "Good morning, Maria."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "I want to first get your reaction to the news of the morning, and that is the Wall Street Journal is reporting that Joe Biden's son, Hunter Biden plans to now step down from the board of a Chinese private equity firm."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Yes, well, he should have done this quite a while ago. In fact, he probably shouldn't have been on the board to begin with. He hitched a ride on Air Force Two with the vice president of the United States, also his father at that time, came back with sweetheart deals, and I am really disappointed in so many members of the mainstream media stretching their necks to defend Hunter Biden, saying -- and we must say that there's no -- there's no wrongdoing here, nothing illegal. Folks, this is what people hate about the swamp. This is a part of how Donald Trump won in the first place, saying that we're going to get rid of these sweetheart deals, we're going to make sure that we clean up the -- the axis of power in a place like Washington, D.C., where someone like Hunter Biden can get a $50,000 a month retainer for a Ukrainian energy company when everybody knows that he doesn't have that skill set. And, Maria, I want to say a couple things. You know, Joe Biden's in big trouble. He's plummeting in the polls, he's desperate now, calling for the president's impeachment because he doesn't have a path to beat the president at the ballot box. If the Democrats thought that they could defeat Donald Trump a year from now at the ballot box, they will put all their energies behind that candidate, but they can't do that because they don't have it. They have to run against the Trump economy, the Trump deregulation, the fact that we are net exporters of oil and natural gas now, the fact that he's trying to bring peace and prosperity around the globe. And I think Joe Biden's got a bigger problem. He's now seen in the news as Hunter Biden's father, not as Barack Obama's vice president. And where -- people are saying where is Hunter? Fine. But where is President Obama? Why isn't he out there supporting the man who served as his vice president for eight years? Why isn't Biden on top of the polls just by saying I'm going to bring us back to the Obama years, give me eight more of the Obama years? He's in trouble, that's why he's calling for impeachment. And in the president's defense, when he said in the Ukrainian call, hey, people are talking about Biden and his son, they darn well were. The New York Times had an article on May 1, the Hill had one on April 1st, Fox News, CNN's John King talked about it on May 12, ABC June 20th. And may I tell everybody, three months ago the New Yorker had a scathing cover story, and in that cover story about Hunter Biden, it said could Hunter Biden's business dealings in the Ukraine and, quote, tumultuous personal life --"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "-- damage his -- his -- his father's chance at the presidency. So people who were talking about it three months ago are in hiding now."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "So why is he still the front-runner, Kellyanne? I mean, look, obviously it doesn't look right if he's the vice president and his son getting money from the Chinese while the vice president is doing official business with the Chinese. But Joe Biden, if you look at the polls, is still the front-runner in the 2020 election."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Well, barely. And I'm one of the people around the president who just -- who says, you know, prop him up, meaning let's keep Biden in there for a while, because Biden made a huge mistake. He could have had this running away had he announced the presidency by going to five states that Obama-Biden won and then Donald Trump and Mike Pence won. So Wisconsin, Pennsylvania, Ohio, Iowa, Michigan. He didn't do that. He sent out a videotape about things that have already been disproven. So he doesn't know what he's doing. He's -- he's zero -- oh for two, running for himself for president. But he's not my problem. The reason he's the front-runner is because the rest of the field are unabashed socialists. You've got -- you actually had Bernie Sanders insulting Elizabeth Warren this week. You know what she said, Maria? He said socialist Bernie Sanders insulted socialist Elizabeth Warren by saying she's actually a capitalist. He thinks that's an insult to the Democratic primary voters. But Biden obviously was -- he was leading by 20 or 30 points a couple months ago, now he's just hanging on there. A lot of national polls show Warren surging. But -- but look --"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Do you think Warren will be the front-runner? Do you think it will be Trump-Warren in 2020?"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Have no idea. I'm sure a couple of the hangers-on, a couple of the strap hangers who are third, fourth and fifth are going to hang in there a little bit longer and the media will say, look who's having a resurgence now. I do think it's funny that in a party that says we're woke and we're going to be transformational, they're not backing the African- American woman, they're not backing the African-American man, they're not - - they're not backing the gay man, the mayor, you know? We're going to have people who are different as our -- they could do that. Those are Democratic primary voters, and they've got the -- the three white people at the top of the polls. What I think is going on with impeachment, though, is an absolute disgrace. Adam Schiff loves to be in front of the cameras. It's his favorite place to be. And yet the one place he's not in front of the cameras is while he's leading an impeachment inquiry."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "That's so curious to me. Why doesn't he come out in the open -- and I want Adam Schiff under oath every time he talks from now on, because he does what liars and cheaters do all the time when they don't have the facts on their side, they lie and they cheat. He lied to the American people, he has no credibility, 100 Republicans have called for his censure. They don't have faith that he can be impartial here, and neither do we."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Well we'll see. I mean, he has -- he said it was the in plain sight, the collusion between Donald Trump and the Russians --"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Yes, he lied (ph)."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "-- for two years. I want to switch gears and ask you about China. The markets rallied big on Friday --"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "-- because the -- there was a sense that a deal was getting done. And the president tweeted on Saturday that an initial trade agreement was the greatest and biggest deal ever, citing wins for U.S. farms and billions in Boeing plane sales. Can this deal stand with the Chinese just buying more stuff from America? What about the intellectual property theft that the president had spoken so much about? And the forced transfer of technology? Do you feel that this initial deal gets a handle on those things?"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "I do Maria, it's a huge first step and the president made clear that we're talking about such massive deals here with China that it has to come in different phases. So phase one does tackle the fact that $40 billion to $50 billion more for our farmers, the president said that he hoped that the farmers have enough tractors to sustain that, what will be incoming. It also -- it also tackled structural agricultural issues which are just as important. It may be something that's not necessarily within the (inaudible) the public every day. Also they started with the technology transfers -- the theft of intellectual property, those will come more in phase two. And the president looks forward to seeing President Xi at Chile soon, and the fact is that this is a big step forward because we haven't had a deal. They pulled out last-minute from the deal in April last spring. We've been negotiating and I think Ambassador Lighthizer and Secretary Mnuchin have also expressed great optimism about what happened on Monday and the markets liked it as well. This is also why they want to impeach the president because they can't argue with the fact that we finally have a president who brought China to the table in the first place --"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yeah."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "He has said, we're tired of American workers, American industries getting screwed -- why do we have a half a trillion dollar trade deficit with the world's second largest economy in China?"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Well there's also the human rights abuses. We're going to take a short break, I want to ask you about that and how important that is for any deal. Kellyanne Conway, on America's next steps in the Middle East as well. Then comes Mark Meadows and Mark Penn are here, back in a minute with Kellyanne Conway."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "And we are back with council to the president, Kellyanne Conway. And Kellyanne, you were telling us about phase one of a deal with China. When would we expect phase two?"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Well, in due course. I mean, they still continue to negotiate, and Secretary Mnuchin, Ambassador Lighthizer and indeed the president himself have said that this is a long process. So this president takes the long view. He at least is the first president, obviously in modern times, to get China to the table in a serious way. And you see what's happening in the Chinese economy; you see the effect of the tariffs. This president is there for the farmers. And that's also another reason there, Maria, why the USMCA has to get passed in Congress. They're so busy trying to impeach a president who's been successful, economically and so many other ways, that they can't even put to a vote the USMCA, the trade deal with Mexico, Canada and the U.S., that when you have that along with what we've done with Japan, what we've done with Korea --"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "-- what we're doing with China, really shows a president who has elevated the issue of trade from where it was for years, mired in single digits, if not an asterisk, in the national polls, to one of the most prominent issues of his presidency."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "So we'll continue to press China on the forced technology transfers and obviously intellectual property theft. We'll continue to get the great deal for the farmers. But Monday -- excuse me, Friday was a big step forward."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "And he looks forward to, also, President Xi making good on his promise to get fentanyl the heck out of our country. It's killing Americans, and that's important, too."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Kellyanne, what about the Middle East policy? There is a continued upset over the president's policies in Syria and the way that we've left our partners, the Kurds. There is a shifting position, even within Republicans, that the president's policy by pulling our troops out is worsening an already chaotic situation."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Secretary Esper, a different show this morning, Maria, made clear that our first priority is the safety of our -- of our soldiers and that we felt like the situation was worsening. We've tried to remove them out of harm's way. We have two competing interests here. Turkey is a NATO ally that we've put on notice, if they continue with this incursion, it could lead to a humanitarian crisis, the release of ISIS prisoners, which no one wants and most importantly for Turkey, a destruction of their economy. On Friday, Treasury Secretary Mnuchin announced new possible sanctions. He had to get the authorities in place, but at the moment the president commands the treasury secretary, he can go ahead and do maximum sanctions which, of course, would wreak great damage to the Turkish economy. Turkey's a NATO ally. The Kurds have been incredibly helpful in helping us to defeat ISIS. The ISIS Caliphate, the physical Caliphate, is destroyed. That continues. And at the same time, this president has made a commitment to not be in endless wars. The last two administrations kept us in the Middle East, a great expense of money, but most importantly, of lives. And he doesn't want to continue doing this. He's been very clear about that."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Kellyanne, what is the president going to do in the face of all of this? He's trying to conduct business, and yet, the resistance is trying to stop him at every turn. Are you expecting him to try to sue Nancy Pelosi and Adam Schiff as he suggested last night?"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Well, maybe he can. But I think most importantly, America is smart. Americans are smart and fair-minded, and they see what's happening here. You have Democrats and some of their friends in the mainstream media trying to undo an election result from three years ago and trying to, yes, I'll use the word, interfere in the next election. They're so worried about foreign governments interfering in our election. Why do we have people -- Democrats and some in the media in our own country interfering in the 2020 election by just trying to get in the president's way? But he doesn't want the resistance to up him. Look what he just did this week. He got a first phase in the deal with China."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "He did an amazing executive order on transparency. He's continuing to deregulate. He's trying to continue to bolster our economy. We had great economic numbers last week, even though the critics said otherwise. They -- two months ago, they were predicting a recession, Maria."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "So he will continue. He's ready to sign the USMCA. He's ready to do drug pricing. He's ready to do infrastructure. He's got 160 federal judges and counting on his watch."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "So no one stops him. I mean, the last couple days, he got home at 1:30 in the morning, two of the days, and then yesterday, went back out and gave a speech to a different group. He's working all the time. People see where he is. He gives a lot of availability to the public and to the press, so they know what he's thinking. And yet you've got the Democrats, what have they done. They voted impeachment a couple months ago, got 95 votes. The same day they voted -- they had a resolution to condemn a tweet. America, they work for you. They're wasting their time and your money. They were on recess for six weeks, came back for a few days to try to impeach a president and were gone for two more weeks. What are they doing."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "What -- what a moment in time. What a moment in time. Kellyanne, thank you."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Yes. But he'll continue to work. Thank you, Maria. Take care."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "All right. We will -- we will be watching. Kellyanne Conway there. And Democrats are in fact, ramping up their impeachment defensive by issuing subpoenas for Energy Secretary, Rick Perry. And for two indicted associates of Rudy Giuliani as they have no plans yet, to hold a vote on a formal impeachment inquiry. My next guest says hardened criminals have better protections than President Trump. Republican Congressman, Mark Meadows of North Carolina sits on the House Oversight Committee. Congressman, it's a pleasure to see you. Thanks very much for joining us."
+    },
+    {
+      "speaker": "REP. MARK MEADOWS, R-N.C.",
+      "utterance": "Great to be back with you, Maria."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "First, your reaction to what's taken place in terms of the impeachment push. You heard what Doug Collins said. What are you going to do about it that it's all in secret?"
+    },
+    {
+      "speaker": "MEADOWS",
+      "utterance": "Well, we need to bring it out and let the American people judge for themselves. You know I've now spent over 20 hours behind closed doors listening testimony. And if that testimony were to come out, you would realize that it would be exhibit A and exhibit B on -- on the exoneration of this president, but yet you know Adam Schiff wants to make sure he keeps it all in private. So what we have to do is continue to appeal to the American people. I -- I think an open and transparent process is really what we need. But this president has been faced with unrelenting, you know, just attacks each and every day. If they spent 1/10 of the energy trying to lower prescription drug prices, we'd see 30 percent reduction in prescription drug prices. But instead, they're constantly, each and every day, putting out a false narrative that are not supported by the facts."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Do you think that Nancy Pelosi will bring the USMCA to the floor for a vote?"
+    },
+    {
+      "speaker": "MEADOWS",
+      "utterance": "Well, if -- if it's all about the 2020 election, she will not do that. She will say that ultimately they can't give the president a win. I've talked to some of my Democrat colleagues and in the privacy of their caucus where they're getting together, each and every time that it's brought up that we need to do something that is good for the hardworking American tax payer, they say we can't give this a president a win. Now, you know, when you have that kind of attitude and that's coming from the Democratic caucus, certainly they're not going to vote on it because it would -- it would make the economy boom and it would re-elect this president, which by the way, he's going to be re-elected anyway."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "And -- and what about this impeachment inquiry. I mean the -- the -- the threat here is that the public really doesn't understand what's true and what isn't true. You've got a lot of noise around this impeachment inquiry. Is it the right process, maybe not. But it's continuing to be sort of taking all the oxygen out of the room."
+    },
+    {
+      "speaker": "MEADOWS",
+      "utterance": "Well, if it's coming from Adam Schiff's mouth it's not true. Maria, you've followed this for a long time. You knew the whole Russia collusion hoax. You know that -- that evidence that was going to come out that was there available for everybody to see, well, you know we spent $30 million and -- and had a special prosecutor and yet they found no evidence. They're going to find the same thing here. But here's the problem is, impeachment is a -- is a much lower bar. It's a political process. So you don't even have to have the facts as long as you have 218 Democrats willing to vote for it. So we've got to clear it up and make sure it's transparent and make sure the American people are the -- the final judge and jury."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "I think this has a lot to do with what we are about to learn from John Doerr and Bill Barr. I want to take a short break and then come back and ask you Congressman Mark Meadows, what you're expecting from the I.G. report out this upcoming weekend as well as what you're expecting from those investigations that are active. Back in a moment with Mark Meadows and then Mark Penn. Stay with us."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "And we are back with Republican Congressman Mark Meadows. And Congressman, we are looking forward to getting the Inspector General report out. My sources tell me it will be out on Friday the 18th. What is you expectation of what we'll learn?"
+    },
+    {
+      "speaker": "MEADOWS",
+      "utterance": "Well, based on the documents that we have provided, many of those documents to Inspector General Horowitz and his team, who, by the way, have spent an unbelievable amount of time doing just a very thorough research. We believe it will be a scathing rebuke on the FBI's FISA process. Not just the fourth and third FISA, but the whole FISA process. What they knew, when they knew it, and based on documents that I have seen, and I have not seen the I.G.'s report, but based on documents that I've seen that we provided to the I.G., there's a real question in terms of, did they turn a blind eye to flashing yellows and flashing red lights, and go on through it in the interest of trying to dig up dirt on this president? I believe they did. I think what you'll see is a strong recommendation at a minimum of changing the protocols as it relates to a FISA application process, because we know that they used unverified information, we knew that they used information that they had a high probability that it was actually made up and yet they continued to use it."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Well, you would think that anybody from both sides of the aisle would be outraged that our intelligence agencies were using the tools that we used on terrorists to stop Donald Trump. And then even after he was elected, a duly elected president, to use those tools to try to take him down. I just wonder if we're going to see accountability. Do you believe we'll see prosecutions, indictments, for the people who actually inserted Donald Trump into the story of Russia meddling in the U.S.?"
+    },
+    {
+      "speaker": "MEADOWS",
+      "utterance": "Well, I can tell you, the American people that have been following this want accountability. They don't believe the FBI should have a different standard. Now, what normally comes out of an I.G.'s report is that they will make some recommendations to the Attorney General, sometimes criminal referrals. I do believe, based on what I've seen, that there are a few areas that should be criminally referred. And at the same time, whether there's indictments, that's going to be a question for the Attorney General, but I -- a lot of people out there are saying, we can't continue to allow wrongdoing to happen and no accountability. I know you hear it, I hear it, and hopefully at the end of the day justice will prevail."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes. Well, we already saw a criminal referral for Andrew McCabe. So, where -- that just -- what does that mean?"
+    },
+    {
+      "speaker": "MEADOWS",
+      "utterance": "Well, I mean, when you -- when you look at a criminal referral and when you look at possible indictments --"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MEADOWS",
+      "utterance": "-- obviously, they're looking at all the evidence. Sometimes they say, well we're going to wait for the rest of the story or the bigger part of the picture."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "MEADOWS",
+      "utterance": "I think what Americans say is, if there's wrongdoing they need to -- whether it's a small infraction or a large one, they need to be held accountable."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Congressman, you've done great work on this, we so appreciate it, and thanks for joining us this morning. Thank you Congressman."
+    },
+    {
+      "speaker": "MEADOWS",
+      "utterance": "Thank you Maria."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "We'll see you soon. Mark Meadows. Meanwhile, Hunter Biden issuing his first public response to President Trump's attacks on his work in Ukraine. As the \"Wall Street Journal\" is reporting this morning, young Biden is planning to step down from the board of a Chinese private equity firm. I'll get new reaction from Bill Clinton's former Chief Campaign Strategist, Mark Penn, on the evolving controversy that could have big repercussions in 2020. Back in a minute with that."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Welcome back, the Ukraine controversy still looming large over both the Trump and Biden campaigns. The president of course facing an impeachment inquiry for asking Ukraine to investigate Hunter Biden's role on the board of a gas company there. Hunter Biden today issuing his first public response for the controversy. This morning saying that his work in Ukraine focused on corporate transparency and governance. He also said he would not work for any foreign owned companies if his father wins the White House, and today he is announcing that he will step down off (ph) the board of the private equity firm that is backed by the Chinese government. Joining us right now is Mark Penn, he is the President of the Stagwell Group, the Chief Strategist on Bill Clinton's 1996 presidential campaign as well as Hillary Clinton's 2008 presidential campaign. Mark, it's great to see you this morning, thanks so much for being here. MARK PENN, 1996 CLINTON CAMPAIGN STRATEGIST: Thank you."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Your reaction to all this news this morning in terms of Hunter Biden stepping down, and its impact on 2020?"
+    },
+    {
+      "speaker": "PENN",
+      "utterance": "Well, a bit late to really clear everything up. I think I'm glad that he's done that. I think at a certain point he is going to kind of go through exactly what did and did not happen here. I do think the American public wants to know about everything that everybody did here."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "So assess the field for us, Mark, in terms of 2020, where are we now? Do you think Elizabeth Warren is going to be the frontrunner?"
+    },
+    {
+      "speaker": "PENN",
+      "utterance": "Well I wouldn't count Joe Biden out yet --"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "PENN",
+      "utterance": "I think he continues to, I think be the frontrunner in national polls -- I think he's got more problems in Iowa and New Hampshire. I think Elizabeth Warren has shown more momentum than any other candidate. But really, people are in the 20s and 30s. No one is a clear front-runner in this race today, and no one should be counted out either."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "When you were doing the strategy for Bill Clinton, you said -- you were the architect of that strategy, and you said, look, do the job of president, let the lawyers and P.R. folks fight impeachment. That's not what President Trump is doing. Assess that."
+    },
+    {
+      "speaker": "PENN",
+      "utterance": "Well, yes, I was one of the architects of a strategy that when the president was asked, he would say, look, I'm here today to talk about education. And you know what, the American people want the president doing his or her job. That's the most important thing. Rather than be your own attorney and rather than prosecute the case against the Democrats and increase partisanship, our strategy then was for the president to stick to his job, and I think that's a much better strategy. That's what the American public wants to see in response to all these investigations and charges and countercharges."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "How -- how's it impacting the president's chances for re- election?"
+    },
+    {
+      "speaker": "PENN",
+      "utterance": "Well, I -- I -- I think the president's job rating has held up in all of the polls, so I think most people are seeing this as a partisan political fight --"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "PENN",
+      "utterance": "-- at --at this point, regardless of the fact they'd like to see things investigated. Look, right now the American public, a majority don't like the president, a majority don't like the Democrats, and a majority don't like the Republicans. So you've got to understand, the more they --"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes, there you go."
+    },
+    {
+      "speaker": "PENN",
+      "utterance": "-- the more that Washington looks this way, in a time of record prosperity --"
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PENN",
+      "utterance": "-- you've -- you have such a sour mood. And that makes for an electorate that's going to be highly volatile."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "Any thoughts ahead of Tuesday's big debate? The Democratic is Tuesday night. Real quick, Mark."
+    },
+    {
+      "speaker": "PENN",
+      "utterance": "I think it's going to be fascinating. Will Democrats really surround Joe Biden against these charges? Will Tulsi Gabbard attack the New York Times, and will people turn on Warren, because she's the front- runner? Those are the three things I'd be looking for."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "It's great to talk with you always, Mark. You have such a finger on all of this. Thanks for joining me. Mark Penn there."
+    },
+    {
+      "speaker": "PENN",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "BARTIROMO",
+      "utterance": "And thank you so much for watching this morning. I'll see you tomorrow morning on “Mornings With Maria” over on the Fox Business Network. Have a great rest of your Sunday, everybody. Thanks. Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

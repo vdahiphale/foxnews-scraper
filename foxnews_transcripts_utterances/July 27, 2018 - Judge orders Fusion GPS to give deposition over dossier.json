@@ -1,0 +1,2445 @@
+{
+  "date": "July 27, 2018",
+  "headline": "Judge orders Fusion GPS to give deposition over dossier",
+  "subHeadline": "Gregg Jarrett weighs in on 'The Story with Martha MacCallum' after a judge orders Fusion GPS to answer questions about the anti-Trump Steele dossier and discusses claims about Michael Cohen.",
+  "url": "https://www.foxnews.com/transcript/judge-orders-fusion-gps-to-give-deposition-over-dossier",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MARTHA MACCALLUM, HOST",
+      "sentences": "Tonight, the most embattled president of our time delivers a painful blow to his critics in the form of cold hard numbers. You remember this from election night. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "So, right now with all this news that seems to be excellent for Donald Trump, Wall Street and the market are very, very jittery. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And they're selling off around the world at this moment. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALISON KOSIK, BUSINESS CORRESPONDENT, CNN",
+      "sentences": "Then, I would say, when markets open in a couple hours, I would say buckle up. Let's talk about the response of world markets because those are some other individuals who are having trouble breathing right now. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, let's talk about it. So, at that time, candidate Trump was made a laughingstock for the audacity of statements like this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "That's why I believe it's time to establish a national goal of reaching four percent economic growth. But we're bringing it from one percent, up to four percent, and I actually think we can go higher than four percent. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, when that did happen this morning, the media came out with a drastically different tune. Watch this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANNOUNCER",
+      "sentences": "This is CNN Breaking News. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALISYN CAMEROTA, ANCHOR, NEW DAY, CNN",
+      "sentences": "The Commerce Department has just released the latest quarterly economic numbers and they are big breaking news.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And the survey says, 4.1, 4.1.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It is a strong number. There's no denying that. Anyway, you baked it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. Good evening, everybody. I'm Martha McCallum, and this is \"The Story.\" The numbers, the facts, despite all the headwinds, there is no denying that President Trump is delivering on the promises specifically that he made about the economy, which as you can see is growing at the strongest pace in nearly four years. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Since I was elected, we've added 400,000 new manufacturing jobs. And we're just getting started.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "A far cry from this. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARACK OBAMA, FORMER PRESIDENT OF THE UNITED STATES",
+      "sentences": "Some of those jobs of the past are just not going to come back, and when somebody says that he's going to bring all these jobs back. Well, how exactly are you going to do? That what are you going to do? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HILLARY CLINTON, FORMER FIRST LADY OF THE UNITED STATES",
+      "sentences": "But you might think that because he has spent his life as a businessman, he'd be better prepared to handle the economy. Well, it turns out he's dangerous there, too. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "How do those settle in today? Today, before the ink was dry on these numbers, the New York Times jumped out and said this. \"Don't expect the boom to last.\" And the Washington Post, \"It could be a blip.\" It almost sounds like that's what they're hoping. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); } Joining me now, Chris Stirewalt, Fox News politics editor. Matt Schlapp, chairman and -- of the American Conservative Union, and Adrienne Elrod, strategic communications director, Clinton 2016 presidential campaign. So Adrienne, let me start with you. I mean, you know, when you watch Hillary Clinton say that, when you watch the former president say that, it-- it's pretty tough. I would imagine or uncomfortable for them to hear when they look at this record so far.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ADRIENNE ELROD, FORMER DIRECTOR, STRATEGIC COMMUNICATIONS, CLINTON CAMPAIGN",
+      "sentences": "Yes, there's also a lot of economists who are predicting that the next quarter, we're going to see an economic -- an economic job loss, and decline in economic numbers, because of these inconsistent trade policies that President Trump is effectively created himself. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); } These are the self-inflicted wounds, he didn't need to slap these tariffs on incoming steel, that's part of the problem. So, I think again, I'll acknowledge fact that there are -- that the numbers look good today, but we'll see what happens next quarter, and I have a feeling that these economic numbers are not going to be looking quite as good. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Are you hoping that that's the case?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ELROD",
+      "sentences": "No, of course, not. But I also want to see farmers in middle America not suffer the consequences of these, these tariffs. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right, here's Ian Bremmer, today on CNN. Watch this and then I want to get Matt's reaction. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "IAN BREMMER, PRESIDENT, EURASIA GROUP",
+      "sentences": "This has been a good week for Trump. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMEROTA",
+      "sentences": "How?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMMER",
+      "sentences": "I mean, look, we get out of CNN land for just.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMEROTA",
+      "sentences": "Yes, give it to us. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMMER",
+      "sentences": "And four percent growth in the United States. The Europeans back down on trade. He now looks like a winner on that front. The North Koreans more progress with remains coming back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Matt? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MATT SCHLAPP, CHAIRMAN, AMERICAN CONSERVATIVE UNION",
+      "sentences": "Yes, there's just no doubt about it. And if people doubt this question about how fast the economy is growing, and the fact that American CEOs and entrepreneurs feel bullish about the economy, you can just look at the right track, wrong track number. Something that Stirewalt tracks all the time. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } The fact is the American people are generally in a better mood about their country and about their individual lives, and a big dominant part of that is they feel like they have greater economic opportunity. Their kids might have better jobs, maybe someone got a raise, maybe their stock portfolio in their retirement account is higher. The American people are in a better mood because all of this talk about the Trump agenda has turned into action, and it's actually having a positive impact on their life. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Chris, what was the impact on this politically, do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS STIREWALT, FOX NEWS DIGITAL POLITICS EDITOR",
+      "sentences": "Well it all -- it all depends. There was a fella named William Jefferson Clinton who back in 1994, not some even better numbers than these for the comparative quarter in his presidency. And he took an absolute shellacking in November of that year. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); } A historic one, but conversely, we've had presidents like Obama was who suffered similar fates even though things were growing. But we've also had presidents who thinks we're going well at this point in their first term, and they won. So, you can't tell at this point. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); } But what you do know is this, this is the rallying call for Republicans. This is the high flag on the hill that now if they can get out of their own way, this is a Paul Ryan, this is what other Republicans have been saying for a long time. Go sell the tax cut, this is the first quarter that reflects really the consequences of the tax cut. Go sell this tax cut, go sell economic prosperity and opportunity, forget about the rest of the stuff. Get away from the culture war business, focus on people getting richer, people being more prosperous, and that's what works for the GOP.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, I mean, Adrienne, it seems like when -- you know, when you look at these packages, right? You've got personal spending up, you've got businesses spending at a rate, they were spending at 1.8 percent growth now it's at seven percent. Going to looks more like nine percent in the coming quarter. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, the numbers are just very solid in terms of optimism when you look at companies. And you know, you look at the way President Obama handled it after the 2008 debacle in the financial markets. And it was loading on regulation and no tax cuts, right? So, now you've got the exact opposite of that. Just on a purely empirical basis. This is what business is like, this is what investors like, and it doesn't look like there's a reason for that to cool off in the near term. Especially, if as Ian Bremmer said, he sees these trade wars as working out. So, is that a difficult metric for Democrats who are going to argue in November, you'll be better off with us? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ELROD",
+      "sentences": "It's not a difficult metric, and here's the two reasons why, Martha. Number one, Americans are not seeing real wage growth, right? There may be low unemployment number right now, but they're not seeing growth in their wages. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); } We haven't had a federal minimum wage increase in nine years. People feeling it heat. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Then how are they saving so much more? How are they saving so much more if they don't have more disposable income?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ELROD",
+      "sentences": "I can -- I can certainly assure you, not every American out there is saving a lot. I think the average is $400 per family is what you will have their savings. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "But the growth rate in savings is up dramatically. So, I mean, I mean, that we've seen those numbers today. So, you've got people -- they have more disposable income and my guess is that it's probably from the tax cuts overall. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ELROD",
+      "sentences": "From a very -- from a very -- for me, by the way, from a tax cut that gave more way to corporations than middle-class working families. And middle-class working families does not see a permanent tax cut but corporations did. So, again, lots of flaws with that tax bill. Secondly, look, we just saw Larry Sabato yesterday came out with new numbers, and his prediction in terms of where Democrats are until they take it to House. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. Well, that's true.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ELROD",
+      "sentences": "And he's looking very good. So, again, people are not feeling these numbers, and they're not feeling this economic growth at home.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. So, Matt, it does look ugly. When you look at the numbers, and you see -- you know, we've seen three different reads this week on the gap, and it looks anywhere it probably around seven percent is probably the average of the number of increase for Democratic seats in the House. How do you navigate that? How do you try to turn that around for your party? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHLAPP",
+      "sentences": "Look, there was a panic that ensued in the Congress with the Trump effect. And a lot of Republicans who came from more purple seats believe that Trump was going to be destructive for their chances in getting reelected. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } I've talked to a lot of those members who decided to retire. Not all of them, but a good percentage of them realized that the environment is so much better than they thought it would be. And the fact of this is that if you look at any indicator, things are leveling out for the Republicans. And why do you put Republicans in office, after all, Martha? We all know the reason you put Republicans in office, project strength from a national security standpoint, and get the economy fixed, get it moving. If Republicans cannot get the economy fixed, they're in big trouble. Because that's really the number one reason people turn to them. And the fact that this economy, I don't care what anybody says from Democratic Party. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); } The American people buy every single measure you can look at, believe that things are drastically improving, and it's one of the reasons why the president's numbers are so better. So -- so much better. So, the fact is when Trump is involved, it's nationalized. With Trump as the president, he's going to play a big role in a lot of these races, and for a lot of these races, it's a good thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, we'll see. Chris, thank you very much. Matt, thank you. Adrienne, good to see you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ELROD",
+      "sentences": "Thanks too, Martha. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "As Chris, said if they can get out of their own way and focus on this, they may have some good momentum as they go into the fall, so we'll see. Thanks, guys.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHLAPP",
+      "sentences": "Thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, coming up next here on \"The Story,\" what Michael Cohen said then, and now? So which one is the truth? And the people behind the dossier, a judge now saying that they need to come clean to him. Who did they pay here and in the U.K. and in Russia, and did their hunt for dirt on candidate Trump turn up anything? Gregg Jarrett wrote a book on it and he's up next. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); } Larry Nassar, the former USA gymnastics doctor sentenced to spend the rest of his life in prison for sexually abusing more than a hundred girls, now says he's a victim. Sarah Klein was just a child when he abused her. And tonight, she speaks out for the first time with her reaction to what Larry Nassar says now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SARAH KLEIN, ABUSED BY LARRY NASSAR",
+      "sentences": "As much as it was my honor and privilege to hear the sister survivors, it is my honor and privilege to sentence you. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Breaking tonight, evidence that both campaigns in 2016 wanted some dirt on each other, and we're willing to get it in some sources from Russia. But now there's a judge who wants to know exactly how the whole thing worked on the Clinton side of the equation. The dossier as we know was funded in part by the Clinton campaign, and use sources in Russia who gave information to Christopher Steele, much of which he said was unverifiable. So, on the Trump side, you've got the Trump Tower meeting in June of 2016. And tonight, former Trump lawyer Michael Cohen, reportedly dropping more bombs. Now, he says that the president knew all along about that meeting, even though, Cohen said the opposite in the past. So here's what the president said about it today. \"I did NOT,\" in caps, \"know of the meeting with my son Don Junior. Sounds to me like someone is trying to make up stories. He even retained Bill and crooked Hillary's lawyer. Gee, I wonder if they helped him make the choice.\" Here now Gregg Jarrett, Fox News anchor and author of the new book The Russia Hoax who knows this story inside and out. Gregg, good to see you tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GREGG JARRETT, FOX NEWS ANCHOR",
+      "sentences": "Good to see you. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So what -- let's start with the Fusion side of this because they've been very tight-lipped about who their sources were for the dossier but now this judge is trying to give them make them -- have them to pose on it. What are we going to learn there?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Well, the head of Fusion GPS Glenn Simpson testified that he hired Christopher Steele to get dirt on Trump. The dossier was the product. It -- seventeen memos, I've read them all. I laugh every time. It's absurd, fabricated, anonymous quadruple hearsay. If you tried to present it in a court of law legitimately, the judge would toss you out or toss you in jail. So you know, that use of the dossier if paid for by the Clinton campaign and not properly accounted for could be at a minimum a civil violation of a federal campaign election act, at worse could actually be money laundering.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, here's Jake Tapper talking about this topic. Let's take a listen. I want to ask you something about this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JAKE TAPPER, HOST, CNN",
+      "sentences": "Here's the bottom line. The United States was attacked. The United States was attacked by Russia. Now, it wasn't like Pearl Harbor, it was a cyber-attack and they're a whole bunch of people in Washington who are trying to prevent the investigation from going forward. This -- I mean, imagine if study tried to prevent the investigation into how Pearl Harbor happened from going forward, you would say that that person is not being patriotic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, if that is true, then it's also unpatriotic to not understand the dossier side of the equation where they clearly had sources in Russia who were trying to dig up dirt and sell it as part of the campaign, correct? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Absolutely. I mean, this dossier was the basis for the investigation of Donald Trump. On the day that Comey cleared Hillary Clinton, secretly his FBI was in a building in London meeting for the first time with the author of the dossier Christopher Steele armed with that totally phony fabricated document. They then watched the investigation, as I argue my book to frame Donald Trump for things he didn't do, for crimes he didn't commit. Collusion is not even a crime in a political campaign. It's nowhere in the criminal codes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right, so now Michael Cohen says of the Trump side of the equation that President Trump knew about that meeting. Don Jr. said I didn't father my father with these people coming from Russia. They wanted to talk about the Magnitsky Act which is not a light thing. That's a very serious thing that these people have been pursuing for a long time. So now, Michael Cohen says according to these stories, President Trump knew about it. What if he did?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "It doesn't matter. So what? Even if the President -- let's assume the President is lying and he knew about it. It's not a crime to lie to the media or otherwise just about every politician in Washington would be behind bars. The meeting itself, and I devoted chapter to this, it's entitled it's not a crime to meet with a Russian. There is no criminal code violation, it's not a violation of the Federal Campaign Election Act which specifically says foreign nationals may participate in American campaigns. They can attend meetings. They can open their mouths. They can provide information.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right, so let's take a look at what Michael Cohen said about this back at the time when the Trump 2016, the June 2016 meeting first came to light. Mike -- and Donald Trump Jr. said you know, here's my transact -- here's my e-mails that I sent back and forth. These people said that they had dirt on Hillary Clinton, he said oh, if that's true, you know, I'd love hear it. But then when they got there, according to his story all they wanted to talk about was the Magnitsky Act which I think adds up because that is what they want. That's what Vladimir Putin wants lifted. He says, so proud of Donald Trump Jr. for being open honest and transparent to the American people. This nonsense needs to stop. Now he is telling a different story.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "You know, Catherine Herridge, our own Catherine Herridge interviewed the Russian lawyer and she said we didn't talk about Hillary Clinton. That whole e-mail setting up the meeting was nothing but a pretext you know --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "It was a way to get to the meeting.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Yes, exactly. But the Russians could actually publish in Pravda the communist party newspaper a story about Hillary Clinton and corruption replete with documents and any American campaign would be allowed legally to use that. It would be a vital American interest. It's protected by the First Amendment. It's not a crime. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right, so you know, what I'm seeing is that on both sides of this equation you have two campaigns who were willing to accept some information. Donald Trump Jr. thought that he was going to get some dirt and said oh well, if that's you know, if you have something come on over and tell me what you have. And on the Clinton side, they paid Fusion GPS to get Russian sources through Christopher Steele to dig up dirt on -- what's the difference?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "On the Clinton side, it could be a crime depending upon how the money was handled and whether it was accounted for. There was no money exchanged on the Trump side so why isn't there an investigation of Hillary Clinton and her campaign and the Democrats for hiring a foreign national and paying money.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So I mean, I would assume based on what Jake Tapper said there that he would be pursuing it because not to would be unpatriotic, correct?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Correct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Thank you, Gregg. Good to see you. The book is called The Russian Hoax and it came out this week, really good.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Thank you so much, Gregg. Good to see you tonight. So coming up this evening, they have waited 65 years for their soldiers and Marines to be home again after the Korean War. Our next guest is he has been tearing up all day at the thought that this day may finally come. But first, Larry Nassar says that he was attacked in prison because of this. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(INAUDIBLE) I just signed your death warrant.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That I just signed your death warrant. His attorney is now on a new judge and a new sentence. Nassar's first victim Sarah Klein is breaking her silence in her first national T.V. interview tonight with her reaction to that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS ANCHOR",
+      "sentences": "Live from America's News headquarters, I'm Trace Gallagher. Strong winds are creating problems for firefighters building the car fire in Northern California. It's already claimed two lives. Mandatory evacuations remain in effect for the city of Shasta Lake and its 10,000 residents. Nearly 5,000 homes are threatened, 55 have already been destroyed in Shasta Lake. The fire has already burned nearly 45,000 acres and it's only 3 percent contained. The car fire began Monday. Twitter stock plunging more than 20 percent today. Twitter's decline follows a $190 billion loss by Facebook yesterday. The social media company says monthly users dropped in the second quarter adding further declines are expected in the next few months. This is Twitter's second largest one-day loss since going public in 2013. If news breaks out, we'll break in. I'm Trace Gallagher. Now back to \"The Story.\" if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Perhaps you have figured it out by now that little girls don't see little forever. They grow into strong women that return to destroy your world.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You are a sick man, Larry. I hope you rot in prison because that's where you belong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Your Honor, I asked you to give Larry the strongest possible sentence which is actions deserve. Let this sentence strike here and anyone who thinks it is OK to hurt another person. Abusers, your time is up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROSEMARIE AQUILINA, CIRCUIT COURT JUDGE",
+      "sentences": "Sir, I'm giving you 175 years, which is 2,100 months. I just signed your death warrant.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I just signed your death warrant, she said. Judge Rosemarie Aquilina was one of the many powerful moments after the long journey to justice for more than 150 survivors of the person they thought of as a doctor to the gymnast Larry Nasser. Now the disgraced former USA Gymnastics at Michigan State University team doctor says that those words signed your death warrant led to serial -- led to the serial sexual predator's assault when he arrived in prison. And because of that, he wants a new sentencing and a new judge. Joining me now exclusively in her first nationally televised interview is Sarah Klein, the first brave survivor in all of this to speak out. Sarah, welcome. It is good to have you here today. Your reaction to what he says happened to him when he got to prison and the fact that he wants a new sentencing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "Absolutely not surprised. Larry is a master manipulator. He abused hundreds of women for a span of three decades so this is just typical Larry. He's a prisoner. He has 60 years on his federal sentence and what does the prisoner want more than -- more than anything, to get out of person you know, sooner. So he's 54 years old, he's not getting out and we are not surprised in the least at his manipulation. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I mean, it's no surprise as you say that his attorneys also who I'm sure want to be paid for you know more of their work as they go through this if they say well we're going to try to get you, you know, a new suit -- a new sentencing, a new judge. You were -- what did you think of that judge as you watched all of this play out and the way that she handled the case?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "She handled the case extremely dignified. These are little girls who have been through a lot and she gave us the opportunity to speak up, use our voices. And during that week there was a momentum that built and there was healing that took place there and she did it with her head held high.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So tell me about you because initially, you spoke out as a Jane Doe. You did not want to be identified.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And you were not a professional gymnast. You were a gymnast who was you know, working out and learning the sport when he took advantage of you at what age?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "Eight-years-old --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Eight-years-old. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "-- through 25 years old. 17 years of abuse. Three to four times a week, every year or you know, almost two decades.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "How do you -- how do you cope with that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "You know what, I'm a mother now. I have a daughter who's two years old and there's a lot of healing that comes with that, being able to speak out, use my voice on behalf of her and all of the other little girls out there who just want to have fun, want to participate in sports, it was time for me to come forward and time for me to speak up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You were so young and you were -- you were -- I'm sure told that this was a treatment. Like you told everyone else, correct? So you don't even understand anything about sexuality at the age that this is beginning for you, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "Correct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So you know, as you were getting older, how did -- how did you deal with this reality, and did you -- did you try to get anyone to stop it? You know what did you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "It took me a long time to understand that the man I loved, the man I trusted, the man whose wedding I danced at was actually you know, harming me and it wasn't actually medical treatment. So it took a long time, a lot of therapy. And then, you know, really sort of growing into an adult woman to even recognize what had happened to me for all of those years. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And did you ever confront him? How did you begin the confrontation process?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "I confronted Larry for the first time in January in Judge Aquilina's courtroom. And he immediately knew it was me. We -- our paths had not crossed since I was 25 years old. I'm now 38 years old. When I walked up to that podium and look him in the eyes and he just began to shake his head.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "He knew.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "He knew.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Sarah, thank you very much. Good to have you with us tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I give you a lot of credit. And all of you who have spoken out has made the sport I hope safer for all of these young women who are coming into it now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Thank you for being here tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KLEIN",
+      "sentences": "I appreciate it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So joining me now is Mark Eiglarsh, a criminal defense attorney. Mark, good to have you with us this evening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARK EIGLARSH, CRIMINAL DEFENSE ATTORNEY",
+      "sentences": "Thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You heard Sarah telling her story and how she felt that the judge was very professional and acted with great integrity during the course of all of that. Does Larry Nassar have any axe to grind that is legitimate with regard to this judge?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EIGLARSH",
+      "sentences": "No. Well, very arguably Judge Judy-esque at times, what she did was not unlawful. Her saying things like, I wouldn't let my dog near you or you are a danger to the community are things that she said after or as she was hearing testimony from victims who courageously got up there and told what they said. Legally, if you can prove that the judge that knew she was going to give a life sentence prior to even hearing the testimony, then you've got a shot. But I didn't see any comments that evidence that state of mind.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And it is not at all unusual. I mean, there's Larry Nassar is in a class by himself.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EIGLARSH",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "But predators of this kind often do not have an easy time of it when they land in prison. Correct?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EIGLARSH",
+      "sentences": "That's correct. She, you know, the defense is claiming it was the judge's demonizing of Larry Nassar that caused him to be attacked in prison. Listen, he demonized himself through his actions. And then the victims got up there and let the world know what he did. The only good thing about prison is that there is a pecking order. And people like Larry Nassar who prey on children they are at the bottom.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, absolutely. And you know, it just seems as you say to be a very thin thread to suggest that words that the judge used during the sentencing phase of this whole thing somehow have an impact on the individuals who happen to be behind bars, who I doubt really had an opportunity to see any of it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EIGLARSH",
+      "sentences": "Listen. You are spending the rest of your life in prison. If you have some money, it's of no use to you in prison. You might as well spend it on lawyers. Who even if they have like a lottery ticket chance of winning, let them file this motion and see if there is anything in the record that supports what he is alleging. That at least gives him a period of hope for the period of time that he is in there being brutalized.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, no doubt. The attorney, you know, every attorney wants to tell someone in this situation or anyone who's been convicted and is going to do time that there is one more thing we might be able to pull off, right? There's one more way that we might be able to -- with all due respect to your profession.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EIGLARSH",
+      "sentences": "I don't want -- I do not want to demonize these attorneys. Let me make something clear. Maybe they did sense that this judge was going to sentence him to the max. I'm guessing that's how she felt. It's just they have to be able to have the comments to prove it. Something that she said maybe early on that evidenced that she was not going to be fair. I don't think they have it here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Mark, thank you very much. Good to see you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EIGLARSH",
+      "sentences": "Thanks, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And Sarah Klein, thanks again to you. Good to see you both. Coming up right here on The Story, North Korea makes good on a promise to President Trump. As families hope for closure from the North Korean War. We will talk to two men who were just little boys whose fathers never came home from that war about what this day could mean for them. And then a final chapter, we hope, perhaps, on plastic straws and jail time as the city speaks out. Tammy Bruce, Lisa Boothe, and Kat Timpf all straight ahead in our Friday friends, coming up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What about people who want straws? People who want them?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JACKIE NUNEZ, FOUNDER, LAST PLASTIC STRAW",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Plastic straws.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNEZ",
+      "sentences": "Yes. You know, I think with the core of it is not really about necessarily the straw. It's about plastic for single use.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "At this moment, a plane is carrying the remains of some great fallen heroes from America. Back from the Korean War. They are coming back to the United States. And I want to thank Chairman Kim for keeping his word.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Sixty five years have come and gone since the end of active fighting in the Korean War. But today there has been an important step towards closure for some of our families. As North Korea handed over dozens of small flag-draped caskets believed to contain the remains of American service members. Still, we don't know exactly what happened to thousands of our brave men in uniform. Among them, the fathers of my next guests. Lieutenant Howell Downes' plane went down in January of 1952 when he was just 26 years old. At the time, he had a young son and a daughter on the way. Captain John Henry Zimmerlee was on a mission in March of 1952 when all contact was lost with his plane and he left behind two young sons. These sons have dedicated their lives to helping families like theirs get their loved ones back and get answers. John Zimmerlee and Rick Downes join me now. Welcome, gentlemen. It's good to have you back on the program. John, let me start with you. What does it mean to you when you see those small caskets draped in those blue flags?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN ZIMMERLEE, SON OF KOREAN WAR VETERAN",
+      "sentences": "Well, obviously it was an emotional moment where all of the family members have been communicating over the years and we all feel like brothers and sisters. So we really expect that these remains will have some effect on some of the families that we have become so close to.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And Rick, your thoughts as you look at this. This was a very solemn procession and I know it's a long road for these caskets to get to get, you know, to continue here and get resolution in terms of the DNA and the testing that will be done on them. But emotionally, what did you feel today when you saw all this? RICK DOWNES, PRESIDENT AND EXECUTIVE DIRECTOR, COALITION OF FAMILIES OF KOREAN & COLD WAR POW/MIAS: Well, it's hard to. And we've been holding back those emotions for so long. It's not a switch that just comes off especially if you have been kind of pursuing all the other issues that go with it. But just the whole process of having to go through this, and I actually, personally allowing myself to feel emotions that I haven't really been allowing. That's kind of a new thing for me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Rick, staying with you for a moment. You know, what would it mean for you if you -- and what would you do? Would you have a ceremony? If you do get to that point where you have remains that are positively identified as those of your father, how will you proceed then?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOWNES",
+      "sentences": "Well, emotionally that question is kind of difficult to answer because you are talking about something I don't know how to feel. You know, actually learning what happened to him. And feeling convinced that I have him back. I don't know what that would feel like. So, I don't know what we would do. We probably would have a service of some kind. I'm making it up as we go along right now. There is so much to think about before that could happen. To make that happen that that's kind of the focus. And let that be what it's going to be if and when it happens.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I understand. John, in terms of the process, I know some of the families do not want these remains to go to Hawaii to a government lab. Can you explain what your issue is with that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "sentences": "Well, Kelly McKeague, the director of the DPAA has admitted recently that it could take years to identify these remains. While we have talked to independent labs who feel like these remains could be identified in 90 to 120 days. And so, if the government is allowing now $10 million to identify these remains we would like the money to go to a lab who can do it much quicker and much less expensive than our government labs. We want to see some results. We want the remains to be identified.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "sentences": "I'm sorry? We want our--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I mean, John, sorry. I'm sorry to interrupt you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "sentences": "-- our families to come home.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, it seems to me that that is an argument that would resonate with President Trump. He, you know, isn't a person who likes to wait a long time for resolution on things and if there is a more efficient way, a better scientific way to resolve this, do you feel like your voice is heard by the administration on that issue?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "sentences": "Not so much by the administration from us but through the media we are getting quite a bit of attention and we really appreciate your bringing this to light. Bringing it to surface so our government can consider it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. I mean, we certainly hope--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "sentences": "It's really important to us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "-- that they are listening to you tonight. Rick, what are your thoughts on the remains going to a government lab in Hawaii?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOWNES",
+      "sentences": "Well, that's not my thing. The best place for them is whatever that may be. We kind of all have our ways of approaching this. Our ways of doing things. So, John is much better versed on that than I am. I'm interested into, you know, the thing to know about is some of these caskets are going to have full skeletons and they'll have artifacts and they're going to have dental and they're going to have ways that can be identified rather quickly. And that's going to be really nice because we could see some resolution. No matter who is doing the identification in short term.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Gentlemen, I know this is something that you -- it's a part of you, it's part of your families, it's a part of our life. And we truly hope that you get the closure that you are looking for here. And it looks like the ball is moving forward in some way and we will stay on the story. We'll have you back as it moves forward. Thank you so much to both of you for being here tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "sentences": "Thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOWNES",
+      "sentences": "Thanks for having us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "sentences": "Thank you for pursuing this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Absolutely. Our honor. Thank you, gentlemen. All right. So coming up in just a moment, you may have seen some of this last night as Roseanne Barr is speaking out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROSEANNE BARR, ACTRESS",
+      "sentences": "You know, I made a mistake obviously. It cost me everything. My life's work. Everything. I made a mistake. And I've paid the price for it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "This was something last night. Stick around. We'll show you more of it. Plus, the haters shaming Tom Brady for having a dad bod. The Friday ladies take it on. Tammy Bruce, Lisa Boothe and Kat Timpf will join me coming up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Roseanne Barr speaking out last night to Sean Hannity. This is the first time that she has broken her silence on TV since her controversial tweet that ended her hugely successful comeback show. And in case you missed it, here's what happened.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARR",
+      "sentences": "They were saying it was racial. When it's political. Then everybody started saying I was a racist. I made a mistake. And I've paid the price for it. I'm not a racist. And the people who voted for Trump, they're not racist either. And Trump isn't a racist. Sorry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEAN HANNITY, FOX NEWS HOST",
+      "sentences": "You suffer from multiple personality disorder?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARR",
+      "sentences": "Well, I don't suffer from it anymore.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HANNITY",
+      "sentences": "You don't?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARR",
+      "sentences": "I enjoy it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "She loves all these personalities. Each unique in its all way. So what does my Friday friends panel thinks about this interview? Joining me now Tammy Bruce, president of Independent Women's Voice. Lisa Boothe and Kat Timpf both Fox News contributors. All -- good to see you all. Tammy--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TAMMY BRUCE, FOX NEWS CONTRIBUTOR",
+      "sentences": "Good to be here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What did you think of Roseanne last night?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "Look, Roseanne has been around for a very long time. Her career has been, really she's been a Bulgarian. This is not a surprise, this is not a new Roseanne. I think there's only been one Roseanne because it's been the same one for a very long time. As a matter of fact, when she argues about what she was saying, something that we have all railed against. The nature of what she called Valerie Jarrett. She also called Susan Rice an ape five years earlier on Twitter. So there is the nature of what she was doing but there was no real backlash then. So then you do have a political framework of this. She argues that she's only under attack now because she supported Trump. Well, in part that's the only thing that's different from the Susan Rice comment to the Valerie Jarrett comment. So you got so many layers to this. All of us, you know, look, if you've been in the media, you've said something that probably offended someone inevitably and you said something you regret, of course. The issue then also becomes do you destroy someone in the process?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "Or do you accept their apology based on the nature of their history and if they are really sincere. We are still grappling with that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "And I thought it was fascinating interview.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, and then she said that she should fix her hair. That Valerie Jarrett should fix her hair. And I think what she was trying to get that was that she thought her hair reminded her of the actress on planet of the -- I don't know. So she was trying to spin it in some ways still. But it's still a mess.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LISA BOOTHE, FOX NEWS CONTRIBUTOR",
+      "sentences": "You know, we saw this different personalities in the interview I guess. I mean, look, she has apologized. I think she is sincere in the apology. So, you know, she lost a lot in the process. As she mentioned base like, she lost the show, I mean, she lost millions of dollars. So I think it's time to kind of forgive and move on. At that point--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KAT TIMPF, FOX NEWS CONTRIBUTOR",
+      "sentences": "But if she gives interviews like that, not only she was talking about Valerie Jarrett's hair, she start talking about Sean Hannity's hair.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOOTHE",
+      "sentences": "But Valerie Jarrett too, I mean, she's selling a book right now. So honestly being in the headlines in this has to help book sales. She was on the View yesterday talking about this. I was looking at the headlines there's been a lot discussed. So, I'm sure it helps with the book sales. Roseanne should not have never made the comment or done the tweet in the first place.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "It's a disaster. She's trying to dig out of the hole. It's not working if she (Inaudible). We only have three more minutes. I want to move to Tom Brady's body. Because why wouldn't you want to do that, right? So let's take a look. This picture he is getting so much, you know what, for this picture. And Kat, they're saying that he has a dad body. He is 41 years old. Winning his quarterback in football history. I mean, does he deserve any of this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "I think that there is a level of success and riches where you probably don't care what your body looks like. I think that Tom Brady is probably at that level. He is on vacation. He is on the beach. He is probably having some tacos. Probably having pina coladas. Totally fine. I think he looks fine. I don't know what the problem is. I highly doubt he really cares.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, I don't think he cares at all.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "You know what I mean, come on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "He's got Gisele on one arm.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Yes, he's got Gisele.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Cry me a river, Tom.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "And chip gains is also, you know, from fixed rapper (Ph).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "He also got slammed for having a dad bod. He's proud of it. You know, and this is role models for every regular guy out there who doesn't look like a body builder. I think it's fabulous.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Also they're dads so it seems appropriate. Now they've got kids, so they've a dad bod. Also that dad bod earned him, you know, tens of millions of dollars and they gave him a $40 million contract he had recently signed. Also he is also one of the greatest quarterbacks in the history of the NFL.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Also, you know, I mean, I have the book TV 12 and you know, it goes through his entire diet and what he does to work out and all of that. And he is not a weight lifter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "He doesn't believe in that. Because this is the body, it's called pliability. And this is what he has worked toward. It's supposed to be pliable. It's a different look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "You have become an expert.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I want to know--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "That is my look, too.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Because I'm a huge Patriots fan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOOTHE",
+      "sentences": "There you go. That's right. Who needs abs? I've never dated -- I've never dated a man with abs.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Abs are overrated.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "You say they are overrated abs. And you just think about them doing the meal prep and they can't hang out with you because they have to go to the gym and do the meal prep.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "No, I want a guy that will eat tacos.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "Pliable angle.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Pliable. It allows for a little of softness. It's OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "Flexibility.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOOTHE",
+      "sentences": "Yes. This is what we're working toward.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I want to make the last and I want to finish out the week because I've been obsessed with straws all week. In fact, I went somewhere last night and someone handed me a paper straw. I'm like, I'm sorry, I don't have plastic. But now in Santa Barbara, a lovely place in Santa Barbara, they are now saying that they are not going to bust people. You are not going to jail necessarily if you give out a plastic straw.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "But you see that's the keyword. Necessarily. Their proposed rule, the proposed law is you would go to jail for sick months for like two violations.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "But they're saying now we're really weren't serious and by the way we'd never really do it. But you know, they always like those laws to be there just in case they need to put you in jail for six months.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "I brought the straws.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Good.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOOTHE",
+      "sentences": "I'm very passionate about plastic straws and keeping plastic straws. I just don't know how anyone goes on TV with a straight face making some of the arguments.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Arguing in favor of the last straw. Kat, (Inaudible) you had about paper straws.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "I am just like can't believe this is even a thing. I have straws at my apartment. And I had no idea that they were contraband. I had no idea that if I handed one to someone that if I were in Santa Barbara that I could actually go to jail. I thought that my behavior was pretty boring but it turns out I'm a rebel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You a rebel. Thank you, ladies.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Have a good weekend, everybody. The picture of the night when we come back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Finally we usually end things with an uplifting quote of the night. But tonight we have a picture of the night. Look at this from Politico. That is special counsel Robert Mueller in the foreground, and Donald Trump, Jr. at the same gate at Reagan National waiting for their flight this morning. Fox News asked Mueller's office about the picture and they say that he was not aware of Don Junior and had no interaction with him. So you have to wonder. I mean, they could be seated right next to each other. That might be a little bit awkward. Anyway, we'll see if we can find that out it turned out. That is our story for tonight. Have a great weekend, everybody. Tucker Carlson is up next. END Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, HOST",
+      "utterance": "Tonight, the most embattled president of our time delivers a painful blow to his critics in the form of cold hard numbers. You remember this from election night."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "So, right now with all this news that seems to be excellent for Donald Trump, Wall Street and the market are very, very jittery."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And they're selling off around the world at this moment."
+    },
+    {
+      "speaker": "ALISON KOSIK, BUSINESS CORRESPONDENT, CNN",
+      "utterance": "Then, I would say, when markets open in a couple hours, I would say buckle up. Let's talk about the response of world markets because those are some other individuals who are having trouble breathing right now."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, let's talk about it. So, at that time, candidate Trump was made a laughingstock for the audacity of statements like this."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "That's why I believe it's time to establish a national goal of reaching four percent economic growth. But we're bringing it from one percent, up to four percent, and I actually think we can go higher than four percent."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, when that did happen this morning, the media came out with a drastically different tune. Watch this."
+    },
+    {
+      "speaker": "ANNOUNCER",
+      "utterance": "This is CNN Breaking News."
+    },
+    {
+      "speaker": "ALISYN CAMEROTA, ANCHOR, NEW DAY, CNN",
+      "utterance": "The Commerce Department has just released the latest quarterly economic numbers and they are big breaking news."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "And the survey says, 4.1, 4.1."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "It is a strong number. There's no denying that. Anyway, you baked it."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. Good evening, everybody. I'm Martha McCallum, and this is \"The Story.\" The numbers, the facts, despite all the headwinds, there is no denying that President Trump is delivering on the promises specifically that he made about the economy, which as you can see is growing at the strongest pace in nearly four years."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Since I was elected, we've added 400,000 new manufacturing jobs. And we're just getting started."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "A far cry from this."
+    },
+    {
+      "speaker": "BARACK OBAMA, FORMER PRESIDENT OF THE UNITED STATES",
+      "utterance": "Some of those jobs of the past are just not going to come back, and when somebody says that he's going to bring all these jobs back. Well, how exactly are you going to do? That what are you going to do?"
+    },
+    {
+      "speaker": "HILLARY CLINTON, FORMER FIRST LADY OF THE UNITED STATES",
+      "utterance": "But you might think that because he has spent his life as a businessman, he'd be better prepared to handle the economy. Well, it turns out he's dangerous there, too."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "How do those settle in today? Today, before the ink was dry on these numbers, the New York Times jumped out and said this. \"Don't expect the boom to last.\" And the Washington Post, \"It could be a blip.\" It almost sounds like that's what they're hoping. Joining me now, Chris Stirewalt, Fox News politics editor. Matt Schlapp, chairman and -- of the American Conservative Union, and Adrienne Elrod, strategic communications director, Clinton 2016 presidential campaign. So Adrienne, let me start with you. I mean, you know, when you watch Hillary Clinton say that, when you watch the former president say that, it-- it's pretty tough. I would imagine or uncomfortable for them to hear when they look at this record so far."
+    },
+    {
+      "speaker": "ADRIENNE ELROD, FORMER DIRECTOR, STRATEGIC COMMUNICATIONS, CLINTON CAMPAIGN",
+      "utterance": "Yes, there's also a lot of economists who are predicting that the next quarter, we're going to see an economic -- an economic job loss, and decline in economic numbers, because of these inconsistent trade policies that President Trump is effectively created himself. These are the self-inflicted wounds, he didn't need to slap these tariffs on incoming steel, that's part of the problem. So, I think again, I'll acknowledge fact that there are -- that the numbers look good today, but we'll see what happens next quarter, and I have a feeling that these economic numbers are not going to be looking quite as good."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Are you hoping that that's the case?"
+    },
+    {
+      "speaker": "ELROD",
+      "utterance": "No, of course, not. But I also want to see farmers in middle America not suffer the consequences of these, these tariffs."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right, here's Ian Bremmer, today on CNN. Watch this and then I want to get Matt's reaction."
+    },
+    {
+      "speaker": "IAN BREMMER, PRESIDENT, EURASIA GROUP",
+      "utterance": "This has been a good week for Trump."
+    },
+    {
+      "speaker": "CAMEROTA",
+      "utterance": "How?"
+    },
+    {
+      "speaker": "BREMMER",
+      "utterance": "I mean, look, we get out of CNN land for just."
+    },
+    {
+      "speaker": "CAMEROTA",
+      "utterance": "Yes, give it to us."
+    },
+    {
+      "speaker": "BREMMER",
+      "utterance": "And four percent growth in the United States. The Europeans back down on trade. He now looks like a winner on that front. The North Koreans more progress with remains coming back."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Matt?"
+    },
+    {
+      "speaker": "MATT SCHLAPP, CHAIRMAN, AMERICAN CONSERVATIVE UNION",
+      "utterance": "Yes, there's just no doubt about it. And if people doubt this question about how fast the economy is growing, and the fact that American CEOs and entrepreneurs feel bullish about the economy, you can just look at the right track, wrong track number. Something that Stirewalt tracks all the time. The fact is the American people are generally in a better mood about their country and about their individual lives, and a big dominant part of that is they feel like they have greater economic opportunity. Their kids might have better jobs, maybe someone got a raise, maybe their stock portfolio in their retirement account is higher. The American people are in a better mood because all of this talk about the Trump agenda has turned into action, and it's actually having a positive impact on their life."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Chris, what was the impact on this politically, do you think?"
+    },
+    {
+      "speaker": "CHRIS STIREWALT, FOX NEWS DIGITAL POLITICS EDITOR",
+      "utterance": "Well it all -- it all depends. There was a fella named William Jefferson Clinton who back in 1994, not some even better numbers than these for the comparative quarter in his presidency. And he took an absolute shellacking in November of that year. A historic one, but conversely, we've had presidents like Obama was who suffered similar fates even though things were growing. But we've also had presidents who thinks we're going well at this point in their first term, and they won. So, you can't tell at this point. But what you do know is this, this is the rallying call for Republicans. This is the high flag on the hill that now if they can get out of their own way, this is a Paul Ryan, this is what other Republicans have been saying for a long time. Go sell the tax cut, this is the first quarter that reflects really the consequences of the tax cut. Go sell this tax cut, go sell economic prosperity and opportunity, forget about the rest of the stuff. Get away from the culture war business, focus on people getting richer, people being more prosperous, and that's what works for the GOP."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, I mean, Adrienne, it seems like when -- you know, when you look at these packages, right? You've got personal spending up, you've got businesses spending at a rate, they were spending at 1.8 percent growth now it's at seven percent. Going to looks more like nine percent in the coming quarter. So, the numbers are just very solid in terms of optimism when you look at companies. And you know, you look at the way President Obama handled it after the 2008 debacle in the financial markets. And it was loading on regulation and no tax cuts, right? So, now you've got the exact opposite of that. Just on a purely empirical basis. This is what business is like, this is what investors like, and it doesn't look like there's a reason for that to cool off in the near term. Especially, if as Ian Bremmer said, he sees these trade wars as working out. So, is that a difficult metric for Democrats who are going to argue in November, you'll be better off with us?"
+    },
+    {
+      "speaker": "ELROD",
+      "utterance": "It's not a difficult metric, and here's the two reasons why, Martha. Number one, Americans are not seeing real wage growth, right? There may be low unemployment number right now, but they're not seeing growth in their wages. We haven't had a federal minimum wage increase in nine years. People feeling it heat."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Then how are they saving so much more? How are they saving so much more if they don't have more disposable income?"
+    },
+    {
+      "speaker": "ELROD",
+      "utterance": "I can -- I can certainly assure you, not every American out there is saving a lot. I think the average is $400 per family is what you will have their savings."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "But the growth rate in savings is up dramatically. So, I mean, I mean, that we've seen those numbers today. So, you've got people -- they have more disposable income and my guess is that it's probably from the tax cuts overall."
+    },
+    {
+      "speaker": "ELROD",
+      "utterance": "From a very -- from a very -- for me, by the way, from a tax cut that gave more way to corporations than middle-class working families. And middle-class working families does not see a permanent tax cut but corporations did. So, again, lots of flaws with that tax bill. Secondly, look, we just saw Larry Sabato yesterday came out with new numbers, and his prediction in terms of where Democrats are until they take it to House."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. Well, that's true."
+    },
+    {
+      "speaker": "ELROD",
+      "utterance": "And he's looking very good. So, again, people are not feeling these numbers, and they're not feeling this economic growth at home."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. So, Matt, it does look ugly. When you look at the numbers, and you see -- you know, we've seen three different reads this week on the gap, and it looks anywhere it probably around seven percent is probably the average of the number of increase for Democratic seats in the House. How do you navigate that? How do you try to turn that around for your party?"
+    },
+    {
+      "speaker": "SCHLAPP",
+      "utterance": "Look, there was a panic that ensued in the Congress with the Trump effect. And a lot of Republicans who came from more purple seats believe that Trump was going to be destructive for their chances in getting reelected. I've talked to a lot of those members who decided to retire. Not all of them, but a good percentage of them realized that the environment is so much better than they thought it would be. And the fact of this is that if you look at any indicator, things are leveling out for the Republicans. And why do you put Republicans in office, after all, Martha? We all know the reason you put Republicans in office, project strength from a national security standpoint, and get the economy fixed, get it moving. If Republicans cannot get the economy fixed, they're in big trouble. Because that's really the number one reason people turn to them. And the fact that this economy, I don't care what anybody says from Democratic Party. The American people buy every single measure you can look at, believe that things are drastically improving, and it's one of the reasons why the president's numbers are so better. So -- so much better. So, the fact is when Trump is involved, it's nationalized. With Trump as the president, he's going to play a big role in a lot of these races, and for a lot of these races, it's a good thing."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, we'll see. Chris, thank you very much. Matt, thank you. Adrienne, good to see you."
+    },
+    {
+      "speaker": "ELROD",
+      "utterance": "Thanks too, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "As Chris, said if they can get out of their own way and focus on this, they may have some good momentum as they go into the fall, so we'll see. Thanks, guys."
+    },
+    {
+      "speaker": "SCHLAPP",
+      "utterance": "Thanks."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, coming up next here on \"The Story,\" what Michael Cohen said then, and now? So which one is the truth? And the people behind the dossier, a judge now saying that they need to come clean to him. Who did they pay here and in the U.K. and in Russia, and did their hunt for dirt on candidate Trump turn up anything? Gregg Jarrett wrote a book on it and he's up next. Larry Nassar, the former USA gymnastics doctor sentenced to spend the rest of his life in prison for sexually abusing more than a hundred girls, now says he's a victim. Sarah Klein was just a child when he abused her. And tonight, she speaks out for the first time with her reaction to what Larry Nassar says now."
+    },
+    {
+      "speaker": "SARAH KLEIN, ABUSED BY LARRY NASSAR",
+      "utterance": "As much as it was my honor and privilege to hear the sister survivors, it is my honor and privilege to sentence you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Breaking tonight, evidence that both campaigns in 2016 wanted some dirt on each other, and we're willing to get it in some sources from Russia. But now there's a judge who wants to know exactly how the whole thing worked on the Clinton side of the equation. The dossier as we know was funded in part by the Clinton campaign, and use sources in Russia who gave information to Christopher Steele, much of which he said was unverifiable. So, on the Trump side, you've got the Trump Tower meeting in June of 2016. And tonight, former Trump lawyer Michael Cohen, reportedly dropping more bombs. Now, he says that the president knew all along about that meeting, even though, Cohen said the opposite in the past. So here's what the president said about it today. \"I did NOT,\" in caps, \"know of the meeting with my son Don Junior. Sounds to me like someone is trying to make up stories. He even retained Bill and crooked Hillary's lawyer. Gee, I wonder if they helped him make the choice.\" Here now Gregg Jarrett, Fox News anchor and author of the new book The Russia Hoax who knows this story inside and out. Gregg, good to see you tonight."
+    },
+    {
+      "speaker": "GREGG JARRETT, FOX NEWS ANCHOR",
+      "utterance": "Good to see you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So what -- let's start with the Fusion side of this because they've been very tight-lipped about who their sources were for the dossier but now this judge is trying to give them make them -- have them to pose on it. What are we going to learn there?"
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Well, the head of Fusion GPS Glenn Simpson testified that he hired Christopher Steele to get dirt on Trump. The dossier was the product. It -- seventeen memos, I've read them all. I laugh every time. It's absurd, fabricated, anonymous quadruple hearsay. If you tried to present it in a court of law legitimately, the judge would toss you out or toss you in jail. So you know, that use of the dossier if paid for by the Clinton campaign and not properly accounted for could be at a minimum a civil violation of a federal campaign election act, at worse could actually be money laundering."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, here's Jake Tapper talking about this topic. Let's take a listen. I want to ask you something about this."
+    },
+    {
+      "speaker": "JAKE TAPPER, HOST, CNN",
+      "utterance": "Here's the bottom line. The United States was attacked. The United States was attacked by Russia. Now, it wasn't like Pearl Harbor, it was a cyber-attack and they're a whole bunch of people in Washington who are trying to prevent the investigation from going forward. This -- I mean, imagine if study tried to prevent the investigation into how Pearl Harbor happened from going forward, you would say that that person is not being patriotic."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, if that is true, then it's also unpatriotic to not understand the dossier side of the equation where they clearly had sources in Russia who were trying to dig up dirt and sell it as part of the campaign, correct?"
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Absolutely. I mean, this dossier was the basis for the investigation of Donald Trump. On the day that Comey cleared Hillary Clinton, secretly his FBI was in a building in London meeting for the first time with the author of the dossier Christopher Steele armed with that totally phony fabricated document. They then watched the investigation, as I argue my book to frame Donald Trump for things he didn't do, for crimes he didn't commit. Collusion is not even a crime in a political campaign. It's nowhere in the criminal codes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right, so now Michael Cohen says of the Trump side of the equation that President Trump knew about that meeting. Don Jr. said I didn't father my father with these people coming from Russia. They wanted to talk about the Magnitsky Act which is not a light thing. That's a very serious thing that these people have been pursuing for a long time. So now, Michael Cohen says according to these stories, President Trump knew about it. What if he did?"
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "It doesn't matter. So what? Even if the President -- let's assume the President is lying and he knew about it. It's not a crime to lie to the media or otherwise just about every politician in Washington would be behind bars. The meeting itself, and I devoted chapter to this, it's entitled it's not a crime to meet with a Russian. There is no criminal code violation, it's not a violation of the Federal Campaign Election Act which specifically says foreign nationals may participate in American campaigns. They can attend meetings. They can open their mouths. They can provide information."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right, so let's take a look at what Michael Cohen said about this back at the time when the Trump 2016, the June 2016 meeting first came to light. Mike -- and Donald Trump Jr. said you know, here's my transact -- here's my e-mails that I sent back and forth. These people said that they had dirt on Hillary Clinton, he said oh, if that's true, you know, I'd love hear it. But then when they got there, according to his story all they wanted to talk about was the Magnitsky Act which I think adds up because that is what they want. That's what Vladimir Putin wants lifted. He says, so proud of Donald Trump Jr. for being open honest and transparent to the American people. This nonsense needs to stop. Now he is telling a different story."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "You know, Catherine Herridge, our own Catherine Herridge interviewed the Russian lawyer and she said we didn't talk about Hillary Clinton. That whole e-mail setting up the meeting was nothing but a pretext you know --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "It was a way to get to the meeting."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Yes, exactly. But the Russians could actually publish in Pravda the communist party newspaper a story about Hillary Clinton and corruption replete with documents and any American campaign would be allowed legally to use that. It would be a vital American interest. It's protected by the First Amendment. It's not a crime."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right, so you know, what I'm seeing is that on both sides of this equation you have two campaigns who were willing to accept some information. Donald Trump Jr. thought that he was going to get some dirt and said oh well, if that's you know, if you have something come on over and tell me what you have. And on the Clinton side, they paid Fusion GPS to get Russian sources through Christopher Steele to dig up dirt on -- what's the difference?"
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "On the Clinton side, it could be a crime depending upon how the money was handled and whether it was accounted for. There was no money exchanged on the Trump side so why isn't there an investigation of Hillary Clinton and her campaign and the Democrats for hiring a foreign national and paying money."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So I mean, I would assume based on what Jake Tapper said there that he would be pursuing it because not to would be unpatriotic, correct?"
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Correct."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Thank you, Gregg. Good to see you. The book is called The Russian Hoax and it came out this week, really good."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Thank you so much, Gregg. Good to see you tonight. So coming up this evening, they have waited 65 years for their soldiers and Marines to be home again after the Korean War. Our next guest is he has been tearing up all day at the thought that this day may finally come. But first, Larry Nassar says that he was attacked in prison because of this."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "(INAUDIBLE) I just signed your death warrant."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That I just signed your death warrant. His attorney is now on a new judge and a new sentence. Nassar's first victim Sarah Klein is breaking her silence in her first national T.V. interview tonight with her reaction to that."
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS ANCHOR",
+      "utterance": "Live from America's News headquarters, I'm Trace Gallagher. Strong winds are creating problems for firefighters building the car fire in Northern California. It's already claimed two lives. Mandatory evacuations remain in effect for the city of Shasta Lake and its 10,000 residents. Nearly 5,000 homes are threatened, 55 have already been destroyed in Shasta Lake. The fire has already burned nearly 45,000 acres and it's only 3 percent contained. The car fire began Monday. Twitter stock plunging more than 20 percent today. Twitter's decline follows a $190 billion loss by Facebook yesterday. The social media company says monthly users dropped in the second quarter adding further declines are expected in the next few months. This is Twitter's second largest one-day loss since going public in 2013. If news breaks out, we'll break in. I'm Trace Gallagher. Now back to \"The Story.\""
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Perhaps you have figured it out by now that little girls don't see little forever. They grow into strong women that return to destroy your world."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "You are a sick man, Larry. I hope you rot in prison because that's where you belong."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Your Honor, I asked you to give Larry the strongest possible sentence which is actions deserve. Let this sentence strike here and anyone who thinks it is OK to hurt another person. Abusers, your time is up."
+    },
+    {
+      "speaker": "ROSEMARIE AQUILINA, CIRCUIT COURT JUDGE",
+      "utterance": "Sir, I'm giving you 175 years, which is 2,100 months. I just signed your death warrant."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I just signed your death warrant, she said. Judge Rosemarie Aquilina was one of the many powerful moments after the long journey to justice for more than 150 survivors of the person they thought of as a doctor to the gymnast Larry Nasser. Now the disgraced former USA Gymnastics at Michigan State University team doctor says that those words signed your death warrant led to serial -- led to the serial sexual predator's assault when he arrived in prison. And because of that, he wants a new sentencing and a new judge. Joining me now exclusively in her first nationally televised interview is Sarah Klein, the first brave survivor in all of this to speak out. Sarah, welcome. It is good to have you here today. Your reaction to what he says happened to him when he got to prison and the fact that he wants a new sentencing."
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "Absolutely not surprised. Larry is a master manipulator. He abused hundreds of women for a span of three decades so this is just typical Larry. He's a prisoner. He has 60 years on his federal sentence and what does the prisoner want more than -- more than anything, to get out of person you know, sooner. So he's 54 years old, he's not getting out and we are not surprised in the least at his manipulation."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I mean, it's no surprise as you say that his attorneys also who I'm sure want to be paid for you know more of their work as they go through this if they say well we're going to try to get you, you know, a new suit -- a new sentencing, a new judge. You were -- what did you think of that judge as you watched all of this play out and the way that she handled the case?"
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "She handled the case extremely dignified. These are little girls who have been through a lot and she gave us the opportunity to speak up, use our voices. And during that week there was a momentum that built and there was healing that took place there and she did it with her head held high."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So tell me about you because initially, you spoke out as a Jane Doe. You did not want to be identified."
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And you were not a professional gymnast. You were a gymnast who was you know, working out and learning the sport when he took advantage of you at what age?"
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "Eight-years-old --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Eight-years-old."
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "-- through 25 years old. 17 years of abuse. Three to four times a week, every year or you know, almost two decades."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "How do you -- how do you cope with that?"
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "You know what, I'm a mother now. I have a daughter who's two years old and there's a lot of healing that comes with that, being able to speak out, use my voice on behalf of her and all of the other little girls out there who just want to have fun, want to participate in sports, it was time for me to come forward and time for me to speak up."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You were so young and you were -- you were -- I'm sure told that this was a treatment. Like you told everyone else, correct? So you don't even understand anything about sexuality at the age that this is beginning for you, right?"
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "Correct."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So you know, as you were getting older, how did -- how did you deal with this reality, and did you -- did you try to get anyone to stop it? You know what did you think?"
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "It took me a long time to understand that the man I loved, the man I trusted, the man whose wedding I danced at was actually you know, harming me and it wasn't actually medical treatment. So it took a long time, a lot of therapy. And then, you know, really sort of growing into an adult woman to even recognize what had happened to me for all of those years."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And did you ever confront him? How did you begin the confrontation process?"
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "I confronted Larry for the first time in January in Judge Aquilina's courtroom. And he immediately knew it was me. We -- our paths had not crossed since I was 25 years old. I'm now 38 years old. When I walked up to that podium and look him in the eyes and he just began to shake his head."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "He knew."
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "He knew."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Sarah, thank you very much. Good to have you with us tonight."
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I give you a lot of credit. And all of you who have spoken out has made the sport I hope safer for all of these young women who are coming into it now."
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "yes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Thank you for being here tonight."
+    },
+    {
+      "speaker": "KLEIN",
+      "utterance": "I appreciate it."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So joining me now is Mark Eiglarsh, a criminal defense attorney. Mark, good to have you with us this evening."
+    },
+    {
+      "speaker": "MARK EIGLARSH, CRIMINAL DEFENSE ATTORNEY",
+      "utterance": "Thanks."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You heard Sarah telling her story and how she felt that the judge was very professional and acted with great integrity during the course of all of that. Does Larry Nassar have any axe to grind that is legitimate with regard to this judge?"
+    },
+    {
+      "speaker": "EIGLARSH",
+      "utterance": "No. Well, very arguably Judge Judy-esque at times, what she did was not unlawful. Her saying things like, I wouldn't let my dog near you or you are a danger to the community are things that she said after or as she was hearing testimony from victims who courageously got up there and told what they said. Legally, if you can prove that the judge that knew she was going to give a life sentence prior to even hearing the testimony, then you've got a shot. But I didn't see any comments that evidence that state of mind."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And it is not at all unusual. I mean, there's Larry Nassar is in a class by himself."
+    },
+    {
+      "speaker": "EIGLARSH",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "But predators of this kind often do not have an easy time of it when they land in prison. Correct?"
+    },
+    {
+      "speaker": "EIGLARSH",
+      "utterance": "That's correct. She, you know, the defense is claiming it was the judge's demonizing of Larry Nassar that caused him to be attacked in prison. Listen, he demonized himself through his actions. And then the victims got up there and let the world know what he did. The only good thing about prison is that there is a pecking order. And people like Larry Nassar who prey on children they are at the bottom."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, absolutely. And you know, it just seems as you say to be a very thin thread to suggest that words that the judge used during the sentencing phase of this whole thing somehow have an impact on the individuals who happen to be behind bars, who I doubt really had an opportunity to see any of it."
+    },
+    {
+      "speaker": "EIGLARSH",
+      "utterance": "Listen. You are spending the rest of your life in prison. If you have some money, it's of no use to you in prison. You might as well spend it on lawyers. Who even if they have like a lottery ticket chance of winning, let them file this motion and see if there is anything in the record that supports what he is alleging. That at least gives him a period of hope for the period of time that he is in there being brutalized."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, no doubt. The attorney, you know, every attorney wants to tell someone in this situation or anyone who's been convicted and is going to do time that there is one more thing we might be able to pull off, right? There's one more way that we might be able to -- with all due respect to your profession."
+    },
+    {
+      "speaker": "EIGLARSH",
+      "utterance": "I don't want -- I do not want to demonize these attorneys. Let me make something clear. Maybe they did sense that this judge was going to sentence him to the max. I'm guessing that's how she felt. It's just they have to be able to have the comments to prove it. Something that she said maybe early on that evidenced that she was not going to be fair. I don't think they have it here."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Mark, thank you very much. Good to see you."
+    },
+    {
+      "speaker": "EIGLARSH",
+      "utterance": "Thanks, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And Sarah Klein, thanks again to you. Good to see you both. Coming up right here on The Story, North Korea makes good on a promise to President Trump. As families hope for closure from the North Korean War. We will talk to two men who were just little boys whose fathers never came home from that war about what this day could mean for them. And then a final chapter, we hope, perhaps, on plastic straws and jail time as the city speaks out. Tammy Bruce, Lisa Boothe, and Kat Timpf all straight ahead in our Friday friends, coming up."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What about people who want straws? People who want them?"
+    },
+    {
+      "speaker": "JACKIE NUNEZ, FOUNDER, LAST PLASTIC STRAW",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Plastic straws."
+    },
+    {
+      "speaker": "NUNEZ",
+      "utterance": "Yes. You know, I think with the core of it is not really about necessarily the straw. It's about plastic for single use."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "At this moment, a plane is carrying the remains of some great fallen heroes from America. Back from the Korean War. They are coming back to the United States. And I want to thank Chairman Kim for keeping his word."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Sixty five years have come and gone since the end of active fighting in the Korean War. But today there has been an important step towards closure for some of our families. As North Korea handed over dozens of small flag-draped caskets believed to contain the remains of American service members. Still, we don't know exactly what happened to thousands of our brave men in uniform. Among them, the fathers of my next guests. Lieutenant Howell Downes' plane went down in January of 1952 when he was just 26 years old. At the time, he had a young son and a daughter on the way. Captain John Henry Zimmerlee was on a mission in March of 1952 when all contact was lost with his plane and he left behind two young sons. These sons have dedicated their lives to helping families like theirs get their loved ones back and get answers. John Zimmerlee and Rick Downes join me now. Welcome, gentlemen. It's good to have you back on the program. John, let me start with you. What does it mean to you when you see those small caskets draped in those blue flags?"
+    },
+    {
+      "speaker": "JOHN ZIMMERLEE, SON OF KOREAN WAR VETERAN",
+      "utterance": "Well, obviously it was an emotional moment where all of the family members have been communicating over the years and we all feel like brothers and sisters. So we really expect that these remains will have some effect on some of the families that we have become so close to."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And Rick, your thoughts as you look at this. This was a very solemn procession and I know it's a long road for these caskets to get to get, you know, to continue here and get resolution in terms of the DNA and the testing that will be done on them. But emotionally, what did you feel today when you saw all this? RICK DOWNES, PRESIDENT AND EXECUTIVE DIRECTOR, COALITION OF FAMILIES OF KOREAN & COLD WAR POW/MIAS: Well, it's hard to. And we've been holding back those emotions for so long. It's not a switch that just comes off especially if you have been kind of pursuing all the other issues that go with it. But just the whole process of having to go through this, and I actually, personally allowing myself to feel emotions that I haven't really been allowing. That's kind of a new thing for me."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Rick, staying with you for a moment. You know, what would it mean for you if you -- and what would you do? Would you have a ceremony? If you do get to that point where you have remains that are positively identified as those of your father, how will you proceed then?"
+    },
+    {
+      "speaker": "DOWNES",
+      "utterance": "Well, emotionally that question is kind of difficult to answer because you are talking about something I don't know how to feel. You know, actually learning what happened to him. And feeling convinced that I have him back. I don't know what that would feel like. So, I don't know what we would do. We probably would have a service of some kind. I'm making it up as we go along right now. There is so much to think about before that could happen. To make that happen that that's kind of the focus. And let that be what it's going to be if and when it happens."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I understand. John, in terms of the process, I know some of the families do not want these remains to go to Hawaii to a government lab. Can you explain what your issue is with that?"
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "utterance": "Well, Kelly McKeague, the director of the DPAA has admitted recently that it could take years to identify these remains. While we have talked to independent labs who feel like these remains could be identified in 90 to 120 days. And so, if the government is allowing now $10 million to identify these remains we would like the money to go to a lab who can do it much quicker and much less expensive than our government labs. We want to see some results. We want the remains to be identified."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "yes."
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "utterance": "I'm sorry? We want our--"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I mean, John, sorry. I'm sorry to interrupt you."
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "utterance": "-- our families to come home."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, it seems to me that that is an argument that would resonate with President Trump. He, you know, isn't a person who likes to wait a long time for resolution on things and if there is a more efficient way, a better scientific way to resolve this, do you feel like your voice is heard by the administration on that issue?"
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "utterance": "Not so much by the administration from us but through the media we are getting quite a bit of attention and we really appreciate your bringing this to light. Bringing it to surface so our government can consider it."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. I mean, we certainly hope--"
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "utterance": "It's really important to us."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "-- that they are listening to you tonight. Rick, what are your thoughts on the remains going to a government lab in Hawaii?"
+    },
+    {
+      "speaker": "DOWNES",
+      "utterance": "Well, that's not my thing. The best place for them is whatever that may be. We kind of all have our ways of approaching this. Our ways of doing things. So, John is much better versed on that than I am. I'm interested into, you know, the thing to know about is some of these caskets are going to have full skeletons and they'll have artifacts and they're going to have dental and they're going to have ways that can be identified rather quickly. And that's going to be really nice because we could see some resolution. No matter who is doing the identification in short term."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Gentlemen, I know this is something that you -- it's a part of you, it's part of your families, it's a part of our life. And we truly hope that you get the closure that you are looking for here. And it looks like the ball is moving forward in some way and we will stay on the story. We'll have you back as it moves forward. Thank you so much to both of you for being here tonight."
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "utterance": "Thanks."
+    },
+    {
+      "speaker": "DOWNES",
+      "utterance": "Thanks for having us."
+    },
+    {
+      "speaker": "ZIMMERLEE",
+      "utterance": "Thank you for pursuing this."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Absolutely. Our honor. Thank you, gentlemen. All right. So coming up in just a moment, you may have seen some of this last night as Roseanne Barr is speaking out."
+    },
+    {
+      "speaker": "ROSEANNE BARR, ACTRESS",
+      "utterance": "You know, I made a mistake obviously. It cost me everything. My life's work. Everything. I made a mistake. And I've paid the price for it."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "This was something last night. Stick around. We'll show you more of it. Plus, the haters shaming Tom Brady for having a dad bod. The Friday ladies take it on. Tammy Bruce, Lisa Boothe and Kat Timpf will join me coming up."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Roseanne Barr speaking out last night to Sean Hannity. This is the first time that she has broken her silence on TV since her controversial tweet that ended her hugely successful comeback show. And in case you missed it, here's what happened."
+    },
+    {
+      "speaker": "BARR",
+      "utterance": "They were saying it was racial. When it's political. Then everybody started saying I was a racist. I made a mistake. And I've paid the price for it. I'm not a racist. And the people who voted for Trump, they're not racist either. And Trump isn't a racist. Sorry."
+    },
+    {
+      "speaker": "SEAN HANNITY, FOX NEWS HOST",
+      "utterance": "You suffer from multiple personality disorder?"
+    },
+    {
+      "speaker": "BARR",
+      "utterance": "Well, I don't suffer from it anymore."
+    },
+    {
+      "speaker": "HANNITY",
+      "utterance": "You don't?"
+    },
+    {
+      "speaker": "BARR",
+      "utterance": "I enjoy it."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "She loves all these personalities. Each unique in its all way. So what does my Friday friends panel thinks about this interview? Joining me now Tammy Bruce, president of Independent Women's Voice. Lisa Boothe and Kat Timpf both Fox News contributors. All -- good to see you all. Tammy--"
+    },
+    {
+      "speaker": "TAMMY BRUCE, FOX NEWS CONTRIBUTOR",
+      "utterance": "Good to be here."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What did you think of Roseanne last night?"
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "Look, Roseanne has been around for a very long time. Her career has been, really she's been a Bulgarian. This is not a surprise, this is not a new Roseanne. I think there's only been one Roseanne because it's been the same one for a very long time. As a matter of fact, when she argues about what she was saying, something that we have all railed against. The nature of what she called Valerie Jarrett. She also called Susan Rice an ape five years earlier on Twitter. So there is the nature of what she was doing but there was no real backlash then. So then you do have a political framework of this. She argues that she's only under attack now because she supported Trump. Well, in part that's the only thing that's different from the Susan Rice comment to the Valerie Jarrett comment. So you got so many layers to this. All of us, you know, look, if you've been in the media, you've said something that probably offended someone inevitably and you said something you regret, of course. The issue then also becomes do you destroy someone in the process?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "Or do you accept their apology based on the nature of their history and if they are really sincere. We are still grappling with that."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "And I thought it was fascinating interview."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, and then she said that she should fix her hair. That Valerie Jarrett should fix her hair. And I think what she was trying to get that was that she thought her hair reminded her of the actress on planet of the -- I don't know. So she was trying to spin it in some ways still. But it's still a mess."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "LISA BOOTHE, FOX NEWS CONTRIBUTOR",
+      "utterance": "You know, we saw this different personalities in the interview I guess. I mean, look, she has apologized. I think she is sincere in the apology. So, you know, she lost a lot in the process. As she mentioned base like, she lost the show, I mean, she lost millions of dollars. So I think it's time to kind of forgive and move on. At that point--"
+    },
+    {
+      "speaker": "KAT TIMPF, FOX NEWS CONTRIBUTOR",
+      "utterance": "But if she gives interviews like that, not only she was talking about Valerie Jarrett's hair, she start talking about Sean Hannity's hair."
+    },
+    {
+      "speaker": "BOOTHE",
+      "utterance": "But Valerie Jarrett too, I mean, she's selling a book right now. So honestly being in the headlines in this has to help book sales. She was on the View yesterday talking about this. I was looking at the headlines there's been a lot discussed. So, I'm sure it helps with the book sales. Roseanne should not have never made the comment or done the tweet in the first place."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "It's a disaster. She's trying to dig out of the hole. It's not working if she (Inaudible). We only have three more minutes. I want to move to Tom Brady's body. Because why wouldn't you want to do that, right? So let's take a look. This picture he is getting so much, you know what, for this picture. And Kat, they're saying that he has a dad body. He is 41 years old. Winning his quarterback in football history. I mean, does he deserve any of this?"
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "I think that there is a level of success and riches where you probably don't care what your body looks like. I think that Tom Brady is probably at that level. He is on vacation. He is on the beach. He is probably having some tacos. Probably having pina coladas. Totally fine. I think he looks fine. I don't know what the problem is. I highly doubt he really cares."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, I don't think he cares at all."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "You know what I mean, come on."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "He's got Gisele on one arm."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Yes, he's got Gisele."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Cry me a river, Tom."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "And chip gains is also, you know, from fixed rapper (Ph)."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "He also got slammed for having a dad bod. He's proud of it. You know, and this is role models for every regular guy out there who doesn't look like a body builder. I think it's fabulous."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Also they're dads so it seems appropriate. Now they've got kids, so they've a dad bod. Also that dad bod earned him, you know, tens of millions of dollars and they gave him a $40 million contract he had recently signed. Also he is also one of the greatest quarterbacks in the history of the NFL."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Also, you know, I mean, I have the book TV 12 and you know, it goes through his entire diet and what he does to work out and all of that. And he is not a weight lifter."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "He doesn't believe in that. Because this is the body, it's called pliability. And this is what he has worked toward. It's supposed to be pliable. It's a different look."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "You have become an expert."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "I want to know--"
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "That is my look, too."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Because I'm a huge Patriots fan."
+    },
+    {
+      "speaker": "BOOTHE",
+      "utterance": "There you go. That's right. Who needs abs? I've never dated -- I've never dated a man with abs."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Abs are overrated."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "You say they are overrated abs. And you just think about them doing the meal prep and they can't hang out with you because they have to go to the gym and do the meal prep."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "No, I want a guy that will eat tacos."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, sure."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "Pliable angle."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Pliable. It allows for a little of softness. It's OK."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "Flexibility."
+    },
+    {
+      "speaker": "BOOTHE",
+      "utterance": "Yes. This is what we're working toward."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I want to make the last and I want to finish out the week because I've been obsessed with straws all week. In fact, I went somewhere last night and someone handed me a paper straw. I'm like, I'm sorry, I don't have plastic. But now in Santa Barbara, a lovely place in Santa Barbara, they are now saying that they are not going to bust people. You are not going to jail necessarily if you give out a plastic straw."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "But you see that's the keyword. Necessarily. Their proposed rule, the proposed law is you would go to jail for sick months for like two violations."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "But they're saying now we're really weren't serious and by the way we'd never really do it. But you know, they always like those laws to be there just in case they need to put you in jail for six months."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "I brought the straws."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Good."
+    },
+    {
+      "speaker": "BOOTHE",
+      "utterance": "I'm very passionate about plastic straws and keeping plastic straws. I just don't know how anyone goes on TV with a straight face making some of the arguments."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Arguing in favor of the last straw. Kat, (Inaudible) you had about paper straws."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "I am just like can't believe this is even a thing. I have straws at my apartment. And I had no idea that they were contraband. I had no idea that if I handed one to someone that if I were in Santa Barbara that I could actually go to jail. I thought that my behavior was pretty boring but it turns out I'm a rebel."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You a rebel. Thank you, ladies."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Have a good weekend, everybody. The picture of the night when we come back."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Finally we usually end things with an uplifting quote of the night. But tonight we have a picture of the night. Look at this from Politico. That is special counsel Robert Mueller in the foreground, and Donald Trump, Jr. at the same gate at Reagan National waiting for their flight this morning. Fox News asked Mueller's office about the picture and they say that he was not aware of Don Junior and had no interaction with him. So you have to wonder. I mean, they could be seated right next to each other. That might be a little bit awkward. Anyway, we'll see if we can find that out it turned out. That is our story for tonight. Have a great weekend, everybody. Tucker Carlson is up next. END Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

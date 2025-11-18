@@ -1,0 +1,822 @@
+Headline: 'Your World' on the inflation duration, internet outage
+Sub-headline: 'Your World' welcomed guests Sarah Westwood, Lee Carter, Hans Nichols, Francis Collins, Morgan Wright and Dominique Dawes
+
+  close 
+     Video  Dr. Collins: Masks could reduce 'incredibly contagious' Delta variant transmission 
+NIH director discusses the surge of coronavirus cases in the US on 'Your World' 
+This is a rush transcript of "Your World with Neil Cavuto" on July 22, 2021. This copy may not be in its final form and may be updated. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+NEIL CAVUTO, FOX NEWS ANCHOR:  You know, Martha, a lot of people in this country felt like that little kid, upset, angry, and probably wondering, what was all this fuss about? 
+So many popular sites that were down. There was no ransomware. There was no hack attack. What joined the likes of UPS and Capital One and Costco and Delta and so many others was, they would punch in their site, and nothing would happen. It was an outage, an Internet outage, as simple as that.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+But it did embroil better than 50 prominent names, and all because it just broke down in the middle of the day. Most of them are coming back. But a lot of people are raising concerns anew. This is the part of infrastructure we don't talk about.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+But it's a part of the infrastructure that maybe we should, because going on at the White House this very minute is a meeting, the president, and the vice president, with labor and business leaders about an infrastructure package that, after everything that went on today, a lot of folks are saying should include what's going on, on the Internet and what's going on, on the World Wide Web, because the American part of it was all but shut down for a good while.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Welcome, everybody. I'm Neil Cavuto. And this is "Your World."
+And what in the world happened? No sinister ploys here, no evil intent, no nasty third-party vendors trying to do damage from Russia or China, just an Internet breakdown that had some sweating it out and wondering, what's going on here? 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Susan Li has been piecing it all together and joins us now. 
+Hey, Susan.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+SUSAN LI, FOX NEWS CORRESPONDENT:  Neil, we had dozens of popular Web sites going down close to noontime today, disrupting business and travel, and all this in a heightened cybersecurity era, especially after the SolarWinds and Colonial Pipeline hacks.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+So you can imagine there were a lot of concerns. Now, we're talking about some of the most visited and use Web sites across America, Amazon, Airbnb, FedEx, Fidelity UPS, Schwab, Ally, Discover. You had Delta in there, Costco, Southwest. 
+So what caused this online blackout? Well, it goes back to a company called Akamai, which pushes web data across the Internet, and a glitchy software update that failed to direct Web browsers to the right Web sites. And, as you know, Neil on the Internet, it's really a cascade dominoes effect. 
+So, if one point of delivery isn't working, that upends everything else, including cloud platforms like Oracle, which powers a lot of these Web sites. So, Akamai says that this disruption lasted up to an hour. And upon rolling back the software configuration update, the services resumed normal operations.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Akamai can confirm this was not a cyberattack. Now, 2021 has seen multiple high-profile attacks, Russian hackers attacking SolarWinds and the Colonial Pipeline. China has been blamed for the Microsoft Exchange hack back in January. And also, at the same time -- and this was scary -- we have reports of 911 calls being disrupted on the East Coast.
+That doesn't appear to be related or goes back to the Akamai outage. In fact, this is just a cut fiber wire in North Carolina, according to reports. But you can imagine, Neil, with all of these things happening at the same time in this era of cyber threats, people couldn't help but wonder what exactly was happening and if it was all related to something more dangerous and more nefarious. 
+CAVUTO:  Yes. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+And to your point, Susan, all they knew is, they couldn't get onto their sites. If you're trying to get onto your Fidelity site or Capital One side or Vanguard site, I mean, you couldn't access it.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+LI:  Yes. 
+CAVUTO:  So that does put alarm in people. And, to your point, this kind of stuff does keep happening, whether by sinister design or just an overused Internet.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Thank you very, very much, Susan Li, on all of that. 
+And, again, timing is everything, right? The president and the vice president meeting with business and union leaders at the White House, ostensibly to discuss the infrastructure package, namely, the initial one, the $1.2 trillion, $1.3 trillion plan that we're told includes infrastructure only. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+And to hear a number of prominent Republicans tell it, better include our Internet grid, if you will, and whether it's up to speed and getting it up to speed, because these things do keep happening, don't they?  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+We got Morgan Wright with us, a cybersecurity wunderkind. We have got Charlie Gasparino. I don't know if he's a wunderkind, but he's certainly a wonder to a lot of people. But he's my buddy. 
+(LAUGHTER) 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+CAVUTO:  So, Charlie, let me get your take on this, kidding aside. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Different circumstances, different companies, same result for a lot of people trying to get on to these sites. They couldn't. And it's -- it happens a lot. 
+CHARLIE GASPARINO, FOX NEWS SENIOR CORRESPONDENT:  Yes. 
+And it's good that they're talking about this finally, because this has been a huge ignored issue when it comes to infrastructure. A lot of people think the infrastructure crisis involves roads and bridges. And, listen, we can always have better roads and bridges. But that's not really where the crisis is.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+I mean, those roads and bridges are handled by localities. They are serviced from -- or they are built with municipal bonds. There isn't really a federal need to build roads and bridges in New York state. There is a federal need to protect the Internet, and to protect the Internet grid and protect the security of the country, because so much business is conducted over this and on computers.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+And no -- none of the money that's in the Biden infrastructure package is going to that as of right now, or very little of it. And it's about time they started -- they started doing that. 
+But I would say, if you're going to spend whatever they're looking to spend, what is it, another $5 trillion -- I lost count -- it sounds like Monopoly money after a while. If they're going to spend trillions, they should not spend it on roads and bridges. That is not where it's needed on a national level. It is needed on this type of stuff that occurred today.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+And, by the way, Neil, some of it is -- some of these hacks into systems that basically take down -- that could take down the economy come from hackers. Some of them aren't hacks. They're just screw-ups, like you had today. Either way, it's a national issue. It's what national, federal infrastructure money should be going to, not to build a bridge in New Jersey.
+I mean, just -- it's just -- it's almost absurd. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+CAVUTO:  Well, you can do both if you're focused at it.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+But leaving that aside, Morgan, I'm just curious. Our reliance right now, whether it's Akamai or some of these other players, on just a couple who essentially keep up the inner tubing of the Internet. 
+MORGAN WRIGHT, CYBERSECURITY ANALYST:  Right. 
+CAVUTO:  And I didn't realize until today, when I began looking into it, there are generally just a few that support these massive, massive companies and their sites.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+And that's a reliance that strikes me as a bit tricky. What do you think?  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+WRIGHT:  You know, there's the old saying, it doesn't hurt to be number one, but it doesn't hurt when you're the only one. 
+And Akamai is one of the few that can handle this kind of load. Now, they - 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+- the same thing happened -- people forget same thing happened to Amazon.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Their data centers went down. They had a configuration problem. 
+CAVUTO:  Right.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+WRIGHT:  So, this is one of the things.
+But I look at it this way, to kind of expound on it. That's a configuration error. That's human error. But the fact is, a small error like that, if you saw the cascading impact it had, if you go to DownDetector.com, you can see those huge spikes where all this went down. And we depend upon so much about this content to transact commerce and business.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+But, Neil, I'm looking at it from the other side. I'm going, what does that tell me? It tells me these are the choke points that are really going to affect us if anything bad happens. Look, after 9/11, if a plane exploded, or if something happened, people said, is it terrorism? Now that you're -- you just mentioned, now we're seeing things. People are saying, is it ransomware? Is it a cyberattack?  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+So this is kind of the new way things are going to be looked at. And until we do fix -- until we come up with the equivalent of a federal interstate system that is built by the federal government and standardized that way, we're going to continue to have this piecemeal kind of patchwork approach to how do we secure an entire grid when it's parceled out for individual support.
+(CROSSTALK)
+CAVUTO:  It does remind you, Charlie Gasparino, about how vulnerable we are, though. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+I mean, in that gap between this happening, I mean, I was on FOX Business at the time, which, Charlie, if you don't get, you should demand. 
+Fortunately, there were a lot of tuned-in viewers who were telling me, Neil, I can't get into my Capital One site, my Fidelity site. What the hell's going on? They were anxious about it. 
+GASPARINO:  Yes.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+CAVUTO:  And in that vacuum, people do get alarmed. Now, there were no market sell-offs or any of these basic operations impacted.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+But in that vacuum, it gets pretty tense.
+GASPARINO:  We have to start looking at infrastructure differently in this country. The infrastructure is not just a road. It's the highway that occurs between computer systems.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+And that's where business is largely conducted today. It used to be that trucks would deliver stuff. And we have -- information is what's key here. 
+And it's delivered over the information superhighway. And it's not foolproof. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+And there's almost -- and it's a national issue. I mean, one thing about 9/11, Neil, the country -- when we had, obviously, a tragic terrorist attack, I was -- I was working at The Wall Street Journal at the time. I was living in Manhattan. I was not far from Ground Zero. And thank God I wasn't there.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+And I would say there was a natural response to it. There is still not a national response to this. And I think one of the problems is that the Democratic Party still looks at infrastructure as like a road or a bridge.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+And they don't look at it in this way, which is so odd, since all the...
+(CROSSTALK) 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+CAVUTO:  Well, some of them do. To be fair, some of them do, Charlie. 
+But, Morgan, you did raise, I think, an interesting point. In the meantime, we dodged the bullet today. But you do worry about the vulnerability, if this were to happen again, and people were to log into their sites, and, suddenly, the financial sites, their accounts have disappeared, or they can never access their accounts. 
+Obviously, it could have been a lot worse. And that's a fear, that that is vulnerable. And despite, for example, financial institutions that have some of the best encryption codes and all the rest to deal with this, if you can't handle the site itself or stuff over and beyond your control, you have got problems, right? 
+WRIGHT:  Look, there's an old saying an Israeli general had that used to advise Netanyahu. If you want to bring a nation to its knees, you go after three things, power, water, and I added food to that, because it's a huge issue.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+People react to what they perceive as real, not what actually is real. The Colonial Pipeline hack, people reacted to a perceived shortage, not a real shortage. And then we see that enduring image of a lady pouring gasoline into a plastic trash bag.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+If this is one hour, imagine if it was six hours or 12 hours. Again, what happens is, people react to what they perceive to be a reality. If they perceive it's a real attack, these Internet outages can actually cause real actions to happen in communities. 
+And so, again, I go back to -- it's like Dwight Eisenhower came up with the federal interstate system. It was obviously a defense thing. But we have got to have the equivalent of an I.T. modernization that treats it that way that we have -- look, it's still up to me to drive safe out on the road, but you can't have every individual neighborhood and every individual company say, well, I'm going to maintain this one mile of road. 
+No, we have governments to do that.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+CAVUTO:  Right. 
+WRIGHT:  So, at some point, I don't like the government involved in everything, but I think Internet infrastructure...
+GASPARINO:  This is definitely -- yes.
+WRIGHT:  ... is a big play, and they ought to be right in the middle of it.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+GASPARINO:  I agree.
+(CROSSTALK)
+CAVUTO:  Indeed. 
+And they are probably on top and talking about just that. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Morgan and Charlie, thank you both very much.
+We're monitoring the developments at the White House, where the president is discussing infrastructure. No doubt, as both these fine gentlemen pointed out, you might add this to the list of worries. So we will be focusing on that.
+Also focusing on the masking up that's going on around the country and apparently a sign by no less than the president of the United States that it might, might be a good idea.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+The read from Dr. Francis Collins, the NIH director, here and only here -- next. 
+(COMMERCIAL BREAK) 
+(BEGIN VIDEO CLIP)
+PETER DOOCY, FOX NEWS WHITE HOUSE CORRESPONDENT:  A few weeks ago, the president said we were closer than ever to declaring our independence from a deadly virus. 
+Is that still the case, if you guys are now reportedly considering asking vaccinated people to wear masks again? 
+JEN PSAKI, WHITE HOUSE PRESS SECRETARY:  Well, first of all, the CDC director, who oversees decisions along those lines, and all of our public health decisions, made clear that that was not a decision that had been made just a few hours ago. 
+(END VIDEO CLIP) 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+CAVUTO:  But a lot of people are beginning to wonder whether it's just a matter of time before mask requirements indoors -- that is all the thinking now in Los Angeles County and other cities and counties across the country
+-- whether that could now go national.
+Let's ask Dr. Francis Collins, the director of the NIH.
+Doctor, very good having you back. Thank you for coming. 
+DR. FRANCIS COLLINS, DIRECTOR, NATIONAL INSTITUTES OF HEALTH:  Glad to join you, Neil. 
+CAVUTO:  So, let's talk about this, this need for wearing masks indoors, akin to what we're seeing now in Los Angeles County and others.
+Do you think that's a policy that should go national?  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+COLLINS:  Well, that's a decision the CDC director, Dr. Walensky, will need to wrestle with.
+It is unfortunate that this Delta variant, which is so incredibly contagious, is really spreading so rapidly across the country. You have seen those numbers, cases now over 40,000 a day, which compares to 13,000 just a few weeks ago. 
+So we're back in this space of trouble. And one of the things we know can reduce transmission of this terrible virus is wearing masks. There's no real doubt about that from the data from at least 10 different studies. And maybe, therefore, that's a way to try to slow down the progression of this and keep more people from getting sick and ending up in the hospital or even dying. 
+But we're not there yet on a national level. There's so much difference from place to place.
+CAVUTO:  Right. 
+COLLINS:  The CDC has a tough job, because they have got to look at the whole country.
+And the whole country is made up of a whole lot of different situations.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+CAVUTO:  You would think, with some of these spikes, Doctor, that the stubborn part of the population -- I'm saying stubborn not as a pejorative, but just that roughly one-third of Americans who will not get vaccinated -- that more would.
+A number of governors -- I talked to the Republican governor of Missouri -- is trying to incentivize them by offering a chance to win $10,000 to get a vaccine. Others are doing variations of that. But it's not moving the needle. 
+What do you think that is about? And you have a chance to address that group of Americans who are dead set against getting vaccinated.
+COLLINS:  Well, it is puzzling, with the evidence now so compelling. 
+When you look at that statistic that, in the recent weeks, 99.5 percent of the people who have died of COVID-19 are unvaccinated, if you needed any more evidence to say that you ought to roll up your sleeve, or you might become part of that statistic, here it is. 
+And yet, as you say, even in the states where outbreaks are now really looking serious, like Missouri and Arkansas, Louisiana, Florida, there doesn't seem to be a big uptake of vaccination amongst those who've been resistant. 
+I just think it's really hard for people who have made this decision for various reasons, based on information they have gotten, frankly, much of it misinformation or even disinformation, to hit that reset button and say, OK, let's reconsider this, because they're kind of locked in.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+But, if people are listening to this right now, Neil, I hope maybe they would consider doing just that. People are dying. And more people are going to be dying. And we have vaccines that have been proven safe and effective. 
+We have been using them now for almost a year since the start of the big trials. 
+They have turned out to be extremely good. And they work against Delta. So, if you haven't yet rolled up your sleeve, boy, think about, why are the reasons for that resistance? And maybe it's time to give them up. 
+I mean, talk to your doctor.
+CAVUTO:  Right. 
+COLLINS: Ninety-six percent of doctors have been vaccinated. That tells you something about what they think. 
+CAVUTO:  But not all the same percentage of health care workers in general.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Why is that, Doctor? Because that would give an anti-vaxxer a reason, aha, if these -- all these health care...
+COLLINS:  Yes.
+CAVUTO:  ... professionals aren't doing it, it must be something wrong. 
+What do you tell them?
+COLLINS:  Well, health care workers are a very diverse group.
+And that's everything from people with M.D. degrees who have access to all the data, to people who are doing much less complicated jobs, who basically are a snapshot of America. And amongst those are certainly people who have also fallen into the same circumstance of being suspicious or skeptical. 
+So, I'm not too shocked to know that... 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+CAVUTO:  Right. 
+COLLINS:  ... across all of health care workers, which is such a diverse group, there are resistances.
+But the people with the best chance of actually being able to size up the evidence, being the doctors who have front-line patient care responsibilities, they're certainly making it clear what they think. 
+Shouldn't you kind of listen to them? 
+Call up your doctor if you aren't sure what he or she would say, and get that answer. And, by the way, you don't have to wait for your doctor to call you to tell you where to get a vaccine. 
+FOX News is doing real well right now making it clear. Vaccines.gov, you can find out where the place is that's closest to you. 
+CAVUTO:  No, no, they're out there.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+I'm wondering if the next step in this is for those who've been vaccinated turn around and say, look, knucklehead, you're ruining it for us. I mean, we all have to wear masks now because of you, and then -- and it turns. 
+That doesn't seem to be happening. But, in France, they kind of forced the issue, as you know, Doctor, with these so-called health passes. Without proof that you have been vaccinated or testing negative, you can't go to museums or movies or restaurants and the like.
+Do you think something like that's necessary here? 
+COLLINS:  Well, it won't be done by the government. 
+But businesses may decide to do that, and, certainly, concerts and universities now requiring students to show evidence of vaccination, because they don't want an outbreak on their campus. 
+So, yes, people are going to find themselves screened out of an increasing number of locations that you would really like to go if you haven't been vaccinated. I hate it that it becomes necessary for that to be the motivation, but I will take anything right now. 
+I got to tell you, Neil, I have been a physician, a doctor, a scientist for my whole career. It has been so amazing to see the way that science has risen to this occasion, and we have these vaccines.  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+I never would have dreamed that we'd be having this conversation in July of 2021...
+CAVUTO:  Right. 
+COLLINS:  ... about the fact that some 80 million people haven't decided to take advantage of something lifesaving. I didn't see that one coming. 
+CAVUTO:  You know, finally, Doctor, a year or so ago, you were a rock star, as was Dr. Fauci. I'm not saying either of you are any less rock stars.
+(LAUGHTER)
+CAVUTO:  But it's like a public sort of a turn against the medical experts, particularly Dr. Fauci, where he's been almost reduced to a criminal. 
+And I'm just wondering, as his friend -- and, of course, you have taken your body blows too from the press -- yes, you said this back then, you say this now -- what do you think of all of that? 
+COLLINS:  Well, I'm afraid it's an indication of just how polarized our society has become about everything. 
+But it is heartbreaking and it's unjustified to have somebody who's given his whole life as a public servant, trying to get truth to people to save their lives from infectious diseases, to now being demonized in this way and attacked from multiple directions by people who have an agenda. 
+And it's not an agenda about helping the public. It's an agenda about promoting themselves. And that just should not be happening. And yet it seems to be commonplace nowadays. 
+Please, people, let's think about this. Are we actually doing the things that are going to help us? Is this the way our country wants to go, where we figure out how to pick a fight about issues that really ought to be about saving lives? I'm really worried about us. 
+We have an epidemic, Neil, of a biological sort, but we have another epidemic, which seems to be one of meanness and a promotion of information that is verifiably false by people who seem not to worry about the responsibility they should have, because this is costing lives now. 
+CAVUTO:  You know, it's interesting, too. 
+And I will just leave on this, that I know, as you said at the outset, because I was talking to you in the beginning of this, as I was Dr. Fauci, you said, well, the science changes, too. We forget that. Recommendations, masks, not recommendations, all that evolves. Scientists are part of that process, understanding the ever-evolving nature of this.
+And then, all of a sudden, you're suspect because things do change. 
+COLLINS:  Right. That's called a flip-flop.
+CAVUTO:  At some level, as a doctor trying to help people, does it tick you off? 
+You're trying to do the work of protecting people, and some of the people you're trying to protect turn on you.
+COLLINS:  Yes, it's hard to watch. It's disheartening. 
+I'm an optimist. I believe in the basic good of humanity. But I also know that we're susceptible to stepping into behavior patterns that can be quite destructive. And that seems to be where we are right now, with so much tribalism and taking sides. 
+CAVUTO:  Yes. 
+COLLINS:  Medicine shouldn't be like that. 
+CAVUTO:  It should not.
+Between Dr. Collins, what you had to deal with, what Dr. Fauci has to deal with, I don't know. We're all joined at the hip. We all breathe the same air. We're all human beings. 
+We're all meant to sort of look after each other, not rip each other asunder. 
+But, anyway, thank you, Doctor. Very good seeing you. 
+COLLINS:  Well, amen to what you just said.
+And always good to talk to you, Neil. Thanks for spreading the word about truth. That's what we depend on here, isn't it? 
+CAVUTO:  All right, you're right, Dr. Collins.
+I mean, bottom line here, I don't care your politics or your views. And it seems trite. I have been saying this for the better part of the first vaccines coming out. Just get vaccinated. Be safe. 
+If you want to rip us a new one, or say that I'm a globalist, or any of this other stuff that's going -- have at it. 
+I still don't understand the globalist thing. I thought you guys were referring to my waist size. But, leaving that aside, this is about staying safe, so that you can continue ripping me a new one. 
+(LAUGHTER)
+CAVUTO:  We will have more after this.
+(COMMERCIAL BREAK) 
+CAVUTO:  The president says all this inflation stuff is transitory, but the company behind, well, Hellmann's mayonnaise and Ben & Jerry's ice cream, a host of others, are saying, no, it's not. 
+Pricing up those goods and those increases could last a while -- after this. 
+(COMMERCIAL BREAK) 
+CAVUTO:  You know, maybe this is a simple case of the president, he doesn't get out to go to the grocery store and see what you are seeing.
+The price of a lot of things are going up. And the company that makes Done soap, Hellmann's, Ben & Jerry's ice cream, so much more, saying those price hikes are going to continue, and maybe for a good while.
+Edward Lawrence has been tracking all of this. 
+And I guess we're in for some sticker shock for a while, huh, Edward?
+EDWARD LAWRENCE, FOX BUSINESS CORRESPONDENT:  We are.
+And, Neil, I'm going to use this company Unilever as sort of a bellwether. 
+You probably never heard of them. But you mentioned you have used their products, Ben & Jerry's ice cream, Dove shampoo, as well as Hellmann's mayonnaise -- well, maybe not the shampoo for me.
+Sales for them were up 5.4 percent over the past three months. That's good news for them. But tucked into the fine print of their forward guidance, it says that operating margins are expected to be flat in 2021, even though the company believes sales will grow up to 5 percent. 
+That's complicated. What it means is the cost to make their goods have gone up. Eventually, the company will pass that on to you to meet profit goals.
+Here at the White House, again, they're deflecting that inflation question. 
+Listen.
+(BEGIN VIDEO CLIP) 
+PSAKI:  Well, first, I would say the president is quite focused on making sure we're doing everything we can to help middle-class families as the economy is recovering and as there are ongoing challenges in our economy that have been longstanding, including supply chain issues, which you and many others are quite familiar with. 
+(END VIDEO CLIP)
+LAWRENCE:  And, Neil, they hope the supply chain issues, that's the magic key for them, that, once that settles down, inflation settles down.
+We will have to see -- back to you. 
+CAVUTO:  You know, it's interesting.
+I loved your shampoo comment, by the way, my friend.
+(LAUGHTER)
+CAVUTO:  But I am curious as to these guys who have to factor in these price hikes.
+Businesses seem to be saying, for now, we could pass them along because customers are paying them. But you wonder for how long.
+LAWRENCE:  Well, exactly. 
+And, in fact, a recent study shows that 47 percent of small businesses are already passing on that inflation cost. So we're really going to have to see in the future if the bigger companies follow suit.
+But you know, Neil, that when prices go up, it's hard to get them to come back down. 
+CAVUTO:  Yes, the history is they don't come down quickly. You're right about that. 
+All right, Edward Lawrence, thank you very, very much. 
+LAWRENCE:  Yes. 
+CAVUTO:  Well, the president, as I said, is not worried about inflation staying around for a while.
+But his top pollster is -- after this.
+(COMMERCIAL BREAK) 
+CAVUTO:  All right, well, the president might be saying all this latest stuff is transitory, but indications are, within team Biden, they're concerned that this issue is resonating and indeed gaining traction among all voters. 
+The guy who wrote that story joins us right now, Hans Nichols, Axios reporter.
+Hans, it just seems to be that this is gaining traction. It's very obvious it's gaining traction. And yet there's a disconnect between what the president is saying and maybe his top people are fearing. Could you outline what this is all about? 
+HANS NICHOLS, AXIOS: Sure. 
+So I would first acknowledge that the president in a bit of a pickle, because if he starts talking about inflation, that's going to cause inflation, right? If he raises alarms about inflation, that's going to cause the very thing that they want to avoid. 
+I would also point out, Neil, that there's a distinction between what the president's economic advisers thing and what political and outside political advisers, likes Celinda Lake, the pollster that we talked to that sort of raised this warning. 
+Now, in the economic circle, they're still making sort of two cases, one, the transitory or short term is what we heard Biden talk about last night. 
+They're also making perhaps a more unique argument. And that is, if you pass another $3.5 or $4 trillion in spending, that's actually going to depress inflation. 
+Now, you know your economics as well as I do. Let me walk you through their theory on that. Number one, they say, it will increase productivity gains. 
+And, number two, they say it's entirely paid for. And so it's basically fiscal-neutral. 
+The problem with this is on the back half of that argument. And that is because, even by the White House's own math, the things they're talking about spending, they're not talking about paying for it over the same time horizon. So they have got 10-year spending plans, and they're going to pay for it over 15 years.
+By definition, that's not fiscally neutral, and will likely add to inflation -- Neil. 
+CAVUTO:  When you talk about economics, though, there's a way to present something -- when the American people see for themselves at the grocery store that things are more expensive, then anything you say contrary to that just seems silly. 
+But you could also frame it in a way to say, all right, this is happening because our economy is coming out of this pandemic funk, and things are booming. And this is to be expected, but it won't last long. 
+Now, therein, it gets to be a tough sell, because if it does last a while, then there goes that argument. But you and I also know that, once prices start moving up, they take a devil of a time to reverse. So how does he walk that line? 
+NICHOLS:  Yes.
+Well, so, for the first part of your argument, you -- if you listen closely, the White House kind of says that:  This is all reopening. There's some things they didn't expect. 
+CAVUTO:  Right. 
+NICHOLS:  There's some supply chain issues, the base effect argument, they trot out as well.
+On sort of the longer-term effects, though, you're absolutely right, Neil. 
+It's very difficult to bring prices back down, in part because what the next wave is likely going to be is going to be waged-induced, right?
+And I think 3.6 percent was the increase for wages. But you think about the life cycle of any product, that's compounding, right? It's the person that makes it is 3.6 more expensive. It's the person who drives it. It's the person who stocks it in a store. 
+And if you listen really closely, what the White House is actually saying is that companies need to pay workers more. And so there's a side to the White House -- and it's subtle here and I don't want to get too in trouble. 
+But there's a side to the White House that's rooting for inflation because they think it has upward pressure on wages.
+And they think workers deserve a wage increase. And a real -- whether or not that's a real wage increase, they deserve a wage increase -- Neil. 
+CAVUTO:  Right. 
+But you got to make sure that whatever extra you're putting in your wallet isn't going out because things are getting more expensive, so you have to fan out more from your wallet. So, it's a balancing act. It rarely works out.
+NICHOLS:  It's either/or.
+(CROSSTALK)
+CAVUTO:  All right.
+Yes. 
+(CROSSTALK)
+NICHOLS:  ... a wallet or wheelbarrow to carry around all your currency.
+But, right, that's the -- that's the doomsday scenario, right, is that you get paid a lot more. And I have been in countries like this. You get paid where you have you need a backpack for your cash, but it doesn't get you very far. And that's the danger. 
+I'm not suggesting we're anywhere close to that with the United States greenback. So I want to be clear on that. 
+CAVUTO:  No, but we have seen it in Argentina. We have seen it in Italy. We have seen it before. Now, we're nowhere near that. But, again, that's a legitimate fear that people should at least be discussing, to your point. 
+Hans, thank you very, very much. 
+All right, we talked about the president, what he is saying certainly on inflation, and hopefully that it's passing. But this issue with the virus and then the whole vaccine push, and then a charge I think he leveled last night that some parents might not be honest when it comes to announcing their kids' vaccinations when they go back to school. 
+Did I get that right? Well, I will play the tape. You decide. 
+(COMMERCIAL BREAK)
+(BEGIN VIDEO CLIP)
+JOE BIDEN, PRESIDENT OF THE UNITED STATES:  Those over the age of 12 who are able to get vaccinated, if you're vaccinated, you shouldn't wear a mask. If you aren't vaccinated, you shouldn't be wearing a mask. 
+So it's going to get a little bit tight in terms of, well, are mom or dad being honest that Johnny did or did not get vaccinated? That's going to raise questions. 
+(END VIDEO CLIP)
+CAVUTO:  Wow. Are mom and dad being honest?
+Maybe that wasn't what he meant to say, but that's what he said.
+I want to go to my two next guests. You know them, of course, Sarah Westwood from The Washington Examiner, of course, Lee Carter, a Republican pollster. 
+But I'm more tapping the other side, probably the far more important side of these women. They're both moms. They're both parents.
+So, Sarah, you heard that, and you thought what? 
+SARAH WESTWOOD, THE WASHINGTON EXAMINER:  I thought that logic doesn't make a ton of sense, because, in every other context in American life right now, adults are trusted to attest to their own vaccination status, according to the Biden administration's CDC guidance.
+It's voluntary to wear a mask if you are vaccinated. If you're not vaccinated, you're supposed to wear a mask. So why that trust that's extended to adults would stop at the school doors doesn't make a lot of sense.
+The point should also be moot, because the risk calculation for the entire country has changed. And particularly in schools, the debate about masking kids, the debate about virtual learning was never about the risk to kids themselves, but about the risk to the teachers and about the risk that kids could potentially contract asymptomatic cases and bring them home to mom and dad.
+Mom and dad and teachers are vaccinated now. And so that risk is eliminated. And the mortality rate for kids is less than that of the flu. I mean, there's just basically zero risk to children. 
+You look at the schools that reopened in the fall in places that did so last year. And even when the vaccinations were not available, there was no evidence that reopening schools contributed to community spread. There were virtually no instances where there were super-spreader events at schools. 
+It was a very small amount of infections. Rarely were they serious. 
+CAVUTO:  Yes. 
+WESTWOOD:  So, clearly, this logic doesn't make a lot of sense from President Biden. 
+CAVUTO:  Yes, because, I mean, Lee, if you think about it, I know you both have very young kids, I believe under 12. So, I mean, you couldn't lie about them being vaccinated if you tried. 
+So I guess what I'm saying here is, what is this setting us up for? There are a lot of parents like yourselves who are concerned about how it's all going to go down, and now indications that everyone wears the mask likely in a lot of places in school systems across the country.
+How do you feel about that as a mom, Lee?
+LEE CARTER, REPUBLICAN POLLSTER:  I think this is pretty sad, actually.
+In what I do, I spend my time polling, but I also spend my time on messaging and language. And we believe it's not what you say that matters.
+It's what people hear. 
+And when you send a message like this upset American people, basically, what you're saying is, don't trust people who don't get their kids vaccinated. They will probably lie. 
+There's something underneath this that's divisive that's even worse, I think, than anything else that's happening here. It's setting us up not to have conversations, not to have empathy for people who aren't sure about being vaccinated, when, look, the decision to vaccinate a child between the ages of 12 and 17 is a tough one to make. 
+And we should have understanding and empathy and not set people up to say, you know what, if you're not -- you're probably not going to tell us the truth. Why aren't we having a better conversation? Because that's what's going to really help us move forward. 
+Everyone's torn right now about where you go to get information. People aren't sure where to turn for advice. And this is just setting up a very contentious relationship. And I think it's just not good for anyone, frankly. 
+CAVUTO:  Yes. 
+And we can get into the back-and-forth of getting vaccinated and all of that, I mean, and now word, of course, the administration is looking at committing $1.6 billion to support still more COVID-19 testing. 
+But it comes back to, Sarah, I think something that Lee touched on, whether parents, whether your kids have been vaccinated or not, whether you have been vaccinated or not, whether that's going to be a safe environment, because some schools can overreact and counties can overreact by demanding masks regardless, and others can maybe use this as a trial balloon to delay in person classes. 
+What do you think? 
+WESTWOOD:  Right. That is absolutely a concern, especially with the Delta variant spreading. 
+But the data about the number of cases that are spreading across the United States, it's no longer really a reliable proxy for how severe the pandemic is, because the vaccine has pretty much severed the link between hospitalizations and deaths. 
+And so it's not really a measure of the severity of the pandemic. But that is sort of what public health experts are drawing on when they're advocating for continuing to wear masks. 
+CAVUTO:  Right. 
+Yes, but everyone's got to take a chill pill with all of this, right? We can get through this. Man, oh, man.
+Ladies, thank you both very much, Sarah Westwood, Lee Carter.
+Of course, only hours away, a little more than 12 hours away from the start of the Tokyo Olympics. That was looking dicey, unless they cancel last second. Doesn't look like it's going to happen.
+But Olympic superstar Dominique Dawes says she hopes it brings out the better in all of us and unites us in a way, well, like she did over the course of four Olympics -- after this. 
+(COMMERCIAL BREAK) 
+CAVUTO:  We're a little more than 14 hours away from an Olympics like no other.
+There will be no fans in the stands, and there will be a number of athletes and their staff members who can't come because they have tested positive for the virus. 
+And along comes Dominique Dawes to tell me:  I should know how different these Games are, because I never experienced anything like this. She was 16 when she competed in 1992 in Barcelona, then in 1996 in Atlanta, in 2000 in Sydney, Australia. She won medals in all three Games, a worldwide sensation. 
+She's done a lot to give back to those athletes, but feels for them right now, because these Games are already a year delayed. And, right now, there aren't going to be anyone watching them physically in those stands, hoping for a worldwide audience. 
+Dominique Dawes on what's at stake. Take a look. 
+(BEGIN VIDEOTAPE)
+DOMINIQUE DAWES, OLYMPIC GOLD MEDAL WINNER:  There's already uncertainty with regards to qualifying to an Olympic Games.
+And for these athletes, I feel for them, because they were preparing for the 2020 Olympic Games, and yet it was postponed a full year. And there was still a great deal of uncertainty with regards to it even happening. 
+However, we know what's going to kick off tomorrow, which is super exciting, but then to know there's not going to be your family, your friends, and fans in the stands that are going to cheer you and add to the adrenaline rush. 
+So this is going to be a little bit of a letdown. However, I know all of these athletes are going to feel the cheers from everyone that's going to be watching around the world. It's definitely going to be the most watched Olympic Games ever. And I think the athletes are going to feel that.
+CAVUTO:  You have opened up this gym facility in Maryland, really just after we learned that Larry Nassar, and a man who obviously was behind so much of this abusive behavior with young gymnasts.
+DAWES:  Yes. 
+CAVUTO:  Of course, it even came up, I know, in your case in what you were dealing with. 
+I'm just curious now how you found that all to have happened and how so many either looked the other way. 
+DAWES:  Yes. 
+CAVUTO:  Obviously, with this new center, you're trying to say there is another way here, there's a better way to connect. 
+DAWES:  Yes.
+CAVUTO:  And this might be the start.
+But what did you make of it all? 
+DAWES:  Well, we opened the Dominique Dawes Gymnastics and Ninja Academy a year ago. We're celebrating our one-year anniversary. 
+And you're right in saying that, with everything coming out with regards to Larry Nassar and the sexual abuse of hundreds of survivors that he harmed -
+- and I knew him for 10 years of my childhood -- from that pain has driven me to this purpose of opening this gymnastics academy. 
+Anyone that knows me would have never envisioned that this would have been a part of my plan in life, to open a gymnastics academy in the state of Maryland. However, when all of this came out with regards to the unhealthy culture in the sport of gymnastics, I realized I wanted to be a part of the change, and I wanted to ensure that there was a healthy outlet for young girls, as well as young boys, that are interested in being introduced to the sport. 
+And so we have a great crop of young kids that are enjoying the sport. It's preschool. It's recreational. It's ninja obstacles. It's fun. It's about empowering and lifting up the child and, more importantly, developing the whole child, not only teaching them about physical health, but emotional health. Spiritual health is so important to me and also social health as well. 
+And during these times of COVID, many parents have come to myself or my husband or the coaches just thanking us for providing this healthy option for their kids.
+CAVUTO:  Good for you. 
+And I don't want to bring up anything unpleasant, but if you will just indulge me, Larry Nassar was your doctor for, I think, close to a decade. 
+DAWES:  Yes. I worked...
+(CROSSTALK)
+CAVUTO:  Did you have any idea? Did you have any issues with him? Do you know of others who did at the time?
+DAWES:  I do know of a number of athletes that are a part of the lawsuit with regards to being sexually abused by Larry Nassar. 
+While I worked with him for nearly a decade of my childhood, I was not sexually abused by him. He was definitely a wolf in sheep's clothing. We saw him as a friend. Many athletes saw him as someone that they could confide in. 
+I did not because I just had trust issues already. So I was not letting a lot of people in. 
+However, from that pain, as I mentioned earlier, it serves a greater purpose. And it's driven me to be so passionate about what I'm doing today, in wanting to make a greater impact. 
+And I truly believe that is the case for the hundreds of survivors that have spoken out. And they are seeking their justice. He is in jail for I believe the rest of his life. 
+CAVUTO:  Right. 
+DAWES:  And they are going to spend much of the rest of their life healing. 
+And they can do that by helping others.
+CAVUTO:  Your view on these athletes who either turn around or take a knee when it's the U.S. national anthem?
+Now, how do you feel about that on Olympic venue? Your thoughts? 
+DAWES:  Oh, goodness, I am going to -- I do understand that our country does have a very painful past. 
+And there is -- I think there's a lot of good still in this world. That's what I try to remind myself. But there is obviously still a lot of hate. 
+There's pain. And there is a great deal of evil in this world as well. 
+But I try to focus on that of which is that is positive. And, like I said earlier, and I can't say it enough, the pain that we go through in life does serve a greater purpose, and it allows us to gain a greater passion and leave a greater impact. 
+And so, from that, I recognize that the pain that my ancestors went through happened for a reason, so much so that I was just speaking actually in an interview earlier with Trey Gowdy, and we brought up Tim Scott and his book "From Cotton to Congress." 
+CAVUTO:  Right. 
+DAWES:  And I told my husband, I want to put some cotton up on the walls of my house, so that I recognize that of which what my ancestors bled and sweat and their tears were for, and I -- for me to remember that that pain was there for a reason.
+And it is for me to recognize my purpose here on Earth. And it is to impact others in a positive way. 
+(END VIDEOTAPE) 
+CAVUTO:  And she's trying to do that as we speak, as will all the athletes who are now hours away from the Tokyo Olympics. 
+That will do it.
+Copy: Content and Programming Copyright 2021 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2021 VIQ Media Transcription, Inc.  All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content.  

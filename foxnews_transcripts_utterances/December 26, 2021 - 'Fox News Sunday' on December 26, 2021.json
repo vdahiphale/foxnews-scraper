@@ -1,0 +1,1701 @@
+{
+  "date": "December 26, 2021",
+  "headline": "'Fox News Sunday' on December 26, 2021",
+  "subHeadline": "'Fox News Sunday' welcomed guests Ashish Jha, Ben Cardin, Roy Blunt and Catherine Lucey",
+  "url": "https://www.foxnews.com/transcript/fox-news-sunday-on-december-26-2021",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS ANCHOR",
+      "sentences": "I'm Mike Emanuel. President Biden seeks to calm the nation's fears over the rapid spread of omicron, but his pandemic response faces rising criticism.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "This is not March of 2020. We're prepared, we know more.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We've been in line for an hour and 20 minutes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's all the way down the road.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "And as COVID concerns send more students back to remote learning --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I'm hoping it will only last for two weeks, please?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "-- we'll ask Dr. Ashish Jha, one of the nation's top public health experts, about the surge. Then --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JEN PSAKI, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "Our focus now is moving forward, both with our relationship with Senator Manchin and our efforts to get Build Back Better done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "The fate of the president's signature social spending bill dashed by Joe Manchin's fears of inflation and debt, as progressives call on Mr. Biden to take executive action. We'll ask Democratic Senator Ben Cardin about the pressures inside his own party, and get reaction to the fate of the spending legislation from Senator Roy Blunt, a member of GOP leadership. Plus -- from the botched withdrawal from Afghanistan to the situation at the border, and a backlog at the ports, we'll ask our Sunday panel to grade the Biden administration's first year response. All, right now, on \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "And hello again from FOX News in Washington. President Biden approaches his second year in office fighting fire on multiple fronts. Having won the job by arguing he could bring competence back to the White House, Mr. Biden instead faces a prolonged pandemic, rising prices, and a stalled agenda. Early next year, the of administration will defend vaccine mandates and arguments before the Supreme Court, and this week, the White House renewed its push for voluntary vaccinations and promised help to hospitals. In a moment, we'll discuss that response with the dean of the Brown University School of Public Health, Dr. Ashish Jha. But first, let's turn to Alexandria Hoff here in Washington with a look at new pressures on the White House as omicron spreads -- Alex.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALEXANDRIA HOFF, FOX NEWS CORRESPONDENT",
+      "sentences": "Well, Mike, the daily COVID-19 case right here in Washington, D.C., is now the highest in the nation per capita and the White House has not been spared. Close contacts of the president and vice president have tested positive. All Americans at large have struggled to find testing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "I wish I had thought about ordering half a billion.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOFF",
+      "sentences": "For not ordering 500 million rapid COVID-19 test weeks ago. Instead, the president promised to distribute them to Americans free of charge next month.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We're getting bombarded and showered with tests, to the point where we ran out of test yesterday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOFF",
+      "sentences": "The holiday testing demand comes during one of the busiest travel times of the year. Airlines canceling hundreds of flights this we can due to staffing shortages as COVID-19 cases across the country surge. The omicron variant is now the most dominant strain.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAYOR BILL DE BLASIO (D), NEW YORK CITY",
+      "sentences": "We are not shutting down. We are not falling back. We're going to fight our way through this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOFF",
+      "sentences": "On Thursday, New York City Mayor Bill de Blasio felt the pressure and scaled-back the city's New Year's Eve celebration. Hundreds of public schools will not immediately return to in person learning following the Christmas break, citing high community infection rates and several universities, including UCLA, Columbia, and Duke, will start their spring semesters online.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. ROCHELLE WALENSKY, CDC DIRECTOR",
+      "sentences": "We are at a critical point and how well these measures are implemented by all of us caring for ourselves and for one another will largely determine the outlook of the coming weeks and months ahead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOFF",
+      "sentences": "Several large cities like D.C. and L.A. are now joining New York in implementing proof of vaccination to enter certain businesses. This as President Biden's vaccinate or test requirement for larger companies will face the Supreme Court a week from next Friday. If it's upheld, OSHA would begin implementation after January 10th.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. JANETTE NEWSHEIWAT, FOX NEWS CONTRIBUTOR",
+      "sentences": "We need to be able to have the therapeutics, have the medicines, have the test, and have better accessibility to vaccines and boosters moving forward.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Alex Hoff reporting from Washington -- Alex, thanks. Joining us now is Dr. Ashish Jha, dean of the Brown University School of Public Health. Doctor, welcome back to \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. ASHISH JHA, DEAN, BROWN UNIVERSITY SCHOOL OF PUBLIC HEALTH",
+      "sentences": "Good morning. Thanks for having me back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Doctor, according to the White House public health officials, omicron variant represents 73 percent of new cases and in some places in the nation, 90 percent. However, in South Africa, where omicron was first detected a month ago, they began experiencing a surprising drop in new cases. The top infectious disease scientist there said looking at preliminary data, he expected, quote, every other country or almost every other to follow the same trajectory. Dr. Jha, would you agree with that early assessment?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JHA",
+      "sentences": "Yeah, again, early is right. We don't have a ton of data yet, but certainly, South Africa is a hopeful sign that this wave of infections that's sweeping across America is going to rise very, very quickly, but hopefully peaked quickly and come down quickly as well. That's what I think most of us are expecting. Obviously, we'll have to see how it plays out here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Dr. Jha, the antiviral drug Molnupiravir developed by Merck and Ridgeback Biotherapeutics was approved Thursday by federal regulators. It is found to cut the risk of hospitalization and death in high risk patients by 30 percent. But some experts fear it will fuel the rise of new variants or could cause mutations in people who take it. Is that a legitimate concern?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JHA",
+      "sentences": "You know, it is a legitimate concern, Mike. That's why I'm not sure exactly when or how often we want to use that. The Pfizer pill Paxlovid is I think a much, much better option, and that's probably going to end up becoming the standard of care once it's more widely available.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Interesting. OK. Earlier this week, President Biden had this to say about children in school.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "COVID-19 is scary but the science is clear. Children are safe -- as safe in school as they are anyplace, assuming the appropriate precautions have been taken.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "The CDC is promoting its strategy, Test-to-Stay. Still more than 800 schools across the U.S. unexpectedly closed this week, according to Verbio (ph), with more than 500 schools closed in the first week of January. Dr. Jha, are we headed for full-scale remote learning? And as a public health matter, who is right in this debate, close versus stay open?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JHA",
+      "sentences": "Yeah, this is really unfortunate, Mike. You know, here we are almost two years into the pandemic. We know how to keep schools open. We know how to keep them safe. This really shouldn't even be on the table and I'm disappointed to see this is happening. We know that for kids, being in school is the right thing for them, for their mental health, for their education, and we have all sorts of tools to keep schools open. So I don't really understand why school districts are doing this. And I think we can -- we can keep schools open and we should absolutely keep schools open.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "What about the other health concerns of shutting down schools in terms of school-age children such as mental, emotional, physical and social health?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JHA",
+      "sentences": "Absolutely. This is why I and I think many of us have said schools should be absolutely the last place to close and the first place to open. There could be times when you have such severe staffing shortages that it may be hard to keep schools going. That really should be the only context I think at this point. Otherwise, school should absolutely be open for the reasons you outlined.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Doctor, the White House had wanted to take booster shots available to all adults eight months past their initial vaccine series beginning in September. But federal regulators and some outside scientists said there wasn't enough data to support that wide of an authorization. You even went through your own evolution in thinking on this recommendation. In the end, it was four months before all adults were eligible. In light of this, did we miss crucial time in getting in front of omicron? And did the bureaucracy blow it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JHA",
+      "sentences": "I do think we missed critical time and I do think the bureaucracy slowed us down. Look, my evolution on this was around late July, early August, I started seeing pretty compelling date of the people needed that third shot. And so, when the president came out August 18th I think and said every adult should get one, I agreed with him. And I think we spent three months fighting and going through a bureaucratic process. It slowed us down and it's one of the reasons why so few Americans have gotten a booster, particularly high-risk people who absolutely need it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "On Wednesday, Dr. Walensky repeated the CDC's recognition that those who want to gather for holidays, among other things, get tested first. Dr. Jha, there's a shortage of tests and testing. Are these federal recommendations coupled with vaccine mandates creating a run on supplies?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JHA",
+      "sentences": "Yeah, this is a really good question, Mike. First of all, I agree with Dr. Walensky's recommendation that it is safe to get together this holiday season. As opposed to last year, because we have so many people vaccinated and boosted, and if you are, that's great. Also, we really think -- I think people should be getting a test before they get together, especially with high-risk people. Unfortunately -- we have plenty of vaccine supply, that's not a problem, but unfortunately we do not have enough tests. This is really something we should have been on top of for months and I'm disappointed that this is where we are as a country right now. I'm hoping into January, we're going to see a lot more testing available, but it would have helped over the holiday season.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "No doubt. The bottom line criticism of the Biden administration's handling of COVID is that they've been reactionary to developments, not aggressive enough. In an interview this week with ABC News, President Biden defended recent comments by the vice president, who said: We didn't see delta coming. I think most scientists did not -- upon whose advice and direction we have relied -- didn't see delta coming. The president said of omicron: How did we get it wrong? Nobody saw it coming. Nobody in the world who saw it coming. But here's how others characterized it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES",
+      "sentences": "I believe that the vice president was referring to the fact if you look at the number of mutations in omicron, it's unprecedented.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. ROCHELLE WALENSKY, CDC DIRECTOR",
+      "sentences": "This increase in omicron proportion is what we anticipated and what we have been preparing for.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Dr. Jha, does it appear administration officials were taken by surprise What else counts for the challenges we have seen in recent weeks to address the omicron surge?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JHA",
+      "sentences": "Yeah. So I think there are parts of the administration has clearly gotten it right. I think their push on boosters, the availability of vaccines, that's all been terrific and even now, you can go out and get a vaccine tomorrow and there's plenty of supply. I think both on omicron and delta, the administration has not done enough on getting ready through testing and through its communications. So the two places where I would say the administration needs to do a better job -- communicating more effectively with the American people and certainly making testing much, much more widely available. That has not happened as much as it needs to, and I'm hoping that this time around, with the president's promise of 500 million tests widely available in January, that finally we'll be able to get that issue under control.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Dr. Jha, Israel is beginning to roll out its fourth shot, with one of their public health officials saying that while they don't have all the data on the level of immunity, they don't think they can afford to wait. This comes as Pfizer CEO said earlier this month that people might need a fourth shot sooner than expected. Doctor, should people here in the U.S. anticipate that yet another round of shots will be needed, and is our health system prepared to make that happen?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JHA",
+      "sentences": "Yeah. So, if we needed -- I think our whole system is prepared -- but let's actually talk about whether we needed or not. And at this moment based on the data I've seen, I'm pretty skeptical that we're going to need a fourth shot. Part of the question is that we have to ask ourselves, what are we trying to do? Are we trying to block every single infection? Maybe that's our goal. If that's our goal, then yes, maybe we need a fourth shot. Or are we just trying to prevent serious illness and death, which, of course, I think should be our primary goal. So I'm pretty unconvinced at this moment, Mike, that we need a fourth shot. If we do, our system can handle it, but let's get a lot more data before -- I think before we even start seriously thinking about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Asked again this week whether CDC is considering revising its definition of \"fully vaccinated,\" Director Walensky said the agency is looking at that right now. From your perspective in public health, is this going to be a necessary and inevitable revision?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JHA",
+      "sentences": "I do think we're going to end up there. Look, I -- we have lots of vaccines that are three-shot series, Hep B, polio is a four-shot series. So, I don't think the idea of a three-shot COVID vaccine series to be fully vaccinated is either unprecedented or unusual. My take is that's probably where the science is land -- actually that is where the science is landing right now, and I think in the upcoming weeks and months, the CDC is going to revise it to say fully vaccinated is three shots.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "As the Supreme Court is hearing arguments soon over the president's vaccine requirements weighing cost, benefits, impact the economy and the workforce already, is changing the fully vaccinated definition the right thing to do?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JHA",
+      "sentences": "Well, certainly, if we change it, it -- and if CDC changes it, then it's going to put pressure on businesses, on universities that have required fully vaccinated people to then update it to include boosters. I think that's already starting to happen. I'm seeing a lot of businesses starting to require their employees get the booster. So I don't know how much of an impact it will make. It will certainly have some impact. We'll see kind of where all of this plays out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Thanks very much, Dr. Jha. And happy holidays. Up next, the president's agenda faces a critical reckoning in the New Year with potential consequences for the Senate and the courts. We'll discuss with Democratic Senator Ben Cardin, next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "The White House ends the year on defense as the president's social spending bill takes a crushing blow in the midst of Democratic infighting. Joining us now, Democratic Senator Ben Cardin of Maryland. Senator, welcome back to \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SENATOR BEN CARDIN, (D-MD)",
+      "sentences": "Mike, it's good to be with you. Thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Majority Leader Chuck Schumer sent out a dear colleague letter this week in which he said there will be a vote on Build Back Better and President Biden said he thinks there is still a possibility of getting the bill done. Senator, what's the path forward to actually getting the legislation passed as it is now when the math clearly isn't there?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CARDIN",
+      "sentences": "Well, Mike, not only did the majority leader send a letter out, we also had a caucus this past week, late last week, and there is unanimity in our caucus that we want to get a bill to the president and we are working to see what that bill will contain. President Biden is directly involved in these negotiations. We need to deal with the affordability of childcare because it affects our workforce and having workers available for our economy. We've got to deal with the cost of higher education. We know working families have tax issues, we've got to extend certain tax provisions to help working families and families with children. There are things that need to get done that shouldn't be partisan. We should be able to get these issues worked out. We are prepared to move, we just need to make sure we have unanimity in our caucus and that's what we're working on, and we will start on that next week when we return.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "To your point, are Democrats open to scaling it back even more or passing various pieces as stand-alones, maybe attracting Senator Manchin or even some GOP on some of these issues?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CARDIN",
+      "sentences": "Well, that's a strategy decision that's being negotiated. We are open to a way to reach the finish line. We want to make it as comprehensive as possible because the needs are just there. We recognize that families need help on affordability, and that's what this is about, making our economy affordable for families. And it will be fully paid for. That is very clear. We understand the risks of inflation and we are committed to making sure that we really offset all expenses. So I think, with those parameters, we want to see it as comprehensive as possible, but we need to make sure we have the votes to pass it, so that means it will be different than some of us would like to see.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Does scaling back the ball to win over moderates risk losing progressives in both the Senate and the House?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CARDIN",
+      "sentences": "Well, we've got to find that sweet spot and I think as long as everyone's at the table as we're negotiating, I know President Biden has always included all parts of our caucus in these discussions, I think we can reach that sweet spot. Look, a lot of us are going to be disappointed, but we're not going to let perfection be the enemy of getting something done, so we need to get something done. I think we'll be pragmatic about it, but we want to make sure it deals with the issues that we are facing in our communities.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "President Biden said in an interview with \"ABC News\" this week, quote, the only thing standing between getting voting rights legislation passed and not getting passed is the filibuster. I support making an exception on voting rights of the filibuster. Majority Leader Chuck Schumer said the Senate would, quote, consider changes to any rules which prevent us from debating and reaching final conclusion on important legislation. Senator, you've said in the past you'd be open to eliminating that but because the votes to do that do not exist, you'd like to see bipartisan buy into reforming the rules. What's your position now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CARDIN",
+      "sentences": "Well, Mike, I've been in the Senate for 15 years and what I would like to see us is returned to how the Senate was operating when I first came to the United States Senate, and that is allow issues to come to the floor of the Senate so we can debate. We're supposed to be the greatest debating society, institution, in the world. We need to be able to debate issues, but we also need to make sure that the minority have an opportunity to offer amendments and get votes on their amendments. At the end of the day, we should be voting up or down on legislation. That's what we need to do, is to reform the Senate rules so that it acts in its traditional historic sense. We're not doing that today, and I do hope we would have Republicans who would join us in this effort so that the Senate can restore the way that it should be considering legislation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "And, of course, some folks favor changing the rules when they're in the majority and then when they get to be in the minority, they don't care for it so much, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CARDIN",
+      "sentences": "Well, Mike, I've been working both in majority and minority with senators from both sides. We recognize that the Senate is broken as far as the way it operates and we have to fix that. And yes, voting rights is a good example. There's no reason why we shouldn't be debating this issue on the floor of the United States Senate. It's a timely issue, and it needs the debate in the United States Senate. We should be voting on amendments, and we should allow the majority to rule on these votes on amendments. Let's have a real debate and let the Senate carry out historic role. So, I felt this way when we were in the minority when I couldn't offer amendments. I feel this way in the majority we can't get votes up or down. Let's listen to each other, let's fix the Senate, and let's take up issues such as voting rights.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "In that letter to colleagues this week, Senator Schumer seemingly took a shot at Senator Manchin stating that every senator would have the, quote, opportunity to make their position known on the Senate floor, not just on television. Here's Manchin from an interview he did this week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SENATOR JOE MANCHIN, (D-WV)",
+      "sentences": "I'm from West Virginia. I'm not from where they're from and they can just beat the living crap out of people and think they'll be submissive.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Senator Cardin, Senator Manchin is an elected official from the State of West Virginia, one of the reddest states in recent years. He's been in the U.S. Senate since 2010 and prior to that served as governor. Is it possible he has a point that some of the policies in Build Back Better just don't rate with his state?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CARDIN",
+      "sentences": "And he certainly has expressed himself. He's asking for a vote in the United States Senate, he's asking for us to take the issue up and vote on it. So, look, we all have our own views, we have our constituents. At the end of the day, I think Senator Manchin understands the importance of getting legislation to the president to deal with many of the issues that are in Build Back Better. He doesn't agree with all of them, so let's sit down and find that area where we all can come together for the sake of our country. And all of our states, including west Virginia and Maryland, the citizens will benefit from that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Charles Lane, who is part of our panel this week, wrote for \"The Washington Post\" a sort of all politics is local piece regarding Senator Manchin's announcement that he cannot support Build Back Better, basically pointing out that there are various parts of the legislation that may benefit other parts of the country, but what's in it for West Virginia. He then adds, \"At times, Manchin's motivations for resisting BBB have been portrayed as a `mystery.' The real mystery is why The White House and Senate Majority Leader Charles E. Schumer bet their political future on getting Manchin to vote for a bill such as this one.\" Is it possible West Virginia is quite different than New York, California, or even Maryland?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CARDIN",
+      "sentences": "Well, each state has unique issues. I represent the people of Maryland, I can tell you that Chesapeake Bay is very important to our state. I think it's important to our entire country. So I'm sure that Joe Manchin has issues in West Virginia that he wants to see us pay attention to in Washington. That's what our job is, our job is to represent the people of our state but also to represent our nation, and I think we can come together on this. The affordable childcare in every one of our 50 states have issues, where parents have a hard time dealing with the cost of childcare and it's preventing some people from entering our workforce. Every state has a challenge on the cost of higher education. We need to deal with it as a nation. These are national issues that affect all our states. So, I hope we can find a spot. Certainly, there are certain issues that are more important in some parts of our country than others, but that's what the Senate is about. Let's find that common spot that can help all of our states and help our country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Leader Schumer may have been referring to Senator Manchin specifically in his letter, but Senator, what about all these other Democratic members who are up for reelection in 2022 who represent states with competitive races, moderate politics? Maggie Hassan of New Hampshire, Catherine Cortez Masto of Nevada, Mark Kelly of Arizona, for example. Is it possible Manchin has been taking the heat for a number of your moderate colleagues?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CARDIN",
+      "sentences": "I can tell you that every one of my colleagues in the Senate have strong views into what needs to be in Build Back Better, and they express themselves on these views. At the end of the day, we think the American people want to see the United States Senate act on these issues. They recognize we have challenges. They want to make sure that it's fully paid for, and we want to make sure it's fully paid for. We want to make sure that we deal with core issues. So whether we're on the ballot this cycle or not, it's in our political interest as well as the policies of this country to get this right. So, to me, the worst outcome is inaction, getting nothing done. We've got to get something done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Several prominent Republicans, including Minority Leader Mitch McConnell and Senator John Cornyn of Texas have been openly recruiting Manchin to switch parties. Manchin has said he hopes there is still room for him in the Democratic Party. Senator, is there still room for Manchin and other senators who represent states that may not support some of the progressive policies in that bill?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CARDIN",
+      "sentences": "Absolutely. The Democratic Party is proud of having a broad tent, as we say it. We have people with different views, and look, give Senator Schumer a lot of credit. We have a 50/50 Senate, as you know, and yet we've been able to keep unity among all 50 of the Democratic senators, we were able to pass the American Rescue Plan, we were able to deal with the borrowing cap, debt cap in our country. We were able to get a lot of the things done. There's absolutely room in our party for Joe Manchin and Elizabeth Warren and everyone in between with different views, Bernie Sanders. We are very proud of our caucus and the fact that we have diversity in our caucus and Joe Manchin is very much welcome in the Democratic Party.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Thank you, Senator Cardin. We appreciate you making time for us today. Up next, we are joined by Senator Roy Blunt for Republicans' reaction to the future of Build Back Better and the state of the GOP.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Coming up, more Bush era Republicans exit Washington or consider it, including the number two Republican in the Senate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL (R-KY)",
+      "sentences": "I hope that Senator Thune will indeed, after the holidays, announce he's going to run for reelection.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "We'll discuss with another GOP leader who is not running for reelection, Senator Roy Blunt, next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS ANCHOR",
+      "sentences": "While much of the focus of Build Back Better's derailment has been on Senator Joe Manchin, Democratic Leader Chuck Schumer also looking aim this week at Senate Republicans for Congressional gridlock. Joining us now, Senator Roy Blunt of Missouri, a member of GOP leadership. Senator, welcome back to FOX NEWS SUNDAY.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. ROY BLUNT (R-MO)",
+      "sentences": "Good to be with you, Mike.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Senator Blunt, your democratic colleague, Joe Manchin, arguably single handily sunk the president's Build Back Better bill this week, but that overlooks the 50 GOP senators who were no votes as well. Here is President Biden Tuesday making an impassioned plea on behalf of families he says would benefit from passing that legislation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Imagine being a parent, looking at a child, and you can't afford -- you have no house to borrow against, you have no savings. It's wrong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "How do you respond to that criticism from the president?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "Well, I think the biggest challenge that families are facing right now is the inflation. Inflation numbers, as high as they've been in for decades, they -- they impact families at the grocery store, at the gasoline pump, when they pay their home heating bills, putting more money into the economy at a time when the economy is already overheated I think is just a bad idea. And, obviously, we want to get people back to work. There are jobs available. People are trying to get people to come and work with them and to make -- make the country function economically. We -- we can't solve every problem by just dropping money on top of more money. I thought the -- Congress made a big mistake and the administration made a big mistake right out of the box in March of this year by deciding after five bipartisan bills to fight back Covid and what Covid could do to our economy, all Democrats all on their own decide we are going to spend another $1.9 trillion in what they call the American Rescue Plan in an economy that, frankly, Mike, clearly, at that point, did not need to be rescued. There were things that need to be done. But just sending another $1.9 trillion in has created a big problem. I think another $2 trillion in this Build Back Better idea will also create a big problem. And families are suffering, whether the administration and the Democrats in the Congress want to admit that or not. This is not a transitory problem, it's a real problem. And you don't -- this is no time to make that problem worse.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Senator, one of the casualties of the collapse of that bill is the enhanced child tax credit, which expires at the end of the year. According to the Urban Institute, continuing the benefit could have a significant impact on child poverty, reducing child poverty to about 8.4 percent from 14.2 percent, a fall of roughly 40 percent. Is that a compelling argument to extend it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "Well, I think this is -- this is one of the problems and one of the gimmicks in the bill, frankly. You know, we doubled the child tax credit in the 2017 tax bill. There's a cap on that credit based on income. Senator Manchin has repeatedly said that one of the problems he has with the bill is that sending money to every family that has children under 18, the families that make -- every family that makes up to 150,000, and many families that make up to $400,000 if you look at the House plan, just simply doesn't make sense. You know, putting a cap on families in need is what we can do, should do and would do in the country, and I think could do in a bipartisan way. Again, we doubled the child tax credit just a handful of years ago, and we need to look at that if that's no longer meeting the need of moving kids out of poverty. But families that make $150,000, for instance, aren't in poverty in Missouri. I don't think they're in poverty almost anywhere in the United States. And it's a big mistake to assume they are.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Another argument being made for the enhanced child tax credit is it would bolster financial security and spur economic growth in Missouri by reducing taxes on the middle class and those striving to break into it. How do you respond?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "Well, if you look at the Build Back Better plan, the second biggest spending in that plan is eliminating the tax deduction that almost totally benefits the richest Americans, $230 billion going to restore the tax deductibility of all your state and local taxes. There's already a $10,000 deductibility for every family. I just -- you know, what we see with the -- the child tax credit is a great example what Democrats want to do with this entire bill. They started the child tax credit at this level in March, and now here we are, six months, eight months later, and they're saying, well, we can't stop that program, the program we just started.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "And that's exactly the kind of gimmicks that the Build Back Better, or some of my friends call it the build back broker, package does. They assumed that once you start all of these programs, you'll never be willing to stop them. And so you've got a $1.7 trillion of spending paid for over ten years, but most of that money is spent in the first three or four years.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "And the child tax credit would be another example. Let's extended it for a year and we'll have exactly the same argument again next year. Now, how are we going to extend this half a trillion -- this $500 billion program for the second year, even though supposedly we're going into a program that's fully paid for. Those are the kind of gimmicks that Joe Manchin and every Republican in the Senate were offended by and Americans are going to be offended by them too if they ever have a chance to hear that bill debated, as we're now debating it publicly once we see the specifics of the bill.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Senator, Democrats have expressed their interest on moving forward with a vote on Build Back Better after the new year. If Democrats were to scale back the bill at some point even more, or to break out some provisions and try to pass them as stand-alone bills. Are there any parts of Build Back Better that you could see Republicans potentially supporting?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "Well, I'm sure there would have to be. Now, we've never really seen Build Back Better, but with a bill that over ten years, if you extend all the programs, would spend $4.9 trillion, surely there's something in there that I would be for. Senator Stabenow and I have worked for years to try to see that we create mental health like all other health. That's a relatively small item in this bill. I think it's in there. But that's an item, if we put on the floor by itself, Republicans and Democrats would vote for. I think we've extended this program, expanded it at a couple of times since we first were able to get it passed in 2015. Of course there are things in there that you could before, but I don't see how anybody could, in good conscience, support a bill that if you take all the gimmicks out of the bill, you're going to be putting another $5 trillion into the economy over a decade. And an awful lot of that goes into the economy immediately, 6.8 percent inflation could become something bigger than that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "And 6.8 percent is way bigger than we can handle right now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Senator, you're retiring after 24 years of service in the U.S. House and the U.S. Senate. The new senior senator from Missouri will be Josh Hawley. You two have diverged on everything from certification of the 2020 electors, to support for the infrastructure legislation recently passed by the Senate. Senator, does this reflect an ideological shift on some of the biggest issues that is good for the GOP?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "Well, I think that when you look at the future of our party, the future of our party is to focus on the things that we have done well in recent years. Obviously, border security, regulatory policy, tax policy would be at the top of that list. And, once again, our friends, the Democrats, are helping Americans figure out the difference in us and them, what we were doing in the previous four years with producing great economic results. Even the battle against Covid produced five major bipartisan bills. I think the way that voters reacted just last month in the elections in New Jersey and Virginia show that there is a real resurgence of people rethinking the difference in the two parties. And I think a Republican Party is going to do very well in that discussion, in that debate, and those elections next year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "One of your colleagues, John Thune, the number two Republican in the Senate, is weighing a retirement announcement. Senators Richard Shelby of Alabama, Rob Portman of Ohio, plus Richard Burr and Pat Toomey in the swing states of North Carolina and Pennsylvania are leaving already and, of course, you. First, have you had any conversations with Senator Thune? And, second, are you concerned that any hopes of future bipartisan moments in the U.S. Senate will leave with you all?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "Well, I think the country is resilient and strong and understands the importance of finding solutions. Senator Thune and I came to the Congress 25 years ago. We're close friends. We work together in the Senate leadership. Certainly the country will benefit if he decides to stay in the Senate. And this is just a decision that he has to make. Certainly, in my case, it seems to me that time to bring this chapter to a close. And I'm looking forward to what we're going to be doing next year. Ben Cardin and I are working on a couple of major issues, the mental health issue I mentioned earlier. What we could do with more health research. What did we learn from Covid.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "What do we need to do to enhance testing. If I think this is going to be a great opportunity for the Congress. Certainly I hope Senator Thune continues to be an important leader in our country, and I look forward to working with him between now and the end of next year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Senator Blunt, thank you. Always good to speak with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLUNT",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Up next, we'll bring in our Sunday group to discuss how President Biden did on Covid and other areas one year in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "After ten months of the pandemic, we still don't have enough testing. That's a travesty.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "QUESTION",
+      "sentences": "And what's your message to Americans who are trying to get tested now and who are not able to get tested and who are wondering what took so long to ramp up testing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "What happened was, the omicron virus spread even more rapidly than anybody thought.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "That was then President-elect Biden a year ago on his predecessor's pandemic response and then this past week defending his administration's actions. And it's time now for our Sunday group. Former Republican Congressman Jason Chaffetz, Catherine Lucey, who covers the White House for \"The Wall Street Journal,\" and Charles Lane from \"The Washington Post.\" Panel, welcome to all of you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JASON CHAFFETZ, FORMER CONGRESSMAN (R-UT) AND FOX NEWS CONTRIBUTOR",
+      "sentences": "Thank you. CHARLES LAN, \"THE WASHINGTON POST\" AND FOX NEWS CONTRIBUTOR: Thank you, Mike.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "I want to start by taking stock of the president's first year in office. Catherine, Mr. Biden ran as a dealmaker who would renew confidence that government can do big things. But here we are, heading into year two, with the pandemic ramping up and the government struggling to insure Americans have key supplies like testing and now therapeutics and the president is again pressing hard for vaccinations. Give us a sense of his Covid scorecard, both on tactics and messaging. CATHERINE LUCEY, \"THE WALL STREET JOURNAL\": Yes, that's right, Mike. I think, you know, the public is really giving the president sort of a mixed review right now on Covid. I think we see that in the polls. There's frustration about where things stand. And you're right, I think we have to think about this broadly. The president ran as someone who could get the pandemic under control. You know, this summer he said the country would declare independence from a virus and then we had delta and now he's dealing with the challenges that omicron is presenting. And you're really seeing that play out this holiday season. Long line at testing centers. You know, travel has been snarled. You know, this isn't the, you know, the -- the festive moment that this president was hoping for. And kind of what you're hearing from the White House, you know, is a sort of -- a mixed response here. They're trying to really stress urgency. They're trying to explain what they're doing in terms of efforts to, you know, ramp up access to testing and support for hospitals. But they are also really trying to argue that the country is in a different place now than it was a year ago. And that is true as well. I mean there is -- you know, more people are vaccinated. Vaccines are widely available. Boosters are available. You know, new therapeutics are being made. So they're trying to walk that line.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LUCEY",
+      "sentences": "But he heads into '22 in a tough position and facing some very tough questions, as you noted, in particular about the testing shortages.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Jason, we saw a poll this week from the Kaiser Family Foundation that gives us an early sense of how vaccinated and unvaccinated adults in the U.S. feel about the risks from omicron. Take a look, 54 percent of vaccinated adults say the omicron variant makes the, more likely to get a booster shot, but only 12 percent of unvaccinated adults say omicron makes them more likely to get vaccinated. Now we also saw in recent days former President Trump taking credit publicly for the vaccine. My question, Jason, is there anything the White House or former President Trump could say to encourage unvaccinated adults to consider getting a shot?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Well, they've tried just about everything, including, you know, giving payments to people and other types of assessments. But I think Joe Biden is in a very tough spot With Kamala Harris, because I think their plan is failing. They essentially tried to declare victory back in July. I happen to have -- I've been vaccinated. I've had the booster. I would encourage other people to get it. But what really rubs a lot of people wrong I think are the mandates, forcing people to do it, saying that getting an injection is something that you have to have in terms of getting -- going into a restaurant, to getting -- you know, having to show your papers. There are a lot of people that believe in the vaccine, they just don't believe in the mandate. And I think, politically, the president is taking a lot of steps backwards. The other thing is, I do think America thinks they need a second opinion at this place. I'm shocked that President Biden still has Dr. Fauci and other mouthpieces out there in front. I think he would do the country a great favor by putting a new, fresh face out there and getting rid of Dr. Fauci, because there are millions of people that flat out don't believe him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Chuck, we'll see another key test for Mr. Biden when the Supreme Court hears oral arguments in a pair of appeals over those vaccine mandates, the mandate for large businesses, and the mandate for health care workers at facilities receiving Medicaid and Medicare funding. The White House says it's confident it has legal justification for its policies, but you covered the court, how do you see this playing out?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "I think they've got a problem, which is that they have six conservative justices on that court who are known to be skeptical of government regulation in general and the kind of attenuated linkage to a statute that this mandate rests on. Even by the admission of those who support it, who just feel it sort of falls under a category of an older statute and they didn't require a new Congressional enactment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "I don't know how this would play into the court, but I think it's an interesting factor. The ground has shifted under the mandate since it was proposed. Now, as your previous guest, Dr. Jha suggested, fully vaccinated may mean three shots, whereas when they proposed it, it meant two.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "And that sort of changes the whole atmosphere around the mandate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Jason, we also saw a major setback last week on the president's Build Back Better agenda. As you know, West Virginia Democrat Joe Manchin told us on this program last Sunday that he didn't think he could get to yes. We saw the public reaction from lawmakers. You were a member of Congress. How big a blow is this to the president's first year?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "It's pretty shocking. I think the Democrats acted as if they had some major mandate. They didn't. I think the expectation and the promise of Joe Biden and Kamala Harris is that they were uniter's. They knew how to bring people together. But they didn't even attempt to try to get Republicans behind this. I do think that coming about Valentine's Day, somewhere around whatever the -- the State of the Union is, I do think they'll come back with a smaller package, one that's more palatable and they'll pass something. It's too good a tool to pass up, but I think they overreached, they assumed too much, they went much more progressive, and I don't think there's much of a place for a person like Joe Manchin. The old blue dog Democrats are -- they're gone. They're extinct. There's no room for them in the Democratic Party of today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Catherine, your reaction on this setback to this agenda?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LUCEY",
+      "sentences": "You know, certainly, you know, this is not the news the White House was expecting just a week ago on this show. They were, you know, taken -- really taken aback. They were very frustrated. But you have also heard their tone in the past couple days. They are really arguing that they think that they can find a way forward. The president has been very careful in his remarks about Senator Manchin specifically. They think that they can reopen negotiations. So, yes, I think as Jason said, there's going to be an effort in the new year to see what they can come together on. And then, I think as we've all discussed a lot, the question becomes, do you try and do less things for more time?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LUCEY",
+      "sentences": "Do you try and scale this back? What kind of pay-fors are you looking for? How do they do something that is perhaps smaller and more palatable?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Panel, we have to take a break here. Up next, a look ahead to the new year with our panel's 2022 predictions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "And we're back now with our Sunday group for a look ahead to what to watch in 2022. So we just ticked through the president's and Republican's scorecards from 2021. I want to go around the horn here with our group to see what you see as the major items you think we'll be back here discussing at the end of 2022. What are the major political themes, policy themes in the coming year? Jason, let's start with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "I think security was going to be right near the top of the agenda. Security in your health, security on the border, security in your hometown, security in the big cities, and certainly security around the world, because I think Joe Biden has a very full plate going into 2022. I also think privacy will be a major theme, an issue. You need to show papers in this country in order to go into a restaurant. Those types of things will be right near the top of the agenda. And then, certainly, I think immigration is an underplayed story.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "All right, Catherine, you're up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LUCEY",
+      "sentences": "You know, President Biden ran a someone who could get the economy and, you know, Covid under control, back on track, and I think those are going to remain defining issues, especially as we head into the midterms if people feel more confident on both of those areas. The other thing I'll be watching really closely that you mentioned earlier in the show is what happens with schools in 2022. If we see any more widespread, you know, return to virtual learning, we saw -- we've seen a lot of extreme parent frustration over that. That really played out in the Virginia's governor's race. And so I think that's another thing to keep a close eye on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "All right, Chuck, your turn.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "Well, I think it's a safe prediction that we will be back here in a year talking about Donald Trump. His shadow continues to lie over the whole political system. And the whole political future of the Republican Party, especially. There will be Republican primaries coming up next year where his candidates will be on the ballot and will test his influence. The whole issue of support and loyalty for his view -- false view that the election was stolen will continue to be a story.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "He's the man in the news.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "And last, I know Sunday shows are often reacting to the news, but I want to give each of you a moment to tell us which stories that you think are under covered right now but have the potential to shape the dynamics heading into midterms. Catherine.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "You know, I'm going to -- I'm going to again note that schools, I think, are a real thing that could -- and parents, and how parents are feeling also about some of these issues in the Build Back Better plan, child care, can, you know, working parents get back to work. We've seen a lot of frustration over the access to child care and support for families during the pandemic. So do those things remain top of mind for families?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "I know a lot of parents very nervous seeing schools closing down going back to virtual. All right, Chuck, your turn.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "I think foreign policy. Very often when a president stalls out in his domestic agenda, foreign events start to take over. And the issue of Europe, the stability of Ukraine and the possibility of war between Russia -- an invasion of Ukraine by Russia is already under covered and it could be a huge story next year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "All right, Jason, bring us home.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Scandal. Just last week the Secret Service said 100 plus billion dollars was scammed in the -- in the -- a lot of the payments going out there. There are a lot of scandals out there going out across this administration, and I think those will be a lot of surprise issues and they will be coming up and they're -- they're underway right now. Look out because they're coming.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Jason, Catherine, and Chuck, thank you very much. Wishing you all a very happy new year. Panel, see you next Sunday. And thank you for joining us. Have a great week. I will see you tomorrow for our \"FOX NEWS AT NIGHT\" on the mighty Fox News Channel, and we'll see you back here next FOX NEWS SUNDAY. Copy: Content and Programming Copyright 2021 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2021 VIQ Media Transcription, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS ANCHOR",
+      "utterance": "I'm Mike Emanuel. President Biden seeks to calm the nation's fears over the rapid spread of omicron, but his pandemic response faces rising criticism."
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "utterance": "This is not March of 2020. We're prepared, we know more."
+    },
+    {
+      "speaker": "EMANUEL (voice-over)",
+      "utterance": "The White House rolls out its plan to get at home rapid test into the hands of all Americans while many scramble to get tested for holiday gatherings and travel."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "We've been in line for an hour and 20 minutes."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "It's all the way down the road."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "And as COVID concerns send more students back to remote learning --"
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "I'm hoping it will only last for two weeks, please?"
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "-- we'll ask Dr. Ashish Jha, one of the nation's top public health experts, about the surge. Then --"
+    },
+    {
+      "speaker": "JEN PSAKI, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "Our focus now is moving forward, both with our relationship with Senator Manchin and our efforts to get Build Back Better done."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "The fate of the president's signature social spending bill dashed by Joe Manchin's fears of inflation and debt, as progressives call on Mr. Biden to take executive action. We'll ask Democratic Senator Ben Cardin about the pressures inside his own party, and get reaction to the fate of the spending legislation from Senator Roy Blunt, a member of GOP leadership. Plus -- from the botched withdrawal from Afghanistan to the situation at the border, and a backlog at the ports, we'll ask our Sunday panel to grade the Biden administration's first year response. All, right now, on \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "And hello again from FOX News in Washington. President Biden approaches his second year in office fighting fire on multiple fronts. Having won the job by arguing he could bring competence back to the White House, Mr. Biden instead faces a prolonged pandemic, rising prices, and a stalled agenda. Early next year, the of administration will defend vaccine mandates and arguments before the Supreme Court, and this week, the White House renewed its push for voluntary vaccinations and promised help to hospitals. In a moment, we'll discuss that response with the dean of the Brown University School of Public Health, Dr. Ashish Jha. But first, let's turn to Alexandria Hoff here in Washington with a look at new pressures on the White House as omicron spreads -- Alex."
+    },
+    {
+      "speaker": "ALEXANDRIA HOFF, FOX NEWS CORRESPONDENT",
+      "utterance": "Well, Mike, the daily COVID-19 case right here in Washington, D.C., is now the highest in the nation per capita and the White House has not been spared. Close contacts of the president and vice president have tested positive. All Americans at large have struggled to find testing."
+    },
+    {
+      "speaker": "HOFF (voice-over)",
+      "utterance": "President Biden is now expressing regret."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "I wish I had thought about ordering half a billion."
+    },
+    {
+      "speaker": "HOFF",
+      "utterance": "For not ordering 500 million rapid COVID-19 test weeks ago. Instead, the president promised to distribute them to Americans free of charge next month."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "We're getting bombarded and showered with tests, to the point where we ran out of test yesterday."
+    },
+    {
+      "speaker": "HOFF",
+      "utterance": "The holiday testing demand comes during one of the busiest travel times of the year. Airlines canceling hundreds of flights this we can due to staffing shortages as COVID-19 cases across the country surge. The omicron variant is now the most dominant strain."
+    },
+    {
+      "speaker": "MAYOR BILL DE BLASIO (D), NEW YORK CITY",
+      "utterance": "We are not shutting down. We are not falling back. We're going to fight our way through this."
+    },
+    {
+      "speaker": "HOFF",
+      "utterance": "On Thursday, New York City Mayor Bill de Blasio felt the pressure and scaled-back the city's New Year's Eve celebration. Hundreds of public schools will not immediately return to in person learning following the Christmas break, citing high community infection rates and several universities, including UCLA, Columbia, and Duke, will start their spring semesters online."
+    },
+    {
+      "speaker": "DR. ROCHELLE WALENSKY, CDC DIRECTOR",
+      "utterance": "We are at a critical point and how well these measures are implemented by all of us caring for ourselves and for one another will largely determine the outlook of the coming weeks and months ahead."
+    },
+    {
+      "speaker": "HOFF",
+      "utterance": "Several large cities like D.C. and L.A. are now joining New York in implementing proof of vaccination to enter certain businesses. This as President Biden's vaccinate or test requirement for larger companies will face the Supreme Court a week from next Friday. If it's upheld, OSHA would begin implementation after January 10th."
+    },
+    {
+      "speaker": "DR. JANETTE NEWSHEIWAT, FOX NEWS CONTRIBUTOR",
+      "utterance": "We need to be able to have the therapeutics, have the medicines, have the test, and have better accessibility to vaccines and boosters moving forward."
+    },
+    {
+      "speaker": "HOFF (on camera)",
+      "utterance": "Last week, the FDA cleared both Pfizer and Merck's antiviral COVID-19 treatments. Pfizer's medication was found to reduce hospitalization and death by up to 90 percent -- Mike."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Alex Hoff reporting from Washington -- Alex, thanks. Joining us now is Dr. Ashish Jha, dean of the Brown University School of Public Health. Doctor, welcome back to \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "DR. ASHISH JHA, DEAN, BROWN UNIVERSITY SCHOOL OF PUBLIC HEALTH",
+      "utterance": "Good morning. Thanks for having me back."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Doctor, according to the White House public health officials, omicron variant represents 73 percent of new cases and in some places in the nation, 90 percent. However, in South Africa, where omicron was first detected a month ago, they began experiencing a surprising drop in new cases. The top infectious disease scientist there said looking at preliminary data, he expected, quote, every other country or almost every other to follow the same trajectory. Dr. Jha, would you agree with that early assessment?"
+    },
+    {
+      "speaker": "JHA",
+      "utterance": "Yeah, again, early is right. We don't have a ton of data yet, but certainly, South Africa is a hopeful sign that this wave of infections that's sweeping across America is going to rise very, very quickly, but hopefully peaked quickly and come down quickly as well. That's what I think most of us are expecting. Obviously, we'll have to see how it plays out here."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Dr. Jha, the antiviral drug Molnupiravir developed by Merck and Ridgeback Biotherapeutics was approved Thursday by federal regulators. It is found to cut the risk of hospitalization and death in high risk patients by 30 percent. But some experts fear it will fuel the rise of new variants or could cause mutations in people who take it. Is that a legitimate concern?"
+    },
+    {
+      "speaker": "JHA",
+      "utterance": "You know, it is a legitimate concern, Mike. That's why I'm not sure exactly when or how often we want to use that. The Pfizer pill Paxlovid is I think a much, much better option, and that's probably going to end up becoming the standard of care once it's more widely available."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Interesting. OK. Earlier this week, President Biden had this to say about children in school."
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "utterance": "COVID-19 is scary but the science is clear. Children are safe -- as safe in school as they are anyplace, assuming the appropriate precautions have been taken."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "The CDC is promoting its strategy, Test-to-Stay. Still more than 800 schools across the U.S. unexpectedly closed this week, according to Verbio (ph), with more than 500 schools closed in the first week of January. Dr. Jha, are we headed for full-scale remote learning? And as a public health matter, who is right in this debate, close versus stay open?"
+    },
+    {
+      "speaker": "JHA",
+      "utterance": "Yeah, this is really unfortunate, Mike. You know, here we are almost two years into the pandemic. We know how to keep schools open. We know how to keep them safe. This really shouldn't even be on the table and I'm disappointed to see this is happening. We know that for kids, being in school is the right thing for them, for their mental health, for their education, and we have all sorts of tools to keep schools open. So I don't really understand why school districts are doing this. And I think we can -- we can keep schools open and we should absolutely keep schools open."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "What about the other health concerns of shutting down schools in terms of school-age children such as mental, emotional, physical and social health?"
+    },
+    {
+      "speaker": "JHA",
+      "utterance": "Absolutely. This is why I and I think many of us have said schools should be absolutely the last place to close and the first place to open. There could be times when you have such severe staffing shortages that it may be hard to keep schools going. That really should be the only context I think at this point. Otherwise, school should absolutely be open for the reasons you outlined."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Doctor, the White House had wanted to take booster shots available to all adults eight months past their initial vaccine series beginning in September. But federal regulators and some outside scientists said there wasn't enough data to support that wide of an authorization. You even went through your own evolution in thinking on this recommendation. In the end, it was four months before all adults were eligible. In light of this, did we miss crucial time in getting in front of omicron? And did the bureaucracy blow it?"
+    },
+    {
+      "speaker": "JHA",
+      "utterance": "I do think we missed critical time and I do think the bureaucracy slowed us down. Look, my evolution on this was around late July, early August, I started seeing pretty compelling date of the people needed that third shot. And so, when the president came out August 18th I think and said every adult should get one, I agreed with him. And I think we spent three months fighting and going through a bureaucratic process. It slowed us down and it's one of the reasons why so few Americans have gotten a booster, particularly high-risk people who absolutely need it."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "On Wednesday, Dr. Walensky repeated the CDC's recognition that those who want to gather for holidays, among other things, get tested first. Dr. Jha, there's a shortage of tests and testing. Are these federal recommendations coupled with vaccine mandates creating a run on supplies?"
+    },
+    {
+      "speaker": "JHA",
+      "utterance": "Yeah, this is a really good question, Mike. First of all, I agree with Dr. Walensky's recommendation that it is safe to get together this holiday season. As opposed to last year, because we have so many people vaccinated and boosted, and if you are, that's great. Also, we really think -- I think people should be getting a test before they get together, especially with high-risk people. Unfortunately -- we have plenty of vaccine supply, that's not a problem, but unfortunately we do not have enough tests. This is really something we should have been on top of for months and I'm disappointed that this is where we are as a country right now. I'm hoping into January, we're going to see a lot more testing available, but it would have helped over the holiday season."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "No doubt. The bottom line criticism of the Biden administration's handling of COVID is that they've been reactionary to developments, not aggressive enough."
+    },
+    {
+      "speaker": "In an interview this week with ABC News, President Biden defended recent comments by the vice president, who said",
+      "utterance": "We didn't see delta coming. I think most scientists did not -- upon whose advice and direction we have relied -- didn't see delta coming."
+    },
+    {
+      "speaker": "The president said of omicron",
+      "utterance": "How did we get it wrong? Nobody saw it coming. Nobody in the world who saw it coming. But here's how others characterized it."
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES",
+      "utterance": "I believe that the vice president was referring to the fact if you look at the number of mutations in omicron, it's unprecedented."
+    },
+    {
+      "speaker": "DR. ROCHELLE WALENSKY, CDC DIRECTOR",
+      "utterance": "This increase in omicron proportion is what we anticipated and what we have been preparing for."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Dr. Jha, does it appear administration officials were taken by surprise What else counts for the challenges we have seen in recent weeks to address the omicron surge?"
+    },
+    {
+      "speaker": "JHA",
+      "utterance": "Yeah. So I think there are parts of the administration has clearly gotten it right. I think their push on boosters, the availability of vaccines, that's all been terrific and even now, you can go out and get a vaccine tomorrow and there's plenty of supply. I think both on omicron and delta, the administration has not done enough on getting ready through testing and through its communications. So the two places where I would say the administration needs to do a better job -- communicating more effectively with the American people and certainly making testing much, much more widely available. That has not happened as much as it needs to, and I'm hoping that this time around, with the president's promise of 500 million tests widely available in January, that finally we'll be able to get that issue under control."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Dr. Jha, Israel is beginning to roll out its fourth shot, with one of their public health officials saying that while they don't have all the data on the level of immunity, they don't think they can afford to wait. This comes as Pfizer CEO said earlier this month that people might need a fourth shot sooner than expected. Doctor, should people here in the U.S. anticipate that yet another round of shots will be needed, and is our health system prepared to make that happen?"
+    },
+    {
+      "speaker": "JHA",
+      "utterance": "Yeah. So, if we needed -- I think our whole system is prepared -- but let's actually talk about whether we needed or not. And at this moment based on the data I've seen, I'm pretty skeptical that we're going to need a fourth shot. Part of the question is that we have to ask ourselves, what are we trying to do? Are we trying to block every single infection? Maybe that's our goal. If that's our goal, then yes, maybe we need a fourth shot. Or are we just trying to prevent serious illness and death, which, of course, I think should be our primary goal. So I'm pretty unconvinced at this moment, Mike, that we need a fourth shot. If we do, our system can handle it, but let's get a lot more data before -- I think before we even start seriously thinking about it."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Asked again this week whether CDC is considering revising its definition of \"fully vaccinated,\" Director Walensky said the agency is looking at that right now. From your perspective in public health, is this going to be a necessary and inevitable revision?"
+    },
+    {
+      "speaker": "JHA",
+      "utterance": "I do think we're going to end up there. Look, I -- we have lots of vaccines that are three-shot series, Hep B, polio is a four-shot series. So, I don't think the idea of a three-shot COVID vaccine series to be fully vaccinated is either unprecedented or unusual. My take is that's probably where the science is land -- actually that is where the science is landing right now, and I think in the upcoming weeks and months, the CDC is going to revise it to say fully vaccinated is three shots."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "As the Supreme Court is hearing arguments soon over the president's vaccine requirements weighing cost, benefits, impact the economy and the workforce already, is changing the fully vaccinated definition the right thing to do?"
+    },
+    {
+      "speaker": "JHA",
+      "utterance": "Well, certainly, if we change it, it -- and if CDC changes it, then it's going to put pressure on businesses, on universities that have required fully vaccinated people to then update it to include boosters. I think that's already starting to happen. I'm seeing a lot of businesses starting to require their employees get the booster. So I don't know how much of an impact it will make. It will certainly have some impact. We'll see kind of where all of this plays out."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Thanks very much, Dr. Jha. And happy holidays. Up next, the president's agenda faces a critical reckoning in the New Year with potential consequences for the Senate and the courts. We'll discuss with Democratic Senator Ben Cardin, next."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "The White House ends the year on defense as the president's social spending bill takes a crushing blow in the midst of Democratic infighting. Joining us now, Democratic Senator Ben Cardin of Maryland. Senator, welcome back to \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "SENATOR BEN CARDIN, (D-MD)",
+      "utterance": "Mike, it's good to be with you. Thanks."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Majority Leader Chuck Schumer sent out a dear colleague letter this week in which he said there will be a vote on Build Back Better and President Biden said he thinks there is still a possibility of getting the bill done. Senator, what's the path forward to actually getting the legislation passed as it is now when the math clearly isn't there?"
+    },
+    {
+      "speaker": "CARDIN",
+      "utterance": "Well, Mike, not only did the majority leader send a letter out, we also had a caucus this past week, late last week, and there is unanimity in our caucus that we want to get a bill to the president and we are working to see what that bill will contain. President Biden is directly involved in these negotiations. We need to deal with the affordability of childcare because it affects our workforce and having workers available for our economy. We've got to deal with the cost of higher education. We know working families have tax issues, we've got to extend certain tax provisions to help working families and families with children. There are things that need to get done that shouldn't be partisan. We should be able to get these issues worked out. We are prepared to move, we just need to make sure we have unanimity in our caucus and that's what we're working on, and we will start on that next week when we return."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "To your point, are Democrats open to scaling it back even more or passing various pieces as stand-alones, maybe attracting Senator Manchin or even some GOP on some of these issues?"
+    },
+    {
+      "speaker": "CARDIN",
+      "utterance": "Well, that's a strategy decision that's being negotiated. We are open to a way to reach the finish line. We want to make it as comprehensive as possible because the needs are just there. We recognize that families need help on affordability, and that's what this is about, making our economy affordable for families. And it will be fully paid for. That is very clear. We understand the risks of inflation and we are committed to making sure that we really offset all expenses. So I think, with those parameters, we want to see it as comprehensive as possible, but we need to make sure we have the votes to pass it, so that means it will be different than some of us would like to see."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Does scaling back the ball to win over moderates risk losing progressives in both the Senate and the House?"
+    },
+    {
+      "speaker": "CARDIN",
+      "utterance": "Well, we've got to find that sweet spot and I think as long as everyone's at the table as we're negotiating, I know President Biden has always included all parts of our caucus in these discussions, I think we can reach that sweet spot. Look, a lot of us are going to be disappointed, but we're not going to let perfection be the enemy of getting something done, so we need to get something done. I think we'll be pragmatic about it, but we want to make sure it deals with the issues that we are facing in our communities."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "President Biden said in an interview with \"ABC News\" this week, quote, the only thing standing between getting voting rights legislation passed and not getting passed is the filibuster. I support making an exception on voting rights of the filibuster. Majority Leader Chuck Schumer said the Senate would, quote, consider changes to any rules which prevent us from debating and reaching final conclusion on important legislation. Senator, you've said in the past you'd be open to eliminating that but because the votes to do that do not exist, you'd like to see bipartisan buy into reforming the rules. What's your position now?"
+    },
+    {
+      "speaker": "CARDIN",
+      "utterance": "Well, Mike, I've been in the Senate for 15 years and what I would like to see us is returned to how the Senate was operating when I first came to the United States Senate, and that is allow issues to come to the floor of the Senate so we can debate. We're supposed to be the greatest debating society, institution, in the world. We need to be able to debate issues, but we also need to make sure that the minority have an opportunity to offer amendments and get votes on their amendments. At the end of the day, we should be voting up or down on legislation. That's what we need to do, is to reform the Senate rules so that it acts in its traditional historic sense. We're not doing that today, and I do hope we would have Republicans who would join us in this effort so that the Senate can restore the way that it should be considering legislation."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "And, of course, some folks favor changing the rules when they're in the majority and then when they get to be in the minority, they don't care for it so much, right?"
+    },
+    {
+      "speaker": "CARDIN",
+      "utterance": "Well, Mike, I've been working both in majority and minority with senators from both sides. We recognize that the Senate is broken as far as the way it operates and we have to fix that. And yes, voting rights is a good example. There's no reason why we shouldn't be debating this issue on the floor of the United States Senate. It's a timely issue, and it needs the debate in the United States Senate. We should be voting on amendments, and we should allow the majority to rule on these votes on amendments. Let's have a real debate and let the Senate carry out historic role. So, I felt this way when we were in the minority when I couldn't offer amendments. I feel this way in the majority we can't get votes up or down. Let's listen to each other, let's fix the Senate, and let's take up issues such as voting rights."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "In that letter to colleagues this week, Senator Schumer seemingly took a shot at Senator Manchin stating that every senator would have the, quote, opportunity to make their position known on the Senate floor, not just on television. Here's Manchin from an interview he did this week."
+    },
+    {
+      "speaker": "SENATOR JOE MANCHIN, (D-WV)",
+      "utterance": "I'm from West Virginia. I'm not from where they're from and they can just beat the living crap out of people and think they'll be submissive."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Senator Cardin, Senator Manchin is an elected official from the State of West Virginia, one of the reddest states in recent years. He's been in the U.S. Senate since 2010 and prior to that served as governor. Is it possible he has a point that some of the policies in Build Back Better just don't rate with his state?"
+    },
+    {
+      "speaker": "CARDIN",
+      "utterance": "And he certainly has expressed himself. He's asking for a vote in the United States Senate, he's asking for us to take the issue up and vote on it. So, look, we all have our own views, we have our constituents. At the end of the day, I think Senator Manchin understands the importance of getting legislation to the president to deal with many of the issues that are in Build Back Better. He doesn't agree with all of them, so let's sit down and find that area where we all can come together for the sake of our country. And all of our states, including west Virginia and Maryland, the citizens will benefit from that."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Charles Lane, who is part of our panel this week, wrote for \"The Washington Post\" a sort of all politics is local piece regarding Senator Manchin's announcement that he cannot support Build Back Better, basically pointing out that there are various parts of the legislation that may benefit other parts of the country, but what's in it for West Virginia. He then adds, \"At times, Manchin's motivations for resisting BBB have been portrayed as a `mystery.' The real mystery is why The White House and Senate Majority Leader Charles E. Schumer bet their political future on getting Manchin to vote for a bill such as this one.\" Is it possible West Virginia is quite different than New York, California, or even Maryland?"
+    },
+    {
+      "speaker": "CARDIN",
+      "utterance": "Well, each state has unique issues. I represent the people of Maryland, I can tell you that Chesapeake Bay is very important to our state. I think it's important to our entire country. So I'm sure that Joe Manchin has issues in West Virginia that he wants to see us pay attention to in Washington. That's what our job is, our job is to represent the people of our state but also to represent our nation, and I think we can come together on this. The affordable childcare in every one of our 50 states have issues, where parents have a hard time dealing with the cost of childcare and it's preventing some people from entering our workforce. Every state has a challenge on the cost of higher education. We need to deal with it as a nation. These are national issues that affect all our states. So, I hope we can find a spot. Certainly, there are certain issues that are more important in some parts of our country than others, but that's what the Senate is about. Let's find that common spot that can help all of our states and help our country."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Leader Schumer may have been referring to Senator Manchin specifically in his letter, but Senator, what about all these other Democratic members who are up for reelection in 2022 who represent states with competitive races, moderate politics? Maggie Hassan of New Hampshire, Catherine Cortez Masto of Nevada, Mark Kelly of Arizona, for example. Is it possible Manchin has been taking the heat for a number of your moderate colleagues?"
+    },
+    {
+      "speaker": "CARDIN",
+      "utterance": "I can tell you that every one of my colleagues in the Senate have strong views into what needs to be in Build Back Better, and they express themselves on these views. At the end of the day, we think the American people want to see the United States Senate act on these issues. They recognize we have challenges. They want to make sure that it's fully paid for, and we want to make sure it's fully paid for. We want to make sure that we deal with core issues. So whether we're on the ballot this cycle or not, it's in our political interest as well as the policies of this country to get this right. So, to me, the worst outcome is inaction, getting nothing done. We've got to get something done."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Several prominent Republicans, including Minority Leader Mitch McConnell and Senator John Cornyn of Texas have been openly recruiting Manchin to switch parties. Manchin has said he hopes there is still room for him in the Democratic Party. Senator, is there still room for Manchin and other senators who represent states that may not support some of the progressive policies in that bill?"
+    },
+    {
+      "speaker": "CARDIN",
+      "utterance": "Absolutely. The Democratic Party is proud of having a broad tent, as we say it. We have people with different views, and look, give Senator Schumer a lot of credit. We have a 50/50 Senate, as you know, and yet we've been able to keep unity among all 50 of the Democratic senators, we were able to pass the American Rescue Plan, we were able to deal with the borrowing cap, debt cap in our country. We were able to get a lot of the things done. There's absolutely room in our party for Joe Manchin and Elizabeth Warren and everyone in between with different views, Bernie Sanders. We are very proud of our caucus and the fact that we have diversity in our caucus and Joe Manchin is very much welcome in the Democratic Party."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Thank you, Senator Cardin. We appreciate you making time for us today. Up next, we are joined by Senator Roy Blunt for Republicans' reaction to the future of Build Back Better and the state of the GOP."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Coming up, more Bush era Republicans exit Washington or consider it, including the number two Republican in the Senate."
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL (R-KY)",
+      "utterance": "I hope that Senator Thune will indeed, after the holidays, announce he's going to run for reelection."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "We'll discuss with another GOP leader who is not running for reelection, Senator Roy Blunt, next."
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS ANCHOR",
+      "utterance": "While much of the focus of Build Back Better's derailment has been on Senator Joe Manchin, Democratic Leader Chuck Schumer also looking aim this week at Senate Republicans for Congressional gridlock. Joining us now, Senator Roy Blunt of Missouri, a member of GOP leadership. Senator, welcome back to FOX NEWS SUNDAY."
+    },
+    {
+      "speaker": "SEN. ROY BLUNT (R-MO)",
+      "utterance": "Good to be with you, Mike."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Senator Blunt, your democratic colleague, Joe Manchin, arguably single handily sunk the president's Build Back Better bill this week, but that overlooks the 50 GOP senators who were no votes as well. Here is President Biden Tuesday making an impassioned plea on behalf of families he says would benefit from passing that legislation."
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Imagine being a parent, looking at a child, and you can't afford -- you have no house to borrow against, you have no savings. It's wrong."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "How do you respond to that criticism from the president?"
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "Well, I think the biggest challenge that families are facing right now is the inflation. Inflation numbers, as high as they've been in for decades, they -- they impact families at the grocery store, at the gasoline pump, when they pay their home heating bills, putting more money into the economy at a time when the economy is already overheated I think is just a bad idea. And, obviously, we want to get people back to work. There are jobs available. People are trying to get people to come and work with them and to make -- make the country function economically. We -- we can't solve every problem by just dropping money on top of more money. I thought the -- Congress made a big mistake and the administration made a big mistake right out of the box in March of this year by deciding after five bipartisan bills to fight back Covid and what Covid could do to our economy, all Democrats all on their own decide we are going to spend another $1.9 trillion in what they call the American Rescue Plan in an economy that, frankly, Mike, clearly, at that point, did not need to be rescued. There were things that need to be done. But just sending another $1.9 trillion in has created a big problem. I think another $2 trillion in this Build Back Better idea will also create a big problem. And families are suffering, whether the administration and the Democrats in the Congress want to admit that or not. This is not a transitory problem, it's a real problem. And you don't -- this is no time to make that problem worse."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Senator, one of the casualties of the collapse of that bill is the enhanced child tax credit, which expires at the end of the year. According to the Urban Institute, continuing the benefit could have a significant impact on child poverty, reducing child poverty to about 8.4 percent from 14.2 percent, a fall of roughly 40 percent. Is that a compelling argument to extend it?"
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "Well, I think this is -- this is one of the problems and one of the gimmicks in the bill, frankly. You know, we doubled the child tax credit in the 2017 tax bill. There's a cap on that credit based on income. Senator Manchin has repeatedly said that one of the problems he has with the bill is that sending money to every family that has children under 18, the families that make -- every family that makes up to 150,000, and many families that make up to $400,000 if you look at the House plan, just simply doesn't make sense. You know, putting a cap on families in need is what we can do, should do and would do in the country, and I think could do in a bipartisan way. Again, we doubled the child tax credit just a handful of years ago, and we need to look at that if that's no longer meeting the need of moving kids out of poverty. But families that make $150,000, for instance, aren't in poverty in Missouri. I don't think they're in poverty almost anywhere in the United States. And it's a big mistake to assume they are."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Another argument being made for the enhanced child tax credit is it would bolster financial security and spur economic growth in Missouri by reducing taxes on the middle class and those striving to break into it. How do you respond?"
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "Well, if you look at the Build Back Better plan, the second biggest spending in that plan is eliminating the tax deduction that almost totally benefits the richest Americans, $230 billion going to restore the tax deductibility of all your state and local taxes. There's already a $10,000 deductibility for every family. I just -- you know, what we see with the -- the child tax credit is a great example what Democrats want to do with this entire bill. They started the child tax credit at this level in March, and now here we are, six months, eight months later, and they're saying, well, we can't stop that program, the program we just started."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "And that's exactly the kind of gimmicks that the Build Back Better, or some of my friends call it the build back broker, package does. They assumed that once you start all of these programs, you'll never be willing to stop them. And so you've got a $1.7 trillion of spending paid for over ten years, but most of that money is spent in the first three or four years."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "And the child tax credit would be another example. Let's extended it for a year and we'll have exactly the same argument again next year. Now, how are we going to extend this half a trillion -- this $500 billion program for the second year, even though supposedly we're going into a program that's fully paid for. Those are the kind of gimmicks that Joe Manchin and every Republican in the Senate were offended by and Americans are going to be offended by them too if they ever have a chance to hear that bill debated, as we're now debating it publicly once we see the specifics of the bill."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Senator, Democrats have expressed their interest on moving forward with a vote on Build Back Better after the new year. If Democrats were to scale back the bill at some point even more, or to break out some provisions and try to pass them as stand-alone bills. Are there any parts of Build Back Better that you could see Republicans potentially supporting?"
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "Well, I'm sure there would have to be. Now, we've never really seen Build Back Better, but with a bill that over ten years, if you extend all the programs, would spend $4.9 trillion, surely there's something in there that I would be for. Senator Stabenow and I have worked for years to try to see that we create mental health like all other health. That's a relatively small item in this bill. I think it's in there. But that's an item, if we put on the floor by itself, Republicans and Democrats would vote for. I think we've extended this program, expanded it at a couple of times since we first were able to get it passed in 2015. Of course there are things in there that you could before, but I don't see how anybody could, in good conscience, support a bill that if you take all the gimmicks out of the bill, you're going to be putting another $5 trillion into the economy over a decade. And an awful lot of that goes into the economy immediately, 6.8 percent inflation could become something bigger than that."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "And 6.8 percent is way bigger than we can handle right now."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Senator, you're retiring after 24 years of service in the U.S. House and the U.S. Senate. The new senior senator from Missouri will be Josh Hawley. You two have diverged on everything from certification of the 2020 electors, to support for the infrastructure legislation recently passed by the Senate. Senator, does this reflect an ideological shift on some of the biggest issues that is good for the GOP?"
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "Well, I think that when you look at the future of our party, the future of our party is to focus on the things that we have done well in recent years. Obviously, border security, regulatory policy, tax policy would be at the top of that list. And, once again, our friends, the Democrats, are helping Americans figure out the difference in us and them, what we were doing in the previous four years with producing great economic results. Even the battle against Covid produced five major bipartisan bills. I think the way that voters reacted just last month in the elections in New Jersey and Virginia show that there is a real resurgence of people rethinking the difference in the two parties. And I think a Republican Party is going to do very well in that discussion, in that debate, and those elections next year."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "One of your colleagues, John Thune, the number two Republican in the Senate, is weighing a retirement announcement. Senators Richard Shelby of Alabama, Rob Portman of Ohio, plus Richard Burr and Pat Toomey in the swing states of North Carolina and Pennsylvania are leaving already and, of course, you. First, have you had any conversations with Senator Thune? And, second, are you concerned that any hopes of future bipartisan moments in the U.S. Senate will leave with you all?"
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "Well, I think the country is resilient and strong and understands the importance of finding solutions. Senator Thune and I came to the Congress 25 years ago. We're close friends. We work together in the Senate leadership. Certainly the country will benefit if he decides to stay in the Senate. And this is just a decision that he has to make. Certainly, in my case, it seems to me that time to bring this chapter to a close. And I'm looking forward to what we're going to be doing next year. Ben Cardin and I are working on a couple of major issues, the mental health issue I mentioned earlier. What we could do with more health research. What did we learn from Covid."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "What do we need to do to enhance testing. If I think this is going to be a great opportunity for the Congress. Certainly I hope Senator Thune continues to be an important leader in our country, and I look forward to working with him between now and the end of next year."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Senator Blunt, thank you. Always good to speak with you."
+    },
+    {
+      "speaker": "BLUNT",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Up next, we'll bring in our Sunday group to discuss how President Biden did on Covid and other areas one year in."
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "utterance": "After ten months of the pandemic, we still don't have enough testing. That's a travesty."
+    },
+    {
+      "speaker": "QUESTION",
+      "utterance": "And what's your message to Americans who are trying to get tested now and who are not able to get tested and who are wondering what took so long to ramp up testing?"
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "What happened was, the omicron virus spread even more rapidly than anybody thought."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "That was then President-elect Biden a year ago on his predecessor's pandemic response and then this past week defending his administration's actions. And it's time now for our Sunday group. Former Republican Congressman Jason Chaffetz, Catherine Lucey, who covers the White House for \"The Wall Street Journal,\" and Charles Lane from \"The Washington Post.\" Panel, welcome to all of you."
+    },
+    {
+      "speaker": "JASON CHAFFETZ, FORMER CONGRESSMAN (R-UT) AND FOX NEWS CONTRIBUTOR",
+      "utterance": "Thank you. CHARLES LAN, \"THE WASHINGTON POST\" AND FOX NEWS CONTRIBUTOR: Thank you, Mike."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "I want to start by taking stock of the president's first year in office. Catherine, Mr. Biden ran as a dealmaker who would renew confidence that government can do big things. But here we are, heading into year two, with the pandemic ramping up and the government struggling to insure Americans have key supplies like testing and now therapeutics and the president is again pressing hard for vaccinations. Give us a sense of his Covid scorecard, both on tactics and messaging. CATHERINE LUCEY, \"THE WALL STREET JOURNAL\": Yes, that's right, Mike. I think, you know, the public is really giving the president sort of a mixed review right now on Covid. I think we see that in the polls. There's frustration about where things stand. And you're right, I think we have to think about this broadly. The president ran as someone who could get the pandemic under control. You know, this summer he said the country would declare independence from a virus and then we had delta and now he's dealing with the challenges that omicron is presenting. And you're really seeing that play out this holiday season. Long line at testing centers. You know, travel has been snarled. You know, this isn't the, you know, the -- the festive moment that this president was hoping for. And kind of what you're hearing from the White House, you know, is a sort of -- a mixed response here. They're trying to really stress urgency. They're trying to explain what they're doing in terms of efforts to, you know, ramp up access to testing and support for hospitals. But they are also really trying to argue that the country is in a different place now than it was a year ago. And that is true as well. I mean there is -- you know, more people are vaccinated. Vaccines are widely available. Boosters are available. You know, new therapeutics are being made. So they're trying to walk that line."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "LUCEY",
+      "utterance": "But he heads into '22 in a tough position and facing some very tough questions, as you noted, in particular about the testing shortages."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Jason, we saw a poll this week from the Kaiser Family Foundation that gives us an early sense of how vaccinated and unvaccinated adults in the U.S. feel about the risks from omicron. Take a look, 54 percent of vaccinated adults say the omicron variant makes the, more likely to get a booster shot, but only 12 percent of unvaccinated adults say omicron makes them more likely to get vaccinated. Now we also saw in recent days former President Trump taking credit publicly for the vaccine. My question, Jason, is there anything the White House or former President Trump could say to encourage unvaccinated adults to consider getting a shot?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Well, they've tried just about everything, including, you know, giving payments to people and other types of assessments. But I think Joe Biden is in a very tough spot With Kamala Harris, because I think their plan is failing. They essentially tried to declare victory back in July. I happen to have -- I've been vaccinated. I've had the booster. I would encourage other people to get it. But what really rubs a lot of people wrong I think are the mandates, forcing people to do it, saying that getting an injection is something that you have to have in terms of getting -- going into a restaurant, to getting -- you know, having to show your papers. There are a lot of people that believe in the vaccine, they just don't believe in the mandate. And I think, politically, the president is taking a lot of steps backwards. The other thing is, I do think America thinks they need a second opinion at this place. I'm shocked that President Biden still has Dr. Fauci and other mouthpieces out there in front. I think he would do the country a great favor by putting a new, fresh face out there and getting rid of Dr. Fauci, because there are millions of people that flat out don't believe him."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Chuck, we'll see another key test for Mr. Biden when the Supreme Court hears oral arguments in a pair of appeals over those vaccine mandates, the mandate for large businesses, and the mandate for health care workers at facilities receiving Medicaid and Medicare funding. The White House says it's confident it has legal justification for its policies, but you covered the court, how do you see this playing out?"
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "I think they've got a problem, which is that they have six conservative justices on that court who are known to be skeptical of government regulation in general and the kind of attenuated linkage to a statute that this mandate rests on. Even by the admission of those who support it, who just feel it sort of falls under a category of an older statute and they didn't require a new Congressional enactment."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "I don't know how this would play into the court, but I think it's an interesting factor. The ground has shifted under the mandate since it was proposed. Now, as your previous guest, Dr. Jha suggested, fully vaccinated may mean three shots, whereas when they proposed it, it meant two."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "And that sort of changes the whole atmosphere around the mandate."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Jason, we also saw a major setback last week on the president's Build Back Better agenda. As you know, West Virginia Democrat Joe Manchin told us on this program last Sunday that he didn't think he could get to yes. We saw the public reaction from lawmakers. You were a member of Congress. How big a blow is this to the president's first year?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "It's pretty shocking. I think the Democrats acted as if they had some major mandate. They didn't. I think the expectation and the promise of Joe Biden and Kamala Harris is that they were uniter's. They knew how to bring people together. But they didn't even attempt to try to get Republicans behind this. I do think that coming about Valentine's Day, somewhere around whatever the -- the State of the Union is, I do think they'll come back with a smaller package, one that's more palatable and they'll pass something. It's too good a tool to pass up, but I think they overreached, they assumed too much, they went much more progressive, and I don't think there's much of a place for a person like Joe Manchin. The old blue dog Democrats are -- they're gone. They're extinct. There's no room for them in the Democratic Party of today."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Catherine, your reaction on this setback to this agenda?"
+    },
+    {
+      "speaker": "LUCEY",
+      "utterance": "You know, certainly, you know, this is not the news the White House was expecting just a week ago on this show. They were, you know, taken -- really taken aback. They were very frustrated. But you have also heard their tone in the past couple days. They are really arguing that they think that they can find a way forward. The president has been very careful in his remarks about Senator Manchin specifically. They think that they can reopen negotiations. So, yes, I think as Jason said, there's going to be an effort in the new year to see what they can come together on. And then, I think as we've all discussed a lot, the question becomes, do you try and do less things for more time?"
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "LUCEY",
+      "utterance": "Do you try and scale this back? What kind of pay-fors are you looking for? How do they do something that is perhaps smaller and more palatable?"
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Panel, we have to take a break here. Up next, a look ahead to the new year with our panel's 2022 predictions."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "And we're back now with our Sunday group for a look ahead to what to watch in 2022. So we just ticked through the president's and Republican's scorecards from 2021. I want to go around the horn here with our group to see what you see as the major items you think we'll be back here discussing at the end of 2022. What are the major political themes, policy themes in the coming year? Jason, let's start with you."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "I think security was going to be right near the top of the agenda. Security in your health, security on the border, security in your hometown, security in the big cities, and certainly security around the world, because I think Joe Biden has a very full plate going into 2022. I also think privacy will be a major theme, an issue. You need to show papers in this country in order to go into a restaurant. Those types of things will be right near the top of the agenda. And then, certainly, I think immigration is an underplayed story."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "All right, Catherine, you're up."
+    },
+    {
+      "speaker": "LUCEY",
+      "utterance": "You know, President Biden ran a someone who could get the economy and, you know, Covid under control, back on track, and I think those are going to remain defining issues, especially as we head into the midterms if people feel more confident on both of those areas. The other thing I'll be watching really closely that you mentioned earlier in the show is what happens with schools in 2022. If we see any more widespread, you know, return to virtual learning, we saw -- we've seen a lot of extreme parent frustration over that. That really played out in the Virginia's governor's race. And so I think that's another thing to keep a close eye on."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "All right, Chuck, your turn."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "Well, I think it's a safe prediction that we will be back here in a year talking about Donald Trump. His shadow continues to lie over the whole political system. And the whole political future of the Republican Party, especially. There will be Republican primaries coming up next year where his candidates will be on the ballot and will test his influence. The whole issue of support and loyalty for his view -- false view that the election was stolen will continue to be a story."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "He's the man in the news."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "And last, I know Sunday shows are often reacting to the news, but I want to give each of you a moment to tell us which stories that you think are under covered right now but have the potential to shape the dynamics heading into midterms. Catherine."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "You know, I'm going to -- I'm going to again note that schools, I think, are a real thing that could -- and parents, and how parents are feeling also about some of these issues in the Build Back Better plan, child care, can, you know, working parents get back to work. We've seen a lot of frustration over the access to child care and support for families during the pandemic. So do those things remain top of mind for families?"
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "I know a lot of parents very nervous seeing schools closing down going back to virtual. All right, Chuck, your turn."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "I think foreign policy. Very often when a president stalls out in his domestic agenda, foreign events start to take over. And the issue of Europe, the stability of Ukraine and the possibility of war between Russia -- an invasion of Ukraine by Russia is already under covered and it could be a huge story next year."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "All right, Jason, bring us home."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Scandal. Just last week the Secret Service said 100 plus billion dollars was scammed in the -- in the -- a lot of the payments going out there. There are a lot of scandals out there going out across this administration, and I think those will be a lot of surprise issues and they will be coming up and they're -- they're underway right now. Look out because they're coming."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Jason, Catherine, and Chuck, thank you very much. Wishing you all a very happy new year. Panel, see you next Sunday. And thank you for joining us. Have a great week. I will see you tomorrow for our \"FOX NEWS AT NIGHT\" on the mighty Fox News Channel, and we'll see you back here next FOX NEWS SUNDAY."
+    },
+    {
+      "speaker": "Copy",
+      "utterance": "Content and Programming Copyright 2021 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2021 VIQ Media Transcription, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

@@ -1,0 +1,2301 @@
+{
+  "date": "August 31, 2017",
+  "headline": "Chemical company exec under fire for lawyerly answers",
+  "subHeadline": "Fire at plant near Houston releases noxious gases; reaction and analysis on \"The Fox News Specialists.\"",
+  "url": "https://www.foxnews.com/transcript/chemical-company-exec-under-fire-for-lawyerly-answers",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "KATHERINE TIMPF, CO-HOST",
+      "sentences": "Hello, everyone. I am Kat Timpf along with Eboni K. Williams and Brian Kilmeade. This is \"The Fox News Specialists.\" We are awaiting Vice President Mike Pence in Corpus Christi, Texas, who is said to speak with reporters in moments. The vice president has spent the afternoon in Texas surveying the devastation left by Harvey and meeting with survivors of the storm. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } Extensive rescue efforts are still underway across southeastern Texas, including the dramatic evacuation of hundreds of patients from a hospital in Belmont as it became consumed by floodwaters. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); } We are keeping close watch on the Arkema chemical plant outside Houston which was rocked by fires and multiple explosions earlier today. Officials are warning of more potential explosions to come. The area is within 1.5 miles and the plant has been evacuated. Wow. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRIAN KILMEADE, CO-HOST",
+      "sentences": "Yes, so they say that -- let's say, they go all this -- there's going to be an explosion here. It's just a matter of time. They had two generators. They need it refrigerated. And they knew that the generator was going to blow and then the refrigerator was going to stop and the chemicals were going to ignite. But they couldn't answer a lot of questions, like for example, that smoke you're smelling, could that kill you? Was it dangerous? I wasn't happy with that answer. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EBONI K. WILLIAMS, CO-HOST",
+      "sentences": "No, no. That was certainly not be comforting to me. If any of us were out there, thank goodness, evacuated -- you know, these are kind of the unintended consequences. We think about the flooding, we think about the water and wind damage but these types of explosions, Brian and Kat, I mean, these are the things that you don't really anticipate when this type of natural disaster comes your way. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Yes, absolutely not. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Well, I mean, in a way, because we are not chemists and we are not spokespeople for a chemical organization. But if you are going to be a spokesperson for a chemical organization, a common question would be, is that smoke poisonous, noxious? And I want you to hear what the interaction was like and tell me if you would feel good if you you're within this radius or somewhere near it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Yes, I wouldn't either. They said it's similar to a campfire but we don't know what it could do. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You are not able to say that it's none -- that any of this is nontoxic, correct? I just want to make sure that I'm correct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICHARD RENNARD, PRESIDENT, ARKEMA",
+      "sentences": "You know, organic peroxides are -- as the sheriff said, they are chemical materials that are used to initiate other chemical production for the purpose of making plastics. Toxicity is a -- is a... if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "OK, so you can't say it, you're not going to say that they're nontoxic, correct? Are you going to say they're nontoxic or are you not? Yes or no. Because I think it's a pretty important. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RENNARD",
+      "sentences": "I mean, the smoke is noxious, I don't -- its toxicity, it's a relative thing. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes, I don't want to be too cynical there but he sounds like he's in a deposition, being very measured, very particular with what he's defining as and what words he's not using.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "But he also said it's a relative thing, toxicity is a relative thing. No, it isn't. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "That's a yes or no. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "No, it isn't. How is it relative? Either it's toxic or it's not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That is a protect myself from liability answer. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Oh, yes, I mean, I get it unprecedented there, before dawn, once in a lifetime, once in a century, I understand that. But if you are chemical organization, you have to look at the worst possible scenario to get the permit necessary in a build, especially in a place like the gulf coast. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); } And I know there is a lot of questions. I don't need to be critical but that spokesperson has all the answer to that and that he feel some first responders on the way to the hospital. That's after that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Yes, well, it is time to meet today's specialists. She is a Fox News contributor and national spokesperson for the LIBRE Initiative, a non- profit group, Rachel Campos-Duffy is here. And she is trial attorney specializing in Civil Rights and criminal law, Anne Bremner is here. Anne, what have you thought seeing all of this going on because it seems like, I think it's over, you think it will get better, it keeps getting worse. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANNE BREMNER, AMERICAN ATTORNEY",
+      "sentences": "It does and I was thinking that was like a very much deposition answer without a deposition question, right? But I guess like looking on the bright of this, it's a horrible disaster. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } I mean there is nothing good to say about this except for God Bless Texas. But I mean, we have gotten a lot better at responding to disasters like this. Look at Galveston at Katrina, 12,000 died. And so look at what happen in New Orleans, and so I guess looking at this, at least at some type of silver lining, the responses overall you know, have been adequate in many ways. We don't have what happened in New Orleans. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); } We don't have the loss of life we had in Galveston but the fact is, it's our worst disaster we've ever had. But we will always have them. We always have them and let's just hope, we get better and better at responding.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RACHEL CAMPOS-DUFFY, FOX NEWS CONTRIBUTOR",
+      "sentences": "I mean, I'm just kind of fascinated by what you guys are bringing up about this response from the chemical with their spokesperson. I mean you are a lawyer, Anne. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); } To me it doesn't even sound like a very good lawyerly answer because if you don't tell me it's toxic or you are wavering on it and my kids are breathing it, I'm going to sue your butt after because you didn't tell me to get the hell out of the, you know area. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "I mean, (Inaudible) would have been in 9/11. She did not know. She was told it was clear. They did eve go debate that forever. But if I am a spokesperson for a chemical organization, as suppose after terror attack, I would have the answer to that question and it's not the time to hedge. Even Sean Spicer would say be a little bit more direct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "Well, but also, not just be direct but error on the side of caution. I mean, even if you are not sure if it's toxic, you know, let people know... if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "I want to something over my mouth and be... if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "I'm not sure that's the problem. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "But what he's there, Rachel, he is preserving what could come out later, and he's protecting himself from that liability that might be in front of him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Does that work, though? Would he really be protected? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "It depends who your lawyer is, Kat. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Let's go to Fox News correspondent Matt Finn. He's in Crosby, Texas, near the chemical plant that was the site of those explosions earlier today. Matt. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MATT FINN, FOX NEWS CORRESPONDENT",
+      "sentences": "Crosby Texas, about a half hour drive north east of Houston. As you can see behind me, we are in front of highway 90 which is currently closed because it's inside the 1.5-mile evacuation radius. Sheriffs vehicles blocking anyone getting on or off it, as if getting around wasn't difficult enough, because of all the road closures and flooding. Now this major highway is closed. And as you were discussing, there's a lot of conflicting information right now beginning last night when there were two reports of explosions at this Arkema plant. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); } And then today, we wake up to hear county officials and an executive from the chemical plant saying it wasn't an explosion. It was a chemical reaction. Basically what's happening, the Arkema executive said that they have nine containers of these organic compounds that are highly flammable and that they anticipated Harvey hitting their property last week, so they closed shop. They brought in backup generators and those failed. Then they brought in another system and that failed. So right now, one of the nine containers basically combusted, it caused a fire and it released with their calling irritants into the air. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); } And we are trying to determine just how dangerous these irritants might be. And the sheriff today got in front of a camera and says well, basically it's similar to standing by a campfire and breathing and smoke. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); } Then as we just heard from an executive at Arkema and he said well, it's an irritant and we are just not sure about how toxic it is. And then a short while ago, Tom Bossert, the Homeland Security Advisor at the White House briefing, said well, if you are near those black plumes, that would be really dangerous. Take a listen to his explanation. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOM BOSSERT, ADVISOR, HOMELAND SECURITY",
+      "sentences": "They're testing the air quality as local responders, but they don't know of anyone yet that's in that area of plume that would be affected. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } So if they were there be dangerous, then they have to keep an eye on it and make sure they take it seriously. But for right now, the people don't seem to be there. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINN",
+      "sentences": "Now there were 15 deputies hurt in this incident. They describe their wounds as standing over fire pits. Fortunately they were all treated and are doing OK right now. Highway 90 remains closed. And we are following this developing situation, not clear whether this evacuation might be lifted or how many people are affected. Back to you in New York. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "All right, Matt. I am not sure, can you hear us?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINN",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "OK, good. All right, I have a quick question for you. Although I'm going out of order, I'm going to yelled that in the break. I apologize. Matt, when you say it's 1.5 miles within the plume, we also know that the first responders, the cops, whoever showed up first ended up in the hospital and they are out. Are you sure they are OK? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINN",
+      "sentences": "We have been told that they are going to be OK. That they were treated and that they just had, you know, minor wounds or something to do with the irritant that they had breathed in. We haven't heard of any severe injuries, Brian. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Are you hearing people being concerned about this? This is -- I noticed that you are not even wearing a mask right now. So you are a brave man but I would be a little concerned about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINN",
+      "sentences": "Yes, Kat, I am probably not a good example. We have been in our car most of the day and we are working on getting some masks but we're probably going to take off after this report. You know, one of our MMJs has been our roaming area, he says that a couple hundred people definitely evacuated but county officials can't place a figure on how many people evacuated. But police went door-to-door here and then a lot of people heated their warnings. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); } We've kind of been planted on the outside of this radius. Obviously we have not been able to get inside there, so we can't really talk to people directly inside the radius. But there is a certain level of tension and people are afraid are certainly afraid it seems that's in area here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Matt, my question is, of the 15 individuals that we know, you know, had at least some minor injuries, do you have any idea how long they were exposed to the quote, irritant or whatever other mitigating term they are using to describe that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINN",
+      "sentences": "Eboni, unfortunately I do not. That happened shortly before we got here, and so far officials are telling us that they're just going to be OK. But that of course could change.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Thank you. Thank you, Matt. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "The sun is out and it's a little bit drier, certainly the water just in that area as we see there. Thanks, Matt. Get back in your car.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Right now we are going to go to Fox Business Correspondent Jeff Flock. He is in the middle of rescue efforts in Katy, Texas. Jeff.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JEFF FLOCK, FOX BUSINESS CORRESPONDENT",
+      "sentences": "House to house, yes (OFF-MIKE) perhaps you can see around here, this is a neighborhood just on the edge of west Houston, multimillion dollar houses. They have been inundated with water. They are going to -- going house to house. And these are volunteers, some of them volunteers, this gentleman, an Iraq war vet. These folks are from San Antonio who got a boat and decided to come down to help. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); } These are DEA agents from St. Louis were assigned to come down and help with the effort. The federal government really are putting all its assets on the line to help. And I will tell you, sometimes the government comes in you know, and says we know how to do it. We don't need any help, forget it. The government, in this case, said come on. We can use volunteers. And folks, you came as far as...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It doesn't sound like it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLOCK",
+      "sentences": "Tell me where?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "St. Louis, Texas.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLOCK",
+      "sentences": "Where is that? (Inaudible)",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's about 20 miles south of San Antonio.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLOCK",
+      "sentences": "OK, you came both way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, we do. People need help and I want to personally thank all law enforcements here today, DEA agents and everything. It's a big help, and they are gold star for me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLOCK",
+      "sentences": "Well, it's soaking wet here. You know, going house to house. What they've had to do is jump out of the boat sometimes, bang on the doors, help people get out of here. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } I think we are at the end of the day and I do think we're pretty close to getting everybody out. And you know, what can I tell you? It's -- it's been quite a day, it's been quite a week in Houston.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Are you most seeing private citizens helping out or is it a mix? How is the split?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLOCK",
+      "sentences": "It is a mix, and I will tell you, I have never seen in all of my years that are covering hurricanes and other disasters, this kind of mix in this kind of cooperation. I mean we've got -- I have seen this on multiple occasions whether it's local law enforcement or whether it's DEA folks coming from -- these guys are from St. Louis actually, the DEA agents are from St. Louis. People coming from all over, working together on this, and it's been gratifying to see it. And I don't think local law enforcement, first responders, even federal agents all alone could have done any of this themselves. It's just too big a problem. When you look at this and you look at the enormity of it, look at all of that. It's crazy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Jeff, speaking of the enormity of it, we are about on day seven, if you kind of go back to the beginning of when this started. What is a bit of the morale like? Are people exhausted? We see the sun is out, which looks different than it's been looking, it that radiating in a literal way? How are people kind of -- what is their temperature, so to speak? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLOCK",
+      "sentences": "I think that has been helpful but here's my concern as we go forward. You know the sun -- it's funny, we've been in the 70s in Houston because all of the storms. It's normally in the 90s now, and if you don't have air conditioning in your homes which of course you don't and if you are trying to stay in your home, I think you are going to get frayed pretty quick, and that's my concern to people attitudes. I mean, people are in survival mode where everybody pull them together in that sort of thing. I think as time goes on, we may see more frustration here because it's going to go on for a while.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Yes, it's natural. And I would this and look at this area -- nice area of Houston, and people might be looking at this saying, that's my house or that's where I live. Can I go home and see what's left? What is the answer?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLOCK",
+      "sentences": "The answer is absolutely not. I'm going to spin around here if I can. This fellow here, is he out? He is still in his house. He came back in to go into the house. People come in to get medicine. They go in to, you know, maybe pick up a pet maybe that they left behind. And so he went in but he's coming back out because even in this beautiful house, and some of them have generators. They have power, but even with that, staying -- you know, here we are. You would have to go in and out by boat and this would not be fun over time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Jeff Flock, thank you so much. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Thank you. When we return, countless lives across Texas and Louisiana are in tatters but apparently it's not too soon for media outlets to start mocking those suffering. So don't go away.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "The pain and suffering from Harvey's wrath is only just beginning. But that's not stopping some media outlets from politicizing it and even taking aim at the people of Texas.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "On its newsmagazine cover, the satirical French magazine, Charlie Hebdo, illustrates Texans drowning with the headline quote, God exist. He drowned all of the neo-Nazis of Texas. And in the U.S., Politico tweeted a cartoon depicting a Harvey victim getting rescued by the Coast Guard while displaying stereotypical characteristics of conservative Texans. Politico instantly deleted that tweet after it sparked an uproar online. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Kat, your view on this because are a real hero a first amendment right. Obviously they have a right to say it. In this moment though, what's your reaction to the timing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "OK, obviously it's incredibly insensitive. Obviously it's incredibly offensive. There's people that are -- it's very much still going on. It's also lazy. It's also really lazy. I feel like if you can't think of a good joke or a smart joke, you go for the outrage for the attention which is clearly what they were trying to do, and what they did. People are very upset. It's lazy, it's hack, and it's insensitive.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "And Brian, I would submit that it backfired, you know, big time. I think that people have a lot of tolerance in this country for political, you know, differences, but when America is hurting, this feels outrageous.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Well, Charlie Hebdo, who now, you know -- the last time we insulted Muslims or Islam, they were alleged to insulted them. They got -- people got killed. So they don't mind be provocative but they might look at a different enmity. They might say there is only one French magazine that the number one news channel in American is talking about, and it's Charlie Hebdo. Congratulations. We continue to poke the bear, and if the people wonder why American has gotten so oppress to the world that's gotten so mean, maybe it starts with idiots like that who publish series of cartoons like those. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes, I mean, Brian's point is well taken. Certainly, we are talking about them but I don't know that that's saying that type of publicity works anymore.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "You're right and it's offensive, it is insensitive, it's also not true. It's ignorant. I mean Texas is a very diverse place. So this picture of a -- of a white, you know, racist whatever, there cartoon is trying to depict, I mean we have...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "It's not even accurate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "It's not even accurate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "Exactly. In the makeup room, we have a makeup artist and a -- and a hairdresser from Texas, both proud Texans and both Latinos. I taught every race and color there, and I saw every race and color helping each other and trying to lift each other up in this moment. It shows how provincial these so-called cosmopolitan Europeans think they are. They don't really know what Texas is like. It's one of the most diverse, awesome places you could ever visit. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes, and you know what -- and look Politico, I mean, you know, having to walk it back with them putting it out there, how embarrassing for them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "And to delete it, I mean look at the French publication, when they go think the Texas about to save them from Nazis. I mean, you look at all these kinds of things. Satire is important part of our history, especially our political history but the fact is you can't go too far. And when you call people neo-Nazis...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Who are underwater.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Who are underwater and bodies are floating by. I mean, that's it. They are done. I mean, put the fork in them. I can't believe that they would do something like that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "And with comedy you can't be afraid to take risks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "OK. And a lot of times you do go too far. But they wanted outrage. There's no reason that they would've published this time at the time that they did, either Politico or Charlie Hebdo to try to get anything. But oh wow, look how naughty you guys are for publishing this. Wow, you're bad. It's hack and it's lazy, and it's just wrong. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "I think that you are right in the case of Charlie Hebdo but I think politico, it is just their liberal bent. I don't even think it was that they thought, oh, we were going to be over-the-top outrageous and just cause this. I think that this is who they are. I really do. I think this is who they are and I think when regular American see this kind of stuff, it just pulls them back into the arms of Donald Trump who by the way, doesn't look -- doesn't look down on them, doesn't make fun of people because they are from the south or because they are white or assume they are racist.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Or mid-west (Inaudible). So for example, if you look at D.C., Los Angeles, and New York, overwhelmingly for Hillary Clinton while she was popular there but the rest of America which makes up most of America looks at that and says wait a second, they are mocking the fact that the government saved you, not God. So they are hitting you on religion. They are hitting you on the fact that you question the efficiency of government which is a philosophy that you people voted for or against but they are missing the point. They have a chance to salute the people of Texas, and dare I say America, who have gotten their boats, their speed boats, their air boats and come down to help for no money for people they don't know. And they have been more effective than the government. So to be funny, it's got to be based on fact. It has flat out inaccurate. It's like I am going to cold clock you for no reason.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "You know, the mocking of the religious aspect, I think that's very important because all the across this country, people have various associates of faiths, that's a part of the beauty and strength of America, and I don't think in this moment, anybody appreciates, whatever faith is getting through this very difficult time, and being mocked. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Right, I want just look at the quote which is always do right, it will gratify someone and astonish the rest. Maybe that's where we should be, everybody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "I would just say that you know, I look at this, and look the report that -- who was a reporter?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Matt Finn.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "Matt Finn. I mean, he said the coordination between government and individuals, this was the United States of America coming together united, coming together to do this. And by the way, conservatives don't think we don't want government. This is precisely the situation where we want government. We just don't want government and our doctor's offices or you know, telling us, you know, how big our soda cans should be. But we want our government to help in this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Right and one of the things is this -- one of the most amazing things I saw on Monday, when we started covering this story as the devastation began to dig in, it was advertising for two straight days from the Houston police saying, hey if you have a boat, if you have a car, can you meet me at the beginning of the quad because we are out of boats.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Let's both come together.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "That's America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "And people have been great neighbors from Arkansas, Louisiana, and you name it, and it makes different. Straight ahead, the U.S., South Korea and Japan sending a loud and very clear message to Kim Jong-un today, conducting live bombing drills against mock North Korean targets. How might Kim respond? Stay with us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "You have got to love it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "A major show of force against North Korea. Today, U.S., South Korea, and Japanese military aircraft conducting aggressive military drills, including live fire -- fire bombing runs against mock North Korean targets. U.S. Pacific commandant announcing the exercises are in direct response to North Korea's launch of a ballistic missile over Japan earlier this week. But the key question is, will any of this change North Korea's defiant behavior? And I'll throw that to you, Kat. First, we have never seen this type of in-your-face military exercises and we also displayed yesterday taking down of a missile through a missile defense program.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "All right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "This is as close as you can get without actually hitting them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "I don't think it's going to change their behavior. I think they are going to retaliate in some way because that's what they do. That's what they've been doing. You know, they all hit us with something and you know, we hit them and it just ratchets up and it's entering a dangerous area, that's for sure. But I don't think, it's just we talked about fire and fury, is that going to stop them? They're retaliated. Every time you think, oh, maybe this will stop them, hate to be pessimistic but I don't think so.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Sergey Lavrov said to Rex Tillerson, our Secretary of State, no more sanctions. That's only going to make things worse. Just calm down. Don't worry about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "OK, that's where we are definitely going to take our national security advice from him. No. I agree with Kat, I don't think it's going to deter behavior. But I'm still not mad at it because you what, Brian? To me, we have to do something, right, and obviously we don't want to antagonize and start a war. So I am OK with us being pro-active and we stood in our ability to protect our nation and our allies.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Rachel, on top of that, we can add to this portion of the story, Secretary of Defense Mattis said there was no difference between the president and what I said yesterday when I -- when the president came out and said the time to talk is done. And then Mattis, a little while later, with the defense secretary of South Korea, said, \"No, no, there's always room to talk.\" He said now is not the time to talk, but there is always room to talk.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "You know what he means. Look, here's the bottom line: Donald Trump, good for him for showing force and strength where he's at. I think the answer lies with China. And China better pay attention, because if they don't do their job -- and they are the only ones, I think, that hold the keys to stop North Korea -- then Donald Trump is going to be on their doorstep. So if that's what they want, OK, fine, sit back and do nothing; but if you don't want it there and, ultimately, that's what they don't want. They don't want Americans in that area.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Respectfully, though, Rachel, I feel like we've been saying that that's the most logical solution, and it is. The problem is nothing we've done so far has been able to incentivize any action from China. So I'm not really sure what that will look like and what that's going to take take.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Absolutely, yes. And I was just thinking about a quote that -- that he said which was, the day is gone where we will worry about anybody threatening us with a nuclear bomb. So isn't that the ultimate?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "No, no, here's -- this is what you do. Whose attention do you want to get? Ultimately, North Korea. But how do you do that? Through China and Russia. What would bother China most? How about a militarized - - a defense system, a Japan that's got out of their constitution that they don't have an offensive military force. Remember, Japan carved up China in World War II. We don't want -- they've already carved -- before World War I, they carved up Russia. If you arm Japan, that will get China's attention. And all we have to do is start saying, \"We're going to begin to do that, because we have no choice.\" Then China will realize they're not the biggest man anymore.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That's an option. Because I think it's going to be -- I don't know if I'll cosign all the way on that, Brian, but it's going to be something in that ballpark, at least, because just the coaxing, the diplomatic talks, having -- I don't know -- talks at Mar-a-Lago, those things are not working with China, and we've got to do something.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "We haven't done everything we can do, right? We haven't put the screws on them economically.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "China doesn't really -- China doesn't really believe that we'll actually do something.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Correct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "So they don't want conflict in that area, as you pointed out, Rachel. Absolutely not. The tension is a little fun for them. Because the big guys, \"Oh, you want us to do something for you?\" But unless they really believe it, I don't think that they're going to...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "They used the term \"tipping point.\" They said on -- I think it was Tuesday -- that tensions have reached a tipping point. So if they do believe -- they don't want America's military presence in the area. Guess what they have. America's military presence in the area on steroids because of their belligerent neighbor.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "That's right. And this is not Barack Obama. This is Donald Trump, and he's a little unpredictable. So I'm not sure...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "It's not just Barack Obama. It would have to be George W. Bush.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "I've not noticed...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "We'd have to go way further back than Barack Obama, though, Rachel. It's up to North Korea (ph).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "No, but I'm saying, this guy means it, and he's a little unpredictable, which might make them nervous.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Right. Thank you very much, everyone. I'd like you to stick around. Twenty-seven minutes before the top of the hour. Coming up, will President Trump end the Obama administration's so-called DACA program for illegal immigrants brought there -- here as kids? New reporting that says a decision may be very near. Stay tuned.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Vice President Pence is about to speak. He's been talking with people, victims, survivors of the hurricane. So we're going to take that live here in a moment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Yes, he brought a big cadre with him. I mean, the secretary of energy, happens to be the former governor of Texas. That will help. Elaine Chao, former -- she is the -- not only Mitch McConnell's wife, but she is labor secretary.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Good catch there, Brian.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "She is -- she's also somebody that's going to get people back to work. So a lot of people who are going to give answers, and now you can get a little bit closer than the president got. Because he's been able to wear a jeans shirt, come down, you know, and maybe roll up his sleeves a little bit. I think we'll see that on Saturday from the president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes, it's a couple days later. And I think this is nice. I think the temperament from Vice President Pence is very different than President Trump. And both, you know, entitled to their style. But I think it seems like, just from the optics we're seeing, Brian, you know, a little more hands-on, a little more of an emotional tone there from Vice President Pence. For some people, that's nice.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "And in a situation like this, there's going to be a lot of people coming up to you saying, \"Hey, by the way, help me out. I'm not into the show.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Right, absolutely. And -- but I think Pence has that really nice demeanor and the ability to really calm people. There's a lot of help down there now. And I think he'll make sure that everything happens. And I do think he's got that kind of, you know, paternal, nice, you know, kind of evenness.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "It will be OK. That type of look. Right. And he's also a governor, right, Rachel?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "Yes, yes. But he's different than Trump. I mean, he -- listen, all politicians are different. My husband is a hugger. Donald Trump apparently is not. But Donald Trump is a CEO. I think when he came down, he was more managing his managers. He was overseeing this problem. And I think that's his style. I think -- I think you're absolutely right on with Pence. I think that's his -- he's even-keeled. He makes you feel like everything is going to be OK. And I don't think we should criticize people for being authentically who they are are.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "You're talking about (UNINTELLIGIBLE) this week, but -- when the president came out and he was talking about how we've got to get this done. We've got to get it up. But he wasn't talking enough about the people. And then some people say, \"Wait a second. He could have hugged people. He could have cried with them, or he could have wrote a check for a million dollars.\" That's what he did. He wrote a check for a million bucks. That shows you care.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "But you know what, Brian? That means that rescue efforts under President Trump must be going pretty well. Because they would love to criticize that. Instead, it's Melania was -- shoe change issues and...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Which was very silly, because I've done a heck of a lot of physical labor in five- or six-inch wedges myself. I'm very serious. Very serious. Very serious.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "I am about 5 feet tall. I do a lot of things in heels.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "What I do -- what I have noticed, too, as a guy who takes the train, the women that go in heels take -- get to the train by walking with sneakers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That's true. Or flip-flops.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "She took the heels to the plane. From the plane to the ground, she's wearing sneakers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "Yes, but -- but the people who are criticizing had this stupid idea that somehow, while she was mid-air, she realized there were all these bad tweets, and somehow magically, these sparkling white, brand- new tennis shoes appear; and some staffer handed her a FLOTUS baseball cap. Give me a break. She clearly planned on changing into this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That's really not even the point, though. Right, Rachel? The point is that she's the first lady of the United States, as Michelle Obama has been, as Laura Bush have been, and they get to help and support their country the way that they are comfortable. So whether it's in five-inch heels...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Stilettos.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "... whether it's in a $1,000 pair of Gucci sneakers, it doesn't matter. As long as you are there showing love and support for your constituents, you get to do it how you want to.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "One thing on the radio show I try to do a lot is play is the -- what the other channels are doing, just to drive the listeners nuts. And they had -- they had dueling pundits on different shows saying, one, why is President -- why is President Trump so concerned with optics, how it looks? He should go down. He's not doing anything. He's just getting in the way. The other one says when are they going to be aware of optics and how bad it looks...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Yes, right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "... for the first lady to walk out, like Marie Antoinette, \"Let them eat cake,\" with the heels. I go, wait a second. You're taking the same issue, being brutally critical, for the opposite reason.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "It doesn't matter. Damned if you do, damned if you don't.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "It's like he can't do anything right in the eyes of some of these people. Almost as if.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "You've got to shut it down and stop listening unless we're on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "And the same people that were criticizing Melania are the same ones that were so angry that there was a double standard for Hillary Clinton when it came to her appearance. I mean, the hypocrisy is just out of control.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Well, probably a lot of them are jealous that they can't walk in heels, which I get it. I can't. I leave all my heels here at work, and they're all under my desk. And I put them on for, you know, about an hour every day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Right. As do I.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Just checked under the table. There you go. Good job, Brian.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "So Tom Bossert was out today, answering a lot of these questions about the emergency situation; and then when Sara Huckabee Sanders took over, the questions started moving towards immigration. And then they got a question, and Fox News came up. And they said essentially, Fox News was reporting that you're no longer going to be supporting the executive order that President Obama put in place that said those brought here as children can stay, no fear of deportation, better known as the DACA program.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "The DREAMers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "The DREAMers. Sara Sanders says, \"I know more.\" But she didn't deny it's going to happen, but it's -- the decision is going to be imminent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "She says, it's still under consideration.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "I think we have it. I think this is Sara Huckabee, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SARA HUCKABEE SANDERS, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "No offense to your colleague from Fox News, but I think I'm a little bit better informed than they are terms of when the White House has made a decision. And as I just said a moment ago, it has not been finalized. And when it is, we will certainly let you know.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "All right, Miss Sara Huckabee Sanders. I just, by the way, have to say I think she's doing a fantastic job. I really do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Bossert knocked it out of the park today. What's at stake with the Hispanic community, especially.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "Yes. I mean, look, a lot of people are going to want to know what's going to happen with DACA. I mean, if there's any victim or sympathetic person in this whole immigration problem that we have, it is kids who were brought here through no fault of their own. And -- and I think everyone wants to do something for them. And Donald Trump said he was not going to leave them hanging. But what I think is important is that we look -- while this issue is important, we've got to look beyond. Because if we can secure the border, if we can -- and he's doing it without even laying a break. We've seen a 70 percent decline in the amount of illegal entries.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Border crossings.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "Border crossings.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "And that's free, so that's amazing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "And that's free. And that's not even with building the wall. Once you -- security at the border was the issue holding up immigration reform. So if you are Latino and you want immigration reform, and you want to deal with non-felons who are living here who have not committed any other crimes than crossing the border, then you want the wall secured, because because then we can deal compassionately with that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "This is an emotional issue, right? Because I moved just within the United States as a kid, and I know that I couldn't have just said, \"No, thank you, Mom and Dad. I'm going to stay here.\" That's not really how it works. And as you also pointed out, if he does do away with this, this would be a shift. He said last spring -- here's a quote -- when he was asked about it, he said, \"They shouldn't be very worried. I do have a big heart.\" So that would be a shift. And what do you think would be the reason for that, if that does happen?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Well, I do think he does have one, and I also think, though, when we look at all his immigration policy and what we're seeing, challenges from the courts, it's like a cabal of judges out there that are not going to let him get very far anyway, including in my jurisdiction, you know, in the Ninth Circuit. And so you know, we need to get back to -- I know he wants to slip the Ninth Circuit, but -- and the so-called judge we have out in Seattle, who had that rule on the immigration order. But it's really about, you know, what is the law, what's the rule of law? We all know that. We're a society of laws, not men. And the second thing is criminality, and then the issues of asking about immigration status. And so I think it will -- when you look at his heart, he's got kids. He's a good person. I think he's going to do the right thing. And he's not...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "What is the right thing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I think that's the question, though. For some people. Because we took calls on this. I know you did, as well, on your radio show, as well, Brian. Some people really do feel strongly that we are a society of laws, and the law is very plainly stated. But the issue of intent, from a legal standpoint, we know is very, very important.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Exactly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "You're talking about a kid who was younger than 16 years old, there's no ability to form intent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Exactly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That example is spot on. So I think that has to be considered when we're going through the analysis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "I do, too. I am with you. And I think that's where it's going to be.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "The way I understand it is, at least ten governors wrote a letter to the president, saying, \"You better fix this.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "If you don't, they'll sue by September 5.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "This was done by a president unilaterally in executive order, and it means too much. And it could be part of an impetus and a motivation to get this done quick.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "But to Anne's point, it hasn't been resolved yet. That's the thing This is the beauty, and this is why I love, love, love the way our system works. Checks and balances. So no one president, no one judge...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Exactly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "... no ten states, no ten A.G.s, it gets to ultimately be decided by a high court.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Yes, amen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "I would say there's one thing Latinos do understand, and that is that DACA happened as an executive order when, in fact, it could have been a permanent law, had -- had President Obama not jumped over Marco Rubio, not wanting to give Republicans a win. Because Marco Rubio wanted to make this a law. And he made it instead an executive order, which now Donald Trump could or could not overturn. And he did that for political purposes. It was another instance where he was more concerned with the politics...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Those are a lot of conclusions there, Rachel. I'm going to tell you. I don't mind, but that's...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "Back to your point -- and back to your point about rule of law, as a Hispanic woman, I've lived in Latin America. I've studied in Latin America. Studies in graduate school. Rule of law matters. Go to a country in Latin America where there's no rule of law. That's why people come here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No, no, no. rule of law matters a lot. And I've taken an oath to the American Bar Association around it. That said, the intent, though, I think that's important. And that's why -- there it is. That makes this a different analysis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "What do you mean by intent?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, a child can't form intent. Because to Kat's example, they are not deciding around whether to illegally enter a jurisdiction that they have no right to. They are simply being brought by a parent that has intention. But they, as a child, do not carry that same intent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Right. I'll be very curious to see if you can split the baby here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No pun intended.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREMNER",
+      "sentences": "Speaking of babies.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Right, right, right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "Because I'm very curious to see if you want a big carpet (ph), then there's the law that says they shouldn't have done, and the president's policies, not this president's policies. If you could use it as an impetus and a deadline to come up with some kind of comprehensive immigration program that both sides want, but they're politically out; they're political cowards, and it will take the punch to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "But if Donald Trump manages to do this, this will be the biggest political triangulation. Because he will please so many Latinos.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "In what respect, by doing which one?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "If he can -- if he can, A, do the DACA part, like show his compassion and show exactly what you said, that there was no intent for these kids. And secure the border and then come up with immigration reform, comprehensive immigration reform. This will take immigration off the table. You take immigration off the table, Hispanics look a lot like Republicans. This is very dangerous territory for Democrats. It's going to be interesting. If this comes up for a vote at one point during this presidency, will Democrats give this win to Donald Trump? Where will they go?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Where will Republicans all go? All he needs is his Congress behind him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That's all he needs.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "sentences": "Securing the border was the only thing holding it up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KILMEADE",
+      "sentences": "I would like to play the real naive card, and I would think that, if Trump is really the dealmaker, he'll realize both sides have got to win or nothing gets done. So he's got to find a way to get politics out of it. Because as he tells us all the time, he's not a politician.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Exactly. Good point.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIMPF",
+      "sentences": "Pence is running a little bit late, in case you guys haven't noticed, a little late. But stay with us. We'll be back. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KATHERINE TIMPF, CO-HOST",
+      "utterance": "Hello, everyone. I am Kat Timpf along with Eboni K. Williams and Brian Kilmeade. This is \"The Fox News Specialists.\" We are awaiting Vice President Mike Pence in Corpus Christi, Texas, who is said to speak with reporters in moments. The vice president has spent the afternoon in Texas surveying the devastation left by Harvey and meeting with survivors of the storm. Extensive rescue efforts are still underway across southeastern Texas, including the dramatic evacuation of hundreds of patients from a hospital in Belmont as it became consumed by floodwaters. We are keeping close watch on the Arkema chemical plant outside Houston which was rocked by fires and multiple explosions earlier today. Officials are warning of more potential explosions to come. The area is within 1.5 miles and the plant has been evacuated. Wow."
+    },
+    {
+      "speaker": "BRIAN KILMEADE, CO-HOST",
+      "utterance": "Yes, so they say that -- let's say, they go all this -- there's going to be an explosion here. It's just a matter of time. They had two generators. They need it refrigerated. And they knew that the generator was going to blow and then the refrigerator was going to stop and the chemicals were going to ignite. But they couldn't answer a lot of questions, like for example, that smoke you're smelling, could that kill you? Was it dangerous? I wasn't happy with that answer."
+    },
+    {
+      "speaker": "EBONI K. WILLIAMS, CO-HOST",
+      "utterance": "No, no. That was certainly not be comforting to me. If any of us were out there, thank goodness, evacuated -- you know, these are kind of the unintended consequences. We think about the flooding, we think about the water and wind damage but these types of explosions, Brian and Kat, I mean, these are the things that you don't really anticipate when this type of natural disaster comes your way."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Yes, absolutely not."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Well, I mean, in a way, because we are not chemists and we are not spokespeople for a chemical organization. But if you are going to be a spokesperson for a chemical organization, a common question would be, is that smoke poisonous, noxious? And I want you to hear what the interaction was like and tell me if you would feel good if you you're within this radius or somewhere near it."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Yes, I wouldn't either. They said it's similar to a campfire but we don't know what it could do."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "You are not able to say that it's none -- that any of this is nontoxic, correct? I just want to make sure that I'm correct."
+    },
+    {
+      "speaker": "RICHARD RENNARD, PRESIDENT, ARKEMA",
+      "utterance": "You know, organic peroxides are -- as the sheriff said, they are chemical materials that are used to initiate other chemical production for the purpose of making plastics. Toxicity is a -- is a..."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "OK, so you can't say it, you're not going to say that they're nontoxic, correct? Are you going to say they're nontoxic or are you not? Yes or no. Because I think it's a pretty important."
+    },
+    {
+      "speaker": "RENNARD",
+      "utterance": "I mean, the smoke is noxious, I don't -- its toxicity, it's a relative thing."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes, I don't want to be too cynical there but he sounds like he's in a deposition, being very measured, very particular with what he's defining as and what words he's not using."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "But he also said it's a relative thing, toxicity is a relative thing. No, it isn't."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "That's a yes or no."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "No, it isn't. How is it relative? Either it's toxic or it's not."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That is a protect myself from liability answer."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Oh, yes, I mean, I get it unprecedented there, before dawn, once in a lifetime, once in a century, I understand that. But if you are chemical organization, you have to look at the worst possible scenario to get the permit necessary in a build, especially in a place like the gulf coast. And I know there is a lot of questions. I don't need to be critical but that spokesperson has all the answer to that and that he feel some first responders on the way to the hospital. That's after that."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Yes, well, it is time to meet today's specialists. She is a Fox News contributor and national spokesperson for the LIBRE Initiative, a non- profit group, Rachel Campos-Duffy is here. And she is trial attorney specializing in Civil Rights and criminal law, Anne Bremner is here. Anne, what have you thought seeing all of this going on because it seems like, I think it's over, you think it will get better, it keeps getting worse."
+    },
+    {
+      "speaker": "ANNE BREMNER, AMERICAN ATTORNEY",
+      "utterance": "It does and I was thinking that was like a very much deposition answer without a deposition question, right? But I guess like looking on the bright of this, it's a horrible disaster. I mean there is nothing good to say about this except for God Bless Texas. But I mean, we have gotten a lot better at responding to disasters like this. Look at Galveston at Katrina, 12,000 died. And so look at what happen in New Orleans, and so I guess looking at this, at least at some type of silver lining, the responses overall you know, have been adequate in many ways. We don't have what happened in New Orleans. We don't have the loss of life we had in Galveston but the fact is, it's our worst disaster we've ever had. But we will always have them. We always have them and let's just hope, we get better and better at responding."
+    },
+    {
+      "speaker": "RACHEL CAMPOS-DUFFY, FOX NEWS CONTRIBUTOR",
+      "utterance": "I mean, I'm just kind of fascinated by what you guys are bringing up about this response from the chemical with their spokesperson. I mean you are a lawyer, Anne. To me it doesn't even sound like a very good lawyerly answer because if you don't tell me it's toxic or you are wavering on it and my kids are breathing it, I'm going to sue your butt after because you didn't tell me to get the hell out of the, you know area."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "I mean, (Inaudible) would have been in 9/11. She did not know. She was told it was clear. They did eve go debate that forever. But if I am a spokesperson for a chemical organization, as suppose after terror attack, I would have the answer to that question and it's not the time to hedge. Even Sean Spicer would say be a little bit more direct."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "Well, but also, not just be direct but error on the side of caution. I mean, even if you are not sure if it's toxic, you know, let people know..."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "I want to something over my mouth and be..."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "I'm not sure that's the problem."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "But what he's there, Rachel, he is preserving what could come out later, and he's protecting himself from that liability that might be in front of him."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Does that work, though? Would he really be protected?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "It depends who your lawyer is, Kat."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Let's go to Fox News correspondent Matt Finn. He's in Crosby, Texas, near the chemical plant that was the site of those explosions earlier today. Matt."
+    },
+    {
+      "speaker": "MATT FINN, FOX NEWS CORRESPONDENT",
+      "utterance": "Crosby Texas, about a half hour drive north east of Houston. As you can see behind me, we are in front of highway 90 which is currently closed because it's inside the 1.5-mile evacuation radius. Sheriffs vehicles blocking anyone getting on or off it, as if getting around wasn't difficult enough, because of all the road closures and flooding. Now this major highway is closed. And as you were discussing, there's a lot of conflicting information right now beginning last night when there were two reports of explosions at this Arkema plant. And then today, we wake up to hear county officials and an executive from the chemical plant saying it wasn't an explosion. It was a chemical reaction. Basically what's happening, the Arkema executive said that they have nine containers of these organic compounds that are highly flammable and that they anticipated Harvey hitting their property last week, so they closed shop. They brought in backup generators and those failed. Then they brought in another system and that failed. So right now, one of the nine containers basically combusted, it caused a fire and it released with their calling irritants into the air. And we are trying to determine just how dangerous these irritants might be. And the sheriff today got in front of a camera and says well, basically it's similar to standing by a campfire and breathing and smoke. Then as we just heard from an executive at Arkema and he said well, it's an irritant and we are just not sure about how toxic it is. And then a short while ago, Tom Bossert, the Homeland Security Advisor at the White House briefing, said well, if you are near those black plumes, that would be really dangerous. Take a listen to his explanation."
+    },
+    {
+      "speaker": "TOM BOSSERT, ADVISOR, HOMELAND SECURITY",
+      "utterance": "They're testing the air quality as local responders, but they don't know of anyone yet that's in that area of plume that would be affected. So if they were there be dangerous, then they have to keep an eye on it and make sure they take it seriously. But for right now, the people don't seem to be there."
+    },
+    {
+      "speaker": "FINN",
+      "utterance": "Now there were 15 deputies hurt in this incident. They describe their wounds as standing over fire pits. Fortunately they were all treated and are doing OK right now. Highway 90 remains closed. And we are following this developing situation, not clear whether this evacuation might be lifted or how many people are affected. Back to you in New York."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "All right, Matt. I am not sure, can you hear us?"
+    },
+    {
+      "speaker": "FINN",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "OK, good. All right, I have a quick question for you. Although I'm going out of order, I'm going to yelled that in the break. I apologize. Matt, when you say it's 1.5 miles within the plume, we also know that the first responders, the cops, whoever showed up first ended up in the hospital and they are out. Are you sure they are OK?"
+    },
+    {
+      "speaker": "FINN",
+      "utterance": "We have been told that they are going to be OK. That they were treated and that they just had, you know, minor wounds or something to do with the irritant that they had breathed in. We haven't heard of any severe injuries, Brian."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Are you hearing people being concerned about this? This is -- I noticed that you are not even wearing a mask right now. So you are a brave man but I would be a little concerned about it."
+    },
+    {
+      "speaker": "FINN",
+      "utterance": "Yes, Kat, I am probably not a good example. We have been in our car most of the day and we are working on getting some masks but we're probably going to take off after this report. You know, one of our MMJs has been our roaming area, he says that a couple hundred people definitely evacuated but county officials can't place a figure on how many people evacuated. But police went door-to-door here and then a lot of people heated their warnings. We've kind of been planted on the outside of this radius. Obviously we have not been able to get inside there, so we can't really talk to people directly inside the radius. But there is a certain level of tension and people are afraid are certainly afraid it seems that's in area here."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Matt, my question is, of the 15 individuals that we know, you know, had at least some minor injuries, do you have any idea how long they were exposed to the quote, irritant or whatever other mitigating term they are using to describe that?"
+    },
+    {
+      "speaker": "FINN",
+      "utterance": "Eboni, unfortunately I do not. That happened shortly before we got here, and so far officials are telling us that they're just going to be OK. But that of course could change."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Thank you. Thank you, Matt."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "The sun is out and it's a little bit drier, certainly the water just in that area as we see there. Thanks, Matt. Get back in your car."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Right now we are going to go to Fox Business Correspondent Jeff Flock. He is in the middle of rescue efforts in Katy, Texas. Jeff."
+    },
+    {
+      "speaker": "JEFF FLOCK, FOX BUSINESS CORRESPONDENT",
+      "utterance": "House to house, yes (OFF-MIKE) perhaps you can see around here, this is a neighborhood just on the edge of west Houston, multimillion dollar houses. They have been inundated with water. They are going to -- going house to house. And these are volunteers, some of them volunteers, this gentleman, an Iraq war vet. These folks are from San Antonio who got a boat and decided to come down to help. These are DEA agents from St. Louis were assigned to come down and help with the effort. The federal government really are putting all its assets on the line to help. And I will tell you, sometimes the government comes in you know, and says we know how to do it. We don't need any help, forget it. The government, in this case, said come on. We can use volunteers. And folks, you came as far as..."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "It doesn't sound like it."
+    },
+    {
+      "speaker": "FLOCK",
+      "utterance": "Tell me where?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "St. Louis, Texas."
+    },
+    {
+      "speaker": "FLOCK",
+      "utterance": "Where is that? (Inaudible)"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "It's about 20 miles south of San Antonio."
+    },
+    {
+      "speaker": "FLOCK",
+      "utterance": "OK, you came both way."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Yes, we do. People need help and I want to personally thank all law enforcements here today, DEA agents and everything. It's a big help, and they are gold star for me."
+    },
+    {
+      "speaker": "FLOCK",
+      "utterance": "Well, it's soaking wet here. You know, going house to house. What they've had to do is jump out of the boat sometimes, bang on the doors, help people get out of here. I think we are at the end of the day and I do think we're pretty close to getting everybody out. And you know, what can I tell you? It's -- it's been quite a day, it's been quite a week in Houston."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Are you most seeing private citizens helping out or is it a mix? How is the split?"
+    },
+    {
+      "speaker": "FLOCK",
+      "utterance": "It is a mix, and I will tell you, I have never seen in all of my years that are covering hurricanes and other disasters, this kind of mix in this kind of cooperation. I mean we've got -- I have seen this on multiple occasions whether it's local law enforcement or whether it's DEA folks coming from -- these guys are from St. Louis actually, the DEA agents are from St. Louis. People coming from all over, working together on this, and it's been gratifying to see it. And I don't think local law enforcement, first responders, even federal agents all alone could have done any of this themselves. It's just too big a problem. When you look at this and you look at the enormity of it, look at all of that. It's crazy."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Jeff, speaking of the enormity of it, we are about on day seven, if you kind of go back to the beginning of when this started. What is a bit of the morale like? Are people exhausted? We see the sun is out, which looks different than it's been looking, it that radiating in a literal way? How are people kind of -- what is their temperature, so to speak?"
+    },
+    {
+      "speaker": "FLOCK",
+      "utterance": "I think that has been helpful but here's my concern as we go forward. You know the sun -- it's funny, we've been in the 70s in Houston because all of the storms. It's normally in the 90s now, and if you don't have air conditioning in your homes which of course you don't and if you are trying to stay in your home, I think you are going to get frayed pretty quick, and that's my concern to people attitudes. I mean, people are in survival mode where everybody pull them together in that sort of thing. I think as time goes on, we may see more frustration here because it's going to go on for a while."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Yes, it's natural. And I would this and look at this area -- nice area of Houston, and people might be looking at this saying, that's my house or that's where I live. Can I go home and see what's left? What is the answer?"
+    },
+    {
+      "speaker": "FLOCK",
+      "utterance": "The answer is absolutely not. I'm going to spin around here if I can. This fellow here, is he out? He is still in his house. He came back in to go into the house. People come in to get medicine. They go in to, you know, maybe pick up a pet maybe that they left behind. And so he went in but he's coming back out because even in this beautiful house, and some of them have generators. They have power, but even with that, staying -- you know, here we are. You would have to go in and out by boat and this would not be fun over time."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Jeff Flock, thank you so much."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Thank you. When we return, countless lives across Texas and Louisiana are in tatters but apparently it's not too soon for media outlets to start mocking those suffering. So don't go away."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "The pain and suffering from Harvey's wrath is only just beginning. But that's not stopping some media outlets from politicizing it and even taking aim at the people of Texas."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "On its newsmagazine cover, the satirical French magazine, Charlie Hebdo, illustrates Texans drowning with the headline quote, God exist. He drowned all of the neo-Nazis of Texas. And in the U.S., Politico tweeted a cartoon depicting a Harvey victim getting rescued by the Coast Guard while displaying stereotypical characteristics of conservative Texans. Politico instantly deleted that tweet after it sparked an uproar online."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Kat, your view on this because are a real hero a first amendment right. Obviously they have a right to say it. In this moment though, what's your reaction to the timing?"
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "OK, obviously it's incredibly insensitive. Obviously it's incredibly offensive. There's people that are -- it's very much still going on. It's also lazy. It's also really lazy. I feel like if you can't think of a good joke or a smart joke, you go for the outrage for the attention which is clearly what they were trying to do, and what they did. People are very upset. It's lazy, it's hack, and it's insensitive."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "And Brian, I would submit that it backfired, you know, big time. I think that people have a lot of tolerance in this country for political, you know, differences, but when America is hurting, this feels outrageous."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Well, Charlie Hebdo, who now, you know -- the last time we insulted Muslims or Islam, they were alleged to insulted them. They got -- people got killed. So they don't mind be provocative but they might look at a different enmity. They might say there is only one French magazine that the number one news channel in American is talking about, and it's Charlie Hebdo. Congratulations. We continue to poke the bear, and if the people wonder why American has gotten so oppress to the world that's gotten so mean, maybe it starts with idiots like that who publish series of cartoons like those."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes, I mean, Brian's point is well taken. Certainly, we are talking about them but I don't know that that's saying that type of publicity works anymore."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "You're right and it's offensive, it is insensitive, it's also not true. It's ignorant. I mean Texas is a very diverse place. So this picture of a -- of a white, you know, racist whatever, there cartoon is trying to depict, I mean we have..."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "It's not even accurate."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "It's not even accurate."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "Exactly. In the makeup room, we have a makeup artist and a -- and a hairdresser from Texas, both proud Texans and both Latinos. I taught every race and color there, and I saw every race and color helping each other and trying to lift each other up in this moment. It shows how provincial these so-called cosmopolitan Europeans think they are. They don't really know what Texas is like. It's one of the most diverse, awesome places you could ever visit."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes, and you know what -- and look Politico, I mean, you know, having to walk it back with them putting it out there, how embarrassing for them."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "And to delete it, I mean look at the French publication, when they go think the Texas about to save them from Nazis. I mean, you look at all these kinds of things. Satire is important part of our history, especially our political history but the fact is you can't go too far. And when you call people neo-Nazis..."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Who are underwater."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Who are underwater and bodies are floating by. I mean, that's it. They are done. I mean, put the fork in them. I can't believe that they would do something like that."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "And with comedy you can't be afraid to take risks."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "No."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "OK. And a lot of times you do go too far. But they wanted outrage. There's no reason that they would've published this time at the time that they did, either Politico or Charlie Hebdo to try to get anything. But oh wow, look how naughty you guys are for publishing this. Wow, you're bad. It's hack and it's lazy, and it's just wrong."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "I think that you are right in the case of Charlie Hebdo but I think politico, it is just their liberal bent. I don't even think it was that they thought, oh, we were going to be over-the-top outrageous and just cause this. I think that this is who they are. I really do. I think this is who they are and I think when regular American see this kind of stuff, it just pulls them back into the arms of Donald Trump who by the way, doesn't look -- doesn't look down on them, doesn't make fun of people because they are from the south or because they are white or assume they are racist."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Or mid-west (Inaudible). So for example, if you look at D.C., Los Angeles, and New York, overwhelmingly for Hillary Clinton while she was popular there but the rest of America which makes up most of America looks at that and says wait a second, they are mocking the fact that the government saved you, not God. So they are hitting you on religion. They are hitting you on the fact that you question the efficiency of government which is a philosophy that you people voted for or against but they are missing the point. They have a chance to salute the people of Texas, and dare I say America, who have gotten their boats, their speed boats, their air boats and come down to help for no money for people they don't know. And they have been more effective than the government. So to be funny, it's got to be based on fact. It has flat out inaccurate. It's like I am going to cold clock you for no reason."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "You know, the mocking of the religious aspect, I think that's very important because all the across this country, people have various associates of faiths, that's a part of the beauty and strength of America, and I don't think in this moment, anybody appreciates, whatever faith is getting through this very difficult time, and being mocked."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Right, I want just look at the quote which is always do right, it will gratify someone and astonish the rest. Maybe that's where we should be, everybody."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "I would just say that you know, I look at this, and look the report that -- who was a reporter?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Matt Finn."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "Matt Finn. I mean, he said the coordination between government and individuals, this was the United States of America coming together united, coming together to do this. And by the way, conservatives don't think we don't want government. This is precisely the situation where we want government. We just don't want government and our doctor's offices or you know, telling us, you know, how big our soda cans should be. But we want our government to help in this."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Right and one of the things is this -- one of the most amazing things I saw on Monday, when we started covering this story as the devastation began to dig in, it was advertising for two straight days from the Houston police saying, hey if you have a boat, if you have a car, can you meet me at the beginning of the quad because we are out of boats."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Let's both come together."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "That's America."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "And people have been great neighbors from Arkansas, Louisiana, and you name it, and it makes different. Straight ahead, the U.S., South Korea and Japan sending a loud and very clear message to Kim Jong-un today, conducting live bombing drills against mock North Korean targets. How might Kim respond? Stay with us."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "You have got to love it."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "A major show of force against North Korea. Today, U.S., South Korea, and Japanese military aircraft conducting aggressive military drills, including live fire -- fire bombing runs against mock North Korean targets. U.S. Pacific commandant announcing the exercises are in direct response to North Korea's launch of a ballistic missile over Japan earlier this week. But the key question is, will any of this change North Korea's defiant behavior? And I'll throw that to you, Kat. First, we have never seen this type of in-your-face military exercises and we also displayed yesterday taking down of a missile through a missile defense program."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "All right."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "This is as close as you can get without actually hitting them."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "I don't think it's going to change their behavior. I think they are going to retaliate in some way because that's what they do. That's what they've been doing. You know, they all hit us with something and you know, we hit them and it just ratchets up and it's entering a dangerous area, that's for sure. But I don't think, it's just we talked about fire and fury, is that going to stop them? They're retaliated. Every time you think, oh, maybe this will stop them, hate to be pessimistic but I don't think so."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Sergey Lavrov said to Rex Tillerson, our Secretary of State, no more sanctions. That's only going to make things worse. Just calm down. Don't worry about it."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "OK, that's where we are definitely going to take our national security advice from him. No. I agree with Kat, I don't think it's going to deter behavior. But I'm still not mad at it because you what, Brian? To me, we have to do something, right, and obviously we don't want to antagonize and start a war. So I am OK with us being pro-active and we stood in our ability to protect our nation and our allies."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Rachel, on top of that, we can add to this portion of the story, Secretary of Defense Mattis said there was no difference between the president and what I said yesterday when I -- when the president came out and said the time to talk is done. And then Mattis, a little while later, with the defense secretary of South Korea, said, \"No, no, there's always room to talk.\" He said now is not the time to talk, but there is always room to talk."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "You know what he means. Look, here's the bottom line: Donald Trump, good for him for showing force and strength where he's at. I think the answer lies with China. And China better pay attention, because if they don't do their job -- and they are the only ones, I think, that hold the keys to stop North Korea -- then Donald Trump is going to be on their doorstep. So if that's what they want, OK, fine, sit back and do nothing; but if you don't want it there and, ultimately, that's what they don't want. They don't want Americans in that area."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Respectfully, though, Rachel, I feel like we've been saying that that's the most logical solution, and it is. The problem is nothing we've done so far has been able to incentivize any action from China. So I'm not really sure what that will look like and what that's going to take take."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Absolutely, yes. And I was just thinking about a quote that -- that he said which was, the day is gone where we will worry about anybody threatening us with a nuclear bomb. So isn't that the ultimate?"
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "No, no, here's -- this is what you do. Whose attention do you want to get? Ultimately, North Korea. But how do you do that? Through China and Russia. What would bother China most? How about a militarized - - a defense system, a Japan that's got out of their constitution that they don't have an offensive military force. Remember, Japan carved up China in World War II. We don't want -- they've already carved -- before World War I, they carved up Russia. If you arm Japan, that will get China's attention. And all we have to do is start saying, \"We're going to begin to do that, because we have no choice.\" Then China will realize they're not the biggest man anymore."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That's an option. Because I think it's going to be -- I don't know if I'll cosign all the way on that, Brian, but it's going to be something in that ballpark, at least, because just the coaxing, the diplomatic talks, having -- I don't know -- talks at Mar-a-Lago, those things are not working with China, and we've got to do something."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "We haven't done everything we can do, right? We haven't put the screws on them economically."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "China doesn't really -- China doesn't really believe that we'll actually do something."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Correct."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "So they don't want conflict in that area, as you pointed out, Rachel. Absolutely not. The tension is a little fun for them. Because the big guys, \"Oh, you want us to do something for you?\" But unless they really believe it, I don't think that they're going to..."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "They used the term \"tipping point.\" They said on -- I think it was Tuesday -- that tensions have reached a tipping point. So if they do believe -- they don't want America's military presence in the area. Guess what they have. America's military presence in the area on steroids because of their belligerent neighbor."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "That's right. And this is not Barack Obama. This is Donald Trump, and he's a little unpredictable. So I'm not sure..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "It's not just Barack Obama. It would have to be George W. Bush."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "I've not noticed..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "We'd have to go way further back than Barack Obama, though, Rachel. It's up to North Korea (ph)."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "No, but I'm saying, this guy means it, and he's a little unpredictable, which might make them nervous."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Right. Thank you very much, everyone. I'd like you to stick around. Twenty-seven minutes before the top of the hour. Coming up, will President Trump end the Obama administration's so-called DACA program for illegal immigrants brought there -- here as kids? New reporting that says a decision may be very near. Stay tuned."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Vice President Pence is about to speak. He's been talking with people, victims, survivors of the hurricane. So we're going to take that live here in a moment."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Yes, he brought a big cadre with him. I mean, the secretary of energy, happens to be the former governor of Texas. That will help. Elaine Chao, former -- she is the -- not only Mitch McConnell's wife, but she is labor secretary."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Good catch there, Brian."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "She is -- she's also somebody that's going to get people back to work. So a lot of people who are going to give answers, and now you can get a little bit closer than the president got. Because he's been able to wear a jeans shirt, come down, you know, and maybe roll up his sleeves a little bit. I think we'll see that on Saturday from the president."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes, it's a couple days later. And I think this is nice. I think the temperament from Vice President Pence is very different than President Trump. And both, you know, entitled to their style. But I think it seems like, just from the optics we're seeing, Brian, you know, a little more hands-on, a little more of an emotional tone there from Vice President Pence. For some people, that's nice."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "And in a situation like this, there's going to be a lot of people coming up to you saying, \"Hey, by the way, help me out. I'm not into the show.\""
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Right, absolutely. And -- but I think Pence has that really nice demeanor and the ability to really calm people. There's a lot of help down there now. And I think he'll make sure that everything happens. And I do think he's got that kind of, you know, paternal, nice, you know, kind of evenness."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "It will be OK. That type of look. Right. And he's also a governor, right, Rachel?"
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "Yes, yes. But he's different than Trump. I mean, he -- listen, all politicians are different. My husband is a hugger. Donald Trump apparently is not. But Donald Trump is a CEO. I think when he came down, he was more managing his managers. He was overseeing this problem. And I think that's his style. I think -- I think you're absolutely right on with Pence. I think that's his -- he's even-keeled. He makes you feel like everything is going to be OK. And I don't think we should criticize people for being authentically who they are are."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "You're talking about (UNINTELLIGIBLE) this week, but -- when the president came out and he was talking about how we've got to get this done. We've got to get it up. But he wasn't talking enough about the people. And then some people say, \"Wait a second. He could have hugged people. He could have cried with them, or he could have wrote a check for a million dollars.\" That's what he did. He wrote a check for a million bucks. That shows you care."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "But you know what, Brian? That means that rescue efforts under President Trump must be going pretty well. Because they would love to criticize that. Instead, it's Melania was -- shoe change issues and..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Which was very silly, because I've done a heck of a lot of physical labor in five- or six-inch wedges myself. I'm very serious. Very serious. Very serious."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "I am about 5 feet tall. I do a lot of things in heels."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "What I do -- what I have noticed, too, as a guy who takes the train, the women that go in heels take -- get to the train by walking with sneakers."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That's true. Or flip-flops."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "She took the heels to the plane. From the plane to the ground, she's wearing sneakers."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "Yes, but -- but the people who are criticizing had this stupid idea that somehow, while she was mid-air, she realized there were all these bad tweets, and somehow magically, these sparkling white, brand- new tennis shoes appear; and some staffer handed her a FLOTUS baseball cap. Give me a break. She clearly planned on changing into this."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That's really not even the point, though. Right, Rachel? The point is that she's the first lady of the United States, as Michelle Obama has been, as Laura Bush have been, and they get to help and support their country the way that they are comfortable. So whether it's in five-inch heels..."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Stilettos."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "... whether it's in a $1,000 pair of Gucci sneakers, it doesn't matter. As long as you are there showing love and support for your constituents, you get to do it how you want to."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "One thing on the radio show I try to do a lot is play is the -- what the other channels are doing, just to drive the listeners nuts. And they had -- they had dueling pundits on different shows saying, one, why is President -- why is President Trump so concerned with optics, how it looks? He should go down. He's not doing anything. He's just getting in the way. The other one says when are they going to be aware of optics and how bad it looks..."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Yes, right."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "... for the first lady to walk out, like Marie Antoinette, \"Let them eat cake,\" with the heels. I go, wait a second. You're taking the same issue, being brutally critical, for the opposite reason."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "It doesn't matter. Damned if you do, damned if you don't."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "It's like he can't do anything right in the eyes of some of these people. Almost as if."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "You've got to shut it down and stop listening unless we're on."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "And the same people that were criticizing Melania are the same ones that were so angry that there was a double standard for Hillary Clinton when it came to her appearance. I mean, the hypocrisy is just out of control."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Well, probably a lot of them are jealous that they can't walk in heels, which I get it. I can't. I leave all my heels here at work, and they're all under my desk. And I put them on for, you know, about an hour every day."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Right. As do I."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Just checked under the table. There you go. Good job, Brian."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "So Tom Bossert was out today, answering a lot of these questions about the emergency situation; and then when Sara Huckabee Sanders took over, the questions started moving towards immigration. And then they got a question, and Fox News came up. And they said essentially, Fox News was reporting that you're no longer going to be supporting the executive order that President Obama put in place that said those brought here as children can stay, no fear of deportation, better known as the DACA program."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "The DREAMers."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "The DREAMers. Sara Sanders says, \"I know more.\" But she didn't deny it's going to happen, but it's -- the decision is going to be imminent."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "She says, it's still under consideration."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "I think we have it. I think this is Sara Huckabee, right?"
+    },
+    {
+      "speaker": "SARA HUCKABEE SANDERS, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "No offense to your colleague from Fox News, but I think I'm a little bit better informed than they are terms of when the White House has made a decision. And as I just said a moment ago, it has not been finalized. And when it is, we will certainly let you know."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "All right, Miss Sara Huckabee Sanders. I just, by the way, have to say I think she's doing a fantastic job. I really do."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Bossert knocked it out of the park today. What's at stake with the Hispanic community, especially."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "Yes. I mean, look, a lot of people are going to want to know what's going to happen with DACA. I mean, if there's any victim or sympathetic person in this whole immigration problem that we have, it is kids who were brought here through no fault of their own. And -- and I think everyone wants to do something for them. And Donald Trump said he was not going to leave them hanging. But what I think is important is that we look -- while this issue is important, we've got to look beyond. Because if we can secure the border, if we can -- and he's doing it without even laying a break. We've seen a 70 percent decline in the amount of illegal entries."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Border crossings."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "Border crossings."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "And that's free, so that's amazing."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "And that's free. And that's not even with building the wall. Once you -- security at the border was the issue holding up immigration reform. So if you are Latino and you want immigration reform, and you want to deal with non-felons who are living here who have not committed any other crimes than crossing the border, then you want the wall secured, because because then we can deal compassionately with that."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "This is an emotional issue, right? Because I moved just within the United States as a kid, and I know that I couldn't have just said, \"No, thank you, Mom and Dad. I'm going to stay here.\" That's not really how it works. And as you also pointed out, if he does do away with this, this would be a shift. He said last spring -- here's a quote -- when he was asked about it, he said, \"They shouldn't be very worried. I do have a big heart.\" So that would be a shift. And what do you think would be the reason for that, if that does happen?"
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Well, I do think he does have one, and I also think, though, when we look at all his immigration policy and what we're seeing, challenges from the courts, it's like a cabal of judges out there that are not going to let him get very far anyway, including in my jurisdiction, you know, in the Ninth Circuit. And so you know, we need to get back to -- I know he wants to slip the Ninth Circuit, but -- and the so-called judge we have out in Seattle, who had that rule on the immigration order. But it's really about, you know, what is the law, what's the rule of law? We all know that. We're a society of laws, not men. And the second thing is criminality, and then the issues of asking about immigration status. And so I think it will -- when you look at his heart, he's got kids. He's a good person. I think he's going to do the right thing. And he's not..."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "What is the right thing?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I think that's the question, though. For some people. Because we took calls on this. I know you did, as well, on your radio show, as well, Brian. Some people really do feel strongly that we are a society of laws, and the law is very plainly stated. But the issue of intent, from a legal standpoint, we know is very, very important."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Exactly."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "You're talking about a kid who was younger than 16 years old, there's no ability to form intent."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Exactly."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That example is spot on. So I think that has to be considered when we're going through the analysis."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "I do, too. I am with you. And I think that's where it's going to be."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "The way I understand it is, at least ten governors wrote a letter to the president, saying, \"You better fix this.\""
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "If you don't, they'll sue by September 5."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "This was done by a president unilaterally in executive order, and it means too much. And it could be part of an impetus and a motivation to get this done quick."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "But to Anne's point, it hasn't been resolved yet. That's the thing This is the beauty, and this is why I love, love, love the way our system works. Checks and balances. So no one president, no one judge..."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Exactly."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "... no ten states, no ten A.G.s, it gets to ultimately be decided by a high court."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Yes, amen."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "I would say there's one thing Latinos do understand, and that is that DACA happened as an executive order when, in fact, it could have been a permanent law, had -- had President Obama not jumped over Marco Rubio, not wanting to give Republicans a win. Because Marco Rubio wanted to make this a law. And he made it instead an executive order, which now Donald Trump could or could not overturn. And he did that for political purposes. It was another instance where he was more concerned with the politics..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Those are a lot of conclusions there, Rachel. I'm going to tell you. I don't mind, but that's..."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "Back to your point -- and back to your point about rule of law, as a Hispanic woman, I've lived in Latin America. I've studied in Latin America. Studies in graduate school. Rule of law matters. Go to a country in Latin America where there's no rule of law. That's why people come here."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No, no, no. rule of law matters a lot. And I've taken an oath to the American Bar Association around it. That said, the intent, though, I think that's important. And that's why -- there it is. That makes this a different analysis."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "What do you mean by intent?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, a child can't form intent. Because to Kat's example, they are not deciding around whether to illegally enter a jurisdiction that they have no right to. They are simply being brought by a parent that has intention. But they, as a child, do not carry that same intent."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Right. I'll be very curious to see if you can split the baby here."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No pun intended."
+    },
+    {
+      "speaker": "BREMNER",
+      "utterance": "Speaking of babies."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Right, right, right."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "Because I'm very curious to see if you want a big carpet (ph), then there's the law that says they shouldn't have done, and the president's policies, not this president's policies. If you could use it as an impetus and a deadline to come up with some kind of comprehensive immigration program that both sides want, but they're politically out; they're political cowards, and it will take the punch to do."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "But if Donald Trump manages to do this, this will be the biggest political triangulation. Because he will please so many Latinos."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "In what respect, by doing which one?"
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "If he can -- if he can, A, do the DACA part, like show his compassion and show exactly what you said, that there was no intent for these kids. And secure the border and then come up with immigration reform, comprehensive immigration reform. This will take immigration off the table. You take immigration off the table, Hispanics look a lot like Republicans. This is very dangerous territory for Democrats. It's going to be interesting. If this comes up for a vote at one point during this presidency, will Democrats give this win to Donald Trump? Where will they go?"
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Where will Republicans all go? All he needs is his Congress behind him."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That's all he needs."
+    },
+    {
+      "speaker": "CAMPOS-DUFFY",
+      "utterance": "Securing the border was the only thing holding it up."
+    },
+    {
+      "speaker": "KILMEADE",
+      "utterance": "I would like to play the real naive card, and I would think that, if Trump is really the dealmaker, he'll realize both sides have got to win or nothing gets done. So he's got to find a way to get politics out of it. Because as he tells us all the time, he's not a politician."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Exactly. Good point."
+    },
+    {
+      "speaker": "TIMPF",
+      "utterance": "Pence is running a little bit late, in case you guys haven't noticed, a little late. But stay with us. We'll be back. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

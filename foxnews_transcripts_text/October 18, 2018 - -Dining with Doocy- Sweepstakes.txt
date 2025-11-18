@@ -1,0 +1,387 @@
+Headline: "Dining with Doocy" Sweepstakes
+Sub-headline: No sub-headline found
+
+
+   “Dining with Doocy” Contest Submission Form
+
+
+Enter for a chance to dine with Steve Doocy! Grand prize winner will win a hometown visit from Steve. The runner-up will win a trip to New York City.
+
+
+
+Name *
+
+
+
+
+
+Email *
+
+
+
+
+
+State
+
+AL
+AK
+AS
+AZ
+AR
+CA
+CO
+CT
+DE
+DC
+FM
+FL
+GA
+GU
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MH
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+MP
+OH
+OK
+OR
+PW
+PA
+PR
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VI
+VA
+WA
+WV
+WI
+WY
+
+
+
+City
+
+
+
+
+
+Message *
+
+
+
+
+
+
+
+Your submission has been received!
+
+Close
+
+
+
+An error occurred, please try again later.
+
+Close
+
+
+
+  (function(FNC){
+    if (FNC.Loader) {
+      FNC.Loader.load(function(){
+        $.ajax({
+          url: '/api/email', 
+          context: document.body
+        }).done(function (response) {
+          $('#email_token').attr("value", response.token);
+        });
+      });
+    }
+  }(window.FNC || {}));
+How would you like to be on TV or win a free trip to New York City? You might if you share your story of the food that makes you happy. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Steve and Kathy Doocy have written “The Happy Cookbook, A Celebration of the Food That Makes America Smile” a beautiful collection of over 100 recipes that have special meaning to people and remind them of something happy.
+Every year on Steve’s birthday, Kathy makes his mother’s signature pot roast and German chocolate cake, and as soon as Steve walks in the door and smells that roast, it triggers something in the nostalgia department of his brain and takes him back 50 years to his childhood. Almost everybody has a food that makes them happy - what’s yours? 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+To enter, fill out the submission form on this page, read the official rules below, and most importantly, be sure to include your special recipe and tell us why it makes you happy. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Grand prize winner will have Steve knocking on their door with a TV crew to make them a recipe out of his cookbook. (Did you see Steve at the Villages doing this? It worked so well, we’re doing it again!). 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+The runner-ups will win a trip to New York City.
+This is the happiest contest FOX & Friends has ever done, and we hope you’ll enter. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Meanwhile, if you’d like to read the stories in “The Happy Cookbook” it's available online and in stores now.Official rules for "Dining with Doocy" Sweepstakes:
+The “Dining with Doocy” Contest  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+brought to you by Cuisinart  
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+OFFICIAL RULES
+NO PURCHASE NECESSARY.  A PURCHASE WILL NOT IMPROVE YOUR CHANCE OF WINNING.  VOID WHERE PROHIBITED.
+1.         PROMOTION DESCRIPTION:  The “Dining with Doocy” Contest brought to you by Cuisinart (the “Contest”) begins on or about October 19, 2018 at 12:01 a.m. eastern time (“ET”) and ends on or about 11:59 p.m. ET on November 9, 2018 (the “Promotion Period”). During the Promotion Period, entrants will have the opportunity to submit a happy recipe accompanied by a happy story related to the recipe (each, a “Submission”) and to submit the Submission for consideration as more fully set forth below.  At the end of the Promotion Period, up to one (1) Grand Prize winner and up to two (2) Runner Up prize winners will be selected as set forth below.  By participating in the Contest, each entrant unconditionally accepts and agrees to comply with and abide by these Official Rules and the decisions of Fox News Network, LLC, located at 1211 Avenue of the Americas, New York NY 10036 (“Sponsor”), which shall be final and binding in all respects. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+2.         ELIGIBILITY:  This Contest is open only to legal residents of the United States who are eighteen (18) years of age or older at the time of entry.  Anyone under 18 or under the age of majority in his or her state of residence (a “minor”) must get permission from their parent or legal guardian to enter.  Officers, directors and employees of Sponsor, Cuisinart, and each of their respective parents, subsidiaries, affiliates, members, distributors, sales representatives, advertising and promotion agencies (all such individuals and entities referred to collectively, the “Promotion Entities”), and each of their immediate family members and/or people living in the same household are NOT eligible to enter the Contest or win a prize.
+3.         HOW TO ENTER:  During the Promotion Period, send your most happy recipe and a story related to your recipe, along with your first and last name, address, email address and phone number to the following email address diningwithdoocy@foxnews.com.  Each Submission must meet the following “Submission Requirements”: (i) the Submission must be the submitting entrant’s original, previously unpublished recipe and not feature or focus on any material owned or controlled by third parties (including without limitation, third party copyrighted material) and (ii) the entrant must provide upon request all appropriate clearances, permissions and releases for the Submission (in the event an entrant cannot provide all required releases, Sponsor reserves the right, in Sponsor’s sole discretion, to disqualify the applicable Submission, or seek to secure the releases and clearances for Sponsor’s benefit, or allow the applicable Submission to remain in Contest).  Any Submission that, in Sponsor's discretion, violates the Submission Requirements may be disqualified.
+ Any communication or information transmitted to Sponsor by electronic mail or otherwise is and will be treated as non-confidential and nonproprietary.  Entry information may be shared with Sponsor's Promotion partners to the extent entrants agree at the time of entry or to the extent required for prize fulfillment purposes.  Except as otherwise contemplated in these Official Rules, and to the extent entrants may otherwise elect at the time of entry, personal information collected in connection with the Promotion will be used in accordance with Sponsor’s privacy policy located at https://www.foxnews.com/privacy-policy.  In the event a dispute regarding the identity of the individual who actually submitted a Submission cannot be resolved to Sponsor’s satisfaction, the affected Submission may be disqualified.  The Promotion Entities shall not be responsible for incorrect or inaccurate entry information whether caused by Internet users or by any of the equipment or programming associated with or utilized in the Contest or by any technical or human error which may occur in the processing or transmission of the Submissions in the Contest.  The Promotion Entities assume no responsibility or liability for any error, omission, interruption, deletion, theft or destruction, or unauthorized access to, or alteration of Submissions. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+4.         WINNER SELECTION AND NOTIFICATION:  At the end of the Submission Period, a panel of judges selected by Sponsor in its sole discretion (the “Judging Panel”) will select up to one (1) Grand Prize winners and up to two (2) Runner-Up Prize winners based on the following criteria: (i) the correlation between the happy recipe and the happy story; (ii) originality; (iii) culinary creativity.  Decisions of the Judging Panel are final and not subject to appeal.  The prize winners will be notified by telephone, e-mail, and/or mail using the contact information provided at the time of entry.  Sponsor shall have no liability for any winner notification that is lost, intercepted or not received by the potential winner for any reason.  If, despite reasonable efforts, a potential prize winner does not respond within five (5) days of the first notification attempt, or if a prize or prize notification is returned as unclaimed or undeliverable to such potential prize winner, such potential prize winner will forfeit the applicable prize and an alternate prize winner may be selected.  If any potential prize winner is found to be ineligible, or if he or she has not complied with these Official Rules or declines the applicable prize for any reason prior to award, such potential prize winner will be disqualified and an alternate winner may be selected. Sponsor may successively attempt to contact up to two (2) potential prize winners of in accordance with such procedure, and if there is still no confirmed prize winner after such attempts have been made, if any, the applicable prize may go unawarded. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+5.         PRIZES:  
+Grand Prize: Up to one (1) Grand Prize is available.  The Grand Prize consists of an opportunity to have Steve Doocy prepare a meal in the Grand Prize winner’s home (the “Home Visit”) for the purposes of filming a segment to appear on Fox and Friends (the “Show”).  The specific date, time and location of the Home Visit shall be at the sole discretion of the Sponsor.  If (i) the Grand Prize winner cannot host the Home Visit on the date and at the time selected by Sponsor, or (ii) the Grand Prize winner’s residence is not in an appropriate location for the Screening, or (iii) the Grand Prize winner’s residence does not have a properly equipped kitchen or location for filming the segment (as determined by Sponsor in its sole discretion); or (iv) the Grand winner is unwilling, for any reason, to receive the Grand Prize as described in and in accordance with these Official Rules, the Grand Prize may be forfeited in its entirety.  In the event the Grand Prize winner or any of his or her guests engage during the Home Visit in behavior that (as determined by Sponsor in its sole discretion) is obnoxious or threatening, illegal or that is intended to annoy, abuse, threaten or harass any other person, Sponsor reserves the right to terminate the Home Visit early.  Sponsor makes no guarantee that the Home Visit will actually appear on the Show. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Runner-Up Prize:  Up to two (2) Runner-Up Prizes are available.  Each Runner-Up Prize consists of an opportunity to appear on a cooking segment during the Show (the “Appearance”) and shall include: (i) round trip coach airfare for the Runner-Up Prize winner and one (1) eligible guest between the major airport that is nearest to the Runner-Up Prize winner's residence and the location where the Appearance will be filmed (the “Location”); (ii) two (2) nights' hotel accommodations for the Runner-Up Prize winner at a hotel selected by Sponsor in its sole discretion; and (iii) ground transportation to and from the Location in connection with the Appearance.  The Appearance is subject to the requirements of the Show’s producer and approval, which may be granted or withheld in such producer’s sole discretion.  The Appearance (if any) may not actually appear on the Show.  If the Runner Up Prize winner does not have the opportunity to participate in the Appearance due to scheduling conflicts, cancellations, postponement, an event of force majeure, or for any other reason, then the Runner-Up Prize winner will receive the remaining components of the Runner-Up Prize, which shall satisfy all of Sponsor’s prize obligations.   All aspects of the Runner Up Prize must be conducted on such dates as determined by Sponsor in its sole discretion.  In the event the Runner Up Prize winner cannot participate in the Appearance on the dates selected by Sponsor, the Runner Up Prize will be forfeited and an alternate winner may be selected.  For clarification and the removal of doubt, there will be no compensation awarded to the Runner Up Prize winner in connection with the Appearance.  The approximate retail value (“ARV”) of the Runner Up Prize is $2,499.
+If the Runner Up Prize winner is under the age of majority in his or her state of residence (a “minor”) the Runner Up Prize winner must travel and participate in the Appearance with the written permission of the Runner Up Prize winner’s parent or legal guardian in form and substance acceptable to Sponsor in its sole discretion.  In the event a Runner Up Prize winner’s residence is close enough to the Location such that air transportation is deemed by Sponsor in its sole discretion to be unnecessary, the applicable Runner Up Prize will not include air transportation from such Runner Up Prize winner’s residence and no other substitution or compensation will be provided in lieu thereof. The Runner Up Prize winner must possess all required travel documents, including visas and valid passports, if and as applicable, and comply with any applicable hotel check-in requirements, such as presentation of a major credit card.  All aspects of the travel portions of the Runner Up Prize must be conducted on such dates as determined by Sponsor in its sole discretion.  The dates of departure and return are subject to change at Sponsor’s sole discretion.  Airfare may not include government taxes, Passenger Facility Charge or September 11th Security Fee.  Airline tickets are non-refundable/non-transferable and are not valid for upgrades and/or frequent flyer miles.  Other travel restrictions and blackout dates may apply.  All airline tickets are subject to the vagaries of flight variation, work stoppages, and schedule or route changes.  The ARV for travel prizes may vary depending upon points of departure and destination and fare fluctuations.  Sponsor reserves the right to structure travel routes and select hotels in its sole discretion.  The ARV for travel prizes is an estimate made before the Sweepstakes begins.  The Runner Up Prize winner will not receive cash or any other form of compensation if actual travel costs are less than the estimate made in these Official Rules.  The round trip air transportation element for any travel prize begins and ends at the point of departure.  No interest will be awarded on cash prizes.  Room taxes and other hotel fees are not included and if applicable may be payable at the time of check-out by the winner/guest.  A deposit or payment in advance, or presentation of a credit card by the Runner Up Prize winner, may be required at the time of check-in at the hotel.  Any hotel cancellations or changes to hotel reservations after confirmation must be made with the hotel directly, and the Runner Up Prize winner is solely responsible for any charges and/or fees arising from changes made directly with the hotel.  In the event the Runner Up Prize winner engages in behavior that, as determined by Sponsor in its sole discretion, is obnoxious or threatening, illegal or that is intended to annoy, abuse, threaten or harass any other person, Sponsor reserves the right to terminate the trip or other applicable experience early, in whole or in part, and send the Runner Up Prize winner home with no further compensation. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+ The prize restrictions/conditions stated herein are not all-inclusive and the Prizes described above may be subject to additional restrictions/conditions, which may be stated in the “Prize Claim Documents” (as defined below) and/or other travel documents. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+6.         GENERAL PRIZE CONDITIONS:  Except as set forth herein, no cash alternative or substitution of prizes will be allowed, except Sponsor reserves the right in its sole discretion to substitute prizes of comparable value if any prize listed is unavailable, in whole or in part, for any reason.  Prizes will be awarded only if the potential prize winner fully complies with these Official Rules.  All portions of the prize(s) are non-assignable and non-transferable.  Any prizes pictured in point-of-sale, online, television and print advertising, promotional packaging, and other Contest materials are for illustrative purposes only.  The actual prize may vary.  All details and other restrictions of the prize(s) not specified in these Official Rules will be determined by Sponsor in its sole discretion.  Each prize winner shall be solely responsible for all federal, state and/or local taxes, and the reporting consequences thereof, and for any other fees or costs associated with the applicable prize.  If required by law, Sponsor reserves the right to withhold and remit to the appropriate taxing authorities the amount of any tax or taxes due.  With respect to non-cash prizes, it may be legally necessary under the United States Internal Revenue Code (as determined by Sponsor in its sole discretion) for the prize winner to pay the amount of any tax before receiving the prize.  Each potential winner (or, if the potential winner is a minor, their parent or legal guardian) may be required to execute an Affidavit of Eligibility, a Liability Release and Appearance release in connection with the Show, and where imposing such condition is legal, a Publicity Release (collectively, the “Prize Claim Documents”).  In addition, each Runner-Up Prize winner may be required to execute a location agreement (the “Location Agreement”) in a form provided by Sponsor in order to host the Home Visit.  If a potential winner (or a minor potential winner’s parent or legal guardian) fails or refuses to sign and return all the Prize Claim Documents (or Location Agreement, if applicable) within ten (10) days after being notified that he or she has been selected as the potential winner (or a shorter time if required by exigencies), the potential winner may be disqualified and an alternate winner may be selected.  In addition, if Sponsor so elects, each Prize winner may be required to submit to a confidential background check to confirm eligibility and help ensure that the Appearance and/or the Home Visit, or the use of the Prize winner in advertising or publicity, will not bring Sponsor into public disrepute, contempt, scandal or ridicule or reflect unfavorably on Sponsor, as determined by Sponsor in its sole discretion.  Should the Prize winner or the parent or legal guardian of a minor Prize winner refuse to participate in the background check or fail to pass the confidential background check, the applicable Prize will be forfeited in its entirety.
+Sponsor makes no warranties, and hereby disclaims any and all warranties, express or implied, concerning any prize furnished in connection with the Contest.  WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, SUCH PRIZES ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND SPONSOR HEREBY DISCLAIMS ALL SUCH WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND/OR NON-INFRINGEMENT. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+7.         REPRESENTATIONS AND WARRANTIES/INDEMNIFICATION:  Each person who enters this Contest (and any minor entrant’s parent or legal guardian) represents and warrants as follows: (i) the Submission does not contain any computer virus (as applicable) and is otherwise uncorrupted,(ii) the Submission is not the subject of any actual or threatened litigation or claim; (iii) the Submission does not and will not violate or infringe upon the intellectual property rights or other rights of any third party; and (iv) the Submission does not and will not violate any applicable laws. Each entrant (and any minor entrant’s parent or legal guardian) hereby agrees to indemnify and hold the Promotion Entities harmless from and against any and all third party claims, actions or proceedings of any kind and from any and all damages, liabilities, costs and expenses relating to or arising out of any breach or alleged breach of any of the warranties, representations, covenants, obligations or agreements of entrant hereunder. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+8.         GRANT OF RIGHTS:  For good and valuable consideration, the receipt and legal sufficiency of which is hereby acknowledged, each entrant into the Contest (and his or her parent or legal guardian, if the entrant is a minor) hereby irrevocably grants Sponsor, its successors and assigns, a non-exclusive license (but not the obligation) to reproduce, publicly perform, stream, exploit and otherwise use the Submission (as his or her performance and appearance therein) throughout the universe, in perpetuity, for any reason whatsoever, including but not limited to advertising, marketing, publicity, promotion and exploitation of the Show and/or the Contest, without further notice to, consent by, or payment to entrant.  Without in any way limiting the foregoing, Sponsor shall have the right, in its sole discretion, to edit, composite, morph, scan, duplicate, or alter the Submission for any purpose which Sponsor deems necessary or desirable, and each entrant irrevocably waives any and all so-called moral rights they may have therein.  Sponsor shall have the right to freely assign its rights hereunder, in whole or in part, to any person or entity.  Sponsor shall retain the rights granted in each Submission even if the Submission is disqualified or fails to meet the Submission Requirements.
+9.         PUBLICITY RELEASE:  By participating in the Contest, in addition to any other grants which may be granted in any other agreement entered into between Sponsor and any entrant in and/or winner of the Contest, each entrant (and any minor entrants parent or legal guardian) irrevocably grants the Promotion Entities and their respective successors, assigns and licensees, the right to use such entrant’s name, photograph, likeness, statements, biographical information, and any other personal characteristics, in any and all media in connection with the Contest, the Show and the advertising and promotion thereof and each entrant and/or prize winner hereby release the Promotion Entities from any liability with respect thereto.
+10.       GENERAL LIABILITY RELEASE/FORCE MAJEURE:  Entrants (and any minor entrants parent or legal guardian) agree that the Promotion Entities (A) shall not be responsible or liable for, and are hereby released from, any and all costs, injuries, losses or damages of any kind, including, without limitation, death and bodily injury, due in whole or in part, directly or indirectly, to participation in the Contest or any Contest-related activity, or from entrants’ acceptance, receipt, possession and/or use or misuse of any prize, and (B) have not made any warranty, representation or guarantee express or implied, in fact or in law, with respect to any prize, including, without limitation, to such prize’s quality or fitness for a particular purpose.  Sponsor assumes no responsibility for any damage to an entrant’s, or any other person’s, computer system which is occasioned by participating in the Contest, or for any computer system, phone line, hardware, software or program malfunctions, or other errors, failures, delayed computer transmissions or network connections that are human or technical in nature.  Without limiting the generality of the foregoing, Sponsor is not responsible for incomplete, illegible, misdirected, misprinted, late, lost, damaged, stolen, or postage-due prize notifications; or for lost, interrupted, inaccessible or unavailable networks, servers, satellites, Internet service providers, websites, or other connections; or for miscommunications, failed, jumbled, scrambled, delayed, or misdirected computer, telephone or cable transmissions; or for any technical malfunctions, failures, difficulties or other errors of any kind or nature; or for the incorrect or inaccurate capture of information, or the failure to capture any information.  Sponsor reserves the right in its sole discretion to disqualify any individual who is found to be tampering with the entry process or the operation of the Contest or the Website, to be acting in violation of these Official Rules, or to be acting in an unsportsmanlike or disruptive manner, or with the intent to disrupt or undermine the legitimate operation of the Contest, or to annoy, abuse, threaten or harass any other person, and Sponsor reserves the right to seek damages and other remedies from any such person to the fullest extent permitted by law.  No mechanically reproduced, illegible, incomplete, forged, software-generated or other automated multiple entries will be accepted.  Sponsor reserves the right to modify, extend, suspend, or terminate the Contest if it determines, in its sole discretion, that the Contest is technically impaired or corrupted or that fraud or technical problems, failures or malfunctions or other causes beyond Sponsor’s control have destroyed or severely undermined or to any degree impaired the integrity, administration, security, proper play and/or feasibility of the Contest as contemplated herein.  In the event an insufficient number of eligible entries are received and/or Sponsor is prevented from awarding prizes or continuing with the Contest as contemplated herein by any event beyond its control, including but not limited to fire, flood, natural or man-made epidemic of health of other means, earthquake, explosion, labor dispute or strike, act of God or public enemy, satellite or equipment failure, riot or civil disturbance, terrorist threat or activity, war (declared or undeclared) or any federal state or local government law, order, or regulation, public health crisis, order of any court or jurisdiction, or other cause not reasonably within Sponsor’s control (each a “Force Majeure” event or occurrence), then subject to any governmental approval which may be required, Sponsor shall have the right to modify, suspend, extend or terminate the Contest.  If the Contest is terminated before the designated end date, Sponsor will (if possible) select the winner in a random drawing from all eligible, non-suspect entries received as of the date of the event giving rise to the termination.  Inclusion in such drawing shall be each entrant’s sole and exclusive remedy under such circumstances.  Only the type and quantity of prizes described in these Official Rules will be awarded.  These Official Rules cannot be modified or amended in any way except in a written document issued in accordance with law by a duly authorized representative of Sponsor.  The invalidity or unenforceability of any provision of these rules shall not affect the validity or enforceability of any other provision.  In the event that any provision in these Official Rules is determined to be invalid or otherwise unenforceable or illegal, these rules shall otherwise remain in effect and shall be construed in accordance with their terms as if the invalid or illegal provision were not contained herein. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+11.       NATURE OF RELATIONSHIP/WAIVER OF EQUITABLE RELIEF: Each entrant (and any minor entrant’s parent or legal guardian) hereby acknowledges and agrees that the relationship between the entrant and the Promotion Entities is not a confidential, fiduciary, or other special relationship, and that the entrant’s decision to provide the entrant’s Submission to Sponsor for purposes of the Contest does not place the Promotion Entities in a position that is any different from the position held by members of the general public with regard to elements of the entrant’s Submission.  Each entrant understands and acknowledges that the Promotion Entities have wide access to ideas, stories, designs, and other literary materials, and that new ideas are constantly being submitted to it or being developed by their own employees.  Each entrant also acknowledges that many ideas or stories may be competitive with, similar or identical to the Submission and/or each other in theme, idea, plot, format or other respects.  Each entrant acknowledges and agrees that such entrant will not be entitled to any compensation as a result of any Promotion Entity’s use of any such similar or identical material.  Each entrant acknowledges and agrees that the Promotion Entities do not now and shall not have in the future any duty or liability, direct or indirect, vicarious, contributory, or otherwise, with respect to the infringement or protection of the copyright in and to the Submission.  Finally, each entrant acknowledges that, with respect to any claim by entrant relating to or arising out of a Promotion Entity’s actual or alleged exploitation or use of any Submission or other material submitted in connection with the Contest, the damage, if any, thereby caused to the applicable entrant will not be irreparable or otherwise sufficient to entitle such entrant to seek injunctive or other equitable relief or in any way enjoin the production, distribution, exhibition or other exploitation of the Show, and entrant’s rights and remedies in any such event shall be strictly limited to the right to recover damages, if any, in an action at law. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+12.       NO OBLIGATION TO USE:  Sponsor shall have no obligation (express or implied) to use any Submission or to otherwise exploit any Submission, or, if commenced, to continue the distribution or exploitation thereof, and Sponsor may at any time abandon the use of the Submission for any reason, with or without legal justification or excuse, and entrants shall not be entitled to any damages or other relief by reason thereof.
+13.       DATES & DEADLINES/ANTICIPATED NUMBER OF CONTESTANTS:  Because of the unique nature and scope of the Contest, Sponsor reserves the right, in addition to those other rights reserved herein, to modify any date(s) or deadline(s) set forth in these Official Rules or otherwise governing the Contest.  Sponsor cannot accurately predict the number of entrants who will participate in the Contest. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+14.       FURTHER DOCUMENTATION: If Sponsor shall desire to secure additional assignments, certificates of engagement for the Submission or other documents as Sponsor may reasonably require in order to evidence or effectuate the rights granted in these Official Rules, then each entrant agrees to sign, authenticate and deliver the same upon Sponsor’s request therefor.
+15.       GOVERNING LAW/JURISDICTION:  ALL ISSUES AND QUESTIONS CONCERNING THE CONSTRUCTION, VALIDITY, INTERPRETATION AND ENFORCEABILITY OF THESE OFFICIAL RULES OR THE RIGHTS AND OBLIGATIONS OF ENTRANTS OR SPONSOR IN CONNECTION WITH THE CONTEST SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE UNITED STATES OF AMERICA AND THE INTERNAL LAWS OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO ANY CHOICE OF LAW OF CONFLICT OF LAW RULES OR PROVISIONS THAT WOULD CAUSE THE APPLICATION OF ANY OTHER STATE’S LAWS. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+16.       ARBITRATION PROVISION:  By participating in this Contest, each entrant (and any minor entrant’s parent or legal guardian) agrees: (i) that any and all disputes the entrant may have with, or claims entrant may have against, the Promotion Entities relating to, arising out of or connected in any way with (a) the Contest, (b) the awarding or redemption of any prize, and/or (c) the determination of the scope or applicability of this agreement to arbitrate, will be resolved exclusively by final and binding arbitration administered by JAMS and conducted before a sole arbitrator in accordance with the rules of JAMS; (ii) this arbitration agreement is made pursuant to a transaction involving interstate commerce, and shall be governed by the Federal Arbitration Act (“FAA”), 9 U.S.C. §§ 1-16; (iii) the arbitration shall be held in New York, New York; (iv) the arbitrator’s decision shall be controlled by the terms and conditions of these Official Rules and any of the other agreements referenced herein that the applicable entrant may have entered into in connection with the Contest; (v) the arbitrator shall apply New York law consistent with the FAA and applicable statutes of limitations, and shall honor claims of privilege recognized at law; (vi) there shall be no authority for any claims to be arbitrated on a class or representative basis, arbitration can decide only entrant’s and/or Sponsor’s individual claims; the arbitrator may not consolidate or join the claims of other persons or parties who may be similarly situated; (vii) the arbitrator shall not have the power to award punitive damages against the entrant or Sponsor; (viii) in the event that the administrative fees and deposits that must be paid to initiate arbitration against Sponsor exceed $125 USD, and entrant is unable (or not required under the rules of JAMS) to pay any fees and deposits that exceed this amount, Sponsor agrees to pay them and/or forward them on entrant’s behalf, subject to ultimate allocation by the arbitrator; (ix) if the entrant is able to demonstrate that the costs of arbitration will be prohibitive as compared to the costs of litigation, Sponsor will pay as much of entrant’s filing and hearing fees in connection with the arbitration as the arbitrator deems necessary to prevent the arbitration from being cost-prohibitive; and (x) with the exception of subpart (vi) above, if any part of this arbitration provision is deemed to be invalid, unenforceable or illegal, or otherwise conflicts with the rules of JAMS, then the balance of this arbitration provision shall remain in effect and shall be construed in accordance with its terms as if the invalid, unenforceable, illegal or conflicting provision were not contained herein.  If, however, subpart (vi) is found to be invalid, unenforceable or illegal, then the entirety of this arbitration provision shall be null and void, and neither entrant nor Sponsor shall be entitled to arbitrate their dispute.  For more information on JAMS and/or the rules of JAMS, visit their website at www.jamsadr.com. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+17.       WINNER’S LIST/OFFICIAL RULES:  To obtain a copy of any legally-required winners list, send a self-addressed stamped envelope to: Fox News Channel, Dining with Doocy, 1211 Avenue of the Americas, 2nd Floor, New York, NY 10036.  All such requests must be received within six (6) weeks after the end of the Promotion Period.
+? 2018 Fox News Network, LLC.  All Rights Reserved.
+SHORT FORM DISCLOSURES 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+NO PURCHASE NECESSARY TO ENTER OR WIN.  Contest begins on or about October 19, 2018 at 12:01 a.m. ET and ends on November 9, 2018 at 11:59 p.m. ET.  Open only to legal U.S residents of the fifty (50) US and D.C. who are eighteen (18) years of age or older.  See Official Rules at foxnews.com/diningwithdoocy for how to enter, additional eligibility restrictions, prize descriptions/restrictions/ARVs and complete details.  Void where prohibited.  Sponsor: Fox News Network, LLC, 1211 Avenue of the Americas, New York NY 10036.  

@@ -1,0 +1,38 @@
+Headline: National forecast for Monday, February 10: Strong storm brings flood watches, warnings
+Sub-headline: Janice Dean has your FoxCast.
+
+  close 
+     Video  National forecast for Monday, February 10: Strong storm brings flood watches, warnings 
+Janice Dean has your FoxCast. 
+A very active weather pattern is setting up for much of the U.S.
+   
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Our first storm will bring snow to parts of the upper Midwest and very heavy rain for the South up into Ohio.
+  
+A stalled front will focus flooding rainfall over the Mid-South up into the Mid-Atlantic. Strong to severe thunderstorms will be possible from Texas to Central Mississippi through Tuesday morning. Meanwhile, heavy snow and strong winds will target parts of the Southwest and across the Rockies.
+   
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+For New Hampshire on Tuesday, temperatures will be relatively warmer with some rain-snow mix for southern parts of the state.
+    

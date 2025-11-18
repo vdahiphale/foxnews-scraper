@@ -1,0 +1,573 @@
+{
+  "date": "July 11, 2019",
+  "headline": "President Trump abandons census push, seeks new way to count number of US citizens",
+  "subHeadline": "Guests: Josh Holmes, Tom Bevan",
+  "url": "https://www.foxnews.com/transcript/president-trump-abandons-census-push-seeks-new-way-to-count-number-of-us-citizens",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "sentences": "I am hereby ordering every department and agency in the federal government to provide the Department of Commerce with all requested records regarding the number of citizens and noncitizens in our country. They must furnish all legally accessible records in their possession immediately. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, ANCHOR",
+      "sentences": "President Trump announcing his new plan late today to find out whether or not people in this country are U.S. citizens. Let's bring in our panel to chew it over, Josh Holmes, former top advisor to Mitch McConnell and now president of Cavalry Consultants, Mara Liasson, from National Public Radio, and Tom Bevan, Real Clear Politics co-founder. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } So riddle me this, Josh. The president and the Trump administration fought for months to get this question on the Census, the citizenship question on the Census questionnaire that goes out to hundreds of millions of people. And the Supreme Court said no, you've got to come up with a better rationale. The president overruled his Commerce Secretary and said we are going to find a new rationale, and now today announces we are giving up. How come?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOSH HOLMES, PRESIDENT CAVALRY CONSULTANTS",
+      "sentences": "I think they ran into a logistical problem, quite frankly. In order to conduct the Census, they need to get out there with the surveys and actually start counting people in this country, and they know that no matter what they do to try to change the rationale for this question, it's going to be tied up in the courts for it could be months. So I think in order to actually conduct the Census, they had to resolve this one way or another now, which is why you've seen this latest decision. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So the fallback plan is basically to say we're going to go to all the departments, and we're going to say give us any information you have, tax records, whatever, so we can try to figure out how many people are citizens and how many people are not. It would seem to me that's going to open up, and the ACLU is already saying they're going to see how this plays out, a whole new legal can of worms.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Sure. There's no question that there's going to be all kinds of challenges to that, too. I think what administration is saying, it really shouldn't be all that controversial for the United States of America to understand how many American citizens we have, and conversely understand how many people are in this country illegally. You do have apportionment issues we were talking about. Yu do have redistricting issues that get into very controversial topics. But at its core, knowing how many American citizens are in the United States of America should really not be that controversial. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I'm going to get back to that in a second, but I want to go back and get your take, Mara, on just the process that has played out since the Supreme Court decision at the end of June, we are only talking a couple of weeks, where it was on-again, off-again. The president wanted to get this question on the questionnaire, and today basically gave up and said we'll try to get it other ways. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARA LIASSON, NATIONAL POLITICAL CORRESPONDENT, NATIONAL PUBLIC RADIO",
+      "sentences": "The citizenship question exists on something called the American Community Survey. It's not the Census. It doesn't go out to as many people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "It goes out to 3 million.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Yes, 3 million people. But the point is, it's not like the question is never asked. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); } But this is kind of standard operating procedure for the Trump administration. You think something is happening, we are going to bomb Iran, and then it doesn't. And the president decided that he wanted to at least go down fighting. This is a president who knows that, first of all, the citizenship question is very popular across the board. People don't see why it's such a problem to ask a question about whether you're a citizen or not. So he is showing that he is still going to try to ask it and get that information in every way he can. But there's no way they could conduct the Census in time if they kept on fighting for this question.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Now, there was strong reaction from both sides, even before the president made his announcement late today on what he was doing. Check this out. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. JIM JORDAN, R-OH",
+      "sentences": "This is just common sense. We've been asking this Census question -- the citizenship question on the Census in one form or another for 200 years. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER, D-N.Y., SENATE MINORITY LEADER",
+      "sentences": "It's nothing more, the president's action, than a naked political power grab, which is one of the few things he's good at as president. He'll try anything to set the rules to his advantage. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So let's talk about the practical effect of this. Democrats, many Democrats, and many Hispanic leaders say if there ends up being a citizenship factored into the Census, and what the White House is saying is it may not be on the questionnaire, but we can end up declaring a Census based on other things than the questionnaire, that this is going to end up resulting in an undercount of how many not only legal Hispanics are in the country but how many illegal Hispanics are in the country, and that that will have a political impact. Your reaction?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOM BEVAN, REAL CLEAR POLITICS CO-FOUNDER",
+      "sentences": "I'm not sure how much of a political impact. This is now a political football. And that's one of the things about Donald Trump. He takes a position, and, again, this is a no- brainer to his supporters, and likewise Democrats are going to use this issue to fire up their supporters. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); } Trump certainly, this was a retreat. He gave up the battle -- gave up the battle on the Census question, the question on the Census, but he didn't give up the war. He's fighting another way. And he's going to take it to 2020, and he's going to be able to leverage in the campaign that the bias of the judiciary against him and political correctness run amok. To him and his supporters this is a no-brainer, why should we not be able to ask this question, and even went out of his way to have Attorney General William Barr stand up there and say the Supreme Court affirmed our right to ask this question, it is Constitutional. So that's going to be his argument. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Is this, Tom, tough for Democrats? The president clearly thinks the political issue here plays to his advantage, and he began his thing by saying, are you citizen or not? Why should that be a complicated question? It does seem that at least that part of this argument is a win for the president, a win for Republicans. How can you object to asking people living in this country whether or not they are actually citizens?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "And that's a question I think even independents and folks who aren't political agree. It's sort of common sense. Why should we not be able to ask this question? We've asked it before in previous censuses, so why is this suddenly verboten and we are not allowed to ask it? And this is a classic issue for Trump. It's a classic issue for him to sort of take to the American people. And I think he thinks he's got the issue on his side. However, you saw Chuck Schumer, you've seen what Nancy Pelosi has said about this, playing the racial card on it. They are going to use this to fire up their supporters, particularly the Hispanic vote. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Speaking of that, meanwhile there are new reports that those ICE raids that people who are in the country illegally and have been formally ordered to leave the country, that their ICE raids are going to start on Sunday. They're going to hit 2,000 families, hopefully, they are saying, in 10 cities around the country. That's going to create quite a news sting. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "That's kind of why Democrats were upset about the citizenship question. Hispanic families who might have a relative who is undocumented don't want to talk to the Census guy who comes to the door, and now you've got these raids that are planned. Why would you announce these raids in advance if you want to get as many people? Isn't the element of surprise important? I think it's also to show that the Trump administration is really tough on illegal immigration.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "There's no question that people who are in the country illegally and they've gone through the judicial process and they've been ordered out should be out, but this could create some pretty bad optics, could it not, this weekend? If you start seeing families being raided, little children being hauled off, that's going to be tough.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Sure. It reminds you of the Elian Gonzalez 2000 situation, you never like to see children or families in that situation if you're the administration. But I will say, look, ICE exists. As long as illegal immigration is illegal in this country, there has to be an enforcement mechanism. ICE for Republican presidents and Democratic presidents does the exact same thing. This is now just becoming an issue because it's Donald Trump's ICE administration. This exact raid was happening throughout the Obama administration. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "He was called the deporter in chief. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "In fact, that is something that Joe Biden is separating himself from. We have to take a break here. Next up, speaking of Joe Biden, he lays out his foreign policy plan, and gets some good numbers from South Carolina. Plus, those fighting Democrats. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, D-PRESIDENTIAL CANDIDATE",
+      "sentences": "The threat that I believe President Trump poses to our national security and where we are as a country is extreme. He undermines our democratic alliances while embracing dictators. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Former Vice President Biden laying out his foreign policy in a major speech today. And we are back now with the panel. Before we get to the issue of foreign policy, let's talk about those all-important polls, because we got a new Fox News poll from South Carolina today which shows that Biden was not hurt at least there by his performance in the first round of debates, as you can see on the screen. Who do you support for president? Biden holds a commanding lead at 35 percent with Bernie Sanders at 14, Kamala Harris at 12, and the rest in single digits. And even after Harris hit Biden's civil rights record, his lead is bigger among blacks, 41 percent to Sanders at 15 percent and Harris at 12. Tom Bevan, you are at our polling maven. What does that tell you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "Well, it tells me that Biden is still the nominal frontrunner. He did take a hit in some of the national polls but seems to have stabilized. And I think the South Carolina poll also shows that Biden -- again, while he may have taken a hit, he is still standing. And he is, especially among voters who want to beat Donald Trump, he is still seen -- the electability argument is still his strongest suit. And his numbers, particularly with African-American voters as you just mentioned, that's got to be very reassuring to Joe Biden because that's one of his biggest core constituencies, and if that lead to erodes, he could be in real trouble. But they are holding strong right now. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "They are holding strong. Mara, the invention will wisdom after the first debate was that Biden had taken a real hit, that he was a vulnerable frontrunner, and some of the early national polls seem to bear that out as his enormous leads slid. But not South Carolina. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Not in South Carolina. I think he's still a vulnerable frontrunner. We've got another debate coming up at the end of the month, and the bar for him is going to be very high. He has to do well in that debate. I don't know if he can keep on turning in a kind of weak performance like he did in Miami over and over again and keep these numbers up. But he does have a high ceiling. He has years and years of goodwill built up, especially among the black community. And don't forget, South Carolina is a lot more like the rest of the Democratic primaries than Iowa or New Hampshire is, because it's diverse, because it has a lot of African-American voters. If you can't do well in the African-American community you're not going to be the nominee. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Biden also made a major foreign policy speech today saying that he wants to end America's what he called forever wars. Here's a taste of his speech. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "I worked with President Obama to craft the military and diplomatic campaign that ultimately defeated ISIS. Trump's secret weapon to destroy the so-called caliphate was a continuation of the plan we put in place. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Josh, what did you make of Biden's foreign policy speech, what he laid out as to what a Biden presidency would look like in that area, and the distinct absence of any discussion of a lot of the key votes that he took as a senator, including his support for the Iraq war back in 2003? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Yes, you noticed that. There was a couple of omissions there. There's practically no politician who has been more wrong more often on foreign policy issues than Joe Biden. But what's funny is it never dampens his enthusiasm to talk about it. He talks about foreign policy relentlessly, and has a long record of exactly the wrong solutions at the exact wrong time for almost every crisis in America has ever faced. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); } So I found this interesting today for a number of different reasons. The ISIS accusation is absolutely wrong. But further than that, I think what he is sort of trying to get at is his biggest problem with the Trump administration is the president's confrontation of our European allies in terms of NATO. And, look, it's a critique worth making. I think a lot, politically speaking, a lot of Americans believe that our allies haven't been pulling the kind of weight that they should on the international stage, and Donald Trump is doing the right thing. So from a political it perspective it is not a winner. From a policy perspective in the think tank world, it might make some sense.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Meanwhile, the split inside the House Democratic Caucus keeps getting more personal and even nastier. Speaker Pelosi says those four freshmen congresswomen have, quote, \"no following.\" Here they are, they call themselves \"The Squad.\" Alexandria Ocasio-Cortez, on the far left there, fired back saying that Pelosi is being, quote, \"disrespectful\" to, quote, \"newly elected women of color.\" And here was the latest round of the back-and-forth today. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI, D-CALIF., HOUSE SPEAKER",
+      "sentences": "I said what I'm going to say in the caucus. That's where this is appropriate. And I said what I'm going to say in the caucus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. ALEXANDRA OCASIO-CORTEZ, D-N.Y.",
+      "sentences": "It's singling out for individuals.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do think she has racial animus? Is she racist? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "No, no. Absolutely not. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Mara, how serious is this? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "I think it's not as serious, in other words I don't think the Democratic coalition in the House is falling apart. When Nancy Pelosi points out that these are people who might have millions of Twitter followers but they couldn't get more than their own votes against that border bill, she has a point. They don't have a following in Congress yet inside the Democratic race. When Alexandria Ocasio-Cortez was asked if you think Nancy Pelosi is a racist, that's because her chief of staff tweeted something that compared the moderate Democrats, the blue dogs and the new Democrats, to the old southern Democratic segs. So that was a front that her own staff opened up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I was just going to say, and one of the things that Pelosi supposedly set in the caucus, you've got, tell me, don't tweet it out. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "This is remarkable. Nancy Pelosi goes and gives an interview to Maureen Dowd which kicks this thing off, right, in a \"New York Times.\" And then Alexandria Ocasio-Cortez fires back on Twitter. Pelosi has this caucus meeting and says let's keep our dirty laundry inside. If you've got a problem, come to me. Alexandria Ocasio-Cortez then goes to \"The Washington Post\" and effectively plays the race card against her, accuses her -- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Women of color. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "Women of color. She made that critique and that's why she got asked that question. It's pretty remarkable to see this play out in public the way it is. And I don't think -- listen, Alexandria Ocasio-Cortez is a socialist before she is a Democrat. She's a party outside her. She cares more about revolution than she does compromise, and that's what's going on right now. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So in 15 seconds. This is entertaining to all of us inside the beltway. Does it matter?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "I think it does matter. As we move forward in the 2020 process, the squad is pulling the Democratic Party left, they are moving the party left, the discussions. Nancy Pelosi is trying to keep it centered.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, panel, thank you. When we come back, dinosaurs at the racetrack, you don't want to miss this. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Finally tonight, they had quite a race at Emerald Downs Racetrack in Washington state. A local pest control company put on the race, and well, here they go. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Yes, those are T-Rexes. Steven Spielberg could have used those guys in \"Jurassic Park.\" Thanks for watching “Special Report.” I'm Chris Wallace in Washington. \"The Story\" hosted by my friend, Martha MacCallum, starts right now. Did you enjoy that race, Martha? Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "utterance": "I am hereby ordering every department and agency in the federal government to provide the Department of Commerce with all requested records regarding the number of citizens and noncitizens in our country. They must furnish all legally accessible records in their possession immediately."
+    },
+    {
+      "speaker": "CHRIS WALLACE, ANCHOR",
+      "utterance": "President Trump announcing his new plan late today to find out whether or not people in this country are U.S. citizens. Let's bring in our panel to chew it over, Josh Holmes, former top advisor to Mitch McConnell and now president of Cavalry Consultants, Mara Liasson, from National Public Radio, and Tom Bevan, Real Clear Politics co-founder. So riddle me this, Josh. The president and the Trump administration fought for months to get this question on the Census, the citizenship question on the Census questionnaire that goes out to hundreds of millions of people. And the Supreme Court said no, you've got to come up with a better rationale. The president overruled his Commerce Secretary and said we are going to find a new rationale, and now today announces we are giving up. How come?"
+    },
+    {
+      "speaker": "JOSH HOLMES, PRESIDENT CAVALRY CONSULTANTS",
+      "utterance": "I think they ran into a logistical problem, quite frankly. In order to conduct the Census, they need to get out there with the surveys and actually start counting people in this country, and they know that no matter what they do to try to change the rationale for this question, it's going to be tied up in the courts for it could be months. So I think in order to actually conduct the Census, they had to resolve this one way or another now, which is why you've seen this latest decision."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So the fallback plan is basically to say we're going to go to all the departments, and we're going to say give us any information you have, tax records, whatever, so we can try to figure out how many people are citizens and how many people are not. It would seem to me that's going to open up, and the ACLU is already saying they're going to see how this plays out, a whole new legal can of worms."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Sure. There's no question that there's going to be all kinds of challenges to that, too. I think what administration is saying, it really shouldn't be all that controversial for the United States of America to understand how many American citizens we have, and conversely understand how many people are in this country illegally. You do have apportionment issues we were talking about. Yu do have redistricting issues that get into very controversial topics. But at its core, knowing how many American citizens are in the United States of America should really not be that controversial."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I'm going to get back to that in a second, but I want to go back and get your take, Mara, on just the process that has played out since the Supreme Court decision at the end of June, we are only talking a couple of weeks, where it was on-again, off-again. The president wanted to get this question on the questionnaire, and today basically gave up and said we'll try to get it other ways."
+    },
+    {
+      "speaker": "MARA LIASSON, NATIONAL POLITICAL CORRESPONDENT, NATIONAL PUBLIC RADIO",
+      "utterance": "The citizenship question exists on something called the American Community Survey. It's not the Census. It doesn't go out to as many people."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "It goes out to 3 million."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Yes, 3 million people. But the point is, it's not like the question is never asked. But this is kind of standard operating procedure for the Trump administration. You think something is happening, we are going to bomb Iran, and then it doesn't. And the president decided that he wanted to at least go down fighting. This is a president who knows that, first of all, the citizenship question is very popular across the board. People don't see why it's such a problem to ask a question about whether you're a citizen or not. So he is showing that he is still going to try to ask it and get that information in every way he can. But there's no way they could conduct the Census in time if they kept on fighting for this question."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Now, there was strong reaction from both sides, even before the president made his announcement late today on what he was doing. Check this out."
+    },
+    {
+      "speaker": "REP. JIM JORDAN, R-OH",
+      "utterance": "This is just common sense. We've been asking this Census question -- the citizenship question on the Census in one form or another for 200 years."
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER, D-N.Y., SENATE MINORITY LEADER",
+      "utterance": "It's nothing more, the president's action, than a naked political power grab, which is one of the few things he's good at as president. He'll try anything to set the rules to his advantage."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So let's talk about the practical effect of this. Democrats, many Democrats, and many Hispanic leaders say if there ends up being a citizenship factored into the Census, and what the White House is saying is it may not be on the questionnaire, but we can end up declaring a Census based on other things than the questionnaire, that this is going to end up resulting in an undercount of how many not only legal Hispanics are in the country but how many illegal Hispanics are in the country, and that that will have a political impact. Your reaction?"
+    },
+    {
+      "speaker": "TOM BEVAN, REAL CLEAR POLITICS CO-FOUNDER",
+      "utterance": "I'm not sure how much of a political impact. This is now a political football. And that's one of the things about Donald Trump. He takes a position, and, again, this is a no- brainer to his supporters, and likewise Democrats are going to use this issue to fire up their supporters. Trump certainly, this was a retreat. He gave up the battle -- gave up the battle on the Census question, the question on the Census, but he didn't give up the war. He's fighting another way. And he's going to take it to 2020, and he's going to be able to leverage in the campaign that the bias of the judiciary against him and political correctness run amok. To him and his supporters this is a no-brainer, why should we not be able to ask this question, and even went out of his way to have Attorney General William Barr stand up there and say the Supreme Court affirmed our right to ask this question, it is Constitutional. So that's going to be his argument."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Is this, Tom, tough for Democrats? The president clearly thinks the political issue here plays to his advantage, and he began his thing by saying, are you citizen or not? Why should that be a complicated question? It does seem that at least that part of this argument is a win for the president, a win for Republicans. How can you object to asking people living in this country whether or not they are actually citizens?"
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "And that's a question I think even independents and folks who aren't political agree. It's sort of common sense. Why should we not be able to ask this question? We've asked it before in previous censuses, so why is this suddenly verboten and we are not allowed to ask it? And this is a classic issue for Trump. It's a classic issue for him to sort of take to the American people. And I think he thinks he's got the issue on his side. However, you saw Chuck Schumer, you've seen what Nancy Pelosi has said about this, playing the racial card on it. They are going to use this to fire up their supporters, particularly the Hispanic vote."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Speaking of that, meanwhile there are new reports that those ICE raids that people who are in the country illegally and have been formally ordered to leave the country, that their ICE raids are going to start on Sunday. They're going to hit 2,000 families, hopefully, they are saying, in 10 cities around the country. That's going to create quite a news sting."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "That's kind of why Democrats were upset about the citizenship question. Hispanic families who might have a relative who is undocumented don't want to talk to the Census guy who comes to the door, and now you've got these raids that are planned. Why would you announce these raids in advance if you want to get as many people? Isn't the element of surprise important? I think it's also to show that the Trump administration is really tough on illegal immigration."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "There's no question that people who are in the country illegally and they've gone through the judicial process and they've been ordered out should be out, but this could create some pretty bad optics, could it not, this weekend? If you start seeing families being raided, little children being hauled off, that's going to be tough."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Sure. It reminds you of the Elian Gonzalez 2000 situation, you never like to see children or families in that situation if you're the administration. But I will say, look, ICE exists. As long as illegal immigration is illegal in this country, there has to be an enforcement mechanism. ICE for Republican presidents and Democratic presidents does the exact same thing. This is now just becoming an issue because it's Donald Trump's ICE administration. This exact raid was happening throughout the Obama administration."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "He was called the deporter in chief."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "In fact, that is something that Joe Biden is separating himself from. We have to take a break here. Next up, speaking of Joe Biden, he lays out his foreign policy plan, and gets some good numbers from South Carolina. Plus, those fighting Democrats."
+    },
+    {
+      "speaker": "JOE BIDEN, D-PRESIDENTIAL CANDIDATE",
+      "utterance": "The threat that I believe President Trump poses to our national security and where we are as a country is extreme. He undermines our democratic alliances while embracing dictators."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Former Vice President Biden laying out his foreign policy in a major speech today. And we are back now with the panel. Before we get to the issue of foreign policy, let's talk about those all-important polls, because we got a new Fox News poll from South Carolina today which shows that Biden was not hurt at least there by his performance in the first round of debates, as you can see on the screen. Who do you support for president? Biden holds a commanding lead at 35 percent with Bernie Sanders at 14, Kamala Harris at 12, and the rest in single digits. And even after Harris hit Biden's civil rights record, his lead is bigger among blacks, 41 percent to Sanders at 15 percent and Harris at 12. Tom Bevan, you are at our polling maven. What does that tell you?"
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "Well, it tells me that Biden is still the nominal frontrunner. He did take a hit in some of the national polls but seems to have stabilized. And I think the South Carolina poll also shows that Biden -- again, while he may have taken a hit, he is still standing. And he is, especially among voters who want to beat Donald Trump, he is still seen -- the electability argument is still his strongest suit. And his numbers, particularly with African-American voters as you just mentioned, that's got to be very reassuring to Joe Biden because that's one of his biggest core constituencies, and if that lead to erodes, he could be in real trouble. But they are holding strong right now."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "They are holding strong. Mara, the invention will wisdom after the first debate was that Biden had taken a real hit, that he was a vulnerable frontrunner, and some of the early national polls seem to bear that out as his enormous leads slid. But not South Carolina."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Not in South Carolina. I think he's still a vulnerable frontrunner. We've got another debate coming up at the end of the month, and the bar for him is going to be very high. He has to do well in that debate. I don't know if he can keep on turning in a kind of weak performance like he did in Miami over and over again and keep these numbers up. But he does have a high ceiling. He has years and years of goodwill built up, especially among the black community. And don't forget, South Carolina is a lot more like the rest of the Democratic primaries than Iowa or New Hampshire is, because it's diverse, because it has a lot of African-American voters. If you can't do well in the African-American community you're not going to be the nominee."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Biden also made a major foreign policy speech today saying that he wants to end America's what he called forever wars. Here's a taste of his speech."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "I worked with President Obama to craft the military and diplomatic campaign that ultimately defeated ISIS. Trump's secret weapon to destroy the so-called caliphate was a continuation of the plan we put in place."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Josh, what did you make of Biden's foreign policy speech, what he laid out as to what a Biden presidency would look like in that area, and the distinct absence of any discussion of a lot of the key votes that he took as a senator, including his support for the Iraq war back in 2003?"
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Yes, you noticed that. There was a couple of omissions there. There's practically no politician who has been more wrong more often on foreign policy issues than Joe Biden. But what's funny is it never dampens his enthusiasm to talk about it. He talks about foreign policy relentlessly, and has a long record of exactly the wrong solutions at the exact wrong time for almost every crisis in America has ever faced. So I found this interesting today for a number of different reasons. The ISIS accusation is absolutely wrong. But further than that, I think what he is sort of trying to get at is his biggest problem with the Trump administration is the president's confrontation of our European allies in terms of NATO. And, look, it's a critique worth making. I think a lot, politically speaking, a lot of Americans believe that our allies haven't been pulling the kind of weight that they should on the international stage, and Donald Trump is doing the right thing. So from a political it perspective it is not a winner. From a policy perspective in the think tank world, it might make some sense."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Meanwhile, the split inside the House Democratic Caucus keeps getting more personal and even nastier. Speaker Pelosi says those four freshmen congresswomen have, quote, \"no following.\" Here they are, they call themselves \"The Squad.\" Alexandria Ocasio-Cortez, on the far left there, fired back saying that Pelosi is being, quote, \"disrespectful\" to, quote, \"newly elected women of color.\" And here was the latest round of the back-and-forth today."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI, D-CALIF., HOUSE SPEAKER",
+      "utterance": "I said what I'm going to say in the caucus. That's where this is appropriate. And I said what I'm going to say in the caucus."
+    },
+    {
+      "speaker": "REP. ALEXANDRA OCASIO-CORTEZ, D-N.Y.",
+      "utterance": "It's singling out for individuals."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Do think she has racial animus? Is she racist?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "No, no. Absolutely not."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Mara, how serious is this?"
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "I think it's not as serious, in other words I don't think the Democratic coalition in the House is falling apart. When Nancy Pelosi points out that these are people who might have millions of Twitter followers but they couldn't get more than their own votes against that border bill, she has a point. They don't have a following in Congress yet inside the Democratic race. When Alexandria Ocasio-Cortez was asked if you think Nancy Pelosi is a racist, that's because her chief of staff tweeted something that compared the moderate Democrats, the blue dogs and the new Democrats, to the old southern Democratic segs. So that was a front that her own staff opened up."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I was just going to say, and one of the things that Pelosi supposedly set in the caucus, you've got, tell me, don't tweet it out."
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "This is remarkable. Nancy Pelosi goes and gives an interview to Maureen Dowd which kicks this thing off, right, in a \"New York Times.\" And then Alexandria Ocasio-Cortez fires back on Twitter. Pelosi has this caucus meeting and says let's keep our dirty laundry inside. If you've got a problem, come to me. Alexandria Ocasio-Cortez then goes to \"The Washington Post\" and effectively plays the race card against her, accuses her --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Women of color."
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "Women of color. She made that critique and that's why she got asked that question. It's pretty remarkable to see this play out in public the way it is. And I don't think -- listen, Alexandria Ocasio-Cortez is a socialist before she is a Democrat. She's a party outside her. She cares more about revolution than she does compromise, and that's what's going on right now."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So in 15 seconds. This is entertaining to all of us inside the beltway. Does it matter?"
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "I think it does matter. As we move forward in the 2020 process, the squad is pulling the Democratic Party left, they are moving the party left, the discussions. Nancy Pelosi is trying to keep it centered."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, panel, thank you. When we come back, dinosaurs at the racetrack, you don't want to miss this."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Finally tonight, they had quite a race at Emerald Downs Racetrack in Washington state. A local pest control company put on the race, and well, here they go."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Yes, those are T-Rexes. Steven Spielberg could have used those guys in \"Jurassic Park.\" Thanks for watching “Special Report.” I'm Chris Wallace in Washington. \"The Story\" hosted by my friend, Martha MacCallum, starts right now. Did you enjoy that race, Martha? Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

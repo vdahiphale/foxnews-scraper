@@ -1,0 +1,45 @@
+{
+  "date": "April 19, 2012",
+  "headline": "How Two Veteran Senators Were Portrayed at Their Death",
+  "subHeadline": "Historical Perspective Two late senators with controversial histories on the issue of race were given different treatment in news stories following their deaths.",
+  "url": "https://www.foxnews.com/transcript/how-two-veteran-senators-were-portrayed-at-their-death",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "VICE PRESIDENT JOE BIDEN",
+      "sentences": "What do we owe you? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPPS MANAGER",
+      "sentences": "Don't worry, it's on us. Lower our taxes and we'll call it even.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "Why don't you say something nice instead of being a smartass all the time? Say something nice. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); } The vice president apparently later told the manager he was just kidding. Another no-no in Wisconsin -- the VP called the treat \"ice cream\" instead of custard.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "VICE PRESIDENT JOE BIDEN",
+      "utterance": "What do we owe you?"
+    },
+    {
+      "speaker": "KOPPS MANAGER",
+      "utterance": "Don't worry, it's on us. Lower our taxes and we'll call it even."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "Why don't you say something nice instead of being a smartass all the time? Say something nice. The vice president apparently later told the manager he was just kidding. Another no-no in Wisconsin -- the VP called the treat \"ice cream\" instead of custard."
+    }
+  ]
+}

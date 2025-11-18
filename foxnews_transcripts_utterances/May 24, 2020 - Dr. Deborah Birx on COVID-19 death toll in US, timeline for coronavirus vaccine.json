@@ -1,0 +1,1513 @@
+{
+  "date": "May 24, 2020",
+  "headline": "Dr. Deborah Birx on COVID-19 death toll in US, timeline for coronavirus vaccine",
+  "subHeadline": "Guests: Deborah Birx, Asa Hutchinson, Mark Parkinson, Jonah Goldberg, Donna Brazile, Josh Holmes",
+  "url": "https://www.foxnews.com/transcript/dr-deborah-birx-on-covid-19-death-toll-in-us-timeline-for-coronavirus-vaccine",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "CHRIS WALLACE, ANCHOR",
+      "sentences": "I'm Chris Wallace. The country starts to venture out for the Memorial Day weekend as hope rises for coronavirus medical breakthroughs. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "We're making tremendous strides with therapies, cures and vaccines. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Words of potential progress and signs of growing confidence as socially distant crops returned to restaurants, stores and beaches. We'll ask Dr. Deborah Birx, coordinator of the White House Coronavirus Task Force, when we can really expect a vaccine. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); } Then --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. ASA HUTCHINSON (R), ARKANSAS",
+      "sentences": "We're back to work today. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Arkansas reopens even as it sees its largest single day spike in new cases. We'll ask Governor Asa Hutchinson about lifting restrictions and fears of a second wave. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); } Plus, protecting the most vulnerable -- nursing homes, ground zero for so many COVID 19 deaths. We'll ask Mark Parkinson, head of the nation's largest association of long term care providers, about protecting the elderly. And Joe Biden steps in it again, even from the confines of his own basement.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "sentences": "If you have a problem figuring out whether you're for me or Trump, then you ain't black. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll ask our Sunday panel if the presumptive Democratic nominee needs to get back on the trail or keep quiet. All, right now, on \"FOX News Sunday\". if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And hello again on this Memorial Day weekend from FOX News in Washington. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } This holiday traditionally marks the unofficial start of summer. But there's nothing traditional this year as coronavirus deaths in the U.S. near 100,000. As lockdowns ease and Americans take their first steps into the new normal, President Trump says he won't close the country again, even if there's a second wave of the virus. And there is some good news about the race for a vaccine. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); } In a moment, we'll speak with Dr. Deborah Birx, coordinator of the White House Coronavirus Task Force. But first, let's bring in Mark Meredith with the latest on how Americans are carefully celebrating this holiday weekend -- Mark. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARK MEREDITH, FOX NEWS CORRESPONDENT",
+      "sentences": "Chris, while all 50 states are starting to ease some health restrictions, this week maybe the first time that Americans venture out not for work or for groceries, but for fun. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "To be out at least one day like this was great. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "COVID-19 hospitalization rates are falling, giving Americans more confidence to revisit restaurants, salons, and beaches from the Jersey Shore to the Gulf Shore of Texas, and the East Coast of Florida. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "There's been a lot of people, but I think everybody has very responsible.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "Californians are finding a trip to the beach comes with conditions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We're in active recreation only, which means if you come to the beach, we don't allow any sunbathing. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "Even Texans who go bowling face a new normal -- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "They have everybody separated for a lane.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "The CDC issued religious leaders guidelines Friday on how to safely reopen. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); } President Trump went even further, demanding governors let houses of worships restart immediately.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "If they don't do it, I will override the governors. In America, we need more prayer, not less. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "As the death toll nears 100,000, in an extraordinary move, \"The New York Times\" dedicated its entire front page today to COVID victims, this is the White House remains optimistic a vaccine can be developed this year. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "The White House says it continues to monitor some hot spots throughout the country to focus on three cities, Chicago, Los Angeles, and right here in Washington, D.C. They say that the virus is still spreading despite lockdowns remaining in place -- Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Mark Meredith reporting from the White House -- Mark, thanks. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); } Joining us now Dr. Deborah Birx of the White House Coronavirus Task Force. Doctor welcome back to Fox News Sunday. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. DEBORAH BIRX, WHITE HOUSE CORONAVIRUS TASK FORCE COORDINATOR",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "A month ago you and President Trump were both talking about a total of 16,000 COVID-19 deaths. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "sentences": "It looks like we'll be about a 60,000 mark which is 40,000 less than the lowest number thought of.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "Look at how much the model has changed in just a week. Remember just a week ago it was 80,000. Now it's 60,000.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Early this coming week, we're going to reach 100,000 deaths from the coronavirus and those models that you were citing now talk about close to 150,000 deaths by August. What happened, Doctor?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "I think a few things are together. So from the beginning, and I think when we had that first briefing we talked about 1.2 million to 2.4 million and 100,000 to 240,000 people succumbing to this incredibly aggressive virus. Those are the figures that we continue to stand by in this first wave and really understanding how to prevent future hospitalizations and future deaths is really what we're focused on every single day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But to press it a little bit, a month ago, you were saying we were going to come down below the low end of the model, which is 100,000 to 240,000 to 60,000. So I guess my question is, in this last month, did you underestimate the strength of the virus? Did we reopen too soon? Did we reopen without sufficient restrictions?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "What I was saying in that briefing that you were talking about is what that current model was showing. There are different models we have been using all along and really trying to learn primarily, not just for models, but understanding what has happened in Spain and Italy and the U.K. and really tracking those numbers. We understand that our mortality rates are less than those three countries and that's really due to the incredible work of our frontline hospital workers, but we understand that these number of infections has led to this level of mortality and our job now going forward is to do everything we can to prevent additional hospitalizations and additional mortality.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well let me pick up on that, Doctor, because this is, as we said, Memorial Day weekend and people are going out more in public, a lot of them are going to beaches, we are running video here, some people are social distancing but the picture you probably can't see on the screen right now in Venice Beach, California, big crowds of people, some of them close together. Not wearing masks. How concerned are you by some of what you're seeing around the country this Memorial Day weekend?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "Well, you know, last time we spoke I was concerned about people coming together without masks even during the protests and now I'm very concerned when people go out and don't maintain social distancing. What do we know that has changed? We now have excellent scientific evidence of how far droplets go when we speak or just simply talking to one another and we know that it's important for people to socially interact, but we also know it's important that we have to have masks on if we are less than six feet and that we have to maintain that six feet distance. We know being outside does help. We know sun does help in killing the virus, but that doesn't change the fact that people need to be responsible and maintain that distance. We know you're talking to the governor from Arkansas, he's made it clear that there are super-spreader events when people come together because of the nature of this virus and because of asymptomatic spread. And people aren't intentionally spreading the virus. They don't know they're infected, but they come together and they're under that six feet and everybody who gets exposed to that person less than six feet has a chance of becoming infected.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So, do you think some of this crowd of people at beaches this Memorial Day weekend, is that a super-spreader event?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "Well, Friday when I discussed this during the press briefing I was really hoping to convey that very clear message to the American people. We want you to be outside. We know that there are ways that you can even play tennis with marked balls so you're not touching each other's balls. We know there is a way for you to go out and play golf and stay distanced. To hike, to be outside in nature, to be at the beach. But really within that is the absolute requirement because across the country we know there is still virus out there and we see what workplaces are doing to make it safe. We see what nursing homes are doing to try to make it safer for their residents. Let's even in public make sure that we're doing everything that we need to do to make it safe for others in public.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Trump said on Friday that he is now declaring that houses of worship are providing essential services and he wants governors to open houses of worship right away, today. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "If they don't do it, I will override the governors. In America we need more prayer, not less.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But as you know, there have been a few cases -- not widespread, but there have been a few cases, one in Arkansas, some in California, where people, some of them asymptomatic with COVID-19 go to houses of worship and spread and there are more infections and in some cases even death. Is it safe to open all houses of worship across the country today?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "I think two things happened on Friday. The president asked for the CDC to make sure there were guidelines posted to make it clear of how churches could open safely. And during then the press briefing, I made it clear that it's very important for governors and communities to let people know where there is still high levels of virus. Like it is here in Washington, D.C., in Chicago and in L.A. And to really ensure that those with vulnerabilities are protected. So although it may be safe for some to go to churches and social distance, it may not be safe for those with pre-existing conditions, and that's why in phase one and phase two, we've asked for those individuals with vulnerabilities to really ensure that they are protected and sheltering in place while we open up America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Then there are the issue of masks, which we touched on before and we are seeing growing confrontations. For instance, in stores where customers say you've got to wear a mask and some customers say you are violating my rights. Here's an example of that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNKNOWN",
+      "sentences": "I'm asking this member to put on a mask because that is our company policy. So either wear the mask --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNKNOWN",
+      "sentences": "And I'm not doing it because I woke up in a free country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I'm asking you a public health question, not a legal question. What would you tell someone who says I have a right not to wear a mask in public?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "What we have said to people is there's clear scientific evidence now by all the droplet experiments that happened and that others have done to show that a mask does prevent droplets from reaching others. And out of respect for each other, as Americans that care for each other, we need to be wearing masks in public when we cannot social distance. It's really critically important. We have the scientific evidence of how important mask wearing is to prevent those right droplets from reaching others.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Do you wish -- I understand it's a special case -- he's a -- everybody around him has been tested and obviously he is on television but both from a safety point of view and from a public messaging point of view, do you wish the president wore a mask in public?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "Well, the president did wear a mask while he was less than six feet in an occasion where that was important over -- I think when he was traveling last week. I think he -- I'm not with him every day and every moment so I don't know if he can maintain social distance. I've asked everybody independently to really make sure that you're wearing a mask if you can't maintain the six feet. I'm assuming that in a majority of cases he's able to maintain that six feet distance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Finally, there were some promising reports this week about we might get a vaccine sooner than we expected. Here's the president on that this week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We're looking to -- when I say quickly, we're looking to get it by the end of the year if we can. Maybe before. We are doing tremendously well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "A month ago, you and Dr. Fauci were both talking about it taking 12 to 18 months to get a mask -- to get a vaccine. Now you're talking about possibly by the end of the year, which would cut that timeline in half. I understand everybody wants it. How likely is it that we are going to see a vaccine readily available by the end of this year?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "I think what would make it potentially possible is what the president has asked everyone to do in this public-private partnership with funding directly to make vaccine at risk, and what do I mean by that? That means making vaccine before we know its full safety and its full effect and what we call its efficacy profile. To make vaccines starting now as quickly as possible so when there is that efficacy and safety signal -- so we're not shortcutting the efficacy and safety testing, what we are shortcutting is the normal development time of manufacturing. And so really starting manufacturing what would be six months early, seven months early, that's how you could potentially shorten this by four to six or even eight months. And so that's what's happening now, it's taking the most promising candidates and getting them into manufacturing, ensuring that you can scale and produce these vaccines at the level that is needed for Americans.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, we all hope that happens, you can be sure. Dr. Birx, thank you. Thanks for your time this holiday weekend. Please come back. Up next, all 50 states are now in some form of reopening, but life remains far from normal across the U.S. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); } We'll check on how things are going in Arkansas with Governor Asa Hutchinson. That's next. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "This week, Arkansas saw its biggest single day increase in coronavirus cases. The news comes as the state expands the type of activities allowed to soon include overnight summer camps and kids sports. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); } Joining us now from Little Rock, Governor Asa Hutchinson. Governor, you met with President Trump at the White House this week and you said to him, in Arkansas, we're back to work. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); } Now, I want to put up some examples of that. You never issued a stay-at- home order in your state, and now, you've officially reopened all your stores, restaurants, movie theaters and gyms, although at reduced capacity. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); } Governor, what's your thinking about all that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. ASA HUTCHINSON (R), ARKANSAS",
+      "sentences": "Well, my thinking is that we have to manage the risk. We take the virus very seriously. It's a risk, it causes death. But you can't cloister yourself in a home. That is just contrary to the American spirit. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); } And we have to discipline ourselves. We have to manage the risk. I make the comparison with -- you know, you can be in an automobile and it's very risky, but you manage the risk by wearing a seat belt. At first, everyone resisted wearing a seat belt and said, well, that's a matter of freedom. Well, it is, but it's also a matter of safety. And so, we are managing the risk in Arkansas. We are expanding our economy. But right now, we have less than 100 -- we have less than 100 hospitalizations. Our death rate is low compared to the rest of the country. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); } It doesn't diminish the seriousness in which we take it, but we have to manage the risk, grow our economy. We have to come back and not just in Arkansas, but nationally, because this virus is deadly, but it's going to be with us a while. We have to manage that risk. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to talk about managing the risk, because you have not followed the White House guidelines which called for a steady decline for two weeks in the number of new cases in the state before they could go to each new phase, phase one, phase two. I want to put up two charts. This is the number of new COVID cases in Arkansas each day since March 1st and instead of a steady downward trend, folks looking at the graphic, you can see it's going up and down like the stock market, and you had your highest, that big spike on the right there, you had your highest single day of cases just this past Thursday. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); } And I want to show another chart which shows the number of cases since a week ago Friday from 181 cases last Sunday to 54 cases last Monday, and then as we say, up to 455 cases on Thursday. Which raises the question, do you really have the virus under control in Arkansas? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "Well, if you look at those graphs that you see, it's really hard to see any period of time where you've got two spikes and one spike was about 30 days ago and then you had a decline in the cases, and that's when we reopen. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); } It is important to note that there's two criteria for phase one. One is the 14-day decline in the number of cases. The other one is a decline in a positivity rate. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); } If you look at our positivity rates, 10 percent is the national standard you try to get to. We've expanded testing in Arkansas, but even with that, our positivity rate has been running lower than 5 percent of all of our tests. And so, you manage the risk by increasing the testing. You look at it as to whether the fact that we've lifted restrictions is one of the reasons for the increased number of cases and our answer is, we don't see a connection there. And we see it because we are testing more and we're following and tracing where those are coming from and they're not coming from the fact that we've lifted some of the restrictions. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); } For example, many of them come from the food supply industry, which is an essential service, nobody (ph) closes down anyway, and we can't. And so, you've got to manage the risk and we did, we believe comfortable in terms of meeting the criteria to go to phase one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let's talk about it, because obviously for you and for governors across the country, it's a balance. You said just yesterday at a press briefing that Arkansas is experiencing a second peak in new cases and you talked, for instance, about a swim party in north Arkansas where a bunch of kids were together and there was a spread of the virus. So, is there any thought about imposing new restrictions? Is it steady as she goes? I mean, how do you -- when you've got a new peak, do you respond to that in any way?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "Certainly you do, absolutely. It is a concern to us and part of it is transparency with the American public, with the Arkansas public and saying, we've got an increase in cases here. You know, what of the reasons for it? You know, what actions should we take in response to that? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } And to me, it's a matter of self-discipline and that's why I talked about the swim party and the fact that you can pass the virus at a swim party. I don't think we're going to say you can't invite anybody over to a pool in the backyard of your home. I think you have to exercise discipline and make sure you have the right constraints in place. And so, it's education. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } And you look at the reason for the spike and again, it's because we have greater testing. The fact that we're able to trace it, we want to build out infrastructure allows us -- we got to think about next fall. Where are we going to be? We're not going to be cloistered in our home. That's contrary to the American spirit. We've got to manage the risk next fall by the infrastructure that we're building now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "One final question. The unemployment rate in April for your state was 10 percent, big, sharp increase. How hard hit has your state been both in terms of jobs, in terms of state revenues, the state budget? And how long do you think it's going to take you, Governor, to dig out? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "Well, you can't minimize the harm and the hurt to those individual employees or small businesses that lost their jobs and their income. We have over 100,000 employed, a 10.2 percent unemployment rate, which is 4 percent lower than the national average. And so, our economy is stronger than and will rebound more quickly because it was not all shut down and people are going back to work. Our state revenues, we predicted a 10 percent decline in April in our sales tax. It was 5 percent. And so, we're beating those numbers, optimistic about coming back. It's just going to take some time. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Governor Hutchinson, thank you. Thanks for talking with us this week -- weekend and we wish you and the residents of your state of Arkansas the very best, sir. Up next, nursing homes nationwide have been especially vulnerable to the coronavirus. We'll ask the head of the largest association of long-term care providers how to keep the most vulnerable Americans safe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Coming up, nursing homes hit hard by the coronavirus with outbreaks across the country. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We know that we have to protect some people, much more so. I think a lot of the governors have done a very, very poor job on nursing homes. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll ask a key voice representing the homes, what's needed to keep residents safe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Nursing homes have borne the brunt of the coronavirus pandemic in this country and some of the saddest scenes have been of seniors passing away with their families unable to be alongside them. Joining us now, Mark Parkinson, the head of the nation's largest associations of nursing homes and long-term care facilities. Mr. Parkinson, a \"New York Times\" study found that one-third, more than a third, of all the deaths in this country from COVID-19 have been in nursing homes and long-term care facilities. Obviously, the elderly are an especially vulnerable population. Incidentally, this wasn't just patients, this was also some of the workers at that nursing homes. But why, beyond that vulnerability, why do you think such a high percentage of all the deaths have been in these facilities?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PARKINSON",
+      "sentences": "Well, Chris, you're right, this has been a horrible tragedy. And for those of us that take care of older people our entire life, it's been the most unspeakable. What we've learned from looking around the world is that any place where people live closely together, whether it's confidence or dormitories or cruise ships or nursing homes, they're particularly vulnerable. And it's because of one very unique feature to this virus, and that is that this virus, unlike any other that we fought before, a person can catch it, show no symptoms and yet still spread it. So in January, February and March, when we didn't know that, we have visitors coming into our buildings, we had staff members in our buildings closely interacting with residents, as they need to, to take care of them, and we were unwittingly spreading the virus within the communities. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } Once the academic community and doctors figured out that you could be asymptomatic and carry it, it was too late for a lot of people. And, unfortunately, even then we didn't have the test to figure out who had it. The good news that I can give this morning is that we're now in recovery, though, Chris. I just want to point out that -- that the Trump administration, just on Friday, allocated $5 billion. Secretary Azar, Deputy Secretary Hargen --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PARKINSON",
+      "sentences": "That's going to allow us to recover and really make this better.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to point out another issue, however. The Government Accountability Office issued a report this week, and I want to put the numbers up on the screen. If found that 82 percent of nursing homes, over 13,000, have been cited for infection control issues from 2013 to 2017.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PARKINSON",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So -- so the question, Mr. Parkinson, didn't your facilities have a problem in this particular area long before the pandemic hit? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PARKINSON",
+      "sentences": "Well, we have a real flawed survey system. And one of the flaws of the survey system is that surveyors are encouraged to give deficiencies. And what that does is it creates the impression that even very good buildings are not good. It makes it hard for consumers to figure out what buildings are good and which aren't when everybody gets deficiencies. That same GAO report reported that 99 percent of those deficiencies were not severe. They did not affect patient safety. And many of them were just paperwork issues. The reality is that the coronavirus violates all of the normal concepts of infection control because normal infection control is symptom related. Now that we know that, we are adjusting our behavior, and that is why we're starting to see recovery and people actually getting better. Visitors are no longer allowed to come into building. Every interaction patients and staff now have masks on. Patients, residents are not eating together in the same room, they're eating privately in our own rooms so that now that we understand the very vicious nature of this virus, we're able to control it much better.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Nursing homes in New York and New Jersey have been especially hard-hit by the pandemic, as well as the entire state. And in late March, Governor Cuomo issued an order that nursing homes must accept Covid-19 patients to try to alleviate and prevent overcrowding at hospitals. Here's how the governor described it and explained it this week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. ANDREW CUOMO (D-NY)",
+      "sentences": "The CDC guidance said a nursing home cannot discriminate against the Covid patient because, at that time, the issue was hospital capacity, right? Remember hospital capacity? And we were dramatically increasing hospital capacity. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Did Governor Cuomo have to follow that CDC guidance, or did he have a choice? And what about other governors and how they handle the CDC guidance around the country?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PARKINSON",
+      "sentences": "Well, look, I -- I've been a governor in the time of a crisis, so I understand that sometimes you have to make decisions based on incomplete information. And the time that Governor Cuomo made that decision, he was being told by the epidemiologists that his hospitals were going to be overrun with Covid patients. In hindsight, we now know that that was not the case. There was actually the capacity there. They didn't need to be discharged to nursing homes. In hindsight, it was an error. And to Governor Cuomo's credit, he has now reversed that policy. Fortunately, we were able to convince most of the other governors across the country to not institute that policy. And I think that's part of the reason that we're starting to see recovery.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But, in fact, he did have a choice. He didn't have to follow the CDC guidance anyway.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PARKINSON",
+      "sentences": "Yes, I mean, in hindsight, you know, our suggestion to him at the time was that he don't -- didn't do that. I think in hindsight he would say that it was an error. It was an error again based upon incomplete and inaccurate information. The country was too concerned with hospitals being overrun and there were consequences to that. One of the consequences is that nursing homes were left out. Our residents were not a high priority for testing. We weren't given the equipment that we needed. You know, there needs to be some accountability for all of these people that were making these fantastic estimates that the entire hospital system across the country was going to be overrun. It wasn't, and there are consequences. And, unfortunately, nursing home residents were one of the consequences.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I -- I want to pick up on the first point you made, which is that we didn't know at the very beginning a lot of the particularly terrifying and dangerous aspects of the coronavirus. And one of them is that people could be asymptomatic and -- and go into a hospital without any sign their ill and then still spread the virus to these very sick people. The result, as you've locked down, is we've seen these terrible scenes where, for their own good, residents are kept away from their families at some of them get very sick, some of them pass away and their families can't be with them when that happens. What are your thoughts about reopening nursing homes, letting families be with the residents, and under what structures, under what restriction so that the families can be together but you're not endangering the lives of - - of all the patients inside these facilities? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PARKINSON",
+      "sentences": "Right. Yes, we -- we realize how hard it's been for family members and for residents to not be able to be together. And, you know, we've tried to offer FaceTime and all sorts of other alternatives, but there's just no alternative to being together. And then the tragic scenes of people dying without their loved ones, it's just -- it's -- it's horrible. The most important thing is that we need to keep Covid down in the communities that the nursing homes are in. If you're in a nursing home that's in a community that has very little Covid, there's not that huge risk of it getting into the buildings. If we spiked back up in Covid cases though, we're going to end up with more Covid in nursing homes. So issue one is, let's keep Covid down in the communities. Issue two is, let's get adequate testing so that we can get a test for every staff member, every resident. And then, ideally, if we could get on-site testing throughout the summer so that when people come and they get a test, we know that they're Covid-free, that would be the ideal. But we do recognize it's extremely important to get these folks back with their families.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Mr. Parkinson, thank you. Thanks for taking time out to talk with us this weekend. And good luck in your efforts to reopen these nursing homes, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PARKINSON",
+      "sentences": "Thank you very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Up next, we'll bring in our Sunday group to discuss Joe Biden's surprising comments about who's black and who isn't. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "sentences": "If you have a problem figuring out whether you're for me or Trump, then you ain't black. I've never, ever, ever take the African-American community for granted. I shouldn't have been such a wise guy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Joe Biden's controversial comments about the black vote this Friday morning, and then later that day walking those comments back. And it's time now for our Sunday group. Senator Mitch McConnell former chief of staff, Josh Holmes, former Democratic Party Chair Donna Brazile, and Jonah Goldberg, editor of \"The Dispatch.\" Jonah, I think it's fair to say that some of the reaction, some of the outrage coming from various people about Biden's remarks is largely for show by people who have said even more offensive things about African- Americans during their political careers. But would you agree that the -- the Biden remark was pretty dumb? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); } JONAH GOLDBERG, EDITOR-IN-CHIEF, \"THE DISPATCH\" AND FOX NEWS CONTRIBUTOR: Yes. No, it was -- it's -- it was precisely the kind of thing that a lot of Democrats are worried about Biden doing again and again on the campaign trail. Regardless of the context of, you know, identity politics and blacks and the Democratic Party, just his sort of -- almost his insecurity to have to take everything to 11 and go just a bit further than the facts or -- or rationality sometimes allow makes a lot of people very -- very nervous about Biden. And then the specifics of it is just -- it's -- it's -- it's perfect fodder for the people who want to heighten the tensions on the Democratic Party in all sorts of ways. And we're going to see more of this over the summer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Donna, I know, as a lifelong and committed Democrat, that you are going to rush to Joe Biden's defense. But two questions. First of all, just on the merits itself, wasn't it -- wasn't the remark offensive? And from a political point of view, doesn't it play right into an argument the president and a lot of Republicans are making that -- that it seems to show Democrats take black votes, black support, for granted?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONNA BRAZILE, FORMER DNC CHAIR AND FOX NEWS CONTRIBUTOR",
+      "sentences": "Well, you know, Chris, before I became a Democrat, I was an American and I was born black in the segregated south. So I understand being black from the ground up. But here's what I do believe. I believe that Joe Biden was incorrect in -- in saying the statement you ain't black. But I also believe that his apology was sufficient. Here we live in a -- in a country where thousands of people have died. And a disproportionate number of them are people of color, African-Americans, communities of color. And so I would rather spend more time talking about the -- the -- the disparities that we have seen that have been amplified during this pandemic then speaking about Joe Biden and his record of blackness. This is not just an issue of race, this is an issue of survival right now. And I hope that Joe Biden has learned his lesson, his advisors have also learned their lesson, that you just not -- you cannot be cavalier in talking about these issues. Stay -- stick to the facts. That's what the radio hosts want him to do. Talk about the issues because the issues mattered now more than ever.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Josh, Donald Trump at 8 percent -- 8 percent of the vote -- the African-American vote running against Hillary Clinton in 2016. Now, he's making a bigger push for that this time, talking about his support for historically black colleges, about the very low, until we got the virus, very low unemployment rate among minorities, including blacks. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); } Does he really expect to get a significantly bigger portion of the African- American vote, or is this more a place to try to show moderate suburban voters, Republican voters perhaps, that he's not racially divisive?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOSH HOLMES, FORMER CHIEF OF STAFF TO MITCH MCCONNELL AND PRESIDENT AND FOUNDING PARTNER OF CAVALRY",
+      "sentences": "No, I mean, look, the president's campaign has made this a central issue for many months. If you talk to Jared Kushner and others within the White House, they'll -- they'll say that this has been a top priority for a long time to try to court more African-American voters. Look, I think this whole episode, as Joe Biden often does, he just perfectly articulated the Trump campaign's central thesis for earning the black vote, which is Democrats have taken the vote for granted. Rather than going out and trying to earn the votes of black Americans, they've basically assumed it. And I think they would say that, conversely, the Trump campaign, once they get -- once the president was given the opportunity, he passed things like, you know, criminal justice reform, which is a long-standing priority of the black community, something that the Democrats have had an opportunity to do for a long time it haven't. You mentioned the -- the economic component. Again, I think what the Trump campaign would say is that those historically high employment numbers that we've had up until February, now compromised by Covid-19, are something he's uniquely able to do. He's uniquely able to bring jobs back to minority communities. And I think they've -- they believe it's a very, very strong argument.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to turn to something else now, and that's the new White House press secretary, Kayleigh McEnany. She held a briefing on Friday. And this is right after President Trump said he would override governors if they didn't open houses of worship right away. A number of reporters asked, on what basis, under what authority the president could override governors and make them open houses of worship, and that led to this exchange. Take a look. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KAYLEIGH MCENANY, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "The guidelines.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "QUESTION",
+      "sentences": "What's the specific provision of federal law that allows the president to override a governor's decision?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCENANY",
+      "sentences": "The president will strongly encourage every government to allow their churches to reopen. And, buy, it's interesting to be in a room that desperately wants to seem to see these churches and houses of worship stay closed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "QUESTION",
+      "sentences": "No, but the president said that he has a --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCENANY",
+      "sentences": "Yes, (INAUDIBLE).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "QUESTION",
+      "sentences": "Kayleigh, I object to that. I mean, I go to church. I'm dying to go back to church.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Donna, I spent six years in the White House Briefing Room covering Ronald Reagan. I have to say, I never -- and in the years since, too, I never saw a White House press secretary act like that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRAZILE",
+      "sentences": "You know, I -- I know Kayleigh and I -- I think she's an extraordinary person. But this combative -- this -- this -- this posture that she has taken into the job I don't think is the right posture. I would hope that she could tone it down a little bit. And we all believe that as not just journalists but as individuals, we should be respected, regardless of where we -- where we sit. And I -- I just thought that that was inappropriate the way she went back, assuming that many of the people sitting in that room did not care about houses of worship. We want to all return back to normal, whatever that means anymore, but we want to do so in a safe way, in a way that don't harm ourselves and -- and those around us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And then, McEnany, who has been in the White House for a few weeks, started lecturing reporters, telling reporters, who have been covering politics for many years, what questions they should be asking, in this case about Michael Flynn. Take a look at this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KAYLEIGH MCENANY, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "If I write them out in a slide format, maybe we're visual learners and you guys will follow up with journalistic curiosities. Why was Lieutenant General Michael Flynn unmasked? Not by the intel community entirely, but by Obama's chief of staff, by the former vice president, Joe Biden, by Susan Rice, by the Treasury secretary. I mean this is extraordinary.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Jonah, first of all, it's not extraordinary. Unmasking is pretty routine, the effort by people in an administration to find out who a masked American person is. It -- it happens in the -- in the Trump White House. It happened, I think, 16,000 times the year before last. What's -- what's a crime is leaking it. But unmasking isn't. In addition to which, I have to say that if Kayleigh McEnany had told Sam Donaldson and me what questions we should ask, that would not have gone well, Jonah.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOLDBERG",
+      "sentences": "Yes, look, I'm -- it's nice to see Donna so deferential to Kayleigh McEnany. I think her behavior is indefensible and grotesque. And I think that what she has done is she has -- you know, the sixth -- there's this cliche in Washington that President Trump wants Roy Cohn as DOJ, as the -- at the head -- as the attorney general. What Donald Trump wants in a press secretary is a Twitter troll who goes on attack, doesn't actually care about doing the job they have and instead wants to impress the -- really an audience of one, and make another part of official Washington another one of these essentially cable news and Twitter gladiatorial arenas. And it's -- it's a sign of the defining of deviancy down in our politics and it's only going to make things worse.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Jonah -- Josh, rather. In the time we've got left, you know, the White House press secretary is always a accompanied job. They work for the White House but they're paid by taxpayers. They are public officials. And Kayleigh McEnany isn't acting like she is working for the public. She acts like she is what she used to be, which is a spokesperson for the Trump campaign.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Yes, look, Chris, I just disagree. I think Kayleigh's doing a nice job. And what's missing from this conversation that we've had this morning is the context by which she is making these statements. I think the -- any spokesperson in the Trump world, whether it's in the White House or the campaign, find themselves under constant attack by the press. The confrontation nature by which journals approach the questioning is not really to obtain much information so much as to try to back them into the corner. And I think Kayleigh said, I'm not going to play that game. And so, yes, it is completely different than what we've seen from years and years of briefings from press secretaries but I think it's reflective of the nature that we find ourselves in in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let me just say, Sam Donaldson and me in the Reagan White House, we were pretty tough on the White House press secretaries and we never had our religious beliefs questioned or were lectured on what we should ask. Thank you, panel. See you next Sunday. Up next, our \"Power Player\" on this Memorial Day weekend. A man who's made it his life's work to honor veterans with 24 musical notes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Arlington National Cemetery is closed to visitors now, but soldiers from the Army's old guard continue their mission, honoring veterans who have passed away. And they've adapted, wearing face coverings during the ceremonies. Ensuring all veterans receive a proper tribute is also the mission of this week's \"Power Player.\" We first met him 11 years ago. And it's become a Memorial Day tradition around here to share his story. Once again, he's our \"Power Player of the Week.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOM DAY, FOUNDER, BUGLES ACROSS AMERICA",
+      "sentences": "When you're playing it, it's only 24 notes, but it's so meaningful to that family. WALLACE (voice over): Tom Day is talking about playing \"Taps\" at the funerals of military veterans, and he should know. He's the founder and president of an organization called Bugles Across America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "(on camera): All told, how many funerals have you done since you started Bugles Across America?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAY",
+      "sentences": "At 200,000.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Really?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAY",
+      "sentences": "In ten years. Right. WALLACE (voice over): It started back in 2000, when Congress gave every vet the right to a funeral with military honors, including two uniformed officers to present a flag and play \"Taps.\" The problem was, the military only had 500 bugler's, so they sent someone to play a recorded \"Taps\" on a boom box or an electronic device inside a bugle. Tom Day, who played in the Marines in the '50s, didn't like it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAY",
+      "sentences": "I call it stolen dignity that these veterans can't get live \"Taps\" when we are out there ready to perform live \"Taps.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So he started his organization, recruiting 400 horn players within a year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAY",
+      "sentences": "Now we have 6,270 horn players. And we're doing 2,200 funerals a month.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "It's become quite an operation that Day runs out of his basement near Chicago. Families can go on his website to ask for a bugler. A message is sent to every horn player within 100 miles of the funeral. Day gives away bugles and helps with uniforms. While he gets support from foundations, he runs a deficit every year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAY",
+      "sentences": "I kind of make it up myself.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "$15,000, $20,000 a year?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAY",
+      "sentences": "Probably ten. You finish, you know, the last of the 24 notes, you put the horn down and the flag has been presented, then the family comes over. The kisses, the handshakes from these families, there is nothing -- no amount of money could ever buy the feeling that I get from the family once I've finished the 24 notes. WALLACE (voice over): With soldiers killed in Iraq and Afghanistan, plus some 400 veterans of World War II dying every day, there is a flood of military funerals. Day says he wants to keep going until he dies, then leave his organization in solid shape to carry on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAY",
+      "sentences": "I want every family to have live \"Taps\" at that going away presentation of their veteran. And it kind of tells the Marines who are guarding the gates in heaven, live \"Taps,\" we're going to let this veteran right in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And 11 years later, Day is still at it. And now, countdown to the countdown. As you may have heard, I've written a new book. It's called \"Countdown 1945: The Extraordinary Story of the Atomic Bomb and the 116 Days that Changed the World.\" On this Memorial Day weekend, it's an especially relevant story, how a new, untested president decides to drop the bomb on Hiroshima an end the Second World War. Here's a taste of what was happening during the spring 75 years ago.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "On April 12, 1945, shock and heartbreak as Americans learned President Franklin Roosevelt is dead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Harry S. Truman took the momentous oath of office.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "That same day the new president, Harry Truman, learns the first sketchy details of the top secret Manhattan project. The U.S. is developing an atom bomb. On May 8th, Truman's 61st birthday, he announces Germany has surrendered, setting off victory in Europe celebrations.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Understand where the Nazi furor used to ran (ph), it's dynamite for the swastika.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Yet the war against Japan rages on in the Pacific. Robert Oppenheimer, scientific director of the Manhattan Project, meets with other top officials to discuss the first use of the new super weapon. The list of potential targets narrows to five cities in Japan, including Hiroshima.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Atomic bomb number two on Hiroshima.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Please visit foxnews.com/fns for more on the book and a Fox News documentary. And that's it for today. We hope you'll take a moment this Memorial Day to reflect on the sacrifice of all the men and women who died defending our freedom. And we'll see you next \"Fox News Sunday.\" Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of Fox News Network, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, ANCHOR",
+      "utterance": "I'm Chris Wallace. The country starts to venture out for the Memorial Day weekend as hope rises for coronavirus medical breakthroughs."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "We're making tremendous strides with therapies, cures and vaccines."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Words of potential progress and signs of growing confidence as socially distant crops returned to restaurants, stores and beaches. We'll ask Dr. Deborah Birx, coordinator of the White House Coronavirus Task Force, when we can really expect a vaccine. Then --"
+    },
+    {
+      "speaker": "GOV. ASA HUTCHINSON (R), ARKANSAS",
+      "utterance": "We're back to work today."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Arkansas reopens even as it sees its largest single day spike in new cases. We'll ask Governor Asa Hutchinson about lifting restrictions and fears of a second wave. Plus, protecting the most vulnerable -- nursing homes, ground zero for so many COVID 19 deaths. We'll ask Mark Parkinson, head of the nation's largest association of long term care providers, about protecting the elderly. And Joe Biden steps in it again, even from the confines of his own basement."
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "utterance": "If you have a problem figuring out whether you're for me or Trump, then you ain't black."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll ask our Sunday panel if the presumptive Democratic nominee needs to get back on the trail or keep quiet. All, right now, on \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And hello again on this Memorial Day weekend from FOX News in Washington. This holiday traditionally marks the unofficial start of summer. But there's nothing traditional this year as coronavirus deaths in the U.S. near 100,000. As lockdowns ease and Americans take their first steps into the new normal, President Trump says he won't close the country again, even if there's a second wave of the virus. And there is some good news about the race for a vaccine. In a moment, we'll speak with Dr. Deborah Birx, coordinator of the White House Coronavirus Task Force. But first, let's bring in Mark Meredith with the latest on how Americans are carefully celebrating this holiday weekend -- Mark."
+    },
+    {
+      "speaker": "MARK MEREDITH, FOX NEWS CORRESPONDENT",
+      "utterance": "Chris, while all 50 states are starting to ease some health restrictions, this week maybe the first time that Americans venture out not for work or for groceries, but for fun."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "To be out at least one day like this was great."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "COVID-19 hospitalization rates are falling, giving Americans more confidence to revisit restaurants, salons, and beaches from the Jersey Shore to the Gulf Shore of Texas, and the East Coast of Florida."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "There's been a lot of people, but I think everybody has very responsible."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "Californians are finding a trip to the beach comes with conditions."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "We're in active recreation only, which means if you come to the beach, we don't allow any sunbathing."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "Even Texans who go bowling face a new normal --"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "They have everybody separated for a lane."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "The CDC issued religious leaders guidelines Friday on how to safely reopen. President Trump went even further, demanding governors let houses of worships restart immediately."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "If they don't do it, I will override the governors. In America, we need more prayer, not less."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "As the death toll nears 100,000, in an extraordinary move, \"The New York Times\" dedicated its entire front page today to COVID victims, this is the White House remains optimistic a vaccine can be developed this year."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "The White House says it continues to monitor some hot spots throughout the country to focus on three cities, Chicago, Los Angeles, and right here in Washington, D.C. They say that the virus is still spreading despite lockdowns remaining in place -- Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Mark Meredith reporting from the White House -- Mark, thanks. Joining us now Dr. Deborah Birx of the White House Coronavirus Task Force. Doctor welcome back to Fox News Sunday."
+    },
+    {
+      "speaker": "DR. DEBORAH BIRX, WHITE HOUSE CORONAVIRUS TASK FORCE COORDINATOR",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "A month ago you and President Trump were both talking about a total of 16,000 COVID-19 deaths. Take a look."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "utterance": "It looks like we'll be about a 60,000 mark which is 40,000 less than the lowest number thought of."
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "Look at how much the model has changed in just a week. Remember just a week ago it was 80,000. Now it's 60,000."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Early this coming week, we're going to reach 100,000 deaths from the coronavirus and those models that you were citing now talk about close to 150,000 deaths by August. What happened, Doctor?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "I think a few things are together. So from the beginning, and I think when we had that first briefing we talked about 1.2 million to 2.4 million and 100,000 to 240,000 people succumbing to this incredibly aggressive virus. Those are the figures that we continue to stand by in this first wave and really understanding how to prevent future hospitalizations and future deaths is really what we're focused on every single day."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But to press it a little bit, a month ago, you were saying we were going to come down below the low end of the model, which is 100,000 to 240,000 to 60,000. So I guess my question is, in this last month, did you underestimate the strength of the virus? Did we reopen too soon? Did we reopen without sufficient restrictions?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "What I was saying in that briefing that you were talking about is what that current model was showing. There are different models we have been using all along and really trying to learn primarily, not just for models, but understanding what has happened in Spain and Italy and the U.K. and really tracking those numbers. We understand that our mortality rates are less than those three countries and that's really due to the incredible work of our frontline hospital workers, but we understand that these number of infections has led to this level of mortality and our job now going forward is to do everything we can to prevent additional hospitalizations and additional mortality."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well let me pick up on that, Doctor, because this is, as we said, Memorial Day weekend and people are going out more in public, a lot of them are going to beaches, we are running video here, some people are social distancing but the picture you probably can't see on the screen right now in Venice Beach, California, big crowds of people, some of them close together. Not wearing masks. How concerned are you by some of what you're seeing around the country this Memorial Day weekend?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "Well, you know, last time we spoke I was concerned about people coming together without masks even during the protests and now I'm very concerned when people go out and don't maintain social distancing. What do we know that has changed? We now have excellent scientific evidence of how far droplets go when we speak or just simply talking to one another and we know that it's important for people to socially interact, but we also know it's important that we have to have masks on if we are less than six feet and that we have to maintain that six feet distance. We know being outside does help. We know sun does help in killing the virus, but that doesn't change the fact that people need to be responsible and maintain that distance. We know you're talking to the governor from Arkansas, he's made it clear that there are super-spreader events when people come together because of the nature of this virus and because of asymptomatic spread. And people aren't intentionally spreading the virus. They don't know they're infected, but they come together and they're under that six feet and everybody who gets exposed to that person less than six feet has a chance of becoming infected."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So, do you think some of this crowd of people at beaches this Memorial Day weekend, is that a super-spreader event?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "Well, Friday when I discussed this during the press briefing I was really hoping to convey that very clear message to the American people. We want you to be outside. We know that there are ways that you can even play tennis with marked balls so you're not touching each other's balls. We know there is a way for you to go out and play golf and stay distanced. To hike, to be outside in nature, to be at the beach. But really within that is the absolute requirement because across the country we know there is still virus out there and we see what workplaces are doing to make it safe. We see what nursing homes are doing to try to make it safer for their residents. Let's even in public make sure that we're doing everything that we need to do to make it safe for others in public."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Trump said on Friday that he is now declaring that houses of worship are providing essential services and he wants governors to open houses of worship right away, today. Take a look."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "If they don't do it, I will override the governors. In America we need more prayer, not less."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But as you know, there have been a few cases -- not widespread, but there have been a few cases, one in Arkansas, some in California, where people, some of them asymptomatic with COVID-19 go to houses of worship and spread and there are more infections and in some cases even death. Is it safe to open all houses of worship across the country today?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "I think two things happened on Friday. The president asked for the CDC to make sure there were guidelines posted to make it clear of how churches could open safely. And during then the press briefing, I made it clear that it's very important for governors and communities to let people know where there is still high levels of virus. Like it is here in Washington, D.C., in Chicago and in L.A. And to really ensure that those with vulnerabilities are protected. So although it may be safe for some to go to churches and social distance, it may not be safe for those with pre-existing conditions, and that's why in phase one and phase two, we've asked for those individuals with vulnerabilities to really ensure that they are protected and sheltering in place while we open up America."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Then there are the issue of masks, which we touched on before and we are seeing growing confrontations. For instance, in stores where customers say you've got to wear a mask and some customers say you are violating my rights. Here's an example of that."
+    },
+    {
+      "speaker": "UNKNOWN",
+      "utterance": "I'm asking this member to put on a mask because that is our company policy. So either wear the mask --"
+    },
+    {
+      "speaker": "UNKNOWN",
+      "utterance": "And I'm not doing it because I woke up in a free country."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I'm asking you a public health question, not a legal question. What would you tell someone who says I have a right not to wear a mask in public?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "What we have said to people is there's clear scientific evidence now by all the droplet experiments that happened and that others have done to show that a mask does prevent droplets from reaching others. And out of respect for each other, as Americans that care for each other, we need to be wearing masks in public when we cannot social distance. It's really critically important. We have the scientific evidence of how important mask wearing is to prevent those right droplets from reaching others."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Do you wish -- I understand it's a special case -- he's a -- everybody around him has been tested and obviously he is on television but both from a safety point of view and from a public messaging point of view, do you wish the president wore a mask in public?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "Well, the president did wear a mask while he was less than six feet in an occasion where that was important over -- I think when he was traveling last week. I think he -- I'm not with him every day and every moment so I don't know if he can maintain social distance. I've asked everybody independently to really make sure that you're wearing a mask if you can't maintain the six feet. I'm assuming that in a majority of cases he's able to maintain that six feet distance."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Finally, there were some promising reports this week about we might get a vaccine sooner than we expected. Here's the president on that this week."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We're looking to -- when I say quickly, we're looking to get it by the end of the year if we can. Maybe before. We are doing tremendously well."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "A month ago, you and Dr. Fauci were both talking about it taking 12 to 18 months to get a mask -- to get a vaccine. Now you're talking about possibly by the end of the year, which would cut that timeline in half. I understand everybody wants it. How likely is it that we are going to see a vaccine readily available by the end of this year?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "I think what would make it potentially possible is what the president has asked everyone to do in this public-private partnership with funding directly to make vaccine at risk, and what do I mean by that? That means making vaccine before we know its full safety and its full effect and what we call its efficacy profile. To make vaccines starting now as quickly as possible so when there is that efficacy and safety signal -- so we're not shortcutting the efficacy and safety testing, what we are shortcutting is the normal development time of manufacturing. And so really starting manufacturing what would be six months early, seven months early, that's how you could potentially shorten this by four to six or even eight months. And so that's what's happening now, it's taking the most promising candidates and getting them into manufacturing, ensuring that you can scale and produce these vaccines at the level that is needed for Americans."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, we all hope that happens, you can be sure. Dr. Birx, thank you. Thanks for your time this holiday weekend. Please come back. Up next, all 50 states are now in some form of reopening, but life remains far from normal across the U.S. We'll check on how things are going in Arkansas with Governor Asa Hutchinson. That's next."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "This week, Arkansas saw its biggest single day increase in coronavirus cases. The news comes as the state expands the type of activities allowed to soon include overnight summer camps and kids sports. Joining us now from Little Rock, Governor Asa Hutchinson. Governor, you met with President Trump at the White House this week and you said to him, in Arkansas, we're back to work. Now, I want to put up some examples of that. You never issued a stay-at- home order in your state, and now, you've officially reopened all your stores, restaurants, movie theaters and gyms, although at reduced capacity. Governor, what's your thinking about all that?"
+    },
+    {
+      "speaker": "GOV. ASA HUTCHINSON (R), ARKANSAS",
+      "utterance": "Well, my thinking is that we have to manage the risk. We take the virus very seriously. It's a risk, it causes death. But you can't cloister yourself in a home. That is just contrary to the American spirit. And we have to discipline ourselves. We have to manage the risk. I make the comparison with -- you know, you can be in an automobile and it's very risky, but you manage the risk by wearing a seat belt. At first, everyone resisted wearing a seat belt and said, well, that's a matter of freedom. Well, it is, but it's also a matter of safety. And so, we are managing the risk in Arkansas. We are expanding our economy. But right now, we have less than 100 -- we have less than 100 hospitalizations. Our death rate is low compared to the rest of the country. It doesn't diminish the seriousness in which we take it, but we have to manage the risk, grow our economy. We have to come back and not just in Arkansas, but nationally, because this virus is deadly, but it's going to be with us a while. We have to manage that risk."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to talk about managing the risk, because you have not followed the White House guidelines which called for a steady decline for two weeks in the number of new cases in the state before they could go to each new phase, phase one, phase two. I want to put up two charts. This is the number of new COVID cases in Arkansas each day since March 1st and instead of a steady downward trend, folks looking at the graphic, you can see it's going up and down like the stock market, and you had your highest, that big spike on the right there, you had your highest single day of cases just this past Thursday. And I want to show another chart which shows the number of cases since a week ago Friday from 181 cases last Sunday to 54 cases last Monday, and then as we say, up to 455 cases on Thursday. Which raises the question, do you really have the virus under control in Arkansas?"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "Well, if you look at those graphs that you see, it's really hard to see any period of time where you've got two spikes and one spike was about 30 days ago and then you had a decline in the cases, and that's when we reopen. It is important to note that there's two criteria for phase one. One is the 14-day decline in the number of cases. The other one is a decline in a positivity rate. If you look at our positivity rates, 10 percent is the national standard you try to get to. We've expanded testing in Arkansas, but even with that, our positivity rate has been running lower than 5 percent of all of our tests. And so, you manage the risk by increasing the testing. You look at it as to whether the fact that we've lifted restrictions is one of the reasons for the increased number of cases and our answer is, we don't see a connection there. And we see it because we are testing more and we're following and tracing where those are coming from and they're not coming from the fact that we've lifted some of the restrictions. For example, many of them come from the food supply industry, which is an essential service, nobody (ph) closes down anyway, and we can't. And so, you've got to manage the risk and we did, we believe comfortable in terms of meeting the criteria to go to phase one."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let's talk about it, because obviously for you and for governors across the country, it's a balance. You said just yesterday at a press briefing that Arkansas is experiencing a second peak in new cases and you talked, for instance, about a swim party in north Arkansas where a bunch of kids were together and there was a spread of the virus. So, is there any thought about imposing new restrictions? Is it steady as she goes? I mean, how do you -- when you've got a new peak, do you respond to that in any way?"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "Certainly you do, absolutely. It is a concern to us and part of it is transparency with the American public, with the Arkansas public and saying, we've got an increase in cases here. You know, what of the reasons for it? You know, what actions should we take in response to that? And to me, it's a matter of self-discipline and that's why I talked about the swim party and the fact that you can pass the virus at a swim party. I don't think we're going to say you can't invite anybody over to a pool in the backyard of your home. I think you have to exercise discipline and make sure you have the right constraints in place. And so, it's education. And you look at the reason for the spike and again, it's because we have greater testing. The fact that we're able to trace it, we want to build out infrastructure allows us -- we got to think about next fall. Where are we going to be? We're not going to be cloistered in our home. That's contrary to the American spirit. We've got to manage the risk next fall by the infrastructure that we're building now."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "One final question. The unemployment rate in April for your state was 10 percent, big, sharp increase. How hard hit has your state been both in terms of jobs, in terms of state revenues, the state budget? And how long do you think it's going to take you, Governor, to dig out?"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "Well, you can't minimize the harm and the hurt to those individual employees or small businesses that lost their jobs and their income. We have over 100,000 employed, a 10.2 percent unemployment rate, which is 4 percent lower than the national average. And so, our economy is stronger than and will rebound more quickly because it was not all shut down and people are going back to work. Our state revenues, we predicted a 10 percent decline in April in our sales tax. It was 5 percent. And so, we're beating those numbers, optimistic about coming back. It's just going to take some time."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Governor Hutchinson, thank you. Thanks for talking with us this week -- weekend and we wish you and the residents of your state of Arkansas the very best, sir. Up next, nursing homes nationwide have been especially vulnerable to the coronavirus. We'll ask the head of the largest association of long-term care providers how to keep the most vulnerable Americans safe."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Coming up, nursing homes hit hard by the coronavirus with outbreaks across the country."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We know that we have to protect some people, much more so. I think a lot of the governors have done a very, very poor job on nursing homes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll ask a key voice representing the homes, what's needed to keep residents safe."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Nursing homes have borne the brunt of the coronavirus pandemic in this country and some of the saddest scenes have been of seniors passing away with their families unable to be alongside them. Joining us now, Mark Parkinson, the head of the nation's largest associations of nursing homes and long-term care facilities. Mr. Parkinson, a \"New York Times\" study found that one-third, more than a third, of all the deaths in this country from COVID-19 have been in nursing homes and long-term care facilities. Obviously, the elderly are an especially vulnerable population. Incidentally, this wasn't just patients, this was also some of the workers at that nursing homes. But why, beyond that vulnerability, why do you think such a high percentage of all the deaths have been in these facilities?"
+    },
+    {
+      "speaker": "PARKINSON",
+      "utterance": "Well, Chris, you're right, this has been a horrible tragedy. And for those of us that take care of older people our entire life, it's been the most unspeakable. What we've learned from looking around the world is that any place where people live closely together, whether it's confidence or dormitories or cruise ships or nursing homes, they're particularly vulnerable. And it's because of one very unique feature to this virus, and that is that this virus, unlike any other that we fought before, a person can catch it, show no symptoms and yet still spread it. So in January, February and March, when we didn't know that, we have visitors coming into our buildings, we had staff members in our buildings closely interacting with residents, as they need to, to take care of them, and we were unwittingly spreading the virus within the communities. Once the academic community and doctors figured out that you could be asymptomatic and carry it, it was too late for a lot of people. And, unfortunately, even then we didn't have the test to figure out who had it. The good news that I can give this morning is that we're now in recovery, though, Chris. I just want to point out that -- that the Trump administration, just on Friday, allocated $5 billion. Secretary Azar, Deputy Secretary Hargen --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "PARKINSON",
+      "utterance": "That's going to allow us to recover and really make this better."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to point out another issue, however. The Government Accountability Office issued a report this week, and I want to put the numbers up on the screen. If found that 82 percent of nursing homes, over 13,000, have been cited for infection control issues from 2013 to 2017."
+    },
+    {
+      "speaker": "PARKINSON",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So -- so the question, Mr. Parkinson, didn't your facilities have a problem in this particular area long before the pandemic hit?"
+    },
+    {
+      "speaker": "PARKINSON",
+      "utterance": "Well, we have a real flawed survey system. And one of the flaws of the survey system is that surveyors are encouraged to give deficiencies. And what that does is it creates the impression that even very good buildings are not good. It makes it hard for consumers to figure out what buildings are good and which aren't when everybody gets deficiencies. That same GAO report reported that 99 percent of those deficiencies were not severe. They did not affect patient safety. And many of them were just paperwork issues. The reality is that the coronavirus violates all of the normal concepts of infection control because normal infection control is symptom related. Now that we know that, we are adjusting our behavior, and that is why we're starting to see recovery and people actually getting better. Visitors are no longer allowed to come into building. Every interaction patients and staff now have masks on. Patients, residents are not eating together in the same room, they're eating privately in our own rooms so that now that we understand the very vicious nature of this virus, we're able to control it much better."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Nursing homes in New York and New Jersey have been especially hard-hit by the pandemic, as well as the entire state. And in late March, Governor Cuomo issued an order that nursing homes must accept Covid-19 patients to try to alleviate and prevent overcrowding at hospitals. Here's how the governor described it and explained it this week."
+    },
+    {
+      "speaker": "GOV. ANDREW CUOMO (D-NY)",
+      "utterance": "The CDC guidance said a nursing home cannot discriminate against the Covid patient because, at that time, the issue was hospital capacity, right? Remember hospital capacity? And we were dramatically increasing hospital capacity."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Did Governor Cuomo have to follow that CDC guidance, or did he have a choice? And what about other governors and how they handle the CDC guidance around the country?"
+    },
+    {
+      "speaker": "PARKINSON",
+      "utterance": "Well, look, I -- I've been a governor in the time of a crisis, so I understand that sometimes you have to make decisions based on incomplete information. And the time that Governor Cuomo made that decision, he was being told by the epidemiologists that his hospitals were going to be overrun with Covid patients. In hindsight, we now know that that was not the case. There was actually the capacity there. They didn't need to be discharged to nursing homes. In hindsight, it was an error. And to Governor Cuomo's credit, he has now reversed that policy. Fortunately, we were able to convince most of the other governors across the country to not institute that policy. And I think that's part of the reason that we're starting to see recovery."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But, in fact, he did have a choice. He didn't have to follow the CDC guidance anyway."
+    },
+    {
+      "speaker": "PARKINSON",
+      "utterance": "Yes, I mean, in hindsight, you know, our suggestion to him at the time was that he don't -- didn't do that. I think in hindsight he would say that it was an error. It was an error again based upon incomplete and inaccurate information. The country was too concerned with hospitals being overrun and there were consequences to that. One of the consequences is that nursing homes were left out. Our residents were not a high priority for testing. We weren't given the equipment that we needed. You know, there needs to be some accountability for all of these people that were making these fantastic estimates that the entire hospital system across the country was going to be overrun. It wasn't, and there are consequences. And, unfortunately, nursing home residents were one of the consequences."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I -- I want to pick up on the first point you made, which is that we didn't know at the very beginning a lot of the particularly terrifying and dangerous aspects of the coronavirus. And one of them is that people could be asymptomatic and -- and go into a hospital without any sign their ill and then still spread the virus to these very sick people. The result, as you've locked down, is we've seen these terrible scenes where, for their own good, residents are kept away from their families at some of them get very sick, some of them pass away and their families can't be with them when that happens. What are your thoughts about reopening nursing homes, letting families be with the residents, and under what structures, under what restriction so that the families can be together but you're not endangering the lives of - - of all the patients inside these facilities?"
+    },
+    {
+      "speaker": "PARKINSON",
+      "utterance": "Right. Yes, we -- we realize how hard it's been for family members and for residents to not be able to be together. And, you know, we've tried to offer FaceTime and all sorts of other alternatives, but there's just no alternative to being together. And then the tragic scenes of people dying without their loved ones, it's just -- it's -- it's horrible. The most important thing is that we need to keep Covid down in the communities that the nursing homes are in. If you're in a nursing home that's in a community that has very little Covid, there's not that huge risk of it getting into the buildings. If we spiked back up in Covid cases though, we're going to end up with more Covid in nursing homes. So issue one is, let's keep Covid down in the communities. Issue two is, let's get adequate testing so that we can get a test for every staff member, every resident. And then, ideally, if we could get on-site testing throughout the summer so that when people come and they get a test, we know that they're Covid-free, that would be the ideal. But we do recognize it's extremely important to get these folks back with their families."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Mr. Parkinson, thank you. Thanks for taking time out to talk with us this weekend. And good luck in your efforts to reopen these nursing homes, sir."
+    },
+    {
+      "speaker": "PARKINSON",
+      "utterance": "Thank you very much."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Up next, we'll bring in our Sunday group to discuss Joe Biden's surprising comments about who's black and who isn't."
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "utterance": "If you have a problem figuring out whether you're for me or Trump, then you ain't black. I've never, ever, ever take the African-American community for granted. I shouldn't have been such a wise guy."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Joe Biden's controversial comments about the black vote this Friday morning, and then later that day walking those comments back. And it's time now for our Sunday group. Senator Mitch McConnell former chief of staff, Josh Holmes, former Democratic Party Chair Donna Brazile, and Jonah Goldberg, editor of \"The Dispatch.\" Jonah, I think it's fair to say that some of the reaction, some of the outrage coming from various people about Biden's remarks is largely for show by people who have said even more offensive things about African- Americans during their political careers. But would you agree that the -- the Biden remark was pretty dumb? JONAH GOLDBERG, EDITOR-IN-CHIEF, \"THE DISPATCH\" AND FOX NEWS CONTRIBUTOR: Yes. No, it was -- it's -- it was precisely the kind of thing that a lot of Democrats are worried about Biden doing again and again on the campaign trail. Regardless of the context of, you know, identity politics and blacks and the Democratic Party, just his sort of -- almost his insecurity to have to take everything to 11 and go just a bit further than the facts or -- or rationality sometimes allow makes a lot of people very -- very nervous about Biden. And then the specifics of it is just -- it's -- it's -- it's perfect fodder for the people who want to heighten the tensions on the Democratic Party in all sorts of ways. And we're going to see more of this over the summer."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Donna, I know, as a lifelong and committed Democrat, that you are going to rush to Joe Biden's defense. But two questions. First of all, just on the merits itself, wasn't it -- wasn't the remark offensive? And from a political point of view, doesn't it play right into an argument the president and a lot of Republicans are making that -- that it seems to show Democrats take black votes, black support, for granted?"
+    },
+    {
+      "speaker": "DONNA BRAZILE, FORMER DNC CHAIR AND FOX NEWS CONTRIBUTOR",
+      "utterance": "Well, you know, Chris, before I became a Democrat, I was an American and I was born black in the segregated south. So I understand being black from the ground up. But here's what I do believe. I believe that Joe Biden was incorrect in -- in saying the statement you ain't black. But I also believe that his apology was sufficient. Here we live in a -- in a country where thousands of people have died. And a disproportionate number of them are people of color, African-Americans, communities of color. And so I would rather spend more time talking about the -- the -- the disparities that we have seen that have been amplified during this pandemic then speaking about Joe Biden and his record of blackness. This is not just an issue of race, this is an issue of survival right now. And I hope that Joe Biden has learned his lesson, his advisors have also learned their lesson, that you just not -- you cannot be cavalier in talking about these issues. Stay -- stick to the facts. That's what the radio hosts want him to do. Talk about the issues because the issues mattered now more than ever."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Josh, Donald Trump at 8 percent -- 8 percent of the vote -- the African-American vote running against Hillary Clinton in 2016. Now, he's making a bigger push for that this time, talking about his support for historically black colleges, about the very low, until we got the virus, very low unemployment rate among minorities, including blacks. Does he really expect to get a significantly bigger portion of the African- American vote, or is this more a place to try to show moderate suburban voters, Republican voters perhaps, that he's not racially divisive?"
+    },
+    {
+      "speaker": "JOSH HOLMES, FORMER CHIEF OF STAFF TO MITCH MCCONNELL AND PRESIDENT AND FOUNDING PARTNER OF CAVALRY",
+      "utterance": "No, I mean, look, the president's campaign has made this a central issue for many months. If you talk to Jared Kushner and others within the White House, they'll -- they'll say that this has been a top priority for a long time to try to court more African-American voters. Look, I think this whole episode, as Joe Biden often does, he just perfectly articulated the Trump campaign's central thesis for earning the black vote, which is Democrats have taken the vote for granted. Rather than going out and trying to earn the votes of black Americans, they've basically assumed it. And I think they would say that, conversely, the Trump campaign, once they get -- once the president was given the opportunity, he passed things like, you know, criminal justice reform, which is a long-standing priority of the black community, something that the Democrats have had an opportunity to do for a long time it haven't. You mentioned the -- the economic component. Again, I think what the Trump campaign would say is that those historically high employment numbers that we've had up until February, now compromised by Covid-19, are something he's uniquely able to do. He's uniquely able to bring jobs back to minority communities. And I think they've -- they believe it's a very, very strong argument."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to turn to something else now, and that's the new White House press secretary, Kayleigh McEnany. She held a briefing on Friday. And this is right after President Trump said he would override governors if they didn't open houses of worship right away. A number of reporters asked, on what basis, under what authority the president could override governors and make them open houses of worship, and that led to this exchange. Take a look."
+    },
+    {
+      "speaker": "KAYLEIGH MCENANY, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "The guidelines."
+    },
+    {
+      "speaker": "QUESTION",
+      "utterance": "What's the specific provision of federal law that allows the president to override a governor's decision?"
+    },
+    {
+      "speaker": "MCENANY",
+      "utterance": "The president will strongly encourage every government to allow their churches to reopen. And, buy, it's interesting to be in a room that desperately wants to seem to see these churches and houses of worship stay closed."
+    },
+    {
+      "speaker": "QUESTION",
+      "utterance": "No, but the president said that he has a --"
+    },
+    {
+      "speaker": "MCENANY",
+      "utterance": "Yes, (INAUDIBLE)."
+    },
+    {
+      "speaker": "QUESTION",
+      "utterance": "Kayleigh, I object to that. I mean, I go to church. I'm dying to go back to church."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Donna, I spent six years in the White House Briefing Room covering Ronald Reagan. I have to say, I never -- and in the years since, too, I never saw a White House press secretary act like that."
+    },
+    {
+      "speaker": "BRAZILE",
+      "utterance": "You know, I -- I know Kayleigh and I -- I think she's an extraordinary person. But this combative -- this -- this -- this posture that she has taken into the job I don't think is the right posture. I would hope that she could tone it down a little bit. And we all believe that as not just journalists but as individuals, we should be respected, regardless of where we -- where we sit. And I -- I just thought that that was inappropriate the way she went back, assuming that many of the people sitting in that room did not care about houses of worship. We want to all return back to normal, whatever that means anymore, but we want to do so in a safe way, in a way that don't harm ourselves and -- and those around us."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And then, McEnany, who has been in the White House for a few weeks, started lecturing reporters, telling reporters, who have been covering politics for many years, what questions they should be asking, in this case about Michael Flynn. Take a look at this."
+    },
+    {
+      "speaker": "KAYLEIGH MCENANY, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "If I write them out in a slide format, maybe we're visual learners and you guys will follow up with journalistic curiosities. Why was Lieutenant General Michael Flynn unmasked? Not by the intel community entirely, but by Obama's chief of staff, by the former vice president, Joe Biden, by Susan Rice, by the Treasury secretary. I mean this is extraordinary."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Jonah, first of all, it's not extraordinary. Unmasking is pretty routine, the effort by people in an administration to find out who a masked American person is. It -- it happens in the -- in the Trump White House. It happened, I think, 16,000 times the year before last. What's -- what's a crime is leaking it. But unmasking isn't. In addition to which, I have to say that if Kayleigh McEnany had told Sam Donaldson and me what questions we should ask, that would not have gone well, Jonah."
+    },
+    {
+      "speaker": "GOLDBERG",
+      "utterance": "Yes, look, I'm -- it's nice to see Donna so deferential to Kayleigh McEnany. I think her behavior is indefensible and grotesque. And I think that what she has done is she has -- you know, the sixth -- there's this cliche in Washington that President Trump wants Roy Cohn as DOJ, as the -- at the head -- as the attorney general. What Donald Trump wants in a press secretary is a Twitter troll who goes on attack, doesn't actually care about doing the job they have and instead wants to impress the -- really an audience of one, and make another part of official Washington another one of these essentially cable news and Twitter gladiatorial arenas. And it's -- it's a sign of the defining of deviancy down in our politics and it's only going to make things worse."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Jonah -- Josh, rather. In the time we've got left, you know, the White House press secretary is always a accompanied job. They work for the White House but they're paid by taxpayers. They are public officials. And Kayleigh McEnany isn't acting like she is working for the public. She acts like she is what she used to be, which is a spokesperson for the Trump campaign."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Yes, look, Chris, I just disagree. I think Kayleigh's doing a nice job. And what's missing from this conversation that we've had this morning is the context by which she is making these statements. I think the -- any spokesperson in the Trump world, whether it's in the White House or the campaign, find themselves under constant attack by the press. The confrontation nature by which journals approach the questioning is not really to obtain much information so much as to try to back them into the corner. And I think Kayleigh said, I'm not going to play that game. And so, yes, it is completely different than what we've seen from years and years of briefings from press secretaries but I think it's reflective of the nature that we find ourselves in in."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let me just say, Sam Donaldson and me in the Reagan White House, we were pretty tough on the White House press secretaries and we never had our religious beliefs questioned or were lectured on what we should ask. Thank you, panel. See you next Sunday. Up next, our \"Power Player\" on this Memorial Day weekend. A man who's made it his life's work to honor veterans with 24 musical notes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Arlington National Cemetery is closed to visitors now, but soldiers from the Army's old guard continue their mission, honoring veterans who have passed away. And they've adapted, wearing face coverings during the ceremonies. Ensuring all veterans receive a proper tribute is also the mission of this week's \"Power Player.\" We first met him 11 years ago. And it's become a Memorial Day tradition around here to share his story. Once again, he's our \"Power Player of the Week.\""
+    },
+    {
+      "speaker": "TOM DAY, FOUNDER, BUGLES ACROSS AMERICA",
+      "utterance": "When you're playing it, it's only 24 notes, but it's so meaningful to that family."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Tom Day is talking about playing \"Taps\" at the funerals of military veterans, and he should know. He's the founder and president of an organization called Bugles Across America."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "(on camera): All told, how many funerals have you done since you started Bugles Across America?"
+    },
+    {
+      "speaker": "DAY",
+      "utterance": "At 200,000."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Really?"
+    },
+    {
+      "speaker": "DAY",
+      "utterance": "In ten years. Right."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "It started back in 2000, when Congress gave every vet the right to a funeral with military honors, including two uniformed officers to present a flag and play \"Taps.\" The problem was, the military only had 500 bugler's, so they sent someone to play a recorded \"Taps\" on a boom box or an electronic device inside a bugle. Tom Day, who played in the Marines in the '50s, didn't like it."
+    },
+    {
+      "speaker": "DAY",
+      "utterance": "I call it stolen dignity that these veterans can't get live \"Taps\" when we are out there ready to perform live \"Taps.\""
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So he started his organization, recruiting 400 horn players within a year."
+    },
+    {
+      "speaker": "DAY",
+      "utterance": "Now we have 6,270 horn players. And we're doing 2,200 funerals a month."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "It's become quite an operation that Day runs out of his basement near Chicago. Families can go on his website to ask for a bugler. A message is sent to every horn player within 100 miles of the funeral. Day gives away bugles and helps with uniforms. While he gets support from foundations, he runs a deficit every year."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "How do you make up for the shortfall?"
+    },
+    {
+      "speaker": "DAY",
+      "utterance": "I kind of make it up myself."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "$15,000, $20,000 a year?"
+    },
+    {
+      "speaker": "DAY",
+      "utterance": "Probably ten. You finish, you know, the last of the 24 notes, you put the horn down and the flag has been presented, then the family comes over. The kisses, the handshakes from these families, there is nothing -- no amount of money could ever buy the feeling that I get from the family once I've finished the 24 notes."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "With soldiers killed in Iraq and Afghanistan, plus some 400 veterans of World War II dying every day, there is a flood of military funerals. Day says he wants to keep going until he dies, then leave his organization in solid shape to carry on."
+    },
+    {
+      "speaker": "DAY",
+      "utterance": "I want every family to have live \"Taps\" at that going away presentation of their veteran. And it kind of tells the Marines who are guarding the gates in heaven, live \"Taps,\" we're going to let this veteran right in."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And 11 years later, Day is still at it. And now, countdown to the countdown. As you may have heard, I've written a new book. It's called \"Countdown 1945: The Extraordinary Story of the Atomic Bomb and the 116 Days that Changed the World.\" On this Memorial Day weekend, it's an especially relevant story, how a new, untested president decides to drop the bomb on Hiroshima an end the Second World War. Here's a taste of what was happening during the spring 75 years ago."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "On April 12, 1945, shock and heartbreak as Americans learned President Franklin Roosevelt is dead."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Harry S. Truman took the momentous oath of office."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "That same day the new president, Harry Truman, learns the first sketchy details of the top secret Manhattan project. The U.S. is developing an atom bomb. On May 8th, Truman's 61st birthday, he announces Germany has surrendered, setting off victory in Europe celebrations."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Understand where the Nazi furor used to ran (ph), it's dynamite for the swastika."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Yet the war against Japan rages on in the Pacific. Robert Oppenheimer, scientific director of the Manhattan Project, meets with other top officials to discuss the first use of the new super weapon. The list of potential targets narrows to five cities in Japan, including Hiroshima."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Atomic bomb number two on Hiroshima."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Please visit foxnews.com/fns for more on the book and a Fox News documentary. And that's it for today. We hope you'll take a moment this Memorial Day to reflect on the sacrifice of all the men and women who died defending our freedom. And we'll see you next \"Fox News Sunday.\" Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of Fox News Network, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

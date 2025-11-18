@@ -1,0 +1,1777 @@
+{
+  "date": "January 14, 2020",
+  "headline": "House Intel Committee releases Lev Parnas documents ahead of impeachment trial in Senate",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/house-intel-committee-releases-lev-parnas-documents-ahead-of-impeachment-trial-in-senate",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "EMILY COMPAGNO, FOX NEWS CHANNEL HOST",
+      "sentences": "It is awesome.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JESSE WATTERS, FOX NEWS CHANNEL HOST",
+      "sentences": "What do they call fries in Great Britain? What do they call it? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMPAGNO",
+      "sentences": "Chips. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GREG GUTFELD, FOX NEWS CHANNEL HOST",
+      "sentences": "Chips. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DANA PERINO, FOX NEWS CHANNEL HOST",
+      "sentences": "Chips.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Would you like some chips with that? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "No. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Chips -- brilliant, brilliant. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "That was my British accent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMPAGNO",
+      "sentences": "It's like coming to America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "All right, set your DVRs. Never miss an episode of THE FIVE. I'll see you on \"TUCKER\" later on. But \"SPECIAL REPORT\" is up next. Hey, Bret. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS CHANNEL ANCHOR",
+      "sentences": "Hey, Dana. Thanks. Good evening, welcome to Washington. I'm Bret Baier. We're following several breaking stories tonight. Democrat staged their final presidential debate before the Iowa caucuses in about three hours, as two of the biggest progressives in the race ramp up attacks on each other. European allies put new pressure on Iran as new video appears to show not one, but two Iranian missiles striking that doom Ukrainian passenger jet. And the House plans to vote tomorrow to send articles of impeachment against President Trump to the Senate. We have \"FOX TEAM COVERAGE\", Rich Edson at the State Department with the triggering of what is called the dispute mechanism in the Iran deal. Peter Doocy in Des Moines, with some Democratic candidates taking off the gloves against each other. And John Roberts at the White House with how the president's team is getting ready for the Senate impeachment trial. But we begin with chief congressional correspondent Mike Emanuel on Capitol Hill with where things stand at this hour. Good evening, Mike. Bret, good evening. Late today, House committee chairs announced they've obtained new evidence from Rudy Giuliani associated left partners, including a handwritten memo where partners allegedly rights, get Zelensky to announce that the Biden case will be investigated. New information that will be transmitted to the Senate along with those articles of impeachment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Political warfare is underway over the upcoming senate impeachment trial, even though Speaker Nancy Pelosi has not transmitted the articles. The Senate majority leader, says they'll address the demand coming from Democrats eventually. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL (R-KY)",
+      "sentences": "We'll be dealing with the witness issue at the appropriate time and to the trial. And I think it's certainly appropriate to point out that both sides would want to call witnesses that they wanted to hear from. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Democrats are trying to pressure moderate Republicans to get on board with calling witnesses.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER (D-NY)",
+      "sentences": "The Senate must conduct a fair trial. A fair trial has witnessed. A fair trial seeks the truth. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Some have signaled a willingness to consider it, but not upfront.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. LAMAR ALEXANDER (R-TN)",
+      "sentences": "I want to make sure I have a chance to vote on whether we need additional witnesses or additional documents, and I'll decide whether we do after I hear the case, and asked my questions. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Pelosi, says tomorrow is a critical step, \"The House will now proceed with a vote on transmitting the articles of impeachment and naming impeachment managers.\" Those managers are the House lawmakers who will prosecute the case against the president. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. JUDY CHU (D-CA)",
+      "sentences": "Obviously, people like Adam Schiff and Jerry Nadler are very great candidates because they've done such a magnificent job on the -- on the hearings itself. But I do hope for a diversity of people --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "After arguing impeaching President Trump was an emergency, Pelosi held on to the articles for nearly four weeks. Leading House Republicans blasted the Speaker for wasting time. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. KEVIN MCCARTHY (R-CA)",
+      "sentences": "I know within her own leadership there were questions about why she held it. No one questions about what she gained, was nothing. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "The timeline is the trials expected to start next Tuesday, with the opening argument from House managers laying out their case. Then, the White House defense team has its opportunity. Then, questions from senators in writing will be taken up. After several weeks, the case will reach a critical phase.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. TED CRUZ (R-TX)",
+      "sentences": "The debates will happen about whether or not to dismiss the case or to -- or to vote to final verdict. Then, or whether to take up witnesses. And I expect a contentious debate and decision. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Senator Cruz and others predict, if the Senate votes to hear from witnesses, the trial could go six weeks. That would be well beyond President Trump State of the Union, and some of the early voting states for senators running for president. Bret. BAIER: Mike Emanuel live on the Hill. Mike, thank you. President Trump has been quiet today, so far. That silence will be shattered in about two hours when he speaks at what will likely be another boisterous campaign event, this time, in Wisconsin. Chief White House correspondent John Roberts tells us tonight impeachment, though, is on everyone's mind at the White House. Good evening, John. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN ROBERTS, FOX NEWS CHIEF WHITE HOUSE CORRESPONDENT",
+      "sentences": "Well, certainly is. No question about that. A little bit of an unusual day today, the president has held his fire so far on impeachment. No tweets since just after midnight this morning. No public statements, but as you pointed out, Bret, all of that likely to change in a big way tonight. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "As President Trump heads for a campaign rally in Wisconsin tonight, his defense team is making final preparations to present each case to the Senate. White House Counsel Pat Cipollone will take the lead, aided by two of his deputies Michael Purpura and Patrick Philbin. The president's chief outside counsel Jay Sekulow will also join. And sources tell Fox News, there is still serious discussion about having Harvard law professor Alan Dershowitz, take a role. Dershowitz has been harshly critical of how the Democrats conducted their impeachment inquiry. White House aides again dismissed Democrat's attempt to take down the president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOGAN GIDLEY, WHITE HOUSE PRINCIPAL DEPUTY PRESS SECRETARY",
+      "sentences": "It has nothing to do with the rule of law by any stretch, because the articles they came up with, don't actually cite any crime. It's just to try and smear this president because they know they can't beat him at the ballot box. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "Impeachment will most certainly factor prominently in President Trump's campaign event tonight. South Carolina Senator Lindsey Graham spoke with the president last night and gave some insight into his state of mind. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. LINDSEY GRAHAM (R-SC)",
+      "sentences": "He's frustrated. He didn't think he did anything wrong, but I told him there's a process. You'll come out of this thing politically stronger. I hate the chat to go through it, but I feel very confident he will be acquitted in the end.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "President Trump is now openly promoting the idea of taking a vote to dismiss the case, fearing that proceeding with a trial will just give legitimacy to the Democrat's case. But Texas Senator Ted Cruz, today said, acquittal is better for the president than dismissal and that the trial should play out to what Cruz is certain will be a not guilty verdict.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CRUZ",
+      "sentences": "Dismissal throws the case out without reaching a verdict. We're going to reach a verdict, and the verdict is going to be acquittal that is a much better outcome for the president to be acquitted of these charges than simply a dismissal. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "At the New Year's Eve party and Mar-a-Lago, Rudy Giuliani insisted, he would like to be a part of the Senate trial. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RUDY GIULIANI, ATTORNEY TO PRESIDENT DONALD TRUMP",
+      "sentences": "I would testify, I would do demonstrations. I give lectures, I give summations. Or, I do what I do best, I try the case. I'd love to try the case.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "While Giuliani is not expected to join the president's team, it's likely he will be a frequent face commenting on impeachment. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "If the articles are handed over to the Senate in the next couple of days, it's possible that the trial will be getting underway just as the president touches down in Davos, Switzerland, where he is scheduled to give a speech at the World Economic Forum at 11:30 on Tuesday morning. So far, the White House says there was no discussion of him canceling his Davos trip and, in fact, some aids are lobbying for him to go. Saying, it would send a signal that he is overseas doing the work of the nation while Democrats are trying to take him out. Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "John Roberts, live in the North Lawn. John, thank you. Treasury Secretary Steve Mnuchin, be on the show tomorrow from the White House. In tonight's \"DEMOCRACY 2020\" report, it is debate night for Democratic presidential contenders. Six of the 12 remaining candidates will be on stage tonight in Des Moines. But two of them are already debating. Correspondent Peter Doocy has the, he said she said, from Iowa. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS GENERAL ASSIGNMENT REPORTER",
+      "sentences": "Candidates know there's not much time left to make their cases before the caucuses. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "sentences": "People are beginning to make up their minds now and this is a critical moment. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "But a private moment in 2018 may change the dynamic. Bernie Sanders and Elizabeth Warren dined together. And Warren remembers, \"Among the topics that came up was what would happen if Democrats nominated a female candidate. I thought a woman could win; he disagreed.\" Sanders says that's ludicrous. Adding, \"It's sad that, three weeks before the Iowa caucus and a year after that private conversation, staff who weren't in the room are lying about what happened.\" In June, Sanders sized up his longtime friend's campaign.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS CUOMO, ANCHOR, CNN",
+      "sentences": "What do you think the reason is that Elizabeth Warren is catching up to you in polls?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS (I-VT), PRESIDENTIAL CANDIDATE",
+      "sentences": "I think that there are certain number of people that would like to see a woman elected and I understand that. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Kamala Harris seems to be siding with Warren.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS (D-CA)",
+      "sentences": "All the women can be president. Of that I'm sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Pete Buttigieg is hoping an openly gay candidate can capture the nomination. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAYOR PETE BUTTIGIEG (D), PRESIDENTIAL CANDIDATE",
+      "sentences": "Thank you. When this whole campaign had begun as a -- as an exploratory committee, nobody could say my name. Didn't have any personal wealth or a giant e-mail list, just the belief that America would respond, that Iowa would respond, and you have -- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Cory Booker called it quits this week, but insists he'll stay busy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CORY BOOKER (D-NJ)",
+      "sentences": "I am going to take a breather. I'm going to focus on the impeachment trials. And I have a reelection campaign, I've got to get started on securing another six years in the Senate. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Those impeachment trials will keep the remaining four senators running for president in D.C. and off the trail. Republicans don't think that's fair.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCARTHY",
+      "sentences": "The only rightful thing of Joe Biden is to make a pledge not to campaign. But Bernie Sanders cannot after what the Democratic National Committee had done to his campaign a few short years ago. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "But there is no sign, Biden will take a breather before the caucuses. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "This is a real tossup. And the last -- the last couple of weeks here is makes a gigantic difference. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Michael Bloomberg is not here, but Democrats watching at home may see as much of him as some of the candidates on stage. Because he started running today a brand new ad about the debates, where he explains he's not ever going to try to go to a democratic debate unless the rules are changed and he can qualify without having to ask for donations. Bret. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Peter Doocy, live in Des Moines. Peter, thanks. Complete coverage after the debate on Fox at 11:00 p.m. There is new video tonight showing what appears to be two missiles hitting the Ukrainian airliner shot down in Iran last week. The regime has admitted bringing down the plane by mistake. Meanwhile, officials in Britain, France, and Germany, say they want to resolve differences with Iran over its nuclear deal through diplomacy. Great Britain's leader says he has an idea to step up the pressure. State Department correspondent Rich Edson has details.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICH EDSON, FOX NEWS WASHINGTON CORRESPONDENT",
+      "sentences": "If the Iran nuclear agreement collapses, British Prime Minister Boris Johnson has a solution.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BORIS JOHNSON, PRIME MINISTER OF THE UNITED KINGDOM",
+      "sentences": "If we're going to get rid of it, let's replace it. And let's replace it with the Trump deal. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDSON",
+      "sentences": "The Trump administration wants to address Iran's nuclear and ballistic missile programs, and supported militias across the region as part of a new deal. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "The problem with the agreement is that, from the American perspective, it's a flawed agreement, it expires, plus it was negotiated by President Obama.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDSON",
+      "sentences": "And now, the British, French, and Germans have served Iran with an official notice, telling Tehran to comply with the 2015 nuclear agreement. That notice triggers a process that could result in the U.N. Security Council voting to restore the sanctions on Iran it lifted as part of the deal. The move comes in response to Iran announcing it would no longer abide by any limitations laid out in the agreement. After the U.S. airstrike that killed Qassem Soleimani, Iran had already begun violating limits in the Iran nuclear agreement last year. A year after the Trump administration left it, Iran's foreign ministry reportedly warned of a serious and strong response to efforts to levy sanctions. Those said it is ready to answer a constructive effort to save the deal. This has new video has surfaced showing Iran shooting down a Ukrainian passenger plane last week. And what appears to show one missile hitting the plane. And then a second connecting. Iranian authorities announced they've arrested those responsible for the accident, which killed 176, including 57 Canadians.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUSTIN TRUDEAU, PRIME MINISTER OF CANADA",
+      "sentences": "This is something that happens when you have conflict and war. Innocents, they're the brunt of it, and it is a reminder why all of us need to work so hard on de-escalation. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDSON",
+      "sentences": "House Foreign Affairs Committee chairman Eliot -- demanding, Secretary Pompeo and Defense Secretary Mark Esper, provide information on the legal basis for the strike that killed Qassem Soleimani. Engle, says if Pompeo refuses to work with his committee that he is going to perhaps possibly issue a subpoena for the secretary. State Department has no comment. Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Rich Edson live at the State Department. Rich, thanks. Senate Democrats want the government to investigate whether President Trump may have enabled the violation of insider trading laws when he allegedly hinted about the attack on Iran's top general to some guests at his Florida resort. Senators Elizabeth Warren and Chris Van Hollen, Democrats are asking the Securities and Exchange Commission, and one other agency to initiate investigations. They say individuals could have obtained confidential market-moving information and made trades based upon that. The three major stock exchanges hit record highs again today. But dropped after a report said, tariffs on China will likely remain until after the 2020 election. The Dow ended up today, 33. The S&P 500 dropped five. The NASDAQ lost 23. Russian hackers possibly trying to dig up dirt on Joe Biden and his family have penetrated the Ukrainian gas company, featured prominently in the impeachment drama. Correspondent Gillian Turner is here to tell us what that may mean. Good evening, Gillian.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GILLIAN TURNER, FOX NEWS CHANNEL CORRESPONDENT",
+      "sentences": "Good evening, Bret. So, this American cybersecurity firm, it's called Area 1 Security, now claiming Russia's military hacked the Ukrainian gas company that's at the very center of the impeachment inquiry. Attempts on Burisma, whose board once included Hunter Biden, began back in early November. Area 1s reports as the firm discovered the hack in the course of doing ordinary business and were immediately alarmed. Reporting, \"The timing of the campaign in relation to the 2020 US elections raises the specter that this is an early warning of what we have anticipated since that successful cyberattack undertaken during the 2016 U.S. elections.\" Now, the Associated Press reports, the Biden's were also likely targets of this campaign, though, Area 1 CEO, says his company can't support that claim at this time. The Biden campaign responded today, saying, \"Donald Trump tried to coerce Ukraine into lying about Joe Biden and a major partisan international anti- corruption victory because he recognized that he can't be the vice president.\" Democrats have been quick to blame President Trump today. Take a listen. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. BOB MENENDEZ (D-NJ)",
+      "sentences": "It's Russia doing President Trump's dirty work again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOOKER",
+      "sentences": "And Vladimir Putin appears to be added again, manufacturing evidence to interfere in our election in 2020 to help his buddy, Donald Trump, again, be artificially placed in 1600 Pennsylvania Avenue. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURNER",
+      "sentences": "Republicans though, say this hack is just another in a long continuum.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCONNELL",
+      "sentences": "We need to keep our eye on the Russians or anybody else who's trying to mess with our election system. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. RICHARD BURR (R-NC)",
+      "sentences": "I don't think they've ever stopped. This is -- this is their M.O. it has been since the 60s.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURNER",
+      "sentences": "American election officials here at home continue now to ring alarm bells about election interference going into 2020 not just from Russia but also from China, Iran, other state actors. We reached out today Bret, to Burisma, but unsurprisingly, no response yet.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK, Gillian, thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURNER",
+      "sentences": "You bet.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Up next, significant action on two major fronts for the president's immigration policy, we'll explain. First, here's of some of our Fox affiliates around the country are covering tonight. Fox Richmond as the Equal Rights Amendment advances in the Virginia legislature. Today, a Virginia House committee approved a resolution to ratify the gender equality measure. Measure would guarantee equal, legal rise for all American citizens regardless of sex. If it passes, Virginia would be the 38th state to ratify the amendments, surpassing the three-quarters of states needed to add it to the Constitution. A court battle is expected because the 1982 deadline for ratification has long since passed, obviously. Fox 35 in Orlando as the Census Bureau spends tens of millions of dollars on hundreds of digital ads, T.V. commercials, radio spots, billboards, and print ads, in 13 languages. The goal is to make sure every household responds to the 2020 census. Census Bureau officials say they expect the media campaign to reach 99.9 percent of households. And this is a live look at Los Angeles from our affiliate Fox 11 there. The big story there tonight, fuel dumped by an aircraft returning to L.A. International Airport fell onto three schools. Official say, 40 children and adults experienced minor irritation, non- fortunately needed to be taken to a hospital. That's a nice live look \"OUTSIDE THE BELTWAY\", from SPECIAL REPORT. We'll be right back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Senate Majority Leader Mitch McConnell, says the Senate should be able to pass the new North American trade deal this week. Mexico has already ratified the USMCA. Canada has not passed it yet. The agreement does not take effect until all three countries approve it. The U.S. Supreme Court heard arguments today regarding the convictions of two people involved in New Jersey's Bridgegate scandal. It happened in 2013 when aids to Governor Chris Christie created a massive traffic jam, allegedly, to punish a mayor who refused to endorse their boss. Bill Baroni and Bridget Kelly were convicted of fraud and conspiracy. They are challenging those convictions, saying that while their actions were political, they were not fraud. American Airlines says it is taking the Boeing 737 MAX out of its schedule for two more months until early June. That means American will canceled nearly 20,000 flights in the first five-plus months of this year. The plane has been grounded since two crashes killed 346 people. There's major progress to report tonight for President Trump's immigration policy. Significant moves are being made and dealing with immigrants seeking sanctuary and in building president -- the president's border wall. National correspondent William La Jeunesse has our update tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "They want to send us to a country where they're also fleeing violence, It's not fair.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAM LA JEUNESSE, FOX NEWS NATIONAL CORRESPONDENT",
+      "sentences": "With border apprehensions down 70 percent, the administration isn't just forcing asylum seekers to wait in Mexico, but deporting some to Central America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAD WOLF, ACTING SECRETARY, HOMELAND SECURITY",
+      "sentences": "So far, we have returned, I believe, 96 individuals under that plan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "Acting DHS Secretary Chad Wolf, return last week from Central America, where he finalized agreements with officials there to accept asylum seekers including Mexicans. UNIDENTIFIED FEMALE (through translator): It hit us like a bomb. I don't think any Mexicans want to go to Guatemala. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "Asylum seekers, say U.S. law protects them from being deported to unsafe areas. Critics will say that putting women and children in these border cities for months at a time is illegal if not, inhumane.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WOLF",
+      "sentences": "I don't understand that, because it's exactly what we do inside the interior of the U.S. We often have folks travel four or five hours in the U.S. to go to court date -- immigration court dates.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "The administration has also begun flying migrants deep into Mexico to relieve border cities and deter illegal reentry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "In the Fifth Circuit Court of Appeals, we won the big, big, beautiful lawsuit. You can now fund the rest of the world.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "Bolstered by a federal court ruling last week, the administration is reportedly planning to again divert billions from the Pentagon budget to almost double the 450 miles of wall it claims will be finished this year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOOKER",
+      "sentences": "This is another example of Donald Trump trying to fulfill a political promise that has nothing to do with the safety and security of the American people. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "Congress appropriated roughly $700 billion to the Pentagon this year. The administration is considering using more than $7 billion for the wall. It is unclear what programs could be postponed or kill because of it. Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "William La Jeunesse in L.A. William, thanks. Up next, President Trump is heading to Milwaukee for a campaign event. We told you that earlier. Well, tonight, Democrats insist they will not make the same mistake in Wisconsin this year that cost them the election in 2016. We'll bring you there. First, \"BEYOND OUR BORDERS\" tonight, a volcano near the Philippine capital of Manila continues to shake and spew lava into the sky. Tens of thousands of people fleeing villages, darkened and blanketed by heavy ash. Government work has been suspended, schools closed in the number of towns and cities there. Hundreds of flights have been canceled or delayed, affecting thousands of passengers in the Philippines. Severe winter weather has claimed more lives as avalanches triggered by heavy snowfall killed 55 people in Kashmir. Officials say 15 people died in neighboring Afghanistan. The latest fatalities raised the two countries' overall death toll from severe weather to 126 since Sunday. A bus -- a bus plunged into a sinkhole on a city street in northwestern China today. At least, six people were killed there. Officials, say four others are still missing. Some 1,000 emergency workers and 30 vehicles were sent to that site. A crane was called and to lift that bus above the sinkhole, so rescue workers could look for victims. Just some of the other stores \"BEYOND OUR BORDERS\" tonight. We'll be right back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "While a democratic presidential candidates' debate tonight in Iowa, President Trump will have a campaign rally, as we mentioned, in Milwaukee. Wisconsin is once again a major battleground state in this year's election. Democrats who lost both the state and the presidency obviously in 2016 insist they have learned their lesson. Senior correspondent Mike Tobin has the story from Milwaukee.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE TOBIN, FOX NEWS SENIOR CORRESPONDENT",
+      "sentences": "Some Wisconsin farmers cannot say they are better off now than they were four years ago. Since 2016, more than 1,600 farms have shut down.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RYAN GARTMAN, DAIRY FARMER, WISCONSIN",
+      "sentences": "Yes, it's sad to see, you know. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOBIN",
+      "sentences": "Still, dairy farmer Ryan Gartman is one of those supporting Trump. He blames Congress for holding up the trade deals and believes the president is committed to people like him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARTMAN",
+      "sentences": "I think there's this really genuine, and he just really shows that he really cares about all of businesses from top to bottom, you know, large and small.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOBIN",
+      "sentences": "Hillary Clinton failed the campaign in Wisconsin in the 2016 general election, and the 10th electoral votes went to Trump. Evidence that Democrats won't make the same mistake again, their convention will be held in Milwaukee.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. TONY EVERS (D), WISCONSIN",
+      "sentences": "I truly believe that Wisconsin will be the state that elects a new president of the United States. It was key last time, and it's key this time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOBIN",
+      "sentences": "There are few models that show a path to victory without the Badger state. The population centers Milwaukee and Madison are dedicated liberal and unlikely to change. But Trump reached voters in 23 rural Wisconsin counties who had voted for Obama twice, then flipped Republican in 2016.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCOTT WALKER, (R) FORMER WISCONSIN GOVERNOR",
+      "sentences": "People who felt like they were the forgotten men and women of America, particularly here in this state, that mean out state, northern Wisconsin.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, (R) PRESIDENT OF THE UNITED STATES",
+      "sentences": "The future belongs to the people. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOBIN",
+      "sentences": "They are all about to get the experience of voters in other battleground states. The ads, the mailings, and no matter how far they live up a farm road, Wisconsin voters will get knocks on the door.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALKER",
+      "sentences": "What will decide the race in Wisconsin is personal contact, people talking to their neighbors, to their friends.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEN WIKLER, WISCONSIN DEMOCRATIC PARTY CHAIRMAN",
+      "sentences": "Our volunteers right now in every corner of the state are going out, weekend by weekend, having individual, personal conversations with people about the issues that they care about. That is something that wasn't happening this early in 2016.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOBIN",
+      "sentences": "And to set the scene behind me is the Fiserv Forum where Democrats will be holding their convention. A little to your left is Panther Arena where President Trump is holding his rally tonight. A little further to the left you've got a small group of anti-Trump demonstrators. A larger group is expected. And you have a long line of Trump supporters who are streaming into the arena. Wisconsin voters can get used to this much attention, this much action as they are expected to play a pivotal role in the general. Bret, back to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Mike Tobin live in Milwaukee. Mike, thanks. Meantime, a Wisconsin appeals court has put on hold an order to immediate remove up to 209,000 names from the state's voter registration rules. It is considered a political win for Democrats who had fought that move. We will follow that. If you use Windows on your computer, and most of us do, we have important news. Microsoft is issuing a patch to fix a flaw it found out about thanks to the National Security Agency. The NSA notified the company. Some computers will get the update automatically if they have the option turned on. Microsoft says it has not seen any evidence yet hackers have used the technique discovered by the NSA. The Justice Department is pressuring Apple to help it unlock the cellphones of the gunman who killed three people at a Florida Naval base last month. The attorney general saying so far Apple has not come through. Apple disagrees. Here's correspondent David Spunt. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAM BARR, U.S. ATTORNEY GENERAL",
+      "sentences": "Apple has not given any substantive assistance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAVID SPUNT, FOX NEWS CORRESPONDENT",
+      "sentences": "Attorney General Bill Barr calling out the tech giant for not helping investigators unlock two iPhones owned by the man who, in an act of terror, shot and killed three sailors at Naval Air Station Pensacola last month. Authorities say the shooter took a gun and shot one of those iPhones, hoping to destroy evidence. FBI forensics put the phones back together but cannot open them without a password.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARR",
+      "sentences": "It is critical that the public be able to get access to digital evidence.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "DOJ has a court order, and says while Apple has provided Cloud services to the shooter's account, encryption technology blocks direct access to the phone. Apple is firing back, quote, \"We reject the characterization that Apple has not provided substantive assistance in the Pensacola investigation. Our responses to their many requests since the attack have been timely, thorough, and are ongoing.\" In 2015, DOJ and Apple faced off in a similar battle over the San Bernardino shooter. A third-party vendor opened the phone after Apple refused. In response, Apple then upped its encryption security procedures. Apple has a new ad campaign touting its strong protection.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEEZA GARBER, CYBERSECURITY ATTORNEY",
+      "sentences": "Tim Cook himself has said privacy should be considered a human right. Apple is really holding strong to its principles.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "One DOJ official tells FOX it is unclear if Apple can even unlock these phones. The company is not commenting on that allegation. Bret? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "David Spunt at the Justice Department. David, thanks. The latest on impeachment and Iran. We will discuss at all with the panel when we come back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MITCH MCCONNELL, (R) SENATE MAJORITY LEADER",
+      "sentences": "If the existing case is strong, there is no need for the judge and the jury to reopen the investigation. If the existing case is weak, House Democrats should not have impeached in the first place.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HAKEEM JEFFRIES, (D-NY) HOUSE BUDGET COMMITTEE",
+      "sentences": "There is no reason to believe that Mitch McConnell will ever change his perspective as it relates to essentially running the Senate like it is a wholly owned subsidiary of the Trump administration.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHUCK SCHUMER, (D) SENATE MINORITY LEADER",
+      "sentences": "The American people want a fair trial in the Senate. The American people know that a trial without witnesses and documents is not a real trial. It is a sham trial.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It is just to try and smear this president because they know they can't beat him at the ballot box. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Well, the Articles of Impeachment will be voted on tomorrow in the House, sent over to the Senate, and now describing that trial and what happens there will take place and whether there are witnesses or not. Meantime, breaking news tonight, as mentioned earlier in the show by Mike Emanuel, the House Intelligence Committee releasing documents from indicted Giuliani associate Lev Parnas, several documents, a letter from Giuliani to the president of Ukraine, and the first item is on a Ritz-Carlton notepad from Vienna. It says, quote, \"Get Zelensky to announce the Biden case will be investigated\" in handwriting there. What this mean, how it affects things as this heads over to the Senate we shall see. Let's bring in our panel, Steve Hilton is the host of \"The Next Revolution\" here on FOX News Channel, Mara Liasson, national political correspondent for National Public Radio, and Matthew Continetti, founding editor of the \"Washington Free Beacon.\" Mara, it seems like the House Intel Committee is going through all of these documents from Parnas and coming out with what is relevant as it heads over to the Senate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARA LIASSON, NATIONAL POLITICAL CORRESPONDENT, NATIONAL PUBLIC RADIO",
+      "sentences": "Right. It doesn't sound like so far the things they released tell us anything we didn't already know. Rudy Giuliani said on many occasions on television that he was going overseas to see if he could help his client, the president, looking into Joe Biden and Joe Biden's son and Burisma, and Lev Parnas was somebody who helped him. So we will see if there's anything in those documents that could possibly affect any senator's mind.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "As this heads over, Steve, what about how this look like it is going to play out? I think there are still some question marks for the American public about what this all means. STEVE HILTON, HOST, \"THE NEXT REVOLUTION\": Yes. I think the public are probably giving a massive national collective eyeroll at this point to say really, we are going to go back over this again, a parade of random Ukrainians and bureaucrats I have never heard of and diplomats enjoying their moment in the spotlight. We thought we'd done impeachment. I think the public really do see this as a waste of time. However, if it is going to be done, and we now know that it is, then it does need to be done properly. And I think it is in the Republicans interest to minimize the extent to which the Democrats can plausibly claim that it is an unfair process. They are going to say that whatever they do, but really, if they do actually put it in place a process that reasonable people would conclude its affair, I think that is the way they should go.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Republicans had a big talking point in the House about the process there, and that is what really unified them about that vote on impeachment. But you look in the Senate, there are GOP senators to watch, a number of them, Susan Collins, Mitt Romney, Lisa Murkowski, Cory Gardner, who is up for reelection in Colorado, Lamar Alexander, who is retiring from Tennessee, who talked about, indicated that witnesses may be a possibility. But it seems like it would be one for one. If you get a Democratic witness, you get a Republican witness. MATTHEW CONTINETTI, EDITOR IN CHIEF, \"WASHINGTON FREE BEACON\": The process counted for lot in the House, but substance also did too. And when you look at some of the speeches of critical Republicans like Will Hurd say, who voted against the articles, they said what Trump did did not amount to an impeachable offense. So I think you're going to find similar arguments made by even some of the senators that you just showed on the screen. What strikes me, Bret, is how unserious Nancy Pelosi has been. The trial will start a month after the vote to impeach Donald Trump. If it was really as urgent as they were telling us for months, they would've gotten this process underway immediately. They didn't because they were waiting for some bombshell. What broke tonight was not it. And instead I think it has blown up in Pelosi's face.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Pelosi would argue, Mara, that John Bolton, kind of I'll go if subpoenaed happened, that some other documents unredacted from the Pentagon came forward. She tries to pitch it as a win.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Look, I think that the Democrats say they got a couple things out of this delay. They got some new documents from the Office of Management and Budget, now they have these Parnas notes, they also have John Bolton coming forward, as you said. But they wanted to make the point that the president held back all these witnesses, wouldn't let them testify. That is why they have to testify in the Senate. And she wanted to at least create the impression that Mitch McConnell was not going to have a fair trial. Maybe they did that. The outcome is still a foregone conclusion, and that is why Americans, I think, say we already know how this is going to turn out. Can we please get back to things that we care about?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Without that other shoe, there's no 20 Republicans to convict.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Right, 20 Republicans, very, very high --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I want to turn to Iran. A Quinnipiac poll out this week said the U.S. strike killing Soleimani, right action, wrong action, 45 percent the right action, wrong action 41 percent. Asked if it makes Americans safer, you see that breakdown, more safe, less safe, no impact. For somebody sitting at home, Steve, are they buying this immanence argument? Whether it was imminent or not, the terrorist attacks that were coming and whether that matters in that calculation?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HILTON",
+      "sentences": "I thought I detected in the welcome that President Trump received last night at the game, there was this kind of exuberance to that that I think reflected on the part of his supporters real pride in how he handled this. That poll, I think is another poll that just reflects we're a very divided country, and your opinion of President Trump probably colors your opinion of this. But I think it has been a very, very successful episode for him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "This does cross lines, though, when it comes to the issue of war, notifying Congress, why to go forward with something.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONTINETTI",
+      "sentences": "Sure, it crosses lines. But I think the real story is that expert opinion has been consistently wrong throughout this episode.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "A lot of episodes, actually.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONTINETTI",
+      "sentences": "We heard that removing ourselves from the Iran deal would isolate us diplomatically. What happened today? Now the E.U. is triggering the dispute mechanism, they are isolating Iran. We heard that killing Soleimani would unleash World War III. What happened? Iran de-escalated with that attack on our two bases. We've heard all of these stories from the experts. We heard that killing Soleimani would rally the Iranian people with their government. Instead, they are marching on the streets and calling the Ayatollah a tyrant. All of these myths that have been propagated to us have been exposed as false.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "We don't know what we don't know, Mara, obviously, with all the Shia militias and the Hezbollah groups, but so far, if you looked back at the decision up until now, President Trump has politically won.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Politically won, but the question is, will he take advantage of all of those good things that you just laid out? Now that he has Iran the economy on its heels, the Europeans putting pressure on them, all that, what does he do now? Does he just think this was a great thing? He killed a bad guy, he got the political benefit for it, or is he going to try to come up with some new diplomatic effort?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Europe is not easy to rally on anything, let alone this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HILTON",
+      "sentences": "Yes, and it is finally good news from Europe, because they have been trying to keep this deal alive for so long, and it is driven, I think, by pretty unsavory factors, like the commercial interest of many big companies that have close ties to those European governments, for example, in France. One of the main drivers was an interest in Porsche, the carmaker. President Macron had a business connection in his previous life. It is all a bit swampy, frankly, the European attitude to this, and it is great to see that finally they are realizing President Trump meant it, this is not the way it is going to go forward. Boris Johnson today calling for a new deal, a Trump deal, very smart of him to put it like that, I thought. We'll see where it goes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Next up, debate night in Iowa, some candidates not waiting to fight each other.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "What do you think the reason is that Elizabeth Warren is catching up to you in polls?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS, (D-VT) PRESIDENTIAL CANDIDATE",
+      "sentences": "I think that there are certain number of people who would like to see a woman elected, and I understand that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JEFF WEAVER, SANDERS CAMPAIGN SENIOR ADVISER",
+      "sentences": "For anyone to say that a woman can't win, it doesn't makes sense. Hillary Clinton won 3 million more votes than Donald Trump did in the last election. So there are some wires crossed here, but clearly Bernie Sanders did not say that a woman could not win. Those conversations can sometimes get misconstrued.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All kinds of substance, battles back and forth, but this one is about whether Bernie Sanders set a woman could win the presidency. Elizabeth Warren putting out a statement last night, \"Bernie and I met for more than two hours in December, 2018, to discuss the 2020 election. Among the topics that came up was what would happen if Democrats nominated a female candidate. I thought a woman could win, he disagreed.\" That from Elizabeth Warren and her campaign ahead of a debate. We are back with the panel. Matthew, here are some Democrats. This is the last thing that they want to see debating.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONTINETTI",
+      "sentences": "It is a very revealing moment. Of all the things that Elizabeth Warren could have criticized Bernie Sanders for, being more extreme on policy than she is, being perhaps less unelectable than she is, she goes to the sexism card. She plays identity politics. It shows you how identity politics trumps policy in the Democratic Party today. And it also says that Sanders and Warren are in this existential conflict. Neither can win without taking the base of the other, and the person this ultimately benefits is, of course, Joe Biden.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "We'll see. Take a look at the debate stage tonight. Smaller in Iowa as they are fighting for attention. Possible opening for Amy Klobuchar if there is a battle between the top three in the polls.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Our experience with these multi-candidate races when two candidates start getting into a food fight is usually a third candidate benefits. That is what has happened for the Democrats in the past. Gephardt gets into it with someone, and -- but I think that the big question for me is not just how Warren is going to handle this. And don't forget, she was responding to this script that the Sanders campaign gave to their volunteer callers to say Elizabeth Warren is an elitist, she is not going to be able to expand the base of the party. But what I am watching is Bernie Sanders is now a front runner. Is he going to get the kind of scrutiny that front runners usually get, or is he going to be given a pass? Because Sanders has been remarkably untouched by scrutiny because Democrats have a failure of imagination. They don't believe he can be the nominee, and I think that is changing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You say that, but if you look at the RCP average, Real Clear Politics average, national, Iowa, and New Hampshire, Joe Biden, Steve, has come back up in both Iowa and New Hampshire, where he was, at times, running fourth. He has made a resurgence, perhaps because of this fear of Sanders, Warren, et cetera.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HILTON",
+      "sentences": "He has. I think despite what the conventional wisdom is, I think he is a fundamentally weak candidate. He doesn't excite people. I think he is going to do less well in Iowa because they really need to get people excited about you to turn out. I think that he just doesn't bring that kind of energy that you need to really drive an election result in your favor in these times. And I think that any of the others are actually stronger potentially against President Trump than he is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "If you look at, this is a staggering number, this spending on ads. Michael Bloomberg at $130 million. This is just one estimate. There are some put him over $150 million. You see Tom Steyer at $74 million. There is a thought that Mike Bloomberg is kind of suggesting that they could win a lot early states, but in the end I'm going to pull this out in the end.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "The primary strategy for Bloomberg is that if we get a muddled outcome from the first four states, somebody different wins each one, or they are all bunched up within a point of each other, then you get to Super Tuesday with all these giant states where money really matters, and there is Michael Bloomberg with his big fat wallet, ready to move in. That's one theory. The other theory is, and he has said this, that he spends this kind of money, billions of dollars potentially, no matter who is the nominee, even if he is not, he is determined to beat Donald Trump. And that, I think, would be a huge factor.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "In one New York mayor race I think he spent $170 per voter. If that was the same equation, it could do $12 billion. He's got 52.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "That is like pocket change for him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "That is finding it in the couch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONTINETTI",
+      "sentences": "Money can buy you poll numbers, but it can't buy you elections. That is what Donald Trump proved in 2016 when he was outspent, and most of his donations came from small dollar donors, not from big donors, who were against him in the primary, and he still won.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Meantime, Andrew Yang who is not on the stage tonight, tweeted \"Thank you, Dave Chapelle. Welcome to the Yang Gang.\" The comedian campaigning for Andrew Yang. So we'll see how that works out. Thanks, panel. When we come back, an army soldier surprises his loved ones.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Finally tonight, a heartwarming homecoming. Army soldier Jesse Curtis has been away from his family for nearly a year serving his country. He came home a little early to surprise his three children. Reunited with his oldest son Ty while he was in class, check this out. I love that. His youngest son Cason came during a first grade assembly, surprised him. And his daughter Adabelle before her team's basketball game. Got all three of them. One fell swoop at school, that is great. Thanks for inviting us into your home tonight. That's it for the SPECIAL REPORT, fair, balanced, and unafraid. \"THE STORY\" hosted by Martha MacCallum starts right now. Hey, Martha. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMILY COMPAGNO, FOX NEWS CHANNEL HOST",
+      "utterance": "It is awesome."
+    },
+    {
+      "speaker": "JESSE WATTERS, FOX NEWS CHANNEL HOST",
+      "utterance": "What do they call fries in Great Britain? What do they call it?"
+    },
+    {
+      "speaker": "COMPAGNO",
+      "utterance": "Chips."
+    },
+    {
+      "speaker": "GREG GUTFELD, FOX NEWS CHANNEL HOST",
+      "utterance": "Chips."
+    },
+    {
+      "speaker": "DANA PERINO, FOX NEWS CHANNEL HOST",
+      "utterance": "Chips."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Would you like some chips with that?"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "No."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Chips -- brilliant, brilliant."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "That was my British accent."
+    },
+    {
+      "speaker": "COMPAGNO",
+      "utterance": "It's like coming to America."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "All right, set your DVRs. Never miss an episode of THE FIVE. I'll see you on \"TUCKER\" later on. But \"SPECIAL REPORT\" is up next. Hey, Bret."
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS CHANNEL ANCHOR",
+      "utterance": "Hey, Dana. Thanks. Good evening, welcome to Washington. I'm Bret Baier. We're following several breaking stories tonight. Democrat staged their final presidential debate before the Iowa caucuses in about three hours, as two of the biggest progressives in the race ramp up attacks on each other. European allies put new pressure on Iran as new video appears to show not one, but two Iranian missiles striking that doom Ukrainian passenger jet. And the House plans to vote tomorrow to send articles of impeachment against President Trump to the Senate. We have \"FOX TEAM COVERAGE\", Rich Edson at the State Department with the triggering of what is called the dispute mechanism in the Iran deal. Peter Doocy in Des Moines, with some Democratic candidates taking off the gloves against each other. And John Roberts at the White House with how the president's team is getting ready for the Senate impeachment trial. But we begin with chief congressional correspondent Mike Emanuel on Capitol Hill with where things stand at this hour. Good evening, Mike. Bret, good evening. Late today, House committee chairs announced they've obtained new evidence from Rudy Giuliani associated left partners, including a handwritten memo where partners allegedly rights, get Zelensky to announce that the Biden case will be investigated. New information that will be transmitted to the Senate along with those articles of impeachment."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Political warfare is underway over the upcoming senate impeachment trial, even though Speaker Nancy Pelosi has not transmitted the articles. The Senate majority leader, says they'll address the demand coming from Democrats eventually."
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL (R-KY)",
+      "utterance": "We'll be dealing with the witness issue at the appropriate time and to the trial. And I think it's certainly appropriate to point out that both sides would want to call witnesses that they wanted to hear from."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Democrats are trying to pressure moderate Republicans to get on board with calling witnesses."
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER (D-NY)",
+      "utterance": "The Senate must conduct a fair trial. A fair trial has witnessed. A fair trial seeks the truth."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Some have signaled a willingness to consider it, but not upfront."
+    },
+    {
+      "speaker": "SEN. LAMAR ALEXANDER (R-TN)",
+      "utterance": "I want to make sure I have a chance to vote on whether we need additional witnesses or additional documents, and I'll decide whether we do after I hear the case, and asked my questions."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Pelosi, says tomorrow is a critical step, \"The House will now proceed with a vote on transmitting the articles of impeachment and naming impeachment managers.\" Those managers are the House lawmakers who will prosecute the case against the president."
+    },
+    {
+      "speaker": "REP. JUDY CHU (D-CA)",
+      "utterance": "Obviously, people like Adam Schiff and Jerry Nadler are very great candidates because they've done such a magnificent job on the -- on the hearings itself. But I do hope for a diversity of people --"
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "After arguing impeaching President Trump was an emergency, Pelosi held on to the articles for nearly four weeks. Leading House Republicans blasted the Speaker for wasting time."
+    },
+    {
+      "speaker": "REP. KEVIN MCCARTHY (R-CA)",
+      "utterance": "I know within her own leadership there were questions about why she held it. No one questions about what she gained, was nothing."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "The timeline is the trials expected to start next Tuesday, with the opening argument from House managers laying out their case. Then, the White House defense team has its opportunity. Then, questions from senators in writing will be taken up. After several weeks, the case will reach a critical phase."
+    },
+    {
+      "speaker": "SEN. TED CRUZ (R-TX)",
+      "utterance": "The debates will happen about whether or not to dismiss the case or to -- or to vote to final verdict. Then, or whether to take up witnesses. And I expect a contentious debate and decision."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Senator Cruz and others predict, if the Senate votes to hear from witnesses, the trial could go six weeks. That would be well beyond President Trump State of the Union, and some of the early voting states for senators running for president. Bret. BAIER: Mike Emanuel live on the Hill. Mike, thank you. President Trump has been quiet today, so far. That silence will be shattered in about two hours when he speaks at what will likely be another boisterous campaign event, this time, in Wisconsin. Chief White House correspondent John Roberts tells us tonight impeachment, though, is on everyone's mind at the White House. Good evening, John."
+    },
+    {
+      "speaker": "JOHN ROBERTS, FOX NEWS CHIEF WHITE HOUSE CORRESPONDENT",
+      "utterance": "Well, certainly is. No question about that. A little bit of an unusual day today, the president has held his fire so far on impeachment. No tweets since just after midnight this morning. No public statements, but as you pointed out, Bret, all of that likely to change in a big way tonight."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "As President Trump heads for a campaign rally in Wisconsin tonight, his defense team is making final preparations to present each case to the Senate. White House Counsel Pat Cipollone will take the lead, aided by two of his deputies Michael Purpura and Patrick Philbin. The president's chief outside counsel Jay Sekulow will also join. And sources tell Fox News, there is still serious discussion about having Harvard law professor Alan Dershowitz, take a role. Dershowitz has been harshly critical of how the Democrats conducted their impeachment inquiry. White House aides again dismissed Democrat's attempt to take down the president."
+    },
+    {
+      "speaker": "HOGAN GIDLEY, WHITE HOUSE PRINCIPAL DEPUTY PRESS SECRETARY",
+      "utterance": "It has nothing to do with the rule of law by any stretch, because the articles they came up with, don't actually cite any crime. It's just to try and smear this president because they know they can't beat him at the ballot box."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "Impeachment will most certainly factor prominently in President Trump's campaign event tonight. South Carolina Senator Lindsey Graham spoke with the president last night and gave some insight into his state of mind."
+    },
+    {
+      "speaker": "SEN. LINDSEY GRAHAM (R-SC)",
+      "utterance": "He's frustrated. He didn't think he did anything wrong, but I told him there's a process. You'll come out of this thing politically stronger. I hate the chat to go through it, but I feel very confident he will be acquitted in the end."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "President Trump is now openly promoting the idea of taking a vote to dismiss the case, fearing that proceeding with a trial will just give legitimacy to the Democrat's case. But Texas Senator Ted Cruz, today said, acquittal is better for the president than dismissal and that the trial should play out to what Cruz is certain will be a not guilty verdict."
+    },
+    {
+      "speaker": "CRUZ",
+      "utterance": "Dismissal throws the case out without reaching a verdict. We're going to reach a verdict, and the verdict is going to be acquittal that is a much better outcome for the president to be acquitted of these charges than simply a dismissal."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "At the New Year's Eve party and Mar-a-Lago, Rudy Giuliani insisted, he would like to be a part of the Senate trial."
+    },
+    {
+      "speaker": "RUDY GIULIANI, ATTORNEY TO PRESIDENT DONALD TRUMP",
+      "utterance": "I would testify, I would do demonstrations. I give lectures, I give summations. Or, I do what I do best, I try the case. I'd love to try the case."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "While Giuliani is not expected to join the president's team, it's likely he will be a frequent face commenting on impeachment."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "If the articles are handed over to the Senate in the next couple of days, it's possible that the trial will be getting underway just as the president touches down in Davos, Switzerland, where he is scheduled to give a speech at the World Economic Forum at 11:30 on Tuesday morning. So far, the White House says there was no discussion of him canceling his Davos trip and, in fact, some aids are lobbying for him to go. Saying, it would send a signal that he is overseas doing the work of the nation while Democrats are trying to take him out. Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "John Roberts, live in the North Lawn. John, thank you. Treasury Secretary Steve Mnuchin, be on the show tomorrow from the White House. In tonight's \"DEMOCRACY 2020\" report, it is debate night for Democratic presidential contenders. Six of the 12 remaining candidates will be on stage tonight in Des Moines. But two of them are already debating. Correspondent Peter Doocy has the, he said she said, from Iowa."
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS GENERAL ASSIGNMENT REPORTER",
+      "utterance": "Candidates know there's not much time left to make their cases before the caucuses."
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "utterance": "People are beginning to make up their minds now and this is a critical moment."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "But a private moment in 2018 may change the dynamic. Bernie Sanders and Elizabeth Warren dined together. And Warren remembers, \"Among the topics that came up was what would happen if Democrats nominated a female candidate. I thought a woman could win; he disagreed.\" Sanders says that's ludicrous. Adding, \"It's sad that, three weeks before the Iowa caucus and a year after that private conversation, staff who weren't in the room are lying about what happened.\" In June, Sanders sized up his longtime friend's campaign."
+    },
+    {
+      "speaker": "CHRIS CUOMO, ANCHOR, CNN",
+      "utterance": "What do you think the reason is that Elizabeth Warren is catching up to you in polls?"
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS (I-VT), PRESIDENTIAL CANDIDATE",
+      "utterance": "I think that there are certain number of people that would like to see a woman elected and I understand that."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Kamala Harris seems to be siding with Warren."
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS (D-CA)",
+      "utterance": "All the women can be president. Of that I'm sure."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Pete Buttigieg is hoping an openly gay candidate can capture the nomination."
+    },
+    {
+      "speaker": "MAYOR PETE BUTTIGIEG (D), PRESIDENTIAL CANDIDATE",
+      "utterance": "Thank you. When this whole campaign had begun as a -- as an exploratory committee, nobody could say my name. Didn't have any personal wealth or a giant e-mail list, just the belief that America would respond, that Iowa would respond, and you have --"
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Cory Booker called it quits this week, but insists he'll stay busy."
+    },
+    {
+      "speaker": "SEN. CORY BOOKER (D-NJ)",
+      "utterance": "I am going to take a breather. I'm going to focus on the impeachment trials. And I have a reelection campaign, I've got to get started on securing another six years in the Senate."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Those impeachment trials will keep the remaining four senators running for president in D.C. and off the trail. Republicans don't think that's fair."
+    },
+    {
+      "speaker": "MCCARTHY",
+      "utterance": "The only rightful thing of Joe Biden is to make a pledge not to campaign. But Bernie Sanders cannot after what the Democratic National Committee had done to his campaign a few short years ago."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "But there is no sign, Biden will take a breather before the caucuses."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "This is a real tossup. And the last -- the last couple of weeks here is makes a gigantic difference."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Michael Bloomberg is not here, but Democrats watching at home may see as much of him as some of the candidates on stage. Because he started running today a brand new ad about the debates, where he explains he's not ever going to try to go to a democratic debate unless the rules are changed and he can qualify without having to ask for donations. Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Peter Doocy, live in Des Moines. Peter, thanks. Complete coverage after the debate on Fox at 11:00 p.m. There is new video tonight showing what appears to be two missiles hitting the Ukrainian airliner shot down in Iran last week. The regime has admitted bringing down the plane by mistake. Meanwhile, officials in Britain, France, and Germany, say they want to resolve differences with Iran over its nuclear deal through diplomacy. Great Britain's leader says he has an idea to step up the pressure. State Department correspondent Rich Edson has details."
+    },
+    {
+      "speaker": "RICH EDSON, FOX NEWS WASHINGTON CORRESPONDENT",
+      "utterance": "If the Iran nuclear agreement collapses, British Prime Minister Boris Johnson has a solution."
+    },
+    {
+      "speaker": "BORIS JOHNSON, PRIME MINISTER OF THE UNITED KINGDOM",
+      "utterance": "If we're going to get rid of it, let's replace it. And let's replace it with the Trump deal."
+    },
+    {
+      "speaker": "EDSON",
+      "utterance": "The Trump administration wants to address Iran's nuclear and ballistic missile programs, and supported militias across the region as part of a new deal."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "The problem with the agreement is that, from the American perspective, it's a flawed agreement, it expires, plus it was negotiated by President Obama."
+    },
+    {
+      "speaker": "EDSON",
+      "utterance": "And now, the British, French, and Germans have served Iran with an official notice, telling Tehran to comply with the 2015 nuclear agreement. That notice triggers a process that could result in the U.N. Security Council voting to restore the sanctions on Iran it lifted as part of the deal. The move comes in response to Iran announcing it would no longer abide by any limitations laid out in the agreement. After the U.S. airstrike that killed Qassem Soleimani, Iran had already begun violating limits in the Iran nuclear agreement last year. A year after the Trump administration left it, Iran's foreign ministry reportedly warned of a serious and strong response to efforts to levy sanctions. Those said it is ready to answer a constructive effort to save the deal. This has new video has surfaced showing Iran shooting down a Ukrainian passenger plane last week. And what appears to show one missile hitting the plane. And then a second connecting. Iranian authorities announced they've arrested those responsible for the accident, which killed 176, including 57 Canadians."
+    },
+    {
+      "speaker": "JUSTIN TRUDEAU, PRIME MINISTER OF CANADA",
+      "utterance": "This is something that happens when you have conflict and war. Innocents, they're the brunt of it, and it is a reminder why all of us need to work so hard on de-escalation."
+    },
+    {
+      "speaker": "EDSON",
+      "utterance": "House Foreign Affairs Committee chairman Eliot -- demanding, Secretary Pompeo and Defense Secretary Mark Esper, provide information on the legal basis for the strike that killed Qassem Soleimani. Engle, says if Pompeo refuses to work with his committee that he is going to perhaps possibly issue a subpoena for the secretary. State Department has no comment. Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Rich Edson live at the State Department. Rich, thanks. Senate Democrats want the government to investigate whether President Trump may have enabled the violation of insider trading laws when he allegedly hinted about the attack on Iran's top general to some guests at his Florida resort. Senators Elizabeth Warren and Chris Van Hollen, Democrats are asking the Securities and Exchange Commission, and one other agency to initiate investigations. They say individuals could have obtained confidential market-moving information and made trades based upon that. The three major stock exchanges hit record highs again today. But dropped after a report said, tariffs on China will likely remain until after the 2020 election. The Dow ended up today, 33. The S&P 500 dropped five. The NASDAQ lost 23. Russian hackers possibly trying to dig up dirt on Joe Biden and his family have penetrated the Ukrainian gas company, featured prominently in the impeachment drama. Correspondent Gillian Turner is here to tell us what that may mean. Good evening, Gillian."
+    },
+    {
+      "speaker": "GILLIAN TURNER, FOX NEWS CHANNEL CORRESPONDENT",
+      "utterance": "Good evening, Bret. So, this American cybersecurity firm, it's called Area 1 Security, now claiming Russia's military hacked the Ukrainian gas company that's at the very center of the impeachment inquiry. Attempts on Burisma, whose board once included Hunter Biden, began back in early November. Area 1s reports as the firm discovered the hack in the course of doing ordinary business and were immediately alarmed. Reporting, \"The timing of the campaign in relation to the 2020 US elections raises the specter that this is an early warning of what we have anticipated since that successful cyberattack undertaken during the 2016 U.S. elections.\" Now, the Associated Press reports, the Biden's were also likely targets of this campaign, though, Area 1 CEO, says his company can't support that claim at this time. The Biden campaign responded today, saying, \"Donald Trump tried to coerce Ukraine into lying about Joe Biden and a major partisan international anti- corruption victory because he recognized that he can't be the vice president.\" Democrats have been quick to blame President Trump today. Take a listen."
+    },
+    {
+      "speaker": "SEN. BOB MENENDEZ (D-NJ)",
+      "utterance": "It's Russia doing President Trump's dirty work again."
+    },
+    {
+      "speaker": "BOOKER",
+      "utterance": "And Vladimir Putin appears to be added again, manufacturing evidence to interfere in our election in 2020 to help his buddy, Donald Trump, again, be artificially placed in 1600 Pennsylvania Avenue."
+    },
+    {
+      "speaker": "TURNER",
+      "utterance": "Republicans though, say this hack is just another in a long continuum."
+    },
+    {
+      "speaker": "MCCONNELL",
+      "utterance": "We need to keep our eye on the Russians or anybody else who's trying to mess with our election system."
+    },
+    {
+      "speaker": "SEN. RICHARD BURR (R-NC)",
+      "utterance": "I don't think they've ever stopped. This is -- this is their M.O. it has been since the 60s."
+    },
+    {
+      "speaker": "TURNER",
+      "utterance": "American election officials here at home continue now to ring alarm bells about election interference going into 2020 not just from Russia but also from China, Iran, other state actors. We reached out today Bret, to Burisma, but unsurprisingly, no response yet."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK, Gillian, thank you."
+    },
+    {
+      "speaker": "TURNER",
+      "utterance": "You bet."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Up next, significant action on two major fronts for the president's immigration policy, we'll explain. First, here's of some of our Fox affiliates around the country are covering tonight. Fox Richmond as the Equal Rights Amendment advances in the Virginia legislature. Today, a Virginia House committee approved a resolution to ratify the gender equality measure. Measure would guarantee equal, legal rise for all American citizens regardless of sex. If it passes, Virginia would be the 38th state to ratify the amendments, surpassing the three-quarters of states needed to add it to the Constitution. A court battle is expected because the 1982 deadline for ratification has long since passed, obviously. Fox 35 in Orlando as the Census Bureau spends tens of millions of dollars on hundreds of digital ads, T.V. commercials, radio spots, billboards, and print ads, in 13 languages. The goal is to make sure every household responds to the 2020 census. Census Bureau officials say they expect the media campaign to reach 99.9 percent of households. And this is a live look at Los Angeles from our affiliate Fox 11 there. The big story there tonight, fuel dumped by an aircraft returning to L.A. International Airport fell onto three schools. Official say, 40 children and adults experienced minor irritation, non- fortunately needed to be taken to a hospital. That's a nice live look \"OUTSIDE THE BELTWAY\", from SPECIAL REPORT. We'll be right back."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Senate Majority Leader Mitch McConnell, says the Senate should be able to pass the new North American trade deal this week. Mexico has already ratified the USMCA. Canada has not passed it yet. The agreement does not take effect until all three countries approve it. The U.S. Supreme Court heard arguments today regarding the convictions of two people involved in New Jersey's Bridgegate scandal. It happened in 2013 when aids to Governor Chris Christie created a massive traffic jam, allegedly, to punish a mayor who refused to endorse their boss. Bill Baroni and Bridget Kelly were convicted of fraud and conspiracy. They are challenging those convictions, saying that while their actions were political, they were not fraud. American Airlines says it is taking the Boeing 737 MAX out of its schedule for two more months until early June. That means American will canceled nearly 20,000 flights in the first five-plus months of this year. The plane has been grounded since two crashes killed 346 people. There's major progress to report tonight for President Trump's immigration policy. Significant moves are being made and dealing with immigrants seeking sanctuary and in building president -- the president's border wall. National correspondent William La Jeunesse has our update tonight."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "They want to send us to a country where they're also fleeing violence, It's not fair."
+    },
+    {
+      "speaker": "WILLIAM LA JEUNESSE, FOX NEWS NATIONAL CORRESPONDENT",
+      "utterance": "With border apprehensions down 70 percent, the administration isn't just forcing asylum seekers to wait in Mexico, but deporting some to Central America."
+    },
+    {
+      "speaker": "CHAD WOLF, ACTING SECRETARY, HOMELAND SECURITY",
+      "utterance": "So far, we have returned, I believe, 96 individuals under that plan."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "Acting DHS Secretary Chad Wolf, return last week from Central America, where he finalized agreements with officials there to accept asylum seekers including Mexicans."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE (through translator)",
+      "utterance": "It hit us like a bomb. I don't think any Mexicans want to go to Guatemala."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "Asylum seekers, say U.S. law protects them from being deported to unsafe areas. Critics will say that putting women and children in these border cities for months at a time is illegal if not, inhumane."
+    },
+    {
+      "speaker": "WOLF",
+      "utterance": "I don't understand that, because it's exactly what we do inside the interior of the U.S. We often have folks travel four or five hours in the U.S. to go to court date -- immigration court dates."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "The administration has also begun flying migrants deep into Mexico to relieve border cities and deter illegal reentry."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "In the Fifth Circuit Court of Appeals, we won the big, big, beautiful lawsuit. You can now fund the rest of the world."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "Bolstered by a federal court ruling last week, the administration is reportedly planning to again divert billions from the Pentagon budget to almost double the 450 miles of wall it claims will be finished this year."
+    },
+    {
+      "speaker": "BOOKER",
+      "utterance": "This is another example of Donald Trump trying to fulfill a political promise that has nothing to do with the safety and security of the American people."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "Congress appropriated roughly $700 billion to the Pentagon this year. The administration is considering using more than $7 billion for the wall. It is unclear what programs could be postponed or kill because of it. Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "William La Jeunesse in L.A. William, thanks. Up next, President Trump is heading to Milwaukee for a campaign event. We told you that earlier. Well, tonight, Democrats insist they will not make the same mistake in Wisconsin this year that cost them the election in 2016. We'll bring you there. First, \"BEYOND OUR BORDERS\" tonight, a volcano near the Philippine capital of Manila continues to shake and spew lava into the sky. Tens of thousands of people fleeing villages, darkened and blanketed by heavy ash. Government work has been suspended, schools closed in the number of towns and cities there. Hundreds of flights have been canceled or delayed, affecting thousands of passengers in the Philippines. Severe winter weather has claimed more lives as avalanches triggered by heavy snowfall killed 55 people in Kashmir. Officials say 15 people died in neighboring Afghanistan. The latest fatalities raised the two countries' overall death toll from severe weather to 126 since Sunday. A bus -- a bus plunged into a sinkhole on a city street in northwestern China today. At least, six people were killed there. Officials, say four others are still missing. Some 1,000 emergency workers and 30 vehicles were sent to that site. A crane was called and to lift that bus above the sinkhole, so rescue workers could look for victims. Just some of the other stores \"BEYOND OUR BORDERS\" tonight. We'll be right back."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "While a democratic presidential candidates' debate tonight in Iowa, President Trump will have a campaign rally, as we mentioned, in Milwaukee. Wisconsin is once again a major battleground state in this year's election. Democrats who lost both the state and the presidency obviously in 2016 insist they have learned their lesson. Senior correspondent Mike Tobin has the story from Milwaukee."
+    },
+    {
+      "speaker": "MIKE TOBIN, FOX NEWS SENIOR CORRESPONDENT",
+      "utterance": "Some Wisconsin farmers cannot say they are better off now than they were four years ago. Since 2016, more than 1,600 farms have shut down."
+    },
+    {
+      "speaker": "RYAN GARTMAN, DAIRY FARMER, WISCONSIN",
+      "utterance": "Yes, it's sad to see, you know."
+    },
+    {
+      "speaker": "TOBIN",
+      "utterance": "Still, dairy farmer Ryan Gartman is one of those supporting Trump. He blames Congress for holding up the trade deals and believes the president is committed to people like him."
+    },
+    {
+      "speaker": "GARTMAN",
+      "utterance": "I think there's this really genuine, and he just really shows that he really cares about all of businesses from top to bottom, you know, large and small."
+    },
+    {
+      "speaker": "TOBIN",
+      "utterance": "Hillary Clinton failed the campaign in Wisconsin in the 2016 general election, and the 10th electoral votes went to Trump. Evidence that Democrats won't make the same mistake again, their convention will be held in Milwaukee."
+    },
+    {
+      "speaker": "GOV. TONY EVERS (D), WISCONSIN",
+      "utterance": "I truly believe that Wisconsin will be the state that elects a new president of the United States. It was key last time, and it's key this time."
+    },
+    {
+      "speaker": "TOBIN",
+      "utterance": "There are few models that show a path to victory without the Badger state. The population centers Milwaukee and Madison are dedicated liberal and unlikely to change. But Trump reached voters in 23 rural Wisconsin counties who had voted for Obama twice, then flipped Republican in 2016."
+    },
+    {
+      "speaker": "SCOTT WALKER, (R) FORMER WISCONSIN GOVERNOR",
+      "utterance": "People who felt like they were the forgotten men and women of America, particularly here in this state, that mean out state, northern Wisconsin."
+    },
+    {
+      "speaker": "DONALD TRUMP, (R) PRESIDENT OF THE UNITED STATES",
+      "utterance": "The future belongs to the people."
+    },
+    {
+      "speaker": "TOBIN",
+      "utterance": "They are all about to get the experience of voters in other battleground states. The ads, the mailings, and no matter how far they live up a farm road, Wisconsin voters will get knocks on the door."
+    },
+    {
+      "speaker": "WALKER",
+      "utterance": "What will decide the race in Wisconsin is personal contact, people talking to their neighbors, to their friends."
+    },
+    {
+      "speaker": "BEN WIKLER, WISCONSIN DEMOCRATIC PARTY CHAIRMAN",
+      "utterance": "Our volunteers right now in every corner of the state are going out, weekend by weekend, having individual, personal conversations with people about the issues that they care about. That is something that wasn't happening this early in 2016."
+    },
+    {
+      "speaker": "TOBIN",
+      "utterance": "And to set the scene behind me is the Fiserv Forum where Democrats will be holding their convention. A little to your left is Panther Arena where President Trump is holding his rally tonight. A little further to the left you've got a small group of anti-Trump demonstrators. A larger group is expected. And you have a long line of Trump supporters who are streaming into the arena. Wisconsin voters can get used to this much attention, this much action as they are expected to play a pivotal role in the general. Bret, back to you."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Mike Tobin live in Milwaukee. Mike, thanks. Meantime, a Wisconsin appeals court has put on hold an order to immediate remove up to 209,000 names from the state's voter registration rules. It is considered a political win for Democrats who had fought that move. We will follow that. If you use Windows on your computer, and most of us do, we have important news. Microsoft is issuing a patch to fix a flaw it found out about thanks to the National Security Agency. The NSA notified the company. Some computers will get the update automatically if they have the option turned on. Microsoft says it has not seen any evidence yet hackers have used the technique discovered by the NSA. The Justice Department is pressuring Apple to help it unlock the cellphones of the gunman who killed three people at a Florida Naval base last month. The attorney general saying so far Apple has not come through. Apple disagrees. Here's correspondent David Spunt."
+    },
+    {
+      "speaker": "WILLIAM BARR, U.S. ATTORNEY GENERAL",
+      "utterance": "Apple has not given any substantive assistance."
+    },
+    {
+      "speaker": "DAVID SPUNT, FOX NEWS CORRESPONDENT",
+      "utterance": "Attorney General Bill Barr calling out the tech giant for not helping investigators unlock two iPhones owned by the man who, in an act of terror, shot and killed three sailors at Naval Air Station Pensacola last month. Authorities say the shooter took a gun and shot one of those iPhones, hoping to destroy evidence. FBI forensics put the phones back together but cannot open them without a password."
+    },
+    {
+      "speaker": "BARR",
+      "utterance": "It is critical that the public be able to get access to digital evidence."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "DOJ has a court order, and says while Apple has provided Cloud services to the shooter's account, encryption technology blocks direct access to the phone. Apple is firing back, quote, \"We reject the characterization that Apple has not provided substantive assistance in the Pensacola investigation. Our responses to their many requests since the attack have been timely, thorough, and are ongoing.\" In 2015, DOJ and Apple faced off in a similar battle over the San Bernardino shooter. A third-party vendor opened the phone after Apple refused. In response, Apple then upped its encryption security procedures. Apple has a new ad campaign touting its strong protection."
+    },
+    {
+      "speaker": "LEEZA GARBER, CYBERSECURITY ATTORNEY",
+      "utterance": "Tim Cook himself has said privacy should be considered a human right. Apple is really holding strong to its principles."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "One DOJ official tells FOX it is unclear if Apple can even unlock these phones. The company is not commenting on that allegation. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "David Spunt at the Justice Department. David, thanks. The latest on impeachment and Iran. We will discuss at all with the panel when we come back."
+    },
+    {
+      "speaker": "MITCH MCCONNELL, (R) SENATE MAJORITY LEADER",
+      "utterance": "If the existing case is strong, there is no need for the judge and the jury to reopen the investigation. If the existing case is weak, House Democrats should not have impeached in the first place."
+    },
+    {
+      "speaker": "HAKEEM JEFFRIES, (D-NY) HOUSE BUDGET COMMITTEE",
+      "utterance": "There is no reason to believe that Mitch McConnell will ever change his perspective as it relates to essentially running the Senate like it is a wholly owned subsidiary of the Trump administration."
+    },
+    {
+      "speaker": "CHUCK SCHUMER, (D) SENATE MINORITY LEADER",
+      "utterance": "The American people want a fair trial in the Senate. The American people know that a trial without witnesses and documents is not a real trial. It is a sham trial."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "It is just to try and smear this president because they know they can't beat him at the ballot box."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Well, the Articles of Impeachment will be voted on tomorrow in the House, sent over to the Senate, and now describing that trial and what happens there will take place and whether there are witnesses or not. Meantime, breaking news tonight, as mentioned earlier in the show by Mike Emanuel, the House Intelligence Committee releasing documents from indicted Giuliani associate Lev Parnas, several documents, a letter from Giuliani to the president of Ukraine, and the first item is on a Ritz-Carlton notepad from Vienna. It says, quote, \"Get Zelensky to announce the Biden case will be investigated\" in handwriting there. What this mean, how it affects things as this heads over to the Senate we shall see. Let's bring in our panel, Steve Hilton is the host of \"The Next Revolution\" here on FOX News Channel, Mara Liasson, national political correspondent for National Public Radio, and Matthew Continetti, founding editor of the \"Washington Free Beacon.\" Mara, it seems like the House Intel Committee is going through all of these documents from Parnas and coming out with what is relevant as it heads over to the Senate."
+    },
+    {
+      "speaker": "MARA LIASSON, NATIONAL POLITICAL CORRESPONDENT, NATIONAL PUBLIC RADIO",
+      "utterance": "Right. It doesn't sound like so far the things they released tell us anything we didn't already know. Rudy Giuliani said on many occasions on television that he was going overseas to see if he could help his client, the president, looking into Joe Biden and Joe Biden's son and Burisma, and Lev Parnas was somebody who helped him. So we will see if there's anything in those documents that could possibly affect any senator's mind."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "As this heads over, Steve, what about how this look like it is going to play out? I think there are still some question marks for the American public about what this all means. STEVE HILTON, HOST, \"THE NEXT REVOLUTION\": Yes. I think the public are probably giving a massive national collective eyeroll at this point to say really, we are going to go back over this again, a parade of random Ukrainians and bureaucrats I have never heard of and diplomats enjoying their moment in the spotlight. We thought we'd done impeachment. I think the public really do see this as a waste of time. However, if it is going to be done, and we now know that it is, then it does need to be done properly. And I think it is in the Republicans interest to minimize the extent to which the Democrats can plausibly claim that it is an unfair process. They are going to say that whatever they do, but really, if they do actually put it in place a process that reasonable people would conclude its affair, I think that is the way they should go."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Republicans had a big talking point in the House about the process there, and that is what really unified them about that vote on impeachment. But you look in the Senate, there are GOP senators to watch, a number of them, Susan Collins, Mitt Romney, Lisa Murkowski, Cory Gardner, who is up for reelection in Colorado, Lamar Alexander, who is retiring from Tennessee, who talked about, indicated that witnesses may be a possibility. But it seems like it would be one for one. If you get a Democratic witness, you get a Republican witness. MATTHEW CONTINETTI, EDITOR IN CHIEF, \"WASHINGTON FREE BEACON\": The process counted for lot in the House, but substance also did too. And when you look at some of the speeches of critical Republicans like Will Hurd say, who voted against the articles, they said what Trump did did not amount to an impeachable offense. So I think you're going to find similar arguments made by even some of the senators that you just showed on the screen. What strikes me, Bret, is how unserious Nancy Pelosi has been. The trial will start a month after the vote to impeach Donald Trump. If it was really as urgent as they were telling us for months, they would've gotten this process underway immediately. They didn't because they were waiting for some bombshell. What broke tonight was not it. And instead I think it has blown up in Pelosi's face."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Pelosi would argue, Mara, that John Bolton, kind of I'll go if subpoenaed happened, that some other documents unredacted from the Pentagon came forward. She tries to pitch it as a win."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Look, I think that the Democrats say they got a couple things out of this delay. They got some new documents from the Office of Management and Budget, now they have these Parnas notes, they also have John Bolton coming forward, as you said. But they wanted to make the point that the president held back all these witnesses, wouldn't let them testify. That is why they have to testify in the Senate. And she wanted to at least create the impression that Mitch McConnell was not going to have a fair trial. Maybe they did that. The outcome is still a foregone conclusion, and that is why Americans, I think, say we already know how this is going to turn out. Can we please get back to things that we care about?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Without that other shoe, there's no 20 Republicans to convict."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Right, 20 Republicans, very, very high --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I want to turn to Iran. A Quinnipiac poll out this week said the U.S. strike killing Soleimani, right action, wrong action, 45 percent the right action, wrong action 41 percent. Asked if it makes Americans safer, you see that breakdown, more safe, less safe, no impact. For somebody sitting at home, Steve, are they buying this immanence argument? Whether it was imminent or not, the terrorist attacks that were coming and whether that matters in that calculation?"
+    },
+    {
+      "speaker": "HILTON",
+      "utterance": "I thought I detected in the welcome that President Trump received last night at the game, there was this kind of exuberance to that that I think reflected on the part of his supporters real pride in how he handled this. That poll, I think is another poll that just reflects we're a very divided country, and your opinion of President Trump probably colors your opinion of this. But I think it has been a very, very successful episode for him."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "This does cross lines, though, when it comes to the issue of war, notifying Congress, why to go forward with something."
+    },
+    {
+      "speaker": "CONTINETTI",
+      "utterance": "Sure, it crosses lines. But I think the real story is that expert opinion has been consistently wrong throughout this episode."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "A lot of episodes, actually."
+    },
+    {
+      "speaker": "CONTINETTI",
+      "utterance": "We heard that removing ourselves from the Iran deal would isolate us diplomatically. What happened today? Now the E.U. is triggering the dispute mechanism, they are isolating Iran. We heard that killing Soleimani would unleash World War III. What happened? Iran de-escalated with that attack on our two bases. We've heard all of these stories from the experts. We heard that killing Soleimani would rally the Iranian people with their government. Instead, they are marching on the streets and calling the Ayatollah a tyrant. All of these myths that have been propagated to us have been exposed as false."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "We don't know what we don't know, Mara, obviously, with all the Shia militias and the Hezbollah groups, but so far, if you looked back at the decision up until now, President Trump has politically won."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Politically won, but the question is, will he take advantage of all of those good things that you just laid out? Now that he has Iran the economy on its heels, the Europeans putting pressure on them, all that, what does he do now? Does he just think this was a great thing? He killed a bad guy, he got the political benefit for it, or is he going to try to come up with some new diplomatic effort?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Europe is not easy to rally on anything, let alone this."
+    },
+    {
+      "speaker": "HILTON",
+      "utterance": "Yes, and it is finally good news from Europe, because they have been trying to keep this deal alive for so long, and it is driven, I think, by pretty unsavory factors, like the commercial interest of many big companies that have close ties to those European governments, for example, in France. One of the main drivers was an interest in Porsche, the carmaker. President Macron had a business connection in his previous life. It is all a bit swampy, frankly, the European attitude to this, and it is great to see that finally they are realizing President Trump meant it, this is not the way it is going to go forward. Boris Johnson today calling for a new deal, a Trump deal, very smart of him to put it like that, I thought. We'll see where it goes."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Next up, debate night in Iowa, some candidates not waiting to fight each other."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "What do you think the reason is that Elizabeth Warren is catching up to you in polls?"
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS, (D-VT) PRESIDENTIAL CANDIDATE",
+      "utterance": "I think that there are certain number of people who would like to see a woman elected, and I understand that."
+    },
+    {
+      "speaker": "JEFF WEAVER, SANDERS CAMPAIGN SENIOR ADVISER",
+      "utterance": "For anyone to say that a woman can't win, it doesn't makes sense. Hillary Clinton won 3 million more votes than Donald Trump did in the last election. So there are some wires crossed here, but clearly Bernie Sanders did not say that a woman could not win. Those conversations can sometimes get misconstrued."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All kinds of substance, battles back and forth, but this one is about whether Bernie Sanders set a woman could win the presidency. Elizabeth Warren putting out a statement last night, \"Bernie and I met for more than two hours in December, 2018, to discuss the 2020 election. Among the topics that came up was what would happen if Democrats nominated a female candidate. I thought a woman could win, he disagreed.\" That from Elizabeth Warren and her campaign ahead of a debate. We are back with the panel. Matthew, here are some Democrats. This is the last thing that they want to see debating."
+    },
+    {
+      "speaker": "CONTINETTI",
+      "utterance": "It is a very revealing moment. Of all the things that Elizabeth Warren could have criticized Bernie Sanders for, being more extreme on policy than she is, being perhaps less unelectable than she is, she goes to the sexism card. She plays identity politics. It shows you how identity politics trumps policy in the Democratic Party today. And it also says that Sanders and Warren are in this existential conflict. Neither can win without taking the base of the other, and the person this ultimately benefits is, of course, Joe Biden."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "We'll see. Take a look at the debate stage tonight. Smaller in Iowa as they are fighting for attention. Possible opening for Amy Klobuchar if there is a battle between the top three in the polls."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Our experience with these multi-candidate races when two candidates start getting into a food fight is usually a third candidate benefits. That is what has happened for the Democrats in the past. Gephardt gets into it with someone, and -- but I think that the big question for me is not just how Warren is going to handle this. And don't forget, she was responding to this script that the Sanders campaign gave to their volunteer callers to say Elizabeth Warren is an elitist, she is not going to be able to expand the base of the party. But what I am watching is Bernie Sanders is now a front runner. Is he going to get the kind of scrutiny that front runners usually get, or is he going to be given a pass? Because Sanders has been remarkably untouched by scrutiny because Democrats have a failure of imagination. They don't believe he can be the nominee, and I think that is changing."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You say that, but if you look at the RCP average, Real Clear Politics average, national, Iowa, and New Hampshire, Joe Biden, Steve, has come back up in both Iowa and New Hampshire, where he was, at times, running fourth. He has made a resurgence, perhaps because of this fear of Sanders, Warren, et cetera."
+    },
+    {
+      "speaker": "HILTON",
+      "utterance": "He has. I think despite what the conventional wisdom is, I think he is a fundamentally weak candidate. He doesn't excite people. I think he is going to do less well in Iowa because they really need to get people excited about you to turn out. I think that he just doesn't bring that kind of energy that you need to really drive an election result in your favor in these times. And I think that any of the others are actually stronger potentially against President Trump than he is."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "If you look at, this is a staggering number, this spending on ads. Michael Bloomberg at $130 million. This is just one estimate. There are some put him over $150 million. You see Tom Steyer at $74 million. There is a thought that Mike Bloomberg is kind of suggesting that they could win a lot early states, but in the end I'm going to pull this out in the end."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "The primary strategy for Bloomberg is that if we get a muddled outcome from the first four states, somebody different wins each one, or they are all bunched up within a point of each other, then you get to Super Tuesday with all these giant states where money really matters, and there is Michael Bloomberg with his big fat wallet, ready to move in. That's one theory. The other theory is, and he has said this, that he spends this kind of money, billions of dollars potentially, no matter who is the nominee, even if he is not, he is determined to beat Donald Trump. And that, I think, would be a huge factor."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "In one New York mayor race I think he spent $170 per voter. If that was the same equation, it could do $12 billion. He's got 52."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "That is like pocket change for him."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "That is finding it in the couch."
+    },
+    {
+      "speaker": "CONTINETTI",
+      "utterance": "Money can buy you poll numbers, but it can't buy you elections. That is what Donald Trump proved in 2016 when he was outspent, and most of his donations came from small dollar donors, not from big donors, who were against him in the primary, and he still won."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Meantime, Andrew Yang who is not on the stage tonight, tweeted \"Thank you, Dave Chapelle. Welcome to the Yang Gang.\" The comedian campaigning for Andrew Yang. So we'll see how that works out. Thanks, panel. When we come back, an army soldier surprises his loved ones."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Finally tonight, a heartwarming homecoming. Army soldier Jesse Curtis has been away from his family for nearly a year serving his country. He came home a little early to surprise his three children. Reunited with his oldest son Ty while he was in class, check this out. I love that. His youngest son Cason came during a first grade assembly, surprised him. And his daughter Adabelle before her team's basketball game. Got all three of them. One fell swoop at school, that is great. Thanks for inviting us into your home tonight. That's it for the SPECIAL REPORT, fair, balanced, and unafraid. \"THE STORY\" hosted by Martha MacCallum starts right now. Hey, Martha. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

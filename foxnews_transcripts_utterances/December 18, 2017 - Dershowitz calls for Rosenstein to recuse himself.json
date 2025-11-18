@@ -1,0 +1,1641 @@
+{
+  "date": "December 18, 2017",
+  "headline": "Dershowitz calls for Rosenstein to recuse himself",
+  "subHeadline": "The legal expert explains on \"Hannity.\"",
+  "url": "https://www.foxnews.com/transcript/dershowitz-calls-for-rosenstein-to-recuse-himself",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "JEANINE PIRRO, GUEST HOST",
+      "sentences": "Welcome to \"Hannity.\" I'm Jeanine Pirro in for Sean. There's a lot of breaking news tonight. Special Counsel Robert Mueller's team is once again under fire. This time for how it obtained emails from the Trump transition team. It's raising serious legal questions. A lawyer for the Trump transition team is saying the documents were acquired improperly while Mueller's investigators are claiming they did nothing wrong. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } Gregg Jarrett and Alan Dershowitz are here with their expert legal analysis. And President Trump delivers a major national security speech on putting America first. Former U.N. Ambassador John Bolton reacts. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); } But first, a high-speed train derailment in the State of Washington. Investigators are on the scene. Joining us now with the latest details is Dan Springer. Dan. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAN SPRINGER, FOX NEWS CORRESPONDENT",
+      "sentences": "Yes. Judge Jeanine, a horrible and tragic day here in Western Washington. As the Washington State patrol has confirmed three fatalities, but the Associated Press is reporting six, at least six, and the discrepancy could be that three have been pulled from the wreckage, but there could be three bodies still inside some of those cars. You can see behind me dangling off of a trestle here about 50 miles South of Seattle over a I-five. That train derailed at about 7:40 this morning at the height of rush hour traffic. Speed might be a factor. They will definitely going to look at the speed of the train. There were multiple reports that this train was traveling upwards of 80 miles an hour, about a quarter mile away from where it went off the tracks and where it went off the tracks, there is a very sharp curve. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, when investigators get here a little bit later tonight, they will be looking at a number of things but including the speed. There were 77 people on the train and five crew members. Thirteen of the 14 train parts, the cars in the engines came off the tracks, many of them came on the highway down below. Five cars and two semi-trailers were hit by train parts and train pieces as they were coming down off that trestle and there were injuries, but no fatalities among people on the ground. But again, the job right now -- they have a lot of heavy machinery here. They are trying to stabilize those railcars that are still dangling off that trestle to try to shore up enough to be able to get inside and retrieve the final victims of this horrible train accident that happened this morning. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } And again, this was something that -- this was an inaugural run of this train route from Seattle down to Portland. They had this high-speed rail line and the whole idea was to shave about 15 minutes off of the run from Seattle to Portland and there were many people who were upset about this and they warned about something like this happening. So, that will all be part of the investigation as we look forward. Jeanine, back to you. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "All right. Dan, thanks so much. And this weekend, Special Counsel Robert Mueller's team came under fire over how they obtained emails from the Trump transition team. Joining us now live from the White House is Ed Henry. Ed?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHIEF WHITE HOUSE CORRESPONDENT",
+      "sentences": "Judge, good to see you. Democrats are trying to pour gasoline on this fire by spreading rumors that the President may try to fire Robert Mueller and the President insists that is not true, though his allies outside the White House are trying to undermine the Special Counsel's credibility. In fact a lawyer for the President's transition to power is trying to make the case Mueller himself tainted the probe by obtaining tens of thousands of emails from the time period between the election and the inaugural. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); } Mueller did this not by issuing a subpoena that would be known to the Trump legal team, but instead went directly to the general services administration which helps manage bureaucratic functions, including the transition. Trump for America Incorporated Counsel Kory Langhofer declaring that career government workers, potentially hostile to the President, quote, \"Unlawfully produced transition private materials, including privileged communications to the Special Counsel's office.\" Peter Carr, a spokesman for the Special Counsel pushed back, quote, \"When we have obtained emails in the course of our ongoing criminal investigation, we have secured either the account owners consent or appropriate criminal process.\" But Alan Dershowitz a long time Democrat says, this was a close legal call, so it was foolish for Mueller to fail to make this airtight by seeking an easily obtainable warrant. Dershowitz adding, Mueller should have immediately disclosed to the public he had in fact removed FBI agent Peter Strzok from the case because of anti-Trump text messages rather than waiting a couple of months. Here's Dershowitz. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I think he has a credibility problem. He should have been more careful about who he hired. He has been conducting a sloppy investigation and that's a typical of him. I'm surprised. When you're going after the President, you have to be Caesar's wife. You have to be above reproach. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Now, another Democrat, Mark Penn who advised former President Bill Clinton has just conducted a poll for The Hill Newspaper that found 54 percent of the public believes that Mueller has conflicts of interest in this investigation. Sixty three percent of the public said the FBI is withholding key information about not just the Trump, but the Hillary Clinton investigations as well. Judge? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "All right, Ed, thanks so much. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); } And also tonight, The Wall Street Journal has a stunning new report about the text message between FBI agent Peter Strzok and FBI Lawyer Lisa Page. That's been getting a lot of attention. In a text from August, 2016, Strzok wrote, \"I want to believe the path you threw out for consideration in Andy's office, that there's no way he gets elected, but I'm afraid we can't take that risk. It's like an insurance policy in the unlikely event you die before your 40.\" Fox News couldn't confirm, but believes the Andy reference in that text was referring to Deputy FBI Director Andrew McCabe. And tonight, The Wall Street Journal is reporting, quote, \"An FBI agent's reference to an insurance policy in a much debated text message was meant to convey that the bureau needed to aggressively investigate allegations of collusion between Donald Trump's campaign and Russia, according to people familiar with his account.\" if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } And joining us now with reaction is Fox News contributor, former Congressman Jason Chaffetz. Fox News contributor and former Clinton pollster Doug Schoen and Fox News legal analyst Gregg Jarrett. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); } All right. Gregg, I am going to start with you first. Because, you know, Mueller is getting these records from the presidential transition team. I'm not sure that everybody understands how wrong this is. And you're going to tell us the legal aspect, but this is not government property.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GREGG JARRETT, FOX NEWS LEGAL ANALYST",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "And this includes information that has to do with national security, attorney client. There is a statute in fact that controls how you access this information. And you tell the viewers. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "For several reasons these are private documents. First and foremost, the transition team is organized as a private nonprofit. And the chief records officer of the United States sent a letter to the GSA and all other agencies saying, remember these are private documents. They are nongovernment employees, therefore nongovernment property. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "And he said that right before the transition team, or as soon as they got in, to remind everyone that the rules still apply everyone.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "So that means legally that Mueller just can't walk into the GSA and hand over these records from a custodian. Because the GSA doesn't own the records. The Trump transition team does and they are private. He has to get either a warrant from a judge or a subpoena from a grand jury. He got neither one of them, even the GSA admits they handed it over just based on the letter. Now, under the law that is excluded as evidence under the exclusionary rule, which you know. And if they also receive privileged documents which the transition team lawyer argues, those lawyers including Mueller can be disqualified and removed from the case. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Okay. Before we get to removing Mueller, any information, it's kind of like fruit of the poisonous tree --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "It is exactly. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "-- with the Strzok dossier and Strzok -- and not being used to get a FISA warrant, the allegations of course. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "But what you have here is if indeed there was a review of these documents and west wingers were interrogated or interviewed with respect to information from this, nothing can be used. So, the evidence itself will be admissible.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "If they questioned Flynn with those documents, Flynn's lawyer should go into court and withdraw the plea and have the charges dismissed because it is fruit of the poisonous tree exclusionary rule. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Okay. You know, Doug, without getting too legal here, I mean, you heard that there is a statute, there's a regulation, there is a reminder. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOUG SCHOEN, FOX NEWS CONTRIBUTOR",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Why do you think this guy in GSA just handed over the records and didn't say, we're just subpoenaed buddy? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHOEN",
+      "sentences": "I don't know, but I would very much hope the Trump transition team immediately goes to court to seek to get legal validation if it be that for what Gregg Jarrett, so I think -- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Well, how do you do that unless there are charges filed, we can make those allegations with Mike Flynn?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "As I understand the law, and I defer to my colleague here, that when there is imminent harm that can be done, you can go into court and get an emergency restraining order. And I think this is one of those cases. What I worry about Jeanine, is this is getting too political. If Robert Mueller is removed, we will have a constitutional crisis in this country. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Well, the President is not going to remove them. And some Democratic congresswoman, the rumor in Washington is gone because of it, she's wrong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHOEN",
+      "sentences": "But what Robert Mueller needs to do is appoint an ethics advisor. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Too late. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHOEN",
+      "sentences": "No, it isn't too late.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Jason, isn't too late?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHOEN",
+      "sentences": "It isn't too late. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "It isn't too late?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHOEN",
+      "sentences": "It's not too late.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Doug says, no. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JASON CHAFFETZ, FORMER CHAIRMAN OF THE HOUSE OVERSIGHT COMMITTEE",
+      "sentences": "That's ridiculous. That is absolutely ridiculous. This is the very top echelon of FBI agents and Department of Justice personnel and you are telling me they don't know what the ethics of it are? That they shouldn't be in charge of this investigation. It is just, you know, the fix was in at the beginning. And you know what, if it was a Democrat president and a Republican Department of Justice, you know, come on, if the tables were turned, everybody in Washington, D.C., would be yelling and screaming. But it's not, it's Donald Trump so they leave it alone and they let it keep going. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "And now the truth Jason is that your committee had oversight over GSA. Now, you are familiar with all of these regulations, these guidelines. Why would someone at GSA just say, oh great they want it, let's give them all these records? Because they are deep state possibly?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "I mean, the deep state is alive and well. Look, you get a letter from Director Mueller telling me to turn over those documents. You are not an attorney. They should have gotten some legal advice. Basically all GSA does is turn on the lights, provide some office space, give you a couple of I.D. badges and some computers to turn on and say, here, here are some office space that you don't have to go try to rent and figure this out during the critical time, but they didn't have the right to turn them over, they didn't have possession of them. It wasn't theirs to turn over. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "All right. But Greg, now you've got these lawyers on this Mueller team and they know that they are in possession of privileged information. They know it. They know the players, they know their jobs. So, shouldn't those lawyers be brought up before, you know, some grievance committee because they didn't notify the person. Look, we've got this stuff that is privileged, you have a right to at least argue that we don't have it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Every lawyer at DOJ knows that when you get a huge cache of documents, you have to set up what is called the tainted teams to make sure, a third-party team could go through the documents, segregate the privileged material from the legitimate material and make sure that the lawyers on the case don't ever see those privileged documents. And now according to the transition team lawyer, the folks at the Special Counsel's office admitted last Friday in a phone conversation, we didn't set up the taint team. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Well, they didn't. And you know, the fact that they had the nerve to go around the law, around the regulations, around the requirements, Doug, it bothers me. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHOEN",
+      "sentences": "It bothers me and the reason why I recommend somebody like former Supreme Court Justice David Souter, unimpeachable, a Republican is to get to the bottom of this, so that we can go forward with as much confidence as possible. Look, this bothers me too. I'm a Democrat, I'm not a Republican, but I want a fair, transparent investigation and I would also, as I've said here on this program, like Hillary Clinton investigated too. We have a lot to investigate and we need to get as much credibility as we can in Mueller's investigation. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "But Jason, at the end of all of this, isn't it about -- if the President, if you kind of refer, see how he's handling this, he's basically saying, I'm not going to fire him and he's basically saying, you know, there's nothing there. It was outrageous, but there was really nothing there. It seems that this really is winding down. And don't you think that the President now has some leverage on Mueller? Because he can bring them up on ethical charges without a doubt to me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHOEN",
+      "sentences": "Well, you know, someone suggested that there be a second special prosecutor. How is that first one working out? I wouldn't do a second one. I really do believe that it is time for Attorney General Sessions to go. I don't think he's up for the job. Every time I see him he looked like he is some prisoner and the whole reason we have a special prosecutor is because we have an Attorney General who can't do his job. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); } And we have deep-seated systemic problems within the Department of Justice. We need a real leader there that is going to take control and root out this Deep State and what they're doing, the tentacles that they have and until that happens, I think this is going to continue on. I really do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "But you know, the sad part of Jason, is you've got Andrew McCabe, who should have been fired the day Christopher Wray came in and that Christopher Wray hasn't done it makes me concerned about the new head of the FBI, Christopher Wray. And you've got Rosenstein with all of his conflicts. He is supervising Mueller, who was best friends with Comey. And I could go on and on. This is awful. And you know, what, I will give you ten seconds, Gregg, wrap it up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Well, I agree, and I've written many column saying, Jeff Sessions should resign. He has recused himself out of the job. The President clearly wants them to go. Jeff Sessions should do the right thing for the good of the country and good for the Justice Department to quite, let somebody else come in who can actually do the job.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Well, yes, or you know, who has prosecutorial instincts and Doug -- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHOEN",
+      "sentences": "I agree, we need a new Attorney General. I would like to get somebody nonpartisan to strengthen the credibility of a justice system, Jeanine. Whatever side you were on, it's very tainted. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Yes. You know what, I agree with you. I mean, this is not supposed to be this way. Politics and the FBI and the Department of Justice, what, 64 percent of Americans think that the FBI's withholding documents, because they are! Why?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHOEN",
+      "sentences": "Why? Because we are leading to a constitutional crisis where people do not have confidence in the basic institutions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "You know what, it's more than a constitutional crisis, we are at the point where people are about to revolt because they don't have the right to run Washington this way. And that's my final thought. Not that you asked. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); } Coming up, constitutional law Professor Alan Dershowitz says, Attorney General Jeff Sessions should un-recuse himself, that's interesting, in the Russia investigation. He joins us next. And later, President Trump unveils his America first National Security strategy. Former U.N. Ambassador John Bolton will have a reaction. Stay with us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Welcome back to \"Hannity.\" if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Joining us now with reaction to the latest controversy swirling around Robert Mueller's team is the author of the book, \"Trumped Up: How Criminalization of Political Differences Endangers Democracy,\" Alan Dershowitz. All right. Good evening, Professor Dershowitz. It's good to have you here tonight. ALAN DERSHOWITZ, AUTHOR, \"TRUMPED UP\": Good evening. Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Now, you wrote a fascinating article saying that Trump doesn't need to fire Mueller and you say that there are certain tactics that can be used that are almost better than actually firing him, talk to us. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "Well, I learned about this from the great coach of the Boston Celtics who told me one day when we were sitting at a Celtics game that whenever he used to scream at an official in yellow, the official, he would always get the next call in his favor. Then I heard the same thing from baseball player who said when he protested a ball or a strike, he would get the next call. I think that's the tactic that is being used here. You continuously attack Mueller. You bring up every possible issue whether it be conflict of interest, hiring the wrong people, failing to get a warrant for the emails, using the dossier to get the national security warrant and Mueller, who is so concerned about his integrity and his reputation may very well be inclined to lean over backwards to show his fairness and to make a close call in favor of Trump rather than against Trump. So, I suspect that's probably what's happening. They are playing the refs as it's called in sports.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Well, you know, aside from the baseball analogies, I mean, you are an attorney. You understand that there are rules, there are guidelines. We were talking about this in the other block. If you have possession of documents as a lawyer that is privileged, it contains privileged information, then you are ethically obligated to at least notify the person whose information you have and yet -- and Mueller's team knows all of us. Are they playing by the rules or are they just hurting themselves here? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "Well, they are claiming that they have these thousands of emails and they haven't even gone through them yet to determine whether any of them are privileged. They are also taking the position that nothing is privileged because everybody was on notice that this was the possession of the government, the property of the government, not the property of individuals. But that violates core notions of civil liberties. People have reasonable expectations of privacy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "They don't expect that their emails to their lawyer. Well, the emails to the future president of the United States, the President- elect would be looked into without a subpoena or a search warrant. And it was so easy for Mueller to go and get a search warrant. You used to be a judge, you know you just go to a judge and make any kind of plausible presentation and you get your search warrant. Why not do it? He's been conducting a very sloppy investigation. When you're going after the President, you can't afford to be sloppy because you know that they're going to be people taking advantage of every mistake you make and he has made too many.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "And you know, Professor, when you talk about, you know, the .Gov and no expectation of privacy, this presidential transition team, there are statutes that apply to them in particular, regulations, memos of understanding. So, I can get the, you know, you have no expectation of privacy on certain servers, .Gov. But this is surrounded by particular legislation and regulations and memos of understanding. It's outrageous. I think it's outrageous.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "Of course.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Okay. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "Well, let me tell you the hypocrisy. You have people on the other side making the following two arguments. Number one, they say that of course there can be any privileged because he wasn't a government official. He wasn't the President yet so they can't be executive privilege. On the other hand, they say they were public officials for purposes of being able to get the emails. You can have it both ways. You have to pick a theory and they are inconsistent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Well, you have to pick a theory but, you know, in addition to that, I think what we've seen with Mueller is this whole thing with Peter Strzok and you know, the woman with whom he was having the affair, Lisa Page who worked for the FBI.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "Uh-hm.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "And they are talking about, you know, they're going to have to get an insurance policy and, you know, they have this meeting and around the same time, Strzok who is in charge of counterintelligence that we start this Russia probe on the alleged Trump-Russia collusion. Mueller doesn't say anything about Strzok and the realization that he found out that there were all of this anti-Trump sentiment. I mean, it's venomous, it's horrible.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "But he did get rid of him. On the other hand, he kept that secret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "No, no. He did it as soon as he found out about it, but he didn't tell the public until months later as a result of a lawsuit brought by a group of lawyers. So, look, I think Mueller is a decent and honorable man who cares deeply about his reputation, is trying to do the right thing. He made a terrible mistake. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "He's made a few.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "When you are going against the President who is a Republican - -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "I know.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "-- who is a Republican. You take much more care and who you put on the investigative team. You make sure that it is Caesar's wife. Everybody has to be above reproach. He didn't pass that Caesar's wife test. Now he's being careless in obtaining evidence without warrants or subpoenas. Those play right into the hands of the Trump team and there's just no good reason why a good lawyer should do that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Well, it's bullying.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "I would never allow somebody working for me to do anything like that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Nobody working for me would do it, but it's bullying. And don't you think it's interesting though how the President's team is handling it? You know, they are not really going full bore on this one. I think that the facts speak for themselves. And by the way, you know, you say that he's made one or two errors. I think you made an error right from the get- go. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } The fact that he applied for the job to be the head of the FBI and didn't get it, the fact that he is so tight with James Comey and, you know, the two of them think they have made history together when John Ashcroft was in the hospital. I mean, that is classic conflict of interest. You know it, Professor. Admit it!",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "Well, I think that the very idea of appointing a special prosecutor defeated the purpose of any inquiry. We want an open, public inquiry, abide partisan inquiry to make sure the Russians never intrude on American election. Instead what we get is behind closed doors, grand jury would never going to learn anything. Everybody is yelling, lock him up, lock her up. That's not the way to proceed. We shouldn't be criminalizing political differences. We should be gathering information from every side. This was a terrible election. It was an election filled with problems and we ought to use it as a lesson to avoid problems like this in the future and a special counsel is the worst way to do it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "But am I hearing you say that even if these open processes, we find that the law was violated, we don't prosecute people?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "No. Use the criminal law last, not first. When you appoint a special counsel, what you are saying is, we know there were crimes committed, now let's find out what crimes they were. Stalin talking to Liberty Barry (ph) and Barry is saying, show me the man and I will find you the crime. That's not the way America should work. We should first do an investigation, an open-ended, nonpartisan 9/11 type investigation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Well, then why was Bruce Ohr allowed to go to the Intelligence Committee? We have no idea. He's the guy whose wife works for Fusion GPS on the anti-Trump dossier and then he has a meeting with Fusion after they lose the election and I can only conclude that, you know, they're going to try to get their story straight. I mean, that doesn't help either.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "sentences": "Well, everybody should -- we should look into all of these issues to avoid recurrence in the future. We have to clean up our election system and we shouldn't do it through a special counsel. Somebody before mentioned that Mueller should appoint an ethics consultant. I had proposed that in my article this morning. I named David Souter, that would help them at least avoid these problems in the future. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); } Look, the Trump people would rather see him have ethical problems because it gives them ammunition. It's in Mueller's interest to clean up his act and go forward smoothly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "All right. It's a little late in the game. I think he has lost all credibility, but Professor, thanks so much for being with us. And coming up, President Trump unveiled his America First National Security strategy. We will get reaction from John Bolton and from the deputy assistant to the President for Strategic Communications on the National Security Council. Stay with us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Welcome back to \"Hannity.\" Earlier today President Trump laid out his national security strategy where he promoted American strength. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "sentences": "We are here today to discuss matters of vital importance to us all, America's security, prosperity and standing in the world. With every decision and every action we are now putting America first. To counter Iran and block its path to a nuclear weapon, I sanctioned the Islamic revolutionary guard corps for its support of terrorism and I declined to certify the Iran deal to congress. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } We have dealt ISIS one devastating defeat after another. The coalition to defeat ISIS has now recaptured almost 100 percent of the land held by these terrorist in Iraq and Syria. Our campaign on maximum pressure on the North Korean regime has resulted in the toughest ever sanctions. We have united our allies in an unprecedented effort to isolate North Korea. For the first time ever American strategy now includes a serious plan to defend our homeland. It calls for the construction of a wall on our southern border ending chain migration and the horrible visa and lottery programs. In addition, our strategy calls for us to confront, discredit and defeat radical Islamic terrorism and ideology. And to prevent it from spreading into the United States. America will lead again. We do not seek to impose our way of life on anyone, but we will champion the values without apology.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Joining us now with reaction, deputy assistant to the President for strategic communications on the National Security Council Michael Anton. Good evening, Michael. The president's speech was very consistent with everything that he is been saying since the campaign, except now it appears that he is at a point where he can talk about improved economic situation in this country with the stock market as well as the defeat of ISIS. It's almost as though it's a one year report card where he succeeded.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MICHAEL ANTON, DEPUTY ASSISTANT TO THE PRESIDENT, STRATEGIC COMMUNICATIONS ON THE NATIONAL SECURITY COUNCIL",
+      "sentences": "Certainly. The speech was in part a one year report card. It's also a speech to roll out, introduced to the American people the strategy document. That strategy document is informed first and foremost, we began with his campaign speeches. We continued with his major foreign policy addresses of 2017 and of course all of his actions in 2017 to change the course of American foreign policy. So he wanted to both talk to the American people about strategy or at least the new strategy document. As I say it's a strategy that has already had been in operation for this year. And to give a report card to say to them this is what I've been doing. This is what we've accomplished. This is the path that we are taking going forward.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "And you know when the President talked about defeating ISIS and recapturing almost 100 percent of the territory that they had conquered. I mean, you would think that he would be getting some credit for that, especially given the fact that President Obama was like, you know it's going to be a long time. It's going to take years. This President comes in, it's like they are gone.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANTON",
+      "sentences": "He is getting some credit for it, but I agree with you not nearly enough. A lot of the reason why that campaign accelerated so quickly this year was a fundamental change in strategy including loosening various rules that had micromanaging decisions being made here at the White House as opposed to devolved down to commanders in the field to make the decisions that they best so fit. So we have seen a really rapid degradation of ISIS capabilities in the Middle East. And almost the destruction of the physical caliphate. He said nearly 100 percent. I said almost. We don't want to say we are all the way there yet, but certainly we are miles ahead of where we work when this administration came into office. That is very important, because while it will be difficult to fully eradicate ISIS as a group, when they don't control territory, population centers and resources, their ability to project power and threaten us at home or at our installations overseas is reduced dramatically. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "All right. Michael Anton, thanks so much for being with us. And joining us now with more reaction to President Trump's national security strategy is Fox News contributor former U.S. Ambassador to the U.N. John Bolton. All right. Good evening, ambassador. I want to talk about the latest story that it appears that the Obama administration in their efforts to get this Iran deal past basically a passed on Hezbollah and let them off the hook. And they deliberately overlooked the drug trafficking in the drug smuggling operations, weapons trafficking, and it was across the board treasury department, Justice Department, along with state department. Can you think of a good reason for that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN BOLTON, FORMER AMBASSADOR TO THE UNITED NATIONS",
+      "sentences": "I think in Obama's mind his administration would have done anything to secure the nuclear deal with Iran. And would have taken no steps that in any way jeopardize that deal. In this treatment of Hezbollah, the things that were laid out in the article that Politico published about that you just mentioned.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Unbelievable.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLTON",
+      "sentences": "Yes, I think are perfectly believable when you look at what Obama was up to. Look, Hezbollah has been an Iranian directed terrorist group even and its constituent parts before Hezbollah itself came together. The bombing of the marine barracks in Lebanon in 1983 was in Iran-directed operation. This is the A-team of international terrorism and Obama appeased it, because he didn't want to do anything that might offend the Ayatollahs in Tehran. This is just the piece of the record. There is so much that Obama gave away to get that deal that when the full record is laid out Americans will be appalled.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "You know, Politico did the story and there's a headline the secret back story of how Obama led Hezbollah off the hook. And its determination to secure a nuclear deal, the Obama administration basically looked the other way. It had to have been clearly demoralizing Ambassador, for people in the DEA. They put their lives at stake, they've got undercover people. All kinds of information and assets out there that they are trying to protect and the Obama administration is delaying or rejecting their efforts and the worst part of it is that you know 60,000 Americans die every year of drug overdoses. And while these people are bringing in cocaine into the United States, the President of the United States is saying just ignore it. Let it pass.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLTON",
+      "sentences": "As I say, whatever made the Iranian regime happy, Barack Obama was prepared to do. This is, as you are pointing out very graphically, sacrificing key American interests in order to make the Iranians happier to come to this deal. There wasn't anything Obama wasn't prepared to give away and he came very close to giving away the entire story, this deal was made in heaven for the Iranians. Obama was happy to solve it, because fundamentally he didn't think that they were the problem. He thought once he could show that America didn't have a hostile intent that the ayatollahs would join the civilized world and everything would be happy. Since they signed the deal in December of 2015 that has not happened. His premises were wrong, his negotiation was bad. This deal is terrible and I hope the next demonstration of the American first strategy that we see is the President rejecting the deal in its entirety.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Well, that certainly is a possibility. But you know it really is amazing, Ambassador, that Obama, President Obama just laid back when it came to everything. I will never forget the prayer breakfast that first national prayer breakfast and I don't recall who had just had their head cut off, and the President comes out and says get off your high horse, it's really your turn. I mean, he laid-back for everybody. But there's got to be Americans out there whose kids died at about that time from overdoses, we have to be infuriated. Talk about blood on the President's hands. I mean this is a lot, it's a lot clearer here. But I want to talk about someone else now. I'm going to ask that they put the sound on Clapper. His criticism of President Trump, it goes so far as to try to show how Vladimir Putin is using the President as an asset, let us take a listen. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JAMES CLAPPER, FORMER INTELLIGENCE CHIEF",
+      "sentences": "I think this past weekend is illustrative of what a good case officer Vladimir Putin's. He knows how to handle an asset. And that is what he is doing with President.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You are saying Russia is handling President Trump as an asset?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CLAPPER",
+      "sentences": "That the appearance to me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "You know what is so amazing, the back story here is that the CIA was in a position to give intel to Russia and Putin and his people regarding an attack on the Christian church or a Greek orthodox church, Russian orthodox in Russia in Petersburg I believe. And he calls and says thank you in this guy Clapper criticizes the President. Here's my take on this. Do you remember when the Russians told the FBI about the brothers in the Boston bombing? They said it once and the FBI didn't listen. And then they called them again and the FBI said they didn't give us specific information. It got to give the Russians credit. They listened to the CIA and they stopped the attack on the church.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLTON",
+      "sentences": "I think this communication about the (inaudible) brothers. We still don't know the full story of why the FBI didn't take it seriously. I hope that is something the Justice Department is looking into. But to come back to General Clapper, I'm not holding my breath. To come back to General Clapper. He just accuse the President of treason essentially. He saying that he is a wedding Russian agent. If he is got evidence for that I would like to hear it. This paranoia really is causing enormous negative consequences for our Democratic institutions and to go back to your earlier discussion about the independent counsel, unless there is evidence of collusion of which we have seen none so far, I really think there's got to be a way to draw this investigation on that score to an end. And relate to narrow Mueller's -- the dimension of Mueller's probe. It is a real danger in this independent counsel's. They are out of control, they are not supervised. It's dangerous. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Unethical at the same time. Anyway, Ambassador Bolton, thank you so much for being with us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLTON",
+      "sentences": "Glad to be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "All right. Coming up more reaction to President Trump's major America first national security speech. Dan Bongino and Jessica Tarlov are next. Stay with us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We want strong alliances and partnerships based on cooperation and reciprocity. We will make new partnerships with those who share our goals. And male common interest into a common cause. With the strategy we are calling for a great reawakening of America. A resurgence of confidence and a rebirth of patriotism, prosperity and pride. And we are returning to the wisdom of our founders.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Welcome back to \"Hannity.\" that was more of President Trump's national security speech from earlier today. Joining us now, former secret service agent Dan Bongino and Fox News contributor Jessica Tarlov. Jessica, the President's speech today, as I said a couple minutes ago, seemed almost like a year-end report card talking about his accomplishments when it came to the economy and ISIS.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JESSICA TARLOV, DEMOCRATIC STRATEGIST",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Dealing with the issue not just of defeating ISIS and taking over almost 100 percent of the territory that they had conquered, but also talking about the political ideology behind it and making America first and making sure that we have the jobs and the allegiance of this country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "I felt like it was actually much more focused on domestic issues than international issues. The President from his campaign trail on his first year in office has made it a point to call out other countries and even her own allies that they are not paying their fair share for instance and that these international organizations don't work. He was very focused on what was going on here with the economy, as you mention, but also immigration. Shutting down the lottery system, chain migration. It felt like really a true America first take on it all. It was interesting to see the difference between what General Kelly wanted maybe Miller.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Kelly is on immigration, where is Stephen Miller?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "I think probably pumping about his victory in the economy. It hasn't been like this and really trusting his predecessors. He said for instance that he is making the economy and national security priority for the first time. That is been going on some 40 years that has been a key plank of the speeches that are given, every President gives. If there was a little Trump-ism there but generally I think it was quite subdued.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Yes, what do you think Dan?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAN BONGINO, FORMER SECRET AGENT SERVICE",
+      "sentences": "Patriotism, pride, America first, these are things for eight years we frankly did not hear pronounced loudly from Barack Obama. It was an international apology to her. You know I will never forget ever that speech where he said American exceptionalism. We are exceptional, just like the Greeks are exceptional.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "He was saying that they were exceptional about their own nation, which they do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BONGINO",
+      "sentences": "That is a scam. That is nonsense. Here's the deal on this. I love the Greeks, I'm a Christian, and I believe we are all children of god, but the Greek system of government stinks. I'm sorry. We are the greatest country on earth, the American President, you don't go out there and give a speech about American exceptionalism. Whatever, it's just like Greek exceptionalism, nonsense. We are a constitutional republic, the most prosperous country on earth, get out there and celebrate it. You are the American President, thumbs up for Donald Trump for celebrating America again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Jessica, I don't think there's any question what Dan is saying is accurate because the whole Obama legacy with the globalism and the open borders and people from Central America need to come in, let them in. The Muslims need to come in from other countries where, you know, there being - -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Seeking refuge from persecution, yes, and I believe they should still be able to come. I believe that is actually the Christian thing to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "What about the chain migration and the inability to vet these people? The Obama legacy has let them all in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "It is according to some people and I have to respect that. It certainly -- on my side of the isle, people talk about the booming economy that Obama build that Trump is now benefiting from and building upon. They talk about globalism is a good thing. We used to be the Paris climate act that we actually talked about global warming which wasn't mentioned today that Obama did start the beginning of this defeat of ISIS, though I give President Trump credit for what has gone on. A great column in \"The New York Times\" today that is something everyone needs to acknowledge, things have shifted, because of changes that President Trump has made. Obama's legacy is not apologies and globalism is a bad thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "He started in Cairo in week number two!",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "We need a President that cares about human rights. It is something that President Trump did not emphasize today. He mentioned in only time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "You think the President doesn't care about us?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "I think he cares about us, but I'm talking about human rights generally.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Dan, you take it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Go ahead Dan. Tell me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BONGINO",
+      "sentences": "Listen, I'm sorry but you have to please stop apologizing for Obama. He apologized enough for America. If you don't have to apologize for him too. I hear this line all the time for my liberal friends, which I consider you one. This is nonsense. Barack Obama started the destruction of ISIS and he started the economic recovery. That is a bunch of crap! He was in office eight years.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "No credit whatsoever to President Obama for turning the economy that inherited around?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BONGINO",
+      "sentences": "He took eight years to do what Trump has done in less than a year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Ok, guys. I want to talk about a report that came out just a short while ago from \"Washington Post.\" Trump's team they say meeting with Mueller's office is not only to ratchet up tensions, but they say that for all those people who thought that this was going to come to an end soon, they are now saying the investigation can last for at least another year. What you think of that Jessica?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "I think it's accurate. I think these are reports that were coming out that President Trump is expecting an exoneration letter sometime soon are without merit. I think something of this level and size takes time. We've already seen five indictments. There are a lot more characters in play here. And I think Bob Mueller should take his time. I think it's something that is worth our taxpayer dollars.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "All right. Dan, the indictments that we've seen have to do with taxes and Manafort and Gates.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Mike Flynn has to do with lying and the Russians.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Lying. We don't know precisely -- go ahead, Dan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARSTOW",
+      "sentences": "We were told by all the liberal Trump haters out there that we had the scandal of the century with collusion with the Russians to overturn an election, what do we got? We got two favors and a guy who had some shady businesses dealing before he even met Donald Trump. I mean folks, can we wrap this thing up? I will throw this out for you, I will fly up to New York and cut you a thousand dollar check if you can say in the camera right now a sliver of evidence you have that Donald Trump himself colluded with the Russians to win an election. I will fly up tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Campaign team we could do it and I could use that grant. But Donald Trump himself.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BONGINO",
+      "sentences": "I will mail you the check.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Just come hang out anyway, I'm super fun.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "We got to go to break, thanks Dan, thanks Jessica. Coming up, more \"Hannity\" right after the break. Stay us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIRRO",
+      "sentences": "Welcome back to Hannity. Unfortunately that is all the time we have left this evening. As always, thank you so much for being with us and don't forget to set your DVR so you never miss an episode of \"Hannity.\" Don't forget to watch \"Justice\" every Saturday night at 9:00 p.m. Eastern. And you can follow me on twitter @JudgeJeanine. I will be back for Sean on Wednesday night filling in for him. We hope you will join us then as well. Have a great night. Laura Ingraham is live now from Washington, D.C. Hello, Laura. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JEANINE PIRRO, GUEST HOST",
+      "utterance": "Welcome to \"Hannity.\" I'm Jeanine Pirro in for Sean. There's a lot of breaking news tonight. Special Counsel Robert Mueller's team is once again under fire. This time for how it obtained emails from the Trump transition team. It's raising serious legal questions. A lawyer for the Trump transition team is saying the documents were acquired improperly while Mueller's investigators are claiming they did nothing wrong. Gregg Jarrett and Alan Dershowitz are here with their expert legal analysis. And President Trump delivers a major national security speech on putting America first. Former U.N. Ambassador John Bolton reacts. But first, a high-speed train derailment in the State of Washington. Investigators are on the scene. Joining us now with the latest details is Dan Springer. Dan."
+    },
+    {
+      "speaker": "DAN SPRINGER, FOX NEWS CORRESPONDENT",
+      "utterance": "Yes. Judge Jeanine, a horrible and tragic day here in Western Washington. As the Washington State patrol has confirmed three fatalities, but the Associated Press is reporting six, at least six, and the discrepancy could be that three have been pulled from the wreckage, but there could be three bodies still inside some of those cars. You can see behind me dangling off of a trestle here about 50 miles South of Seattle over a I-five. That train derailed at about 7:40 this morning at the height of rush hour traffic. Speed might be a factor. They will definitely going to look at the speed of the train. There were multiple reports that this train was traveling upwards of 80 miles an hour, about a quarter mile away from where it went off the tracks and where it went off the tracks, there is a very sharp curve. So, when investigators get here a little bit later tonight, they will be looking at a number of things but including the speed. There were 77 people on the train and five crew members. Thirteen of the 14 train parts, the cars in the engines came off the tracks, many of them came on the highway down below. Five cars and two semi-trailers were hit by train parts and train pieces as they were coming down off that trestle and there were injuries, but no fatalities among people on the ground. But again, the job right now -- they have a lot of heavy machinery here. They are trying to stabilize those railcars that are still dangling off that trestle to try to shore up enough to be able to get inside and retrieve the final victims of this horrible train accident that happened this morning. And again, this was something that -- this was an inaugural run of this train route from Seattle down to Portland. They had this high-speed rail line and the whole idea was to shave about 15 minutes off of the run from Seattle to Portland and there were many people who were upset about this and they warned about something like this happening. So, that will all be part of the investigation as we look forward. Jeanine, back to you."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "All right. Dan, thanks so much. And this weekend, Special Counsel Robert Mueller's team came under fire over how they obtained emails from the Trump transition team. Joining us now live from the White House is Ed Henry. Ed?"
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHIEF WHITE HOUSE CORRESPONDENT",
+      "utterance": "Judge, good to see you. Democrats are trying to pour gasoline on this fire by spreading rumors that the President may try to fire Robert Mueller and the President insists that is not true, though his allies outside the White House are trying to undermine the Special Counsel's credibility. In fact a lawyer for the President's transition to power is trying to make the case Mueller himself tainted the probe by obtaining tens of thousands of emails from the time period between the election and the inaugural. Mueller did this not by issuing a subpoena that would be known to the Trump legal team, but instead went directly to the general services administration which helps manage bureaucratic functions, including the transition. Trump for America Incorporated Counsel Kory Langhofer declaring that career government workers, potentially hostile to the President, quote, \"Unlawfully produced transition private materials, including privileged communications to the Special Counsel's office.\" Peter Carr, a spokesman for the Special Counsel pushed back, quote, \"When we have obtained emails in the course of our ongoing criminal investigation, we have secured either the account owners consent or appropriate criminal process.\" But Alan Dershowitz a long time Democrat says, this was a close legal call, so it was foolish for Mueller to fail to make this airtight by seeking an easily obtainable warrant. Dershowitz adding, Mueller should have immediately disclosed to the public he had in fact removed FBI agent Peter Strzok from the case because of anti-Trump text messages rather than waiting a couple of months. Here's Dershowitz."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I think he has a credibility problem. He should have been more careful about who he hired. He has been conducting a sloppy investigation and that's a typical of him. I'm surprised. When you're going after the President, you have to be Caesar's wife. You have to be above reproach."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Now, another Democrat, Mark Penn who advised former President Bill Clinton has just conducted a poll for The Hill Newspaper that found 54 percent of the public believes that Mueller has conflicts of interest in this investigation. Sixty three percent of the public said the FBI is withholding key information about not just the Trump, but the Hillary Clinton investigations as well. Judge?"
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "All right, Ed, thanks so much. And also tonight, The Wall Street Journal has a stunning new report about the text message between FBI agent Peter Strzok and FBI Lawyer Lisa Page. That's been getting a lot of attention. In a text from August, 2016, Strzok wrote, \"I want to believe the path you threw out for consideration in Andy's office, that there's no way he gets elected, but I'm afraid we can't take that risk. It's like an insurance policy in the unlikely event you die before your 40.\" Fox News couldn't confirm, but believes the Andy reference in that text was referring to Deputy FBI Director Andrew McCabe. And tonight, The Wall Street Journal is reporting, quote, \"An FBI agent's reference to an insurance policy in a much debated text message was meant to convey that the bureau needed to aggressively investigate allegations of collusion between Donald Trump's campaign and Russia, according to people familiar with his account.\" And joining us now with reaction is Fox News contributor, former Congressman Jason Chaffetz. Fox News contributor and former Clinton pollster Doug Schoen and Fox News legal analyst Gregg Jarrett. All right. Gregg, I am going to start with you first. Because, you know, Mueller is getting these records from the presidential transition team. I'm not sure that everybody understands how wrong this is. And you're going to tell us the legal aspect, but this is not government property."
+    },
+    {
+      "speaker": "GREGG JARRETT, FOX NEWS LEGAL ANALYST",
+      "utterance": "No."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "And this includes information that has to do with national security, attorney client. There is a statute in fact that controls how you access this information. And you tell the viewers."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "For several reasons these are private documents. First and foremost, the transition team is organized as a private nonprofit. And the chief records officer of the United States sent a letter to the GSA and all other agencies saying, remember these are private documents. They are nongovernment employees, therefore nongovernment property."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "And he said that right before the transition team, or as soon as they got in, to remind everyone that the rules still apply everyone."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "So that means legally that Mueller just can't walk into the GSA and hand over these records from a custodian. Because the GSA doesn't own the records. The Trump transition team does and they are private. He has to get either a warrant from a judge or a subpoena from a grand jury. He got neither one of them, even the GSA admits they handed it over just based on the letter. Now, under the law that is excluded as evidence under the exclusionary rule, which you know. And if they also receive privileged documents which the transition team lawyer argues, those lawyers including Mueller can be disqualified and removed from the case."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Okay. Before we get to removing Mueller, any information, it's kind of like fruit of the poisonous tree --"
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "It is exactly."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "-- with the Strzok dossier and Strzok -- and not being used to get a FISA warrant, the allegations of course."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "But what you have here is if indeed there was a review of these documents and west wingers were interrogated or interviewed with respect to information from this, nothing can be used. So, the evidence itself will be admissible."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "If they questioned Flynn with those documents, Flynn's lawyer should go into court and withdraw the plea and have the charges dismissed because it is fruit of the poisonous tree exclusionary rule."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Okay. You know, Doug, without getting too legal here, I mean, you heard that there is a statute, there's a regulation, there is a reminder."
+    },
+    {
+      "speaker": "DOUG SCHOEN, FOX NEWS CONTRIBUTOR",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Why do you think this guy in GSA just handed over the records and didn't say, we're just subpoenaed buddy?"
+    },
+    {
+      "speaker": "SCHOEN",
+      "utterance": "I don't know, but I would very much hope the Trump transition team immediately goes to court to seek to get legal validation if it be that for what Gregg Jarrett, so I think --"
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Well, how do you do that unless there are charges filed, we can make those allegations with Mike Flynn?"
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "As I understand the law, and I defer to my colleague here, that when there is imminent harm that can be done, you can go into court and get an emergency restraining order. And I think this is one of those cases. What I worry about Jeanine, is this is getting too political. If Robert Mueller is removed, we will have a constitutional crisis in this country."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Well, the President is not going to remove them. And some Democratic congresswoman, the rumor in Washington is gone because of it, she's wrong."
+    },
+    {
+      "speaker": "SCHOEN",
+      "utterance": "But what Robert Mueller needs to do is appoint an ethics advisor."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Too late."
+    },
+    {
+      "speaker": "SCHOEN",
+      "utterance": "No, it isn't too late."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Jason, isn't too late?"
+    },
+    {
+      "speaker": "SCHOEN",
+      "utterance": "It isn't too late."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "It isn't too late?"
+    },
+    {
+      "speaker": "SCHOEN",
+      "utterance": "It's not too late."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Doug says, no."
+    },
+    {
+      "speaker": "JASON CHAFFETZ, FORMER CHAIRMAN OF THE HOUSE OVERSIGHT COMMITTEE",
+      "utterance": "That's ridiculous. That is absolutely ridiculous. This is the very top echelon of FBI agents and Department of Justice personnel and you are telling me they don't know what the ethics of it are? That they shouldn't be in charge of this investigation. It is just, you know, the fix was in at the beginning. And you know what, if it was a Democrat president and a Republican Department of Justice, you know, come on, if the tables were turned, everybody in Washington, D.C., would be yelling and screaming. But it's not, it's Donald Trump so they leave it alone and they let it keep going."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "And now the truth Jason is that your committee had oversight over GSA. Now, you are familiar with all of these regulations, these guidelines. Why would someone at GSA just say, oh great they want it, let's give them all these records? Because they are deep state possibly?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "I mean, the deep state is alive and well. Look, you get a letter from Director Mueller telling me to turn over those documents. You are not an attorney. They should have gotten some legal advice. Basically all GSA does is turn on the lights, provide some office space, give you a couple of I.D. badges and some computers to turn on and say, here, here are some office space that you don't have to go try to rent and figure this out during the critical time, but they didn't have the right to turn them over, they didn't have possession of them. It wasn't theirs to turn over."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "All right. But Greg, now you've got these lawyers on this Mueller team and they know that they are in possession of privileged information. They know it. They know the players, they know their jobs. So, shouldn't those lawyers be brought up before, you know, some grievance committee because they didn't notify the person. Look, we've got this stuff that is privileged, you have a right to at least argue that we don't have it."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Every lawyer at DOJ knows that when you get a huge cache of documents, you have to set up what is called the tainted teams to make sure, a third-party team could go through the documents, segregate the privileged material from the legitimate material and make sure that the lawyers on the case don't ever see those privileged documents. And now according to the transition team lawyer, the folks at the Special Counsel's office admitted last Friday in a phone conversation, we didn't set up the taint team."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Well, they didn't. And you know, the fact that they had the nerve to go around the law, around the regulations, around the requirements, Doug, it bothers me."
+    },
+    {
+      "speaker": "SCHOEN",
+      "utterance": "It bothers me and the reason why I recommend somebody like former Supreme Court Justice David Souter, unimpeachable, a Republican is to get to the bottom of this, so that we can go forward with as much confidence as possible. Look, this bothers me too. I'm a Democrat, I'm not a Republican, but I want a fair, transparent investigation and I would also, as I've said here on this program, like Hillary Clinton investigated too. We have a lot to investigate and we need to get as much credibility as we can in Mueller's investigation."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "But Jason, at the end of all of this, isn't it about -- if the President, if you kind of refer, see how he's handling this, he's basically saying, I'm not going to fire him and he's basically saying, you know, there's nothing there. It was outrageous, but there was really nothing there. It seems that this really is winding down. And don't you think that the President now has some leverage on Mueller? Because he can bring them up on ethical charges without a doubt to me."
+    },
+    {
+      "speaker": "SCHOEN",
+      "utterance": "Well, you know, someone suggested that there be a second special prosecutor. How is that first one working out? I wouldn't do a second one. I really do believe that it is time for Attorney General Sessions to go. I don't think he's up for the job. Every time I see him he looked like he is some prisoner and the whole reason we have a special prosecutor is because we have an Attorney General who can't do his job. And we have deep-seated systemic problems within the Department of Justice. We need a real leader there that is going to take control and root out this Deep State and what they're doing, the tentacles that they have and until that happens, I think this is going to continue on. I really do."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "But you know, the sad part of Jason, is you've got Andrew McCabe, who should have been fired the day Christopher Wray came in and that Christopher Wray hasn't done it makes me concerned about the new head of the FBI, Christopher Wray. And you've got Rosenstein with all of his conflicts. He is supervising Mueller, who was best friends with Comey. And I could go on and on. This is awful. And you know, what, I will give you ten seconds, Gregg, wrap it up."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Well, I agree, and I've written many column saying, Jeff Sessions should resign. He has recused himself out of the job. The President clearly wants them to go. Jeff Sessions should do the right thing for the good of the country and good for the Justice Department to quite, let somebody else come in who can actually do the job."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Well, yes, or you know, who has prosecutorial instincts and Doug --"
+    },
+    {
+      "speaker": "SCHOEN",
+      "utterance": "I agree, we need a new Attorney General. I would like to get somebody nonpartisan to strengthen the credibility of a justice system, Jeanine. Whatever side you were on, it's very tainted."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Yes. You know what, I agree with you. I mean, this is not supposed to be this way. Politics and the FBI and the Department of Justice, what, 64 percent of Americans think that the FBI's withholding documents, because they are! Why?"
+    },
+    {
+      "speaker": "SCHOEN",
+      "utterance": "Why? Because we are leading to a constitutional crisis where people do not have confidence in the basic institutions."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "You know what, it's more than a constitutional crisis, we are at the point where people are about to revolt because they don't have the right to run Washington this way. And that's my final thought. Not that you asked. Coming up, constitutional law Professor Alan Dershowitz says, Attorney General Jeff Sessions should un-recuse himself, that's interesting, in the Russia investigation. He joins us next. And later, President Trump unveils his America first National Security strategy. Former U.N. Ambassador John Bolton will have a reaction. Stay with us."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Welcome back to \"Hannity.\""
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Joining us now with reaction to the latest controversy swirling around Robert Mueller's team is the author of the book, \"Trumped Up: How Criminalization of Political Differences Endangers Democracy,\" Alan Dershowitz. All right. Good evening, Professor Dershowitz. It's good to have you here tonight. ALAN DERSHOWITZ, AUTHOR, \"TRUMPED UP\": Good evening. Thank you."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Now, you wrote a fascinating article saying that Trump doesn't need to fire Mueller and you say that there are certain tactics that can be used that are almost better than actually firing him, talk to us."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "Well, I learned about this from the great coach of the Boston Celtics who told me one day when we were sitting at a Celtics game that whenever he used to scream at an official in yellow, the official, he would always get the next call in his favor. Then I heard the same thing from baseball player who said when he protested a ball or a strike, he would get the next call. I think that's the tactic that is being used here. You continuously attack Mueller. You bring up every possible issue whether it be conflict of interest, hiring the wrong people, failing to get a warrant for the emails, using the dossier to get the national security warrant and Mueller, who is so concerned about his integrity and his reputation may very well be inclined to lean over backwards to show his fairness and to make a close call in favor of Trump rather than against Trump. So, I suspect that's probably what's happening. They are playing the refs as it's called in sports."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Well, you know, aside from the baseball analogies, I mean, you are an attorney. You understand that there are rules, there are guidelines. We were talking about this in the other block. If you have possession of documents as a lawyer that is privileged, it contains privileged information, then you are ethically obligated to at least notify the person whose information you have and yet -- and Mueller's team knows all of us. Are they playing by the rules or are they just hurting themselves here?"
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "Well, they are claiming that they have these thousands of emails and they haven't even gone through them yet to determine whether any of them are privileged. They are also taking the position that nothing is privileged because everybody was on notice that this was the possession of the government, the property of the government, not the property of individuals. But that violates core notions of civil liberties. People have reasonable expectations of privacy."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "They don't expect that their emails to their lawyer. Well, the emails to the future president of the United States, the President- elect would be looked into without a subpoena or a search warrant. And it was so easy for Mueller to go and get a search warrant. You used to be a judge, you know you just go to a judge and make any kind of plausible presentation and you get your search warrant. Why not do it? He's been conducting a very sloppy investigation. When you're going after the President, you can't afford to be sloppy because you know that they're going to be people taking advantage of every mistake you make and he has made too many."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "And you know, Professor, when you talk about, you know, the .Gov and no expectation of privacy, this presidential transition team, there are statutes that apply to them in particular, regulations, memos of understanding. So, I can get the, you know, you have no expectation of privacy on certain servers, .Gov. But this is surrounded by particular legislation and regulations and memos of understanding. It's outrageous. I think it's outrageous."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "Of course."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Okay."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "Well, let me tell you the hypocrisy. You have people on the other side making the following two arguments. Number one, they say that of course there can be any privileged because he wasn't a government official. He wasn't the President yet so they can't be executive privilege. On the other hand, they say they were public officials for purposes of being able to get the emails. You can have it both ways. You have to pick a theory and they are inconsistent."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Well, you have to pick a theory but, you know, in addition to that, I think what we've seen with Mueller is this whole thing with Peter Strzok and you know, the woman with whom he was having the affair, Lisa Page who worked for the FBI."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "Uh-hm."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "And they are talking about, you know, they're going to have to get an insurance policy and, you know, they have this meeting and around the same time, Strzok who is in charge of counterintelligence that we start this Russia probe on the alleged Trump-Russia collusion. Mueller doesn't say anything about Strzok and the realization that he found out that there were all of this anti-Trump sentiment. I mean, it's venomous, it's horrible."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "But he did get rid of him. On the other hand, he kept that secret."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "No, no. He did it as soon as he found out about it, but he didn't tell the public until months later as a result of a lawsuit brought by a group of lawyers. So, look, I think Mueller is a decent and honorable man who cares deeply about his reputation, is trying to do the right thing. He made a terrible mistake."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "He's made a few."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "When you are going against the President who is a Republican - -"
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "I know."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "-- who is a Republican. You take much more care and who you put on the investigative team. You make sure that it is Caesar's wife. Everybody has to be above reproach. He didn't pass that Caesar's wife test. Now he's being careless in obtaining evidence without warrants or subpoenas. Those play right into the hands of the Trump team and there's just no good reason why a good lawyer should do that."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Well, it's bullying."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "I would never allow somebody working for me to do anything like that."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Nobody working for me would do it, but it's bullying. And don't you think it's interesting though how the President's team is handling it? You know, they are not really going full bore on this one. I think that the facts speak for themselves. And by the way, you know, you say that he's made one or two errors. I think you made an error right from the get- go. The fact that he applied for the job to be the head of the FBI and didn't get it, the fact that he is so tight with James Comey and, you know, the two of them think they have made history together when John Ashcroft was in the hospital. I mean, that is classic conflict of interest. You know it, Professor. Admit it!"
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "Well, I think that the very idea of appointing a special prosecutor defeated the purpose of any inquiry. We want an open, public inquiry, abide partisan inquiry to make sure the Russians never intrude on American election. Instead what we get is behind closed doors, grand jury would never going to learn anything. Everybody is yelling, lock him up, lock her up. That's not the way to proceed. We shouldn't be criminalizing political differences. We should be gathering information from every side. This was a terrible election. It was an election filled with problems and we ought to use it as a lesson to avoid problems like this in the future and a special counsel is the worst way to do it."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "But am I hearing you say that even if these open processes, we find that the law was violated, we don't prosecute people?"
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "No. Use the criminal law last, not first. When you appoint a special counsel, what you are saying is, we know there were crimes committed, now let's find out what crimes they were. Stalin talking to Liberty Barry (ph) and Barry is saying, show me the man and I will find you the crime. That's not the way America should work. We should first do an investigation, an open-ended, nonpartisan 9/11 type investigation."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Well, then why was Bruce Ohr allowed to go to the Intelligence Committee? We have no idea. He's the guy whose wife works for Fusion GPS on the anti-Trump dossier and then he has a meeting with Fusion after they lose the election and I can only conclude that, you know, they're going to try to get their story straight. I mean, that doesn't help either."
+    },
+    {
+      "speaker": "DERSHOWITZ",
+      "utterance": "Well, everybody should -- we should look into all of these issues to avoid recurrence in the future. We have to clean up our election system and we shouldn't do it through a special counsel. Somebody before mentioned that Mueller should appoint an ethics consultant. I had proposed that in my article this morning. I named David Souter, that would help them at least avoid these problems in the future. Look, the Trump people would rather see him have ethical problems because it gives them ammunition. It's in Mueller's interest to clean up his act and go forward smoothly."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "All right. It's a little late in the game. I think he has lost all credibility, but Professor, thanks so much for being with us. And coming up, President Trump unveiled his America First National Security strategy. We will get reaction from John Bolton and from the deputy assistant to the President for Strategic Communications on the National Security Council. Stay with us."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Welcome back to \"Hannity.\" Earlier today President Trump laid out his national security strategy where he promoted American strength. Take a look."
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "utterance": "We are here today to discuss matters of vital importance to us all, America's security, prosperity and standing in the world. With every decision and every action we are now putting America first. To counter Iran and block its path to a nuclear weapon, I sanctioned the Islamic revolutionary guard corps for its support of terrorism and I declined to certify the Iran deal to congress. We have dealt ISIS one devastating defeat after another. The coalition to defeat ISIS has now recaptured almost 100 percent of the land held by these terrorist in Iraq and Syria. Our campaign on maximum pressure on the North Korean regime has resulted in the toughest ever sanctions. We have united our allies in an unprecedented effort to isolate North Korea. For the first time ever American strategy now includes a serious plan to defend our homeland. It calls for the construction of a wall on our southern border ending chain migration and the horrible visa and lottery programs. In addition, our strategy calls for us to confront, discredit and defeat radical Islamic terrorism and ideology. And to prevent it from spreading into the United States. America will lead again. We do not seek to impose our way of life on anyone, but we will champion the values without apology."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Joining us now with reaction, deputy assistant to the President for strategic communications on the National Security Council Michael Anton. Good evening, Michael. The president's speech was very consistent with everything that he is been saying since the campaign, except now it appears that he is at a point where he can talk about improved economic situation in this country with the stock market as well as the defeat of ISIS. It's almost as though it's a one year report card where he succeeded."
+    },
+    {
+      "speaker": "MICHAEL ANTON, DEPUTY ASSISTANT TO THE PRESIDENT, STRATEGIC COMMUNICATIONS ON THE NATIONAL SECURITY COUNCIL",
+      "utterance": "Certainly. The speech was in part a one year report card. It's also a speech to roll out, introduced to the American people the strategy document. That strategy document is informed first and foremost, we began with his campaign speeches. We continued with his major foreign policy addresses of 2017 and of course all of his actions in 2017 to change the course of American foreign policy. So he wanted to both talk to the American people about strategy or at least the new strategy document. As I say it's a strategy that has already had been in operation for this year. And to give a report card to say to them this is what I've been doing. This is what we've accomplished. This is the path that we are taking going forward."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "And you know when the President talked about defeating ISIS and recapturing almost 100 percent of the territory that they had conquered. I mean, you would think that he would be getting some credit for that, especially given the fact that President Obama was like, you know it's going to be a long time. It's going to take years. This President comes in, it's like they are gone."
+    },
+    {
+      "speaker": "ANTON",
+      "utterance": "He is getting some credit for it, but I agree with you not nearly enough. A lot of the reason why that campaign accelerated so quickly this year was a fundamental change in strategy including loosening various rules that had micromanaging decisions being made here at the White House as opposed to devolved down to commanders in the field to make the decisions that they best so fit. So we have seen a really rapid degradation of ISIS capabilities in the Middle East. And almost the destruction of the physical caliphate. He said nearly 100 percent. I said almost. We don't want to say we are all the way there yet, but certainly we are miles ahead of where we work when this administration came into office. That is very important, because while it will be difficult to fully eradicate ISIS as a group, when they don't control territory, population centers and resources, their ability to project power and threaten us at home or at our installations overseas is reduced dramatically."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "All right. Michael Anton, thanks so much for being with us. And joining us now with more reaction to President Trump's national security strategy is Fox News contributor former U.S. Ambassador to the U.N. John Bolton. All right. Good evening, ambassador. I want to talk about the latest story that it appears that the Obama administration in their efforts to get this Iran deal past basically a passed on Hezbollah and let them off the hook. And they deliberately overlooked the drug trafficking in the drug smuggling operations, weapons trafficking, and it was across the board treasury department, Justice Department, along with state department. Can you think of a good reason for that?"
+    },
+    {
+      "speaker": "JOHN BOLTON, FORMER AMBASSADOR TO THE UNITED NATIONS",
+      "utterance": "I think in Obama's mind his administration would have done anything to secure the nuclear deal with Iran. And would have taken no steps that in any way jeopardize that deal. In this treatment of Hezbollah, the things that were laid out in the article that Politico published about that you just mentioned."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Unbelievable."
+    },
+    {
+      "speaker": "BOLTON",
+      "utterance": "Yes, I think are perfectly believable when you look at what Obama was up to. Look, Hezbollah has been an Iranian directed terrorist group even and its constituent parts before Hezbollah itself came together. The bombing of the marine barracks in Lebanon in 1983 was in Iran-directed operation. This is the A-team of international terrorism and Obama appeased it, because he didn't want to do anything that might offend the Ayatollahs in Tehran. This is just the piece of the record. There is so much that Obama gave away to get that deal that when the full record is laid out Americans will be appalled."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "You know, Politico did the story and there's a headline the secret back story of how Obama led Hezbollah off the hook. And its determination to secure a nuclear deal, the Obama administration basically looked the other way. It had to have been clearly demoralizing Ambassador, for people in the DEA. They put their lives at stake, they've got undercover people. All kinds of information and assets out there that they are trying to protect and the Obama administration is delaying or rejecting their efforts and the worst part of it is that you know 60,000 Americans die every year of drug overdoses. And while these people are bringing in cocaine into the United States, the President of the United States is saying just ignore it. Let it pass."
+    },
+    {
+      "speaker": "BOLTON",
+      "utterance": "As I say, whatever made the Iranian regime happy, Barack Obama was prepared to do. This is, as you are pointing out very graphically, sacrificing key American interests in order to make the Iranians happier to come to this deal. There wasn't anything Obama wasn't prepared to give away and he came very close to giving away the entire story, this deal was made in heaven for the Iranians. Obama was happy to solve it, because fundamentally he didn't think that they were the problem. He thought once he could show that America didn't have a hostile intent that the ayatollahs would join the civilized world and everything would be happy. Since they signed the deal in December of 2015 that has not happened. His premises were wrong, his negotiation was bad. This deal is terrible and I hope the next demonstration of the American first strategy that we see is the President rejecting the deal in its entirety."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Well, that certainly is a possibility. But you know it really is amazing, Ambassador, that Obama, President Obama just laid back when it came to everything. I will never forget the prayer breakfast that first national prayer breakfast and I don't recall who had just had their head cut off, and the President comes out and says get off your high horse, it's really your turn. I mean, he laid-back for everybody. But there's got to be Americans out there whose kids died at about that time from overdoses, we have to be infuriated. Talk about blood on the President's hands. I mean this is a lot, it's a lot clearer here. But I want to talk about someone else now. I'm going to ask that they put the sound on Clapper. His criticism of President Trump, it goes so far as to try to show how Vladimir Putin is using the President as an asset, let us take a listen."
+    },
+    {
+      "speaker": "JAMES CLAPPER, FORMER INTELLIGENCE CHIEF",
+      "utterance": "I think this past weekend is illustrative of what a good case officer Vladimir Putin's. He knows how to handle an asset. And that is what he is doing with President."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "You are saying Russia is handling President Trump as an asset?"
+    },
+    {
+      "speaker": "CLAPPER",
+      "utterance": "That the appearance to me."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "You know what is so amazing, the back story here is that the CIA was in a position to give intel to Russia and Putin and his people regarding an attack on the Christian church or a Greek orthodox church, Russian orthodox in Russia in Petersburg I believe. And he calls and says thank you in this guy Clapper criticizes the President. Here's my take on this. Do you remember when the Russians told the FBI about the brothers in the Boston bombing? They said it once and the FBI didn't listen. And then they called them again and the FBI said they didn't give us specific information. It got to give the Russians credit. They listened to the CIA and they stopped the attack on the church."
+    },
+    {
+      "speaker": "BOLTON",
+      "utterance": "I think this communication about the (inaudible) brothers. We still don't know the full story of why the FBI didn't take it seriously. I hope that is something the Justice Department is looking into. But to come back to General Clapper, I'm not holding my breath. To come back to General Clapper. He just accuse the President of treason essentially. He saying that he is a wedding Russian agent. If he is got evidence for that I would like to hear it. This paranoia really is causing enormous negative consequences for our Democratic institutions and to go back to your earlier discussion about the independent counsel, unless there is evidence of collusion of which we have seen none so far, I really think there's got to be a way to draw this investigation on that score to an end. And relate to narrow Mueller's -- the dimension of Mueller's probe. It is a real danger in this independent counsel's. They are out of control, they are not supervised. It's dangerous."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Unethical at the same time. Anyway, Ambassador Bolton, thank you so much for being with us."
+    },
+    {
+      "speaker": "BOLTON",
+      "utterance": "Glad to be with you."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "All right. Coming up more reaction to President Trump's major America first national security speech. Dan Bongino and Jessica Tarlov are next. Stay with us."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We want strong alliances and partnerships based on cooperation and reciprocity. We will make new partnerships with those who share our goals. And male common interest into a common cause. With the strategy we are calling for a great reawakening of America. A resurgence of confidence and a rebirth of patriotism, prosperity and pride. And we are returning to the wisdom of our founders."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Welcome back to \"Hannity.\" that was more of President Trump's national security speech from earlier today. Joining us now, former secret service agent Dan Bongino and Fox News contributor Jessica Tarlov. Jessica, the President's speech today, as I said a couple minutes ago, seemed almost like a year-end report card talking about his accomplishments when it came to the economy and ISIS."
+    },
+    {
+      "speaker": "JESSICA TARLOV, DEMOCRATIC STRATEGIST",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Dealing with the issue not just of defeating ISIS and taking over almost 100 percent of the territory that they had conquered, but also talking about the political ideology behind it and making America first and making sure that we have the jobs and the allegiance of this country."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "I felt like it was actually much more focused on domestic issues than international issues. The President from his campaign trail on his first year in office has made it a point to call out other countries and even her own allies that they are not paying their fair share for instance and that these international organizations don't work. He was very focused on what was going on here with the economy, as you mention, but also immigration. Shutting down the lottery system, chain migration. It felt like really a true America first take on it all. It was interesting to see the difference between what General Kelly wanted maybe Miller."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Kelly is on immigration, where is Stephen Miller?"
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "I think probably pumping about his victory in the economy. It hasn't been like this and really trusting his predecessors. He said for instance that he is making the economy and national security priority for the first time. That is been going on some 40 years that has been a key plank of the speeches that are given, every President gives. If there was a little Trump-ism there but generally I think it was quite subdued."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Yes, what do you think Dan?"
+    },
+    {
+      "speaker": "DAN BONGINO, FORMER SECRET AGENT SERVICE",
+      "utterance": "Patriotism, pride, America first, these are things for eight years we frankly did not hear pronounced loudly from Barack Obama. It was an international apology to her. You know I will never forget ever that speech where he said American exceptionalism. We are exceptional, just like the Greeks are exceptional."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "He was saying that they were exceptional about their own nation, which they do."
+    },
+    {
+      "speaker": "BONGINO",
+      "utterance": "That is a scam. That is nonsense. Here's the deal on this. I love the Greeks, I'm a Christian, and I believe we are all children of god, but the Greek system of government stinks. I'm sorry. We are the greatest country on earth, the American President, you don't go out there and give a speech about American exceptionalism. Whatever, it's just like Greek exceptionalism, nonsense. We are a constitutional republic, the most prosperous country on earth, get out there and celebrate it. You are the American President, thumbs up for Donald Trump for celebrating America again."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Jessica, I don't think there's any question what Dan is saying is accurate because the whole Obama legacy with the globalism and the open borders and people from Central America need to come in, let them in. The Muslims need to come in from other countries where, you know, there being - -"
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Seeking refuge from persecution, yes, and I believe they should still be able to come. I believe that is actually the Christian thing to do."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "What about the chain migration and the inability to vet these people? The Obama legacy has let them all in."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "It is according to some people and I have to respect that. It certainly -- on my side of the isle, people talk about the booming economy that Obama build that Trump is now benefiting from and building upon. They talk about globalism is a good thing. We used to be the Paris climate act that we actually talked about global warming which wasn't mentioned today that Obama did start the beginning of this defeat of ISIS, though I give President Trump credit for what has gone on. A great column in \"The New York Times\" today that is something everyone needs to acknowledge, things have shifted, because of changes that President Trump has made. Obama's legacy is not apologies and globalism is a bad thing."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "He started in Cairo in week number two!"
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "We need a President that cares about human rights. It is something that President Trump did not emphasize today. He mentioned in only time."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "You think the President doesn't care about us?"
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "I think he cares about us, but I'm talking about human rights generally."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Dan, you take it."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Go ahead Dan. Tell me."
+    },
+    {
+      "speaker": "BONGINO",
+      "utterance": "Listen, I'm sorry but you have to please stop apologizing for Obama. He apologized enough for America. If you don't have to apologize for him too. I hear this line all the time for my liberal friends, which I consider you one. This is nonsense. Barack Obama started the destruction of ISIS and he started the economic recovery. That is a bunch of crap! He was in office eight years."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "No credit whatsoever to President Obama for turning the economy that inherited around?"
+    },
+    {
+      "speaker": "BONGINO",
+      "utterance": "He took eight years to do what Trump has done in less than a year."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Ok, guys. I want to talk about a report that came out just a short while ago from \"Washington Post.\" Trump's team they say meeting with Mueller's office is not only to ratchet up tensions, but they say that for all those people who thought that this was going to come to an end soon, they are now saying the investigation can last for at least another year. What you think of that Jessica?"
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "I think it's accurate. I think these are reports that were coming out that President Trump is expecting an exoneration letter sometime soon are without merit. I think something of this level and size takes time. We've already seen five indictments. There are a lot more characters in play here. And I think Bob Mueller should take his time. I think it's something that is worth our taxpayer dollars."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "All right. Dan, the indictments that we've seen have to do with taxes and Manafort and Gates."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Mike Flynn has to do with lying and the Russians."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Lying. We don't know precisely -- go ahead, Dan."
+    },
+    {
+      "speaker": "BARSTOW",
+      "utterance": "We were told by all the liberal Trump haters out there that we had the scandal of the century with collusion with the Russians to overturn an election, what do we got? We got two favors and a guy who had some shady businesses dealing before he even met Donald Trump. I mean folks, can we wrap this thing up? I will throw this out for you, I will fly up to New York and cut you a thousand dollar check if you can say in the camera right now a sliver of evidence you have that Donald Trump himself colluded with the Russians to win an election. I will fly up tonight."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Campaign team we could do it and I could use that grant. But Donald Trump himself."
+    },
+    {
+      "speaker": "BONGINO",
+      "utterance": "I will mail you the check."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Just come hang out anyway, I'm super fun."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "We got to go to break, thanks Dan, thanks Jessica. Coming up, more \"Hannity\" right after the break. Stay us."
+    },
+    {
+      "speaker": "PIRRO",
+      "utterance": "Welcome back to Hannity. Unfortunately that is all the time we have left this evening. As always, thank you so much for being with us and don't forget to set your DVR so you never miss an episode of \"Hannity.\" Don't forget to watch \"Justice\" every Saturday night at 9:00 p.m. Eastern. And you can follow me on twitter @JudgeJeanine. I will be back for Sean on Wednesday night filling in for him. We hope you will join us then as well. Have a great night. Laura Ingraham is live now from Washington, D.C. Hello, Laura. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

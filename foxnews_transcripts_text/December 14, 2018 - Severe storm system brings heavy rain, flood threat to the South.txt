@@ -1,0 +1,31 @@
+Headline: Severe storm system brings heavy rain, flood threat to the South
+Sub-headline: No sub-headline found
+
+  close 
+     Video  National forecast for Friday, December 14 
+Janice Dean has your FoxCast. 
+Another storm system moving across the South will bring heavy to excessive rainfall with a risk for severe thunderstorms from the central Gulf Coast to the Southeast.
+  
+   
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+This heavy rainfall will then spread across the Mid-Atlantic region late tonight  into the weekend. Flood warnings are in effect for over 20 million people.
+  
+  
+Meanwhile, another system moving into the Pacific Northwest will bring rain wind and strong winds along the coast.
+  
+    

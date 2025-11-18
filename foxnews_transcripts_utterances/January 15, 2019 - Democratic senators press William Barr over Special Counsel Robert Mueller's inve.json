@@ -1,0 +1,633 @@
+{
+  "date": "January 15, 2019",
+  "headline": "Democratic senators press William Barr over Special Counsel Robert Mueller's investigation",
+  "subHeadline": "Guests: Mara Liasson, Ari Fleischer, Tom Bevan",
+  "url": "https://www.foxnews.com/transcript/democratic-senators-press-william-barr-over-special-counsel-robert-muellers-investigation",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "BRET BAIER, HOST",
+      "sentences": "Trump A.G. nominee Bill Barr on Capitol Hill, Democrats didn't go on him today.  He pretty much handled it very compelling and effective testimony according to experts who looked at this all day long.  The White House weighing in despite some of the things he said that were not with the president really talks about.  Sarah Sanders saying \"He is a very honorable man doing what he believes, and the president respects that.  The president thinks he will be a great attorney general.\" if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } With that, let's bring in our panel, former White House press secretary, Ari Fleischer, Mara Liasson, national political correspondent for National Public Radio, and Tom Bevan, Real Clear Politics co-founder and president. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); } I apologize for my voice.  My mom just texted to say I need to have tea. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I'm trying.  I'm trying.  I feel fine.  But Mara, your thoughts on Barr's testimony today and really how he did? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARA LIASSON, NATIONAL POLITICAL CORRESPONDENT, NATIONAL PUBLIC RADIO",
+      "sentences": "I thought he did great.  I thought he said a lot of things that should be reassuring to Democrats.  No, he didn't say he'd recuse himself, but he said all those things you just played.  He doesn't think Mueller is on a witch hunt.  He thinks the report should be made public.  He thinks the public and Congress should be informed.  All those things are what Democrats want to hear.  And I don't know -- the White House is still saying they're happy and thrilled and thinks he'll be a great attorney general, but I don't know if those were the things that Donald Trump wanted to hear.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "A lot of the focus, Ari, is on this memo that he wrote about obstruction of justice, and here is the A.G. nominee talking about that. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAM BARR, ATTORNEY GENERAL NOMINEE",
+      "sentences": "One theory in particular that appeared to be under consideration under a specific statute concerned me, because I thought it would involve stretching the statute beyond what was intended.  And me memo is very clear that is the concern that was driving me, the impact, not the particular case, but it's impact of a rule over time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I think he answered it 25 times in that hearing. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARI FLEISCHER, FORMER WHITE HOUSE PRESS SECRETARY",
+      "sentences": "Because people were looking for the reason they could derail his nomination.  They couldn't find it, so they kept looking for it.  He gave a very good legal answer.  I think there's a broader answer on that question, and that is people should be able to opine, give their opinions.  But one of the beautiful thing about our governments is once you actually sit in those seats of responsibility, you recognize it's no longer opining.  It's you act on the bases of precedent law, and that is what is going to guide him. I think he had a perfect day today in style and in substance.  To me the most important thing he said today, he talked about Bob Mueller's integrity, and then he talked about President Trump, saying there is no collusion.  And then he said, quote, the country needs a credible resolution of these issues.  Amen.  That is exactly what we need.  We need to get beyond the Mueller report and to do so with credibility.  He needs to become attorney general without Mueller hanging underneath him.  And I think the nation waits for that report, and credibility is important.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Tom? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOM BEVAN, REAL CLEAR POLITICS CO-FOUNDER",
+      "sentences": "Yes, he did say a lot of things.  He said everything the Democrats wanted him to say.  I think they should have been reassured by everything he said.  I think on the Republican side I thought people thought he was really good on the border, on immigration, but your point and the point that was made earlier, I think if you are Trump supporter or a critic of the way, of the Mueller investigation or the way this thing has been handled in the Department of Justice or the FBI, he said some things that I think people would recognize as red flags, that he and Mueller are good friends, had a high opinion of Rod Rosenstein, and that this was not a witch hunt, and on down the line, that Sessions was right to recuse himself. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And the one thing he did say to Lindsey Graham is that he found the Strzok-Page texts horrifying and he would look into that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "Correct, and promised Lindsey Graham that he would look into abuses in the department.  And that is something that I think Republicans, Trump supporters want to see happen.  And to the extent that he is able to do both of those things, then I think he will make a good attorney general in terms of -- the other compelling thing is, he did say, he's 68.  He doesn't need this job.  He's doing it for the good of the country.  He's doing it because he wants to bring this thing to a credible resolution.  That is the what the country needs.  But again, he wasn't necessarily singing from a same sheet of music as a lot of Trump supporters. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You think he is only weeks away from his first tweet?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "Could be. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "You never know when it's going to come.  The nicknames will come.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Here is Senator Feinstein asking him about possibly firing Mueller. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. DIANNE FEINSTEIN, D-CALIF.",
+      "sentences": "If the president orders the attorney general to halt a criminal investigation for personal reasons, would that be prohibited under your theory?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAM BARR, ATTORNEY GENERAL NOMINEE",
+      "sentences": "I think it would be a breach of the president's duties to faithfully execute the law.  It would be an abuse of power.  Under the regulations, Bob Mueller could only be terminated for good cause.  And frankly it is unimaginable to me that Bob would ever do anything that gave rise to good cause. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "A number of Democrats tried to trip him up on a number of different things.  There were three potential presidential contenders on that dais, Cory Booker, Mara, Kamala Harris, and Amy Klobuchar.  All of them had moments, as they did in the Kavanaugh hearing.  Is there one Democrat on that committee who is going to vote for Bill Barr? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Certainly not the ones you mentioned.  They are all running for president, maybe.  I think he is not going to get very many Democratic votes, if any.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "In the meantime, the shutdown continues.  The president tried to have Democrats at the White House today, nobody showed up.  Today the Coast Guard missed a paycheck for the first time.  Ari, where are we? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLEISCHER",
+      "sentences": "We're where a word that was an honorable word needs to be a word that's honorable once more, and that word is \"compromise.\"  You cannot have an answer to a governmental problem where the Senate wants to pass some $6 billion in funding for a wall, the House wants to pass zero billion in funding for a wall, and the answer not be around three. It is eternally the answer in this town for the House and the Senate to compromise.  And when one party says the answer is zero, zero, zero, and their only answer is zero, we have a breakdown.  I'm certain the Senate will go below six.  I'm not certain that House will ever go above zero. That's the problem with compromise.  If you're not going to meet the other body halfway, the problem is you.  And the problem is the House because they will not compromise. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "They were at 1.3 and 1.6. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "They were at 1.3.  This whole thing has just mind-boggled me, because nobody is looking for the win-win solution where both sides can get what they want.  And guess what, both sides do want border security.  They define it differently.  That is how compromises are made.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "As Tom mentioned, Bill Barr said I feel it is critical for border security to have a barrier at the border, and he made that clear today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "People are in favor of border security.  People also don't want the government shutdown.  Polling right now shows that people are holding Trump responsible, but I think Democrats are starting to run the risk of intransigence, not even showing up to bargain at all, and even arrogance. Being on junkets in Puerto Rico while the government is shutdown.  That is not a good look for Democrats.  And that may end up hurting them in the long run if this continues to go on.  Trump still has a national emergency in his back pocket.  He may use it if I gets to the point where he has no other options because he just can't capitulate. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "We will see.  Next up, the Brexit crisis in Great Britain, what it may be for the U.S. and possibly for you. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN BERCOW, BRITISH HOUSE OF COMMONS SPEAKER",
+      "sentences": "The ayes to the right, 202. Order!  The ayes to the right, 202.  The no's to the left, 432.  So the no's have it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOANNA CHERRY, SCOTTISH NATIONAL PARTY",
+      "sentences": "She barely has the confidence of her own party, and they only put up with her because none of them have the gumption to step up to the plate to sort out this mess.  This government must go.  If it won't, then all options should be on the table, including a third public vote to find a way forward.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THERESA MAY, BRITISH PRIME MINISTER",
+      "sentences": "It is clear that the house does not support this deal, but tonight's vote tells us nothing about what it does support. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "It is so much more interesting there.  Order! if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "The markets today, they saw a dip here in the U.S. when the deal was rejected, but then bounced back.  A lot of people on Wall Street see the U.S. as really a safe haven in an uncertain situation with Brexit and the E.U.  Back with the panel.  What about this, Ari?  What does it mean for us and the big picture and what could happen there?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLEISCHER",
+      "sentences": "It's fascinating, this is the first time since 1864 that a British prime minister submitted a treaty to the Parliament and the Parliament rejected it.  It is just unheard that this could happened in the United Kingdom. But I'm not going to predict what's going to happen because I think even the British aren't capable of predicting what's going to happen in their own affairs.  But here's the international signal this sends, and it's particularly important to the United States.  If you are an outsider, you need to do a better job of figuring out what you are going to do when you have power.  If you are antiestablishment and you want to step away from the establishment, you need to figure out when you win, how do you accomplish it? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); } One of the reasons that bureaucracies have gotten so big and governments have gotten so big in every liberal democracy around the world is those politicians are expert in building it one brick at a time and one day at a time.  Those who want to take those breaks down have not yet figured out how to do it one day at a time.  They want it all to come down now.  And therefore when they get into power they are not effective.  It is a real lesson for anti-establishmentarian people.  Think long-term, have your think tanks realize, if you get into power, how do you accomplish it? People don't know yet.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I'll tell you one thing, it makes the partial government shutdown look pretty small.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "We are the least insane. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Today. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "But it's true, for populists, we know what they are against. They don't like bureaucracy in Brussels and international multilateral organizations.  But what they want to put in its place?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Here is Prime Minister Theresa May and her main opposition challenger, Jeremy Corbyn. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THERESA MAY, BRITISH PRIME MINISTER",
+      "sentences": "I became prime minister immediately after that referendum.  I believe it is my duty to deliver on that instruction, and I intend to do so. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } But I ask members on all sides of the house to listen to the British people who want this issue settled, and to work with the government to do just that. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JEREMY CORBYN, BRITISH LABOR PARTY LEADER",
+      "sentences": "She is only attempting to reach out now to try to keep her failed process and deal alive after it's been so roundly rejected by Parliament on behalf of the people of this country. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And there will be a vote of no confidence tomorrow in Parliament for Prime Minister May. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "The problem with this is that Theresa May was not a populist.  She was not antiestablishment.  She was in favor of staying in the E.U.  And when Cameron left, she inherited this, she took over, but her heart wasn't in it.  She spent two years negotiating a deal that pleased neither the Brexit folks or the stay folks.  And this is the result, a historic defeat in Parliament.  And it's not clear what's going to happen from here. They've got a March 29 deadline for the hard Brexit, and it looks like May may survive her vote of no confidence.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Because they don't have another alternative.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEVAN",
+      "sentences": "And they don't have another alternative, and the small party is going to stay with her.  They have already announced that.  But they are certainly not going to violate the will of 17.5 million Britons who voted in favor of this.  That would be a total catastrophe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Maybe they just have to experience a hard Brexit and see if they like it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "See what happens.  Quickly, Ari, for somebody sitting on the couch here in the U.S., why is this important for them to know? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLEISCHER",
+      "sentences": "It's important because it shows that governments can work if populist uprisings can work.  And that was my point.  The populist need to get better at governing, because once you win, you need to do something if you want to actually be effective.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Panel, thank you. When we come back, the real start of the Bill Barr confirmation hearing today. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Finally tonight, a star is born in Bill Barr's confirmation hearing today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAM BARR, ATTORNEY GENERAL NOMINEE",
+      "sentences": "My son Liam. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. LINDSEY GRAHAM, R-S.C.",
+      "sentences": "Think about medical school, Liam.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GRAHAM",
+      "sentences": "Somebody needs to make money in the family. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All of those relatives there were attorneys.  The attorney general nominee's grandson Liam was a big hit in today's hearing.  He took a seat there beside Senator John Kennedy before the hearing today.  He was seen writing notes throughout the hearing, passing a few to his grandfather throughout the day.  He was a big hit, mentioned, I think, five times. We're told Senator Dianne Feinstein's sent Liam a care package for making it through the long event. Thank you for making it through this show.  I barely got through.  And thanks for inviting us into your home tonight. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); } Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC.  All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRET BAIER, HOST",
+      "utterance": "Trump A.G. nominee Bill Barr on Capitol Hill, Democrats didn't go on him today.  He pretty much handled it very compelling and effective testimony according to experts who looked at this all day long.  The White House weighing in despite some of the things he said that were not with the president really talks about.  Sarah Sanders saying \"He is a very honorable man doing what he believes, and the president respects that.  The president thinks he will be a great attorney general.\" With that, let's bring in our panel, former White House press secretary, Ari Fleischer, Mara Liasson, national political correspondent for National Public Radio, and Tom Bevan, Real Clear Politics co-founder and president. I apologize for my voice.  My mom just texted to say I need to have tea."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I'm trying.  I'm trying.  I feel fine.  But Mara, your thoughts on Barr's testimony today and really how he did?"
+    },
+    {
+      "speaker": "MARA LIASSON, NATIONAL POLITICAL CORRESPONDENT, NATIONAL PUBLIC RADIO",
+      "utterance": "I thought he did great.  I thought he said a lot of things that should be reassuring to Democrats.  No, he didn't say he'd recuse himself, but he said all those things you just played.  He doesn't think Mueller is on a witch hunt.  He thinks the report should be made public.  He thinks the public and Congress should be informed.  All those things are what Democrats want to hear.  And I don't know -- the White House is still saying they're happy and thrilled and thinks he'll be a great attorney general, but I don't know if those were the things that Donald Trump wanted to hear."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "A lot of the focus, Ari, is on this memo that he wrote about obstruction of justice, and here is the A.G. nominee talking about that."
+    },
+    {
+      "speaker": "WILLIAM BARR, ATTORNEY GENERAL NOMINEE",
+      "utterance": "One theory in particular that appeared to be under consideration under a specific statute concerned me, because I thought it would involve stretching the statute beyond what was intended.  And me memo is very clear that is the concern that was driving me, the impact, not the particular case, but it's impact of a rule over time."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I think he answered it 25 times in that hearing."
+    },
+    {
+      "speaker": "ARI FLEISCHER, FORMER WHITE HOUSE PRESS SECRETARY",
+      "utterance": "Because people were looking for the reason they could derail his nomination.  They couldn't find it, so they kept looking for it.  He gave a very good legal answer.  I think there's a broader answer on that question, and that is people should be able to opine, give their opinions.  But one of the beautiful thing about our governments is once you actually sit in those seats of responsibility, you recognize it's no longer opining.  It's you act on the bases of precedent law, and that is what is going to guide him. I think he had a perfect day today in style and in substance.  To me the most important thing he said today, he talked about Bob Mueller's integrity, and then he talked about President Trump, saying there is no collusion.  And then he said, quote, the country needs a credible resolution of these issues.  Amen.  That is exactly what we need.  We need to get beyond the Mueller report and to do so with credibility.  He needs to become attorney general without Mueller hanging underneath him.  And I think the nation waits for that report, and credibility is important."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Tom?"
+    },
+    {
+      "speaker": "TOM BEVAN, REAL CLEAR POLITICS CO-FOUNDER",
+      "utterance": "Yes, he did say a lot of things.  He said everything the Democrats wanted him to say.  I think they should have been reassured by everything he said.  I think on the Republican side I thought people thought he was really good on the border, on immigration, but your point and the point that was made earlier, I think if you are Trump supporter or a critic of the way, of the Mueller investigation or the way this thing has been handled in the Department of Justice or the FBI, he said some things that I think people would recognize as red flags, that he and Mueller are good friends, had a high opinion of Rod Rosenstein, and that this was not a witch hunt, and on down the line, that Sessions was right to recuse himself."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And the one thing he did say to Lindsey Graham is that he found the Strzok-Page texts horrifying and he would look into that."
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "Correct, and promised Lindsey Graham that he would look into abuses in the department.  And that is something that I think Republicans, Trump supporters want to see happen.  And to the extent that he is able to do both of those things, then I think he will make a good attorney general in terms of -- the other compelling thing is, he did say, he's 68.  He doesn't need this job.  He's doing it for the good of the country.  He's doing it because he wants to bring this thing to a credible resolution.  That is the what the country needs.  But again, he wasn't necessarily singing from a same sheet of music as a lot of Trump supporters."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You think he is only weeks away from his first tweet?"
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "Could be."
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "You never know when it's going to come.  The nicknames will come."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Here is Senator Feinstein asking him about possibly firing Mueller."
+    },
+    {
+      "speaker": "SEN. DIANNE FEINSTEIN, D-CALIF.",
+      "utterance": "If the president orders the attorney general to halt a criminal investigation for personal reasons, would that be prohibited under your theory?"
+    },
+    {
+      "speaker": "WILLIAM BARR, ATTORNEY GENERAL NOMINEE",
+      "utterance": "I think it would be a breach of the president's duties to faithfully execute the law.  It would be an abuse of power.  Under the regulations, Bob Mueller could only be terminated for good cause.  And frankly it is unimaginable to me that Bob would ever do anything that gave rise to good cause."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "A number of Democrats tried to trip him up on a number of different things.  There were three potential presidential contenders on that dais, Cory Booker, Mara, Kamala Harris, and Amy Klobuchar.  All of them had moments, as they did in the Kavanaugh hearing.  Is there one Democrat on that committee who is going to vote for Bill Barr?"
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Certainly not the ones you mentioned.  They are all running for president, maybe.  I think he is not going to get very many Democratic votes, if any."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "In the meantime, the shutdown continues.  The president tried to have Democrats at the White House today, nobody showed up.  Today the Coast Guard missed a paycheck for the first time.  Ari, where are we?"
+    },
+    {
+      "speaker": "FLEISCHER",
+      "utterance": "We're where a word that was an honorable word needs to be a word that's honorable once more, and that word is \"compromise.\"  You cannot have an answer to a governmental problem where the Senate wants to pass some $6 billion in funding for a wall, the House wants to pass zero billion in funding for a wall, and the answer not be around three. It is eternally the answer in this town for the House and the Senate to compromise.  And when one party says the answer is zero, zero, zero, and their only answer is zero, we have a breakdown.  I'm certain the Senate will go below six.  I'm not certain that House will ever go above zero. That's the problem with compromise.  If you're not going to meet the other body halfway, the problem is you.  And the problem is the House because they will not compromise."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "They were at 1.3 and 1.6."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "They were at 1.3.  This whole thing has just mind-boggled me, because nobody is looking for the win-win solution where both sides can get what they want.  And guess what, both sides do want border security.  They define it differently.  That is how compromises are made."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "As Tom mentioned, Bill Barr said I feel it is critical for border security to have a barrier at the border, and he made that clear today."
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "People are in favor of border security.  People also don't want the government shutdown.  Polling right now shows that people are holding Trump responsible, but I think Democrats are starting to run the risk of intransigence, not even showing up to bargain at all, and even arrogance. Being on junkets in Puerto Rico while the government is shutdown.  That is not a good look for Democrats.  And that may end up hurting them in the long run if this continues to go on.  Trump still has a national emergency in his back pocket.  He may use it if I gets to the point where he has no other options because he just can't capitulate."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "We will see.  Next up, the Brexit crisis in Great Britain, what it may be for the U.S. and possibly for you."
+    },
+    {
+      "speaker": "JOHN BERCOW, BRITISH HOUSE OF COMMONS SPEAKER",
+      "utterance": "The ayes to the right, 202. Order!  The ayes to the right, 202.  The no's to the left, 432.  So the no's have it."
+    },
+    {
+      "speaker": "JOANNA CHERRY, SCOTTISH NATIONAL PARTY",
+      "utterance": "She barely has the confidence of her own party, and they only put up with her because none of them have the gumption to step up to the plate to sort out this mess.  This government must go.  If it won't, then all options should be on the table, including a third public vote to find a way forward."
+    },
+    {
+      "speaker": "THERESA MAY, BRITISH PRIME MINISTER",
+      "utterance": "It is clear that the house does not support this deal, but tonight's vote tells us nothing about what it does support."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "It is so much more interesting there.  Order!"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "The markets today, they saw a dip here in the U.S. when the deal was rejected, but then bounced back.  A lot of people on Wall Street see the U.S. as really a safe haven in an uncertain situation with Brexit and the E.U.  Back with the panel.  What about this, Ari?  What does it mean for us and the big picture and what could happen there?"
+    },
+    {
+      "speaker": "FLEISCHER",
+      "utterance": "It's fascinating, this is the first time since 1864 that a British prime minister submitted a treaty to the Parliament and the Parliament rejected it.  It is just unheard that this could happened in the United Kingdom. But I'm not going to predict what's going to happen because I think even the British aren't capable of predicting what's going to happen in their own affairs.  But here's the international signal this sends, and it's particularly important to the United States.  If you are an outsider, you need to do a better job of figuring out what you are going to do when you have power.  If you are antiestablishment and you want to step away from the establishment, you need to figure out when you win, how do you accomplish it? One of the reasons that bureaucracies have gotten so big and governments have gotten so big in every liberal democracy around the world is those politicians are expert in building it one brick at a time and one day at a time.  Those who want to take those breaks down have not yet figured out how to do it one day at a time.  They want it all to come down now.  And therefore when they get into power they are not effective.  It is a real lesson for anti-establishmentarian people.  Think long-term, have your think tanks realize, if you get into power, how do you accomplish it? People don't know yet."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I'll tell you one thing, it makes the partial government shutdown look pretty small."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "We are the least insane."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Today."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "But it's true, for populists, we know what they are against. They don't like bureaucracy in Brussels and international multilateral organizations.  But what they want to put in its place?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Here is Prime Minister Theresa May and her main opposition challenger, Jeremy Corbyn."
+    },
+    {
+      "speaker": "THERESA MAY, BRITISH PRIME MINISTER",
+      "utterance": "I became prime minister immediately after that referendum.  I believe it is my duty to deliver on that instruction, and I intend to do so. But I ask members on all sides of the house to listen to the British people who want this issue settled, and to work with the government to do just that."
+    },
+    {
+      "speaker": "JEREMY CORBYN, BRITISH LABOR PARTY LEADER",
+      "utterance": "She is only attempting to reach out now to try to keep her failed process and deal alive after it's been so roundly rejected by Parliament on behalf of the people of this country."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And there will be a vote of no confidence tomorrow in Parliament for Prime Minister May."
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "The problem with this is that Theresa May was not a populist.  She was not antiestablishment.  She was in favor of staying in the E.U.  And when Cameron left, she inherited this, she took over, but her heart wasn't in it.  She spent two years negotiating a deal that pleased neither the Brexit folks or the stay folks.  And this is the result, a historic defeat in Parliament.  And it's not clear what's going to happen from here. They've got a March 29 deadline for the hard Brexit, and it looks like May may survive her vote of no confidence."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Because they don't have another alternative."
+    },
+    {
+      "speaker": "BEVAN",
+      "utterance": "And they don't have another alternative, and the small party is going to stay with her.  They have already announced that.  But they are certainly not going to violate the will of 17.5 million Britons who voted in favor of this.  That would be a total catastrophe."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Maybe they just have to experience a hard Brexit and see if they like it."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "See what happens.  Quickly, Ari, for somebody sitting on the couch here in the U.S., why is this important for them to know?"
+    },
+    {
+      "speaker": "FLEISCHER",
+      "utterance": "It's important because it shows that governments can work if populist uprisings can work.  And that was my point.  The populist need to get better at governing, because once you win, you need to do something if you want to actually be effective."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Panel, thank you. When we come back, the real start of the Bill Barr confirmation hearing today."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Finally tonight, a star is born in Bill Barr's confirmation hearing today."
+    },
+    {
+      "speaker": "WILLIAM BARR, ATTORNEY GENERAL NOMINEE",
+      "utterance": "My son Liam."
+    },
+    {
+      "speaker": "SEN. LINDSEY GRAHAM, R-S.C.",
+      "utterance": "Think about medical school, Liam."
+    },
+    {
+      "speaker": "GRAHAM",
+      "utterance": "Somebody needs to make money in the family."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All of those relatives there were attorneys.  The attorney general nominee's grandson Liam was a big hit in today's hearing.  He took a seat there beside Senator John Kennedy before the hearing today.  He was seen writing notes throughout the hearing, passing a few to his grandfather throughout the day.  He was a big hit, mentioned, I think, five times. We're told Senator Dianne Feinstein's sent Liam a care package for making it through the long event. Thank you for making it through this show.  I barely got through.  And thanks for inviting us into your home tonight. Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC.  All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

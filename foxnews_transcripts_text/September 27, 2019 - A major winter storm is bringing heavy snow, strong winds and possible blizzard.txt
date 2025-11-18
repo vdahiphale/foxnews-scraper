@@ -1,0 +1,33 @@
+Headline: A major winter storm is bringing heavy snow, strong winds and possible blizzard conditions to the Northern Rockies
+Sub-headline: Very dangerous if not impossible travel conditions will impact several states especially Montana and Idaho.
+
+  close 
+     Video  National forecast for Friday, September 27 
+Janice Dean has your FoxCast. 
+  
+A major winter storm is bringing heavy snow, strong winds and possible blizzard conditions to the Northern Rockies. Very dangerous if not impossible travel conditions will impact several states especially Montana and Idaho. 
+  
+   
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Strong to severe storms will develop over the Central Plains, Midwest and Great Lakes with heavy rain, large hail, damaging winds and isolated tornadoes.
+  
+
+
+Tropical storm Karen is forecast to weaken and not affect any land while Hurricane Lorenzo is a strong Cat 4 storm in the open Atlantic that will move Northeast and possibly affect the Azores over the next few days.
+  
+    

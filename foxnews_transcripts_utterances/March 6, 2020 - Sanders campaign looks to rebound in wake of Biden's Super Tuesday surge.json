@@ -1,0 +1,1681 @@
+{
+  "date": "March 6, 2020",
+  "headline": "Sanders campaign looks to rebound in wake of Biden's Super Tuesday surge",
+  "subHeadline": "Guests: Karl Rove, Mike Huckabee, Chuck Rocha, Amesh Adalja, Mike Kelly, John Rich, Anthony Lombardi",
+  "url": "https://www.foxnews.com/transcript/sanders-campaign-looks-to-rebound-in-wake-of-bidens-super-tuesday-surge",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MARTHA MACCALLUM, ANCHOR",
+      "sentences": "Good evening, everybody, I'm Martha McCallum and this is \"The Story\" live tonight from the Richard Nixon Presidential Library in Yorba Linda California. So in honor of all of the history that is surrounding us tonight. Let's just take a tiny step back for a moment to June of 2019, not all that long ago. This is what the First Democratic Presidential Debate looked like 8 months ago. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } Look at all those candidates. It was so largely needed two stages and it went across two nights. So the debate that is set for March 15th will look like these two individuals, Joe Biden and Bernie Sanders. But will the race be all but determined by then? Because it's do or die for Bernie Sanders in Michigan next week he has canceled other campaign events to rally their tonight in Michigan. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); } All the focus is there he hopes to win 125 delegates in that biggest prize of the six states which will vote on Tuesday night. So on the eve of that crucial primary Senator Sanders will join me and Bret Baier live. We will talk to him in Detroit for a Fox News Town Hall this Monday night at 6:30. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } So joining me right now tonight on \"The Story\" is Chuck Rocha, Senior Advisor to the Sanders' Campaign. Chuck, good evening. Good to see you tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHUCK ROCHA, SANDERS CAMPAIGN SENIOR ADVISER",
+      "sentences": "Good to see you, Martha. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So you know Elizabeth Warren let's start there because she dropped out obviously after Super Tuesday. And I'm curious about the nature of the discussions between the Sanders' Campaign and Elizabeth Warren's Campaign at this point. What can you tell us?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROCHA",
+      "sentences": "Well, the Senator had a conversation I think he said very openly he wanted to keep it a private conversation. I'm sure they talked about, you know, what she had been doing in the campaign but I don't want to get into details and to be honest with you the Senator didn't tell me the details. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } But I think she ran a great campaign. The Senator has said that I think she has a lot of great supporters and I think that a lot of her supporters will come on board with our campaign and we welcome each and every one of them. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); } And I think this is down to a two-person race as everybody can see now. So I think everybody is coalescing behind their favorite people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I mean it's kind of remarkable because all through this process Elizabeth Warren and Bernie Sanders, she said she felt she would be a better President than Bernie Sanders but they lined up on so many things, on wanting to restructure the country, really to do fundamental change and Medicare for all and all of those points. And, yet, here's what she had to say about the way things have been looking lately. Listen to this. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. ELIZABETH WARREN (D-MA)",
+      "sentences": "I think it's a real problem with this online bullying and sort of organized nastiness. We are responsible for the people who claim to be our supporters and do really threatening, ugly, dangerous things for - to others.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RACHAEL MADDOW, MSNBC HOST",
+      "sentences": "And it's particularly it's a particular problem with Sanders supporters?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WARREN",
+      "sentences": "It is. And it just is. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What do you say to that, Chuck?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROCHA",
+      "sentences": "Well, I think she had said it's for all the campaigns. I know Rachael went in there at the end and said for Bernie and for his particular campaign. I think that we and I think the Senator has said very openly you know we don't want anybody or any of our supporters bullying anybody on the internet and we continue to say it over and over again. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); } Again we have a bunch of wonderful supporters online. And I think that sometimes the focus gets on really minute little bit of folks who probably doing the wrong thing who are just crazy folks on the internet. When the overwhelming majority of everybody else, every interacted with on the internet that has anything to do with Bernie Sanders give me love and affection and talk about how much that they are trying to get Bernie elected. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. So does your candidate - do you blame Elizabeth Warren for what happened on Super Tuesday because there has been a lot of discussion about what the impact would have been and how the outcome could have been quite different on Super Tuesday if Elizabeth Warren wasn't in the mix. Here is the President when we spoke with him last night on this. Watch. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Maine would have gone to - I think he would have gotten everything, right? Bernie Sanders would have won 5, 6, 7 states. Would have won Minnesota, would have won at least another two or three states. So, when you look at it, she did him no favors. That was not a good friendship. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROCHA",
+      "sentences": "I have been running campaigns for a long time. It does you no good to look back. We don't know exactly where it would have been had she not been in it. We just have got to look forward and think about consolidating. One thing that we can tell you for sure is that you had the moderate lane 48 hours before that coming together because they were all scared to death that Bernie Sanders was fixing to win all of those states on Super Tuesday. What affect her candidacy would have mean if she would have stayed in or gotten out or endorsed somebody over somebody else that is still unknown. We have Michigan and all these states ahead of us and that's where we are focused right now. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right, so we're going to be speaking with Senator Sanders in Michigan on Monday night. Is it as we suggested in our intro really sort of the do or die stop for him, do you think? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROCHA",
+      "sentences": "I don't think it's a do or die. We expect to do well. And in your intro and on Bret's show they were talking about how we surprised Hillary there look, Michigan is a great state for us. Bernie Sanders have a lifetime record of standing up against trade deals and standing for working Americans. I think that's what message goes over so good there. I think that's the reason why he wanted to do this Town Hall with you all in Michigan because we want to talk directly to those voters. This is a state on this particular day that has the most delegates at stake. So why not double down right there and let's get a few more delegates back and catch up with Vice President Biden. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. We will be watching. Obviously we will be there Monday night and we will be watching what happens on Tuesday night. Chuck Rocha thank you very much Sanders' 2020 Senior Adviser. Good to have you here sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROCHA",
+      "sentences": "Thank you. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So also joining me tonight Karl Rove, Former Deputy Chief of Staff to President George W. Bush and of course Fox News Contributor. Karl good to have you with us tonight. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARL ROVE, FOXNEWS CONTRIBUTOR",
+      "sentences": "Thank you Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know I thought it was interesting when you think about Bernie Sanders base and you look at the Electorate, Joe Biden clearly a lot of voters coalesced around him on Super Tuesday across all kinds of demographics and groups. Do you think there is a way for Bernie Sanders to change that momentum at this point?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Well, there is. I mean, the debate will - will give him a chance. His own conduct and his own campaign will give him a chance. The excitement that existed between Saturday and Tuesday for Joe Biden, we don't know how long that's going to continue to that same degree. I doubt that it's going to last all the way through March. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); } And next week there are going to be some states, Idaho, North Dakota and Washington State where Sanders is going to do well. The big questions are going to be Michigan and to a lesser extent Missouri. Mississippi is going to be strong for Biden. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); } And you know how that all comes out is going to be affected to some degree by how the men conduct themselves between now and next Tuesday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. So what do you think, you know, now that there is so much focus on Joe Biden? We showed how crowded that stage was and you can kind of, you know, people get lost in the shuffle when there is that many people out there. But now this comes down to just the two of them. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); } And there has been a lot of talk about the gaffes and, you know, confusion at times. How much do you think that could become a factor for him as the spotlight becomes ever brighter and he is more on his own on that stage? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Yes, well absolutely there should be. We are going to have a lot of time devoted to him. I mean, when you have five or six candidates with the 90 minutes. I mean, you've been there, Martha, it's really sort of more like a news conference. But now we're going to see these two men go one-on-one with each other and that's going to have a much more different frame than it's had before and as a result it could have some very big consequences for either one of them. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); } We don't know how they're going to do in a one-on-one debate. We haven't seen them a one-on-one debate. And there is a lot required from any candidate in a debate like that. But if you got a lot of people on the stage to share time with you, you got at least a little bit of time to sort of figure out what you want to say when that question comes to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, one of the interesting factors, I think, and Chuck just brought it up in terms of union strength in Michigan and, of course, that's a factor in Pennsylvania as well. And I was struck last night by the number of people who had union shirts and union hats on and even out on the streets as we came into Scranton. How much support there was from members of the union for the president? How do you think that vote has changed in the last few years Karl? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Yes, look I think the building trades and the construction you know the people who sort of make things, even the auto workers. I think they have become much more accepting of Trump. I think a lot of those union members voted against their union leadership in 2016 and voted for Trump. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); } They are going to be with Trump because they sense he is with them. Bernie made the attack. You heard his spokesman say well, he has voted against every trade deal. I think that's misrepresenting where union auto workers in Michigan might be. That might have been where they were 20 years ago, vote against any trade deal. I think they feel that President Trump stood up for them in the renegotiation of NAFTA and that things were made better for them. And their current circumstances matter and if they feel like their job is secure and they are making a good paycheck and they believe that the President cares about them, it's going to be hard to pry them away and particularly in the Democratic Primary where you have got one guy who has been a lifelong -- you know, sort of involved in the union movement, namely Joe Biden, and another guy who has been involved on behalf of the union movement, but Vermont is not a big place like, you know, neither is Delaware, but Biden was sort of the third Senator from Pennsylvania. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); } And he has cultivated those union ties for a long time which is why I think that they have got to find another message other than he voted against - he voted for trade deals and I voted against him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Karl, thank you always good to see you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "You bet. Thank you. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So when we come back, we're going to - thanks to Karl. We are going to have more of the breaking news tonight on the Coronavirus outbreak. More cases than the public is being told, perhaps. We're going to talk about that when we come back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We never really know when something like this is going to and what it is going to be. We are really very highly prepared for anything. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I think we are doing a really good job in this country at keeping it down. We have really been very vigilant. We have done a tremendous job at keeping it down. Anybody right now and, yesterday, anybody that needs a test gets a test. They are there. They have the test. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That's President Trump touring CDC Headquarters today in Atlanta touting his Administration's response to Coronavirus. This comes amid growing concerns about the spread of the virus and doctor's ability to accurately test for it. Chief Breaking News Correspondent Trace Gallagher has the latest from our West Coast Newsroom not too far away from where we are tonight. Hey, Trace. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRACE GALLAGHER, CHIEF BREAKING NEWS CORRESPONDENT",
+      "sentences": "Hi Martha about 40 miles up the road. Breaking right now of the 3500 passengers and crew aboard the Grand Princess Cruise Ship 46 were tested for testing. And we now know that 19 crew members and 2 passengers tested positive for Coronavirus. 24 tested negative and one test is inconclusive. During a White House news conference a short time ago, Vice President Mike Pence said that this weekend the Grand Princess will be brought in to dock in San Francisco at a noncommercial port. Listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE PENCE, U.S. VICE PRESIDENT",
+      "sentences": "All passengers and crew will be tested for the Coronavirus. Those that need to be quarantined will be quarantined. Those that require additional medical attention will receive it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "It remains unclear where those who tested positive will be quarantined though Travis and Lock Land Military bases are possible sites. The Grand Princess was under scrutiny because seven passengers on the ship's previous cruise to Mexico tested positive for Coronavirus one elderly man died and several dozen passengers along with crew members who went on that Mexico cruise remained on the ship for this cruise. Right now in the U.S. there are 220 cases of Coronavirus in 19 states. 14 people have died. All but one death was in Washington State and most of those victims were living in a Seattle area nursing home. In fact, the State of Washington is setting up a command center dedicated to just nursing homes. Meantime both New York and California have seen an increase in the number of cases and officials in both states have complained about a lack of test kits. But the CDC and the Administration dispute that saying there are plenty of kits available now and millions more coming. Watch. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALEX AZAR, HHS SECRETARY",
+      "sentences": "Up to 4 million tests available in the United States by the end of next week we have got commercial labs are getting validated as we speak.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "We should note President Trump today signed the 8.3 billion aid package to fund the fight against Coronavirus. And we should note the stock market still hemorrhaging money. The DOW was down 256 on fears that Coronavirus will damage the global economy through factory shutdowns, travel bans and cancellations of both big and small events. Martha? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. A lot of unknown here Trace, good to be in your time zone tonight. Thanks, good to see you. So I'm joined now by Dr. Amesh Adalja who is a senior Scholar at John's Hopkins Center for Health Security and Infectious Disease Specialist. Doctor, good to have you with us tonight. I think one of the things that's on everyone's minds right now is, you know, are there a lot of people walking around with this who don't realize they have it and is it about to explode in terms of numbers? What's your answer to that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. AMESH ADALJA, HOPKINS CENTER FOR HEALTH SECURITY",
+      "sentences": "There definitely are likely people walking around cities all around the United States that have this virus. Remember, these symptoms are really overlapping with colds and flu and since most cases are mild, people may not know that they have this Coronavirus and may be diagnosed by doctors as a cold or flu. But it could be this Coronavirus because we know it has been spreading since at least November in China and we don't have the testing ability to actually go out and test these individuals and the testing criteria really don't want to test people that haven't traveled. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); } So it is really a restricted testing criterion that's making it very hard to actually know what the spread of this virus is in the country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So what would you recommend?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ADALJA",
+      "sentences": "I think we have to get much more liberal with our testing criteria. We need to not think that this is just a travel related infection. That unless you were in China, South Korea, Italy or Iran that that's were those are the only people that are going to have. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); } We're going to have to start testing people who have flu-like illness and maybe they test negative for flu and now you start thinking do they have this Coronavirus. We have to be able to test for that because once we understand that this is in our community some of the panic will go down because there is a lot of panic because people think this is something new and foreign. But I think that will go away and we will have an idea what the case fatality ratio is because we will start to diagnose mild cases and that may also dampen the panic and we can sort of right size the response to this outbreak.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. So you heard The Story about the cruise ship, so that is an interesting example because you've got a confined space and had you six, I think, passengers who were on the previous cruise who had been diagnosed and now 19 of the crew members on that ship have also been diagnosed within a couple of other people as well. Also two people at the AIPAC Conference have now been diagnosed would with Coronavirus. So we are seeing a lot of things get cancelled, so these conferences and meetings and the cruise docks are tanking because of this. Do you think people should cancel their plans along these lines?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ADALJA",
+      "sentences": "If you are somebody that is older, maybe above 60. If you have medical problems, you really should think about going to mass gatherings and not trying to expose yourself to this virus because it's out there in the community and it is sometimes very hard to avoid. So you may want to, if it's not essential maybe try to skip some of these mass gatherings. Be more careful when you are out in public if you have to go out in public. But I don't know that there is a one size fits all things for mass gatherings. It's going to really depend upon what's going on in that community where we are in terms of this outbreak whether or not things are cancelled. So you may see some things cancelled and some things not cancelled and it's going to be really be a local decision based on the local context and the transmission dynamics in that city. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You just heard the President and Alex Azar the Head of HHS say that there are millions of test kits that will be available next week. Now obviously this is one of the vulnerabilities for the administration is that these test kits we were behind the 8-ball on them. How much of a problem is that and is getting those next week good enough?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ADALJA",
+      "sentences": "We are - it is a major problem. We want to be able to diagnose these cases everywhere ideally at the point of care without delays, without a backlog so that we can actually figure out where this virus is and where it isn't and advise patients and doctors accordingly. So I do think it's great that we are going to have these millions of test kits and that the national lab chains are coming on board and that the state labs can do it and commercial labs are getting involved. But we really needed this earlier. I think that we should have been really poised to do this as soon as we heard about this virus circulating in China and spreading from person to person because we know these respiratory viruses will spread everyone just like 2009 H1N1.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Dr. Adalja, thank you very much. Good to have you on tonight. Good information.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ADALJA",
+      "sentences": "Thanks for having me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So coming up a new theory about what Chuck Schumer was hoping to achieve by calling out two Supreme Court Justices on the steps of our nation's highest court. Governor Mike Huckabee here on that when we come back with more of \"The Story\" live from the Nixon Library in Yorba Linda, California. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER (D-NY)",
+      "sentences": "They didn't come out the way I intended to.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHUMER",
+      "sentences": "I want to tell you, Gorsuch, I want to tell you, Kavanaugh. You have released the whirlwind and you will pay the price gore.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL (R-KY)",
+      "sentences": "The Minority Leader of the United States Senate threatened two Associated Justices of the U.S. Supreme Court, period. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHUMER",
+      "sentences": "I'm from Brooklyn. We speak in strong language. I shouldn't have used the words I did but in no way was I making a threat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So those controversial comments now having many Senate Republicans calling for Minority Leader Chuck Schumer to be censured. \"The Wall Street Journal\" Editorial Board writing the comments from Mr. Schumer reflect a significant escalation in Democratic efforts to bully the high court. Last year five Democratic Senators effectively threatened to pack the court if it didn't rule their way in a second amendment case and in a new column in \"The Washington Post,\" Marc Thiessen calls Senator Schumer's comments proof that the future of the Supreme Court will be on the ballot this fall. He writes this: If Democrats win in November, their base will not be satisfied with simply replacing aging liberal justices. Here to respond tonight Mike Huckabee, Former G.O.P. Presidential Candidate now a Fox News Contributor and Former Governor Of Arkansas. Good to see you, sir, thank you for being here tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE HUCKABEE, FOX NEWS CONTRIBUTOR",
+      "sentences": "Well, thank you. Marc is right. I have to think this is all about the Democrats wanting to fulfill their promise and that's to stack the court which means, Martha, that here are people if they don't win the game they just change the game they change the rule of the game so that they will win it by default. This ought to scare every America into voting for somebody other than a Democrat for President. And it ought to make them realize that if they give the Democrats the majority of the Senate, there is going to be shenanigans that are really threatening the very essence of our constitutional forum of separation of powers and a balance of powers. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); } It's very, very frightening this nonsense about being from Brooklyn. What an insult to the people from Brooklyn because not everybody in Brooklyn goes around threatening federal officials.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Now I think that's a good point. You know, just to put the shoe on the other foot for a moment here, every party wants to win the Presidency because they want to have the opportunity to leave their mark on the court. So it's certainly not unusual for the future of the Supreme Court to be a big issue during a Presidential Election.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUCKABEE",
+      "sentences": "Well, that's true but here is the difference do they want to leave their mark on the court by turning court into a legislative body because the legislative body doesn't have enough guts to actually put certain things before their members to vote on? That's what we are dealing with, Martha. The fact is the Democrats are pushing for things that don't make sense they want to take the court and make it into a separate legislative body. What they need to be doing is saying we just want people to look at the constitution, judge it for what it says. And apply the law. That's what Republicans want. I, for example, I don't want a conservative court. I just want a constitutional court.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well and therein lies the difference between the way that Democrats and Republicans look at the court and the way that it should serve. This is Chuck Schumer back on February the 13th before he made these comments. He tweeted this with President Trump publicly attacking a judge now would be the time for Chief Justice Roberts to speak up. Now would be the time for the Chief Justice to directly and specifically defend the independence of the federal judiciary. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } I hope he will see fit to, and do it today. So, I mean, it's interesting that then Chuck Schumer came out and Chief Justice Roberts ended up scolding him and as we pointed out in the Town Hall last night, he did scold the President in the past for what he said about the judge with regard to the Mexico issue. But, you know, does this indicate that, perhaps, Senator Schumer was sort of setting this up for, you know, for political fodder?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUCKABEE",
+      "sentences": "I don't think he was smart enough to honestly realize what he had said on February the 13th. But there is a big difference between calling for a judge to recuse himself or herself because of prejudicial statements and attacking a judge saying I'm coming after you and you are going to pay dearly. That's a threat. It's one thing to make a request to say maybe you are not objective. But you are not threatening the judge in saying if you don't step down, I'm going to come at you, you will reap the whirlwind as superman Schumer said. That's a serious threat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUCKABEE",
+      "sentences": "I think it crossed the legal line.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Here is President Trump when we asked him last night. I asked him if he thought he should apologize because liberals are saying that he did the same thing to liberal judges. Watch this. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "That was a real intimidation, and the best you can say is they are trying to intimidate so that that justice vote -- so the justices vote their way. That's no good either. But that was a physical. That was really -- if a Republican did what Schumer did, they'd be in jail right now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUCKABEE",
+      "sentences": "I don't think they'd be in jail, but possibly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, obviously a lot of the audience agreed with that, do you agree with that? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUCKABEE",
+      "sentences": "I know this. Whether they would be in jail not sure, possibly. But imagine if Ted Cruz had gone out on the steps of the Supreme Court yesterday in that same environment and said that if Sotomayor or if Ginsburg votes any other way than the way that he wants them to, that they better watch out because he is coming for them. I mean, that would be viewed as a threat for sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. Indeed, it would. Always good to see you, Governor Huckabee. Thank you very much for being here tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUCKABEE",
+      "sentences": "Thank you. You bet, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So robust economic report in the midst of the coronavirus crisis but how long can it last? Congressman Mike Kelly joins me next on that. We are live tonight at the Nixon Presidential Library, a beautiful place in Yorba Linda, California after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Job numbers just came out, and they are incredible. The job numbers were tremendous. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Well, the job numbers just came out and they are incredible. The job numbers were tremendous and we picked up close to 80,000 new jobs from last report. And if you add that up, it's over 350,000 jobs. So, the job numbers were at a level that nobody thought possible. They were really incredible.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That is absolutely right. Big numbers today for the month of February as payroll surged by 273,000. That was almost 100,000 more than Wall Street was expecting. But it's important to point out that that was before the full effects of the coronavirus outbreak kicked in. The Dow plunged again today nearly 900 points before recovering a bit and ending the day where you see it down about 270 points. Joining me now is Republican Congressman Mike Kelly. He is on the House Ways and Means Committee. Congressman, good to see you tonight. Thank you very much for being with us. I want to play something for you from Larry Kudlow talking about whether or not there will be another request for funding from congress. Let's watch this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. MIKE KELLY (R-PA)",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LARRY KUDLOW, DIRECTOR, U.S. NATIONAL ECONOMIC COUNCIL",
+      "sentences": "We may have to go back to Congress for additional appropriation request. The Story I'm trying to tell is a story of timely and targeted microforms of assistance, not gargantuan across the board throw money at the problem.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, what's your reaction to that, sir?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY",
+      "sentences": "Well, I'm not sure what Mr. Larry Kudlow is referring to. If it's about the aid that we are sending to the states to handle the coronavirus - -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY",
+      "sentences": "-- that's one thing. But I will tell you this, Martha. You know, we have never seen the type of job growth that we have right now. So, it has been phenomenal. Look, we are going to look at the coronavirus in a way that's in the best interest of every single American. We really believe that getting enough money into the system and then allowing the states to figure out what they should do with it is the best way to go. Because they are the people firsthand on the ground. This is a difficult, difficult situation. Because we are really not sure yet about where this virus is going. So, we want to make sure we are out in front of it. This was the administration that I was here for the Ebola consideration we never had this type of an effort before. Before it became a crisis. So, I'm looking to that very closely. But the jobs report today was absolutely phenomenal. One of the things of course that I'm interested in because I'm from steel country dry and as you know the grain oriented electrical steel my hometown in Butler, Pennsylvania in Zanesville, Ohio where Congressman Troy Balderson are. We wrote a letter to the administration today there is 1,600 jobs there. But the big, big challenge right now is making sure that we have the ability to produce electrical steel which goes into transformers and electrical motors especially when the electric grid is in such great peril right now. China has found a way to circumvent the 232 tariffs and found a way to get into our system and undermine what we are doing. But you know, when you look at everything, Martha, you look at the whole picture, the country has never been healthier than it is today. I would just suggest as much as the --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, I think that --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY",
+      "sentences": "Go ahead. Go ahead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, you know, what I want to ask --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY",
+      "sentences": "So.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "-- what we saw, we saw tremendous jobs numbers, and absolutely the economy is very strong. President Trump town hall last night, a lot of people in that audience were feeling really good about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "But I guess what everybody wants to try to understand is when you have people, you know, not wanting to go on cruise ships, you've got conferences being cancelled. You've got movies being delayed, this will have an impact and I don't know how long it's going to be but, obviously there is going to be an impact. So, what's the best way to offset that economically? Is it stimulus? Is it tax cuts? You know, what do you -- what do you see as the best way to offset it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY",
+      "sentences": "You know, I think it's a combination of everything that you just talked about. As long as we're out in front of it, and as long as we are able to tamp down the hysteria, a lot of what we are talking about is the same thing that you and I learned as youngsters from our parents. Wash your hands, if you are going to cough, cover your mouth, and if you are sick, stay home don't go to school and infect other children. Now we still don't know enough about this coronavirus right yet to say what kind of a strain it is. And you and I both know that the seasonal influenza which kills about 61,000 Americans in a year --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY",
+      "sentences": "-- is another challenge that we have had. This one we just don't know enough about it yet to quell everybody's concerns. I would just say this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY",
+      "sentences": "This is an administration that's way out in front and doing the right thing for the right reasons. And we are going to stay out in front -- we are going to work with the administration as closely as we can to make sure that America is safe. And I think that's the best thing this president started back in January to take -- to take efforts to go ahead and make sure the virus didn't come to the United States.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, we all hope that it all works out well. Congressman Kelly, thank you very much. Good to see you tonight, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY",
+      "sentences": "Martha, thank you. Thank you. Thank you for having me on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So when -- you bet. Good to have you. So, when we come back, devastation in Tennessee where the death toll tonight stands at 25 in the wake of Tuesday's killer tornadoes. There's the president on the ground today touring the damage. When we come back, country music star John Rich on his efforts to help his community when we return.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "President Trump touring tornado ravaged Tennessee earlier today alongside Senator Marsha Blackburn, Governor Bill Lee and other top officials there. Here is the governor earlier today on Fox News. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. BILL LEE (R-TN)",
+      "sentences": "We lost 25 lives here in Tennessee. It's been absolutely devastating, heart breaking to talk to the families who walk through the neighborhoods where just utter devastation occurred, but at the same time it's really -- Tennesseans have come together in powerful ways.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Fox News correspondent Steve Harrigan is on the ground in Cookeville, Tennessee tonight. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEVE HARRIGAN, FOX NEWS CORRESPONDENT",
+      "sentences": "Martha, we are seeing the same seen here repeat itself over and over again. This time it's the homeowner, his brother and a friend they're using bobcats to try and remove the wreckage that just a few days ago was their home. We saw President Trump on the ground here a few hours ago. Many people thought the president would simply fly over the damage in his helicopter. Instead, he landed on the ground and spent about 35 minutes with survivors shaking hands, hugging them, trying to boost morale and promising the full resources of the federal government.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We're going to be with them. We are going to be with them all the way. I can tell you the governor feels the same as I do. And the mayors I want to just congratulate you because the job you've done, everybody is talking about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "This is where the storm hit the hardest. Wind speeds over 200 miles per hour. More than 100 houses completely demolished including that of Jonathan Jones who told us how he tried to save his wife and four children.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I actually opened this to this closet and I pushed everybody in and held onto the door frame and the door and just held them all there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "Was it hard to hold on? What was it feel like?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "No, it wasn't that hard to hold on. I don't know if it's because I had adrenaline or whatever going. But I had fear. I know that. I was scared for my wife. My kids, myself. Like I said, in 10 minutes it was over.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "Like many here even though his house is destroyed Jones says he is going to rebuild. He says his family, his friends all live here and he wants to try and make it a go again despite this tragedy. Martha, back to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "It is awful. Steve Harrigan reporting today from outside of Nashville. Joining me now on efforts to help the tornado victims is John Rich, country music singer, local Tennessean and host of the pursuit with John Rich on Fox Nation. John, great to have you on tonight. What did it mean for the people there to get a visit from the president today and how is everybody doing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN RICH, COUNTRY MUSIC SINGER",
+      "sentences": "You know, it was a huge deal to have the president here today. I think when a disaster like this hits your town, your county, you feel kind of isolated. I think when the president showed up, it made everyone understand, the whole country has got our backs here. The whole country understands what we are going through. And the whole country is here to support and help this -- help this town and these counties get back up on their feet as soon as possible.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I know that you are hosting a benefit for the victims of this tornado. What -- who needs the most help? You know, how are you going to raise that money and where is it going to go? Tell us what people need.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICH",
+      "sentences": "There is people, you saw the images there. I mean, there are houses literally sheared off at the foundations and there's hundreds and hundreds of houses like that. So, tonight, I actually have a bar downtown in Nashville. A lot of country singers do, mine is called Redneck Rivera, it's right there on Broadway. So, I'm going to go there right after this interview with you and host a big live music event tonight. All the money raised there tonight will go into a fund that helps those people in the interim. You know, some of them have to stay in hotels. They have to -- they have to eat. They have to go on with life but really nowhere to go. For a while, it's going to take a little while to get this fixed. So, a lot of us are just trying to bridge those gaps and plug those holes the best we can. There is an organization called the Community Foundation of Middle Tennessee. You can go to there and donate money. I've seen people doing it nationwide. You know, I was saying earlier --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICH",
+      "sentences": "-- it's a great thing to see that even though our country is arguing and fighting all these political and social commentaries back and forth, when something like this happens, it's nice to see that Americans still have each other's back and that's what we are witnessing here in Tennessee.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "It is. You are so right, John. And I'm glad you mentioned the Middle Community -- Middle Tennessee Community Foundation because I'm going to do a book signing on Parnassus Books on Sunday at 2 o'clock in Nashville and the proceeds are going to go to that same foundation. You can see the information here on the screen. John, thank you so much. Maybe we'll see you down there. Bye, John.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICH",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, coming up -- you bet. Coming up next, World War II hero Tony Lombardi shares his story of survival ahead of our event here tonight at the beautiful Nixon Library in Yorba Linda, California which you are going to get a look at in just a moment as well. There is our back drop here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "We are back at the Richard Nixon Presidential Library in Yorba Linda, California where I'm proud to be sharing my new book \"Unknown Valor: A Story of Family, Courage, and Sacrifice from Pearl Harbor to Iwo Jima.\" In researching it, I was humbled reading about the many stories of sacrifice during the Second World War. Stories like that of the next guest, a young U.S. marine who was wounded by a grenade on the island of Guam. Joining me now is Anthony, Tony Lombardi, a veteran who proudly served in the Pacific during World War II. Tony, thank you so much for being with me here at the Nixon Library. This is an amazing place to be. You are 98 years old, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANTHONY LOMBARDI, WORLD WAR II USMC VETERAN",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Correct? So, tell me a little bit about when you were on Guam and you were wounded, what happened?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "Well, we made the landing on Guam.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "We stood on the beach there for a little while because so much arching going on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "So, you are lucky if you made the beach and dug a hole. So, you had to wait for the orders to move up. So, we moved up three days. And we finally met up to the top of this one hill. And the fellows that were up there, they weren't doing anything. Just looking around. I said what's wrong? He said the ninth marines are pinned down. I said really? I say, we better go find out what the hell is going on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "So, I told these three friends of mine, I said, you three guys cover me, I'm going down I'm looking to see if I can find what's going on. And these other folks go, I'll come with you. So, we went down this little hill. And I know soon we got there the (INAUDIBLE) came running straight toward me. He doesn't know I was there. So, I fired. And he just landed in front of me. And he had other buddies ready to follow him. But they started to go back. But they didn't make it. So, if I hadn't stopped these fellas, they would have attacked the marines on the side. God knows how many they would have killed. So, that's what happened. I was there. And my buddies say, I said, why aren't you firing? He says my rifle is jammed. I said holy cow. I said we can't stay here. I can't fight all these guys. There is a whole group of Japanese down below. I no sooner said that, I got this big explosion right next to me. I thought my stomach was ripped open. So, I fell back. He had help for me. He came back with the corps men and they carried me up back the hill. They put me on medical ship and back to Hawaii.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "To Hawaii.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "So that's the last I've seen of combat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And I know you -- your unit went to Iwo Jima. Right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "Right. Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And you say you've had, you would have never been able to find a lot of those guys that you were so close to. Right, Tony?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "That's true. Yes. Yes. I don't know where they were at. I don't know where they're at. I don't know if they got wiped out. I don't know anything.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What would you like to say to younger people? What do you want them to understand about the heroism that you just described to us and the sacrifices of the men you fought with, Tony?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "Well, when I went in there, I done my work. I done my job. That's all I was thinking about.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "I didn't know I stopped the guys for a reason. later into my years, I said gees, I don't know how many guys I could have saved that day. So, I don't know what to tell them. It's, they hear stories. But it's too bad we have to have wars, you know. It's bad. It's hard for everybody. So, if we can stop these wars, and we won't have all those catastrophes that we are having today, and these kids today I hope you don't go in because war is a terrible thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Tony, thank you. Thank you for your service and thank you for being with us tonight and sharing your story. It's an honor to meet you. U.S. marine and the World War II veteran, 98 years old, Tony Lombardi. Thank you, Tony.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Good to have you with us tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOMBARDI",
+      "sentences": "All right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, anyone in the area is invited to join us for tonight's \"Unknown Valor\" book signing here at the Nixon Library. And you can follow me on Instagram or Facebook for details of our future tour dates in cities that are coming up near you. That is \"The Story\" of Friday, March the 6th, 2020. But as always, The Story continues. We'll see you back here Monday night at 6.30 Eastern for our Fox Townhall with presidential candidate Bernie Sanders. Bret and I will be live in Michigan. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of Fox News Network, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, ANCHOR",
+      "utterance": "Good evening, everybody, I'm Martha McCallum and this is \"The Story\" live tonight from the Richard Nixon Presidential Library in Yorba Linda California. So in honor of all of the history that is surrounding us tonight. Let's just take a tiny step back for a moment to June of 2019, not all that long ago. This is what the First Democratic Presidential Debate looked like 8 months ago. Look at all those candidates. It was so largely needed two stages and it went across two nights. So the debate that is set for March 15th will look like these two individuals, Joe Biden and Bernie Sanders. But will the race be all but determined by then? Because it's do or die for Bernie Sanders in Michigan next week he has canceled other campaign events to rally their tonight in Michigan. All the focus is there he hopes to win 125 delegates in that biggest prize of the six states which will vote on Tuesday night. So on the eve of that crucial primary Senator Sanders will join me and Bret Baier live. We will talk to him in Detroit for a Fox News Town Hall this Monday night at 6:30. So joining me right now tonight on \"The Story\" is Chuck Rocha, Senior Advisor to the Sanders' Campaign. Chuck, good evening. Good to see you tonight."
+    },
+    {
+      "speaker": "CHUCK ROCHA, SANDERS CAMPAIGN SENIOR ADVISER",
+      "utterance": "Good to see you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So you know Elizabeth Warren let's start there because she dropped out obviously after Super Tuesday. And I'm curious about the nature of the discussions between the Sanders' Campaign and Elizabeth Warren's Campaign at this point. What can you tell us?"
+    },
+    {
+      "speaker": "ROCHA",
+      "utterance": "Well, the Senator had a conversation I think he said very openly he wanted to keep it a private conversation. I'm sure they talked about, you know, what she had been doing in the campaign but I don't want to get into details and to be honest with you the Senator didn't tell me the details. But I think she ran a great campaign. The Senator has said that I think she has a lot of great supporters and I think that a lot of her supporters will come on board with our campaign and we welcome each and every one of them. And I think this is down to a two-person race as everybody can see now. So I think everybody is coalescing behind their favorite people."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I mean it's kind of remarkable because all through this process Elizabeth Warren and Bernie Sanders, she said she felt she would be a better President than Bernie Sanders but they lined up on so many things, on wanting to restructure the country, really to do fundamental change and Medicare for all and all of those points. And, yet, here's what she had to say about the way things have been looking lately. Listen to this."
+    },
+    {
+      "speaker": "SEN. ELIZABETH WARREN (D-MA)",
+      "utterance": "I think it's a real problem with this online bullying and sort of organized nastiness. We are responsible for the people who claim to be our supporters and do really threatening, ugly, dangerous things for - to others."
+    },
+    {
+      "speaker": "RACHAEL MADDOW, MSNBC HOST",
+      "utterance": "And it's particularly it's a particular problem with Sanders supporters?"
+    },
+    {
+      "speaker": "WARREN",
+      "utterance": "It is. And it just is."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What do you say to that, Chuck?"
+    },
+    {
+      "speaker": "ROCHA",
+      "utterance": "Well, I think she had said it's for all the campaigns. I know Rachael went in there at the end and said for Bernie and for his particular campaign. I think that we and I think the Senator has said very openly you know we don't want anybody or any of our supporters bullying anybody on the internet and we continue to say it over and over again. Again we have a bunch of wonderful supporters online. And I think that sometimes the focus gets on really minute little bit of folks who probably doing the wrong thing who are just crazy folks on the internet. When the overwhelming majority of everybody else, every interacted with on the internet that has anything to do with Bernie Sanders give me love and affection and talk about how much that they are trying to get Bernie elected."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. So does your candidate - do you blame Elizabeth Warren for what happened on Super Tuesday because there has been a lot of discussion about what the impact would have been and how the outcome could have been quite different on Super Tuesday if Elizabeth Warren wasn't in the mix. Here is the President when we spoke with him last night on this. Watch."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Maine would have gone to - I think he would have gotten everything, right? Bernie Sanders would have won 5, 6, 7 states. Would have won Minnesota, would have won at least another two or three states. So, when you look at it, she did him no favors. That was not a good friendship."
+    },
+    {
+      "speaker": "ROCHA",
+      "utterance": "I have been running campaigns for a long time. It does you no good to look back. We don't know exactly where it would have been had she not been in it. We just have got to look forward and think about consolidating. One thing that we can tell you for sure is that you had the moderate lane 48 hours before that coming together because they were all scared to death that Bernie Sanders was fixing to win all of those states on Super Tuesday. What affect her candidacy would have mean if she would have stayed in or gotten out or endorsed somebody over somebody else that is still unknown. We have Michigan and all these states ahead of us and that's where we are focused right now."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right, so we're going to be speaking with Senator Sanders in Michigan on Monday night. Is it as we suggested in our intro really sort of the do or die stop for him, do you think?"
+    },
+    {
+      "speaker": "ROCHA",
+      "utterance": "I don't think it's a do or die. We expect to do well. And in your intro and on Bret's show they were talking about how we surprised Hillary there look, Michigan is a great state for us. Bernie Sanders have a lifetime record of standing up against trade deals and standing for working Americans. I think that's what message goes over so good there. I think that's the reason why he wanted to do this Town Hall with you all in Michigan because we want to talk directly to those voters. This is a state on this particular day that has the most delegates at stake. So why not double down right there and let's get a few more delegates back and catch up with Vice President Biden."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. We will be watching. Obviously we will be there Monday night and we will be watching what happens on Tuesday night. Chuck Rocha thank you very much Sanders' 2020 Senior Adviser. Good to have you here sir."
+    },
+    {
+      "speaker": "ROCHA",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So also joining me tonight Karl Rove, Former Deputy Chief of Staff to President George W. Bush and of course Fox News Contributor. Karl good to have you with us tonight."
+    },
+    {
+      "speaker": "KARL ROVE, FOXNEWS CONTRIBUTOR",
+      "utterance": "Thank you Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know I thought it was interesting when you think about Bernie Sanders base and you look at the Electorate, Joe Biden clearly a lot of voters coalesced around him on Super Tuesday across all kinds of demographics and groups. Do you think there is a way for Bernie Sanders to change that momentum at this point?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Well, there is. I mean, the debate will - will give him a chance. His own conduct and his own campaign will give him a chance. The excitement that existed between Saturday and Tuesday for Joe Biden, we don't know how long that's going to continue to that same degree. I doubt that it's going to last all the way through March. And next week there are going to be some states, Idaho, North Dakota and Washington State where Sanders is going to do well. The big questions are going to be Michigan and to a lesser extent Missouri. Mississippi is going to be strong for Biden. And you know how that all comes out is going to be affected to some degree by how the men conduct themselves between now and next Tuesday."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. So what do you think, you know, now that there is so much focus on Joe Biden? We showed how crowded that stage was and you can kind of, you know, people get lost in the shuffle when there is that many people out there. But now this comes down to just the two of them. And there has been a lot of talk about the gaffes and, you know, confusion at times. How much do you think that could become a factor for him as the spotlight becomes ever brighter and he is more on his own on that stage?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Yes, well absolutely there should be. We are going to have a lot of time devoted to him. I mean, when you have five or six candidates with the 90 minutes. I mean, you've been there, Martha, it's really sort of more like a news conference. But now we're going to see these two men go one-on-one with each other and that's going to have a much more different frame than it's had before and as a result it could have some very big consequences for either one of them. We don't know how they're going to do in a one-on-one debate. We haven't seen them a one-on-one debate. And there is a lot required from any candidate in a debate like that. But if you got a lot of people on the stage to share time with you, you got at least a little bit of time to sort of figure out what you want to say when that question comes to you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, one of the interesting factors, I think, and Chuck just brought it up in terms of union strength in Michigan and, of course, that's a factor in Pennsylvania as well. And I was struck last night by the number of people who had union shirts and union hats on and even out on the streets as we came into Scranton. How much support there was from members of the union for the president? How do you think that vote has changed in the last few years Karl?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Yes, look I think the building trades and the construction you know the people who sort of make things, even the auto workers. I think they have become much more accepting of Trump. I think a lot of those union members voted against their union leadership in 2016 and voted for Trump. They are going to be with Trump because they sense he is with them. Bernie made the attack. You heard his spokesman say well, he has voted against every trade deal. I think that's misrepresenting where union auto workers in Michigan might be. That might have been where they were 20 years ago, vote against any trade deal. I think they feel that President Trump stood up for them in the renegotiation of NAFTA and that things were made better for them. And their current circumstances matter and if they feel like their job is secure and they are making a good paycheck and they believe that the President cares about them, it's going to be hard to pry them away and particularly in the Democratic Primary where you have got one guy who has been a lifelong -- you know, sort of involved in the union movement, namely Joe Biden, and another guy who has been involved on behalf of the union movement, but Vermont is not a big place like, you know, neither is Delaware, but Biden was sort of the third Senator from Pennsylvania. And he has cultivated those union ties for a long time which is why I think that they have got to find another message other than he voted against - he voted for trade deals and I voted against him."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Karl, thank you always good to see you."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "You bet. Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So when we come back, we're going to - thanks to Karl. We are going to have more of the breaking news tonight on the Coronavirus outbreak. More cases than the public is being told, perhaps. We're going to talk about that when we come back."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We never really know when something like this is going to and what it is going to be. We are really very highly prepared for anything."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I think we are doing a really good job in this country at keeping it down. We have really been very vigilant. We have done a tremendous job at keeping it down. Anybody right now and, yesterday, anybody that needs a test gets a test. They are there. They have the test."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That's President Trump touring CDC Headquarters today in Atlanta touting his Administration's response to Coronavirus. This comes amid growing concerns about the spread of the virus and doctor's ability to accurately test for it. Chief Breaking News Correspondent Trace Gallagher has the latest from our West Coast Newsroom not too far away from where we are tonight. Hey, Trace."
+    },
+    {
+      "speaker": "TRACE GALLAGHER, CHIEF BREAKING NEWS CORRESPONDENT",
+      "utterance": "Hi Martha about 40 miles up the road. Breaking right now of the 3500 passengers and crew aboard the Grand Princess Cruise Ship 46 were tested for testing. And we now know that 19 crew members and 2 passengers tested positive for Coronavirus. 24 tested negative and one test is inconclusive. During a White House news conference a short time ago, Vice President Mike Pence said that this weekend the Grand Princess will be brought in to dock in San Francisco at a noncommercial port. Listen."
+    },
+    {
+      "speaker": "MIKE PENCE, U.S. VICE PRESIDENT",
+      "utterance": "All passengers and crew will be tested for the Coronavirus. Those that need to be quarantined will be quarantined. Those that require additional medical attention will receive it."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "It remains unclear where those who tested positive will be quarantined though Travis and Lock Land Military bases are possible sites. The Grand Princess was under scrutiny because seven passengers on the ship's previous cruise to Mexico tested positive for Coronavirus one elderly man died and several dozen passengers along with crew members who went on that Mexico cruise remained on the ship for this cruise. Right now in the U.S. there are 220 cases of Coronavirus in 19 states. 14 people have died. All but one death was in Washington State and most of those victims were living in a Seattle area nursing home. In fact, the State of Washington is setting up a command center dedicated to just nursing homes. Meantime both New York and California have seen an increase in the number of cases and officials in both states have complained about a lack of test kits. But the CDC and the Administration dispute that saying there are plenty of kits available now and millions more coming. Watch."
+    },
+    {
+      "speaker": "ALEX AZAR, HHS SECRETARY",
+      "utterance": "Up to 4 million tests available in the United States by the end of next week we have got commercial labs are getting validated as we speak."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "We should note President Trump today signed the 8.3 billion aid package to fund the fight against Coronavirus. And we should note the stock market still hemorrhaging money. The DOW was down 256 on fears that Coronavirus will damage the global economy through factory shutdowns, travel bans and cancellations of both big and small events. Martha?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. A lot of unknown here Trace, good to be in your time zone tonight. Thanks, good to see you. So I'm joined now by Dr. Amesh Adalja who is a senior Scholar at John's Hopkins Center for Health Security and Infectious Disease Specialist. Doctor, good to have you with us tonight. I think one of the things that's on everyone's minds right now is, you know, are there a lot of people walking around with this who don't realize they have it and is it about to explode in terms of numbers? What's your answer to that?"
+    },
+    {
+      "speaker": "DR. AMESH ADALJA, HOPKINS CENTER FOR HEALTH SECURITY",
+      "utterance": "There definitely are likely people walking around cities all around the United States that have this virus. Remember, these symptoms are really overlapping with colds and flu and since most cases are mild, people may not know that they have this Coronavirus and may be diagnosed by doctors as a cold or flu. But it could be this Coronavirus because we know it has been spreading since at least November in China and we don't have the testing ability to actually go out and test these individuals and the testing criteria really don't want to test people that haven't traveled. So it is really a restricted testing criterion that's making it very hard to actually know what the spread of this virus is in the country."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So what would you recommend?"
+    },
+    {
+      "speaker": "ADALJA",
+      "utterance": "I think we have to get much more liberal with our testing criteria. We need to not think that this is just a travel related infection. That unless you were in China, South Korea, Italy or Iran that that's were those are the only people that are going to have. We're going to have to start testing people who have flu-like illness and maybe they test negative for flu and now you start thinking do they have this Coronavirus. We have to be able to test for that because once we understand that this is in our community some of the panic will go down because there is a lot of panic because people think this is something new and foreign. But I think that will go away and we will have an idea what the case fatality ratio is because we will start to diagnose mild cases and that may also dampen the panic and we can sort of right size the response to this outbreak."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. So you heard The Story about the cruise ship, so that is an interesting example because you've got a confined space and had you six, I think, passengers who were on the previous cruise who had been diagnosed and now 19 of the crew members on that ship have also been diagnosed within a couple of other people as well. Also two people at the AIPAC Conference have now been diagnosed would with Coronavirus. So we are seeing a lot of things get cancelled, so these conferences and meetings and the cruise docks are tanking because of this. Do you think people should cancel their plans along these lines?"
+    },
+    {
+      "speaker": "ADALJA",
+      "utterance": "If you are somebody that is older, maybe above 60. If you have medical problems, you really should think about going to mass gatherings and not trying to expose yourself to this virus because it's out there in the community and it is sometimes very hard to avoid. So you may want to, if it's not essential maybe try to skip some of these mass gatherings. Be more careful when you are out in public if you have to go out in public. But I don't know that there is a one size fits all things for mass gatherings. It's going to really depend upon what's going on in that community where we are in terms of this outbreak whether or not things are cancelled. So you may see some things cancelled and some things not cancelled and it's going to be really be a local decision based on the local context and the transmission dynamics in that city."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You just heard the President and Alex Azar the Head of HHS say that there are millions of test kits that will be available next week. Now obviously this is one of the vulnerabilities for the administration is that these test kits we were behind the 8-ball on them. How much of a problem is that and is getting those next week good enough?"
+    },
+    {
+      "speaker": "ADALJA",
+      "utterance": "We are - it is a major problem. We want to be able to diagnose these cases everywhere ideally at the point of care without delays, without a backlog so that we can actually figure out where this virus is and where it isn't and advise patients and doctors accordingly. So I do think it's great that we are going to have these millions of test kits and that the national lab chains are coming on board and that the state labs can do it and commercial labs are getting involved. But we really needed this earlier. I think that we should have been really poised to do this as soon as we heard about this virus circulating in China and spreading from person to person because we know these respiratory viruses will spread everyone just like 2009 H1N1."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Dr. Adalja, thank you very much. Good to have you on tonight. Good information."
+    },
+    {
+      "speaker": "ADALJA",
+      "utterance": "Thanks for having me."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So coming up a new theory about what Chuck Schumer was hoping to achieve by calling out two Supreme Court Justices on the steps of our nation's highest court. Governor Mike Huckabee here on that when we come back with more of \"The Story\" live from the Nixon Library in Yorba Linda, California."
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER (D-NY)",
+      "utterance": "They didn't come out the way I intended to."
+    },
+    {
+      "speaker": "SCHUMER",
+      "utterance": "I want to tell you, Gorsuch, I want to tell you, Kavanaugh. You have released the whirlwind and you will pay the price gore."
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL (R-KY)",
+      "utterance": "The Minority Leader of the United States Senate threatened two Associated Justices of the U.S. Supreme Court, period."
+    },
+    {
+      "speaker": "SCHUMER",
+      "utterance": "I'm from Brooklyn. We speak in strong language. I shouldn't have used the words I did but in no way was I making a threat."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So those controversial comments now having many Senate Republicans calling for Minority Leader Chuck Schumer to be censured. \"The Wall Street Journal\" Editorial Board writing the comments from Mr. Schumer reflect a significant escalation in Democratic efforts to bully the high court. Last year five Democratic Senators effectively threatened to pack the court if it didn't rule their way in a second amendment case and in a new column in \"The Washington Post,\" Marc Thiessen calls Senator Schumer's comments proof that the future of the Supreme Court will be on the ballot this fall."
+    },
+    {
+      "speaker": "He writes this",
+      "utterance": "If Democrats win in November, their base will not be satisfied with simply replacing aging liberal justices. Here to respond tonight Mike Huckabee, Former G.O.P. Presidential Candidate now a Fox News Contributor and Former Governor Of Arkansas. Good to see you, sir, thank you for being here tonight."
+    },
+    {
+      "speaker": "MIKE HUCKABEE, FOX NEWS CONTRIBUTOR",
+      "utterance": "Well, thank you. Marc is right. I have to think this is all about the Democrats wanting to fulfill their promise and that's to stack the court which means, Martha, that here are people if they don't win the game they just change the game they change the rule of the game so that they will win it by default. This ought to scare every America into voting for somebody other than a Democrat for President. And it ought to make them realize that if they give the Democrats the majority of the Senate, there is going to be shenanigans that are really threatening the very essence of our constitutional forum of separation of powers and a balance of powers. It's very, very frightening this nonsense about being from Brooklyn. What an insult to the people from Brooklyn because not everybody in Brooklyn goes around threatening federal officials."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Now I think that's a good point. You know, just to put the shoe on the other foot for a moment here, every party wants to win the Presidency because they want to have the opportunity to leave their mark on the court. So it's certainly not unusual for the future of the Supreme Court to be a big issue during a Presidential Election."
+    },
+    {
+      "speaker": "HUCKABEE",
+      "utterance": "Well, that's true but here is the difference do they want to leave their mark on the court by turning court into a legislative body because the legislative body doesn't have enough guts to actually put certain things before their members to vote on? That's what we are dealing with, Martha. The fact is the Democrats are pushing for things that don't make sense they want to take the court and make it into a separate legislative body. What they need to be doing is saying we just want people to look at the constitution, judge it for what it says. And apply the law. That's what Republicans want. I, for example, I don't want a conservative court. I just want a constitutional court."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well and therein lies the difference between the way that Democrats and Republicans look at the court and the way that it should serve. This is Chuck Schumer back on February the 13th before he made these comments. He tweeted this with President Trump publicly attacking a judge now would be the time for Chief Justice Roberts to speak up. Now would be the time for the Chief Justice to directly and specifically defend the independence of the federal judiciary. I hope he will see fit to, and do it today. So, I mean, it's interesting that then Chuck Schumer came out and Chief Justice Roberts ended up scolding him and as we pointed out in the Town Hall last night, he did scold the President in the past for what he said about the judge with regard to the Mexico issue. But, you know, does this indicate that, perhaps, Senator Schumer was sort of setting this up for, you know, for political fodder?"
+    },
+    {
+      "speaker": "HUCKABEE",
+      "utterance": "I don't think he was smart enough to honestly realize what he had said on February the 13th. But there is a big difference between calling for a judge to recuse himself or herself because of prejudicial statements and attacking a judge saying I'm coming after you and you are going to pay dearly. That's a threat. It's one thing to make a request to say maybe you are not objective. But you are not threatening the judge in saying if you don't step down, I'm going to come at you, you will reap the whirlwind as superman Schumer said. That's a serious threat."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "HUCKABEE",
+      "utterance": "I think it crossed the legal line."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Here is President Trump when we asked him last night. I asked him if he thought he should apologize because liberals are saying that he did the same thing to liberal judges. Watch this."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "That was a real intimidation, and the best you can say is they are trying to intimidate so that that justice vote -- so the justices vote their way. That's no good either. But that was a physical. That was really -- if a Republican did what Schumer did, they'd be in jail right now."
+    },
+    {
+      "speaker": "HUCKABEE",
+      "utterance": "I don't think they'd be in jail, but possibly."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, obviously a lot of the audience agreed with that, do you agree with that?"
+    },
+    {
+      "speaker": "HUCKABEE",
+      "utterance": "I know this. Whether they would be in jail not sure, possibly. But imagine if Ted Cruz had gone out on the steps of the Supreme Court yesterday in that same environment and said that if Sotomayor or if Ginsburg votes any other way than the way that he wants them to, that they better watch out because he is coming for them. I mean, that would be viewed as a threat for sure."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. Indeed, it would. Always good to see you, Governor Huckabee. Thank you very much for being here tonight."
+    },
+    {
+      "speaker": "HUCKABEE",
+      "utterance": "Thank you. You bet, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So robust economic report in the midst of the coronavirus crisis but how long can it last? Congressman Mike Kelly joins me next on that. We are live tonight at the Nixon Presidential Library, a beautiful place in Yorba Linda, California after this."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Job numbers just came out, and they are incredible. The job numbers were tremendous."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Well, the job numbers just came out and they are incredible. The job numbers were tremendous and we picked up close to 80,000 new jobs from last report. And if you add that up, it's over 350,000 jobs. So, the job numbers were at a level that nobody thought possible. They were really incredible."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That is absolutely right. Big numbers today for the month of February as payroll surged by 273,000. That was almost 100,000 more than Wall Street was expecting. But it's important to point out that that was before the full effects of the coronavirus outbreak kicked in. The Dow plunged again today nearly 900 points before recovering a bit and ending the day where you see it down about 270 points. Joining me now is Republican Congressman Mike Kelly. He is on the House Ways and Means Committee. Congressman, good to see you tonight. Thank you very much for being with us. I want to play something for you from Larry Kudlow talking about whether or not there will be another request for funding from congress. Let's watch this."
+    },
+    {
+      "speaker": "REP. MIKE KELLY (R-PA)",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "LARRY KUDLOW, DIRECTOR, U.S. NATIONAL ECONOMIC COUNCIL",
+      "utterance": "We may have to go back to Congress for additional appropriation request. The Story I'm trying to tell is a story of timely and targeted microforms of assistance, not gargantuan across the board throw money at the problem."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, what's your reaction to that, sir?"
+    },
+    {
+      "speaker": "KELLY",
+      "utterance": "Well, I'm not sure what Mr. Larry Kudlow is referring to. If it's about the aid that we are sending to the states to handle the coronavirus - -"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KELLY",
+      "utterance": "-- that's one thing. But I will tell you this, Martha. You know, we have never seen the type of job growth that we have right now. So, it has been phenomenal. Look, we are going to look at the coronavirus in a way that's in the best interest of every single American. We really believe that getting enough money into the system and then allowing the states to figure out what they should do with it is the best way to go. Because they are the people firsthand on the ground. This is a difficult, difficult situation. Because we are really not sure yet about where this virus is going. So, we want to make sure we are out in front of it. This was the administration that I was here for the Ebola consideration we never had this type of an effort before. Before it became a crisis. So, I'm looking to that very closely. But the jobs report today was absolutely phenomenal. One of the things of course that I'm interested in because I'm from steel country dry and as you know the grain oriented electrical steel my hometown in Butler, Pennsylvania in Zanesville, Ohio where Congressman Troy Balderson are. We wrote a letter to the administration today there is 1,600 jobs there. But the big, big challenge right now is making sure that we have the ability to produce electrical steel which goes into transformers and electrical motors especially when the electric grid is in such great peril right now. China has found a way to circumvent the 232 tariffs and found a way to get into our system and undermine what we are doing. But you know, when you look at everything, Martha, you look at the whole picture, the country has never been healthier than it is today. I would just suggest as much as the --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, I think that --"
+    },
+    {
+      "speaker": "KELLY",
+      "utterance": "Go ahead. Go ahead."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, you know, what I want to ask --"
+    },
+    {
+      "speaker": "KELLY",
+      "utterance": "So."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "-- what we saw, we saw tremendous jobs numbers, and absolutely the economy is very strong. President Trump town hall last night, a lot of people in that audience were feeling really good about it."
+    },
+    {
+      "speaker": "KELLY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "But I guess what everybody wants to try to understand is when you have people, you know, not wanting to go on cruise ships, you've got conferences being cancelled. You've got movies being delayed, this will have an impact and I don't know how long it's going to be but, obviously there is going to be an impact. So, what's the best way to offset that economically? Is it stimulus? Is it tax cuts? You know, what do you -- what do you see as the best way to offset it?"
+    },
+    {
+      "speaker": "KELLY",
+      "utterance": "You know, I think it's a combination of everything that you just talked about. As long as we're out in front of it, and as long as we are able to tamp down the hysteria, a lot of what we are talking about is the same thing that you and I learned as youngsters from our parents. Wash your hands, if you are going to cough, cover your mouth, and if you are sick, stay home don't go to school and infect other children. Now we still don't know enough about this coronavirus right yet to say what kind of a strain it is. And you and I both know that the seasonal influenza which kills about 61,000 Americans in a year --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KELLY",
+      "utterance": "-- is another challenge that we have had. This one we just don't know enough about it yet to quell everybody's concerns. I would just say this."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KELLY",
+      "utterance": "This is an administration that's way out in front and doing the right thing for the right reasons. And we are going to stay out in front -- we are going to work with the administration as closely as we can to make sure that America is safe. And I think that's the best thing this president started back in January to take -- to take efforts to go ahead and make sure the virus didn't come to the United States."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, we all hope that it all works out well. Congressman Kelly, thank you very much. Good to see you tonight, sir."
+    },
+    {
+      "speaker": "KELLY",
+      "utterance": "Martha, thank you. Thank you. Thank you for having me on."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So when -- you bet. Good to have you. So, when we come back, devastation in Tennessee where the death toll tonight stands at 25 in the wake of Tuesday's killer tornadoes. There's the president on the ground today touring the damage. When we come back, country music star John Rich on his efforts to help his community when we return."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "President Trump touring tornado ravaged Tennessee earlier today alongside Senator Marsha Blackburn, Governor Bill Lee and other top officials there. Here is the governor earlier today on Fox News. Watch."
+    },
+    {
+      "speaker": "GOV. BILL LEE (R-TN)",
+      "utterance": "We lost 25 lives here in Tennessee. It's been absolutely devastating, heart breaking to talk to the families who walk through the neighborhoods where just utter devastation occurred, but at the same time it's really -- Tennesseans have come together in powerful ways."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Fox News correspondent Steve Harrigan is on the ground in Cookeville, Tennessee tonight. Take a look."
+    },
+    {
+      "speaker": "STEVE HARRIGAN, FOX NEWS CORRESPONDENT",
+      "utterance": "Martha, we are seeing the same seen here repeat itself over and over again. This time it's the homeowner, his brother and a friend they're using bobcats to try and remove the wreckage that just a few days ago was their home. We saw President Trump on the ground here a few hours ago. Many people thought the president would simply fly over the damage in his helicopter. Instead, he landed on the ground and spent about 35 minutes with survivors shaking hands, hugging them, trying to boost morale and promising the full resources of the federal government."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We're going to be with them. We are going to be with them all the way. I can tell you the governor feels the same as I do. And the mayors I want to just congratulate you because the job you've done, everybody is talking about it."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "This is where the storm hit the hardest. Wind speeds over 200 miles per hour. More than 100 houses completely demolished including that of Jonathan Jones who told us how he tried to save his wife and four children."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I actually opened this to this closet and I pushed everybody in and held onto the door frame and the door and just held them all there."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "Was it hard to hold on? What was it feel like?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "No, it wasn't that hard to hold on. I don't know if it's because I had adrenaline or whatever going. But I had fear. I know that. I was scared for my wife. My kids, myself. Like I said, in 10 minutes it was over."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "Like many here even though his house is destroyed Jones says he is going to rebuild. He says his family, his friends all live here and he wants to try and make it a go again despite this tragedy. Martha, back to you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "It is awful. Steve Harrigan reporting today from outside of Nashville. Joining me now on efforts to help the tornado victims is John Rich, country music singer, local Tennessean and host of the pursuit with John Rich on Fox Nation. John, great to have you on tonight. What did it mean for the people there to get a visit from the president today and how is everybody doing?"
+    },
+    {
+      "speaker": "JOHN RICH, COUNTRY MUSIC SINGER",
+      "utterance": "You know, it was a huge deal to have the president here today. I think when a disaster like this hits your town, your county, you feel kind of isolated. I think when the president showed up, it made everyone understand, the whole country has got our backs here. The whole country understands what we are going through. And the whole country is here to support and help this -- help this town and these counties get back up on their feet as soon as possible."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I know that you are hosting a benefit for the victims of this tornado. What -- who needs the most help? You know, how are you going to raise that money and where is it going to go? Tell us what people need."
+    },
+    {
+      "speaker": "RICH",
+      "utterance": "There is people, you saw the images there. I mean, there are houses literally sheared off at the foundations and there's hundreds and hundreds of houses like that. So, tonight, I actually have a bar downtown in Nashville. A lot of country singers do, mine is called Redneck Rivera, it's right there on Broadway. So, I'm going to go there right after this interview with you and host a big live music event tonight. All the money raised there tonight will go into a fund that helps those people in the interim. You know, some of them have to stay in hotels. They have to -- they have to eat. They have to go on with life but really nowhere to go. For a while, it's going to take a little while to get this fixed. So, a lot of us are just trying to bridge those gaps and plug those holes the best we can. There is an organization called the Community Foundation of Middle Tennessee. You can go to there and donate money. I've seen people doing it nationwide. You know, I was saying earlier --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "RICH",
+      "utterance": "-- it's a great thing to see that even though our country is arguing and fighting all these political and social commentaries back and forth, when something like this happens, it's nice to see that Americans still have each other's back and that's what we are witnessing here in Tennessee."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "It is. You are so right, John. And I'm glad you mentioned the Middle Community -- Middle Tennessee Community Foundation because I'm going to do a book signing on Parnassus Books on Sunday at 2 o'clock in Nashville and the proceeds are going to go to that same foundation. You can see the information here on the screen. John, thank you so much. Maybe we'll see you down there. Bye, John."
+    },
+    {
+      "speaker": "RICH",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, coming up -- you bet. Coming up next, World War II hero Tony Lombardi shares his story of survival ahead of our event here tonight at the beautiful Nixon Library in Yorba Linda, California which you are going to get a look at in just a moment as well. There is our back drop here."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "We are back at the Richard Nixon Presidential Library in Yorba Linda, California where I'm proud to be sharing my new book \"Unknown Valor: A Story of Family, Courage, and Sacrifice from Pearl Harbor to Iwo Jima.\" In researching it, I was humbled reading about the many stories of sacrifice during the Second World War. Stories like that of the next guest, a young U.S. marine who was wounded by a grenade on the island of Guam. Joining me now is Anthony, Tony Lombardi, a veteran who proudly served in the Pacific during World War II. Tony, thank you so much for being with me here at the Nixon Library. This is an amazing place to be. You are 98 years old, sir."
+    },
+    {
+      "speaker": "ANTHONY LOMBARDI, WORLD WAR II USMC VETERAN",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Correct? So, tell me a little bit about when you were on Guam and you were wounded, what happened?"
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "Well, we made the landing on Guam."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "We stood on the beach there for a little while because so much arching going on."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "So, you are lucky if you made the beach and dug a hole. So, you had to wait for the orders to move up. So, we moved up three days. And we finally met up to the top of this one hill. And the fellows that were up there, they weren't doing anything. Just looking around. I said what's wrong? He said the ninth marines are pinned down. I said really? I say, we better go find out what the hell is going on."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "So, I told these three friends of mine, I said, you three guys cover me, I'm going down I'm looking to see if I can find what's going on. And these other folks go, I'll come with you. So, we went down this little hill. And I know soon we got there the (INAUDIBLE) came running straight toward me. He doesn't know I was there. So, I fired. And he just landed in front of me. And he had other buddies ready to follow him. But they started to go back. But they didn't make it. So, if I hadn't stopped these fellas, they would have attacked the marines on the side. God knows how many they would have killed. So, that's what happened. I was there. And my buddies say, I said, why aren't you firing? He says my rifle is jammed. I said holy cow. I said we can't stay here. I can't fight all these guys. There is a whole group of Japanese down below. I no sooner said that, I got this big explosion right next to me. I thought my stomach was ripped open. So, I fell back. He had help for me. He came back with the corps men and they carried me up back the hill. They put me on medical ship and back to Hawaii."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "To Hawaii."
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "So that's the last I've seen of combat."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And I know you -- your unit went to Iwo Jima. Right?"
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "Right. Yes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And you say you've had, you would have never been able to find a lot of those guys that you were so close to. Right, Tony?"
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "That's true. Yes. Yes. I don't know where they were at. I don't know where they're at. I don't know if they got wiped out. I don't know anything."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What would you like to say to younger people? What do you want them to understand about the heroism that you just described to us and the sacrifices of the men you fought with, Tony?"
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "Well, when I went in there, I done my work. I done my job. That's all I was thinking about."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "I didn't know I stopped the guys for a reason. later into my years, I said gees, I don't know how many guys I could have saved that day. So, I don't know what to tell them. It's, they hear stories. But it's too bad we have to have wars, you know. It's bad. It's hard for everybody. So, if we can stop these wars, and we won't have all those catastrophes that we are having today, and these kids today I hope you don't go in because war is a terrible thing."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Tony, thank you. Thank you for your service and thank you for being with us tonight and sharing your story. It's an honor to meet you. U.S. marine and the World War II veteran, 98 years old, Tony Lombardi. Thank you, Tony."
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Good to have you with us tonight."
+    },
+    {
+      "speaker": "LOMBARDI",
+      "utterance": "All right."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, anyone in the area is invited to join us for tonight's \"Unknown Valor\" book signing here at the Nixon Library. And you can follow me on Instagram or Facebook for details of our future tour dates in cities that are coming up near you. That is \"The Story\" of Friday, March the 6th, 2020. But as always, The Story continues. We'll see you back here Monday night at 6.30 Eastern for our Fox Townhall with presidential candidate Bernie Sanders. Bret and I will be live in Michigan. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of Fox News Network, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

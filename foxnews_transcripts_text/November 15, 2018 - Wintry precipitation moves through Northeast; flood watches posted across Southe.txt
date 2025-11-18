@@ -1,0 +1,30 @@
+Headline: Wintry precipitation moves through Northeast; flood watches posted across Southeast
+Sub-headline: No sub-headline found
+
+  close 
+     Video  National forecast for Thursday, November 15 
+Janice Dean has your FoxCast. 
+Wintry and icy conditions are ongoing from the Ohio River Valley to the Appalachians and Mid-Atlantic.  More significant icing is possible across portions of Indiana, Ohio, and Kentucky.
+  
+  
+   
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+All of this wintry precipitation moves north and eastward today and tonight.  The heaviest wet snow will fall across the Appalachians and interior Northeast.   5-10” is likely across central Pennsylvania into Upstate New York and interior New England.  More of a snow/sleet mix, then rain will fall near the coast.  Most of the rain, snow, and ice will wrap up by late Friday morning.
+  
+Farther south, flood watches are posted across the Southeast and coastal Mid-Atlantic as heavy rain continues over these areas.  Isolated strong storms are even possible from coastal North Carolina to southeastern Virginia.
+    

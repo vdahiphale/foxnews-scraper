@@ -1,0 +1,885 @@
+{
+  "date": "September 16, 2018",
+  "headline": "Former FEC chairman Bradley Smith talks campaign finance law",
+  "subHeadline": "'Russia Hoax' author Gregg Jarrett and former FEC chairman Bradley Smith join 'Life, Liberty & Levin' to discuss campaign finance laws.",
+  "url": "https://www.foxnews.com/transcript/former-fec-chairman-bradley-smith-talks-campaign-finance-law",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MARK LEVIN, HOST",
+      "sentences": "Hello America. I'm Mark Levin. This is \"Life, Liberty & Levin.\" We have two great guests, Bradley Smith, how are you my friend? Good to see you, Gregg Jarrett, good to see you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GREGG JARRETT, FOX NEWS",
+      "sentences": "Good to be here. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Briefly, everybody knows who you guys are, but we're going to do this anyway, okay, just in case. You were Commissioner at the Federal Election Commission, starting in 2000. You were chairman at one point. You graduated from Harvard Law School, and you were confirmed to the FEC in 2000. Prior to your appointment, you were professor of law at Capitol University in Columbus, Ohio. You taught election law, as a matter of fact, you spent your whole life studying, teaching and around election law, is that correct? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRADLEY SMITH, FORMER COMMISSIONER AT THE FEDERAL ELECTION COMMISSION",
+      "sentences": "Yes. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Your writings on campaign finance, other election issues, and this is important that we get your background in here. They've appeared in the Yale law journal, the University of Pennsylvania law review, Georgetown law journal, the Harvard journal of legislation, Cornel journal of law and public policy and other academic journals. Have you founded the Institute for Free Speech and you're a professor again at Capital University. Gregg Jarrett, you graduated from university of California Hastings college of law, 1980. You worked as a defense attorney for several years in San Francisco. You taught law as an adjunct professor at New York Law School and lectured at other law schools, and have you've written a fantastic \"New York Times\" best-seller, number one, \"The Russian Hoax: The Illicit Scheme To Clear Hillary Clinton and Frame Donald Trump.\" if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); } So I need you gentlemen here for a reason. We're going to dig into what's going on, and I want to start with you, Brad Smith. People tell us Federal election laws are arcane, they are arcane. There's too damn many of them. But that said, people want them. They keep demanding less money, less money in politics. So I want to ask you a question, if there's an individual who makes a payment from their own pocket or from their own company, or they direct their private lawyer to make a payment whom they later reimburse even if they don't reimburse, also from the same funds, to enter into a non-disclosure agreement with an individual, a non-disclosure agreement with an individual, involving alleged activity that preceded this individual's candidacy for any Federal office. Is that a campaign contribution?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Short answer there is no. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "And why not? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, it's not because it doesn't arise out of a campaign, and the key thing that you said there, Mark, is that this happened before the campaign was going on. The events that give rise to it. And under the Federal Election Campaign Act, anything one spends to influence a campaign can be deemed to be a contribution or an expenditure under one part of the law, but the law contains other clauses that focus on what are not campaign expenditures and what is called personal use, and you can't convert your campaign funds to personal use. So, what the courts and what the statute says very clearly what the FEC has said in its regulation is if something is not an expense that arises directly out of a campaign, for example, you rent office for a campaign headquarters, you hire a campaign manager, you pay for TV ads, you print up buttons and bumper stickers, those are all things you're doing because you're running for office. But the fact that something helps your campaign doesn't make it a campaign expense. For example, I decide I'd look better on the campaign trail if I had teeth whitened. Not a campaign expense. I want a new suit to look good at the debate, not a campaign expense. Where it takes something that's more relevant to what we are seeing going on recently, as you alluded to sort of the Trump payments to some of these women who alleged various affairs and so on. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); } If I'm a successful businessman and I decide I want to run for office and I said, I've got all the lawsuits against me as businessmen often do against their companies and so on, these are all a bunch of BS, there is no merit to them, but I don't want them out there. I don't want people asking me about them, I don't want them dragging my campaign, settle those lawsuits, tell my lawyer. I can't pay the settlements with campaign funds, that's not a campaign expenditure, the obligation did not arise out of my running for office. So that's the long answer to your question, the short answer is a simple no, paying somebody for something to be quiet about something that was done or alleged years before is not a campaign expense.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Gregg, obviously I'm talking about the Southern District of New York, in the Cohen case and Cohen pleads.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Sure. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Two of the counts he pleads to are campaign violations. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "You have you media types running around saying, \"Well, if he pled to a crime, that means that Donald Trump is an unindicted co-conspirator,\" is that correct? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "No, it turns criminal law on its head. It's upside down. First of all, he pled guilty to a non-crime. People actually do that all the time in a plea bargain agreement in which, you know, the prosecutors say you're going to spend the next 50 years behind bars, but if you plead to what we want you to plead to, yes, we'll let you out in two or three years, you can have a life to see your kids and your wife. So people oftentimes will plead guilty to things they didn't do or non- crimes because that's what prosecutors want them to do. I've always objected to flipping witnesses and so forth under pressure because it's nothing more than bribery and extortion. In this particular case, I talked to two or three different election law experts, one of which spent most of his career at the Department of Justice doing election law and he laughed and he said, \"Cohen pled guilty to two non-crimes.\" He said, there's no possible way that what he did and what Trump did is criminal. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); } So this is what prosecutors wanted. They wanted something in this plea deal that would implicate Donald Trump, and that to me is unconscionable and fundamentally wrong on the law. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "And think of this, what kind of precedent this would set. The prosecution says it influenced the campaign, as you point out. There's a thousand things that influence a campaign in a positive way. Maybe I want to buy $5,000.00 suit with my own money. There's a lot of things. Maybe I want to buy an old used Chevy and trade in my brand-new Cadillac so it looks better in the campaign, that positively influences the campaign. Let me ask you something, members of Congress, we know this as a matter of fact, settled ethics complaints involving sexual harassment. They created this slush fund with taxpayer dollars, to quiet the accusers. Non- disclosure agreements, if you will. Hush money, we can use the same phrase. They didn't want the constituents to know? Many of them running for re-election as incumbents, they're using tax dollars, it influences the campaign. Why aren't they indicted? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, we know why they're not indicted, right? Because we don't want to indict them. It's a good example of things that influence the campaign, and it's worth noting that under the FEC's regulations, if you're an incumbent officeholder, you're presumed to be running for re-election, so you are all presumed to be candidates unless they've announced that they're not seeking re-election. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); } So they would be candidates and this is something that they probably did to influence their future campaign or their perception as officeholders. One thing that's worth adding here, Mark, is because I hear this from people all the time and even some other election law lawyers or some former other commissioners will say, \"Yes, but it was to influence an election.\" But the FEC and its regulations very specifically rejected the idea that even as to whether it was primarily to influence the election or not, in choosing instead this test that has to be an obligation that was created for the election, in other words, they didn't want to get into the question of trying to guess, well, did they do this primarily for the election or primarily for personal purposes, and it's very specific about that in the regulations, and I think that's a very important point that people need to keep in mind, and that was done actually to make it more objective and actually to prevent candidates from using campaign funds for personal use. But that's the flipside, and I tell people imagine if you're a lawyer for the Trump campaign, you want to do it all right, you've got one position, the statute says, I have to pay it with campaign funds, another provision seems to say I can't pay with campaign funds, somebody is going to get them coming or going, and that's part of the problem. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "So if you're a lawyer for the Trump campaign, or the coming Trump campaign, you would do pretty much what Donald Trump did. No campaign money, consult your private lawyer, and they enter into these non- disclosure agreements. Gregg, let me ask you this, isn't the real issue here is people were actually paid under the non-disclosure agreements and then they violated the non-disclosure agreements? I don't see them giving the money back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "You are absolutely right. I think it's malpractice for the attorney for Stormy Daniels to say go ahead and talk while the case is pending as to whether or not it's a valid and enforceable non-disclosure agreement. So it's stunning to me. But to Bradley's point, not everything that benefits a candidate is considered to be a campaign expense. Professor Smith wrote that in one of his op-eds, and he's absolutely right. If there is a dual purpose or a secondary purpose, it's not a campaign expense, and moreover, the media rushed and said, \"Oh, Cohen pled guilty, the President must be guilty.\" That's utter nonsense. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); } First of all, under the campaign - Federal Campaign Election Act and other related laws that criminalize violations, there has to be knowledge. You have to show that there was a knowing and deliberate violation of the law in order for it to be criminal. Well, most candidates don't know the election law. Heck, a lot of lawyers don't understand election laws. This gentleman, former commissioner, a Federal election commissioner, chairman, he knows election law. He may be just about the only one in America who really truly knows it. So you couldn't criminalize what Trump did if it wasn't properly accounted for as an advance or reimbursement. That is a civil penalty, it's the equivalent of a jaywalking $500.00 fine, but it is certainly not a crime. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "I did a search. It didn't take me long. Of all the Federal candidates who have been charged and have been convicted of violating these laws, I can't find a single one. Are you aware of a single one? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "For this kind of scenario?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Similar scenario?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "No. I have really not. Of course, the most high profile one would be John Edwards, from a few years ago. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "And what happened in those ... if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Most of you remember that supporters were paying funds, money to a woman, Rielle Hunter, I believe was her name with whom he had affair and an illegitimate child. And now, it's worth noting that the US Attorney indicted him. So they went to trial on it. So t he US Attorney thought there was a case. But in the end, the jury did not convict, he was acquitted on some charges and others was a hung jury. And I think that shows the tremendous difficulty and one quick little anecdote. When we talk about how obscure this law is, how difficult, it's Antonin Scalia, who was a reasonably good lawyer actually said from the bench in Springfield, Ohio. He had argument once that this Campaign Finance Law is so complex, I can't figure it out. So we've have a Supreme Court justice who can't figure it out, you see the problems that people have when you try to deal with it on a daily basis. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "The reason I'm bringing this up now, weeks and weeks after all the fanfare is because, and I want to get into this when we come back, this is what happens, it's hit and run. And I want to slow things down so we can unravel things that just happened before we get on to the next thing which is a daily recitation that wears out the voter, that wears out the American people of a Trump violation of a law, a Trump ethical violation, or a Trump something or other, and I just feel that this program will get to slow the process down a little bit and go back and unravel some of what has taken place. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } Ladies and gentlemen, don't forget, most week nights you can join me on Levin TV. Levin TV. Here is what you do. You go to crtv.com/mark, crtv.com/mark or give us a call at 844-LEVIN-TV. 844-LEVIN-TV. Join our wonderful community over there. I know you will enjoy it. We'll be right back. Bradley Smith, what about this issue of a corporate contribution, one of the allegations against Michael Cohen is that he facilitated a corporate contribution. Is there such a crime? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "There's not, this is one of the interesting things about the indictment. It is illegal for a corporation to contribute money directly to a candidate's campaign, and it's illegal for a corporate officer to approve such a contribution, but Michael Cohen, there is no crime for causing the corporation to make the contribution, and Michael Cohen is not a corporate officer, and I think this shows that the indictment includes a number of clauses that are kind of dubious at best.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "And to pick up on what Gregg was saying, they had this laundry list of tax violations and a loan violation, they probably could have made a longer list regarding taxi medallions or whatever it was, and yet, they had these two campaign clauses in there which we all agree are phony. So why do they do that? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "Well, this is all part of the ongoing scheme, I call it in my book, the illicit scheme to damage, destroy, frame Donald Trump with things he didn't do. You know, the media has certainly been complicit in this, at every turn they have convicted Trump in the court of public opinion without evidence. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); } You know, for the longest time, collusion, the mere utterance of the word constituted a crime/ Nobody in the media ever actually looked it up, if they had, they would have found it only exists in antitrust law and other potential crimes are inapplicable. Conspiracy to fraud the government and so on, but it has no application, if you read the Supreme Court decisions. I lay it all out in my book and I disabuse this media narrative, the President is guilty of colluding with Russia because a couple of junior campaign volunteers had a conversation with a Russian. One entire chapter is entitled, \"It's not a crime to talk to a Russian,\" and I explained it in great detail, but you know, try to get that through the thick skulls and the bias of the mainstream media, and it's a herculean effort, because they just don't want to consider anything that is diverse from their narrative that Trump is guilty of a wide variety of crime simply because he's Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "So they're really doing this because they can see they can't indict a sitting President. Finally, they conceded after they must have finally read the two memos from the Department of Justice for whom these people work. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "And they must comply with the policies of the Department of Justice. So they're trying to build this impeachment case.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "Yes. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "And so Mueller kicks it off to the Southern District and the audience should understand, that doesn't mean they're not in communication, that doesn't mean they don't collaborate and collude with each other, that doesn't mean that perhaps the Mueller team wanted those campaign issues raised in the Southern District of New York. That's all perfectly possible. Why wouldn't they? If their goal is to produce this report for impeachment. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); } Let me ask you this, do prosecutors normally produce reports and send them into the Department of Justice or they speak in a courtroom?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "Well, they generally speak in a courtroom, and they let their charges do the talking. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Now why is that? So people have the right to defend themselves?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "That is correct, everybody is presumed innocent until proven guilty. But that's not the way this special counsel and his team of partisans are going about the investigation of Donald Trump. I think you're absolutely right. Mueller understands that he can't indict a sitting President, so he's doing something else. He's going write a report. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } The law, notwithstanding, and the facts notwithstanding, he will put something I predict in his report that will give Democrats in Congress some hook, something to hang their hat on for Articles of Impeachment against the President. I think it will be completely specious and unfounded because I think Mueller has demonstrated that he is virulently biased against Donald Trump. He should have recused himself from the very beginning, never taken the case because of multiple conflicts of interest. Rosenstein, his boss ... if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "I want to get to him. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "Also, conflicts of interest.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "I definitely want to get to him but want to ask you a question, Bradley Smith, which is this, this report that they produce, isn't the President in a bind here like no citizen in the country? If you cannot indict a sitting President and they write this report for the Deputy Attorney General of the United States, as the acting Attorney General of the United States, the President has no legal way to defend himself. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); } He has to defend the office of the President against what could be a rogue indictment. He has to fight that for the office of the presidency, For separation of powers and so forth, and yet as an individual citizen, he can't go to court. He can't fight the allegations. Isn't this a strange situation where a report is written and it's given to the Department of Justice which will then be pressured to give it to Congress when you have an inferior employee at the Department of Justice basically writing an impeachment report? Don't you find this odd?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, I think this really goes to the whole idea of special counsels and the way that we use special counsels and essentially have you somebody whose job it is to shadow this President and all of his associates and find - see if you can find crimes to pin on him. I do think it's odd. I'm not sure it's unprecedented in the way that special counsels have worked. I think it just shows the danger of the sort of special counsel approach to governing this idea that we're going to kind of find a crime and we'll make it all fit later.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "And find a crime and make it all fit later. There is one thing different, isn't there? There was no crime when the special counsel was appointed. Isn't that a violation of Department of Justice policy right there? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "It's completely a violation. This was an illegitimate appointment of the special counsel. If you look closely at the Federal regulations, it requires a statement of a specific crime. Look at the authorization order appointing Mueller. There is no specific statement of a crime. Don't just take my word for it. Former Attorney General Michael McCasey who was a top Federal judge before he became the Attorney General has pointed this out repeatedly as have other Federal prosecutors. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } This has always been an investigation, Mark, in search of a crime, which is backwards, under the law and the regulations.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "And this in part is due to the fact that this was a counterintelligence investigation that swung into a criminal investigation, counterintelligence investigations for the FISA court and so on, they are not criminal investigation, so he swings it into a criminal investigation and when we come back, I want to talk about the \"he,\" Rosenstein - Rod Rosenstein. Why is there a conflict of interest? Why did he make this appointment? Why is he still overseeing this investigation? We'll be right back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAUREN GREEN, CORRESPONDENT, FOX NEWS",
+      "sentences": "Live from \"America's News Headquarters,\" I'm Lauren Green. The death toll from what was Hurricane Florence rising to 17. The latest victim, a 3-month-old baby died when a tree fell on a mobile home in Dallas, North Carolina. Despite being downgraded to a tropical depression, Florence is still massive. Radar is showing the storm over six southeastern states. It's already been dumping more than 30 inches of rain in the Carolinas. Flood worries are now also spreading to Virginia and West Virginia. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); } New developments in the allegations of sexual misconduct against Supreme Court nominee Brett Kavanaugh. A woman who wrote a confidential letter now going public with her story in the \"Washington Post.\" The 51-year-old college professor says Judge Kavanaugh tried to force himself on her at a party in the 1980s. Kavanaugh denies the allegations. I'm Lauren Green, now back to \"Life, Liberty & Levin.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Welcome back. Gregg Jarrett, let's talk about Rod Rosenstein, the Deputy Attorney General of the United States for these purposes, the acting Attorney General of the United States because Jeff Sessions recused himself, and he appoints a special counsel to investigate Russian collusion and interference related to the Trump campaign. Donald trump fires Jim Comey. Jim Comey says, after he's fired, that he pushed for a special counsel and in his book tour he says he needs to be credited with triggering that event.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Rosenstein appoints Mueller. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "I'm a little confused about this as I assume the American people are. Rosenstein wrote an extensive memo to the Attorney General who passed it onto the President of the United States, and in that memo he cites former Attorneys General, former Deputy Attorneys General, former US Attorney, former whatever at the Department of Justice and beyond, condemning Comey for what he did in Hillary Clinton's case in the press conference, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Well if he's appointing Mueller to investigate, among other things, the firing of Comey, which he was involved in, is that not a conflict of interest? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "It's a major disqualifying conflict of interest that is actually mandatory under Federal regulations. It says shall disqualify yourself. Not maybe or should or perhaps, shall. And yet with impunity, Rod Rosenstein has ignored the conflict of interest, and it's really quite astonishing. I think most law professors of ethics are confounded by his refusal. We know that Robert Mueller, the special counsel, has already interviewed Rod Rosenstein, his boss, as a witness in this case. You know, an employee is a special counsel interviewing the boss who's a witness who's presiding over the case. Federal regulations say you cannot be a prosecutor and a witness in the same case. It's fundamental ethics, legal ethics, this kind of stuff for which you get suspended or disbarred. It makes you wonder what Rosenstein is up to. I believe, and I argue in a book that James Comey stole government documents, which is potentially criminal, and then leaked them to unauthorized individuals for the sole purpose of appointing his longtime friend, partner and ally, Robert Mueller who may be motivated to go after Trump in retribution for the firing of his long-time, good friend, James Comey; and Rod Rosenstein as you point out, is in this, they are thick as thieves and I find it very interesting that Rosenstein who is also in legal jeopardy for signing off on the FISA warrant without proper evidence, has been obstructing the efforts of Congress in disclosing information and documents which they are legally entitled to have. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Let me ask you, Brad Smith, about the appointments clause of the Constitution. The Constitution has an appointment clause, and to sum it up basically, if you're a principal officer, if you seek to be a principal officer in the executive branch under the President of the United States, he is to nominate the individual, and that person typically gets hearings, maybe not, has to be confirmed by the United States Senate. That's the way the framers wanted it. So we have this special counsel, we have a ruling 30 years ago in a Supreme Court case, Morrison v. Olson, it was challenged that as the independent counsel statute, and the court ruled overwhelmingly with the great Antonin Scalia dissenting and they tested certain - they provided certain elements in the test, that it's constitutional because the independent counsel is an inferior employee who reports to a superior who oversees the case, and there are specific things that this individual is investigating. So it's not like, say, a US Attorney or an Assistant Attorney General of the United States - all of whom are principal officers, all of whom have to be confirmed by the Senate upon nomination of the President of the United States. Is this case not a little different than Morrison v. Olson, in that you have a special counsel who was appointed, as Gregg says, without specific criminal statutory purpose. More of a general investigator, who has gone in many directions. He has gone into the Eastern District of Virginia. He has gone into Manhattan, chasing the Manhattan Madam or whatever. He pretty much has free rein, signed off by the Deputy Attorney General of the United States, but even a US Attorney depending what cases they get involved in, that has to be signed off by main justice, too. Is he not? You may disagree with me, is he not more akin to a US Attorney, as a principal officer, this special counsel than an inferior prosecutor? If you disagree, say so.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, I think the real thing goes back to the decision in Morrison v. Olson, which is I think, I believe, if I remember right, the case where Antonin Scalia made his wonderful line that this wolf comes to us in wolf's clothing, talking about how bad the statute was. And I do think what this shows is how bad that decision was because a superior officer, principal officer has the authority to sort of set policy and broad discretion and an inferior officer does not. But Mueller doesn't really report to anybody. I mean, in theory, he reports to Rod Rosenstein, but in fact as you point out, he's got a roving brief that seems unlimited to go in almost any direction he wants, and so I don't know if I want to say that this is directly different from Morrison v. Olson, it may just show that Morrison v. Olson is A, is a bad decision, and B, that the - and I don't want to get a constitutional claim out of this, but his supervisors are simply not doing the job in reining him in. It would be as if you had some lower level official in the Department of Agriculture just running around the country doing all kinds of things and nobody in the Department of Agriculture said \"Hey, you can't keep doing that.\" That's how I would tend to look at it. But it certainly shows a real problem, I think with the constitutional and statutory problem with special counsels.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Don't forget, every week, most week nights you can watch me on Levin TV, Levin TV. I hope you'll sign up and join us. Call 844-LEVIN-TV, 844-LEVIN-TV. Or go to crtv.com/mark, crtv.com/mark. We'll be right back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Gregg Jarrett, there is still this cloud that hangs over the White House on whether or not Mr. Mueller will trigger a subpoena to force the President to do something, to testify about obstruction. To testify and perhaps create a perjury situation. Couple of questions. If, in fact, as you suggest, Mr. Mueller is an inferior employee, does an inferior employee of the Department of Justice have the power constitutionally to force his boss, the President of the United States, to appear before a grand jury or to appear in person for an interview? What do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "I would say no. An inferior officer does not have the legal right or the Constitutional right to question a President over exercising his Constitutional authority. In, for example, firing James Comey, the FBI director, and moreover as to the issue of collusion, whatever that amorphous crime is that is nowhere in the criminal code, you have no legal right or basis or justification for questioning the President of the United States about a non-crime, and I think Robert Mueller has come to the realization that he knows that if he were to slap the President with a subpoena, the President would move in a motion to quash and that Mueller would lose in the Federal courts. He might win in district court but in front of the United States Supreme Court, Mueller knows that he would lose, which is now why he's relenting to a few questions in writing of the President about what he may or may not know about collusion, but no questions about obstruction of justice.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "The President has never appeared before a Federal grand jury. Bill Clinton negotiated an out when he was subpoenaed to appear in front of a Federal grand jury by Ken Starr's group, it turned out to be a disaster because he was lying. What is your take on this? When a President cannot be indicted while he is in office. If a President has the power to exercise his rights to fire an individual, and let's say he's presented with a subpoena, what does he do?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, he fights it, and he can fight it on a number of grounds, including sometimes executive privilege grounds and so on, but I think the basic point that Gregg's made and you've made is that the theory is right, the Attorney General or a special prosecutor, in theory operating under the Attorney General's supervision cannot indict or summon his own boss who's the President. There is a point worth making here that's ignored. A lot of people are saying are you saying the President broke the law? Of course, the answer to that is no, the President can still be prosecuted for those crimes once he leaves office. So if there were in fact crimes committed, the President can be held accountable. And I think although there is some dispute, I think most legal experts agree that the statute of limitations what we have been told during that period that he's President and can't be indicted. So I think it does flow, as you suggested, he can't be indicted, he really can't be forced to testify in front of a grand jury.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "I think it's important also for the audience to understand, Donald Trump is not making these rules, these are the rules that have been in existence, the Constitution has been in existence, he's dealing with it. One of the things he has to deal with is protect the Office of the Presidency, and those Department of Justice memos say what you gentlemen have just said, which is - in fact they go further, which is even if the statute of limitation runs, so be it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); } There are things that you have to weigh when you are dealing with the President of the United States. He's not one of a thousand judges, he's not one of 535 members of Congress, he's not a lower level civil officer. He's the only President we have. The only person who is voted on by the entirety of the people, and he comes up every four years, so they can remove him, and Congress has power as well. And that's just the way it is. So a President has to defend the Office of the Presidency, he has to defend the Constitution generally, even though it will be said as you watched the Senate Judiciary Committee hearings, the other week, they go on is he above the law, above the law? Actually, in many respects, it hurts him as an individual citizen, as we said, he doesn't get his day in court and most individual citizens don't have a special counsel chasing him, his family and his businesses and ghosts from the past the way that he does. So are we saying, then, that a subpoena should not issue, if Mr. Mueller is following the Constitution, yes or no?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "The subpoena should not issue. If he's following the Constitution and the law.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Clearly not. That's just at that point grandstanding, hoping to make somebody look better with the power you don't have. We'll be right back. Gregg Jarrett, the special counsel has this broad authority, and he's chasing down the Manhattan whatever, he's in the Eastern District of Virginia. He's got Roger Stone targeted, but there is Russian collusion, so why isn't he investigating it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Well, the collusion, if we can ever use that term, certainly collaboration was with Hillary Clinton and a foreigner, Christopher Steele, a British spy who used Russian sources to be used in opposition research and to spy on the Trump campaign. Now, her payment to the foreigner establishes that information as a thing of value which would be a valuation of Federal Campaign Election Laws, and in fact, in egregious cases, it could be criminal, but I find it astonishing that the President is being investigated over something that is not even remotely collusion and yet Hillary Clinton's actions, the Democratic National Committee, their efforts, which to me is a violation of a law, is not being investigated. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "And Mr. Mueller has frequently gone to Rod Rosenstein to get his area of investigation broadened and all kinds of things. Why do you think he hasn't done it in this case?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARRETT",
+      "sentences": "Because he's biased and he doesn't want to do anything but focus on Donald Trump. This is the mentality of people in government. This is why they undertook a scheme to clear Hillary Clinton, even though she violated the law, and then they're doubling down, they doubled down to frame Donald Trump for things he didn't do. So that doesn't fit their purpose.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Brad Smith, on the election law issue, I'm just curious, Gregg raises the point, okay, they spent money for this dossier, they washed it through a law firm, they washed it through Fusion GPS, it includes giving money to a former British spy who is gaining information accurately or not from Russians and so forth. Does that raise a campaign issue?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, it's not illegal to pay a foreign citizen for your campaign or for example, you can buy your cell phones for your campaign from a British cell phone company or your paper from a Canadian paper company. So it is not illegal to pay a British spy for something valuable.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Is it reportable?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "It would be reported. Of course, they reported it simply as legal fees paid to their law firm. That's kind of questionable whether that complies with the reporting requirement or not, but in their defense, I will say the reporting requirements are very vague there. But it does raise the interesting question, there seems to be this huge focus on Trump when the one organization that we know was clearly, quote,\" colluding,\" which as Gregg points out is not a crime, colluding with the Russians was the Clinton campaign. They had a British spy to go talk to Russians to get dirt on Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "And this information winds up in a FISA court, and for the life of me, I don't understand what these FISA judges are. You practiced in Federal court. I have too, you have, too. If I were a Federal judge and I knew that the information that had been presented to me had material holes in it, and that I wasn't told the truth and I wasn't told all the information, and I put my name on a Federal warrant, and I'd want to hold somebody in contempt and I would hold a hearing to find out what the hell took place. We'll be right back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); } Well, we've talked about a lot of things, what is your take away here?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, here is where I think is the biggest problem. One problem is the refusal of a lot of Democrats to accept the results of the last election, but it goes further than that. a great many of them look at Trump and they see a person that they think is really despicable and I kind of understand why people would think that. They say therefore he must have committed a crime. And you take this arcane complex campaign finance laws and you kind of start saying something has got to fit. And this to me is a real problem for the rule of law when you decide that there's a crime committed and now we just have to find the statute that fits.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT",
+      "sentences": "The crimes I believe were committed by the Department of Justice and FBI. They used fabricated evidence to spy on American citizens in Trump campaign. That, to me, is a variety of felonies, abuse of power. The people who signed on to those warrant applications were committing perjury. So, I think there needs to be a serious and legitimate investigation of the people who perpetrated a fraud on the FISA court to spy on the Trump campaign.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEVIN",
+      "sentences": "Well, I want to thank you both. Brad, wonderful discussion. God bless you. See you next time on \"Life, Liberty & Levin.\" Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARK LEVIN, HOST",
+      "utterance": "Hello America. I'm Mark Levin. This is \"Life, Liberty & Levin.\" We have two great guests, Bradley Smith, how are you my friend? Good to see you, Gregg Jarrett, good to see you."
+    },
+    {
+      "speaker": "GREGG JARRETT, FOX NEWS",
+      "utterance": "Good to be here."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Briefly, everybody knows who you guys are, but we're going to do this anyway, okay, just in case. You were Commissioner at the Federal Election Commission, starting in 2000. You were chairman at one point. You graduated from Harvard Law School, and you were confirmed to the FEC in 2000. Prior to your appointment, you were professor of law at Capitol University in Columbus, Ohio. You taught election law, as a matter of fact, you spent your whole life studying, teaching and around election law, is that correct?"
+    },
+    {
+      "speaker": "BRADLEY SMITH, FORMER COMMISSIONER AT THE FEDERAL ELECTION COMMISSION",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Your writings on campaign finance, other election issues, and this is important that we get your background in here. They've appeared in the Yale law journal, the University of Pennsylvania law review, Georgetown law journal, the Harvard journal of legislation, Cornel journal of law and public policy and other academic journals. Have you founded the Institute for Free Speech and you're a professor again at Capital University. Gregg Jarrett, you graduated from university of California Hastings college of law, 1980. You worked as a defense attorney for several years in San Francisco. You taught law as an adjunct professor at New York Law School and lectured at other law schools, and have you've written a fantastic \"New York Times\" best-seller, number one, \"The Russian Hoax: The Illicit Scheme To Clear Hillary Clinton and Frame Donald Trump.\" So I need you gentlemen here for a reason. We're going to dig into what's going on, and I want to start with you, Brad Smith. People tell us Federal election laws are arcane, they are arcane. There's too damn many of them. But that said, people want them. They keep demanding less money, less money in politics. So I want to ask you a question, if there's an individual who makes a payment from their own pocket or from their own company, or they direct their private lawyer to make a payment whom they later reimburse even if they don't reimburse, also from the same funds, to enter into a non-disclosure agreement with an individual, a non-disclosure agreement with an individual, involving alleged activity that preceded this individual's candidacy for any Federal office. Is that a campaign contribution?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Short answer there is no."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "And why not?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, it's not because it doesn't arise out of a campaign, and the key thing that you said there, Mark, is that this happened before the campaign was going on. The events that give rise to it. And under the Federal Election Campaign Act, anything one spends to influence a campaign can be deemed to be a contribution or an expenditure under one part of the law, but the law contains other clauses that focus on what are not campaign expenditures and what is called personal use, and you can't convert your campaign funds to personal use. So, what the courts and what the statute says very clearly what the FEC has said in its regulation is if something is not an expense that arises directly out of a campaign, for example, you rent office for a campaign headquarters, you hire a campaign manager, you pay for TV ads, you print up buttons and bumper stickers, those are all things you're doing because you're running for office. But the fact that something helps your campaign doesn't make it a campaign expense. For example, I decide I'd look better on the campaign trail if I had teeth whitened. Not a campaign expense. I want a new suit to look good at the debate, not a campaign expense. Where it takes something that's more relevant to what we are seeing going on recently, as you alluded to sort of the Trump payments to some of these women who alleged various affairs and so on. If I'm a successful businessman and I decide I want to run for office and I said, I've got all the lawsuits against me as businessmen often do against their companies and so on, these are all a bunch of BS, there is no merit to them, but I don't want them out there. I don't want people asking me about them, I don't want them dragging my campaign, settle those lawsuits, tell my lawyer. I can't pay the settlements with campaign funds, that's not a campaign expenditure, the obligation did not arise out of my running for office. So that's the long answer to your question, the short answer is a simple no, paying somebody for something to be quiet about something that was done or alleged years before is not a campaign expense."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Gregg, obviously I'm talking about the Southern District of New York, in the Cohen case and Cohen pleads."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Two of the counts he pleads to are campaign violations."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "You have you media types running around saying, \"Well, if he pled to a crime, that means that Donald Trump is an unindicted co-conspirator,\" is that correct?"
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "No, it turns criminal law on its head. It's upside down. First of all, he pled guilty to a non-crime. People actually do that all the time in a plea bargain agreement in which, you know, the prosecutors say you're going to spend the next 50 years behind bars, but if you plead to what we want you to plead to, yes, we'll let you out in two or three years, you can have a life to see your kids and your wife. So people oftentimes will plead guilty to things they didn't do or non- crimes because that's what prosecutors want them to do. I've always objected to flipping witnesses and so forth under pressure because it's nothing more than bribery and extortion. In this particular case, I talked to two or three different election law experts, one of which spent most of his career at the Department of Justice doing election law and he laughed and he said, \"Cohen pled guilty to two non-crimes.\" He said, there's no possible way that what he did and what Trump did is criminal. So this is what prosecutors wanted. They wanted something in this plea deal that would implicate Donald Trump, and that to me is unconscionable and fundamentally wrong on the law."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "And think of this, what kind of precedent this would set. The prosecution says it influenced the campaign, as you point out. There's a thousand things that influence a campaign in a positive way. Maybe I want to buy $5,000.00 suit with my own money. There's a lot of things. Maybe I want to buy an old used Chevy and trade in my brand-new Cadillac so it looks better in the campaign, that positively influences the campaign. Let me ask you something, members of Congress, we know this as a matter of fact, settled ethics complaints involving sexual harassment. They created this slush fund with taxpayer dollars, to quiet the accusers. Non- disclosure agreements, if you will. Hush money, we can use the same phrase. They didn't want the constituents to know? Many of them running for re-election as incumbents, they're using tax dollars, it influences the campaign. Why aren't they indicted?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, we know why they're not indicted, right? Because we don't want to indict them. It's a good example of things that influence the campaign, and it's worth noting that under the FEC's regulations, if you're an incumbent officeholder, you're presumed to be running for re-election, so you are all presumed to be candidates unless they've announced that they're not seeking re-election. So they would be candidates and this is something that they probably did to influence their future campaign or their perception as officeholders. One thing that's worth adding here, Mark, is because I hear this from people all the time and even some other election law lawyers or some former other commissioners will say, \"Yes, but it was to influence an election.\" But the FEC and its regulations very specifically rejected the idea that even as to whether it was primarily to influence the election or not, in choosing instead this test that has to be an obligation that was created for the election, in other words, they didn't want to get into the question of trying to guess, well, did they do this primarily for the election or primarily for personal purposes, and it's very specific about that in the regulations, and I think that's a very important point that people need to keep in mind, and that was done actually to make it more objective and actually to prevent candidates from using campaign funds for personal use. But that's the flipside, and I tell people imagine if you're a lawyer for the Trump campaign, you want to do it all right, you've got one position, the statute says, I have to pay it with campaign funds, another provision seems to say I can't pay with campaign funds, somebody is going to get them coming or going, and that's part of the problem."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "So if you're a lawyer for the Trump campaign, or the coming Trump campaign, you would do pretty much what Donald Trump did. No campaign money, consult your private lawyer, and they enter into these non- disclosure agreements. Gregg, let me ask you this, isn't the real issue here is people were actually paid under the non-disclosure agreements and then they violated the non-disclosure agreements? I don't see them giving the money back."
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "You are absolutely right. I think it's malpractice for the attorney for Stormy Daniels to say go ahead and talk while the case is pending as to whether or not it's a valid and enforceable non-disclosure agreement. So it's stunning to me. But to Bradley's point, not everything that benefits a candidate is considered to be a campaign expense. Professor Smith wrote that in one of his op-eds, and he's absolutely right. If there is a dual purpose or a secondary purpose, it's not a campaign expense, and moreover, the media rushed and said, \"Oh, Cohen pled guilty, the President must be guilty.\" That's utter nonsense. First of all, under the campaign - Federal Campaign Election Act and other related laws that criminalize violations, there has to be knowledge. You have to show that there was a knowing and deliberate violation of the law in order for it to be criminal. Well, most candidates don't know the election law. Heck, a lot of lawyers don't understand election laws. This gentleman, former commissioner, a Federal election commissioner, chairman, he knows election law. He may be just about the only one in America who really truly knows it. So you couldn't criminalize what Trump did if it wasn't properly accounted for as an advance or reimbursement. That is a civil penalty, it's the equivalent of a jaywalking $500.00 fine, but it is certainly not a crime."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "I did a search. It didn't take me long. Of all the Federal candidates who have been charged and have been convicted of violating these laws, I can't find a single one. Are you aware of a single one?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "For this kind of scenario?"
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Similar scenario?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "No. I have really not. Of course, the most high profile one would be John Edwards, from a few years ago."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "And what happened in those ..."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Most of you remember that supporters were paying funds, money to a woman, Rielle Hunter, I believe was her name with whom he had affair and an illegitimate child. And now, it's worth noting that the US Attorney indicted him. So they went to trial on it. So t he US Attorney thought there was a case. But in the end, the jury did not convict, he was acquitted on some charges and others was a hung jury. And I think that shows the tremendous difficulty and one quick little anecdote. When we talk about how obscure this law is, how difficult, it's Antonin Scalia, who was a reasonably good lawyer actually said from the bench in Springfield, Ohio. He had argument once that this Campaign Finance Law is so complex, I can't figure it out. So we've have a Supreme Court justice who can't figure it out, you see the problems that people have when you try to deal with it on a daily basis."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "The reason I'm bringing this up now, weeks and weeks after all the fanfare is because, and I want to get into this when we come back, this is what happens, it's hit and run. And I want to slow things down so we can unravel things that just happened before we get on to the next thing which is a daily recitation that wears out the voter, that wears out the American people of a Trump violation of a law, a Trump ethical violation, or a Trump something or other, and I just feel that this program will get to slow the process down a little bit and go back and unravel some of what has taken place. Ladies and gentlemen, don't forget, most week nights you can join me on Levin TV. Levin TV. Here is what you do. You go to crtv.com/mark, crtv.com/mark or give us a call at 844-LEVIN-TV. 844-LEVIN-TV. Join our wonderful community over there. I know you will enjoy it. We'll be right back. Bradley Smith, what about this issue of a corporate contribution, one of the allegations against Michael Cohen is that he facilitated a corporate contribution. Is there such a crime?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "There's not, this is one of the interesting things about the indictment. It is illegal for a corporation to contribute money directly to a candidate's campaign, and it's illegal for a corporate officer to approve such a contribution, but Michael Cohen, there is no crime for causing the corporation to make the contribution, and Michael Cohen is not a corporate officer, and I think this shows that the indictment includes a number of clauses that are kind of dubious at best."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "And to pick up on what Gregg was saying, they had this laundry list of tax violations and a loan violation, they probably could have made a longer list regarding taxi medallions or whatever it was, and yet, they had these two campaign clauses in there which we all agree are phony. So why do they do that?"
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "Well, this is all part of the ongoing scheme, I call it in my book, the illicit scheme to damage, destroy, frame Donald Trump with things he didn't do. You know, the media has certainly been complicit in this, at every turn they have convicted Trump in the court of public opinion without evidence. You know, for the longest time, collusion, the mere utterance of the word constituted a crime/ Nobody in the media ever actually looked it up, if they had, they would have found it only exists in antitrust law and other potential crimes are inapplicable. Conspiracy to fraud the government and so on, but it has no application, if you read the Supreme Court decisions. I lay it all out in my book and I disabuse this media narrative, the President is guilty of colluding with Russia because a couple of junior campaign volunteers had a conversation with a Russian. One entire chapter is entitled, \"It's not a crime to talk to a Russian,\" and I explained it in great detail, but you know, try to get that through the thick skulls and the bias of the mainstream media, and it's a herculean effort, because they just don't want to consider anything that is diverse from their narrative that Trump is guilty of a wide variety of crime simply because he's Donald Trump."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "So they're really doing this because they can see they can't indict a sitting President. Finally, they conceded after they must have finally read the two memos from the Department of Justice for whom these people work."
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "And they must comply with the policies of the Department of Justice. So they're trying to build this impeachment case."
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "And so Mueller kicks it off to the Southern District and the audience should understand, that doesn't mean they're not in communication, that doesn't mean they don't collaborate and collude with each other, that doesn't mean that perhaps the Mueller team wanted those campaign issues raised in the Southern District of New York. That's all perfectly possible. Why wouldn't they? If their goal is to produce this report for impeachment. Let me ask you this, do prosecutors normally produce reports and send them into the Department of Justice or they speak in a courtroom?"
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "Well, they generally speak in a courtroom, and they let their charges do the talking."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Now why is that? So people have the right to defend themselves?"
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "That is correct, everybody is presumed innocent until proven guilty. But that's not the way this special counsel and his team of partisans are going about the investigation of Donald Trump. I think you're absolutely right. Mueller understands that he can't indict a sitting President, so he's doing something else. He's going write a report. The law, notwithstanding, and the facts notwithstanding, he will put something I predict in his report that will give Democrats in Congress some hook, something to hang their hat on for Articles of Impeachment against the President. I think it will be completely specious and unfounded because I think Mueller has demonstrated that he is virulently biased against Donald Trump. He should have recused himself from the very beginning, never taken the case because of multiple conflicts of interest. Rosenstein, his boss ..."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "I want to get to him."
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "Also, conflicts of interest."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "I definitely want to get to him but want to ask you a question, Bradley Smith, which is this, this report that they produce, isn't the President in a bind here like no citizen in the country? If you cannot indict a sitting President and they write this report for the Deputy Attorney General of the United States, as the acting Attorney General of the United States, the President has no legal way to defend himself. He has to defend the office of the President against what could be a rogue indictment. He has to fight that for the office of the presidency, For separation of powers and so forth, and yet as an individual citizen, he can't go to court. He can't fight the allegations. Isn't this a strange situation where a report is written and it's given to the Department of Justice which will then be pressured to give it to Congress when you have an inferior employee at the Department of Justice basically writing an impeachment report? Don't you find this odd?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, I think this really goes to the whole idea of special counsels and the way that we use special counsels and essentially have you somebody whose job it is to shadow this President and all of his associates and find - see if you can find crimes to pin on him. I do think it's odd. I'm not sure it's unprecedented in the way that special counsels have worked. I think it just shows the danger of the sort of special counsel approach to governing this idea that we're going to kind of find a crime and we'll make it all fit later."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "And find a crime and make it all fit later. There is one thing different, isn't there? There was no crime when the special counsel was appointed. Isn't that a violation of Department of Justice policy right there?"
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "It's completely a violation. This was an illegitimate appointment of the special counsel. If you look closely at the Federal regulations, it requires a statement of a specific crime. Look at the authorization order appointing Mueller. There is no specific statement of a crime. Don't just take my word for it. Former Attorney General Michael McCasey who was a top Federal judge before he became the Attorney General has pointed this out repeatedly as have other Federal prosecutors. This has always been an investigation, Mark, in search of a crime, which is backwards, under the law and the regulations."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "And this in part is due to the fact that this was a counterintelligence investigation that swung into a criminal investigation, counterintelligence investigations for the FISA court and so on, they are not criminal investigation, so he swings it into a criminal investigation and when we come back, I want to talk about the \"he,\" Rosenstein - Rod Rosenstein. Why is there a conflict of interest? Why did he make this appointment? Why is he still overseeing this investigation? We'll be right back."
+    },
+    {
+      "speaker": "LAUREN GREEN, CORRESPONDENT, FOX NEWS",
+      "utterance": "Live from \"America's News Headquarters,\" I'm Lauren Green. The death toll from what was Hurricane Florence rising to 17. The latest victim, a 3-month-old baby died when a tree fell on a mobile home in Dallas, North Carolina. Despite being downgraded to a tropical depression, Florence is still massive. Radar is showing the storm over six southeastern states. It's already been dumping more than 30 inches of rain in the Carolinas. Flood worries are now also spreading to Virginia and West Virginia. New developments in the allegations of sexual misconduct against Supreme Court nominee Brett Kavanaugh. A woman who wrote a confidential letter now going public with her story in the \"Washington Post.\" The 51-year-old college professor says Judge Kavanaugh tried to force himself on her at a party in the 1980s. Kavanaugh denies the allegations. I'm Lauren Green, now back to \"Life, Liberty & Levin.\""
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Welcome back. Gregg Jarrett, let's talk about Rod Rosenstein, the Deputy Attorney General of the United States for these purposes, the acting Attorney General of the United States because Jeff Sessions recused himself, and he appoints a special counsel to investigate Russian collusion and interference related to the Trump campaign. Donald trump fires Jim Comey. Jim Comey says, after he's fired, that he pushed for a special counsel and in his book tour he says he needs to be credited with triggering that event."
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Rosenstein appoints Mueller."
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "I'm a little confused about this as I assume the American people are. Rosenstein wrote an extensive memo to the Attorney General who passed it onto the President of the United States, and in that memo he cites former Attorneys General, former Deputy Attorneys General, former US Attorney, former whatever at the Department of Justice and beyond, condemning Comey for what he did in Hillary Clinton's case in the press conference, right?"
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Well if he's appointing Mueller to investigate, among other things, the firing of Comey, which he was involved in, is that not a conflict of interest?"
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "It's a major disqualifying conflict of interest that is actually mandatory under Federal regulations. It says shall disqualify yourself. Not maybe or should or perhaps, shall. And yet with impunity, Rod Rosenstein has ignored the conflict of interest, and it's really quite astonishing. I think most law professors of ethics are confounded by his refusal. We know that Robert Mueller, the special counsel, has already interviewed Rod Rosenstein, his boss, as a witness in this case. You know, an employee is a special counsel interviewing the boss who's a witness who's presiding over the case. Federal regulations say you cannot be a prosecutor and a witness in the same case. It's fundamental ethics, legal ethics, this kind of stuff for which you get suspended or disbarred. It makes you wonder what Rosenstein is up to. I believe, and I argue in a book that James Comey stole government documents, which is potentially criminal, and then leaked them to unauthorized individuals for the sole purpose of appointing his longtime friend, partner and ally, Robert Mueller who may be motivated to go after Trump in retribution for the firing of his long-time, good friend, James Comey; and Rod Rosenstein as you point out, is in this, they are thick as thieves and I find it very interesting that Rosenstein who is also in legal jeopardy for signing off on the FISA warrant without proper evidence, has been obstructing the efforts of Congress in disclosing information and documents which they are legally entitled to have."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Let me ask you, Brad Smith, about the appointments clause of the Constitution. The Constitution has an appointment clause, and to sum it up basically, if you're a principal officer, if you seek to be a principal officer in the executive branch under the President of the United States, he is to nominate the individual, and that person typically gets hearings, maybe not, has to be confirmed by the United States Senate. That's the way the framers wanted it. So we have this special counsel, we have a ruling 30 years ago in a Supreme Court case, Morrison v. Olson, it was challenged that as the independent counsel statute, and the court ruled overwhelmingly with the great Antonin Scalia dissenting and they tested certain - they provided certain elements in the test, that it's constitutional because the independent counsel is an inferior employee who reports to a superior who oversees the case, and there are specific things that this individual is investigating. So it's not like, say, a US Attorney or an Assistant Attorney General of the United States - all of whom are principal officers, all of whom have to be confirmed by the Senate upon nomination of the President of the United States. Is this case not a little different than Morrison v. Olson, in that you have a special counsel who was appointed, as Gregg says, without specific criminal statutory purpose. More of a general investigator, who has gone in many directions. He has gone into the Eastern District of Virginia. He has gone into Manhattan, chasing the Manhattan Madam or whatever. He pretty much has free rein, signed off by the Deputy Attorney General of the United States, but even a US Attorney depending what cases they get involved in, that has to be signed off by main justice, too. Is he not? You may disagree with me, is he not more akin to a US Attorney, as a principal officer, this special counsel than an inferior prosecutor? If you disagree, say so."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, I think the real thing goes back to the decision in Morrison v. Olson, which is I think, I believe, if I remember right, the case where Antonin Scalia made his wonderful line that this wolf comes to us in wolf's clothing, talking about how bad the statute was. And I do think what this shows is how bad that decision was because a superior officer, principal officer has the authority to sort of set policy and broad discretion and an inferior officer does not. But Mueller doesn't really report to anybody. I mean, in theory, he reports to Rod Rosenstein, but in fact as you point out, he's got a roving brief that seems unlimited to go in almost any direction he wants, and so I don't know if I want to say that this is directly different from Morrison v. Olson, it may just show that Morrison v. Olson is A, is a bad decision, and B, that the - and I don't want to get a constitutional claim out of this, but his supervisors are simply not doing the job in reining him in. It would be as if you had some lower level official in the Department of Agriculture just running around the country doing all kinds of things and nobody in the Department of Agriculture said \"Hey, you can't keep doing that.\" That's how I would tend to look at it. But it certainly shows a real problem, I think with the constitutional and statutory problem with special counsels."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Don't forget, every week, most week nights you can watch me on Levin TV, Levin TV. I hope you'll sign up and join us. Call 844-LEVIN-TV, 844-LEVIN-TV. Or go to crtv.com/mark, crtv.com/mark. We'll be right back."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Gregg Jarrett, there is still this cloud that hangs over the White House on whether or not Mr. Mueller will trigger a subpoena to force the President to do something, to testify about obstruction. To testify and perhaps create a perjury situation. Couple of questions. If, in fact, as you suggest, Mr. Mueller is an inferior employee, does an inferior employee of the Department of Justice have the power constitutionally to force his boss, the President of the United States, to appear before a grand jury or to appear in person for an interview? What do you think?"
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "I would say no. An inferior officer does not have the legal right or the Constitutional right to question a President over exercising his Constitutional authority. In, for example, firing James Comey, the FBI director, and moreover as to the issue of collusion, whatever that amorphous crime is that is nowhere in the criminal code, you have no legal right or basis or justification for questioning the President of the United States about a non-crime, and I think Robert Mueller has come to the realization that he knows that if he were to slap the President with a subpoena, the President would move in a motion to quash and that Mueller would lose in the Federal courts. He might win in district court but in front of the United States Supreme Court, Mueller knows that he would lose, which is now why he's relenting to a few questions in writing of the President about what he may or may not know about collusion, but no questions about obstruction of justice."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "The President has never appeared before a Federal grand jury. Bill Clinton negotiated an out when he was subpoenaed to appear in front of a Federal grand jury by Ken Starr's group, it turned out to be a disaster because he was lying. What is your take on this? When a President cannot be indicted while he is in office. If a President has the power to exercise his rights to fire an individual, and let's say he's presented with a subpoena, what does he do?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, he fights it, and he can fight it on a number of grounds, including sometimes executive privilege grounds and so on, but I think the basic point that Gregg's made and you've made is that the theory is right, the Attorney General or a special prosecutor, in theory operating under the Attorney General's supervision cannot indict or summon his own boss who's the President. There is a point worth making here that's ignored. A lot of people are saying are you saying the President broke the law? Of course, the answer to that is no, the President can still be prosecuted for those crimes once he leaves office. So if there were in fact crimes committed, the President can be held accountable. And I think although there is some dispute, I think most legal experts agree that the statute of limitations what we have been told during that period that he's President and can't be indicted. So I think it does flow, as you suggested, he can't be indicted, he really can't be forced to testify in front of a grand jury."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "I think it's important also for the audience to understand, Donald Trump is not making these rules, these are the rules that have been in existence, the Constitution has been in existence, he's dealing with it. One of the things he has to deal with is protect the Office of the Presidency, and those Department of Justice memos say what you gentlemen have just said, which is - in fact they go further, which is even if the statute of limitation runs, so be it. There are things that you have to weigh when you are dealing with the President of the United States. He's not one of a thousand judges, he's not one of 535 members of Congress, he's not a lower level civil officer. He's the only President we have. The only person who is voted on by the entirety of the people, and he comes up every four years, so they can remove him, and Congress has power as well. And that's just the way it is. So a President has to defend the Office of the Presidency, he has to defend the Constitution generally, even though it will be said as you watched the Senate Judiciary Committee hearings, the other week, they go on is he above the law, above the law? Actually, in many respects, it hurts him as an individual citizen, as we said, he doesn't get his day in court and most individual citizens don't have a special counsel chasing him, his family and his businesses and ghosts from the past the way that he does. So are we saying, then, that a subpoena should not issue, if Mr. Mueller is following the Constitution, yes or no?"
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "The subpoena should not issue. If he's following the Constitution and the law."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Clearly not. That's just at that point grandstanding, hoping to make somebody look better with the power you don't have. We'll be right back. Gregg Jarrett, the special counsel has this broad authority, and he's chasing down the Manhattan whatever, he's in the Eastern District of Virginia. He's got Roger Stone targeted, but there is Russian collusion, so why isn't he investigating it?"
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Well, the collusion, if we can ever use that term, certainly collaboration was with Hillary Clinton and a foreigner, Christopher Steele, a British spy who used Russian sources to be used in opposition research and to spy on the Trump campaign. Now, her payment to the foreigner establishes that information as a thing of value which would be a valuation of Federal Campaign Election Laws, and in fact, in egregious cases, it could be criminal, but I find it astonishing that the President is being investigated over something that is not even remotely collusion and yet Hillary Clinton's actions, the Democratic National Committee, their efforts, which to me is a violation of a law, is not being investigated."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "And Mr. Mueller has frequently gone to Rod Rosenstein to get his area of investigation broadened and all kinds of things. Why do you think he hasn't done it in this case?"
+    },
+    {
+      "speaker": "JARRETT",
+      "utterance": "Because he's biased and he doesn't want to do anything but focus on Donald Trump. This is the mentality of people in government. This is why they undertook a scheme to clear Hillary Clinton, even though she violated the law, and then they're doubling down, they doubled down to frame Donald Trump for things he didn't do. So that doesn't fit their purpose."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Brad Smith, on the election law issue, I'm just curious, Gregg raises the point, okay, they spent money for this dossier, they washed it through a law firm, they washed it through Fusion GPS, it includes giving money to a former British spy who is gaining information accurately or not from Russians and so forth. Does that raise a campaign issue?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, it's not illegal to pay a foreign citizen for your campaign or for example, you can buy your cell phones for your campaign from a British cell phone company or your paper from a Canadian paper company. So it is not illegal to pay a British spy for something valuable."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Is it reportable?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "It would be reported. Of course, they reported it simply as legal fees paid to their law firm. That's kind of questionable whether that complies with the reporting requirement or not, but in their defense, I will say the reporting requirements are very vague there. But it does raise the interesting question, there seems to be this huge focus on Trump when the one organization that we know was clearly, quote,\" colluding,\" which as Gregg points out is not a crime, colluding with the Russians was the Clinton campaign. They had a British spy to go talk to Russians to get dirt on Trump."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "And this information winds up in a FISA court, and for the life of me, I don't understand what these FISA judges are. You practiced in Federal court. I have too, you have, too. If I were a Federal judge and I knew that the information that had been presented to me had material holes in it, and that I wasn't told the truth and I wasn't told all the information, and I put my name on a Federal warrant, and I'd want to hold somebody in contempt and I would hold a hearing to find out what the hell took place. We'll be right back. Well, we've talked about a lot of things, what is your take away here?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, here is where I think is the biggest problem. One problem is the refusal of a lot of Democrats to accept the results of the last election, but it goes further than that. a great many of them look at Trump and they see a person that they think is really despicable and I kind of understand why people would think that. They say therefore he must have committed a crime. And you take this arcane complex campaign finance laws and you kind of start saying something has got to fit. And this to me is a real problem for the rule of law when you decide that there's a crime committed and now we just have to find the statute that fits."
+    },
+    {
+      "speaker": "GARRETT",
+      "utterance": "The crimes I believe were committed by the Department of Justice and FBI. They used fabricated evidence to spy on American citizens in Trump campaign. That, to me, is a variety of felonies, abuse of power. The people who signed on to those warrant applications were committing perjury. So, I think there needs to be a serious and legitimate investigation of the people who perpetrated a fraud on the FISA court to spy on the Trump campaign."
+    },
+    {
+      "speaker": "LEVIN",
+      "utterance": "Well, I want to thank you both. Brad, wonderful discussion. God bless you. See you next time on \"Life, Liberty & Levin.\" Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

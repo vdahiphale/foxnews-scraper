@@ -1,0 +1,1525 @@
+{
+  "date": "March 15, 2018",
+  "headline": "Retired NYPD detective reacts to Parkland surveillance video",
+  "subHeadline": "Newly released video from the shooting at Stoneman Douglas High School raises questions about the armed guard; active shooter specialist Harry Houck reacts on 'The Story.'",
+  "url": "https://www.foxnews.com/transcript/retired-nypd-detective-reacts-to-parkland-surveillance-video",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MARTHA MACCALLUM, HOST",
+      "sentences": "Hi there, Bret. Thanks a lot. Good evening to you. Good evening, everybody. Breaking tonight, we are about to get some brand-new information any moment now from Miami. Police and fire officials about to step in front of the microphone to give us an update at hospital. And then, in Washington, we expect, perhaps, dueling news conferences on this this evening in response to the tragedy where a brand-new pedestrian walkway at Florida International University of Miami came crashing down onto a busy street below earlier today. This is a look at the frantic search for survivors trapped still underneath the bridge this evening. Rescuers using everything from dogs to heavy equipment and cranes to try to make contact with people who may be trapped underneath. 950 tons of bridge that literally, they cut the ribbon on days ago. We are hearing that there are several people who have perished in this tragedy this afternoon. We're about to get more information as I said, at least two others in critical condition. We're going to get details from the hospital as I said, but let's go live on the ground there to Phil Keating who has been watching this all afternoon. Good evening, Phil. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PHIL KEATING, FOX NEWS CORRESPONDENT",
+      "sentences": "Good evening, Martha. It is an active search and rescue operation desperate to find any remaining survivors, people trapped under that one million pounds of concrete. This pedestrian bridge repeated to be a state-of-the-art design that was actually just rotated 90 degrees on Saturday from a set of the road where it was constructed behind me, and then it was placed on the north and southbound support towers spanning eight lanes of traffic on a very busy main artery here and southwest Miami-Dade. It was still a construction project, still not open to the public, it was supposed to open this upcoming December, but today an absolute catastrophe. Clearly some sort of engineering or structural design problem. Everything is still under investigation -- no cause or suspected cause yet being revealed by investigators. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); } Everyone, really, still scrambling here now five hours since this all happened. It happened just before 2:00 p.m. Eastern Time. When the bridge came down suddenly, it came down on eight cars crushing them either fully or partially. It's unclear how many total people would've been in those cars -- drivers and passengers. But a total of ten people are being treated at the nearby Kendall Regional Hospital, two of them in critical condition, no word yet officially on the number of fatalities. There was actually even one pedestrian who was crossing this busy street when the bridge came suddenly crashing down onto him and he is injured very seriously speaking, but it does appear that he is going to survive. Joining me now is the Sweetwater Police Sergeant, Jenna Mendez, one of the first people on the scene. Did you actually see the bridge fall down and the smoke cloud rise or did you pull up right after that and what did you see? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JENNA MENDEZ, SWEETWATER POLICE SERGEANT",
+      "sentences": "I was actually sitting in traffic when I looked up and I saw the bridge down and I thought to myself, why would they possibly be doing that right now? I was in a state of shock.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEATING",
+      "sentences": "It seems surreal. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MENDEZ",
+      "sentences": "I was in disbelief of what I actually was just witnessing, and my instinct kicked in that I needed to get to work. So, I jumped out of my vehicle and I ran, and actually jumped on top of the bridge where we had four workers who were severely injured and one not breathing; we started CPR on him. We had another one who has a major laceration to his head who was completely unconscious as well, and I just actually started yelling for people to go find me doctors, so I can have some assistance. I actually got a doctor who started assisting with the pulse and CPR as well, and we got backwards, we got the two most injured on the backwards and got them down as quickly as possible to get them to rescue so they could assist.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEATING",
+      "sentences": "Did you hear voices coming from the rubble from survivors that could not get themselves out, could not self-extricate? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MENDEZ",
+      "sentences": "Unfortunately, no. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEATING",
+      "sentences": "The last person that the Fire Department tells me was pulled out alive, it was about 4:00 p.m. this afternoon. There at least a hundred technical firefighters there with experience in construction disasters, such as this on the scene; there are dog teams. Do you know what the latest is on whether or their finding any signs of hope?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MENDEZ",
+      "sentences": "At this point in time from what I witnessed, I really can't believe that there would be any hope left on the people that are in the inside -- it's very deeply crushed. I mean, probably, you know, a couple of feet are the cars at this point.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEATING",
+      "sentences": "I mean, the pedestrian bridge, the floor plan going across the bridge, south to north, but it also had the roof to protect pedestrians in the future from rain and sun, it pancakes on the north four lanes, the west bound lanes of the roadway. The other part of the bridge, as you can see off in the distance behind us, is angled straddling the roadway 3-45-degree angle -- that's still a precarious piece of bridge. But thank you very much Sergeant Jenna Mendez, really, for all of your great first response. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MENDEZ",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEATING",
+      "sentences": "All right. Thank you. Let's go to the NTSB -- National Transportation Safety Board -- having a briefing in D.C.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED NAME",
+      "sentences": "-- and we have to go, get on a plane, and to Miami. I expect him out in about three minutes. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. We're going to get back to that as soon as he gets underway. And as we said, we are also expecting a report at a news conference the hospital in Miami. Phil Keating, let's go back to you on the ground. A lot of information from that sheriff who you just spoke to who happened to be on the scene there. Do we know -- were there any construction workers, there was absolutely no one on the top of the bridge, Phil? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEATING",
+      "sentences": "That's exactly right, Martha. There were at least four, maybe six construction workers on the bridge itself when it suddenly collapsed. Still unclear as to whether they're on top of the roof or whether they're on the walkway portion and somehow ended up on top of all of the rubble in a state of daze and severely wounded and believing state when the first responders did arrive. So, it was an active construction site, this bridge, even though it had been assembled and built over the past several months alongside this busy roadway. And then on Saturday, in a -- really, a feat of engineering, it was hoisted up, twisted around, rotated 90 degrees and then placed onto the south and north support towers. According to one engineering professor at the University of California reacting to this, he described this move as somewhat risky, having this bridge span eight lanes of very busy roadway before the center support tower was even built. So, all of these questions will be certainly coming out here in the next days, but the search and rescue operation, looking for survivors, as you can tell, it's sunset happening behind me, it is going to go all through the night, and definitely into the early morning hours, if not longer on Friday. Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. So, Phil, just to clarify, there is no center, there was no center holding this up at this point? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEATING",
+      "sentences": "Yes. By all of the video we have of its installation on Saturday, there is not a support tower in the middle, so the entire span of the bridge, 174 feet long, made out of concrete and steel and rhubarb basically spanned all the way across the road, supported on the south side by a support tower, and the north side by a support tower, but not supported right in the middle. Back to you, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Phil, standby, we're going to go to the NTSB and listen in. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERT SUMWALT, CHAIRMAN OF THE NTSB",
+      "sentences": "The NTSB is launching a full investigative go team to begin our investigation of this pedestrian bridge collapse at the campus of Florida International University. We do understand that there are victims involved in this and certainly our condolences go out to those family and friends of all -- and the victims -- all of those who've been affected by this tragedy, our thoughts and prayers go out to them. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); } The NTSB is an independent federal agency, we're charged by congress to investigate transportation accidents to determine the probable cause and issue safety recommendations to prevent those actions from occurring again. In addition to our headquarters support staff, we're launching a multi-disciplinary investigative team of 15 specialists in a number of areas, including civil engineering, materials science, and survival factors. In addition, we are sending our specialists from the NTSB's Office of Transportation Disaster Assistance and they will be on hand to assist the families of those who've been affected by this tragedy. We should be arriving in Miami around 10:30 this evening and then we will proceed straight to the site to begin meeting with the first responders and getting a basic lay of the land. We will begin in earnest our investigation first thing tomorrow morning. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } For the factual information that we will release, you can follow us at Twitter, our Twitter handle is @NTSB_Newsroom or you can follow us at NTSB -- www.NTSB.gov. Since we've not even gotten on scene yet, we don't really have any factual information to report at this time, but I can speak about our processes. So, if you have questions about our processes, I'd be glad to try and answer those. I'll ask you too -- when I do call for questions -- to raise her hands, state your name, and your media affiliation and we'll see if we can answer them. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. We're going to monitor that. That's Robert Sumwalt of the NTSB and there is the wide shot of this catastrophe that happen this afternoon in Miami -- near Miami. It is -- obviously, there are fatalities involved in this. We're going to at 7:30, we'll get an update breaking from the hospital there and we're going to take you there to that live when that gets underway. So, we're monitoring that breaking news throughout the evening. But also breaking this evening, newly released video from the shooting at Stoneman Douglas High School sheds new light, but it also raises a lot of new questions about the armed guard who was supposed to run into the building at the sound of gunfire, but clearly in this video is standing outside for painful minutes while children are inside being killed. And what about sheriff Israel who declined to answer our invitation to speak tonight about what this video tells him, about when he first knew about this video, all of those things need to be answered. We want to know how all of that lines up with Sheriff Israel's public statements about what he knew at the time. In moments we will hear from Andrew Pollack, who tragically lost his daughter, Meadow, on that day. He has seen the video, he'll will speak with us in just a moment. But first, Trace Gallagher with the story of the timeline tonight and what we now know, Trace.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS CHANNEL HOST",
+      "sentences": "Martha, you have to remember that school Deputy Scott Peterson initially released a statement through his attorney saying he didn't enter the building where the shots were fired because he thought the shooter was outside. Well, now we have both dispatch audio and surveillance video and it's easy to connect the dots because the audio and video are both time stamped. So, at 2:22 on February 14th, less than a minute after police say Nikolas Cruz entered the school and began shooting, video shows a golf cart carrying Deputy Scott Peterson and Security Specialist Calvin Greenleaf. You see the golf cart drive by the 700 building which is right next to the 1200 building where the shooting happened. And that's when Deputy Peterson makes this a radio call. Listen. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCOTT PETERSON, FORMER BROWARD COUNTY SHERIFF'S DEPUTY",
+      "sentences": "Be advised that we have possible -- could be firecrackers. I think we got shots fired, possible shots fired -- 1200. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "So, at this point, Peterson believed shots are being fired inside the 1200 building. At that time, the video shows a golf cart stopping and you see the security specialist appeared to run into the hallway between buildings 700 and 1200. But Scott Peterson doesn't go toward the 1200 building where he said that shots were fired, instead he stands against a wall outside of building 700 with a direct view of building 1200. And we know from police report, the shooter continued to fire for three more minutes and during that time, Peterson makes this radio call. Watch. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PETERSON",
+      "sentences": "Do not approach the 12 or 1300 building. Stay at least 500 feet away at this point. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "So, Peterson doesn't go in and prevents other deputies from going in and then continues to stand by the wall of building 700 for 25 more minutes. By that time, Nikolas Cruz was down at a Walmart. The Broward County Sheriff's office says, the video which was released by a Broward circuit judge speaks for itself. Scott Peterson, if you don't know, is a 54-year-old twice divorced father of four who's been in law enforcement for 33 years. In 2014, he was named 'School Resource Officer the Year.' We contacted his attorney for a brand-new comment. So far, nothing. Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Nothing. All right. Trace, thank you very much. Joining me now, Harry Houck, Retired NYPD Detective First Grade Specializing in Counterterror and Active Shooter Protocol. He has watched this tape with us, he has watched it before he arrives, and he joins me now with his assessment. Sir, good to have you here tonight. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRY HOUCK, RETIRED NYPD DETECTIVE FIRST GRADE SPECIALIZING IN COUNTERTERROR AND ACTIVE SHOOTER PROTOCOL",
+      "sentences": "Pleased for having me. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOUCK",
+      "sentences": "I must've watched that video about 15 times today. And you know, initially when you see him coming up in the club car, children are running out of the building. Now, he probably didn't know where the shots were being fired exactly at that, but I would go to those children and find out where the shots are being fired and where the shooter was. I didn't see him do that. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); } Second of all, the man didn't even have his gun in his hand. I did not see a weapon in his hand at all. So, he goes and he takes the position and (INAUDIBLE) that shots going inside that building. Now, let me tell you something, no matter what protocols may have or may have been -- we had protocols all the time, we never follow them. When shots are being fired, especially at a school, and especially after what happened at Columbine, then the active shooter protocol are changed for every single police department is that you are to engage that shooter instantly the minute you hear those shots being fired. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } Now, I can see him getting on the radio and saying, listen, there are shots fired inside the building, we have a shooter there, I'm going in. I listened to the recordings from the police transmissions. The first transmission -- from the first transmission didn't come on until about nine minutes, it took nine minutes for the Broward County sheriff's officers to enter that building. That's a problem. I'm saying to myself, 'I can't see that many coward police officers showing up at the same time.' I've been in cap for 25 years, I might have seen two cowards my entire life. All right. For officers not directly going that building and wait a whole nine minutes, there's something wrong, there's something the sheriff is not telling.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "He's telling them that call to stay 500 yards away. He's talking to the other officers who were on their way. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOUCK",
+      "sentences": "Where did that come from? Where did that come from for him to say stay 500 feet away?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "He says, he believe -- you know, he didn't anything after this was released but initially, said that he thought the shots were being fired outside. But in the video, he's not running around trying to find out where that's happening. He's literally frozen in place. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOUCK",
+      "sentences": "Right. He's 40 yards away from the building, right? So, you see somebody -- you see the guy that was with runs into the building, but I believe if he was standing here, this is where the building was where the shooting was occurring, right? So, he could take a position over there and ran into the building and just go over the radio: I'm going in, send everybody. At the same time, when he's in that corner, you see other police officers come and take a position and not go into the building. They probably didn't even know exactly where the hell the shooting was going on. Now, I know -- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "He says over the radio, he thinks it's in 1200 and I have to assume they all understand which buildings are which.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOUCK",
+      "sentences": "Maybe or maybe not, because that's why you have a school safety officer. Maybe these officers don't know which building.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "But he should be the one saying to them, that's 1200 then we go. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOUCK",
+      "sentences": "Exactly, that's 1200, that's we want to run in. And they're probably saying to themselves, listen, how come this guy didn't went into the building? We're supposed to be following this guy and it didn't happen. So, I think there's a lot more the sheriff isn't telling us here. I mean, that officer should have run into that school and protected those children's lives.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Very disturbing. Mr. Houck, thank you very much. Andrew Pollack joins me now, he is father to 18-year-old Meadow Pollack, who lost her life there on February 14th. There's a beautiful picture of the two of them. It's good to have you back tonight, sir. As you watched --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANDREW POLLACK, FATHER OF FLORIDA SHOOTING VICTIM",
+      "sentences": "Hey, Martha, thanks for having me back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Thank you for being here, sir. I know that this is your life mission to make sure that this doesn't happen to any more families. So, having watched this video, what do you think? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLACK",
+      "sentences": "To tell you the truth, I haven't watched it. I can't stomach to watch it. I just heard what was going on, and not only is he an embarrassment to every police officer that puts a uniform on, he's a coward and he's also a liar -- he lied in the investigation. So, not only is he a coward, he's also a liar. He knew when that guy brought him in the golf cart, he brought him right to the building. And then, he said, he didn't know where the shots are coming from there, so he lied right there. The guy drove him to the building in a cart. And then he lied in the investigation also said he never heard shots. So, he's also a liar. And to go past that, he was there at the third minute, OK. My daughter was killed on the third floor, so he had ample enough time to save everybody on the third floor -- this guy -- and he didn't do it because the shooting took -- it was like seven minutes. So, he stayed there, so my daughters on the third floor, she got shot four times, she struggles to a door. This guy is downstairs, the guy 18, 19, 58 goes down the hallway shooting injured kids on the floor. He shoots my daughter another five times, Martha, while that coward is waiting, that embarrassment of an officer. So, this just shows you, Martha, that we can't rely, we have to take more measures, we can't just rely on one SRO officer to protect our kids. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. I mean, that -- I think that's very clear and obviously, this person who was trained 33 years as a law enforcement officer did not run towards what was going on. And you know, you think about Aaron Feiss who was a coach at the school, who ran right towards all of this, and was so such a hero in that situation. You know, I know you're working on legislation in Florida which is moving in a fairly strong direction. I don't know what your take on that is, but, you know, what do you think we learn from this that helps you in what you want to accomplish to learn for next time?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLOCK",
+      "sentences": "Well, there's a lot of failures and incompetence that took place in this whole horrific act. One of the things that I'm going to tell everybody in Broward that the code red as a failed system and every school in Broward. Anyone that knows anything about firearms knows that when you shoot a firearm, the smoke is going to come out of the firearm. It expels a -- it exhausts smoke, so when that happens, it sets the smoke detectors off. So, think about that. The guy shoots a few shots, shoots -- it sets the fire alarm off and then you got someone in the office calling a code red. So, it's just -- that's even, that's a failed system, Martha, because none of the teachers could hear over the Intercom when the fire alarms going off and if someone knew that about anything about security, they would know that that would never work, so that's another thing of incompetence that I figured out the last few days. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Sir, thank you very much, we're going along this journey that you're on as we try to make our schools more hardened and safer with protocols that actually work and this is a tough video to watch and I know you said you haven't watched it, but you listen to it. And I'm sure that was the (INAUDIBLE). Thank you very much. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLACK",
+      "sentences": "It wasn't easy but we're working on things. We're going to make the school safe. Thank you, Martha. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I know you are. We thank you for being here tonight, sir, take care.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLACK",
+      "sentences": "Any time. Thanks. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Thank you. And this Fox News Alert: any moment, we do expect that we're going to get an update from police on the deadly bridge collapse that happened in Florida -- another tragedy today in Florida. We're going to bring you this live as we get more information on it and we'll take you there. But first, Deputy FBI Director Andrew McCabe who leaked classified intelligence to the media, according to the inspector general's report, or at least at what we've learned from it so far, is trying to save face before he retires. But Jonathan Turley says that McCabe, perhaps, should be worried more about what maybe propping in his future in terms of legal issues. He's here next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SARAH HUCKABEE SANDERS, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "We do think that it is well-documented that he has had some very troubling behavior and by most accounts, a bad actor. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, will he be fired or will he retire? That is the haunting question tonight embattled FBI Director -- Deputy Director Andrew McCabe. The second in command of the agency accused of leaking classified materials to the media reportedly begging to save his career late today, huddling behind closed doors at the Department of Justice as 5:00 p.m. Friday's deadline approaches. That is when Attorney General Jeff Sessions can decide whether or not he will fire McCabe before his retirement pension kicks in. Fox News Chief Intelligence Correspondent, Catherine Herridge, live on Capitol Hill tonight with the story. Good evening, Catherine.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CATHERINE HERRIDGE, FOX NEWS CHANNEL CHIEF INTELLIGENCE CORRESPONDENT",
+      "sentences": "Well, thank you, Martha. Earlier today, Fox News confirmed that Andrew McCabe did go to the Justice Department in downtown Washington. This is a very unusual stuff to take to try to preserve his government pension. We're told the most likely scenario is that the pension will be reduced, but it will not be taken away entirely because that's a very high legal threshold to cross. Based on our reporting, what the inspector general found is that McCabe either misled or lied to inspector general investigators about his role in October 2016 media report about the FBI's investigation at the time, into the Clinton Foundation. We also understand the inspector general has looked at other issues associated with McCabe, including obstruction in the Clinton e-mail case. Earlier today, White House press secretary was asked about McCabe and his pension saying that it's not a decision for them to take. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "That's a determination that we would leave up to Attorney General Sessions, but we do think that it is well-documented, that he has had some very troubling behavior and by most accounts, a bad actor, and should have some calls for concern. But that would be a determination the DOJ would have to make.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HERRIDGE",
+      "sentences": "Also made today, four senior Republicans in the Senate have written to the attorney general and Deputy Attorney General, Rod Rosenstein, asking him to appoint a second special counsel to look at the FBI and Justice Department's handling of the Russia probe before the Special Counsel Robert Mueller was appointed. The key thing here is that you're really in essence talking about the same actors that the inspector general was investigating under the Clinton email probe. So, FBI Director Comey, his Deputy Andrew McCabe, also that Senior FBI Agent Peter Strok, the FBI Lawyer Lisa Page, and perhaps even the attorney general. Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. I saw the interview that Bret did just a little while ago with Chairman Grassley and with Senator Graham. And Senator Grassley suggested Catherine that this would not be an entirely different special counsel or second special counsel per se but that they want to know that somebody is addressing those issues either in connection with the inspector general or alongside the inspector general. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HERRIDGE",
+      "sentences": "Well, that's right they laid out two options. The appointment of special counsel or they wanted to have a U.S. attorney partner with the current inspector general at the Justice Department to look at the Russia-related issue. The other thing you probably caught in Bret's interview was a big headline because in the documents released by the senators today, there's the actual language from the FISA application warrant by the FBI. And for the first time, you can see what is the central issue in a criminal referral for that British spy, that he told the FBI he had not been talking to anyone else beyond Fusion GPS and the FBI, when, in fact, he had been talking to the media? So, the bottom line is you have a special player and all of this that sort of kick started it in many respects, lying or apparently lying to the FBI or the FBI misleading the FISA court about that information. Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Big deal. Catherine, thank you very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HERRIDGE",
+      "sentences": "You're welcome.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, my next guest says that Andrew McCabe, the Deputy FBI Director, perhaps, should also be worried about his own legal future, perhaps more than the pension. Jonathan Turley, constitutional law attorney and law professor at George Washington University, joins us now. Jonathan, good to see you tonight. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONATHAN TURLEY, CONSTITUTIONAL LAW ATTORNEY",
+      "sentences": "Hi, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, I mean, I can't help but think when I listen to Catherine's report and you look back on this whole journey, it seems like there's a heck of a lot of people who shouldn't be talking to the media, who are talking to the media, and then you have a whole crew who have misled the FBI, including, perhaps, even people who work there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Right. You have to keep in mind that James Comey, himself, is accused of removing FBI material-- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "-- and leaking it through a friend to the media. There's a suggestion from Senator Grassley -- Chairman Grassley, that at least one of those memos very likely was classified. This is a very serious allegation. But the real strange thing about all of this is that McCabe, so far, has been worried more about pension than prison. That's not the choice that was given to Michael Flynn. Michael Flynn, if you recall, was charged with false statements, even though Comey's investigators reportedly believe that Flynn didn't intend to mislead them. That's not apparently the conclusion of the inspector general with regard to McCabe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. It was such a great point because Michael Flynn is still waiting for his sentence. And I think that the, sort of final chapter of the Michael Flynn story, perhaps, is not written yet. And when you go back and you take a look at what Andrew McCabe did, misleading the investigators according to these reports about leaking to the media, and also about this laptop that his office had uncovered, which belonged to Huma Abedin, Hillary Clinton's very close associate, and her then husband, Anthony Weiner, and that he waited three weeks during the heat of the election to sort of pass that information up the chain of command, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Right. That's particularly odd. I mean, you have one of the highest profile investigations at the Department of Justice. They get this laptop, which is really a seismic event, and it just seems to get lost for three weeks. I mean, it's like the entire bureau was contemplating its collective navel for three weeks. And it's very, very odd. And part of the interesting contrast as well is that Michael Flynn was accused of misleading investigators, something that wasn't illegal, not even unprecedented. The meeting with Russian didn't violate a law, not unconstitutionally enforced law. What McCabe did was a violation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, in terms -- but you -- you're right in your piece that it's highly unlikely that the justice department would treat these two men the same way, even though it appears that they have sort of parallel stories in many ways.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Well, if history is any measure, it's unlikely that they're going to charge him. And this is part of sort of animal farm existence we have in Washington, where everyone's equal but some people are more equal than others. McCabe is one of those people that maybe more equal than others. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, In terms of James Comey -- and I think one of the questions here that we don't know the answer to is whether or not Andrew McCabe shared the information about that laptop with his boss, James Comey, do we know the answer to that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "We don't.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So that's still hanging out there. And he's cooperating with the Mueller investigation, correct?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "He is. And -- but what's also curious, again, is that there's no indication that Mueller is treating Comey as himself possibly guilty of these types of violations. You know, Comey, in the past, denied that he has made leaks. It's not clear if he could be accused of a false statement there. But the removal of these memos was portrayed by other networks as akin to a diary, which is perfectly ridiculous. Those memos were clearly FBI material. The FBI has indicated that. And some of the memos appear to be classified.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Thank you, Jonathan. Always good to see you. Thanks for coming in tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Thanks, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Jonathan Turley in Washington. All right, live look now at the hospital in Miami, where any minute we do expect to get an update on this awful, really unbelievable tragedy today. You can see on the right-hand side of your screen, where the pedestrian walkway, literally, collapse on top of eight cars in the middle of the afternoon. We'll be right back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN KELLY, WHITE HOUSE CHIEF OF STAFF",
+      "sentences": "They have morphed and they're coming. They're not like defeated. They're just like morphing into something different. And they still have that one particular lust in life and that is to come here and do as much damage as they can.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "White House chief of staff, General John Kelly, warning that ISIS has not gone away, that they are morphing into other offshoots as new reports surfaced of another organization called White Flag in Iraq. Early intel is scarce on this group, but the group is raising concerns over their ideology leading some to wonder if it could be a type of ISIS successor. Here now to tell us what there is to know at this point is General Jack Keane, chairman of the Institute for the Study of War and Fox News senior strategic analyst. General, good to see you tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JACK KEANE, FOX NEWS SENIOR STRATEGIC",
+      "sentences": "Good to see you, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Lots to talk about, but first off, your thoughts on this group. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "Well, they are a new organization. They have jihadist ideology. So they're just like all the other radical fundamentalists organization out there, Al-Qaeda, ISIS. They have former ISIS members in it, and also, surprisingly, some Kurds. But right now, they haven't really begun a terrorist attack campaign. So, they -- it's possible that there're more political than jihadists. It remains to be seen. But from our own understanding, while we have done a very good job at taking ISIS territory away from them in Syria and in Iraq, as General Kelly was pointing out, this organization is still very much alive. It is not defeated. Even in Iraq alone, there're several thousand ISIS fighters still there. They're mostly Iraqis. The foreigners are either been killed or they've gone home to Europe, Southeast Asia, Africa, and other places. ISIS is now a worldwide organization because it became an iconic organization, so they have spread around the world and they're very",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Here's Michael McCaul talking about just that and saying that they still have their -- some of the times, Al-Qaeda as well on attacks on the homeland and on aviation. Listen to this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MICHAEL MCCAUL, U.S. CONGRESSMAN",
+      "sentences": "The crown jewel is aviation and they're still seeking to blow up airplanes, even though they may not be able to hijack them. That threat is very real.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You agree with that, general?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "Yeah. That's absolutely true, particularly, Al Qaeda. The Al Qaeda organization on the Arabian Peninsula operates in Yemen, you know, they have been working on plastic bombs for some time. Aviation, they see as a major strategic weapon. I think they'll always be offshoots of the radical Islamists who will want to attack Europe and attack the United States, particularly the United States as its number one strategic target.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "That's why we've got to have our tenor up in terms of what they're really doing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I mean, you go back to their original bombing of the World Trade Center and the bombing at the embassies. They take several years off sometimes while they're planning, but their mission does not change and their goals don't change. I'd like you to listen to this, general. This is General Mike Scaparrotti of the European command talking about Russian submarines.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE SCAPARROTTI, EUROPEAN COMMAND",
+      "sentences": "Russia is carrying out a campaign of destabilization to change the international order, fracturing NATO, and undermine U.S. leadership around the world. At sea, on land, and in the air, Russia increasingly -- Russia's increasingly modernized military is operating at levels not seen since the cold war.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Very strong words from the European commander. Do you think that the White House -- as the White House is criticized for not taking the threat from Russia seriously enough?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "No, I think the Trump administration is very clear when it comes to Russia. As a matter of fact, that general there is going to bring the heat tomorrow on Russia in a classified briefing. But the reality is simply this -- and here's where the Trump team deserves credit -- in their national security strategy, they have identified this era of big power competition and we're returning to it as we were in the cold war. Suddenly, Russia is not on the scale of the Soviet Union. But here's what they are, they're very ambitious. They want to be a world power. They're increasing in their capability. And they are aggressive and dangerous, and we have got to have the stomach and spine to confront them. I believe this administration does have that. It's going to increase our military budget as something. I know for a fact that it's got the Russian's attention because they see that similar to the Reagan buildup and what happened as a result of the Reagan buildup, the Soviet Union collapsed. That was one of the -- one of the factors in it, not certainly the only factor. But yes, our determination here -- particularly, our will, Martha, is how you need to deal with the Russians, with the Chinese, and with the Iranians. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } It takes political and moral will to stand up and confront powers and not -- don't fear the alternative. Don't fear escalation that could lead to something terrible. If that's -- if that's what drives you, then you're like the Obama administration, you've got your hands tied all the time, and your adversary are taking advantage of you and your allies. I believe this team is moving in the right direction.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. I want to ask you one other thing, these reports that North Korea has spent seven years building an underground military base in Syria. It's one report. Do you think it has any credence?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "It's only one report. I asked the Institute for the Study of War to take a look at it today. And their conclusion, as relayed to me, is that, you know, it's very possible. Because when they analyzed it, the location is in a mountainous area, which would be ideal to build an underground facility. What the Assad regime was so concerned about is U.S. airpower, and particularly, Israeli airpower, because when the Israeli see something forming like a chemical site or a missile base, the Israelis attack it. They just took one down in September of 2017. And so, an underground facility makes sense. North Koreans are absolute bonafide expert on that. They've done most of their artillery built into mountains. All their nuclear sites are underground, so they clearly know how to do that. Plus, they're helping them rather significantly with chemical weapons.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "We'll see where it goes. General, thank you so much. Good to see you tonight, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "Yeah. Good talking to you, Martha. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You too. OK. Let's take a live look at Miami, where at any moment, we are about to get an update from Florida's governor, local officials. I believe Senator Rubio is also expected to be there. We're going to take you there live as soon as that happens. And the Me Too Campaign has certainly given courage to many who have alleged abuse. But now a former figure skater is, again, leveling charges against his old skating -- figure skating coach more than 20 years after the first attempt. Craig Maurizi is here to tell us his story, next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So let's go live to Miami for a moment. Phil Keating is standing by with the latest on the deadly pedestrian bridge collapsed today. Phil, what can you tell us now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PHIL KEATING, FOX NEWS CORRESPONDENT",
+      "sentences": "Martha, officially, it's still a continuous search and rescue operation, hoping to find any survivors still alive either they were pedestrians or they were passenger or driver of one of the eight vehicles crushed by this still very new and under construction pedestrian bridge just recently installed Saturday, spanning a very busy artery here in Southwest Miami-Dade. This is Southwest 8th street, eight lanes of traffic. It's on the border between the town of Sweetwater as well as the campus of Florida International University, and this was to allow students and others to freely access going back and forth without having to dodge eight lanes of traffic. Over there, about 50 yards away, Governor Rick Scott just now seen approaching the media there. He flew down from Tallahassee to see the wreckage and the rubble in person. He's been over there. You can see his cars. And he's about to speak shortly here, just let me know when he appears to get in front of the microphones. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); } But 10 people have been treated and are being treated at the nearby Kendall Regional Hospital. Two of them are in critical condition. According to police officers from Sweetwater who were within two or three blocks when suddenly the loud explosion of a million pounds of concrete crashed down on the southwest 8th street. They rushed over to the scene, they found, at least, four, maybe six, construction workers who were lying on the rubble dazed, cut, bleeding. One wasn't breathing. They had to use chest compressions for him. There was also another guy we talked to who said his childhood friend was simply crossing the street as a pedestrian when this happened. And, of course, all lanes of traffic have been open since they installed this bridge on Saturday. It was still under construction, not yet complete, not open to pedestrians. That was supposed to happen later this year in December, but it was built by FIGG Engineering, which has a 40-year history, according to the company of something like this never ever happened before. They say they are stunned that this bridge-span collapse. It spans from the south, FIU campus, to the north, the town of Sweetwater. And by all the reports, the center support tower was still to be constructed. So, exactly, what was the integral design of this bridge, whether there were very long, 170-foot very strong steel beams that were providing support from south tower to north tower or whether it was a hundred percent pure concrete, which is more unlikely, but it was supposed to be a state-of-the-art design as a pedestrian bridge. It was supposed to be iconic as is the Skyway Bridge south of Tampa Saint Pete. And then, today, absolute catastrophe, and you have a serious design, integrity, and engineering feat being now investigated as to what exactly caused this bridge to collapse. Fortunately, Florida International University on spring break this week, there could have been and there would have been many, many more people, students walking to and fro to campus and off campus at the time of day when this happened, which is right before 2:00 PM Eastern Time, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. Phil, I keep going back to the detail that you mentioned, and it was that the central structure of this bridge is still to be added, is that correct? So it is part of the plan to have a central structure but it's not there or this was a bridge that was supposed to be sort of a suspension?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEATING",
+      "sentences": "Yeah, still waiting to get back, officially, from FIGG Engineering on that particular question. But several observers, engineering professors, one out of California, saying this is a bit risky to have this span over active eight lanes of traffic while they still build that center support tower. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); } But, you know, you see all the skywalks in Seattle, and Minnesota, Minneapolis, and Spokane, Washington, there are no support beams in the center -- support towers in the center of those skywalks. So they are anchored quite well on the two ends of those structures, and the bridges, and the walkways, whether this was going to be exactly like that or it was actually to long for that kind of design, they were going to build the center tower later, again, one of the many unanswered questions at this hour.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. And we're still waiting to hear, Phil, an update on the condition and the fatalities today, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEATING",
+      "sentences": "Yeah. Still no official count on fatalities, it was reported there were several, if not multiple. We knew eight cars remained crushed underneath the bridge, which is behind me. The north half of the bridge spanning the westbound lane, that's all on the street, pancakes, crushed, just destroyed. The other remaining half of the bridge you can see in the sunlight backlighting this, you can see the big beams going down about 30 or 45 degrees at an angle above the street. That's the southern half of this pedestrian walkway bridge and that's precarious. They're still trying to assess how close they can get to that, if it's safe to even get underneath that as they continue to use dogs and dozens and dozens of firefighters searching for any survivors that may still be in those cars or under the rubble.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Awful. Phil, standby, we're few minutes away we understand from this news conference. So, we're going to turn our attention to our other story here and our guest tonight. Nearly 20-years ago, a figure skater by the name of Craig Maurizi accused one of the sport's most well-known coaches, Richard Callahan, of sexual abuse. Callahan a world-class coach trained the likes of Todd Eldridge, Terry Lipinski, denied the charges. And Maurizi said U.S. Figure Skating never investigated his claims, in what he calls a deliberate cover-up. Now, in the wake of all of these stories and the Me Too Movement, Craig is fighting to have Coach Callahan removed from the sport once and for all. He is still coaching. Filing a complaint with the U.S. Center for SafeSport and the U.S. Olympic Committee misconduct watchdog, and now Callahan is indefinitely suspended. Here now the alleged victim, former figure skater, Craig Maurizi. Craig, good to see you tonight. Obviously, we'll have to get back to Florida when that gets underway. But I do want to speak with you about this, because this is something that you have been harboring your whole life, and now you watch what's going on, and you want this man stopped.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CRAIG MAURIZI, FORMER FIGURE SKATER",
+      "sentences": "Exactly. Circumstance actually helped get me to file again. When the Larry Nasser situation was unfolding, an investigative reporter called me and asked if I will tell my story. After I thought for a while about the correct path, and I spoke with both organizations -- spoke with U.S. Figure Skating, they urged me to file what's called a SafeSport report, and that's what got the ball starting again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What's the nature of the kind of thing that this man was doing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "Without getting too graphic, it was different forms of sex acts.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. So you believe -- do you believe you were his only victim?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "No, I wasn't, for sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "He was approached by a reporter recently, and he said it was 20 years ago. Get out of my face, essentially, that was a long time ago. What do you say to that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "Well, I have a life sentence. And for me, I'm still dealing with it today and I'm going to deal with for the rest of my life. I've come to terms with the fact that I am who I am as a result of this. So, for me, it's still very new.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "In terms of what happened back then, did you try to reach out, did you try to cry out to anybody at that point?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "I definitely did. I filed a grievance with the U.S. Figure Skating and with the second organization called the Professional Skaters Association.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What was their response?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "The U.S. Figure Skating would not see -- had in their by laws that if a crime or an allege crime occurred more than 60 days past when I filed a grievance that they wouldn't even see it. So they never even took my grievance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Incredible. So you've got 60 days to talk about this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "Yeah, I was about 14-years --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "How long was the span of time that this was going on for?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "Started when I was 13 into my early 20s.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And in terms of -- so this is -- I would imagine a sort of manipulative power kind of set up where he felt you really couldn't do anything about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "That's correct. It was -- he made himself indispensable to me, is the best way to put it. He monitored and guided me in all aspects of my life, what to think, what to say, how to act.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So it was brainwashing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "Brainwashing for sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And did you feel that if you pushed too hard against him or if you called him out on it that your career as a skater would be done?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "I did feel that at the time. Not just with him, but with the organization as a whole. This is how I make my living. I didn't want to disrupt that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Craig, thank you. We're following a lot of these stories, especially in athletics. And we thank you for sharing your story tonight. Good luck to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURIZI",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Back to Miami now where we see that they are assembling to get started with this news conference. Let's listen in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAURICE KEMP, MIAMI-DADE DEPUTY MAYOR",
+      "sentences": "Good evening. My name is Maurice Kemp, deputy mayor of Miami-Dade County. And on behalf of the mayor, Carlos Gimenez, and myself, I'd like to offer our sincere condolences to the victims of this tragedy and their families. Miami-Dade County and our partner agencies for the last six hours have been working feverishly in the search and rescue mode to ascertain how many victims there are and rescue as many as we can. We will continue in this mode until we are certain that there are no more viable victims. And at some point, we will transition into an investigation and recovery mode, but we're not there yet. Copy: Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, HOST",
+      "utterance": "Hi there, Bret. Thanks a lot. Good evening to you. Good evening, everybody. Breaking tonight, we are about to get some brand-new information any moment now from Miami. Police and fire officials about to step in front of the microphone to give us an update at hospital. And then, in Washington, we expect, perhaps, dueling news conferences on this this evening in response to the tragedy where a brand-new pedestrian walkway at Florida International University of Miami came crashing down onto a busy street below earlier today. This is a look at the frantic search for survivors trapped still underneath the bridge this evening. Rescuers using everything from dogs to heavy equipment and cranes to try to make contact with people who may be trapped underneath. 950 tons of bridge that literally, they cut the ribbon on days ago. We are hearing that there are several people who have perished in this tragedy this afternoon. We're about to get more information as I said, at least two others in critical condition. We're going to get details from the hospital as I said, but let's go live on the ground there to Phil Keating who has been watching this all afternoon. Good evening, Phil."
+    },
+    {
+      "speaker": "PHIL KEATING, FOX NEWS CORRESPONDENT",
+      "utterance": "Good evening, Martha. It is an active search and rescue operation desperate to find any remaining survivors, people trapped under that one million pounds of concrete. This pedestrian bridge repeated to be a state-of-the-art design that was actually just rotated 90 degrees on Saturday from a set of the road where it was constructed behind me, and then it was placed on the north and southbound support towers spanning eight lanes of traffic on a very busy main artery here and southwest Miami-Dade. It was still a construction project, still not open to the public, it was supposed to open this upcoming December, but today an absolute catastrophe. Clearly some sort of engineering or structural design problem. Everything is still under investigation -- no cause or suspected cause yet being revealed by investigators. Everyone, really, still scrambling here now five hours since this all happened. It happened just before 2:00 p.m. Eastern Time. When the bridge came down suddenly, it came down on eight cars crushing them either fully or partially. It's unclear how many total people would've been in those cars -- drivers and passengers. But a total of ten people are being treated at the nearby Kendall Regional Hospital, two of them in critical condition, no word yet officially on the number of fatalities. There was actually even one pedestrian who was crossing this busy street when the bridge came suddenly crashing down onto him and he is injured very seriously speaking, but it does appear that he is going to survive. Joining me now is the Sweetwater Police Sergeant, Jenna Mendez, one of the first people on the scene. Did you actually see the bridge fall down and the smoke cloud rise or did you pull up right after that and what did you see?"
+    },
+    {
+      "speaker": "JENNA MENDEZ, SWEETWATER POLICE SERGEANT",
+      "utterance": "I was actually sitting in traffic when I looked up and I saw the bridge down and I thought to myself, why would they possibly be doing that right now? I was in a state of shock."
+    },
+    {
+      "speaker": "KEATING",
+      "utterance": "It seems surreal."
+    },
+    {
+      "speaker": "MENDEZ",
+      "utterance": "I was in disbelief of what I actually was just witnessing, and my instinct kicked in that I needed to get to work. So, I jumped out of my vehicle and I ran, and actually jumped on top of the bridge where we had four workers who were severely injured and one not breathing; we started CPR on him. We had another one who has a major laceration to his head who was completely unconscious as well, and I just actually started yelling for people to go find me doctors, so I can have some assistance. I actually got a doctor who started assisting with the pulse and CPR as well, and we got backwards, we got the two most injured on the backwards and got them down as quickly as possible to get them to rescue so they could assist."
+    },
+    {
+      "speaker": "KEATING",
+      "utterance": "Did you hear voices coming from the rubble from survivors that could not get themselves out, could not self-extricate?"
+    },
+    {
+      "speaker": "MENDEZ",
+      "utterance": "Unfortunately, no."
+    },
+    {
+      "speaker": "KEATING",
+      "utterance": "The last person that the Fire Department tells me was pulled out alive, it was about 4:00 p.m. this afternoon. There at least a hundred technical firefighters there with experience in construction disasters, such as this on the scene; there are dog teams. Do you know what the latest is on whether or their finding any signs of hope?"
+    },
+    {
+      "speaker": "MENDEZ",
+      "utterance": "At this point in time from what I witnessed, I really can't believe that there would be any hope left on the people that are in the inside -- it's very deeply crushed. I mean, probably, you know, a couple of feet are the cars at this point."
+    },
+    {
+      "speaker": "KEATING",
+      "utterance": "I mean, the pedestrian bridge, the floor plan going across the bridge, south to north, but it also had the roof to protect pedestrians in the future from rain and sun, it pancakes on the north four lanes, the west bound lanes of the roadway. The other part of the bridge, as you can see off in the distance behind us, is angled straddling the roadway 3-45-degree angle -- that's still a precarious piece of bridge. But thank you very much Sergeant Jenna Mendez, really, for all of your great first response."
+    },
+    {
+      "speaker": "MENDEZ",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "KEATING",
+      "utterance": "All right. Thank you. Let's go to the NTSB -- National Transportation Safety Board -- having a briefing in D.C."
+    },
+    {
+      "speaker": "UNIDENTIFIED NAME",
+      "utterance": "-- and we have to go, get on a plane, and to Miami. I expect him out in about three minutes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. We're going to get back to that as soon as he gets underway. And as we said, we are also expecting a report at a news conference the hospital in Miami. Phil Keating, let's go back to you on the ground. A lot of information from that sheriff who you just spoke to who happened to be on the scene there. Do we know -- were there any construction workers, there was absolutely no one on the top of the bridge, Phil?"
+    },
+    {
+      "speaker": "KEATING",
+      "utterance": "That's exactly right, Martha. There were at least four, maybe six construction workers on the bridge itself when it suddenly collapsed. Still unclear as to whether they're on top of the roof or whether they're on the walkway portion and somehow ended up on top of all of the rubble in a state of daze and severely wounded and believing state when the first responders did arrive. So, it was an active construction site, this bridge, even though it had been assembled and built over the past several months alongside this busy roadway. And then on Saturday, in a -- really, a feat of engineering, it was hoisted up, twisted around, rotated 90 degrees and then placed onto the south and north support towers. According to one engineering professor at the University of California reacting to this, he described this move as somewhat risky, having this bridge span eight lanes of very busy roadway before the center support tower was even built. So, all of these questions will be certainly coming out here in the next days, but the search and rescue operation, looking for survivors, as you can tell, it's sunset happening behind me, it is going to go all through the night, and definitely into the early morning hours, if not longer on Friday. Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. So, Phil, just to clarify, there is no center, there was no center holding this up at this point?"
+    },
+    {
+      "speaker": "KEATING",
+      "utterance": "Yes. By all of the video we have of its installation on Saturday, there is not a support tower in the middle, so the entire span of the bridge, 174 feet long, made out of concrete and steel and rhubarb basically spanned all the way across the road, supported on the south side by a support tower, and the north side by a support tower, but not supported right in the middle. Back to you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Phil, standby, we're going to go to the NTSB and listen in."
+    },
+    {
+      "speaker": "ROBERT SUMWALT, CHAIRMAN OF THE NTSB",
+      "utterance": "The NTSB is launching a full investigative go team to begin our investigation of this pedestrian bridge collapse at the campus of Florida International University. We do understand that there are victims involved in this and certainly our condolences go out to those family and friends of all -- and the victims -- all of those who've been affected by this tragedy, our thoughts and prayers go out to them. The NTSB is an independent federal agency, we're charged by congress to investigate transportation accidents to determine the probable cause and issue safety recommendations to prevent those actions from occurring again. In addition to our headquarters support staff, we're launching a multi-disciplinary investigative team of 15 specialists in a number of areas, including civil engineering, materials science, and survival factors. In addition, we are sending our specialists from the NTSB's Office of Transportation Disaster Assistance and they will be on hand to assist the families of those who've been affected by this tragedy. We should be arriving in Miami around 10:30 this evening and then we will proceed straight to the site to begin meeting with the first responders and getting a basic lay of the land. We will begin in earnest our investigation first thing tomorrow morning. For the factual information that we will release, you can follow us at Twitter, our Twitter handle is @NTSB_Newsroom or you can follow us at NTSB -- www.NTSB.gov. Since we've not even gotten on scene yet, we don't really have any factual information to report at this time, but I can speak about our processes. So, if you have questions about our processes, I'd be glad to try and answer those. I'll ask you too -- when I do call for questions -- to raise her hands, state your name, and your media affiliation and we'll see if we can answer them."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. We're going to monitor that. That's Robert Sumwalt of the NTSB and there is the wide shot of this catastrophe that happen this afternoon in Miami -- near Miami. It is -- obviously, there are fatalities involved in this. We're going to at 7:30, we'll get an update breaking from the hospital there and we're going to take you there to that live when that gets underway. So, we're monitoring that breaking news throughout the evening. But also breaking this evening, newly released video from the shooting at Stoneman Douglas High School sheds new light, but it also raises a lot of new questions about the armed guard who was supposed to run into the building at the sound of gunfire, but clearly in this video is standing outside for painful minutes while children are inside being killed. And what about sheriff Israel who declined to answer our invitation to speak tonight about what this video tells him, about when he first knew about this video, all of those things need to be answered. We want to know how all of that lines up with Sheriff Israel's public statements about what he knew at the time. In moments we will hear from Andrew Pollack, who tragically lost his daughter, Meadow, on that day. He has seen the video, he'll will speak with us in just a moment. But first, Trace Gallagher with the story of the timeline tonight and what we now know, Trace."
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS CHANNEL HOST",
+      "utterance": "Martha, you have to remember that school Deputy Scott Peterson initially released a statement through his attorney saying he didn't enter the building where the shots were fired because he thought the shooter was outside. Well, now we have both dispatch audio and surveillance video and it's easy to connect the dots because the audio and video are both time stamped. So, at 2:22 on February 14th, less than a minute after police say Nikolas Cruz entered the school and began shooting, video shows a golf cart carrying Deputy Scott Peterson and Security Specialist Calvin Greenleaf. You see the golf cart drive by the 700 building which is right next to the 1200 building where the shooting happened. And that's when Deputy Peterson makes this a radio call. Listen."
+    },
+    {
+      "speaker": "SCOTT PETERSON, FORMER BROWARD COUNTY SHERIFF'S DEPUTY",
+      "utterance": "Be advised that we have possible -- could be firecrackers. I think we got shots fired, possible shots fired -- 1200."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "So, at this point, Peterson believed shots are being fired inside the 1200 building. At that time, the video shows a golf cart stopping and you see the security specialist appeared to run into the hallway between buildings 700 and 1200. But Scott Peterson doesn't go toward the 1200 building where he said that shots were fired, instead he stands against a wall outside of building 700 with a direct view of building 1200. And we know from police report, the shooter continued to fire for three more minutes and during that time, Peterson makes this radio call. Watch."
+    },
+    {
+      "speaker": "PETERSON",
+      "utterance": "Do not approach the 12 or 1300 building. Stay at least 500 feet away at this point."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "So, Peterson doesn't go in and prevents other deputies from going in and then continues to stand by the wall of building 700 for 25 more minutes. By that time, Nikolas Cruz was down at a Walmart. The Broward County Sheriff's office says, the video which was released by a Broward circuit judge speaks for itself. Scott Peterson, if you don't know, is a 54-year-old twice divorced father of four who's been in law enforcement for 33 years. In 2014, he was named 'School Resource Officer the Year.' We contacted his attorney for a brand-new comment. So far, nothing. Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Nothing. All right. Trace, thank you very much. Joining me now, Harry Houck, Retired NYPD Detective First Grade Specializing in Counterterror and Active Shooter Protocol. He has watched this tape with us, he has watched it before he arrives, and he joins me now with his assessment. Sir, good to have you here tonight."
+    },
+    {
+      "speaker": "HARRY HOUCK, RETIRED NYPD DETECTIVE FIRST GRADE SPECIALIZING IN COUNTERTERROR AND ACTIVE SHOOTER PROTOCOL",
+      "utterance": "Pleased for having me."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What do you think?"
+    },
+    {
+      "speaker": "HOUCK",
+      "utterance": "I must've watched that video about 15 times today. And you know, initially when you see him coming up in the club car, children are running out of the building. Now, he probably didn't know where the shots were being fired exactly at that, but I would go to those children and find out where the shots are being fired and where the shooter was. I didn't see him do that. Second of all, the man didn't even have his gun in his hand. I did not see a weapon in his hand at all. So, he goes and he takes the position and (INAUDIBLE) that shots going inside that building. Now, let me tell you something, no matter what protocols may have or may have been -- we had protocols all the time, we never follow them. When shots are being fired, especially at a school, and especially after what happened at Columbine, then the active shooter protocol are changed for every single police department is that you are to engage that shooter instantly the minute you hear those shots being fired. Now, I can see him getting on the radio and saying, listen, there are shots fired inside the building, we have a shooter there, I'm going in. I listened to the recordings from the police transmissions. The first transmission -- from the first transmission didn't come on until about nine minutes, it took nine minutes for the Broward County sheriff's officers to enter that building. That's a problem. I'm saying to myself, 'I can't see that many coward police officers showing up at the same time.' I've been in cap for 25 years, I might have seen two cowards my entire life. All right. For officers not directly going that building and wait a whole nine minutes, there's something wrong, there's something the sheriff is not telling."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "He's telling them that call to stay 500 yards away. He's talking to the other officers who were on their way."
+    },
+    {
+      "speaker": "HOUCK",
+      "utterance": "Where did that come from? Where did that come from for him to say stay 500 feet away?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "He says, he believe -- you know, he didn't anything after this was released but initially, said that he thought the shots were being fired outside. But in the video, he's not running around trying to find out where that's happening. He's literally frozen in place."
+    },
+    {
+      "speaker": "HOUCK",
+      "utterance": "Right. He's 40 yards away from the building, right? So, you see somebody -- you see the guy that was with runs into the building, but I believe if he was standing here, this is where the building was where the shooting was occurring, right? So, he could take a position over there and ran into the building and just go over the radio: I'm going in, send everybody. At the same time, when he's in that corner, you see other police officers come and take a position and not go into the building. They probably didn't even know exactly where the hell the shooting was going on. Now, I know --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "He says over the radio, he thinks it's in 1200 and I have to assume they all understand which buildings are which."
+    },
+    {
+      "speaker": "HOUCK",
+      "utterance": "Maybe or maybe not, because that's why you have a school safety officer. Maybe these officers don't know which building."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "But he should be the one saying to them, that's 1200 then we go."
+    },
+    {
+      "speaker": "HOUCK",
+      "utterance": "Exactly, that's 1200, that's we want to run in. And they're probably saying to themselves, listen, how come this guy didn't went into the building? We're supposed to be following this guy and it didn't happen. So, I think there's a lot more the sheriff isn't telling us here. I mean, that officer should have run into that school and protected those children's lives."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Very disturbing. Mr. Houck, thank you very much. Andrew Pollack joins me now, he is father to 18-year-old Meadow Pollack, who lost her life there on February 14th. There's a beautiful picture of the two of them. It's good to have you back tonight, sir. As you watched --"
+    },
+    {
+      "speaker": "ANDREW POLLACK, FATHER OF FLORIDA SHOOTING VICTIM",
+      "utterance": "Hey, Martha, thanks for having me back."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Thank you for being here, sir. I know that this is your life mission to make sure that this doesn't happen to any more families. So, having watched this video, what do you think?"
+    },
+    {
+      "speaker": "POLLACK",
+      "utterance": "To tell you the truth, I haven't watched it. I can't stomach to watch it. I just heard what was going on, and not only is he an embarrassment to every police officer that puts a uniform on, he's a coward and he's also a liar -- he lied in the investigation. So, not only is he a coward, he's also a liar. He knew when that guy brought him in the golf cart, he brought him right to the building. And then, he said, he didn't know where the shots are coming from there, so he lied right there. The guy drove him to the building in a cart. And then he lied in the investigation also said he never heard shots. So, he's also a liar. And to go past that, he was there at the third minute, OK. My daughter was killed on the third floor, so he had ample enough time to save everybody on the third floor -- this guy -- and he didn't do it because the shooting took -- it was like seven minutes. So, he stayed there, so my daughters on the third floor, she got shot four times, she struggles to a door. This guy is downstairs, the guy 18, 19, 58 goes down the hallway shooting injured kids on the floor. He shoots my daughter another five times, Martha, while that coward is waiting, that embarrassment of an officer. So, this just shows you, Martha, that we can't rely, we have to take more measures, we can't just rely on one SRO officer to protect our kids."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. I mean, that -- I think that's very clear and obviously, this person who was trained 33 years as a law enforcement officer did not run towards what was going on. And you know, you think about Aaron Feiss who was a coach at the school, who ran right towards all of this, and was so such a hero in that situation. You know, I know you're working on legislation in Florida which is moving in a fairly strong direction. I don't know what your take on that is, but, you know, what do you think we learn from this that helps you in what you want to accomplish to learn for next time?"
+    },
+    {
+      "speaker": "POLLOCK",
+      "utterance": "Well, there's a lot of failures and incompetence that took place in this whole horrific act. One of the things that I'm going to tell everybody in Broward that the code red as a failed system and every school in Broward. Anyone that knows anything about firearms knows that when you shoot a firearm, the smoke is going to come out of the firearm. It expels a -- it exhausts smoke, so when that happens, it sets the smoke detectors off. So, think about that. The guy shoots a few shots, shoots -- it sets the fire alarm off and then you got someone in the office calling a code red. So, it's just -- that's even, that's a failed system, Martha, because none of the teachers could hear over the Intercom when the fire alarms going off and if someone knew that about anything about security, they would know that that would never work, so that's another thing of incompetence that I figured out the last few days."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Sir, thank you very much, we're going along this journey that you're on as we try to make our schools more hardened and safer with protocols that actually work and this is a tough video to watch and I know you said you haven't watched it, but you listen to it. And I'm sure that was the (INAUDIBLE). Thank you very much."
+    },
+    {
+      "speaker": "POLLACK",
+      "utterance": "It wasn't easy but we're working on things. We're going to make the school safe. Thank you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I know you are. We thank you for being here tonight, sir, take care."
+    },
+    {
+      "speaker": "POLLACK",
+      "utterance": "Any time. Thanks."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Thank you. And this Fox News Alert: any moment, we do expect that we're going to get an update from police on the deadly bridge collapse that happened in Florida -- another tragedy today in Florida. We're going to bring you this live as we get more information on it and we'll take you there. But first, Deputy FBI Director Andrew McCabe who leaked classified intelligence to the media, according to the inspector general's report, or at least at what we've learned from it so far, is trying to save face before he retires. But Jonathan Turley says that McCabe, perhaps, should be worried more about what maybe propping in his future in terms of legal issues. He's here next."
+    },
+    {
+      "speaker": "SARAH HUCKABEE SANDERS, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "We do think that it is well-documented that he has had some very troubling behavior and by most accounts, a bad actor."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, will he be fired or will he retire? That is the haunting question tonight embattled FBI Director -- Deputy Director Andrew McCabe. The second in command of the agency accused of leaking classified materials to the media reportedly begging to save his career late today, huddling behind closed doors at the Department of Justice as 5:00 p.m. Friday's deadline approaches. That is when Attorney General Jeff Sessions can decide whether or not he will fire McCabe before his retirement pension kicks in. Fox News Chief Intelligence Correspondent, Catherine Herridge, live on Capitol Hill tonight with the story. Good evening, Catherine."
+    },
+    {
+      "speaker": "CATHERINE HERRIDGE, FOX NEWS CHANNEL CHIEF INTELLIGENCE CORRESPONDENT",
+      "utterance": "Well, thank you, Martha. Earlier today, Fox News confirmed that Andrew McCabe did go to the Justice Department in downtown Washington. This is a very unusual stuff to take to try to preserve his government pension. We're told the most likely scenario is that the pension will be reduced, but it will not be taken away entirely because that's a very high legal threshold to cross. Based on our reporting, what the inspector general found is that McCabe either misled or lied to inspector general investigators about his role in October 2016 media report about the FBI's investigation at the time, into the Clinton Foundation. We also understand the inspector general has looked at other issues associated with McCabe, including obstruction in the Clinton e-mail case. Earlier today, White House press secretary was asked about McCabe and his pension saying that it's not a decision for them to take."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "That's a determination that we would leave up to Attorney General Sessions, but we do think that it is well-documented, that he has had some very troubling behavior and by most accounts, a bad actor, and should have some calls for concern. But that would be a determination the DOJ would have to make."
+    },
+    {
+      "speaker": "HERRIDGE",
+      "utterance": "Also made today, four senior Republicans in the Senate have written to the attorney general and Deputy Attorney General, Rod Rosenstein, asking him to appoint a second special counsel to look at the FBI and Justice Department's handling of the Russia probe before the Special Counsel Robert Mueller was appointed. The key thing here is that you're really in essence talking about the same actors that the inspector general was investigating under the Clinton email probe. So, FBI Director Comey, his Deputy Andrew McCabe, also that Senior FBI Agent Peter Strok, the FBI Lawyer Lisa Page, and perhaps even the attorney general. Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. I saw the interview that Bret did just a little while ago with Chairman Grassley and with Senator Graham. And Senator Grassley suggested Catherine that this would not be an entirely different special counsel or second special counsel per se but that they want to know that somebody is addressing those issues either in connection with the inspector general or alongside the inspector general."
+    },
+    {
+      "speaker": "HERRIDGE",
+      "utterance": "Well, that's right they laid out two options. The appointment of special counsel or they wanted to have a U.S. attorney partner with the current inspector general at the Justice Department to look at the Russia-related issue. The other thing you probably caught in Bret's interview was a big headline because in the documents released by the senators today, there's the actual language from the FISA application warrant by the FBI. And for the first time, you can see what is the central issue in a criminal referral for that British spy, that he told the FBI he had not been talking to anyone else beyond Fusion GPS and the FBI, when, in fact, he had been talking to the media? So, the bottom line is you have a special player and all of this that sort of kick started it in many respects, lying or apparently lying to the FBI or the FBI misleading the FISA court about that information. Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Big deal. Catherine, thank you very much."
+    },
+    {
+      "speaker": "HERRIDGE",
+      "utterance": "You're welcome."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, my next guest says that Andrew McCabe, the Deputy FBI Director, perhaps, should also be worried about his own legal future, perhaps more than the pension. Jonathan Turley, constitutional law attorney and law professor at George Washington University, joins us now. Jonathan, good to see you tonight."
+    },
+    {
+      "speaker": "JONATHAN TURLEY, CONSTITUTIONAL LAW ATTORNEY",
+      "utterance": "Hi, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, I mean, I can't help but think when I listen to Catherine's report and you look back on this whole journey, it seems like there's a heck of a lot of people who shouldn't be talking to the media, who are talking to the media, and then you have a whole crew who have misled the FBI, including, perhaps, even people who work there."
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Right. You have to keep in mind that James Comey, himself, is accused of removing FBI material--"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "-- and leaking it through a friend to the media. There's a suggestion from Senator Grassley -- Chairman Grassley, that at least one of those memos very likely was classified. This is a very serious allegation. But the real strange thing about all of this is that McCabe, so far, has been worried more about pension than prison. That's not the choice that was given to Michael Flynn. Michael Flynn, if you recall, was charged with false statements, even though Comey's investigators reportedly believe that Flynn didn't intend to mislead them. That's not apparently the conclusion of the inspector general with regard to McCabe."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. It was such a great point because Michael Flynn is still waiting for his sentence. And I think that the, sort of final chapter of the Michael Flynn story, perhaps, is not written yet. And when you go back and you take a look at what Andrew McCabe did, misleading the investigators according to these reports about leaking to the media, and also about this laptop that his office had uncovered, which belonged to Huma Abedin, Hillary Clinton's very close associate, and her then husband, Anthony Weiner, and that he waited three weeks during the heat of the election to sort of pass that information up the chain of command, right?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Right. That's particularly odd. I mean, you have one of the highest profile investigations at the Department of Justice. They get this laptop, which is really a seismic event, and it just seems to get lost for three weeks. I mean, it's like the entire bureau was contemplating its collective navel for three weeks. And it's very, very odd. And part of the interesting contrast as well is that Michael Flynn was accused of misleading investigators, something that wasn't illegal, not even unprecedented. The meeting with Russian didn't violate a law, not unconstitutionally enforced law. What McCabe did was a violation."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, in terms -- but you -- you're right in your piece that it's highly unlikely that the justice department would treat these two men the same way, even though it appears that they have sort of parallel stories in many ways."
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Well, if history is any measure, it's unlikely that they're going to charge him. And this is part of sort of animal farm existence we have in Washington, where everyone's equal but some people are more equal than others. McCabe is one of those people that maybe more equal than others."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, In terms of James Comey -- and I think one of the questions here that we don't know the answer to is whether or not Andrew McCabe shared the information about that laptop with his boss, James Comey, do we know the answer to that?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "We don't."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So that's still hanging out there. And he's cooperating with the Mueller investigation, correct?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "He is. And -- but what's also curious, again, is that there's no indication that Mueller is treating Comey as himself possibly guilty of these types of violations. You know, Comey, in the past, denied that he has made leaks. It's not clear if he could be accused of a false statement there. But the removal of these memos was portrayed by other networks as akin to a diary, which is perfectly ridiculous. Those memos were clearly FBI material. The FBI has indicated that. And some of the memos appear to be classified."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Thank you, Jonathan. Always good to see you. Thanks for coming in tonight."
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Thanks, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Jonathan Turley in Washington. All right, live look now at the hospital in Miami, where any minute we do expect to get an update on this awful, really unbelievable tragedy today. You can see on the right-hand side of your screen, where the pedestrian walkway, literally, collapse on top of eight cars in the middle of the afternoon. We'll be right back."
+    },
+    {
+      "speaker": "JOHN KELLY, WHITE HOUSE CHIEF OF STAFF",
+      "utterance": "They have morphed and they're coming. They're not like defeated. They're just like morphing into something different. And they still have that one particular lust in life and that is to come here and do as much damage as they can."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "White House chief of staff, General John Kelly, warning that ISIS has not gone away, that they are morphing into other offshoots as new reports surfaced of another organization called White Flag in Iraq. Early intel is scarce on this group, but the group is raising concerns over their ideology leading some to wonder if it could be a type of ISIS successor. Here now to tell us what there is to know at this point is General Jack Keane, chairman of the Institute for the Study of War and Fox News senior strategic analyst. General, good to see you tonight."
+    },
+    {
+      "speaker": "JACK KEANE, FOX NEWS SENIOR STRATEGIC",
+      "utterance": "Good to see you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Lots to talk about, but first off, your thoughts on this group."
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "Well, they are a new organization. They have jihadist ideology. So they're just like all the other radical fundamentalists organization out there, Al-Qaeda, ISIS. They have former ISIS members in it, and also, surprisingly, some Kurds. But right now, they haven't really begun a terrorist attack campaign. So, they -- it's possible that there're more political than jihadists. It remains to be seen. But from our own understanding, while we have done a very good job at taking ISIS territory away from them in Syria and in Iraq, as General Kelly was pointing out, this organization is still very much alive. It is not defeated. Even in Iraq alone, there're several thousand ISIS fighters still there. They're mostly Iraqis. The foreigners are either been killed or they've gone home to Europe, Southeast Asia, Africa, and other places. ISIS is now a worldwide organization because it became an iconic organization, so they have spread around the world and they're very"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Here's Michael McCaul talking about just that and saying that they still have their -- some of the times, Al-Qaeda as well on attacks on the homeland and on aviation. Listen to this."
+    },
+    {
+      "speaker": "MICHAEL MCCAUL, U.S. CONGRESSMAN",
+      "utterance": "The crown jewel is aviation and they're still seeking to blow up airplanes, even though they may not be able to hijack them. That threat is very real."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You agree with that, general?"
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "Yeah. That's absolutely true, particularly, Al Qaeda. The Al Qaeda organization on the Arabian Peninsula operates in Yemen, you know, they have been working on plastic bombs for some time. Aviation, they see as a major strategic weapon. I think they'll always be offshoots of the radical Islamists who will want to attack Europe and attack the United States, particularly the United States as its number one strategic target."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah."
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "That's why we've got to have our tenor up in terms of what they're really doing."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I mean, you go back to their original bombing of the World Trade Center and the bombing at the embassies. They take several years off sometimes while they're planning, but their mission does not change and their goals don't change. I'd like you to listen to this, general. This is General Mike Scaparrotti of the European command talking about Russian submarines."
+    },
+    {
+      "speaker": "MIKE SCAPARROTTI, EUROPEAN COMMAND",
+      "utterance": "Russia is carrying out a campaign of destabilization to change the international order, fracturing NATO, and undermine U.S. leadership around the world. At sea, on land, and in the air, Russia increasingly -- Russia's increasingly modernized military is operating at levels not seen since the cold war."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Very strong words from the European commander. Do you think that the White House -- as the White House is criticized for not taking the threat from Russia seriously enough?"
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "No, I think the Trump administration is very clear when it comes to Russia. As a matter of fact, that general there is going to bring the heat tomorrow on Russia in a classified briefing. But the reality is simply this -- and here's where the Trump team deserves credit -- in their national security strategy, they have identified this era of big power competition and we're returning to it as we were in the cold war. Suddenly, Russia is not on the scale of the Soviet Union. But here's what they are, they're very ambitious. They want to be a world power. They're increasing in their capability. And they are aggressive and dangerous, and we have got to have the stomach and spine to confront them. I believe this administration does have that. It's going to increase our military budget as something. I know for a fact that it's got the Russian's attention because they see that similar to the Reagan buildup and what happened as a result of the Reagan buildup, the Soviet Union collapsed. That was one of the -- one of the factors in it, not certainly the only factor. But yes, our determination here -- particularly, our will, Martha, is how you need to deal with the Russians, with the Chinese, and with the Iranians. It takes political and moral will to stand up and confront powers and not -- don't fear the alternative. Don't fear escalation that could lead to something terrible. If that's -- if that's what drives you, then you're like the Obama administration, you've got your hands tied all the time, and your adversary are taking advantage of you and your allies. I believe this team is moving in the right direction."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. I want to ask you one other thing, these reports that North Korea has spent seven years building an underground military base in Syria. It's one report. Do you think it has any credence?"
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "It's only one report. I asked the Institute for the Study of War to take a look at it today. And their conclusion, as relayed to me, is that, you know, it's very possible. Because when they analyzed it, the location is in a mountainous area, which would be ideal to build an underground facility. What the Assad regime was so concerned about is U.S. airpower, and particularly, Israeli airpower, because when the Israeli see something forming like a chemical site or a missile base, the Israelis attack it. They just took one down in September of 2017. And so, an underground facility makes sense. North Koreans are absolute bonafide expert on that. They've done most of their artillery built into mountains. All their nuclear sites are underground, so they clearly know how to do that. Plus, they're helping them rather significantly with chemical weapons."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "We'll see where it goes. General, thank you so much. Good to see you tonight, sir."
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "Yeah. Good talking to you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You too. OK. Let's take a live look at Miami, where at any moment, we are about to get an update from Florida's governor, local officials. I believe Senator Rubio is also expected to be there. We're going to take you there live as soon as that happens. And the Me Too Campaign has certainly given courage to many who have alleged abuse. But now a former figure skater is, again, leveling charges against his old skating -- figure skating coach more than 20 years after the first attempt. Craig Maurizi is here to tell us his story, next."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So let's go live to Miami for a moment. Phil Keating is standing by with the latest on the deadly pedestrian bridge collapsed today. Phil, what can you tell us now?"
+    },
+    {
+      "speaker": "PHIL KEATING, FOX NEWS CORRESPONDENT",
+      "utterance": "Martha, officially, it's still a continuous search and rescue operation, hoping to find any survivors still alive either they were pedestrians or they were passenger or driver of one of the eight vehicles crushed by this still very new and under construction pedestrian bridge just recently installed Saturday, spanning a very busy artery here in Southwest Miami-Dade. This is Southwest 8th street, eight lanes of traffic. It's on the border between the town of Sweetwater as well as the campus of Florida International University, and this was to allow students and others to freely access going back and forth without having to dodge eight lanes of traffic. Over there, about 50 yards away, Governor Rick Scott just now seen approaching the media there. He flew down from Tallahassee to see the wreckage and the rubble in person. He's been over there. You can see his cars. And he's about to speak shortly here, just let me know when he appears to get in front of the microphones. But 10 people have been treated and are being treated at the nearby Kendall Regional Hospital. Two of them are in critical condition. According to police officers from Sweetwater who were within two or three blocks when suddenly the loud explosion of a million pounds of concrete crashed down on the southwest 8th street. They rushed over to the scene, they found, at least, four, maybe six, construction workers who were lying on the rubble dazed, cut, bleeding. One wasn't breathing. They had to use chest compressions for him. There was also another guy we talked to who said his childhood friend was simply crossing the street as a pedestrian when this happened. And, of course, all lanes of traffic have been open since they installed this bridge on Saturday. It was still under construction, not yet complete, not open to pedestrians. That was supposed to happen later this year in December, but it was built by FIGG Engineering, which has a 40-year history, according to the company of something like this never ever happened before. They say they are stunned that this bridge-span collapse. It spans from the south, FIU campus, to the north, the town of Sweetwater. And by all the reports, the center support tower was still to be constructed. So, exactly, what was the integral design of this bridge, whether there were very long, 170-foot very strong steel beams that were providing support from south tower to north tower or whether it was a hundred percent pure concrete, which is more unlikely, but it was supposed to be a state-of-the-art design as a pedestrian bridge. It was supposed to be iconic as is the Skyway Bridge south of Tampa Saint Pete. And then, today, absolute catastrophe, and you have a serious design, integrity, and engineering feat being now investigated as to what exactly caused this bridge to collapse. Fortunately, Florida International University on spring break this week, there could have been and there would have been many, many more people, students walking to and fro to campus and off campus at the time of day when this happened, which is right before 2:00 PM Eastern Time, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. Phil, I keep going back to the detail that you mentioned, and it was that the central structure of this bridge is still to be added, is that correct? So it is part of the plan to have a central structure but it's not there or this was a bridge that was supposed to be sort of a suspension?"
+    },
+    {
+      "speaker": "KEATING",
+      "utterance": "Yeah, still waiting to get back, officially, from FIGG Engineering on that particular question. But several observers, engineering professors, one out of California, saying this is a bit risky to have this span over active eight lanes of traffic while they still build that center support tower. But, you know, you see all the skywalks in Seattle, and Minnesota, Minneapolis, and Spokane, Washington, there are no support beams in the center -- support towers in the center of those skywalks. So they are anchored quite well on the two ends of those structures, and the bridges, and the walkways, whether this was going to be exactly like that or it was actually to long for that kind of design, they were going to build the center tower later, again, one of the many unanswered questions at this hour."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. And we're still waiting to hear, Phil, an update on the condition and the fatalities today, right?"
+    },
+    {
+      "speaker": "KEATING",
+      "utterance": "Yeah. Still no official count on fatalities, it was reported there were several, if not multiple. We knew eight cars remained crushed underneath the bridge, which is behind me. The north half of the bridge spanning the westbound lane, that's all on the street, pancakes, crushed, just destroyed. The other remaining half of the bridge you can see in the sunlight backlighting this, you can see the big beams going down about 30 or 45 degrees at an angle above the street. That's the southern half of this pedestrian walkway bridge and that's precarious. They're still trying to assess how close they can get to that, if it's safe to even get underneath that as they continue to use dogs and dozens and dozens of firefighters searching for any survivors that may still be in those cars or under the rubble."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Awful. Phil, standby, we're few minutes away we understand from this news conference. So, we're going to turn our attention to our other story here and our guest tonight. Nearly 20-years ago, a figure skater by the name of Craig Maurizi accused one of the sport's most well-known coaches, Richard Callahan, of sexual abuse. Callahan a world-class coach trained the likes of Todd Eldridge, Terry Lipinski, denied the charges. And Maurizi said U.S. Figure Skating never investigated his claims, in what he calls a deliberate cover-up. Now, in the wake of all of these stories and the Me Too Movement, Craig is fighting to have Coach Callahan removed from the sport once and for all. He is still coaching. Filing a complaint with the U.S. Center for SafeSport and the U.S. Olympic Committee misconduct watchdog, and now Callahan is indefinitely suspended. Here now the alleged victim, former figure skater, Craig Maurizi. Craig, good to see you tonight. Obviously, we'll have to get back to Florida when that gets underway. But I do want to speak with you about this, because this is something that you have been harboring your whole life, and now you watch what's going on, and you want this man stopped."
+    },
+    {
+      "speaker": "CRAIG MAURIZI, FORMER FIGURE SKATER",
+      "utterance": "Exactly. Circumstance actually helped get me to file again. When the Larry Nasser situation was unfolding, an investigative reporter called me and asked if I will tell my story. After I thought for a while about the correct path, and I spoke with both organizations -- spoke with U.S. Figure Skating, they urged me to file what's called a SafeSport report, and that's what got the ball starting again."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What's the nature of the kind of thing that this man was doing?"
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "Without getting too graphic, it was different forms of sex acts."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. So you believe -- do you believe you were his only victim?"
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "No, I wasn't, for sure."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "He was approached by a reporter recently, and he said it was 20 years ago. Get out of my face, essentially, that was a long time ago. What do you say to that?"
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "Well, I have a life sentence. And for me, I'm still dealing with it today and I'm going to deal with for the rest of my life. I've come to terms with the fact that I am who I am as a result of this. So, for me, it's still very new."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "In terms of what happened back then, did you try to reach out, did you try to cry out to anybody at that point?"
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "I definitely did. I filed a grievance with the U.S. Figure Skating and with the second organization called the Professional Skaters Association."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What was their response?"
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "The U.S. Figure Skating would not see -- had in their by laws that if a crime or an allege crime occurred more than 60 days past when I filed a grievance that they wouldn't even see it. So they never even took my grievance."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Incredible. So you've got 60 days to talk about this."
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "Yeah, I was about 14-years --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "How long was the span of time that this was going on for?"
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "Started when I was 13 into my early 20s."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And in terms of -- so this is -- I would imagine a sort of manipulative power kind of set up where he felt you really couldn't do anything about it."
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "That's correct. It was -- he made himself indispensable to me, is the best way to put it. He monitored and guided me in all aspects of my life, what to think, what to say, how to act."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So it was brainwashing."
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "Brainwashing for sure."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And did you feel that if you pushed too hard against him or if you called him out on it that your career as a skater would be done?"
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "I did feel that at the time. Not just with him, but with the organization as a whole. This is how I make my living. I didn't want to disrupt that."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Craig, thank you. We're following a lot of these stories, especially in athletics. And we thank you for sharing your story tonight. Good luck to you."
+    },
+    {
+      "speaker": "MAURIZI",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Back to Miami now where we see that they are assembling to get started with this news conference. Let's listen in."
+    },
+    {
+      "speaker": "MAURICE KEMP, MIAMI-DADE DEPUTY MAYOR",
+      "utterance": "Good evening. My name is Maurice Kemp, deputy mayor of Miami-Dade County. And on behalf of the mayor, Carlos Gimenez, and myself, I'd like to offer our sincere condolences to the victims of this tragedy and their families. Miami-Dade County and our partner agencies for the last six hours have been working feverishly in the search and rescue mode to ascertain how many victims there are and rescue as many as we can. We will continue in this mode until we are certain that there are no more viable victims. And at some point, we will transition into an investigation and recovery mode, but we're not there yet."
+    },
+    {
+      "speaker": "Copy",
+      "utterance": "Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

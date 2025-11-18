@@ -1,0 +1,1565 @@
+{
+  "date": "May 17, 2020",
+  "headline": "Economist Mohamed El-Erian on the prospects of an economic rebound from COVID-19 crisis",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/economist-mohamed-el-erian-on-the-prospects-of-an-economic-rebound-from-covid-19-crisis",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "sentences": "I'm Chris Wallace. President Trump unveils a new push to find a vaccine, as the number of deaths from coronavirus in this country tops 88,000. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "A massive scientific, industrial and logistical endeavor unlike anything our country has seen since the Manhattan Project. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Meanwhile, as the country continues to reopen, the Centers for Disease Control issue new guidelines for restaurants, schools, and businesses. We'll ask Dr. Tom Frieden, former director of the CDC, about the latest in the public health crisis, only on \"FOX News Sunday.\" if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); } Then, more than 36 million Americans filed for unemployment. When will the economy bounce back? We'll talk with Mohamed El-Erian, one of the world's most respected investors. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } Plus -- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I don't consider our country coming back if the schools are closed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Trump says opening schools is key to opening the country. We're joined by Colorado Governor Jared Polis to discuss getting kids back to school and their parents back to work. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); } The president calls it Obamagate, an alleged plot by Barack Obama and Joe Biden to wreck his presidency before it even started. We'll ask our Sunday panel how big a role it will play in the 2020 campaign. And -- revving up for the return of live sports. Our power player of the week, seven-time NASCAR champion Jimmie Johnson on getting back to racing. All, right now, on \"FOX News Sunday\". if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And hello again from FOX News in Washington. After almost two months of lockdown, the U.S. is slowly coming out of the worst of the COVID-19 pandemic. The nation now tops more than 1.4 million cases of the coronavirus, but some 48 states have at least partially reopened for business and recreation. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); } And President Trump has launched Operation Warp Speed, to find and distribute a vaccine by years end. In a moment, we'll speak with former CDC director, Dr. Tom Frieden, about where we are in dealing with the virus. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); } But first, let's bring in David Spunt, with the latest on the reopenings around the country -- David. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAVID SPUNT, FOX NEWS CORRESPONDENT",
+      "sentences": "Chris, good morning. President Trump is at Camp David this weekend. On the agenda, vaccine development. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } But any sustainable vaccine is months away and many Americans are tired of waiting. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "The sun is out and so are thousands of restless Americans hoping for a sense of normalcy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I don't want to go home, and I want to be out in the sun all day. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "Beaches and boardwalks on both sides of the country slowly reopening. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } In New Jersey and Maryland, families flocked to the water greeted by social distancing signs. The crowds are a welcome sight to small business owners in the red since February.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We've been closed for probably the last, what, two and a half months. So, extensively, yes, we got hurt. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "In New York, Governor Andrew Cuomo announced beaches will open next weekend for Memorial Day, but crowds headed to the beach anyway ignoring the social distancing guidelines.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Thank you very much. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "On Friday, in the Rose Garden, President Trump launched Operation Warp Speed, a plan to develop a sustainable coronavirus vaccine in record time. The operation brings together the private sector, military and the Department of Health and Human Services. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); } The timeline is ambitious -- the White House hoping to have 100 million doses by fall and triple that number by January.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Nobody has seen anything like we're doing now within our country since the Second World War. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "So, Americans would have access to a vaccine even if it's developed first by China. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); } Chris, this comes just days after the Department of Homeland Security and FBI warned that China is actively hacking United States vaccine research -- Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "David Spunt, reporting from the White House -- David, thank you. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); } Joining us now, former CDC director, Dr. Tom Frieden. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } Doctor, where are we with this virus now? Are we past the peak? And your predecessor in the job, the current CDC director, Dr. Robert Redfield, tweeted this on Friday: Based on 12 different forecasting models, we will see deaths exceeding 100,000 by June 1. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); } That's just two weeks from now. What do you think? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. TOM FRIEDEN, FORMER CDC DIRECTOR",
+      "sentences": "Well, I said the same thing about two weeks ago in my testimony in Congress. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); } Tragically, this is a really bad virus, and we are just at the beginning. We're in different places in different parts of the country. In New York City, where I am today and where I live, we are at the end of the beginning. In some other places of the country, it hasn't yet hit in full force. The bottom line, Chris, is that the safer we start, the sooner we can reopen our economy. We start safer, we reopen sooner.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You say we're just at the beginning, but people are already talking about a second wave either next fall or next winter. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); } Dr. Rick Bright, who was one of the administration's top experts on vaccines who has been moved out of that job and is now a whistle-blower, he testified about the second wave this week. Take a look. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. RICK BRIGHT, FORMER TOP VACCINE OFFICIAL",
+      "sentences": "There'll be likely a resurgence of COVID-19 this fall. It will be greatly compounded by the challenges of seasonal influenza. Without better planning, 2020 could be the darkest winter in modern history. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Dr. Frieden, is Rick Bright correct? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRIEDEN",
+      "sentences": "No one can predict with certainty what's going to happen with this virus. It's a new virus. We think it may spread a little bit less in warmer weather, that could help us, but I think it's not right to think of a second wave. Unfortunately, we're likely to see multiple waves in different parts of the country. We know that this can spread explosively if it gets out of control. That's why we have to be so careful. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } We're all tired of waiting at home. We want to get out. I want to get back to the gym. We want to get back to our lives. We want to get our economy back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); } But at the same time, if we go too fast, it will backfire and we can see explosive spread that could bring us back in. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); } Fundamentally, it's not just a lockdown that are keeping us at home, it's the virus. The virus is the enemy here. And, you know, Chris, Yogi Berra said, if people don't want to go to the ballpark, how are you going to stop them? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); } If people aren't feeling safe going out, they are not going to go to dine, to eat, to shop and do other things. That's why it's so important that to get our economy back soon, we start safe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, you say start safe. As we just said, 48 states have reopened to some degree, some businesses, some parks and beaches. Do you think we're moving too soon to reopen?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRIEDEN",
+      "sentences": "Out-of-doors is great. There's very, very low risk of spread out- of-doors. So by all means, go out, take a walk, bicycle, enjoy nature. It's good for you. It's good for your health. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } And there are some businesses that are essential and there's some business that can start with minimal risk. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } There were other things that are going to be harder to do without -- without a lot of safety measures. So, we're going to see not shaking hands for a while. We're going to see using hand sanitizer a lot. We're going to see face masks where it's spreading widely, where you're within six feet to someone, especially if you're indoors. There are things that we can do so that we can start this safer. It doesn't mean you have to stay home forever. It does mean we have to be careful, because if you get the virus, it's not just about you getting sick. You could, without feeling sick, spread it to your neighbor's kid who has leukemia, and they could get deathly ill. We're all in this together. We're fighting a virus that is a really difficult enemy to fight, and it's still out there. It's going to be there. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); } The more we're safe from this virus, actually, the more we'll be safe from flu as well. Those things we do to physically distance, those are going to cut down our flu level as well. And if everybody gets the flu vaccine this fall, that will be helpful, too. Just keep in mind -- this is a lot worse than the flu. This is ten times deadlier. It spreads much more readily. It's more likely to kill you, and we don't have any immunity naturally, and we don't yet have a vaccine.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, I want to pick up on this question of where we are in the virus and the question of reopening because we've heard two very different arguments this week from President Trump and from Dr. Anthony Fauci. Here they are. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); } DR. ANTHONY FAUCI, NATIONAL INSTITUTE OF ALLERGY & INFECTIOUS DISEASES:  There is a real risk that you will trigger an outbreak that you may not be able to control.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Look, he wants to play all sides of the equation. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to point to a specific state because there was a lot of criticism when Georgia and its governor, Brian Kemp, reopened a few weeks ago, and they reopen salons and gyms. Even got criticism from President Trump that it was moving too fast. But we have not seen the kind of spike that was widely feared with that reopening in Georgia, which raises the question -- are some public health experts, I'll include you in that, are you being too alarmist about this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRIEDEN",
+      "sentences": "I don't think you can be too alarmist about what this virus can do. Look at New York City over the past two months, more than 20,000 deaths from this virus. It's really been catastrophic. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); } But it is important to recognize that there are things we can do to go out more safely, and I have friends in Georgia still and they described to me physical distancing in shops, people being very careful, that's important. Also, keep in mind, the virus mutates. It changes. It evolves. But fundamentally, when it begins the spread again, you won't see that for a few weeks because it takes about a week to get sick and another week to get very sick, and then you make other people sick. So once there is the resumption of spread, you might not see that for a month or two. There's a lag here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "On Friday as we reported, President Trump announced Operation Warp Speed, an effort to marshal the government, private companies, the military to develop a vaccine and 200 million doses by the end of this year. How realistic is that? Two hundred million doses of a proved, safe vaccine by the end of the year?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRIEDEN",
+      "sentences": "Well, it is absolutely the right thing to do to pull out all the stops to try to make a safe and effective vaccine. And we all hope it will be available as soon as possible. Just keep in mind, vaccine is complicated. You have to prove it safe, you have to prove it's effective, you have to make huge quantities. You have to figure out the doses, of one dose or two, how much of it. You have to figure out who gets it first. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } Health care workers would be first in line. And you got have to get it out there and explain to people what it is, monitor to see if there are adverse reactions. So, absolutely, a vaccine is the single most important weapon we could develop against this virus, but we don't have one yet. We hope we will. We hope it will be soon, but we cannot count on it. That's why we need to get used to the fact that the virus is here for a while. We're going to change what we do so that we can restart our economy and our society as soon and safely as possible.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, I want to pick up on that because the president said while he's pushing for a vaccine, the country is coming back regardless. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "You know, it's not solely vaccine-based. Other things have never had a vaccine, and they go away. I just want to make something clear -- it's very important -- vaccine or no vaccine, we're back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Can COVID-19 just to go away as the president said? And how back to normal -- back to normal, I understand we can reopen some, but how back to normal can we get without a vaccine?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRIEDEN",
+      "sentences": "It's unlikely that the vac -- that the virus would simply disappear. That would be unusual based on what we've seen in 200 countries around the world. But we don't know how it will behave over the summer. We don't know how long it will persist and what will happen with it. No one can predict with certainty. But one thing that is highly likely is that we will be coming to a new normal. Things will be different. We won't be shaking hands for a while. We'll be using lots of hand sanitizer. We'll be safe whenever we can be. Our health care system needs to get a lot safer, not just for COVID, but for other infections as well. We'll be traveling less. We're going to see challenges with different countries not letting people in or having quarantines. And we're likely to continue to have outbreaks in places like nursing homes which are, as I said, more than two months ago, ground zero for this. We are going to see, unfortunately, thousands of deaths. But we can save a lot of lives if we focus on being in this together. There is only one enemy here, Chris, it's the virus. We're all in it together. And the more we're safe, the more we work together. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } It's not about economy versus health. If people are poor, they're less likely to be healthy. And unless we control the virus, we're not going to get our economy back. So, we're in it together against the virus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Dr. Frieden -- Dr. Frieden, I've got about a minute left and I've got a final question. As far back as I can remember, the CDC has always been the lead agency in health crisis like this. I remember when you were there and there were various pandemics, Ebola, things like that, I would be talking to you as the lead person for the CDC and the lead person for the administration. This time, it seems like the CDC has been sidelined to some degree. They have not had a public briefing and more than two months. One, do you agree that the CDC, that its role has been diminished? And do you think that is reasonable or do you think that's a mistake?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRIEDEN",
+      "sentences": "I will personally feel safer when CDC is speaking regularly to the American people. They are the world's experts in this. No other doctor, no other agency in the U.S. government has the depth and breath of expertise of CDC. They continue to do great work and, in fact, Americans are voting with their clicks. They have been more than 1.2 billion clicks on the CDC website, and it's still the best place to go for objective information, advice, recommendations on how to protect yourself, your family, your community. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRIEDEN",
+      "sentences": "So, I hope we'll be hearing more from the CDC.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So, very briefly -- so briefly, do you think it's been a mistake for this administration to sideline the CDC?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRIEDEN",
+      "sentences": "I think fighting this pandemic without the CDC is like fighting with one arm tied behind your back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "That's brief and direct. Dr. Frieden, thank you. Thanks for your time. Always good to talk with you, sir, and please stay safe. Up next, the economy has taken a hit not seen since the Great Depression, with another 3 million Americans filing for unemployment just this week. Top investor Mohamed El-Erian joins us to discuss the prospects for an economic comeback. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Mohamed El-Erian is an influential voice in the financial world. He led PIMCO for years running the world's largest bond fund. Now, he is the chief economic advisor at Allianz. And he says the economy could look very different as we emerged from the pandemic. I sat down with him on Friday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Mr. El-Erian, new unemployment numbers came in this week, just under 3 million, and White House economic adviser Kevin Hassett said, while that is a tough number, it's an indication that the economy is starting to come back. Here he is. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEVIN HASSETT, WHITE HOUSE ECONOMIC ADVISER",
+      "sentences": "I think the fact that we came in under 3 million suggest that the turning on of the economy is beginning and it's beginning to show up with the data. So what we expect now is that claims will continue to decline as the economy turns back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Do you see the jobs picture getting brighter right now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MOHAMED EL-ERIAN, ALLIANZ CHIEF ECONOMIC ADVISER",
+      "sentences": "So, it will get brighter in the sense it will get back at a slower rate, but we should not forget how bad this picture is. With the additional 3 million, Chris, that is 36 million people have signed up on jobless claims for -- in eight weeks. That's one quarter of our labor force. So it's an enormous shock.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So the consistent forecast from the White House is of a sharp, steep, quick downturn to be followed in a V-shaped by a sharp, quick rebound. Here is President Trump on that this week. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We're going to do well in the fourth quarter and I think next year, with all of the stimulus, all of the things we've done, I think we're going to have one of the best economic years we've ever had.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Do you see a V-shaped recovery as the White House is predicting that the economy is going to come back as quickly and as sharply as it went down?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "sentences": "I sure hope so, but I think it's uncertain, and it's uncertain because both the journey to next year and what next year looks like are uncertain. So, rather than think of letters, think of a pendulum, Chris. We were operating in a normal world, as you and I define it, we then swung all the way on the other side to a lockdown, and now, we're going to swing back and forth trying to find where the new equilibrium is. So, it's going to be a neat V, it's going to be more like a series of Ws, if you like. But think of a pendulum swinging, and we don't know the magnitude of the swings, and we don't know the duration of the swing or the settling point. So it really is an uncertain outlook.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to pick up on that because you say people are being naive about how easy and quick it is going to be to reopen the economy that we have to deal with health factors and economic factors and even behavioral factors. Explain what you mean both in terms of this country and globally in reopening the economy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "sentences": "So, this is the biggest shock we've had for generations and it raises three issues. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); } One is the main reason for the shock is health. And it's going to be a long time until you and I trust each other. It's what Eric Schmidt calls the information failure. It's very difficult for me to convince you I'm healthy and for you to convince me I'm healthy, until we get a vaccine. So the health issue doesn't get resolved overnight. Secondly, you have shaken consumer confidence. You have shaken behaviors. Our economy isn't wired for social distancing. So we're going to have to discover how to do that. And third, businesses. It's not clear how you restart a business when different states are doing different things and when different countries are going to do different things. So, we have these three massive uncertainties all in play at the same time, and it is very hard to say, oh, everything is going to be resolved overnight. We hope so. But I think we should buckle our seat belt that it's going to get bumpy still.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, there was another uncertainty and debate and that is over what to do in Washington next. Democrats want a $3 trillion, another huge stimulus bill, Republicans say let's take a pause and see how the money siphons through the economy that's been approved so far. And this week, you had Federal Reserve Chairman Jerome Powell say that this has been a real economic shock, and we do need more stimulus. Here he is on that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JEROME POWELL, FEDERAL RESERVE CHAIRMAN",
+      "sentences": "While the economic response has been both timely and appropriately large, it may not be the final chapter, given that the path ahead is both highly uncertain and subject to significant downside risks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Do you think we need more government stimulus? And if so, how much, and how quickly?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "sentences": "So, so far, Chris, we haven't had government stimulus. We've had government relief. And it's a good thing we have it and it's a good thing that Washington reacted, $5 trillion worth of reaction, because despite that, this week also gave us not just horrible unemployment number but the worst industrial output collapse in a century and the worst retail sale collapse on record. So, we are hurting and thank God that Washington has reacted on relief measures. What's important now is not to lose sight of the second phase. This is not just about winning the war against the global depression and a U.S. depression. This is about securing the peace, about making sure that we emerge from this also strong. So, the next stage has to also focus on key issues like infrastructure, labor retailing and a retooling, safety nets, things that are going to be critical if we are to bounce back in a sustainable manner, otherwise, we're going to get stuck in a new normal of really mediocre growth and greater social tensions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And then, there are the financial markets which I think surprised a lot of people by remaining surprisingly strong. In fact, the markets are up about 25 percent from their bottom in late March. You say that the financial markets are in one universe, and the real economy is in the different universe. What do you mean?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "sentences": "They're looking at different things. So you and I in a real economy are wondering, when do we get to go back to work? When are the stores open again? We feel very big disruptions of our everyday life. The markets are saying, look, that's fine but that's all short-term. We look to the long term. And when they look to the long term, they see a win- win hypothesis. I think they are too optimistic but let me explain what they see. First, they bet that we're going to come back quickly, the V. And if we come back quickly, then looking through, which is the phrase you hear the most, this awful period is the right thing to do. But they have a second win, Chris. If we get that wrong, it doesn't matter because the Federal Reserve is buying assets and is buying assets that we never imagined it would buy. So, there is this sense of comfort that you get to win whatever the outlook. I think, Chris, that it's too optimistic, but markets do what they do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, I was going to ask you, do you think the markets -- as one of the great investors, do you think the markets are going to say, stay as strong as they are right now, or do you think at some point, the two universes are going to collide and reality will intrude?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "sentences": "So, most of us who think fundamentals are important, that ultimately you are betting on company's profitability and you're vetting on the liability of a system are cautious here. And we had several warnings from really respected investors. But I also understand those who say that's fine, but you are dinosaurs, we are betting on something different. We are betting on the Federal Reserve. And if you have a printing press in the basement, then you're going to have a massive influence on the markets. I personally think it's easier to make a relative call between different companies. I get nervous betting on the overall level of the market right here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Mohamed El-Erian, thank you so much. It is always fascinating to talk to you and to get a little dose of reality. Thanks so much, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "sentences": "Thank you, Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Coming up, how to make up for lost months in the classroom while still saying safe. And how the coronavirus has highlighted the importance of child care to the economy. We'll ask Colorado Governor Jared Polis about his plan to reopen schools in the fall. That's next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Coming up, Governor Jared Polis on his push to get Colorado back to work.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. JARED POLIS (D), COLORADO",
+      "sentences": "Offices, manufacturing, salons, pretty much all people are back at -- in a safer way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll ask him about the link between reopening the economy and reopening schools. That's next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Colorado's Jared Polis was one of the first governors to shut down his state but also among the first to reopen. Before serving as governor, he founded schools for at-risk students and served as chair of the state board of education. And Governor Polis joins us now from Denver. Governor, you said a week ago Friday that you expect schools in your state to reopen in-class education this fall. Why are you so confident about that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLIS",
+      "sentences": "I'm really confident that it's a critical part of our society, and schools need to function; they are going to function. It's also going to be somewhat of a hybrid environment, meaning there might be times during the year, if there's an outbreak at a school, that it has to convert to online for a period of weeks until it's reasonably safe to return to school. But, by and large, I think, across our state and across our nation, kids are going to be able to return to school in the fall. It's just not going to look like any other school year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to pick up on that because you say that -- that school, even if -- you know, without the question of having to go back online if there were an outbreak, is going to look different, that the lunch may look different, that going from one class to another in the hallway will look different, that there might be staggered start times?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLIS",
+      "sentences": "Those are exactly some of the things that are being looked at. So we call it \"passing time,\" when all the kids are in the hallway, lunchtime.  The districts are working with our state, I know, and across the country, on schedules that have less interactions, that can slow the spread when there's an inevitable outbreak. It's also likely, Chris -- and this isn't a bad thing; it's a fine thing -- you know, maybe 10 percent, 20 percent of parents aren't going to want their kids to return to school in the fall. They're going to want to continue online. That actually is fine, as long as those parents are there with those kids; they don't -- they don't have to leave to go to work. In addition, it means there can be less crowding at the schools because of those individual choices that some parents make to continue with online until it's even safer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "As we said, you have quite a resume in education even before you became governor. How seriously do you think students will be set back in their education by the fact that, at the very least, they're going to have been out of the classroom from March until August and in some places conceivably longer than that? How much do you think that sets them back in basic math and reading skills?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLIS",
+      "sentences": "There's really no excuses in the business of education. I made that very clear to our superintendents. I hope other governors across the nation are doing that. We've moved to online. Kids can learn as well or better online. In fact, there's been a few percent of kids in online schools before this crisis. Now, you need that social side, right, and it's a little bit harder to get that social side in an online setting. But academically, there are no excuses for every kid not to be ready to accomplish their grade-level work, and we can do that online; we can do that in schools; and we can do it through a hybrid, which is what's likely to occur this year, as while generally schools are open, there might need to be periodic, regional, or site-based closures.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You've allowed day care operators, licensed day care operators, to stay open during this whole period, with some tighter restrictions. But how much harder do you think having kids at home has made it for parents who work but have to take care of their kids at home? I guess what I'm asking is, to what degree do you see a link between reopening schools and reopening the economy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLIS",
+      "sentences": "Yeah, there's a -- a critical link. In Colorado, it's about almost a quarter of our work force that has kids, relies on the schools. It's similar elsewhere. You know, not everybody has the luxury of having a two-parent household where one parent can stay home. There's many single parents and there's many parent -- families where both parents work. And so you need -- that's why we've had day care going throughout this entire piece. We've actually learned a lot from that day care experience that will translate into a safer school experience. You know, schools are reasonably safe places to be, Chris, and -- and we always have issues, and there's always challenges. We had a school district in western Colorado that had to close for a week because of norovirus about six months ago. That was what created vomiting and intense stomach disease, and they had to close for about a week to clean that out of their schools. So schools are no stranger to this sort of thing. It's just going to be a bit more prevalent this year. And schools are really working hard on making sure their teachers are set up for success in the online environment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to pick up on that because Dr. Fauci this week, in a congressional hearing, said we can't be cavalier about kids' health in this pandemic, with the coronavirus. He said, one, they can catch it; two, they can spread it and give it to other people; and now we're hearing very alarming stories, not widespread but still out there, of some kids coming, apparently from the coronavirus, to this inflammatory syndrome, which raises the question again, can they be safe going back -- you know, and it's than the norovirus. Can they be safe going back to school in the midst of this pandemic?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLIS",
+      "sentences": "You know, all -- all the medical experts that we've consulted with say the concern is less about the kids. This is, no question, from an epidemiological perspective, a less severe, significantly, almost infinitesimal, fatality rate for kids. But the thing is, kids live with parents; kids live with grandparents; kids are around teachers. So that's where it gets a little bit more complicated, Chris. You know, it's -- is it a risk for kids? Nothing is risk-free. But kids encounter all sorts of germs in school. This one has a more minor manifestation for 12-year-olds, 14-year- olds and eight-year-olds, although, you know, it's not without any risk. But the real risk is parents, grandparents and teachers who are, of course, around their kids all the time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I've got two more questions; I want to squeeze them both in. You met with President Trump this past week. He spoke highly of the job that you're doing. You spoke highly of the job that he is doing. I wonder, did you get any pushback from some of your fellow Democratic governors, maybe people in the Biden campaign, that perhaps it's not too helpful to be praising President Trump just months before the presidential election?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLIS",
+      "sentences": "Well, look, I happen to be a Democrat, but what I've said is he's the president we have. And I owe it to the people of my state who elected me to work with any president to really make sure that we can save lives, get our economy going in our state. We're proud to be getting our economy going in a safe -- reasonably safe way. Stores have been open for a couple weeks now in most areas of our state. We're doing this thoughtfully. We're doing this carefully. We value our partnership with the federal government. There's a time for election. There's a time for politics. This isn't it. It's a time for managing -- managing the crisis together. And I'm doing my best to get it done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Finally, your state just changed the way that you count COVID deaths. And as a result, you lowered the total in Colorado from about 1,100 to 878. One, why did you change that process of how you count them, the criteria for that? And, two, do you think the number of deaths should be a political issue, as it seems to be becoming?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLIS",
+      "sentences": "No, in fact, one of the reasons that we wanted to make sure we reported it out in a better way is to inspire confidence so that it wouldn't be politicized, Chris. These are deaths that should not be politicized. The CDC criteria included anybody who has died with COVID-19. What the people of Colorado and the people of the country want to know is how many people died of COVID-19. In our state about 900 have died from COVID-19, on their death certificate, or from the attending physician. About 1,100 have died with it. Those 200 in the middle, it might have been a contributing factor, but it wasn't deemed the sole factor or the only factor in their death. I also want to point out, Chris, that of course there's likely cases that should be counted as COVID deaths that people have missed, doctors have missed. There's probably some of those as well. But the numbers are all fairly close, whether it's 900 or 1,100 in our state, you know, a few 100,000 across the world. We know that this can kill people of all ages; it's particularly dangerous for people in their 70s and 80s and those with pre-existing conditions. But it's a bad bug.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Governor Polis, thank you. Thanks for taking time out of your weekend to talk with us, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLIS",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Up next, we'll bring in our Sunday group to discuss President Trump's charge that Barack Obama and Joe Biden sought to take down his presidency.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRESIDENT DONALD J. TRUMP",
+      "sentences": "This was all Obama. This was all Biden. These people were corrupt. The whole thing was corrupt, and we caught them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FORMER VICE PRESIDENT JOSEPH R. BIDEN",
+      "sentences": "I thought you asked me whether or not I had anything to do with him being prosecuted.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "I'm sorry. I -- I was aware that there was -- that they asked for an investigation, but that's all I know about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Trump calls Obama -- \"Obamagate,\" rather, pushing that issue, and former vice president Joe Biden pushing back on one aspect of the alleged scandal, that he was part of an effort to target former Trump national security adviser General Michael Flynn. Time now for our Sunday group, GOP strategist Karl Rove, pollster and Fox News contributor Kristin Soltis Anderson, and Fox News political analyst Juan Williams. Karl, is Obamagate an effective campaign issue this year, do you think, the argument that -- that Barack Obama and Joe Biden broke the law to try to hurt his presidency, including going after former Trump national security adviser Michael Flynn?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Well, we don't know who broke the law, but somebody did. It is routine and legal for government officials to ask for a name and a confidential classified briefing to be, quote, \"unmasked.\" What is illegal is that somebody then leak that name. And unfortunately for Joe Biden, the fact is the name of Michael Flynn as a subject of an investigation was leaked on January 12th, the day that he had requested the unmasking of Flynn's name in a classified report. Now, is this going to be what the election's settled on? No, I don't think so. But it does stink. We had the leak -- the leaking of Michael Flynn's name. And we now know in the filing that the Department of Justice made with the judge, the investigation of Flynn was closed in December; the documents to close it were written up but they were not filed properly.  And in early January, Peter Strzok tells his lover Lisa Page, \"The incompetence of our department has saved us; I've gotten position from the seventh floor\" -- meaning James Comey, the director of the FBI -- \"to interview Flynn, because the paperwork wasn't properly filed.\" Comey meets with President Obama, tells him that they're going to be interviewing Flynn but doesn't give a heads-up to his boss, secretary -- A.G. Yates, and doesn't give the defensive briefing to the Trump campaign that normally happens when there's a counterintelligence. And it just goes on and on. And it stinks. Now, is it going to settle the election? No, I don't think so, but it does ask some very serious questions that need to be answered.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Kristen, let me pick up on the political impact of that. Do you see from your polling any sign that swing voters, not the Trump base, who we know is fascinated and outraged by this, but the swing voters want to relitigate the Russia investigation, including the targeting of General Flynn?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANDERSON",
+      "sentences": "It is unlikely that this is what swing voters are interested in relitigating. Recall, however, that when President Trump was facing impeachment, during a moment where there was clear airtime, where there really wasn't much else going on, save perhaps the Democratic primary, you didn't actually see numbers for President Trump moving that much one way or the other. If anything, he had a slight increase. But now you have 88,000 deaths; you have 36 million unemployed; you have this crisis hanging over everything, that is absolutely the number one thing that swing voters are looking for. How are you handling this crisis? Everything else is just noise.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Juan, I want you to weigh in on that. And I also want you to weigh in on another attack line that the president, President Trump is using against Joe Biden, that at age 77, he is not up to the job of becoming president. I want to play a clip from one of those events from the studio basement in Delaware, from Joe Biden's home there, in which he frankly mixed up the number of lives and jobs lost from this pandemic.  Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "We're in the middle of a pandemic that has cost us more than 85,000 jobs as of today, lives of millions of people -- millions of people -- millions of jobs.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Juan, don't you have to wonder how Joe Biden, after this long layoff, shut up -- shut in, in his basement in Delaware, how he's going to do once he gets back on the campaign trail, facing voters and also facing questions, lot of questions, from reporters?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, I think, first thing that -- let me just say, Chris, that with regard to the so-called Obamagate, there is no Obamagate. President Trump himself can't even say what President Trump -- I'm sorry -- what President Obama did that was wrong or criminal. And if any of us right here on this show lied to the FBI, twice plead guilty, we'd be in jail right now -- right now. So, I mean, I don't -- I just think this is a total effort, if you're thinking of it in strategic terms, to distract from the Trump administration's failed handling of the coronavirus crisis. With regard to age, I think that President Trump turns 74 next month. Joe Biden's 77. The only one of them that seems to prefer conspiracy theories and talking about putting disinfectant in your body is President Trump, not Joe Biden. And with regard to the campaign trail, we live in a moment when telework, Zoom conferences, have become the new normal. And so far, in terms of campaigning, fund-raising, giving interviews...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "... Joe Biden has been doing that from his basement. He's a good retail politician. I've seen him out on the stump. But I'm not sure that's the reality of how this campaign is going to go forward. We're not even sure about the conventions at this point.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right. I want to move on to another subject, and that was the Friday night announcement that President Trump is firing the State Department inspector general, a fellow named Steve Linick. He's the fourth independent watchdog the president has dismissed this year.  Linick was reportedly investigating Secretary of State Pompeo and his wife and the way they were using a government employee for personal chores or business. Karl, one, how did Bush 43 handle the inspectors general in his administration? And are you troubled that President Trump seems to be trying to clear the house of the I.G.s?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Well, I thought it was interesting in this case that we immediately had two members of the Democratic House leadership jump in and say they knew why he had been replaced and accused Secretary Pompeo of using a government employee for personal chores. Now, we haven't heard that from the inspector general. And if the inspector general had opened such an investigation, the new inspector general will be bound by law to continue that investigation. So it -- the president of the United States has the right to remove inspectors general, period. And if President Trump decided that he had no longer had confidence in the inspector general at State, he had a right to remove him. So I want to see this thing play out. But I thought it was a quick drive- by slander by the chairman of the House Foreign Relations Committee and others in the Democratic leadership, and as a result...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "... I'm suspect of the Democratic response. Let's see what this -- how this plays out and what the -- and if there was a reason, if the accusation has got any basis in truth.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Finally, there's a growing debate in Congress -- and maybe it's a sign that the pandemic is lifting a little, because we're seeing more politics -- a growing debate in Congress about passing another big relief bill. Republicans say let's wait and see how the trillions we've already passed go through the economy, but on Friday night, House Democrats passed another $3 trillion bill. Here is House speaker, Democrat Nancy Pelosi.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOUSE SPEAKER NANCY PELOSI (D-CALIF.)",
+      "sentences": "Now some of the members say, \"Let's take a pause.\" \"Let's take a pause?\" Do you think this virus is taking a pause?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Kristen, I've got less than a minute left. Which side do you think has the better argument politically -- politically, I'm talking about here -- Republicans who say let's wait a bit, maybe into June or further into the summer, or Democrats saying we've got to keep passing money and helping out Americans and businesses?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANDERSON",
+      "sentences": "Americans are -- are -- Americans are absolutely hurting right now, and I think that it's important for Congress to be taking action along this front. However, I do think that you've had these instances of Democrats, sort of, not making the number one issue the number one issue, trying to turn -- not let a crisis go to waste. And so as a result, I think Republicans are going to have a chance to come back and say, \"Look, if we're going to spend all this taxpayer money trying to help people, let's do it the right way.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, panel. Thank you. See you next Sunday. Up next, our power player of the week. For two months, fans have wanted to see them back in action. The driver of the 48 car, Jimmie Johnson, talks about NASCAR's return today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "NASCAR is back today, the first major live sporting event since the pandemic hit. There are no fans in the stands, but as the green flag waves, the 48 car is there, with our power player of the week behind the wheel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "I'm excited for our sport and the opportunity we have, and we look forward to setting a high standard this weekend. WALLACE (voice over): Seven-time champion Jimmie Johnson, on NASCAR's return after more than two months away.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANNOUNCER",
+      "sentences": "His car, number 48, the only number...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "I started racing at five years old on dirt bikes. And here I am almost 45 years old, 40 years later, racing. And to have off, you know, two months during prime racing weather and prime racing time is just completely uncommon to me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "The cars, the speed and the horsepower haven't changed, but there's one big difference. The stands will be empty.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "I think, as competitors will notice more arriving at the track, but once we get racing, our line of sight really is on the other cars.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Johnson has 83 career wins.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FORMER PRESIDENT GEORGE W. BUSH",
+      "sentences": "You're leaders on the track and leaders off the track.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "He's made several trips to the White House as the NASCAR Cup champion.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FORMER PRESIDENT BARACK OBAMA",
+      "sentences": "I'd like to welcome back the six-time NASCAR Sprint champion, Mr. Jimmie Johnson.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But this spring, he and other drivers have been stuck at home, entertaining fans with virtual races. I've got to be careful how I say this. You were not the best virtual racer. In fact, there were some crashes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Oh, lots of crashes. Yeah, I -- I am not going to pursue a career in virtual racing when this is done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Today Johnson and 35 other drivers hit South Carolina's legendary Darlington Raceway. With no qualifying runs, practice has also been virtual.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "You know, the simulators are really great from a visual aspect.  I would say it probably gets you 80 percent to 90 percent there. But that last little bit is what takes you from good to great.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "NASCAR took special precautions because of the coronavirus.  During preparations, teams wore masks and practiced social distancing. And they cut the number of people allowed on the pit crews.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "I won't have human interaction with my crew. They have us separated at track. I will see one individual before I get in the car, and that's the guy that's going to put up the window net on my race car before I pull off.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Before the shutdown, Johnson announced this would be his final year of full-time racing. He says the forced time off hasn't changed that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "It's been an amazing journey. It really is a team sport.  There's just been a lot of people that have played a role in that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "What do you hope to accomplish the rest of this year?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "I'm excited for our sport and our industry. You know, I hope to get back to the racetrack and perform at the highest level, get back to Victory Lane, make the playoffs and be the champion in my final season and really have my Peyton Manning moment and walk off on top.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So nothing special, just end the year as the champion?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Yeah, nothing special, just close out on top.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "If you want to see how Jimmie Johnson does his first time back, you can watch the race today on your local Fox station at 3:30 p.m. Eastern Time. And that's it for today. Have a great week, and we'll see you next \"Fox News Sunday\".\" Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "utterance": "I'm Chris Wallace. President Trump unveils a new push to find a vaccine, as the number of deaths from coronavirus in this country tops 88,000."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "A massive scientific, industrial and logistical endeavor unlike anything our country has seen since the Manhattan Project."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Meanwhile, as the country continues to reopen, the Centers for Disease Control issue new guidelines for restaurants, schools, and businesses. We'll ask Dr. Tom Frieden, former director of the CDC, about the latest in the public health crisis, only on \"FOX News Sunday.\" Then, more than 36 million Americans filed for unemployment. When will the economy bounce back? We'll talk with Mohamed El-Erian, one of the world's most respected investors. Plus --"
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I don't consider our country coming back if the schools are closed."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Trump says opening schools is key to opening the country. We're joined by Colorado Governor Jared Polis to discuss getting kids back to school and their parents back to work. The president calls it Obamagate, an alleged plot by Barack Obama and Joe Biden to wreck his presidency before it even started. We'll ask our Sunday panel how big a role it will play in the 2020 campaign. And -- revving up for the return of live sports. Our power player of the week, seven-time NASCAR champion Jimmie Johnson on getting back to racing. All, right now, on \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And hello again from FOX News in Washington. After almost two months of lockdown, the U.S. is slowly coming out of the worst of the COVID-19 pandemic. The nation now tops more than 1.4 million cases of the coronavirus, but some 48 states have at least partially reopened for business and recreation. And President Trump has launched Operation Warp Speed, to find and distribute a vaccine by years end. In a moment, we'll speak with former CDC director, Dr. Tom Frieden, about where we are in dealing with the virus. But first, let's bring in David Spunt, with the latest on the reopenings around the country -- David."
+    },
+    {
+      "speaker": "DAVID SPUNT, FOX NEWS CORRESPONDENT",
+      "utterance": "Chris, good morning. President Trump is at Camp David this weekend. On the agenda, vaccine development. But any sustainable vaccine is months away and many Americans are tired of waiting."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "The sun is out and so are thousands of restless Americans hoping for a sense of normalcy."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I don't want to go home, and I want to be out in the sun all day."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "Beaches and boardwalks on both sides of the country slowly reopening. In New Jersey and Maryland, families flocked to the water greeted by social distancing signs. The crowds are a welcome sight to small business owners in the red since February."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "We've been closed for probably the last, what, two and a half months. So, extensively, yes, we got hurt."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "In New York, Governor Andrew Cuomo announced beaches will open next weekend for Memorial Day, but crowds headed to the beach anyway ignoring the social distancing guidelines."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Thank you very much."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "On Friday, in the Rose Garden, President Trump launched Operation Warp Speed, a plan to develop a sustainable coronavirus vaccine in record time. The operation brings together the private sector, military and the Department of Health and Human Services. The timeline is ambitious -- the White House hoping to have 100 million doses by fall and triple that number by January."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Nobody has seen anything like we're doing now within our country since the Second World War."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "So, Americans would have access to a vaccine even if it's developed first by China. Chris, this comes just days after the Department of Homeland Security and FBI warned that China is actively hacking United States vaccine research -- Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "David Spunt, reporting from the White House -- David, thank you. Joining us now, former CDC director, Dr. Tom Frieden. Doctor, where are we with this virus now? Are we past the peak?"
+    },
+    {
+      "speaker": "And your predecessor in the job, the current CDC director, Dr. Robert Redfield, tweeted this on Friday",
+      "utterance": "Based on 12 different forecasting models, we will see deaths exceeding 100,000 by June 1. That's just two weeks from now. What do you think?"
+    },
+    {
+      "speaker": "DR. TOM FRIEDEN, FORMER CDC DIRECTOR",
+      "utterance": "Well, I said the same thing about two weeks ago in my testimony in Congress. Tragically, this is a really bad virus, and we are just at the beginning. We're in different places in different parts of the country. In New York City, where I am today and where I live, we are at the end of the beginning. In some other places of the country, it hasn't yet hit in full force. The bottom line, Chris, is that the safer we start, the sooner we can reopen our economy. We start safer, we reopen sooner."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You say we're just at the beginning, but people are already talking about a second wave either next fall or next winter. Dr. Rick Bright, who was one of the administration's top experts on vaccines who has been moved out of that job and is now a whistle-blower, he testified about the second wave this week. Take a look."
+    },
+    {
+      "speaker": "DR. RICK BRIGHT, FORMER TOP VACCINE OFFICIAL",
+      "utterance": "There'll be likely a resurgence of COVID-19 this fall. It will be greatly compounded by the challenges of seasonal influenza. Without better planning, 2020 could be the darkest winter in modern history."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Dr. Frieden, is Rick Bright correct?"
+    },
+    {
+      "speaker": "FRIEDEN",
+      "utterance": "No one can predict with certainty what's going to happen with this virus. It's a new virus. We think it may spread a little bit less in warmer weather, that could help us, but I think it's not right to think of a second wave. Unfortunately, we're likely to see multiple waves in different parts of the country. We know that this can spread explosively if it gets out of control. That's why we have to be so careful. We're all tired of waiting at home. We want to get out. I want to get back to the gym. We want to get back to our lives. We want to get our economy back. But at the same time, if we go too fast, it will backfire and we can see explosive spread that could bring us back in. Fundamentally, it's not just a lockdown that are keeping us at home, it's the virus. The virus is the enemy here. And, you know, Chris, Yogi Berra said, if people don't want to go to the ballpark, how are you going to stop them? If people aren't feeling safe going out, they are not going to go to dine, to eat, to shop and do other things. That's why it's so important that to get our economy back soon, we start safe."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, you say start safe. As we just said, 48 states have reopened to some degree, some businesses, some parks and beaches. Do you think we're moving too soon to reopen?"
+    },
+    {
+      "speaker": "FRIEDEN",
+      "utterance": "Out-of-doors is great. There's very, very low risk of spread out- of-doors. So by all means, go out, take a walk, bicycle, enjoy nature. It's good for you. It's good for your health. And there are some businesses that are essential and there's some business that can start with minimal risk. There were other things that are going to be harder to do without -- without a lot of safety measures. So, we're going to see not shaking hands for a while. We're going to see using hand sanitizer a lot. We're going to see face masks where it's spreading widely, where you're within six feet to someone, especially if you're indoors. There are things that we can do so that we can start this safer. It doesn't mean you have to stay home forever. It does mean we have to be careful, because if you get the virus, it's not just about you getting sick. You could, without feeling sick, spread it to your neighbor's kid who has leukemia, and they could get deathly ill. We're all in this together. We're fighting a virus that is a really difficult enemy to fight, and it's still out there. It's going to be there. The more we're safe from this virus, actually, the more we'll be safe from flu as well. Those things we do to physically distance, those are going to cut down our flu level as well. And if everybody gets the flu vaccine this fall, that will be helpful, too. Just keep in mind -- this is a lot worse than the flu. This is ten times deadlier. It spreads much more readily. It's more likely to kill you, and we don't have any immunity naturally, and we don't yet have a vaccine."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, I want to pick up on this question of where we are in the virus and the question of reopening because we've heard two very different arguments this week from President Trump and from Dr. Anthony Fauci. Here they are. DR. ANTHONY FAUCI, NATIONAL INSTITUTE OF ALLERGY & INFECTIOUS DISEASES:  There is a real risk that you will trigger an outbreak that you may not be able to control."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Look, he wants to play all sides of the equation."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to point to a specific state because there was a lot of criticism when Georgia and its governor, Brian Kemp, reopened a few weeks ago, and they reopen salons and gyms. Even got criticism from President Trump that it was moving too fast. But we have not seen the kind of spike that was widely feared with that reopening in Georgia, which raises the question -- are some public health experts, I'll include you in that, are you being too alarmist about this?"
+    },
+    {
+      "speaker": "FRIEDEN",
+      "utterance": "I don't think you can be too alarmist about what this virus can do. Look at New York City over the past two months, more than 20,000 deaths from this virus. It's really been catastrophic. But it is important to recognize that there are things we can do to go out more safely, and I have friends in Georgia still and they described to me physical distancing in shops, people being very careful, that's important. Also, keep in mind, the virus mutates. It changes. It evolves. But fundamentally, when it begins the spread again, you won't see that for a few weeks because it takes about a week to get sick and another week to get very sick, and then you make other people sick. So once there is the resumption of spread, you might not see that for a month or two. There's a lag here."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "On Friday as we reported, President Trump announced Operation Warp Speed, an effort to marshal the government, private companies, the military to develop a vaccine and 200 million doses by the end of this year. How realistic is that? Two hundred million doses of a proved, safe vaccine by the end of the year?"
+    },
+    {
+      "speaker": "FRIEDEN",
+      "utterance": "Well, it is absolutely the right thing to do to pull out all the stops to try to make a safe and effective vaccine. And we all hope it will be available as soon as possible. Just keep in mind, vaccine is complicated. You have to prove it safe, you have to prove it's effective, you have to make huge quantities. You have to figure out the doses, of one dose or two, how much of it. You have to figure out who gets it first. Health care workers would be first in line. And you got have to get it out there and explain to people what it is, monitor to see if there are adverse reactions. So, absolutely, a vaccine is the single most important weapon we could develop against this virus, but we don't have one yet. We hope we will. We hope it will be soon, but we cannot count on it. That's why we need to get used to the fact that the virus is here for a while. We're going to change what we do so that we can restart our economy and our society as soon and safely as possible."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, I want to pick up on that because the president said while he's pushing for a vaccine, the country is coming back regardless. Take a look."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "You know, it's not solely vaccine-based. Other things have never had a vaccine, and they go away. I just want to make something clear -- it's very important -- vaccine or no vaccine, we're back."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Can COVID-19 just to go away as the president said? And how back to normal -- back to normal, I understand we can reopen some, but how back to normal can we get without a vaccine?"
+    },
+    {
+      "speaker": "FRIEDEN",
+      "utterance": "It's unlikely that the vac -- that the virus would simply disappear. That would be unusual based on what we've seen in 200 countries around the world. But we don't know how it will behave over the summer. We don't know how long it will persist and what will happen with it. No one can predict with certainty. But one thing that is highly likely is that we will be coming to a new normal. Things will be different. We won't be shaking hands for a while. We'll be using lots of hand sanitizer. We'll be safe whenever we can be. Our health care system needs to get a lot safer, not just for COVID, but for other infections as well. We'll be traveling less. We're going to see challenges with different countries not letting people in or having quarantines. And we're likely to continue to have outbreaks in places like nursing homes which are, as I said, more than two months ago, ground zero for this. We are going to see, unfortunately, thousands of deaths. But we can save a lot of lives if we focus on being in this together. There is only one enemy here, Chris, it's the virus. We're all in it together. And the more we're safe, the more we work together. It's not about economy versus health. If people are poor, they're less likely to be healthy. And unless we control the virus, we're not going to get our economy back. So, we're in it together against the virus."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Dr. Frieden -- Dr. Frieden, I've got about a minute left and I've got a final question. As far back as I can remember, the CDC has always been the lead agency in health crisis like this. I remember when you were there and there were various pandemics, Ebola, things like that, I would be talking to you as the lead person for the CDC and the lead person for the administration. This time, it seems like the CDC has been sidelined to some degree. They have not had a public briefing and more than two months. One, do you agree that the CDC, that its role has been diminished? And do you think that is reasonable or do you think that's a mistake?"
+    },
+    {
+      "speaker": "FRIEDEN",
+      "utterance": "I will personally feel safer when CDC is speaking regularly to the American people. They are the world's experts in this. No other doctor, no other agency in the U.S. government has the depth and breath of expertise of CDC. They continue to do great work and, in fact, Americans are voting with their clicks. They have been more than 1.2 billion clicks on the CDC website, and it's still the best place to go for objective information, advice, recommendations on how to protect yourself, your family, your community."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So --"
+    },
+    {
+      "speaker": "FRIEDEN",
+      "utterance": "So, I hope we'll be hearing more from the CDC."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So, very briefly -- so briefly, do you think it's been a mistake for this administration to sideline the CDC?"
+    },
+    {
+      "speaker": "FRIEDEN",
+      "utterance": "I think fighting this pandemic without the CDC is like fighting with one arm tied behind your back."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "That's brief and direct. Dr. Frieden, thank you. Thanks for your time. Always good to talk with you, sir, and please stay safe. Up next, the economy has taken a hit not seen since the Great Depression, with another 3 million Americans filing for unemployment just this week. Top investor Mohamed El-Erian joins us to discuss the prospects for an economic comeback."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Mohamed El-Erian is an influential voice in the financial world. He led PIMCO for years running the world's largest bond fund. Now, he is the chief economic advisor at Allianz. And he says the economy could look very different as we emerged from the pandemic. I sat down with him on Friday."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Mr. El-Erian, new unemployment numbers came in this week, just under 3 million, and White House economic adviser Kevin Hassett said, while that is a tough number, it's an indication that the economy is starting to come back. Here he is."
+    },
+    {
+      "speaker": "KEVIN HASSETT, WHITE HOUSE ECONOMIC ADVISER",
+      "utterance": "I think the fact that we came in under 3 million suggest that the turning on of the economy is beginning and it's beginning to show up with the data. So what we expect now is that claims will continue to decline as the economy turns back."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Do you see the jobs picture getting brighter right now?"
+    },
+    {
+      "speaker": "MOHAMED EL-ERIAN, ALLIANZ CHIEF ECONOMIC ADVISER",
+      "utterance": "So, it will get brighter in the sense it will get back at a slower rate, but we should not forget how bad this picture is. With the additional 3 million, Chris, that is 36 million people have signed up on jobless claims for -- in eight weeks. That's one quarter of our labor force. So it's an enormous shock."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So the consistent forecast from the White House is of a sharp, steep, quick downturn to be followed in a V-shaped by a sharp, quick rebound. Here is President Trump on that this week."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We're going to do well in the fourth quarter and I think next year, with all of the stimulus, all of the things we've done, I think we're going to have one of the best economic years we've ever had."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Do you see a V-shaped recovery as the White House is predicting that the economy is going to come back as quickly and as sharply as it went down?"
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "utterance": "I sure hope so, but I think it's uncertain, and it's uncertain because both the journey to next year and what next year looks like are uncertain. So, rather than think of letters, think of a pendulum, Chris. We were operating in a normal world, as you and I define it, we then swung all the way on the other side to a lockdown, and now, we're going to swing back and forth trying to find where the new equilibrium is. So, it's going to be a neat V, it's going to be more like a series of Ws, if you like. But think of a pendulum swinging, and we don't know the magnitude of the swings, and we don't know the duration of the swing or the settling point. So it really is an uncertain outlook."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to pick up on that because you say people are being naive about how easy and quick it is going to be to reopen the economy that we have to deal with health factors and economic factors and even behavioral factors. Explain what you mean both in terms of this country and globally in reopening the economy."
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "utterance": "So, this is the biggest shock we've had for generations and it raises three issues. One is the main reason for the shock is health. And it's going to be a long time until you and I trust each other. It's what Eric Schmidt calls the information failure. It's very difficult for me to convince you I'm healthy and for you to convince me I'm healthy, until we get a vaccine. So the health issue doesn't get resolved overnight. Secondly, you have shaken consumer confidence. You have shaken behaviors. Our economy isn't wired for social distancing. So we're going to have to discover how to do that. And third, businesses. It's not clear how you restart a business when different states are doing different things and when different countries are going to do different things. So, we have these three massive uncertainties all in play at the same time, and it is very hard to say, oh, everything is going to be resolved overnight. We hope so. But I think we should buckle our seat belt that it's going to get bumpy still."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, there was another uncertainty and debate and that is over what to do in Washington next. Democrats want a $3 trillion, another huge stimulus bill, Republicans say let's take a pause and see how the money siphons through the economy that's been approved so far. And this week, you had Federal Reserve Chairman Jerome Powell say that this has been a real economic shock, and we do need more stimulus. Here he is on that."
+    },
+    {
+      "speaker": "JEROME POWELL, FEDERAL RESERVE CHAIRMAN",
+      "utterance": "While the economic response has been both timely and appropriately large, it may not be the final chapter, given that the path ahead is both highly uncertain and subject to significant downside risks."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Do you think we need more government stimulus? And if so, how much, and how quickly?"
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "utterance": "So, so far, Chris, we haven't had government stimulus. We've had government relief. And it's a good thing we have it and it's a good thing that Washington reacted, $5 trillion worth of reaction, because despite that, this week also gave us not just horrible unemployment number but the worst industrial output collapse in a century and the worst retail sale collapse on record. So, we are hurting and thank God that Washington has reacted on relief measures. What's important now is not to lose sight of the second phase. This is not just about winning the war against the global depression and a U.S. depression. This is about securing the peace, about making sure that we emerge from this also strong. So, the next stage has to also focus on key issues like infrastructure, labor retailing and a retooling, safety nets, things that are going to be critical if we are to bounce back in a sustainable manner, otherwise, we're going to get stuck in a new normal of really mediocre growth and greater social tensions."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And then, there are the financial markets which I think surprised a lot of people by remaining surprisingly strong. In fact, the markets are up about 25 percent from their bottom in late March. You say that the financial markets are in one universe, and the real economy is in the different universe. What do you mean?"
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "utterance": "They're looking at different things. So you and I in a real economy are wondering, when do we get to go back to work? When are the stores open again? We feel very big disruptions of our everyday life. The markets are saying, look, that's fine but that's all short-term. We look to the long term. And when they look to the long term, they see a win- win hypothesis. I think they are too optimistic but let me explain what they see. First, they bet that we're going to come back quickly, the V. And if we come back quickly, then looking through, which is the phrase you hear the most, this awful period is the right thing to do. But they have a second win, Chris. If we get that wrong, it doesn't matter because the Federal Reserve is buying assets and is buying assets that we never imagined it would buy. So, there is this sense of comfort that you get to win whatever the outlook. I think, Chris, that it's too optimistic, but markets do what they do."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, I was going to ask you, do you think the markets -- as one of the great investors, do you think the markets are going to say, stay as strong as they are right now, or do you think at some point, the two universes are going to collide and reality will intrude?"
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "utterance": "So, most of us who think fundamentals are important, that ultimately you are betting on company's profitability and you're vetting on the liability of a system are cautious here. And we had several warnings from really respected investors. But I also understand those who say that's fine, but you are dinosaurs, we are betting on something different. We are betting on the Federal Reserve. And if you have a printing press in the basement, then you're going to have a massive influence on the markets. I personally think it's easier to make a relative call between different companies. I get nervous betting on the overall level of the market right here."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Mohamed El-Erian, thank you so much. It is always fascinating to talk to you and to get a little dose of reality. Thanks so much, sir."
+    },
+    {
+      "speaker": "EL-ERIAN",
+      "utterance": "Thank you, Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Coming up, how to make up for lost months in the classroom while still saying safe. And how the coronavirus has highlighted the importance of child care to the economy. We'll ask Colorado Governor Jared Polis about his plan to reopen schools in the fall. That's next."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Coming up, Governor Jared Polis on his push to get Colorado back to work."
+    },
+    {
+      "speaker": "GOV. JARED POLIS (D), COLORADO",
+      "utterance": "Offices, manufacturing, salons, pretty much all people are back at -- in a safer way."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll ask him about the link between reopening the economy and reopening schools. That's next."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Colorado's Jared Polis was one of the first governors to shut down his state but also among the first to reopen. Before serving as governor, he founded schools for at-risk students and served as chair of the state board of education. And Governor Polis joins us now from Denver. Governor, you said a week ago Friday that you expect schools in your state to reopen in-class education this fall. Why are you so confident about that?"
+    },
+    {
+      "speaker": "POLIS",
+      "utterance": "I'm really confident that it's a critical part of our society, and schools need to function; they are going to function. It's also going to be somewhat of a hybrid environment, meaning there might be times during the year, if there's an outbreak at a school, that it has to convert to online for a period of weeks until it's reasonably safe to return to school. But, by and large, I think, across our state and across our nation, kids are going to be able to return to school in the fall. It's just not going to look like any other school year."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to pick up on that because you say that -- that school, even if -- you know, without the question of having to go back online if there were an outbreak, is going to look different, that the lunch may look different, that going from one class to another in the hallway will look different, that there might be staggered start times?"
+    },
+    {
+      "speaker": "POLIS",
+      "utterance": "Those are exactly some of the things that are being looked at. So we call it \"passing time,\" when all the kids are in the hallway, lunchtime.  The districts are working with our state, I know, and across the country, on schedules that have less interactions, that can slow the spread when there's an inevitable outbreak. It's also likely, Chris -- and this isn't a bad thing; it's a fine thing -- you know, maybe 10 percent, 20 percent of parents aren't going to want their kids to return to school in the fall. They're going to want to continue online. That actually is fine, as long as those parents are there with those kids; they don't -- they don't have to leave to go to work. In addition, it means there can be less crowding at the schools because of those individual choices that some parents make to continue with online until it's even safer."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "As we said, you have quite a resume in education even before you became governor. How seriously do you think students will be set back in their education by the fact that, at the very least, they're going to have been out of the classroom from March until August and in some places conceivably longer than that? How much do you think that sets them back in basic math and reading skills?"
+    },
+    {
+      "speaker": "POLIS",
+      "utterance": "There's really no excuses in the business of education. I made that very clear to our superintendents. I hope other governors across the nation are doing that. We've moved to online. Kids can learn as well or better online. In fact, there's been a few percent of kids in online schools before this crisis. Now, you need that social side, right, and it's a little bit harder to get that social side in an online setting. But academically, there are no excuses for every kid not to be ready to accomplish their grade-level work, and we can do that online; we can do that in schools; and we can do it through a hybrid, which is what's likely to occur this year, as while generally schools are open, there might need to be periodic, regional, or site-based closures."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You've allowed day care operators, licensed day care operators, to stay open during this whole period, with some tighter restrictions. But how much harder do you think having kids at home has made it for parents who work but have to take care of their kids at home? I guess what I'm asking is, to what degree do you see a link between reopening schools and reopening the economy?"
+    },
+    {
+      "speaker": "POLIS",
+      "utterance": "Yeah, there's a -- a critical link. In Colorado, it's about almost a quarter of our work force that has kids, relies on the schools. It's similar elsewhere. You know, not everybody has the luxury of having a two-parent household where one parent can stay home. There's many single parents and there's many parent -- families where both parents work. And so you need -- that's why we've had day care going throughout this entire piece. We've actually learned a lot from that day care experience that will translate into a safer school experience. You know, schools are reasonably safe places to be, Chris, and -- and we always have issues, and there's always challenges. We had a school district in western Colorado that had to close for a week because of norovirus about six months ago. That was what created vomiting and intense stomach disease, and they had to close for about a week to clean that out of their schools. So schools are no stranger to this sort of thing. It's just going to be a bit more prevalent this year. And schools are really working hard on making sure their teachers are set up for success in the online environment."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to pick up on that because Dr. Fauci this week, in a congressional hearing, said we can't be cavalier about kids' health in this pandemic, with the coronavirus. He said, one, they can catch it; two, they can spread it and give it to other people; and now we're hearing very alarming stories, not widespread but still out there, of some kids coming, apparently from the coronavirus, to this inflammatory syndrome, which raises the question again, can they be safe going back -- you know, and it's than the norovirus. Can they be safe going back to school in the midst of this pandemic?"
+    },
+    {
+      "speaker": "POLIS",
+      "utterance": "You know, all -- all the medical experts that we've consulted with say the concern is less about the kids. This is, no question, from an epidemiological perspective, a less severe, significantly, almost infinitesimal, fatality rate for kids. But the thing is, kids live with parents; kids live with grandparents; kids are around teachers. So that's where it gets a little bit more complicated, Chris. You know, it's -- is it a risk for kids? Nothing is risk-free. But kids encounter all sorts of germs in school. This one has a more minor manifestation for 12-year-olds, 14-year- olds and eight-year-olds, although, you know, it's not without any risk. But the real risk is parents, grandparents and teachers who are, of course, around their kids all the time."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I've got two more questions; I want to squeeze them both in. You met with President Trump this past week. He spoke highly of the job that you're doing. You spoke highly of the job that he is doing. I wonder, did you get any pushback from some of your fellow Democratic governors, maybe people in the Biden campaign, that perhaps it's not too helpful to be praising President Trump just months before the presidential election?"
+    },
+    {
+      "speaker": "POLIS",
+      "utterance": "Well, look, I happen to be a Democrat, but what I've said is he's the president we have. And I owe it to the people of my state who elected me to work with any president to really make sure that we can save lives, get our economy going in our state. We're proud to be getting our economy going in a safe -- reasonably safe way. Stores have been open for a couple weeks now in most areas of our state. We're doing this thoughtfully. We're doing this carefully. We value our partnership with the federal government. There's a time for election. There's a time for politics. This isn't it. It's a time for managing -- managing the crisis together. And I'm doing my best to get it done."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Finally, your state just changed the way that you count COVID deaths. And as a result, you lowered the total in Colorado from about 1,100 to 878. One, why did you change that process of how you count them, the criteria for that? And, two, do you think the number of deaths should be a political issue, as it seems to be becoming?"
+    },
+    {
+      "speaker": "POLIS",
+      "utterance": "No, in fact, one of the reasons that we wanted to make sure we reported it out in a better way is to inspire confidence so that it wouldn't be politicized, Chris. These are deaths that should not be politicized. The CDC criteria included anybody who has died with COVID-19. What the people of Colorado and the people of the country want to know is how many people died of COVID-19. In our state about 900 have died from COVID-19, on their death certificate, or from the attending physician. About 1,100 have died with it. Those 200 in the middle, it might have been a contributing factor, but it wasn't deemed the sole factor or the only factor in their death. I also want to point out, Chris, that of course there's likely cases that should be counted as COVID deaths that people have missed, doctors have missed. There's probably some of those as well. But the numbers are all fairly close, whether it's 900 or 1,100 in our state, you know, a few 100,000 across the world. We know that this can kill people of all ages; it's particularly dangerous for people in their 70s and 80s and those with pre-existing conditions. But it's a bad bug."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Governor Polis, thank you. Thanks for taking time out of your weekend to talk with us, sir."
+    },
+    {
+      "speaker": "POLIS",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Up next, we'll bring in our Sunday group to discuss President Trump's charge that Barack Obama and Joe Biden sought to take down his presidency."
+    },
+    {
+      "speaker": "PRESIDENT DONALD J. TRUMP",
+      "utterance": "This was all Obama. This was all Biden. These people were corrupt. The whole thing was corrupt, and we caught them."
+    },
+    {
+      "speaker": "FORMER VICE PRESIDENT JOSEPH R. BIDEN",
+      "utterance": "I thought you asked me whether or not I had anything to do with him being prosecuted."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "I'm sorry. I -- I was aware that there was -- that they asked for an investigation, but that's all I know about it."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Trump calls Obama -- \"Obamagate,\" rather, pushing that issue, and former vice president Joe Biden pushing back on one aspect of the alleged scandal, that he was part of an effort to target former Trump national security adviser General Michael Flynn. Time now for our Sunday group, GOP strategist Karl Rove, pollster and Fox News contributor Kristin Soltis Anderson, and Fox News political analyst Juan Williams. Karl, is Obamagate an effective campaign issue this year, do you think, the argument that -- that Barack Obama and Joe Biden broke the law to try to hurt his presidency, including going after former Trump national security adviser Michael Flynn?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Well, we don't know who broke the law, but somebody did. It is routine and legal for government officials to ask for a name and a confidential classified briefing to be, quote, \"unmasked.\" What is illegal is that somebody then leak that name. And unfortunately for Joe Biden, the fact is the name of Michael Flynn as a subject of an investigation was leaked on January 12th, the day that he had requested the unmasking of Flynn's name in a classified report. Now, is this going to be what the election's settled on? No, I don't think so. But it does stink. We had the leak -- the leaking of Michael Flynn's name. And we now know in the filing that the Department of Justice made with the judge, the investigation of Flynn was closed in December; the documents to close it were written up but they were not filed properly.  And in early January, Peter Strzok tells his lover Lisa Page, \"The incompetence of our department has saved us; I've gotten position from the seventh floor\" -- meaning James Comey, the director of the FBI -- \"to interview Flynn, because the paperwork wasn't properly filed.\" Comey meets with President Obama, tells him that they're going to be interviewing Flynn but doesn't give a heads-up to his boss, secretary -- A.G. Yates, and doesn't give the defensive briefing to the Trump campaign that normally happens when there's a counterintelligence. And it just goes on and on. And it stinks. Now, is it going to settle the election? No, I don't think so, but it does ask some very serious questions that need to be answered."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Kristen, let me pick up on the political impact of that. Do you see from your polling any sign that swing voters, not the Trump base, who we know is fascinated and outraged by this, but the swing voters want to relitigate the Russia investigation, including the targeting of General Flynn?"
+    },
+    {
+      "speaker": "ANDERSON",
+      "utterance": "It is unlikely that this is what swing voters are interested in relitigating. Recall, however, that when President Trump was facing impeachment, during a moment where there was clear airtime, where there really wasn't much else going on, save perhaps the Democratic primary, you didn't actually see numbers for President Trump moving that much one way or the other. If anything, he had a slight increase. But now you have 88,000 deaths; you have 36 million unemployed; you have this crisis hanging over everything, that is absolutely the number one thing that swing voters are looking for. How are you handling this crisis? Everything else is just noise."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Juan, I want you to weigh in on that. And I also want you to weigh in on another attack line that the president, President Trump is using against Joe Biden, that at age 77, he is not up to the job of becoming president. I want to play a clip from one of those events from the studio basement in Delaware, from Joe Biden's home there, in which he frankly mixed up the number of lives and jobs lost from this pandemic.  Take a look."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "We're in the middle of a pandemic that has cost us more than 85,000 jobs as of today, lives of millions of people -- millions of people -- millions of jobs."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Juan, don't you have to wonder how Joe Biden, after this long layoff, shut up -- shut in, in his basement in Delaware, how he's going to do once he gets back on the campaign trail, facing voters and also facing questions, lot of questions, from reporters?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, I think, first thing that -- let me just say, Chris, that with regard to the so-called Obamagate, there is no Obamagate. President Trump himself can't even say what President Trump -- I'm sorry -- what President Obama did that was wrong or criminal. And if any of us right here on this show lied to the FBI, twice plead guilty, we'd be in jail right now -- right now. So, I mean, I don't -- I just think this is a total effort, if you're thinking of it in strategic terms, to distract from the Trump administration's failed handling of the coronavirus crisis. With regard to age, I think that President Trump turns 74 next month. Joe Biden's 77. The only one of them that seems to prefer conspiracy theories and talking about putting disinfectant in your body is President Trump, not Joe Biden. And with regard to the campaign trail, we live in a moment when telework, Zoom conferences, have become the new normal. And so far, in terms of campaigning, fund-raising, giving interviews..."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "... Joe Biden has been doing that from his basement. He's a good retail politician. I've seen him out on the stump. But I'm not sure that's the reality of how this campaign is going to go forward. We're not even sure about the conventions at this point."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right. I want to move on to another subject, and that was the Friday night announcement that President Trump is firing the State Department inspector general, a fellow named Steve Linick. He's the fourth independent watchdog the president has dismissed this year.  Linick was reportedly investigating Secretary of State Pompeo and his wife and the way they were using a government employee for personal chores or business. Karl, one, how did Bush 43 handle the inspectors general in his administration? And are you troubled that President Trump seems to be trying to clear the house of the I.G.s?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Well, I thought it was interesting in this case that we immediately had two members of the Democratic House leadership jump in and say they knew why he had been replaced and accused Secretary Pompeo of using a government employee for personal chores. Now, we haven't heard that from the inspector general. And if the inspector general had opened such an investigation, the new inspector general will be bound by law to continue that investigation. So it -- the president of the United States has the right to remove inspectors general, period. And if President Trump decided that he had no longer had confidence in the inspector general at State, he had a right to remove him. So I want to see this thing play out. But I thought it was a quick drive- by slander by the chairman of the House Foreign Relations Committee and others in the Democratic leadership, and as a result..."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "... I'm suspect of the Democratic response. Let's see what this -- how this plays out and what the -- and if there was a reason, if the accusation has got any basis in truth."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Finally, there's a growing debate in Congress -- and maybe it's a sign that the pandemic is lifting a little, because we're seeing more politics -- a growing debate in Congress about passing another big relief bill. Republicans say let's wait and see how the trillions we've already passed go through the economy, but on Friday night, House Democrats passed another $3 trillion bill. Here is House speaker, Democrat Nancy Pelosi."
+    },
+    {
+      "speaker": "HOUSE SPEAKER NANCY PELOSI (D-CALIF.)",
+      "utterance": "Now some of the members say, \"Let's take a pause.\" \"Let's take a pause?\" Do you think this virus is taking a pause?"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Kristen, I've got less than a minute left. Which side do you think has the better argument politically -- politically, I'm talking about here -- Republicans who say let's wait a bit, maybe into June or further into the summer, or Democrats saying we've got to keep passing money and helping out Americans and businesses?"
+    },
+    {
+      "speaker": "ANDERSON",
+      "utterance": "Americans are -- are -- Americans are absolutely hurting right now, and I think that it's important for Congress to be taking action along this front. However, I do think that you've had these instances of Democrats, sort of, not making the number one issue the number one issue, trying to turn -- not let a crisis go to waste. And so as a result, I think Republicans are going to have a chance to come back and say, \"Look, if we're going to spend all this taxpayer money trying to help people, let's do it the right way.\""
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, panel. Thank you. See you next Sunday. Up next, our power player of the week. For two months, fans have wanted to see them back in action. The driver of the 48 car, Jimmie Johnson, talks about NASCAR's return today."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "NASCAR is back today, the first major live sporting event since the pandemic hit. There are no fans in the stands, but as the green flag waves, the 48 car is there, with our power player of the week behind the wheel."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "I'm excited for our sport and the opportunity we have, and we look forward to setting a high standard this weekend."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Seven-time champion Jimmie Johnson, on NASCAR's return after more than two months away."
+    },
+    {
+      "speaker": "ANNOUNCER",
+      "utterance": "His car, number 48, the only number..."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "I started racing at five years old on dirt bikes. And here I am almost 45 years old, 40 years later, racing. And to have off, you know, two months during prime racing weather and prime racing time is just completely uncommon to me."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "The cars, the speed and the horsepower haven't changed, but there's one big difference. The stands will be empty."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "I think, as competitors will notice more arriving at the track, but once we get racing, our line of sight really is on the other cars."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Johnson has 83 career wins."
+    },
+    {
+      "speaker": "FORMER PRESIDENT GEORGE W. BUSH",
+      "utterance": "You're leaders on the track and leaders off the track."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "He's made several trips to the White House as the NASCAR Cup champion."
+    },
+    {
+      "speaker": "FORMER PRESIDENT BARACK OBAMA",
+      "utterance": "I'd like to welcome back the six-time NASCAR Sprint champion, Mr. Jimmie Johnson."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But this spring, he and other drivers have been stuck at home, entertaining fans with virtual races. I've got to be careful how I say this. You were not the best virtual racer. In fact, there were some crashes."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Oh, lots of crashes. Yeah, I -- I am not going to pursue a career in virtual racing when this is done."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Today Johnson and 35 other drivers hit South Carolina's legendary Darlington Raceway. With no qualifying runs, practice has also been virtual."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "You know, the simulators are really great from a visual aspect.  I would say it probably gets you 80 percent to 90 percent there. But that last little bit is what takes you from good to great."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "NASCAR took special precautions because of the coronavirus.  During preparations, teams wore masks and practiced social distancing. And they cut the number of people allowed on the pit crews."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "I won't have human interaction with my crew. They have us separated at track. I will see one individual before I get in the car, and that's the guy that's going to put up the window net on my race car before I pull off."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Before the shutdown, Johnson announced this would be his final year of full-time racing. He says the forced time off hasn't changed that."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "It's been an amazing journey. It really is a team sport.  There's just been a lot of people that have played a role in that."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "What do you hope to accomplish the rest of this year?"
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "I'm excited for our sport and our industry. You know, I hope to get back to the racetrack and perform at the highest level, get back to Victory Lane, make the playoffs and be the champion in my final season and really have my Peyton Manning moment and walk off on top."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So nothing special, just end the year as the champion?"
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Yeah, nothing special, just close out on top."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "If you want to see how Jimmie Johnson does his first time back, you can watch the race today on your local Fox station at 3:30 p.m. Eastern Time. And that's it for today. Have a great week, and we'll see you next \"Fox News Sunday\".\" Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

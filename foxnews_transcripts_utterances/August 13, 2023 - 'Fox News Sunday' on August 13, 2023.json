@@ -1,0 +1,2057 @@
+{
+  "date": "August 13, 2023",
+  "headline": "'Fox News Sunday' on August 13, 2023",
+  "subHeadline": "This week on 'Fox News Sunday,' host Shannon Bream welcomes Rep. Michael McCaul, Rep. Adam Smith, and more to discuss the week's top political headlines.",
+  "url": "https://www.foxnews.com/transcript/fox-news-sunday-august-13-2023",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "SHANNON BREAM, FOX NEWS ANCHOR",
+      "sentences": "I'm Shannon Bream. A special counsel named to investigate the president's son, and Maui devastated.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "People lost everything. There are still people missing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I will fight until my last breath to get to the truth.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "We'll discuss two years since the Taliban takeover with Congressman Michael McCaul, chair of the House Foreign Affairs Committee, and Adam Smith, top Democrat on House Armed Services. Then, surprise developments in the Hunter Biden criminal investigation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MERRICK GARLAND, U.S. ATTORNEY GENERAL",
+      "sentences": "I'm here today to announce the appointment of David Weiss as a special counsel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. LINDSEY GRAHAM (R-SC)",
+      "sentences": "They're trying to put out a fire and they just pour gasoline on it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "We'll ask our Sunday panel what role the courtroom dramas could play in 2024. Plus, she's the best-selling female gospel artist of all time. We go one- on-one with CeCe Winans.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CECE WINANS, GOSPEL ARTIST",
+      "sentences": "No matter where you are in life, you're praying for something. You're believing for something.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All, right now, on \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAM LA JEUNESSE, FOX NEWS SENIOR NATIONAL CORRESPONDENT",
+      "sentences": "Well, Shannon, you know, there are a lot of questions like why didn't Maui activate that emergency alert system to give people more time. But for those living here, it's more much simple, right? My friend's alive. Where am I going to live? Do I have a job? And how do we recover?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Right over there. I'm born and raised here and I was planning on raising my 3-year-old daughter there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "And she finally answers her phone. Like she has a 1- year-old baby, yesterday was his birthday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Lahaina was a really small, nice, historical place and it's gone.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "Hurricane Dora passed 600 miles south of Hawaii. No one predicted high winds. They were wrong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "The smoke was so black and so thick, we were worried about getting killed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "Captain Linda Lindermann (ph) watched the entire marina, including the boats inside, go up in flames.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "So, there was no real route to go north or south or towards the mountains. The only escape once the thing swooped in was to get in the water.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "Gary Savage jumped off the break wall with dozens of others spending the next eight hours in the water before being rescued.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I don't know, man. I would say dumb luck. Really just feel lucky and guilty for having the home.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "This family had just seconds to evacuate, but Maui never activated its emergency siren system.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "There was no emergency sounds. They did not sound off the tsunami warnings.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "Officials refused to say why. Many died in their cars trying to escape.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "She jammed her car in there trapping her inside and the car next to her burst into flame.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "The search for victims continues with just 3 percent of structures inspected by cadaver dogs. Countless remain unaccounted for. FEMA is mobilizing resources and the biggest challenge is housing, 4,500 need shelter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEANNA CRISWELL, FEMA DIRECTOR",
+      "sentences": "We are not taking anything off the table.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "FEMA Director Deanna Criswell and Governor Josh Green say hotels promised a thousand rooms.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CRISWELL",
+      "sentences": "Bringing in temporary housing is certainly one of the tools we have in our toolbox, but we can also do other things like work with direct leasing and use some of the available vacation homes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "sentences": "But for the generations that built Lahaina, the cultural heart of Maui is broken.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I can look at structures and I don't even remember what that was. Nothing here is -- nothing here is recognizable to me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "William La Jeunesse, thank you so much, reporting live from Maui. And if you would like to help people affected by the Hawaii wildfires, you can donate at redcross.org/foxfoward. Or just this, very quickly, text Hawaii to 90999 and you will make a $10 donation. Back here in Washington a criminal trial now appears likely for Hunter Biden after a plea deal involving tax and gun-related charges has fallen apart. This week, a special counsel, a familiar face many conservatives do not trust was tapped to lead the ongoing investigation. It's an unprecedented time in American politics ahead of 2024 with three active special counsels whose investigation all have ties to the leading candidates from both parties. Jack Smith heading both of Donald Trump's cases into his handling of classified documents and his alleged efforts to overturn 2020 election results. Then, there is Robert Herr investigating President Biden's classified documents case. And now, the appointment of David Weiss overseeing the charges facing the son of a sitting president. We're going to break all of this down in just a minute with our legal panel. But, first, Lucas Tomlinson joins us live from the White House with the status of all these ongoing investigations. Hello, Lucas.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LUCAS TOMLINSON, FOX NEWS CORRESPONDENT",
+      "sentences": "Shannon, the White House hoped the investigation into Hunter Biden would be over by now to focus on 2024, but today, both sides remain far apart on a plea deal. The case could go to trial and a special counsel has been named.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MERRICK GARLAND, UNITED STATES ATTORNEY GENERAL",
+      "sentences": "Mr. Weiss in his capacity as U.S. attorney began investigating allegations of certain criminal conduct by, among others, Robert Hunter Biden.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. JAMES COMER (R-KY), HOUSE OVERSIGHT COMMITTEE CHAIRMAN",
+      "sentences": "Joe was right front and center in this from day one. This is an investigation about Joe Biden.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "President Biden has long denied any involvement in his son's overseas business dealings.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "I never talked business with anybody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS CORRESPONDENT",
+      "sentences": "Are you confident your son Hunter did nothing wrong?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "I'm confident. I have never spoken to my son about his overseas business dealings.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT",
+      "sentences": "Thank you very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "Back in Washington on Friday, a federal judge told former President Donald Trump to cool it on social media after this Truth Social post following his third indictment. The judge telling Trump's attorneys, quote, I caution you and your client to take special care in your public statements about this case.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Lucas Tomlinson, reporting live at the White House, thank you, Lucas. Now to our legal panel. George Washington University law professor Jonathon Turley, and Thomas Dupree, former principal deputy assistant attorney general. Welcome back to both of you. This is becoming a regular thing. I -- there's plenty of legal wrangling going on in D.C. and beyond, so let's talk about this. Abbie Lowell, who is -- one of Hunter Biden's attorneys, spoke about this appointment of David Weiss and whether it confers any new powers. Here's what he said.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ABBE LOWELL, HUNTER BIDEN ATTORNEY",
+      "sentences": "Once again, people need to understand that the attorney general and he -- that he, Mr. Weiss -- has said for a longtime, that he had all the authority he needed to bring any charge that was appropriate in any place. So what does the special counsel do that he couldn't do? The answer should be nothing different.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK. So that begs a lot of questions. Here's what House Judiciary Committee chair, Republican Jim Jordan, tweeted: First, David Weiss said he didn't have the power he needed and wanted special counsel status. Then, he said he had all the power he needs. And now, he gets special counsel status because he didn't really have the power he needs? Something's not right. Tom, what do you make of the timing in this selection?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THOMAS DUPREE, FORMER PRINCIPAL DEPUTY ASSISTANT ATTORNEY GENERAL",
+      "sentences": "Well, sure. First, I would say the special counsel does have greater power now than he did a week ago before he got this appointment. He has the power to bring charges in new different jurisdictions. And he also has a little bit more of insulation from the political fray. He's not 100 percent independent. Merrick Garland still pulls the strings, but he has a little more power. All that said, I think it's important to understand that just because the special counsel has more power doesn't necessarily mean he's going to exercise that power. It wouldn't surprise me if this is just a way for the Biden administration to cool the flames a little bit on the spotlight that's been put on Hunter Biden. It does allow the special counsel to bring Hunter Biden to trial by bringing charges in new jurisdictions. But I think the jury is still out, literally, on whether the special counsel is actually going to bring more serious charges against Hunter Biden or potentially name additional defendants as a result of this probe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Well, and our justice producer Jake Gibson (ph) asked specifically to the DOJ, is it possible that those other people may include investigating the current sitting president? He said that they declined to comment on that. Here's what the IRS whistleblower Gary Shapley said about whether the president should be worried.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARY SHAPLEY, IRS WHISTLEBLOWER",
+      "sentences": "There were investigative steps that clearly indicated the Hunter Biden's father, President Biden, had some type of involvement, and we just weren't allowed to follow those leads.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Jonathon, what do you think are the odds the Justice Department would actually be investigating the head of the executive branch, the sitting president?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONATHAN TURLEY, FOX NEWS CONTRIBUTOR",
+      "sentences": "Well, the question is why wouldn't you answer that question? I mean, you just gave great detail as to the scope of the investigation of Hunter Biden and you won't tell the public whether the president is subject to the mandate? There's no reason for that. I mean, this is a point of clarity, because otherwise, you're telling the rank-and-file, we aren't necessarily going to investigate the president. There's still that a sense of reluctance. And, you know, God help us when we have another special counsel. I mean, you're talking to the only two D.C. lawyers who are not currently serving as special counsels, right, yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "I'm not either.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "The three of us. We have a lock. So, it's --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "We're busy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Yeah. We're busy. So, the question is, you know, why wouldn't you expand the mandate? Why would you select this individual? I mean, the fact is, he violated the statute by going outside the Department of Justice. That's happened before. But then he selected the person who was just accused by members of his own investigation team of a fixed investigation. And going back to Abbe Lowell, it's like solving the Mutiny on the Bounty by making Captain Bligh admiral. It doesn't resolve the underlying concerns about your leadership. And I think that this is going to make it worse and it's likely the fuel calls on the Hill to move forward with an impeachment inquiry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yeah. And there are questions about that. We're going to talk about that with the panel a little bit later. Does it throw fuel on that fire? As Senator Graham said, you're are actually making things worse. What about the congressional investigations? Because let me read something from the \"Wall Street Journal\" editorial board. They said that the special status is politically convenient for Weiss and Garland, because it means both men can use the excuse of an ongoing investigation to refuse to answer questions from Congress. Justices is also likely to wall off FBI agents and others who worked on the cases and forget members of the Biden family. Congress' probe may have hit a dead end. Tom, this comes at the same time that Comer, chairing the Oversight Committee, says we are going to subpoena members of the Biden family.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DUPREE",
+      "sentences": "Absolutely. And, look, before all of this happened, Weiss was going to go to Congress and testify. And Attorney General Garland had given him authorization to go do that and to talk about it. I have absolutely no doubt that now the administration is doing a 180 on this. I strongly suspect Weiss is going to say, wait a minute. This is an ongoing investigation, the world has changed, I can no longer come and testify. I'll take a rain check and I'll see in a year. That said, I think it's --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "For three (ph)?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DUPREE",
+      "sentences": "At least. I think it's critical for Congress to keep its foot on the accelerator here. They have done a masterful job right now in getting information, getting documents, testimony, the whistleblower testimony and bringing this attention -- this information to the attention of the American people. I don't think they need to let up at this point. To the contrary, I think they need to keep pushing forward as the special counsel's investigation whatever form and shape it takes unfolds.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "So we have this protective order now and the D.C.-based case from the feds that essentially accuses the president of, you know, all kinds of things related to the 2020 election, January 6th. So, they went to court deciding what information that the former president would be able to release and talk about publicly. Judge Chutkan in that case in the Friday hearing said this, the fact that he is running a political campaign currently has to yield to the administration of justice. And if that means he can't say what he wants to say in a political speech, that is just how it's going to have to be. The president -- former president and his legal team have talked about his First Amendment rights. You know he likes to talk about this, the prosecutors, the judge, everybody else involved. I mean, how much does he risk here in potentially violating that order or getting himself a gag order?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Well, Judge Chutkan gave the ultimate straight line without breaking a smile and saying, the court expects you to show restraint on social media. And that's -- that's not likely to happen. And so, Donald Trump could trip the wire, and he could try -- he could force an issue of a gag order. That would go very quickly to the Supreme Court. There's aspects of the current order that I find troubling. You know, they say that he can't take any notes, that his lawyers have to watch him at all times when he looks at evidence. This is evidence that's supposedly eventually is going to end up in a trial. And I'm more concerned with the definition of sensitive material, that as the judge said, I'm going to go with a definition of sensitive material. It's a very ambiguous term. So it does -- right now, this does not look good in terms of the chances of a confrontation and the potential of a gag order. I hope she doesn't go in that direction, because I think it would be reversed. He is running for the presidency of United States, part of this campaign will be the merits of this case. And about 80 million jurors are going to vote on those merits.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "So with all that playing out, we will watch to see what happens in Georgia, potentially an indictment coming there and the next couple of weeks to so you'll be back, I hope, Tom and Jonathan, thank you both very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DUPREE",
+      "sentences": "Thanks, Shannon.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All right, when we returned, two years since the Taliban take over in Afghanistan, what to make of the billions in your tax dollars continuing to flow to that regime, as the family members of U.S. service members killed in that chaotic withdrawal say, they still can't get answers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Admit your mistakes, learn from them, so that this doesn't happen ever, ever again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Tuesday marks two years since the abrupt U.S. withdrawal from Afghanistan where the nation watched the scenes unfold. You remember this, people trying to evacuate the country in a chaotic and deadly exit. Now, despite assurances it wouldn't happen, the Taliban did quickly regain power in a matter of about 10 days. Since the exit from America's longest war House Republicans have demanded answers about the administration's handling of that situation. Now, with control of the House, the GOP has ramped up investigations into the White House response in the final days leading up to the U.S. departure. This week, lawmakers heard emotional testimony for the first time directly from family members of some of the 13 service members killed in a suicide bombing at the Kabul airport. In a moment we will bring in Michael McCaul, Chair of House Foreign Affairs Committee and Adam Smith, the top Democrats on the House Armed Services Committee. But joining us first in studio, Fox News Congressional Correspondent Aishah Hasnie with more those emotional testimonies from the Gold Star families.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "AISHAH HASNIE, FOX NEWS CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Yes, very, very emotional. I'm sure you're watching as well. Good morning to you Shannon. You know, these families, a lot of them have been silent for the past two years. That's because they were waiting patiently for this administration to explain the decisions made on the ground. Well, now. They're tired of waiting, and they're lashing out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRISTY SHAMBLIN, SERGEANT NICOLE GEE'S MOTHER-IN-LAW",
+      "sentences": "I live every single day knowing that these deaths were preventable. My daughter could be with us today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "Christy Shamblin chokes up as she remembers her daughter-in-law Sergeant Nicole Gee, one of the 13 U.S. service members killed by a suicide bomber at Kabul's Airport during that chaotic withdrawal from Afghanistan. This week, Shamblin and five other Gold Star families spoke out at a public forum, accusing the Biden administration of failing their children and then trying to cover it up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY BARNETT, STAFF SERGEANT DARIN HOOVER'S MOTHER",
+      "sentences": "We are told lives given incomplete reports, incorrect reports, total disrespect.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "Today, the administration refuses to take any responsibility, denies the evacuation was chaotic, and even calls it a success.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHAMBLIN",
+      "sentences": "When our leaders call this evacuation of success, it is like a knife in the heart.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "They have a real hard time when the administration calls this withdrawal success, do you still believe it was success?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MATTHEW MILLER, STATE DEPARTMENT SPOKESPERSON",
+      "sentences": "We believe it was the correct policy choice. But again --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Wasn't a success?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MILLER",
+      "sentences": "We believe it's a correct policy choice, but again, I would never want to quibble with a family member who has suffered such an enormous tragedy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "These grieving parents now just want an apology and department leaders to resign, but have little hope that will ever happen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEVE NIKOUI, LANCE CORPORAL KAREEM NIKOUI'S FATHER",
+      "sentences": "My son needed a commander in chief who cared solely about his life. Instead, his commander- in-chief chose to use him as a pawn.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "When Fox asked both the state and the Pentagon if mistakes were made, neither would admit that but State did refer us to its after-action report which found, Shannon, that they could have done some things better. But again, we pressed and pressed and press and they just will not admit that anything went wrong here. No mistakes were made.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "You did a fantastic job reporting and pressing this week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "With those families, yeah.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Thanks, Aishah. All right, joining us now from Texas Republican Congressman Chair of the House Foreign Affairs Committee, Michael McCaul. Welcome back to Fox News Sunday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. MICHAEL MCCAUL (R-TX), HOUSE FOREIGN AFFAIRS CHAIR",
+      "sentences": "Hi, Shannon.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK, while we talk about them, I want to put up the 13 service members, their names, their faces, so that we don't forget just two years out from this. You heard the parents there, say they've been disrespected, disregarded, they've been lied to. You've been fighting with the State Department as we close in on this two-year anniversary for documents back and forth, subpoenas, all kinds of things. Are you confident you'll be able to get answers for these families and more broadly for all Americans?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "I will not rest until we do get answers and accountability and transparency as to what happened. How did this go so wrong? And the Gold Star families are the best, you know, witnesses to this nightmare. They lost their 13 servicemen and women, Abbey Gate. We had the testimony of Tyler Vargas-Andrews, who said, \"I had the suicide bomber in my sights, but I was not given permission to engage him.\" And after that, the bomb went off killing 170 people, 13 servicemen and women. And Shannon, this is sort of news breaking. We just have reported today a member of my staff Jerry Dunleavy with his book, \"Kabul\", that U.S. intelligence had ISIS-K in their sights, knowing they were plotting to take out Abbey Gate on the very same day that it was taken down when the suicide bomber went off. They asked the Taliban to go in, our U.S. military, the Taliban denied. U.S. intelligence requested an airstrike. Guess what, that airstrike was denied, was denied to go in and take out the very forces that then killed our 13 servicemen and women. This story gets worse by the day. And I will not rest until we get to the bottom of it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Well, Chairman, who would have known about what you're telling us? First time that I'm hearing it this morning, that level of detail about the intel that we had and the order that was denied. Who would have had that information, who would have made that call?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Well, it was the general on the ground, Mr. Donahue, it would be General McKenzie who is in charge of SITCOM in the operation, it goes all the way up, you know, Shannon, to General Milley and in his decision making, and the Secretary Defense. We've been denied access to these witnesses. And we're prepared to go forward with subpoenas to get to the bottom, because these Gold Star families that you just showed deserve the truth as to what happened to make sure this never happens again. But this was not a clean operation, this was not a successful evacuation by any stretch of the imagination. And the Taliban was put in charge. And in my judgment, that was the worst mistake of all, was to put them in charge and not our U.S. military to evacuate U.S. citizens and our partners that fought so bravely with us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yeah, and many were left behind and still are two years later. So I want to ask you about this. There's a new report out from the Special Inspector General overseeing Afghanistan reconstruction, Washington Free Beacon has this headline from the report. They say, the Biden administration has given $2.35 billion to Taliban controlled Afghanistan. So what do you tell American taxpayers about their dollars flowing to that group, as you said, that was critical in what happened at Abbey Gate, and now is clearly, you know, disrespectful is the nicest way that I can say it, to women, to girls, to religious minorities -- those are U.S. tax dollars.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "I'm prepared in my position to put a hold on this funding until we get assurances it's not going right into the hands of the Taliban, that by the way, Shannon, are oppressing women, they can't go out of their homes, they can't get educated. Women can even be hired by these NGO, these charitable organizations in Afghanistan, and we're paying the money. The U.S. taxpayers funding this, we need some assurance that this is going to go to the right hands, and it's going to help the women in Afghanistan, and if the Taliban cannot assure us that, I think we need to be prepared to cut that funding off as a stick, rather than giving them just a carrot.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Well, it brings up another item I want to ask you about which is this deal that's apparently coming together to free Americans from being held wrongfully in Iran, it would free up $6 billion in frozen assets for the Iranians to use, I believe, we're releasing some Iranian prisoners as well. We are told that there will be strict guardrails on that money that Iran will now get access to. Here is Democrat and veteran, one of your colleagues, Congressman Seth Moulton.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. SETH MOULTON (D-MA)",
+      "sentences": "This money is going to still sit in a Qatari Bank account, only the Qataris will have authority to release it. So basically what will happen is Iran will say hey, we want to buy $10 million worth of grain. Qatar will write the check for that, themselves, the grain will go to Iran.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "The administration says they will have transparency about where the money goes. Are you confident of that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Well, I -- you know, look, you know, Reagan said trust but verify. But I have to use the word naivete. I -- look, these are like accounts in South Korea frozen assets going to Switzerland and to Doha, Qatar, to then go into Iran, the idea that the Ayatollah is not going to have any control over this money -- and by the way, we're talking about $6 billion, right? $6 billion under Obama, it was $400 million of cash and airplanes that went into Iran. Look, I want to get these Americans home more than anybody. And one of them is a critical asset. I agree with that. But we have to go in eyes wide open. $6 billion that now is going to go into Iran and prop up their proxy war, terror operations, and their nuclear bomb aspirations. They are now starting to talk about the JCPOA all over again, which in my judgment, will lead us down a course to a legal nuclear bomb in Iran. Prime Minister Netanyahu came out strongly against this. I think we're going back to the mistakes of the past. And finally, Shannon, get this, our special envoy to Iran to negotiate the JCPOA is under investigation for mishandling classified information. He has the most sensitive information as our top negotiator to Iran, and to the Ayatollah, now under investigation for mishandling classified information, very troubling story.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All right. I have so much more to ask you about, but Chairman, we got to leave it there so I can bring in your colleague. We always appreciate your time, sir. Come back soon.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Thanks, Shannon, thanks for having me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All right, joining us now from Washington State, Democrat Adam Smith, Ranking Member of the House Armed Services Committee. Welcome back, good to see you again, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ADAM SMITH (D), WASHINGTON STATE CONGRESSMAN",
+      "sentences": "Good to see you, Shannon. Thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Okay. So I want to start with the Iran Deal there again, as you heard the Chairman just talking about, we've been told that there will be guardrails on this money $6 billion that would flow through the Qataris. And so here's what Iran's Ministry of Foreign Affairs said, Friday, a warning us that they still have controlled these people, they're still in custody and adding this, \"The decision on how to utilize these unfrozen resources and financial assets lies with the Islamic Republic of Iran.\" Telegraphing that they plan to do what they plan to do with the money. Money is obviously fungible. A lot of this re-invokes for people, which you've heard the Chairman referenced there, the $400 million in cash that was then followed up by $1.7 billion -- or excuse me, $1.3 additional billion in cash that went in a prisoner swap back in 2015 under President Obama. Some of the people were now trying to get out. They were kidnapped or wrongfully in prison since we paid that money. I mean, are you -- do you believe the Iranians can actually change their behavior?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "There's a fundamental misunderstanding about what's going on here. The money that's going from Korea to Iran is money from oil that Iran sold to Korea and Korea did not pay for that -- South Korea, sorry, because the sanctions that were imposed on the Trump administration. And there were about a half dozen countries in that situation. Italy, India, a few others, all of those other countries under the Trump administration have already given Iran that money with no strings attached under a special payment system that was set up under the Trump administration. South Korea didn't pay that money for complicated reasons. And they're valid, they want to transfer it. So money of this kind has already been transferred. This is money to pay for oil that was given to South Korea. This isn't some sort of frozen assets situation. So this type of money has already been transferred. Second, the deal has not been finalized. Qatar will control the money. So whatever the Mullah in Iran has to say about it, it will be controlled by Qatar, not by Iran. So that aspect of it makes sense. We're still waiting to see what the prisoner swap looks like and to finalize the deal. But there's a lot more detail here that I think isn't being understood.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yeah, I mean --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "The Trump administration transferred billions of dollars from these other countries back to Iran, with no strings attached. And I don't hear anybody talking about that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Well, in this current scenario, though, giving them $6 billion. And they will say it can be for medicine and for humanitarian needs. We know money is fungible, and there are real concerns that this amounts to an exorbitant ransom payment critics, would say.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "But again, it's not as I just said, where were those real concerns during the Trump administration, when money from a bunch of other countries was being transferred to Iran, no strings attached, no prisoners returned?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "So it just doesn't seem like a legitimate complaint based on the facts of the certain -- facts of the situation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yeah, so there are people complaining now and they didn't complain them very fair question for them. But let's do this, let's talk about critics who say this actually is putting a bounty on Americans heads they include former Secretary of State Mike Pompeo involved with a lot of those discussions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Right. And that is a fundamental misunderstanding of what this money is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "OK, it's not a bounty because we're not paying the money. It's Iran's' money that was sitting in South Korea.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Withheld under sanctions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "So it's a bounty?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK, well, let me play the Secretary and let you respond.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE POMPEO, FORMER SECRETARY OF STATE",
+      "sentences": "When I was Secretary of State, we had denied them wealth. They were down to just a little bit of money. The Biden administration has come in and up ended all of that, and the Iranians will now be flush and their terror campaign more successful.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "I mean, this is a country that chants Death to America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "I understand all that. But that's completely untrue, Undersecretary Pompeo, these other countries, I'm aware of Italy and India, there were a few others that hadn't found, money was transferred from them. Same situation where Iran had sold stuff to these countries, sanctions kicked in, money hadn't been paid. Under Secretary Pompeo, that money was transferred from those countries to Iran, no strings attached. Okay. So it is not a bounty and this factually incorrect what Secretary Pompeo is saying.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK, let's turn to Afghanistan, as we talked about.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "We're coming up on the second-year anniversary of the chaotic withdrawal there, the service members that again, we'd like to remind people of their names, their faces, and their families that you heard from this week. The Special Inspector General also outlined in his new report this, despite Taliban promises made since gaining power in August 2021, to be more inclusive, counterterrorism, respect human rights and not pose a security threat to the region. The U.N. says that the Taliban, \"shows no signs of bending to pressure for reform or compromise. They are unchecked by any meaningful political opposition.\" So I'll ask you the same question I asked the Chairman, what do you say to American taxpayers about us giving billions of dollars to that organization?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, the Taliban awful, terrible, horrible on to any other expectation than that. I'd have to look at that specific report. I know there were a lot of again, frozen assets that we had in control that were actually Afghan money. I'm not sure about the actual U.S. taxpayer money going in. I'm extraordinarily reluctant to send that money. There is one caveat to that. Afghan is -- Afghanistan is also going to humanitarian disaster right now. People are starving to death. They can't get access to health care. We're getting a lot of pressure internationally. What can the international community to do to stop that humanitarian disaster? And I suppose one answer is, you got the government, you got you got the Taliban leading you. This is where you're at. We can't help. But it is such a huge humanitarian disaster that I'd say it's worth at least looking at options, even though I don't think there are any particularly good options in this situation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "I think you're right. OK. quickly want to ask you about Ukraine. The White House is asking for another round of supplemental funding. There's new polling showing up at a majority of Americans think we've done enough. They don't want to see any more appropriations of money going to Ukraine. This particular appropriations request, the supplemental is tied up also, excuse me, with domestic emergency relief funding and also some funding for the border. Senator Marco Rubio said this, \"President Biden is holding Americans hostage by tying critical domestic disaster relief to foreign military aid. He calls it cynical, political manipulation. Do you think that you should be tied together?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "It's an initial statement offer of what the Biden administration thinks we should fund. We'll see how that plays out going forward. The polling data I've seen, by the way is that well over 60% of people still think we should be doing what we should do, everything we can to help the Ukrainian people. Look, Russia has engaged in a brutal invasion of Ukraine, you can see the pictures of how they're destroying cities, killing civilians. I think defending Ukraine is something that is in our interest and overwhelming majority of American people seem to agree with that. As far as the other pieces are concerned, every supplemental that I've ever dealt with in my 27 years in Congress has been tied with one thing to another. But this is an opening negotiation. We'll see. I think there are critical needs. We'll see what the final package looks like. But I want to make it clear. I still support Ukraine. I think there's a bipartisan people. I wish you to ask Congressman McCaul this question, because I'm certain he would agree with me that this is something that we should be supporting. I know he's been an incredibly strong supporter of Ukraine has -- as has Chairman Mike Rogers, who's the chairman of my committee on Armed Services.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Well, we know that you've been to many of these hotspots repeatedly around the world and seen firsthand so we appreciate you sharing your expertise with us, Congressman.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Thank you, Shannon. Appreciate it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All right coming up, Florida Governor Ron DeSantis in Iowa taking aim at his biggest rival ahead of the first Republican primary debates. But former President Donald Trump had his own plans up his sleeve. We're going to bring in our Sunday panel to discuss the competing antics at the Iowa State Fair, next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RON DESANTIS, (R) PRESIDENTIAL CANDIDATE",
+      "sentences": "I think it's fine to bring folks in from Washington but I think Iowans really are more concerned about the people in their communities. And I was that they know and work with and go to church with and see.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "That's Florida Governor Ron DeSantis at the Iowa State Fair Saturday. He was referencing former President Trump's decision to bring a congressional delegation from DeSantis' home State of Florida with him to Des Moines. It is time now for our Sunday group, Julia Manchester, National Political Reporter for The Hill, former Special Assistant for National Security to President George W. Bush, Michael Allen, Contributing Writer for Forbes, Richard Fowler and Katie Pavlich, editor @townhall.com. Good to see all of you. OK, so the Iowa State Fair is a thing, it's happening. Julie, what do you make of these two entourages that sort of were competing there yesterday among the fried foods?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JULIA MANCHESTER, THE HILL NATIONAL POLITICAL REPORTER",
+      "sentences": "Yeah, look, what it tells you is DeSantis is obviously trying to put everything into Iowa and Trump is sort of trying to cut into that. And I'm not saying that Trump necessarily has a chance of losing Iowa at this point, but DeSantis' team feels very confident in Iowa. There was a New York Times/Siena College poll that came out a few weeks ago and nationally, it shows Trump with a lead in the 50s. However, when it comes to Iowa, his lead is in the 40s and DeSantis' lead is a few points up. So they feel confident, and Trump is very much trying to sort of nudge DeSantis or maybe jab at DeSantis in a way by bringing that Florida -- those members of the Florida congressional delegation, it was very notable this week that Steve Deace endorsed Ron DeSantis. He's a conservative commentator and radio host in Iowa, his team very much making a big deal about that. But the question is, what happens after Iowa for Ron DeSantis? How does he compete in New Hampshire and South Carolina? We'll have to see but for now, it's all eggs in Iowa basket.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yeah, Katie, how big is it if you score that first win, it definitely has not served as a guarantee for the -- to become the eventual nominee or president when they're in Iowa for the GOP. But there's a psychological aspect to scoring an early win, one of those states?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KATIE PAVLICH, TOWNHALL.COM EDITOR",
+      "sentences": "Yeah, Donald Trump lost Iowa and went on to be the Republican nominee, and he have actually won the presidency. But for Ron DeSantis, you know, people in Iowa unlike the rest of maybe the GOP base, are shoppers, they're willing to change their vote, they're willing to look at other candidates and Ron DeSantis is taking advantage of that by being there during the 99 County Tour.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "The Full Grassley?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PAVLICH",
+      "sentences": "The 'Full Grassley, as they call it. He sat down with the Iowa's governor. She's doing these fireside chats, as we've seen with all these candidates. President Donald Trump, though, literally did a flyover flew in and did a rally yesterday and then flew out. Now, he may not see Iowa as a necessarily win because he didn't win it last time. He's been focused on other things other states, but certainly Ron DeSantis sees an opening here for shading off some of those voters in a place where people are willing to look at the candidates and make a different choice.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All right, I want to look at the other side of the ticket because with the appointment of Special Counsel for Hunter Biden and the fact that he is pleading it looks like it's going away, he may have to go through -- go to trial, the AP political all of them reporting that this is going to be an issue for the Biden campaign. Wall Street Journal Editorial Board says this, \"President Biden will have the excuse of the investigation to refuse to answer questions about the Biden family business during the campaign and the press corps may give him that pass. Mr. Garland has belly flopped his department into the 2024 presidential campaign.\" And Michael, it's a headache that no reelection campaign needs.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MICHAEL ALLEN, FORMER BUSH NATIONAL SECURITY OFFICIAL",
+      "sentences": "I'll take what the Journal says at face value. But nonetheless, if I'm a House Republican, and if I'm looking at this politically, I would do a little dance here. We have more pressure on the Biden family to answer for all of Hunter's activities. And all the Vice President Biden's activities when he worked for President Obama. For me this brings it more into the mainstream and allows more pressure to go on to the Biden family. I get that they wish -- the House Republicans wish it was a different Special Counsel, but nonetheless, this is political pressure and vindication for their efforts thus far.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "So it's not just Republicans who might be taking notice of this and the impact because there are Democrats that potentially sound like they may be souring on President Biden. York Times reports this, \"Representative Dean Phillips, the Minnesota Democrat who has called for someone in the party to challenge Biden, said the Special Counsel news is, quote, my entire rational for urging a Biden alternative.\" He says, \"it's gone from a distraction and ridiculous to, oh, wow, maybe something is there.\" And, by the way, he is somebody who has been courted potentially by donors to jump into this race. Does this mean that the president maybe doesn't have a clear walk to the nomination?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICHARD FOWLER, FOX NEWS CONTRIBUTOR",
+      "sentences": "Look, I think the president has a good chance of winning this nomination because there aren't any contenders in the field right now. Any contenders that seem to be gathering much steam. With that being said, I think you have to decouple the two. I think if you talk to the folks in the Biden White House they'll tell you we're running a campaign and they'll also tell you that while the president loves his son, his son is a private citizen and his son should be able to do what he son wants to do. And his son is not above the law. I think the - the good news here in this special counsel announcement, that you haven't heard a lot of people talk about, is this. Once the special counsel is over, they will issue a report. It's very likely that Merick Garland will make that report public to the American people. And if the - if the facts in the report are demonstrably different than the facts that we see on Capitol Hill, that we heard Senate -- House and Senate Republicans talk about, this creates a big problem for them because for the past -- since 2018 they've been saying that there is bribery here, there's wrongdoing here. And if that doesn't work out after a five-year Justice Department investigation by a Trump-appointed justice - by a Trump- appointed attorney, that speaks to big problems for them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Well, I have real doubts that the special counsel would be done with this report before the election. But stranger things have happened and do every day right now in Washington. In the meantime, we're watching Georgia to see whether President Trump will potentially face another indictment there. \"The New York Times\" reporting this, if Mr. Trump were to be convicted in a federal prosecution, he could theoretically pardon himself if he were elected re-elected president. But presidents do not hold such weight in state matters. Moreover, Georgia law makes pardons possible only five years after the completion of a sentence. Getting a sentence committed requires the approval of a state panel. So, Katie, a lot of people think these state issues are more fraught for former President Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KATIE PAVLICH, FOX NEWS CONTRIBUTOR",
+      "sentences": "Well, you know, it also becomes politically a resource management problem for the president. So, politically, it's helped President Donald Trump in a primary, but he has had to spend tens of millions of campaign dollars in fighting these indictments, federally and at the state level. At the state level it is a problem for him if he can't pardon himself, if he were to be convicted. Now, we're far off from that. You know, when a grand jury returns an indictment it's 12 out of 28 people doing it. It's not beyond a reasonable doubt.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PAVLICH",
+      "sentences": "The district attorney in Georgia is very confident that she has the work done, that she will get two indictments that she thinks that she can then go and prove. But it's to be seen. You know, we had a lot of these things come out against President Trump in the past, federally and at the state level, and they have fallen apart.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yes, from a grand jury to a real jury where you'll have opposing arguments, you will have different evidence. There will be an opposition there. And innocent unless proven otherwise in this country. Meanwhile, Senator Joe Manchin is making news again because he was asked on a radio show this week whether he would consider leaving the party and becoming independent. Here's what he said.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. JOE MANCHIN (D-WV)",
+      "sentences": "I would think very seriously about that. I've been thinking about that for quite some time. I haven't made any decisions whatsoever on any of my political directions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Richard, I've heard a lot of angst from Democrats who do not want to see this man turn independent or see him mount a third party change - or challenge under No Labels.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FOWLER",
+      "sentences": "Look, I don't think there's going to be a third party challenge. But I will say, I do think, if you look at the map, this electoral map, which is where this matters, Joe Manchin has a really tough re-election coming up. And so this ideal of him posturing in this moment speaks to the fact that West Virginia is a red state. And I have to win in my state. So, he's going to posture. He's going to say, I don't like the president. He's going to say the president's terrible. That will hopefully garner him enough votes to possibly win re-election. I don't see him mounting a third party campaign and No Labels have said very clearly that they don't want to be a spoiler in this election.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Very quick. Final word.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALLEN",
+      "sentences": "If he does run, that's bad news for President Biden. There's low enthusiasm for the president and I think it takes out from his vote.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All right, we've got to leave it there, panel. See you all next week. And a reminder, we are a little bit more than a week away from the first `24 Republican primary debate in Milwaukee. Bret Baier and Martha MacCallum will moderate. Coverage begins August 23rd, 9:00 p.m. Eastern, on Fox News Channel. Coming up, the most awarded gospel artist of all time sits down with us to talk about her faith, her powerful music and why she's so passionate about the next generation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "She's the best-selling and most awarded female gospel artist of all time. We had the honor of catching up with powerhouse CeCe Winans when she stopped here in Washington to perform this summer with the National Symphony Orchestra. It is this week's \"Sunday Special.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CECE WINANS, AMERICAN GOSPEL SINGER",
+      "sentences": "I bring you news to encourage you, he's never failed me yet. BREAM (voice over): CeCe Winans taking center stage at the Kennedy Center on her Believe For It Tour, performing some of the biggest hits of her career.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "I wanted to offer hope, because no matter where you are, no matter what you're going through, no matter where you are in life, you're praying for something. You're believing for something. And you need hope. BREAM (voice over): Winans kick-started her career back in the 80s singing along her brother, BeBe. Together, nine of their albums went gold and platinum. By the mid-90s, CeCe turned solo, even reaching the top 10 in the pop charts with her dear friend Whitney Houston. WINANS (singing): When I was a child, I didn't challenge things.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Beyond her music, CeCe has found more ways to share her message.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "So, mom, let me just start out by saying thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Like roundtables with the other Winans women.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "Thank you for your faithfulness.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "I don't know. That's a hard question. I think it's - it's not so much of how I express it, it's just what I express, you know, to be able to be a mouth piece, an ambassador for - for the heavenly Father.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "And you've also written a book now that's also to the next generation too about carrying on faith.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "And what that means to a new generation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "We live in a - a world that's in need of hope. And - and so we have to instill it in our children. I'm here today because of the generation before me, because of my mom and my grandmom. And - and not just my family members, but other people, part of that community who actually cared enough to lay down their lives so that I could learn, so that they could pour into me. And - and, Shannon, I don't know when it happened, but I became part of the older generation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "I know. I woke up one day and thought, we're now the mentors, not the mentees.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "Right. Now we're the mentees. Those who were before me, they - they went through a lot of hardship. When we look in the scriptures, look at what the disciples and the apostles, that they went through so that we could have the faith. I can at least go through a no, a little rejection.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "You know?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "And to be as successful as you are, we know you're going to hear those. It's hard to -- for people to look at you and say, oh, my goodness, all these Grammys and all these other awards -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "Oh, my God. Yes, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "She's so successful.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "But it's good for people to know that there - there were some no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WINANS",
+      "sentences": "To know. Pain is a part of life. Disappointment is a part of life. And, actually, nobody wants to say this, but it's through the roughest times that God really shows up. WINANS (singing): Praising my Savior all the day long.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Such a powerful voice in so many different ways. Well, up next, FOX NEWS SUNDAY is about to hit the road, and we're taking you along with us. We'll explain, next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "If you want to revisit any of today's interviews with our newsmakers, you can hear all of today's program on a FOX NEWS SUNDAY podcast. Download and subscribe at foxnewspodcast.com, or where you get your podcasts. And don't miss the best moments of FOX NEWS SUNDAY. Set your DVR to record the show each week on your local Fox station or Sundays 2:00 p.m. Eastern on the Fox News Channel. All right, before we go, we wanted to let you know what is coming up next week. We are headed to the Iowa State Fair this week. We're going to come to you live from the fair in Des Moines next Sunday. Check it out. All the corn dogs, pork chops on a stick, fried Twinkies, we're going to try it all. And all the GOP candidates you can handle. So, make sure to join us Sunday. We'll take you behind the scenes and let you hear from the people who want your vote as a GOP primary voter. Until then, I'm Shannon Bream. Thank you so much for joining us. Have a wonderful week and we'll see you next FOX NEWS SUNDAY from Iowa. END Copy: Content and Programming Copyright 2023 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2023 VIQ Media Transcription, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content. This article was written by Fox News staff.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHANNON BREAM, FOX NEWS ANCHOR",
+      "utterance": "I'm Shannon Bream. A special counsel named to investigate the president's son, and Maui devastated."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "People lost everything. There are still people missing."
+    },
+    {
+      "speaker": "BREAM (voice-over)",
+      "utterance": "The search goes on as does the battle against the flames. The fire, the deadliest disaster in Hawaii's history, and the cost to repair could be in the billions. We'll have the latest on the federal response and plans for relief in paradise. And -- two years since the U.S. military's chaotic exit from Afghanistan, families of the service members killed in the Kabul airport bombing are demanding answers."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "I will fight until my last breath to get to the truth."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "We'll discuss two years since the Taliban takeover with Congressman Michael McCaul, chair of the House Foreign Affairs Committee, and Adam Smith, top Democrat on House Armed Services. Then, surprise developments in the Hunter Biden criminal investigation."
+    },
+    {
+      "speaker": "MERRICK GARLAND, U.S. ATTORNEY GENERAL",
+      "utterance": "I'm here today to announce the appointment of David Weiss as a special counsel."
+    },
+    {
+      "speaker": "SEN. LINDSEY GRAHAM (R-SC)",
+      "utterance": "They're trying to put out a fire and they just pour gasoline on it."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "We'll ask our Sunday panel what role the courtroom dramas could play in 2024. Plus, she's the best-selling female gospel artist of all time. We go one- on-one with CeCe Winans."
+    },
+    {
+      "speaker": "CECE WINANS, GOSPEL ARTIST",
+      "utterance": "No matter where you are in life, you're praying for something. You're believing for something."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All, right now, on \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "BREAM (on camera)",
+      "utterance": "We begin this morning with breaking news. Nearly a hundred people are confirmed dead on the island of Maui, making it the single deadliest disaster in Hawaii's history and the deadliest U.S. wildfire in more than 100 years. Catastrophic blazes began tearing through multiple areas of the state Tuesday night. Many residents and tourists caught completely off guard. These drone images out of west Maui show the intense flames as they quickly spread across the island. And this is just some of the utter destruction left behind devastating damage in multiple areas and homes and communities reduced to just ashes. Residents now wondering where to turn. Take a look at this before and after satellite imagery of the historic town of Lahaina. It was nearly burned to the ground. A spot beloved by locals and tourists alike, decimated. FOX News senior national correspondent William La Jeunesse has been on the ground in Maui now the last couple of days talking to those impacted by these devastating fires -- William."
+    },
+    {
+      "speaker": "WILLIAM LA JEUNESSE, FOX NEWS SENIOR NATIONAL CORRESPONDENT",
+      "utterance": "Well, Shannon, you know, there are a lot of questions like why didn't Maui activate that emergency alert system to give people more time. But for those living here, it's more much simple, right? My friend's alive. Where am I going to live? Do I have a job? And how do we recover?"
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Right over there. I'm born and raised here and I was planning on raising my 3-year-old daughter there."
+    },
+    {
+      "speaker": "LA JEUNESSE (voice-over)",
+      "utterance": "Like most of Lahaina today, Lena is homeless. Some family members died, others she learned survived."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "And she finally answers her phone. Like she has a 1- year-old baby, yesterday was his birthday."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Lahaina was a really small, nice, historical place and it's gone."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "Hurricane Dora passed 600 miles south of Hawaii. No one predicted high winds. They were wrong."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "The smoke was so black and so thick, we were worried about getting killed."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "Captain Linda Lindermann (ph) watched the entire marina, including the boats inside, go up in flames."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "So, there was no real route to go north or south or towards the mountains. The only escape once the thing swooped in was to get in the water."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "Gary Savage jumped off the break wall with dozens of others spending the next eight hours in the water before being rescued."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I don't know, man. I would say dumb luck. Really just feel lucky and guilty for having the home."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "This family had just seconds to evacuate, but Maui never activated its emergency siren system."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "There was no emergency sounds. They did not sound off the tsunami warnings."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "Officials refused to say why. Many died in their cars trying to escape."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "She jammed her car in there trapping her inside and the car next to her burst into flame."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "The search for victims continues with just 3 percent of structures inspected by cadaver dogs. Countless remain unaccounted for. FEMA is mobilizing resources and the biggest challenge is housing, 4,500 need shelter."
+    },
+    {
+      "speaker": "DEANNA CRISWELL, FEMA DIRECTOR",
+      "utterance": "We are not taking anything off the table."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "FEMA Director Deanna Criswell and Governor Josh Green say hotels promised a thousand rooms."
+    },
+    {
+      "speaker": "CRISWELL",
+      "utterance": "Bringing in temporary housing is certainly one of the tools we have in our toolbox, but we can also do other things like work with direct leasing and use some of the available vacation homes."
+    },
+    {
+      "speaker": "LA JEUNESSE",
+      "utterance": "But for the generations that built Lahaina, the cultural heart of Maui is broken."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I can look at structures and I don't even remember what that was. Nothing here is -- nothing here is recognizable to me."
+    },
+    {
+      "speaker": "LA JEUNESSE (on camera)",
+      "utterance": "Now, there is a curfew in effect and this is where the line begins and it will stretch for miles in a matter of hours -- Shannon."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "William La Jeunesse, thank you so much, reporting live from Maui. And if you would like to help people affected by the Hawaii wildfires, you can donate at redcross.org/foxfoward. Or just this, very quickly, text Hawaii to 90999 and you will make a $10 donation. Back here in Washington a criminal trial now appears likely for Hunter Biden after a plea deal involving tax and gun-related charges has fallen apart. This week, a special counsel, a familiar face many conservatives do not trust was tapped to lead the ongoing investigation. It's an unprecedented time in American politics ahead of 2024 with three active special counsels whose investigation all have ties to the leading candidates from both parties. Jack Smith heading both of Donald Trump's cases into his handling of classified documents and his alleged efforts to overturn 2020 election results. Then, there is Robert Herr investigating President Biden's classified documents case. And now, the appointment of David Weiss overseeing the charges facing the son of a sitting president. We're going to break all of this down in just a minute with our legal panel. But, first, Lucas Tomlinson joins us live from the White House with the status of all these ongoing investigations. Hello, Lucas."
+    },
+    {
+      "speaker": "LUCAS TOMLINSON, FOX NEWS CORRESPONDENT",
+      "utterance": "Shannon, the White House hoped the investigation into Hunter Biden would be over by now to focus on 2024, but today, both sides remain far apart on a plea deal. The case could go to trial and a special counsel has been named."
+    },
+    {
+      "speaker": "MERRICK GARLAND, UNITED STATES ATTORNEY GENERAL",
+      "utterance": "Mr. Weiss in his capacity as U.S. attorney began investigating allegations of certain criminal conduct by, among others, Robert Hunter Biden."
+    },
+    {
+      "speaker": "TOMLINSON (voice-over)",
+      "utterance": "Trump-appointed prosecutor David Weiss had been leading the Hunter Biden probe for the past five years. His appointment could allow him to bring more charges against Hunter outside Delaware. For years, Republicans have accused the Justice Department of interfering in the probe. The chairman of the House Oversight Committee says Hunter received $20 million from foreign sources, including China, Russia and Ukraine while his father was vice president."
+    },
+    {
+      "speaker": "REP. JAMES COMER (R-KY), HOUSE OVERSIGHT COMMITTEE CHAIRMAN",
+      "utterance": "Joe was right front and center in this from day one. This is an investigation about Joe Biden."
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "President Biden has long denied any involvement in his son's overseas business dealings."
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "utterance": "I never talked business with anybody."
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS CORRESPONDENT",
+      "utterance": "Are you confident your son Hunter did nothing wrong?"
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "I'm confident. I have never spoken to my son about his overseas business dealings."
+    },
+    {
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT",
+      "utterance": "Thank you very much."
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "Back in Washington on Friday, a federal judge told former President Donald Trump to cool it on social media after this Truth Social post following his third indictment. The judge telling Trump's attorneys, quote, I caution you and your client to take special care in your public statements about this case."
+    },
+    {
+      "speaker": "TOMLINSON (on camera)",
+      "utterance": "Georgia's former lieutenant governor will appear before a grand jury on Tuesday ahead of a possible fourth Trump indictment. When Trump was sworn into office in 2017, Georgia had two Republican senators. Today, it has none -- Shannon."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Lucas Tomlinson, reporting live at the White House, thank you, Lucas. Now to our legal panel. George Washington University law professor Jonathon Turley, and Thomas Dupree, former principal deputy assistant attorney general. Welcome back to both of you. This is becoming a regular thing. I -- there's plenty of legal wrangling going on in D.C. and beyond, so let's talk about this. Abbie Lowell, who is -- one of Hunter Biden's attorneys, spoke about this appointment of David Weiss and whether it confers any new powers. Here's what he said."
+    },
+    {
+      "speaker": "ABBE LOWELL, HUNTER BIDEN ATTORNEY",
+      "utterance": "Once again, people need to understand that the attorney general and he -- that he, Mr. Weiss -- has said for a longtime, that he had all the authority he needed to bring any charge that was appropriate in any place. So what does the special counsel do that he couldn't do? The answer should be nothing different."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK. So that begs a lot of questions."
+    },
+    {
+      "speaker": "Here's what House Judiciary Committee chair, Republican Jim Jordan, tweeted",
+      "utterance": "First, David Weiss said he didn't have the power he needed and wanted special counsel status. Then, he said he had all the power he needs. And now, he gets special counsel status because he didn't really have the power he needs? Something's not right. Tom, what do you make of the timing in this selection?"
+    },
+    {
+      "speaker": "THOMAS DUPREE, FORMER PRINCIPAL DEPUTY ASSISTANT ATTORNEY GENERAL",
+      "utterance": "Well, sure. First, I would say the special counsel does have greater power now than he did a week ago before he got this appointment. He has the power to bring charges in new different jurisdictions. And he also has a little bit more of insulation from the political fray. He's not 100 percent independent. Merrick Garland still pulls the strings, but he has a little more power. All that said, I think it's important to understand that just because the special counsel has more power doesn't necessarily mean he's going to exercise that power. It wouldn't surprise me if this is just a way for the Biden administration to cool the flames a little bit on the spotlight that's been put on Hunter Biden. It does allow the special counsel to bring Hunter Biden to trial by bringing charges in new jurisdictions. But I think the jury is still out, literally, on whether the special counsel is actually going to bring more serious charges against Hunter Biden or potentially name additional defendants as a result of this probe."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Well, and our justice producer Jake Gibson (ph) asked specifically to the DOJ, is it possible that those other people may include investigating the current sitting president? He said that they declined to comment on that. Here's what the IRS whistleblower Gary Shapley said about whether the president should be worried."
+    },
+    {
+      "speaker": "GARY SHAPLEY, IRS WHISTLEBLOWER",
+      "utterance": "There were investigative steps that clearly indicated the Hunter Biden's father, President Biden, had some type of involvement, and we just weren't allowed to follow those leads."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Jonathon, what do you think are the odds the Justice Department would actually be investigating the head of the executive branch, the sitting president?"
+    },
+    {
+      "speaker": "JONATHAN TURLEY, FOX NEWS CONTRIBUTOR",
+      "utterance": "Well, the question is why wouldn't you answer that question? I mean, you just gave great detail as to the scope of the investigation of Hunter Biden and you won't tell the public whether the president is subject to the mandate? There's no reason for that. I mean, this is a point of clarity, because otherwise, you're telling the rank-and-file, we aren't necessarily going to investigate the president. There's still that a sense of reluctance. And, you know, God help us when we have another special counsel. I mean, you're talking to the only two D.C. lawyers who are not currently serving as special counsels, right, yes."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "I'm not either."
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "The three of us. We have a lock. So, it's --"
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "We're busy."
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Yeah. We're busy. So, the question is, you know, why wouldn't you expand the mandate? Why would you select this individual? I mean, the fact is, he violated the statute by going outside the Department of Justice. That's happened before. But then he selected the person who was just accused by members of his own investigation team of a fixed investigation. And going back to Abbe Lowell, it's like solving the Mutiny on the Bounty by making Captain Bligh admiral. It doesn't resolve the underlying concerns about your leadership. And I think that this is going to make it worse and it's likely the fuel calls on the Hill to move forward with an impeachment inquiry."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yeah. And there are questions about that. We're going to talk about that with the panel a little bit later. Does it throw fuel on that fire? As Senator Graham said, you're are actually making things worse. What about the congressional investigations? Because let me read something from the \"Wall Street Journal\" editorial board. They said that the special status is politically convenient for Weiss and Garland, because it means both men can use the excuse of an ongoing investigation to refuse to answer questions from Congress. Justices is also likely to wall off FBI agents and others who worked on the cases and forget members of the Biden family. Congress' probe may have hit a dead end. Tom, this comes at the same time that Comer, chairing the Oversight Committee, says we are going to subpoena members of the Biden family."
+    },
+    {
+      "speaker": "DUPREE",
+      "utterance": "Absolutely. And, look, before all of this happened, Weiss was going to go to Congress and testify. And Attorney General Garland had given him authorization to go do that and to talk about it. I have absolutely no doubt that now the administration is doing a 180 on this. I strongly suspect Weiss is going to say, wait a minute. This is an ongoing investigation, the world has changed, I can no longer come and testify. I'll take a rain check and I'll see in a year. That said, I think it's --"
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "For three (ph)?"
+    },
+    {
+      "speaker": "DUPREE",
+      "utterance": "At least. I think it's critical for Congress to keep its foot on the accelerator here. They have done a masterful job right now in getting information, getting documents, testimony, the whistleblower testimony and bringing this attention -- this information to the attention of the American people. I don't think they need to let up at this point. To the contrary, I think they need to keep pushing forward as the special counsel's investigation whatever form and shape it takes unfolds."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "So we have this protective order now and the D.C.-based case from the feds that essentially accuses the president of, you know, all kinds of things related to the 2020 election, January 6th. So, they went to court deciding what information that the former president would be able to release and talk about publicly. Judge Chutkan in that case in the Friday hearing said this, the fact that he is running a political campaign currently has to yield to the administration of justice. And if that means he can't say what he wants to say in a political speech, that is just how it's going to have to be. The president -- former president and his legal team have talked about his First Amendment rights. You know he likes to talk about this, the prosecutors, the judge, everybody else involved. I mean, how much does he risk here in potentially violating that order or getting himself a gag order?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Well, Judge Chutkan gave the ultimate straight line without breaking a smile and saying, the court expects you to show restraint on social media. And that's -- that's not likely to happen. And so, Donald Trump could trip the wire, and he could try -- he could force an issue of a gag order. That would go very quickly to the Supreme Court. There's aspects of the current order that I find troubling. You know, they say that he can't take any notes, that his lawyers have to watch him at all times when he looks at evidence. This is evidence that's supposedly eventually is going to end up in a trial. And I'm more concerned with the definition of sensitive material, that as the judge said, I'm going to go with a definition of sensitive material. It's a very ambiguous term. So it does -- right now, this does not look good in terms of the chances of a confrontation and the potential of a gag order. I hope she doesn't go in that direction, because I think it would be reversed. He is running for the presidency of United States, part of this campaign will be the merits of this case. And about 80 million jurors are going to vote on those merits."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "So with all that playing out, we will watch to see what happens in Georgia, potentially an indictment coming there and the next couple of weeks to so you'll be back, I hope, Tom and Jonathan, thank you both very much."
+    },
+    {
+      "speaker": "DUPREE",
+      "utterance": "Thanks, Shannon."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All right, when we returned, two years since the Taliban take over in Afghanistan, what to make of the billions in your tax dollars continuing to flow to that regime, as the family members of U.S. service members killed in that chaotic withdrawal say, they still can't get answers."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Admit your mistakes, learn from them, so that this doesn't happen ever, ever again."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Tuesday marks two years since the abrupt U.S. withdrawal from Afghanistan where the nation watched the scenes unfold. You remember this, people trying to evacuate the country in a chaotic and deadly exit. Now, despite assurances it wouldn't happen, the Taliban did quickly regain power in a matter of about 10 days. Since the exit from America's longest war House Republicans have demanded answers about the administration's handling of that situation. Now, with control of the House, the GOP has ramped up investigations into the White House response in the final days leading up to the U.S. departure. This week, lawmakers heard emotional testimony for the first time directly from family members of some of the 13 service members killed in a suicide bombing at the Kabul airport. In a moment we will bring in Michael McCaul, Chair of House Foreign Affairs Committee and Adam Smith, the top Democrats on the House Armed Services Committee. But joining us first in studio, Fox News Congressional Correspondent Aishah Hasnie with more those emotional testimonies from the Gold Star families."
+    },
+    {
+      "speaker": "AISHAH HASNIE, FOX NEWS CONGRESSIONAL CORRESPONDENT",
+      "utterance": "Yes, very, very emotional. I'm sure you're watching as well. Good morning to you Shannon. You know, these families, a lot of them have been silent for the past two years. That's because they were waiting patiently for this administration to explain the decisions made on the ground. Well, now. They're tired of waiting, and they're lashing out."
+    },
+    {
+      "speaker": "CHRISTY SHAMBLIN, SERGEANT NICOLE GEE'S MOTHER-IN-LAW",
+      "utterance": "I live every single day knowing that these deaths were preventable. My daughter could be with us today."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "Christy Shamblin chokes up as she remembers her daughter-in-law Sergeant Nicole Gee, one of the 13 U.S. service members killed by a suicide bomber at Kabul's Airport during that chaotic withdrawal from Afghanistan. This week, Shamblin and five other Gold Star families spoke out at a public forum, accusing the Biden administration of failing their children and then trying to cover it up."
+    },
+    {
+      "speaker": "KELLY BARNETT, STAFF SERGEANT DARIN HOOVER'S MOTHER",
+      "utterance": "We are told lives given incomplete reports, incorrect reports, total disrespect."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "Today, the administration refuses to take any responsibility, denies the evacuation was chaotic, and even calls it a success."
+    },
+    {
+      "speaker": "SHAMBLIN",
+      "utterance": "When our leaders call this evacuation of success, it is like a knife in the heart."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "They have a real hard time when the administration calls this withdrawal success, do you still believe it was success?"
+    },
+    {
+      "speaker": "MATTHEW MILLER, STATE DEPARTMENT SPOKESPERSON",
+      "utterance": "We believe it was the correct policy choice. But again --"
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Wasn't a success?"
+    },
+    {
+      "speaker": "MILLER",
+      "utterance": "We believe it's a correct policy choice, but again, I would never want to quibble with a family member who has suffered such an enormous tragedy."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "These grieving parents now just want an apology and department leaders to resign, but have little hope that will ever happen."
+    },
+    {
+      "speaker": "STEVE NIKOUI, LANCE CORPORAL KAREEM NIKOUI'S FATHER",
+      "utterance": "My son needed a commander in chief who cared solely about his life. Instead, his commander- in-chief chose to use him as a pawn."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "When Fox asked both the state and the Pentagon if mistakes were made, neither would admit that but State did refer us to its after-action report which found, Shannon, that they could have done some things better. But again, we pressed and pressed and press and they just will not admit that anything went wrong here. No mistakes were made."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "You did a fantastic job reporting and pressing this week."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "With those families, yeah."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Thanks, Aishah. All right, joining us now from Texas Republican Congressman Chair of the House Foreign Affairs Committee, Michael McCaul. Welcome back to Fox News Sunday."
+    },
+    {
+      "speaker": "REP. MICHAEL MCCAUL (R-TX), HOUSE FOREIGN AFFAIRS CHAIR",
+      "utterance": "Hi, Shannon."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK, while we talk about them, I want to put up the 13 service members, their names, their faces, so that we don't forget just two years out from this. You heard the parents there, say they've been disrespected, disregarded, they've been lied to. You've been fighting with the State Department as we close in on this two-year anniversary for documents back and forth, subpoenas, all kinds of things. Are you confident you'll be able to get answers for these families and more broadly for all Americans?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "I will not rest until we do get answers and accountability and transparency as to what happened. How did this go so wrong? And the Gold Star families are the best, you know, witnesses to this nightmare. They lost their 13 servicemen and women, Abbey Gate. We had the testimony of Tyler Vargas-Andrews, who said, \"I had the suicide bomber in my sights, but I was not given permission to engage him.\" And after that, the bomb went off killing 170 people, 13 servicemen and women. And Shannon, this is sort of news breaking. We just have reported today a member of my staff Jerry Dunleavy with his book, \"Kabul\", that U.S. intelligence had ISIS-K in their sights, knowing they were plotting to take out Abbey Gate on the very same day that it was taken down when the suicide bomber went off. They asked the Taliban to go in, our U.S. military, the Taliban denied. U.S. intelligence requested an airstrike. Guess what, that airstrike was denied, was denied to go in and take out the very forces that then killed our 13 servicemen and women. This story gets worse by the day. And I will not rest until we get to the bottom of it."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Well, Chairman, who would have known about what you're telling us? First time that I'm hearing it this morning, that level of detail about the intel that we had and the order that was denied. Who would have had that information, who would have made that call?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Well, it was the general on the ground, Mr. Donahue, it would be General McKenzie who is in charge of SITCOM in the operation, it goes all the way up, you know, Shannon, to General Milley and in his decision making, and the Secretary Defense. We've been denied access to these witnesses. And we're prepared to go forward with subpoenas to get to the bottom, because these Gold Star families that you just showed deserve the truth as to what happened to make sure this never happens again. But this was not a clean operation, this was not a successful evacuation by any stretch of the imagination. And the Taliban was put in charge. And in my judgment, that was the worst mistake of all, was to put them in charge and not our U.S. military to evacuate U.S. citizens and our partners that fought so bravely with us."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yeah, and many were left behind and still are two years later. So I want to ask you about this. There's a new report out from the Special Inspector General overseeing Afghanistan reconstruction, Washington Free Beacon has this headline from the report. They say, the Biden administration has given $2.35 billion to Taliban controlled Afghanistan. So what do you tell American taxpayers about their dollars flowing to that group, as you said, that was critical in what happened at Abbey Gate, and now is clearly, you know, disrespectful is the nicest way that I can say it, to women, to girls, to religious minorities -- those are U.S. tax dollars."
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "I'm prepared in my position to put a hold on this funding until we get assurances it's not going right into the hands of the Taliban, that by the way, Shannon, are oppressing women, they can't go out of their homes, they can't get educated. Women can even be hired by these NGO, these charitable organizations in Afghanistan, and we're paying the money. The U.S. taxpayers funding this, we need some assurance that this is going to go to the right hands, and it's going to help the women in Afghanistan, and if the Taliban cannot assure us that, I think we need to be prepared to cut that funding off as a stick, rather than giving them just a carrot."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Well, it brings up another item I want to ask you about which is this deal that's apparently coming together to free Americans from being held wrongfully in Iran, it would free up $6 billion in frozen assets for the Iranians to use, I believe, we're releasing some Iranian prisoners as well. We are told that there will be strict guardrails on that money that Iran will now get access to. Here is Democrat and veteran, one of your colleagues, Congressman Seth Moulton."
+    },
+    {
+      "speaker": "REP. SETH MOULTON (D-MA)",
+      "utterance": "This money is going to still sit in a Qatari Bank account, only the Qataris will have authority to release it. So basically what will happen is Iran will say hey, we want to buy $10 million worth of grain. Qatar will write the check for that, themselves, the grain will go to Iran."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "The administration says they will have transparency about where the money goes. Are you confident of that?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Well, I -- you know, look, you know, Reagan said trust but verify. But I have to use the word naivete. I -- look, these are like accounts in South Korea frozen assets going to Switzerland and to Doha, Qatar, to then go into Iran, the idea that the Ayatollah is not going to have any control over this money -- and by the way, we're talking about $6 billion, right? $6 billion under Obama, it was $400 million of cash and airplanes that went into Iran. Look, I want to get these Americans home more than anybody. And one of them is a critical asset. I agree with that. But we have to go in eyes wide open. $6 billion that now is going to go into Iran and prop up their proxy war, terror operations, and their nuclear bomb aspirations. They are now starting to talk about the JCPOA all over again, which in my judgment, will lead us down a course to a legal nuclear bomb in Iran. Prime Minister Netanyahu came out strongly against this. I think we're going back to the mistakes of the past. And finally, Shannon, get this, our special envoy to Iran to negotiate the JCPOA is under investigation for mishandling classified information. He has the most sensitive information as our top negotiator to Iran, and to the Ayatollah, now under investigation for mishandling classified information, very troubling story."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All right. I have so much more to ask you about, but Chairman, we got to leave it there so I can bring in your colleague. We always appreciate your time, sir. Come back soon."
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Thanks, Shannon, thanks for having me."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All right, joining us now from Washington State, Democrat Adam Smith, Ranking Member of the House Armed Services Committee. Welcome back, good to see you again, sir."
+    },
+    {
+      "speaker": "ADAM SMITH (D), WASHINGTON STATE CONGRESSMAN",
+      "utterance": "Good to see you, Shannon. Thanks."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Okay. So I want to start with the Iran Deal there again, as you heard the Chairman just talking about, we've been told that there will be guardrails on this money $6 billion that would flow through the Qataris. And so here's what Iran's Ministry of Foreign Affairs said, Friday, a warning us that they still have controlled these people, they're still in custody and adding this, \"The decision on how to utilize these unfrozen resources and financial assets lies with the Islamic Republic of Iran.\" Telegraphing that they plan to do what they plan to do with the money. Money is obviously fungible. A lot of this re-invokes for people, which you've heard the Chairman referenced there, the $400 million in cash that was then followed up by $1.7 billion -- or excuse me, $1.3 additional billion in cash that went in a prisoner swap back in 2015 under President Obama. Some of the people were now trying to get out. They were kidnapped or wrongfully in prison since we paid that money. I mean, are you -- do you believe the Iranians can actually change their behavior?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "There's a fundamental misunderstanding about what's going on here. The money that's going from Korea to Iran is money from oil that Iran sold to Korea and Korea did not pay for that -- South Korea, sorry, because the sanctions that were imposed on the Trump administration. And there were about a half dozen countries in that situation. Italy, India, a few others, all of those other countries under the Trump administration have already given Iran that money with no strings attached under a special payment system that was set up under the Trump administration. South Korea didn't pay that money for complicated reasons. And they're valid, they want to transfer it. So money of this kind has already been transferred. This is money to pay for oil that was given to South Korea. This isn't some sort of frozen assets situation. So this type of money has already been transferred. Second, the deal has not been finalized. Qatar will control the money. So whatever the Mullah in Iran has to say about it, it will be controlled by Qatar, not by Iran. So that aspect of it makes sense. We're still waiting to see what the prisoner swap looks like and to finalize the deal. But there's a lot more detail here that I think isn't being understood."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yeah, I mean --"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "The Trump administration transferred billions of dollars from these other countries back to Iran, with no strings attached. And I don't hear anybody talking about that."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Well, in this current scenario, though, giving them $6 billion. And they will say it can be for medicine and for humanitarian needs. We know money is fungible, and there are real concerns that this amounts to an exorbitant ransom payment critics, would say."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "But again, it's not as I just said, where were those real concerns during the Trump administration, when money from a bunch of other countries was being transferred to Iran, no strings attached, no prisoners returned?"
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "So it just doesn't seem like a legitimate complaint based on the facts of the certain -- facts of the situation."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yeah, so there are people complaining now and they didn't complain them very fair question for them. But let's do this, let's talk about critics who say this actually is putting a bounty on Americans heads they include former Secretary of State Mike Pompeo involved with a lot of those discussions."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Right. And that is a fundamental misunderstanding of what this money is."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "OK, it's not a bounty because we're not paying the money. It's Iran's' money that was sitting in South Korea."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Withheld under sanctions."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "So it's a bounty?"
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK, well, let me play the Secretary and let you respond."
+    },
+    {
+      "speaker": "MIKE POMPEO, FORMER SECRETARY OF STATE",
+      "utterance": "When I was Secretary of State, we had denied them wealth. They were down to just a little bit of money. The Biden administration has come in and up ended all of that, and the Iranians will now be flush and their terror campaign more successful."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "I mean, this is a country that chants Death to America."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "I understand all that. But that's completely untrue, Undersecretary Pompeo, these other countries, I'm aware of Italy and India, there were a few others that hadn't found, money was transferred from them. Same situation where Iran had sold stuff to these countries, sanctions kicked in, money hadn't been paid. Under Secretary Pompeo, that money was transferred from those countries to Iran, no strings attached. Okay. So it is not a bounty and this factually incorrect what Secretary Pompeo is saying."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK, let's turn to Afghanistan, as we talked about."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "We're coming up on the second-year anniversary of the chaotic withdrawal there, the service members that again, we'd like to remind people of their names, their faces, and their families that you heard from this week. The Special Inspector General also outlined in his new report this, despite Taliban promises made since gaining power in August 2021, to be more inclusive, counterterrorism, respect human rights and not pose a security threat to the region. The U.N. says that the Taliban, \"shows no signs of bending to pressure for reform or compromise. They are unchecked by any meaningful political opposition.\" So I'll ask you the same question I asked the Chairman, what do you say to American taxpayers about us giving billions of dollars to that organization?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, the Taliban awful, terrible, horrible on to any other expectation than that. I'd have to look at that specific report. I know there were a lot of again, frozen assets that we had in control that were actually Afghan money. I'm not sure about the actual U.S. taxpayer money going in. I'm extraordinarily reluctant to send that money. There is one caveat to that. Afghan is -- Afghanistan is also going to humanitarian disaster right now. People are starving to death. They can't get access to health care. We're getting a lot of pressure internationally. What can the international community to do to stop that humanitarian disaster? And I suppose one answer is, you got the government, you got you got the Taliban leading you. This is where you're at. We can't help. But it is such a huge humanitarian disaster that I'd say it's worth at least looking at options, even though I don't think there are any particularly good options in this situation."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "I think you're right. OK. quickly want to ask you about Ukraine. The White House is asking for another round of supplemental funding. There's new polling showing up at a majority of Americans think we've done enough. They don't want to see any more appropriations of money going to Ukraine. This particular appropriations request, the supplemental is tied up also, excuse me, with domestic emergency relief funding and also some funding for the border. Senator Marco Rubio said this, \"President Biden is holding Americans hostage by tying critical domestic disaster relief to foreign military aid. He calls it cynical, political manipulation. Do you think that you should be tied together?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "It's an initial statement offer of what the Biden administration thinks we should fund. We'll see how that plays out going forward. The polling data I've seen, by the way is that well over 60% of people still think we should be doing what we should do, everything we can to help the Ukrainian people. Look, Russia has engaged in a brutal invasion of Ukraine, you can see the pictures of how they're destroying cities, killing civilians. I think defending Ukraine is something that is in our interest and overwhelming majority of American people seem to agree with that. As far as the other pieces are concerned, every supplemental that I've ever dealt with in my 27 years in Congress has been tied with one thing to another. But this is an opening negotiation. We'll see. I think there are critical needs. We'll see what the final package looks like. But I want to make it clear. I still support Ukraine. I think there's a bipartisan people. I wish you to ask Congressman McCaul this question, because I'm certain he would agree with me that this is something that we should be supporting. I know he's been an incredibly strong supporter of Ukraine has -- as has Chairman Mike Rogers, who's the chairman of my committee on Armed Services."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Well, we know that you've been to many of these hotspots repeatedly around the world and seen firsthand so we appreciate you sharing your expertise with us, Congressman."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Thank you, Shannon. Appreciate it."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All right coming up, Florida Governor Ron DeSantis in Iowa taking aim at his biggest rival ahead of the first Republican primary debates. But former President Donald Trump had his own plans up his sleeve. We're going to bring in our Sunday panel to discuss the competing antics at the Iowa State Fair, next."
+    },
+    {
+      "speaker": "RON DESANTIS, (R) PRESIDENTIAL CANDIDATE",
+      "utterance": "I think it's fine to bring folks in from Washington but I think Iowans really are more concerned about the people in their communities. And I was that they know and work with and go to church with and see."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "That's Florida Governor Ron DeSantis at the Iowa State Fair Saturday. He was referencing former President Trump's decision to bring a congressional delegation from DeSantis' home State of Florida with him to Des Moines. It is time now for our Sunday group, Julia Manchester, National Political Reporter for The Hill, former Special Assistant for National Security to President George W. Bush, Michael Allen, Contributing Writer for Forbes, Richard Fowler and Katie Pavlich, editor @townhall.com. Good to see all of you. OK, so the Iowa State Fair is a thing, it's happening. Julie, what do you make of these two entourages that sort of were competing there yesterday among the fried foods?"
+    },
+    {
+      "speaker": "JULIA MANCHESTER, THE HILL NATIONAL POLITICAL REPORTER",
+      "utterance": "Yeah, look, what it tells you is DeSantis is obviously trying to put everything into Iowa and Trump is sort of trying to cut into that. And I'm not saying that Trump necessarily has a chance of losing Iowa at this point, but DeSantis' team feels very confident in Iowa. There was a New York Times/Siena College poll that came out a few weeks ago and nationally, it shows Trump with a lead in the 50s. However, when it comes to Iowa, his lead is in the 40s and DeSantis' lead is a few points up. So they feel confident, and Trump is very much trying to sort of nudge DeSantis or maybe jab at DeSantis in a way by bringing that Florida -- those members of the Florida congressional delegation, it was very notable this week that Steve Deace endorsed Ron DeSantis. He's a conservative commentator and radio host in Iowa, his team very much making a big deal about that. But the question is, what happens after Iowa for Ron DeSantis? How does he compete in New Hampshire and South Carolina? We'll have to see but for now, it's all eggs in Iowa basket."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yeah, Katie, how big is it if you score that first win, it definitely has not served as a guarantee for the -- to become the eventual nominee or president when they're in Iowa for the GOP. But there's a psychological aspect to scoring an early win, one of those states?"
+    },
+    {
+      "speaker": "KATIE PAVLICH, TOWNHALL.COM EDITOR",
+      "utterance": "Yeah, Donald Trump lost Iowa and went on to be the Republican nominee, and he have actually won the presidency. But for Ron DeSantis, you know, people in Iowa unlike the rest of maybe the GOP base, are shoppers, they're willing to change their vote, they're willing to look at other candidates and Ron DeSantis is taking advantage of that by being there during the 99 County Tour."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "The Full Grassley?"
+    },
+    {
+      "speaker": "PAVLICH",
+      "utterance": "The 'Full Grassley, as they call it. He sat down with the Iowa's governor. She's doing these fireside chats, as we've seen with all these candidates. President Donald Trump, though, literally did a flyover flew in and did a rally yesterday and then flew out. Now, he may not see Iowa as a necessarily win because he didn't win it last time. He's been focused on other things other states, but certainly Ron DeSantis sees an opening here for shading off some of those voters in a place where people are willing to look at the candidates and make a different choice."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All right, I want to look at the other side of the ticket because with the appointment of Special Counsel for Hunter Biden and the fact that he is pleading it looks like it's going away, he may have to go through -- go to trial, the AP political all of them reporting that this is going to be an issue for the Biden campaign. Wall Street Journal Editorial Board says this, \"President Biden will have the excuse of the investigation to refuse to answer questions about the Biden family business during the campaign and the press corps may give him that pass. Mr. Garland has belly flopped his department into the 2024 presidential campaign.\" And Michael, it's a headache that no reelection campaign needs."
+    },
+    {
+      "speaker": "MICHAEL ALLEN, FORMER BUSH NATIONAL SECURITY OFFICIAL",
+      "utterance": "I'll take what the Journal says at face value. But nonetheless, if I'm a House Republican, and if I'm looking at this politically, I would do a little dance here. We have more pressure on the Biden family to answer for all of Hunter's activities. And all the Vice President Biden's activities when he worked for President Obama. For me this brings it more into the mainstream and allows more pressure to go on to the Biden family. I get that they wish -- the House Republicans wish it was a different Special Counsel, but nonetheless, this is political pressure and vindication for their efforts thus far."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "So it's not just Republicans who might be taking notice of this and the impact because there are Democrats that potentially sound like they may be souring on President Biden. York Times reports this, \"Representative Dean Phillips, the Minnesota Democrat who has called for someone in the party to challenge Biden, said the Special Counsel news is, quote, my entire rational for urging a Biden alternative.\" He says, \"it's gone from a distraction and ridiculous to, oh, wow, maybe something is there.\" And, by the way, he is somebody who has been courted potentially by donors to jump into this race. Does this mean that the president maybe doesn't have a clear walk to the nomination?"
+    },
+    {
+      "speaker": "RICHARD FOWLER, FOX NEWS CONTRIBUTOR",
+      "utterance": "Look, I think the president has a good chance of winning this nomination because there aren't any contenders in the field right now. Any contenders that seem to be gathering much steam. With that being said, I think you have to decouple the two. I think if you talk to the folks in the Biden White House they'll tell you we're running a campaign and they'll also tell you that while the president loves his son, his son is a private citizen and his son should be able to do what he son wants to do. And his son is not above the law. I think the - the good news here in this special counsel announcement, that you haven't heard a lot of people talk about, is this. Once the special counsel is over, they will issue a report. It's very likely that Merick Garland will make that report public to the American people. And if the - if the facts in the report are demonstrably different than the facts that we see on Capitol Hill, that we heard Senate -- House and Senate Republicans talk about, this creates a big problem for them because for the past -- since 2018 they've been saying that there is bribery here, there's wrongdoing here. And if that doesn't work out after a five-year Justice Department investigation by a Trump-appointed justice - by a Trump- appointed attorney, that speaks to big problems for them."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Well, I have real doubts that the special counsel would be done with this report before the election. But stranger things have happened and do every day right now in Washington. In the meantime, we're watching Georgia to see whether President Trump will potentially face another indictment there. \"The New York Times\" reporting this, if Mr. Trump were to be convicted in a federal prosecution, he could theoretically pardon himself if he were elected re-elected president. But presidents do not hold such weight in state matters. Moreover, Georgia law makes pardons possible only five years after the completion of a sentence. Getting a sentence committed requires the approval of a state panel. So, Katie, a lot of people think these state issues are more fraught for former President Trump."
+    },
+    {
+      "speaker": "KATIE PAVLICH, FOX NEWS CONTRIBUTOR",
+      "utterance": "Well, you know, it also becomes politically a resource management problem for the president. So, politically, it's helped President Donald Trump in a primary, but he has had to spend tens of millions of campaign dollars in fighting these indictments, federally and at the state level. At the state level it is a problem for him if he can't pardon himself, if he were to be convicted. Now, we're far off from that. You know, when a grand jury returns an indictment it's 12 out of 28 people doing it. It's not beyond a reasonable doubt."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "PAVLICH",
+      "utterance": "The district attorney in Georgia is very confident that she has the work done, that she will get two indictments that she thinks that she can then go and prove. But it's to be seen. You know, we had a lot of these things come out against President Trump in the past, federally and at the state level, and they have fallen apart."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yes, from a grand jury to a real jury where you'll have opposing arguments, you will have different evidence. There will be an opposition there. And innocent unless proven otherwise in this country. Meanwhile, Senator Joe Manchin is making news again because he was asked on a radio show this week whether he would consider leaving the party and becoming independent. Here's what he said."
+    },
+    {
+      "speaker": "SEN. JOE MANCHIN (D-WV)",
+      "utterance": "I would think very seriously about that. I've been thinking about that for quite some time. I haven't made any decisions whatsoever on any of my political directions."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Richard, I've heard a lot of angst from Democrats who do not want to see this man turn independent or see him mount a third party change - or challenge under No Labels."
+    },
+    {
+      "speaker": "FOWLER",
+      "utterance": "Look, I don't think there's going to be a third party challenge. But I will say, I do think, if you look at the map, this electoral map, which is where this matters, Joe Manchin has a really tough re-election coming up. And so this ideal of him posturing in this moment speaks to the fact that West Virginia is a red state. And I have to win in my state. So, he's going to posture. He's going to say, I don't like the president. He's going to say the president's terrible. That will hopefully garner him enough votes to possibly win re-election. I don't see him mounting a third party campaign and No Labels have said very clearly that they don't want to be a spoiler in this election."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Very quick. Final word."
+    },
+    {
+      "speaker": "ALLEN",
+      "utterance": "If he does run, that's bad news for President Biden. There's low enthusiasm for the president and I think it takes out from his vote."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All right, we've got to leave it there, panel. See you all next week. And a reminder, we are a little bit more than a week away from the first `24 Republican primary debate in Milwaukee. Bret Baier and Martha MacCallum will moderate. Coverage begins August 23rd, 9:00 p.m. Eastern, on Fox News Channel. Coming up, the most awarded gospel artist of all time sits down with us to talk about her faith, her powerful music and why she's so passionate about the next generation."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "She's the best-selling and most awarded female gospel artist of all time. We had the honor of catching up with powerhouse CeCe Winans when she stopped here in Washington to perform this summer with the National Symphony Orchestra. It is this week's \"Sunday Special.\""
+    },
+    {
+      "speaker": "CECE WINANS, AMERICAN GOSPEL SINGER",
+      "utterance": "I bring you news to encourage you, he's never failed me yet."
+    },
+    {
+      "speaker": "BREAM (voice over)",
+      "utterance": "CeCe Winans taking center stage at the Kennedy Center on her Believe For It Tour, performing some of the biggest hits of her career."
+    },
+    {
+      "speaker": "BREAM (on camera)",
+      "utterance": "You've performed so many places and done so many things, but what does each night feel like for you to get ready to take that stage and do something special?"
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "I wanted to offer hope, because no matter where you are, no matter what you're going through, no matter where you are in life, you're praying for something. You're believing for something. And you need hope."
+    },
+    {
+      "speaker": "BREAM (voice over)",
+      "utterance": "Winans kick-started her career back in the 80s singing along her brother, BeBe. Together, nine of their albums went gold and platinum. By the mid-90s, CeCe turned solo, even reaching the top 10 in the pop charts with her dear friend Whitney Houston."
+    },
+    {
+      "speaker": "WINANS (singing)",
+      "utterance": "When I was a child, I didn't challenge things."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Beyond her music, CeCe has found more ways to share her message."
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "So, mom, let me just start out by saying thank you."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Like roundtables with the other Winans women."
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "Thank you for your faithfulness."
+    },
+    {
+      "speaker": "BREAM (on camera)",
+      "utterance": "But you do so many other things too. I mean you're a writer. You speak. What do you enjoy most?"
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "I don't know. That's a hard question. I think it's - it's not so much of how I express it, it's just what I express, you know, to be able to be a mouth piece, an ambassador for - for the heavenly Father."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "And you've also written a book now that's also to the next generation too about carrying on faith."
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "And what that means to a new generation."
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "We live in a - a world that's in need of hope. And - and so we have to instill it in our children. I'm here today because of the generation before me, because of my mom and my grandmom. And - and not just my family members, but other people, part of that community who actually cared enough to lay down their lives so that I could learn, so that they could pour into me. And - and, Shannon, I don't know when it happened, but I became part of the older generation."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "I know. I woke up one day and thought, we're now the mentors, not the mentees."
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "Right. Now we're the mentees. Those who were before me, they - they went through a lot of hardship. When we look in the scriptures, look at what the disciples and the apostles, that they went through so that we could have the faith. I can at least go through a no, a little rejection."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "You know?"
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "And to be as successful as you are, we know you're going to hear those. It's hard to -- for people to look at you and say, oh, my goodness, all these Grammys and all these other awards -"
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "Oh, my God. Yes, right?"
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "She's so successful."
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "But it's good for people to know that there - there were some no."
+    },
+    {
+      "speaker": "WINANS",
+      "utterance": "To know. Pain is a part of life. Disappointment is a part of life. And, actually, nobody wants to say this, but it's through the roughest times that God really shows up."
+    },
+    {
+      "speaker": "WINANS (singing)",
+      "utterance": "Praising my Savior all the day long."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Such a powerful voice in so many different ways. Well, up next, FOX NEWS SUNDAY is about to hit the road, and we're taking you along with us. We'll explain, next."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "If you want to revisit any of today's interviews with our newsmakers, you can hear all of today's program on a FOX NEWS SUNDAY podcast. Download and subscribe at foxnewspodcast.com, or where you get your podcasts. And don't miss the best moments of FOX NEWS SUNDAY. Set your DVR to record the show each week on your local Fox station or Sundays 2:00 p.m. Eastern on the Fox News Channel. All right, before we go, we wanted to let you know what is coming up next week. We are headed to the Iowa State Fair this week. We're going to come to you live from the fair in Des Moines next Sunday. Check it out. All the corn dogs, pork chops on a stick, fried Twinkies, we're going to try it all. And all the GOP candidates you can handle. So, make sure to join us Sunday. We'll take you behind the scenes and let you hear from the people who want your vote as a GOP primary voter. Until then, I'm Shannon Bream. Thank you so much for joining us. Have a wonderful week and we'll see you next FOX NEWS SUNDAY from Iowa. END"
+    },
+    {
+      "speaker": "Copy",
+      "utterance": "Content and Programming Copyright 2023 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2023 VIQ Media Transcription, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content. This article was written by Fox News staff."
+    }
+  ]
+}

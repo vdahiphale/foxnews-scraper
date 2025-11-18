@@ -1,0 +1,693 @@
+{
+  "date": "April 10, 2020",
+  "headline": "San Antonio Food Bank CEO on 'unprecedented' demand amid coronavirus crisis",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/san-antonio-food-bank-ceo-on-unprecedented-demand-amid-coronavirus-crisis",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Staying at home leads to death also. And it's very dramatic for this country. But staying at home if you look at numbers that leads to a different kind of death perhaps  (END VIDEO CLIP)",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, FOX NEWS ANCHOR",
+      "sentences": "So that different kind of death that the President spoke off just a short time ago was in response to a question about the United States economy. He says that when to send Americans back out there, back to Life and back to work will be the biggest decision of his life and he's relying on the experts to guide him on it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } Dr. Anthony Fauci is of course one of those strong voices in the room. He will join me on that question in moments. Plus, he'll take some of your questions and respond to new criticism of the modeling that he and others heavily relied upon. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, one of those critics is Andy McCarthy, who wrote today in The National Review this. On April 8th, the projected cumulative deaths were slashed to 60,000. In less than a week, the model proved to be off by more than 33 percent. It is not that social distancing has changed the equation. It is that the equation's fundamental assumptions are so dead wrong, they cannot remain reasonably stable for just 72 hours, he writes. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } We'll talk to Dr. Fauci about that and many other things tonight. Remember that model was the one that was used to shut down the United States economy and now, we have lost likely far more than 16 million jobs that we know about so far in the last three weeks. That leads to even more consequences around the country like a run on America's food banks. This was the scene yesterday in Texas as cars lined up for blocks. So, some are asking where was the model for hunger. For this situation. We'll talk specifically about that later tonight with the President of the San Antonio Food Bank, coming up tonight on The Story. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); } Also, tonight one of the top Republicans on the Oversight Committee demanding a closer look. At the World Health Organization. This is a big topic right now, or what he calls taking their cues from China. But we begin of course with our lead guest of the evening Dr. Anthony Fauci.  Dr. Fauci, great to have you with us. Thank you very much. I know that these have been very long days and we're glad to have you with us on this Friday evening. I'd like to start with the question of these models which are now getting a lot of push back in terms of their reliability when the numbers have swung 33 percent in just a couple of days. What do you say to Andy McCarthy who wrote that piece?  DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES: Well, I mean there's a certain validity to it. I have been and still am and will always be somewhat reserved and skeptical about models because models are only as good as the assumptions that you put into the model and those assumptions that start off when you don't have very much data at all or the data that you have is uncertain that you put these assumptions in and you get these wide ranges of calculations of what might happen. You know 100,000, the 240,000 deaths. But then as you start to accumulate data, data that's real data are likely being influenced heavily by the mitigation programs that you've put in the physical separations that when real data comes in, then data in my mind always trumps any model and you have to modify the model and the assumptions as you get data in. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, I have no problem with people who are critical of modeling, because modeling is inherently an imperfect science. So, I don't really have any quibbling with that. And you just got to make sure as you collect real data, you rely more on the data than you do on a model.  MACCALLUM: Yes, sure. I mean all of that makes a lot of sense, but I think one of the problems is that those models were what were used to shut down the United States economy. The fear that those numbers when we looked at 100,000 to 240,000 people and that was, I should point out including mitigation and social distancing. That was with that factored in. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); } So that number has dropped by 33 percent. So, I guess what kind of model is so far off that it leads us to policy making decisions that now are having such dire consequences",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Well first, I think it's important to point out that it isn't the model or the result of the model that really led to the decision to have such strong mitigation programs such as physical separation. You don't even have to look at any model. Just take a look at what happened in China. Take a look at what happened in northern Italy. How the hospitals were completely overrun and the draconian methods that had to be taken in China to turn down their outbreak. So, I mean, if I never saw a result of a model, that alone would clearly indicate that something rather significant needed to be done to prevent the spread. So, I mean, again, getting back to models and I never argue with anybody that has a problem with the model. I inherently have problems with models.  MACCALLUM: I should point out that obviously it's very - everyone is very glad that these numbers are so much further south than what was anticipated. I mean, that's a good story. That's good news. And obviously, for every one of those families that is losing any of the 16,000, 17,000 people who have passed away. And I should also point out people who are currently struggling with this really vicious virus want these precautions to be taken. And I think that, you know, obviously we need to be very clear about that. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); } But just looking across the country and when you talk about what happened in Italy, I think that was one of the biggest fears in this country that people would go without a ventilator, that people would go without a bed, an ICU unit. And it looks now that we have built a lot of these facilities that, thank God, are never going to be used. Is it true that no one has gone without an ICU bed or a ventilator, who needed one in this country?  FAUCI: Yes, to my knowledge, that is a correct statement. Again, I can't absolutely guarantee, but we would hear about it. I can be absolutely certain if that were the case. But I think you just said something that is a correct statement.  MACCALLUM: So, let's talk a little bit about reopening the economy. You heard the President say today in the briefing that this would be the toughest decision of his life and certainly of his presidency to this point, because if it backfires, if this thing started spreading again like wildfire. Of course, all the fingers will be pointed towards him. The ultimate decision maker in this process. What are your thoughts on when it's going to be safe to go back? And what measures will you be looking at to advise him on that?  FAUCI: Well, you know, I think people need to understand that the issue of going back to essentially reopening the country, which is a terminology that people sometimes use, if you consider the physical separation in many respects has shut down so many things. I think reopening it is not going to be like a light switch that you switch on or off, because if you look at throughout the country, it's a large country and the outbreaks are really quite different depending upon where you are. New York, New Jersey area is very different from now what we've seen in Washington state and in California, in which there was the threat of a real big spike, but it really didn't occur. And it's at that low level. New Orleans in some respects was very much like New York and Detroit also. So, if you're going to essentially make the first steps of trying to gradually open up the country and hence the economy, there are a lot of premise. First of all, you've got to take a look at where the country as a whole and individual components of the country like New York. Now, New York right now, interestingly, has had, as we predicted, essentially the worst week imaginable. Every day was more deaths than the previous day. But the issue is that the deaths lag behind about two weeks or two and a half weeks of what feeds into the outbreak, namely the number of new cases that lead to hospitalization, that lead to intensive care, that lead to death. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, although this was a bad week, we're starting to see a plateauing and a turning around of the curve in New York. If that's steeply goes down the way, we predicted. Once you get over that hump, then that's really good news from the standpoint of being able to take a look now at New York and how we could start maybe getting back to some form of normality. So, a little bit different if you're dealing in some of the Midwest or mountain states, which don't have those big spikes. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, the parameters are, we've got to look on it literally on a day and day by day, week by week basis about what's going on in various parts of the country, because it's not going to be unidimensional that the whole country is on and the whole country it's off. It's just not going to be that way.  MACCALLUM: So, just give me an example. Like, what can you foresee? And I'm not going to hold you to this date, but we've talked about May 1st. So, let's just say on the day that you start to open some things up, what do you foresee that looking like? I mean, what sort of things would start the wheels turning first? What would be the safest things to open?  FAUCI: Well, the first thing - well, the safest thing to open is you look at what is essential to the functioning of the community. You know, besides health care providers, besides emergency responders, the police, the firemen, there are other things economically that need to get back. I mean, I was talking to people, for example at food plants and people who are responsible for communications and electricity and things like that. You're going to want to get them back as quickly as you possibly can and then others who can still telework at home, you might be able to be as well functioning, just teleworking at home. But there are some jobs that have been shut down that have to go beyond teleworking. And those are the ones you want to see. How do we get them back safely? And it's going to be some very interesting and I think creative ways of doing that.  MACCALLUM: Is May 1 a day when you can imagine some of that beginning?  FAUCI: It is quite possible, and they know the President was asked this specific question at the press conference today and he said, he will take it on a day-by-day, week-by-week basis. And at that point, he will consult with the health people, myself and others, physicians and health workers who are on the task force and then make a decision. And that's why he said appropriately, it's one of the most important, if not the most important decision that he'll make.  MACCALLUM: Do you envision that, you know, when people go back hopefully to school and football games and things like that in the fall, hopefully that we will all be wearing masks in these places?  FAUCI: I think that's conceivable. We know now that there are - that people who may be asymptomatic, who don't know that they're infected could clearly spread the infection. You know, one of the ways of wearing a physical barrier there doesn't necessarily have to be the classic masks that health care providers wear, is that you must assume that you helped me, and I help you. I'm assuming that I might be infected, and you assume that you might be infected if you wear that. You can decrease. It's not going to be 100 percent by any means, but you certainly could decrease the likelihood that there would be spread. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, I do see the fact that wearing a mask in situations where you can't feasibly and do your function and your job, stay 6 feet from someone that a mask might be an important tool that we use.  MACCALLUM: Yes. Have you seen this grocery store animation and the jogger's animation where someone sneezes and we can start putting these up on the screen for people at home to see, you know, sneezes in one aisle and it's traveling across? You know one aisle for sure and then the next one and even into the one after that. And then people jogging and sneezing and spray coming back on them. I know you're a runner. I am too. And when you're out there, you know, these are the things that concern everybody. Are these logical models? I mean, animations. Do they make sense to you?  FAUCI: I did not see them, but they would describe to me accurately enough that I'm sure that I know exactly what was on the model. You know, there was a study that someone asked me a question at the press conference that when you sneeze that you can get project out, you know, 20 feet or more. That's one of the reasons why you say, if possible. If you sneeze, sneeze into your elbow or wear a mask. And if you're sick, you shouldn't be out. You should be home.  MACCALLUM: But when you're jogging, are you going to try to stay - not run right behind someone for that reason?  FAUCI: Run behind, run next to, I mean, again I'd have to take a look at that video, which I have not seen. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Spraying all over the place. It's going all over everybody. All right. I want to put up one of our viewer questions and this first one actually comes from one of our contributors, Tammy Bruce at Fox News. She says, until we have a vaccine, I should point out that she's talking about the immunity certificate, the idea that you might carry something with you that says, yes, I've been tested and I'm immune. She says until we have a vaccine, how does that not incentivize getting the virus while punishing those who stayed healthy and can't get one of these certificates? Doctor? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "No, I mean, that's sort of a false narrative there. I mean, I can't imagine someone would want to get the virus when you know what the virus can do. You get the virus--  MACCALLUM: But I think the point is that if you haven't had it, if you haven't had it, that you would not be able to get one of those cards and go about your life.  FAUCI: You know, I don't think that it's going to turn out, quite frankly, I mean, there's been a lot of talk about these certificates of immunity. You know, I think until we get enough testing out there to get a real feel for the penetrance of this infection in society, there might be some surprises about that because there is, we don't know, a certain fact that we're not sure of, is what percentage of people who are infected are those who are completely asymptomatic. I mean, are there people who've been infected, cleared the virus, never knew they were infected, never knew they was sick. Is that 10 percent, 20 percent, 50 percent? We don't know that yet. When we get antibody testing that we could do several surveillances of representative sections of the population, then we'll have a better feel for that. But until then, we don't know.  MACCALLUM: All right, this is a question from Priscilla. She says, is there any data out there comparing countries who took the herd immunity route over social distancing? And is there a big difference in outcomes? I mean, for one thing, you can look at a place like Japan, which did not do sort of the kind of social distancing and mitigation that we did. They've only had 85 deaths in the whole country of Japan.  FAUCI: Yes, well, you know, you've got to be careful when you compare countries, different sizes, different borders and things like that, different, you know, infusions from outside. There's a really good example that I think answers your question. The UK had decided they were going to do the let it rip. Let's get herd immunity. They did that for a few weeks and set oops mistake. We better start hunkering down and do physical separation.  MACCALLUM: All right. Before I let you go, one last question, in all the work that you've done in the past with past epidemics, whether it's Ebola or SARS, or even HIV. Did the models - were they - do they have the kind of gap that we're seeing in this one? I mean, when you were doing those models, did they fail the way this one is in terms of a 33 percent swing in one week? Have you ever seen that before?  FAUCI: Yes, and that's the reason why, with all due respect to my modeling colleagues, I'm not a modeler. They may get upset with me, but I've been - it's been more often wrong than correct. I must say sorry, but it's the truth. I mean, if you look at the modeling, what you projected for Ebola, it was way off. It was way off.  MACCALLUM: So, is it wrong to make policy based on these models? I guess is the last question. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "No. Well, we get back to my response to your question before, the policy wasn't made purely on the model, the policy was made on our understanding of what the virus was doing and could do. You just needed to look at China. That's all you needed to do and see what happened in China. And you don't need a model. You know, you're dealing with a really serious problem.  MACCALLUM: Yes. Dr. Anthony Fauci, thank you so much for taking some of our viewer questions and mine as well. It's great to be with you tonight. Thank you so much, sir.  FAUCI: Good to be with you.  MACCALLUM: All right. Thank you, Dr. Anthony Fauci, for joining us tonight. Coming up next, Republicans in Congress dialing up the pressure on the leader of the World Health Organization. You've heard about this debate going on, asking can we trust this agency? That is, taking its cues from China. We'll debate after this.  (COMMERCIAL BREAK) if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "And I think if people knew, including the World Health Organization and I do believe they knew, but they didn't want to tell the world over the years, many years we've been paying them from 300 to 500 and even more million dollars a year. China has been paying them less than 40. We're paying them more than 10 times more than China. And they are very, very China centric.  (END VIDEO CLIP)",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "President Trump addressing the recent criticism of the World Health Organization, specifically its Director Dr. Tedros Adhanom. Dr. Tedros recently praised China for its transparency in response to the virus. And now several Republicans on the House Oversight Committee are wondering whether the rest of the world should trust him. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); } Joining me now, Ranking Member of the National Security Subcommittee on Oversight, Georgia Congressman Jody Hice. Congressman Hice, thank you very much for being with us tonight. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. JODY HICE (R-GA)",
+      "sentences": "Glad to be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What do you think? Should we pull back funding? Thank you. Good to have you. Should we pull back funding the World Health Organization? We sort of foot the bill for about 76 percent of it right now.  HICE: Absolutely, we should pull funding. I mean, this has been a tragic day for the entire world. They have misled the world. China has misled the world. And the World Health Organization jumped right in there with them and actually helped spread the propaganda from China. We have oversight. $500 million of the taxpayer funds are going to WHO. And, yes, we need to have a thorough investigation. I believe we need to withdraw all funding until the investigation is over. And personally, I believe this time perhaps for Tedros to step down.  MACCALLUM: So, are you going to call for that? Write a letter? Is that going to be an official stance from your committee?  HICE: Well, we've written a letter, I want to see what kind of response we get from the letter first. But there are already other members of Congress who are calling for his resignation. And I don't by any means believe that to be inappropriate at this time. You know, I mean, you look at what China has done and what the WHO has done with this. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); } I mean, they told the world that this was not something that was transmitted from human to human. They were saying that on January 14th, less than two weeks later, 19 countries are infected. Over a thousand people were dead, tens and tens of thousands infected. And they were saying all the while, this cannot be transmitted from human to human. It was just absolute insanity. Thank goodness, we had a President here in the United States who saw it differently, who began to restrict their travel and so forth, and no telling how many thousands of lives have been saved because of that action.  MACCALLUM: Do you think that it's time for a push to make more things in America? I know there are several bills on the Hill to make more pharmaceuticals here. But, you know, how do you make that happen? Because it's much cheaper to produce them over there when this is over. Is there going to be sort of everyone forget about that. You want the trade deal to work. The President feels very strongly about the trade deal, but is there a way to actually put that into action? And is anybody trying to make that happen with tax incentives or anything along those lines for companies?  HICE: Yes, great question, and I think if there's one lesson and that we certainly have learned through this whole experience is that we need to be more dependent upon ourselves here in the United States and not so dependent upon China when it comes to some of these essential items and products that are needed in times of emergency. And so, I fully anticipate that we are going to see not only out of necessity, but we have seen the potential incredible damage that can come if we are not prepared as a country. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, I believe that we're going to see many companies in this country rise to the occasion and say, give us the ball. We want to make sure that this never happens again in America. And we're ready to take charge of this. And I believe we want to see several companies join together in that endeavor.  MACCALLUM: I would imagine you've got incentivize that in some way, because it's a lot cheaper to make things in China. That's how we started this whole ball rolling in the first place. And it's gotten completely out of control to the point where they make, you know, 90 percent of our antibiotics. So, would you back something that would give some sort of tax incentive to pharmaceutical companies to bring that production back here?  HICE: I probably would. But with that, you know, the American free enterprise system is amazing, and we find ways to be profitable. But yes, I would probably support something that incentivizes that to get off the launching pad, so to speak. But the opportunity is there. The American people want this. Our medical professionals want it. I believe there is a wide-open market for companies to step in the gap and be profitable in the process. But with that, I would be in favor of some incentives.  MACCALLUM: Congressman Jodi Hice, thank you very much. Good to see you, sir. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HICE",
+      "sentences": "My pleasure. Thank you.  MACCALLUM: Thank you. So, take a look at these scenes across America. Millions of people - this is a food bank line. Can you believe these photos? This video is unbelievable. So, where was the model for how many Americans would be hungry when the economy shut down? We're going to talk to someone who's on the frontlines of feeding the country, next.  (COMMERCIAL BREAK)",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "People that had great jobs, that went out to dinner and they didn't have any problems. They would take their family. They were making good salaries. All of a sudden, you know, you use the term cold turkey. It's cold turkey. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); } They go from that to having no money and waiting for their checks which are being processed very rapidly but still, they have to go out and look for money. It's a terrible thing. All I say is we love them. We're working so hard. And they are going to be back. And I hope they're going to be back even stronger than before. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So here just some of the people that the president is talking about there. And this is the case in cities all across the country. Look at these lines. People lined up for blocks outside local food banks, trying to pick up food ahead of Easter weekend to feed their families. These pictures came from San Antonio. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); } Joining me now is Eric Cooper, president and CEO of the San Antonio Food Bank. Eric, thank you so much for being with us tonight. I know these must just be excruciatingly long days for you, and we commend you and thank you for what you're trying to do to help people during all of this. Describe to us what you're saying out there. What is happening? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } ERIC COOPER, PRESIDENT & CEO, SAN ANTONIO FOOD BANK: Well, Martha, it is unprecedented. The San Antonio Food Bank is one of 200 food banks across America. We are linked international organization called Feeding America. And as you mentioned, these lines are in every city in our nation and for us in San Antonio, this unprecedented need, it's double the amount of people coming to see us at the food bank. Many of those families, over half, have never asked for food assistance before. And so, they are navigating that process. They are registering online. Meeting those eligibility requirements and then showing up at these distribution centers. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); } And just yesterday the distribution of about 10,000 families. The need is overwhelming and we are doing what we can as a food bank to try to meet the need.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So how do you -- how do you work with that overwhelming number of people? Do you have enough food for all the people in those cars, and what do you tell them when you run out? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COOPER",
+      "sentences": "Well, it is, this need is so great that we are working hard and our community is rallying. Great companies, foundations, individuals. Everyone has been giving to the effort to make sure no one goes hungry. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); } But we won't be able to make this shortfall -- we won't be able to meet the demand if we don't get help. And so, we are asking at the federal level at the state level for people to help us. We know that some relief is on the way through the CARE Act. But people have to eat in the meantime. For us, we are going to be doing all we can to make sure families are nourished. The Supplemental Nutrition Assistance Program, SNAP, it's our nation's safety net against hunger. But when families aren't working, they don't have any income and so that food supplement doesn't cover their food needs. And so that's why there's many lines for us at food banks. But we're anxious. We don't feel like we will have enough food to meet this unprecedented demand, and those checks that are coming, people are going to have to eat in the meantime. And I think our lives are going to be long for many food banks across the U.S. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. I mean, it's just heartbreaking to see these people and you see so many of them have never asked for any kind of assistance before. And you think back to what President Trump was saying moment ago, that for most of these people, they were enjoying an economy that was really going gangbusters and was lifting so many people. You've asked for $12 million from the federal government and also believe that you might need military help from the National Guard. What would they -- what role will they play? And do you think you're going to get that money?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COOPER",
+      "sentences": "Well, we're very hopeful. Right? And so that 12 million is just to cover a 4-week period to be able to purchase the food that we need to distribute. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COOPER",
+      "sentences": "And you know, our volunteers have been fantastic. Really rallying, in some ways putting themselves at risk. We operate under the COVID-19 protocols, keep them distance with masks and gloves. Families drive through these pop-up distributions in their cars. But it is, the fatigue that's setting in, it's the, it's the amount of work to be able to meet this demand that is causing us to reach out to the Texas National Guard, the National Guard for food banks to get help. Because it's a crisis. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COOPER",
+      "sentences": "We don't know when this crisis is going to end. But we are optimistic that people will step up. And we've been inspired by so many people that have really come out and served and are helping these families. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } I met a family in the line yesterday. Both of them work in our hospitality industry in downtown San Antonio. Both husband and wife were laid off. And so that's why they were there to get food. Their last paycheck is gone. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. I mean, you think about these kids and the cars, you know, with their mom and dad, just sort of, I imagine nervous about being in a line like that, never having done that before. And we just, we're thinking about all of them. And you can go to the foodbank.org online and support the local food bank in your area. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); } Eric Cooper, thank you so much. Best to you this Easter weekend and to all the people waiting on those lines and all those you are serving. We thank you. Thank you, Eric.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COOPER",
+      "sentences": "Thank you, Martha. Thank you. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, school from home is seeing more kids than ever missing classes and skipping assignments. Not that little boy. He's doing his work. So how will America make up for the loss of learning this semester for so many of our students? In the end, will closing schools turn out to have been the right decision, perhaps it was the only decision? We'll talk about that with the American Federation of Teachers president Randi Weingarten, up next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Chronic absentee is another part of the COVID-19 crisis. Some teachers report that fewer than half of their students are showing up for virtual class. In many homes, parents have had to step up to assist the 55 million students who were learning from home but in many cases, there's only one computer for the whole family or no computer at all. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, with American kids already low on the international benchmarks on math and English, how can we make up for what is being lost so that our students don't fall further behind. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } Joining me now, Randi Weingarten, president of the American Federation of Teachers. Randi, good to have you with us tonight. One of the polls that I saw today says that four in ten teenagers say that they haven't done any online learning since this began. What do you say about that and how can we fix this problem for these kids?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RANDI WEINGARTEN, PRESIDENT, AMERICAN FEDERATION OF TEACHERS",
+      "sentences": "So, we have three or four different suggestions, Martha, and thank you for having us tonight. But number one. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "sentences": "You know, remember that this was sprung on pretty much everyone within a week in March where people had not had the time to actually really plan and ultimately that's hurting us hugely. And so the digital divide is also hurting us. The fact that this has raised every inequality that we have. All of that stuff is hurting us. But what we are suggesting is three things right now. Number one, whether somebody has internet or not we can do something about the summer. And we have actually proposed having a voluntary summer program for about four weeks to really start with the most vulnerable kids. And I would actually start with kids who are most at risk, including those who have not shown up. Kids who have -- kids who have disabilities. And we do something that really prepares for it next year. That's one of the things that we are pushing and pushing Congress to give us some funding for. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); } Number two, one of the things that we are starting to see really work is if we try to actually reach out to kids and sum up the years. Because we did have seven to eight months of schooling. And have this kind of capstone project or term project and things like that. Number three, we are starting to work with the internet companies to try to get more (Inaudible) more internet and more hotspots so that we can actually reach more kids. But remember, this happened in a moment and people are trying to build this thing and fly at the same time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. No, I hear you, it's very challenging. And you have a lot of parents who have, you know, several kids at home and they are trying to work from home and they can't, you know, turn themselves into teachers overnight when they have these stresses on them. But I think it sounds like a great idea. I mean, I even think that a lot of kids out there would welcome starting school in July or August after having been home since March. They are probably very anxious to get back to school and see their -- see their friends and their teachers and get back at it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, are you proposing that school -- the school year begin in July or August --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "sentences": "No. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "-- and you do a catch up, you know, four to eight weeks and then start the new year?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "sentences": "Actually, we are proposing something different. We are proposing to have a volunteer term. Because we still have a lot of kids who still (Technical Problem) so all kinds of things (Technical Problem) have our volunteer summer of four weeks, meaning because there may be places in the country that don't open in July. They open in August. Dr. Fauci (Technical Problem) open in September. So, we are going to have to actually figure out what that really means. But instead of it be remedial for this year, what we are proposing is how we prepare for next year. So, we make it constructive and we do something in terms of bricks- and-mortar schools where we bring in counselors and school nurses. Because (Inaudible) informed practices are going to be really important now. And we also have a combination of instruction, nourishment, and well- being. And I think that if we start planning that now, we'll actually be able to do it depending upon when we can open up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. Well, good luck. I know these kids are going to want to catch up, their parents are going to want them to be on target and ready.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "sentences": "Exactly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, keep us posted on the program. Thank you very much, Randi Weingarten. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Good to see you tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "sentences": "Thanks so much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, Easter Sunday -- thank you. Easter Sunday is coming. It is this Sunday of course. Football season is also coming. Two things that a lot of Americans are looking forward to. So, who better to talk to about both? Former New England Patriots Ben Watson joins me next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, a lot of Americans are looking forward to the start of football season after so many sports got canceled this spring and in the summer. But a new poll shows that 72 percent of fans will not go to games again without a vaccine. Still, President Trump said this about the coming season and what he wants to see. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "And I hope football can start. I told them I think you might be able to. They may very well be able to. I hope they can start and I hope they can start with people in the stands. You know, we are not going to be separated. You have seats. Those seats are meant for people to sit next to each other.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That's right, they are. So, the NFL draft is less than two weeks away. Joining me now as of three weeks ago, former New England Patriots tight end Benjamin Watson, just retired, to talk about that and also about Good Friday and the importance of Easter week during this difficult time for so many. Ben, great to have you back on the show tonight. Thank you so much for being here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENJAMIN WATSON, FORMER NEW ENGLAND PATRIOTS TIGHT END",
+      "sentences": "Good to be here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Let's start with Good Friday and Easter Sunday coming and this crisis and what you and your wife have been doing to help some of the small churches that are going through a tough time right now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATSON",
+      "sentences": "Thank you, Martha. We are all going through a tough time obviously, but we've seen that especially in small churches, churches with about 150 members or less are struggling. Seventy percent of those pastors say that financial giving is down and as you know we're not able to come together and worship corporally. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, what we've done in joining with the few other leaders is created the church is helping churches initiative. The point of that is to encourage churches that have a larger membership to donate and give money to the smaller churches, but also, we've created a fund where people can go to churchrelief.org and actually give to this fund. We raised $250,000 so far. We have 300 churches that are applying. Our goal is to have 500,000 in the months of April to give $3,000 grants each to these churches that may not make it out of this and they've already laid people off and many of these churches are the first place that people in the communities come to for help during times of crisis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. I mean, it's a great, it's a great thing to support because without people going to church and the collections aren't happening and all of that and if people are laid off, it's going to be difficult for them to contribute to their churches. So, it's a wonderful thing that you and your wife are doing. You are one of those parents whose home, I think you have seven children, right? What's your advice to sort of, you know, keeping, keeping your faith during all of this and staying sane? Tell me, Ben.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATSON",
+      "sentences": "Well, I heard you talking to someone before me talking about having kids at home. And it is tough. A lot of parents are trying to work from home. Some have been had to homeschool, we are kind of in that mix right now. But what we found is that having daily conversations with our children is key. Communicating with them. How are they feeling about this virus? What are some of their fears? You mentioned how they are talking about not being able to see their friends. That's vitally important as well. So, the lines of communication between the parents and children right now is vitally important. We've looked at this time as kind of a reset, you know, a time to come together as a family, especially in the light of Easter coming. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); } This morning we read the passage talking about when Jesus came into Jerusalem and when he was crucified. So, there are a lot of things we can do as a parent. I think as we look back the hope is that we create some good habits, maybe even dinner together, whatever it may be, that we can carry on when this crisis is over.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. Well, we are going to miss seeing you on the field this fall and we all very much hope that football starts as planned. How much do you think America is going to need to go to football games and watch them on TV when September, August and September roll around, Ben?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATSON",
+      "sentences": "I think there is going to be a great need. I think there is a great need for sports. I mean, right now we are in the middle of the NBA season that has ceased to exist as we know it. The Major League Baseball season hasn't started and then football comes around later in the year. People are going to be ready for sports. They are ready for sports. Now first of all, obviously, we have to listen to the medical professionals. But my bigger concerns or actually biggest concern is what sports does for the economy. You know, when you look at the stadium, when you look at the cities where some of these teams are, they provide a lot of money for people that work there. So, there's entertainment but there's also economics that we have to consider",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So true. I mean, I remember those first baseball games after 9/11. Ben Watson, all the best you. Happy Easter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATSON",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "More on The Story coming up next. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, that is The Story of Friday, April 10th, 2020 on this Good Friday. We wish you and your families a happy, healthy Easter together. We'll see you back here on Monday night. Good night, everybody. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Staying at home leads to death also. And it's very dramatic for this country. But staying at home if you look at numbers that leads to a different kind of death perhaps  (END VIDEO CLIP)"
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, FOX NEWS ANCHOR",
+      "utterance": "So that different kind of death that the President spoke off just a short time ago was in response to a question about the United States economy. He says that when to send Americans back out there, back to Life and back to work will be the biggest decision of his life and he's relying on the experts to guide him on it. Dr. Anthony Fauci is of course one of those strong voices in the room. He will join me on that question in moments. Plus, he'll take some of your questions and respond to new criticism of the modeling that he and others heavily relied upon. So, one of those critics is Andy McCarthy, who wrote today in The National Review this. On April 8th, the projected cumulative deaths were slashed to 60,000. In less than a week, the model proved to be off by more than 33 percent. It is not that social distancing has changed the equation. It is that the equation's fundamental assumptions are so dead wrong, they cannot remain reasonably stable for just 72 hours, he writes. We'll talk to Dr. Fauci about that and many other things tonight. Remember that model was the one that was used to shut down the United States economy and now, we have lost likely far more than 16 million jobs that we know about so far in the last three weeks. That leads to even more consequences around the country like a run on America's food banks. This was the scene yesterday in Texas as cars lined up for blocks. So, some are asking where was the model for hunger. For this situation. We'll talk specifically about that later tonight with the President of the San Antonio Food Bank, coming up tonight on The Story. Also, tonight one of the top Republicans on the Oversight Committee demanding a closer look. At the World Health Organization. This is a big topic right now, or what he calls taking their cues from China. But we begin of course with our lead guest of the evening Dr. Anthony Fauci.  Dr. Fauci, great to have you with us. Thank you very much. I know that these have been very long days and we're glad to have you with us on this Friday evening. I'd like to start with the question of these models which are now getting a lot of push back in terms of their reliability when the numbers have swung 33 percent in just a couple of days. What do you say to Andy McCarthy who wrote that piece?  DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES: Well, I mean there's a certain validity to it. I have been and still am and will always be somewhat reserved and skeptical about models because models are only as good as the assumptions that you put into the model and those assumptions that start off when you don't have very much data at all or the data that you have is uncertain that you put these assumptions in and you get these wide ranges of calculations of what might happen. You know 100,000, the 240,000 deaths. But then as you start to accumulate data, data that's real data are likely being influenced heavily by the mitigation programs that you've put in the physical separations that when real data comes in, then data in my mind always trumps any model and you have to modify the model and the assumptions as you get data in."
+    },
+    {
+      "speaker": "So, I have no problem with people who are critical of modeling, because modeling is inherently an imperfect science. So, I don't really have any quibbling with that. And you just got to make sure as you collect real data, you rely more on the data than you do on a model.  MACCALLUM",
+      "utterance": "Yes, sure. I mean all of that makes a lot of sense, but I think one of the problems is that those models were what were used to shut down the United States economy. The fear that those numbers when we looked at 100,000 to 240,000 people and that was, I should point out including mitigation and social distancing. That was with that factored in. So that number has dropped by 33 percent. So, I guess what kind of model is so far off that it leads us to policy making decisions that now are having such dire consequences"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Well first, I think it's important to point out that it isn't the model or the result of the model that really led to the decision to have such strong mitigation programs such as physical separation. You don't even have to look at any model. Just take a look at what happened in China."
+    },
+    {
+      "speaker": "Take a look at what happened in northern Italy. How the hospitals were completely overrun and the draconian methods that had to be taken in China to turn down their outbreak. So, I mean, if I never saw a result of a model, that alone would clearly indicate that something rather significant needed to be done to prevent the spread. So, I mean, again, getting back to models and I never argue with anybody that has a problem with the model. I inherently have problems with models.  MACCALLUM",
+      "utterance": "I should point out that obviously it's very - everyone is very glad that these numbers are so much further south than what was anticipated. I mean, that's a good story. That's good news. And obviously, for every one of those families that is losing any of the 16,000, 17,000 people who have passed away. And I should also point out people who are currently struggling with this really vicious virus want these precautions to be taken. And I think that, you know, obviously we need to be very clear about that. But just looking across the country and when you talk about what happened in Italy, I think that was one of the biggest fears in this country that people would go without a ventilator, that people would go without a bed, an ICU unit. And it looks now that we have built a lot of these facilities that, thank God, are never going to be used. Is it true that no one has gone without an ICU bed or a ventilator, who needed one in this country?  FAUCI: Yes, to my knowledge, that is a correct statement. Again, I can't absolutely guarantee, but we would hear about it. I can be absolutely certain if that were the case. But I think you just said something that is a correct statement.  MACCALLUM: So, let's talk a little bit about reopening the economy. You heard the President say today in the briefing that this would be the toughest decision of his life and certainly of his presidency to this point, because if it backfires, if this thing started spreading again like wildfire. Of course, all the fingers will be pointed towards him. The ultimate decision maker in this process. What are your thoughts on when it's going to be safe to go back? And what measures will you be looking at to advise him on that?  FAUCI: Well, you know, I think people need to understand that the issue of going back to essentially reopening the country, which is a terminology that people sometimes use, if you consider the physical separation in many respects has shut down so many things. I think reopening it is not going to be like a light switch that you switch on or off, because if you look at throughout the country, it's a large country and the outbreaks are really quite different depending upon where you are. New York, New Jersey area is very different from now what we've seen in Washington state and in California, in which there was the threat of a real big spike, but it really didn't occur. And it's at that low level. New Orleans in some respects was very much like New York and Detroit also. So, if you're going to essentially make the first steps of trying to gradually open up the country and hence the economy, there are a lot of premise. First of all, you've got to take a look at where the country as a whole and individual components of the country like New York. Now, New York right now, interestingly, has had, as we predicted, essentially the worst week imaginable. Every day was more deaths than the previous day. But the issue is that the deaths lag behind about two weeks or two and a half weeks of what feeds into the outbreak, namely the number of new cases that lead to hospitalization, that lead to intensive care, that lead to death. So, although this was a bad week, we're starting to see a plateauing and a turning around of the curve in New York. If that's steeply goes down the way, we predicted. Once you get over that hump, then that's really good news from the standpoint of being able to take a look now at New York and how we could start maybe getting back to some form of normality. So, a little bit different if you're dealing in some of the Midwest or mountain states, which don't have those big spikes."
+    },
+    {
+      "speaker": "So, the parameters are, we've got to look on it literally on a day and day by day, week by week basis about what's going on in various parts of the country, because it's not going to be unidimensional that the whole country is on and the whole country it's off. It's just not going to be that way.  MACCALLUM",
+      "utterance": "So, just give me an example. Like, what can you foresee? And I'm not going to hold you to this date, but we've talked about May 1st. So, let's just say on the day that you start to open some things up, what do you foresee that looking like? I mean, what sort of things would start the wheels turning first? What would be the safest things to open?  FAUCI: Well, the first thing - well, the safest thing to open is you look at what is essential to the functioning of the community. You know, besides health care providers, besides emergency responders, the police, the firemen, there are other things economically that need to get back. I mean, I was talking to people, for example at food plants and people who are responsible for communications and electricity and things like that. You're going to want to get them back as quickly as you possibly can and then others who can still telework at home, you might be able to be as well functioning, just teleworking at home. But there are some jobs that have been shut down that have to go beyond teleworking. And those are the ones you want to see. How do we get them back safely? And it's going to be some very interesting and I think creative ways of doing that.  MACCALLUM: Is May 1 a day when you can imagine some of that beginning?  FAUCI: It is quite possible, and they know the President was asked this specific question at the press conference today and he said, he will take it on a day-by-day, week-by-week basis. And at that point, he will consult with the health people, myself and others, physicians and health workers who are on the task force and then make a decision. And that's why he said appropriately, it's one of the most important, if not the most important decision that he'll make.  MACCALLUM: Do you envision that, you know, when people go back hopefully to school and football games and things like that in the fall, hopefully that we will all be wearing masks in these places?  FAUCI: I think that's conceivable. We know now that there are - that people who may be asymptomatic, who don't know that they're infected could clearly spread the infection. You know, one of the ways of wearing a physical barrier there doesn't necessarily have to be the classic masks that health care providers wear, is that you must assume that you helped me, and I help you. I'm assuming that I might be infected, and you assume that you might be infected if you wear that. You can decrease. It's not going to be 100 percent by any means, but you certainly could decrease the likelihood that there would be spread. So, I do see the fact that wearing a mask in situations where you can't feasibly and do your function and your job, stay 6 feet from someone that a mask might be an important tool that we use.  MACCALLUM: Yes. Have you seen this grocery store animation and the jogger's animation where someone sneezes and we can start putting these up on the screen for people at home to see, you know, sneezes in one aisle and it's traveling across? You know one aisle for sure and then the next one and even into the one after that. And then people jogging and sneezing and spray coming back on them. I know you're a runner. I am too. And when you're out there, you know, these are the things that concern everybody. Are these logical models? I mean, animations. Do they make sense to you?  FAUCI: I did not see them, but they would describe to me accurately enough that I'm sure that I know exactly what was on the model. You know, there was a study that someone asked me a question at the press conference that when you sneeze that you can get project out, you know, 20 feet or more. That's one of the reasons why you say, if possible. If you sneeze, sneeze into your elbow or wear a mask."
+    },
+    {
+      "speaker": "And if you're sick, you shouldn't be out. You should be home.  MACCALLUM",
+      "utterance": "But when you're jogging, are you going to try to stay - not run right behind someone for that reason?  FAUCI: Run behind, run next to, I mean, again I'd have to take a look at that video, which I have not seen."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Spraying all over the place. It's going all over everybody. All right. I want to put up one of our viewer questions and this first one actually comes from one of our contributors, Tammy Bruce at Fox News. She says, until we have a vaccine, I should point out that she's talking about the immunity certificate, the idea that you might carry something with you that says, yes, I've been tested and I'm immune. She says until we have a vaccine, how does that not incentivize getting the virus while punishing those who stayed healthy and can't get one of these certificates? Doctor?"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "No, I mean, that's sort of a false narrative there. I mean, I can't imagine someone would want to get the virus when you know what the virus can do. You get the virus--  MACCALLUM: But I think the point is that if you haven't had it, if you haven't had it, that you would not be able to get one of those cards and go about your life.  FAUCI: You know, I don't think that it's going to turn out, quite frankly, I mean, there's been a lot of talk about these certificates of immunity. You know, I think until we get enough testing out there to get a real feel for the penetrance of this infection in society, there might be some surprises about that because there is, we don't know, a certain fact that we're not sure of, is what percentage of people who are infected are those who are completely asymptomatic. I mean, are there people who've been infected, cleared the virus, never knew they were infected, never knew they was sick. Is that 10 percent, 20 percent, 50 percent? We don't know that yet. When we get antibody testing that we could do several surveillances of representative sections of the population, then we'll have a better feel for that. But until then, we don't know.  MACCALLUM: All right, this is a question from Priscilla. She says, is there any data out there comparing countries who took the herd immunity route over social distancing? And is there a big difference in outcomes? I mean, for one thing, you can look at a place like Japan, which did not do sort of the kind of social distancing and mitigation that we did. They've only had 85 deaths in the whole country of Japan.  FAUCI: Yes, well, you know, you've got to be careful when you compare countries, different sizes, different borders and things like that, different, you know, infusions from outside. There's a really good example that I think answers your question. The UK had decided they were going to do the let it rip. Let's get herd immunity. They did that for a few weeks and set oops mistake. We better start hunkering down and do physical separation.  MACCALLUM: All right. Before I let you go, one last question, in all the work that you've done in the past with past epidemics, whether it's Ebola or SARS, or even HIV. Did the models - were they - do they have the kind of gap that we're seeing in this one? I mean, when you were doing those models, did they fail the way this one is in terms of a 33 percent swing in one week? Have you ever seen that before?  FAUCI: Yes, and that's the reason why, with all due respect to my modeling colleagues, I'm not a modeler. They may get upset with me, but I've been - it's been more often wrong than correct. I must say sorry, but it's the truth. I mean, if you look at the modeling, what you projected for Ebola, it was way off. It was way off.  MACCALLUM: So, is it wrong to make policy based on these models? I guess is the last question."
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "No. Well, we get back to my response to your question before, the policy wasn't made purely on the model, the policy was made on our understanding of what the virus was doing and could do. You just needed to look at China. That's all you needed to do and see what happened in China. And you don't need a model. You know, you're dealing with a really serious problem.  MACCALLUM: Yes. Dr. Anthony Fauci, thank you so much for taking some of our viewer questions and mine as well. It's great to be with you tonight. Thank you so much, sir.  FAUCI: Good to be with you.  MACCALLUM: All right. Thank you, Dr. Anthony Fauci, for joining us tonight. Coming up next, Republicans in Congress dialing up the pressure on the leader of the World Health Organization. You've heard about this debate going on, asking can we trust this agency? That is, taking its cues from China. We'll debate after this.  (COMMERCIAL BREAK)"
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "And I think if people knew, including the World Health Organization and I do believe they knew, but they didn't want to tell the world over the years, many years we've been paying them from 300 to 500 and even more million dollars a year. China has been paying them less than 40. We're paying them more than 10 times more than China. And they are very, very China centric.  (END VIDEO CLIP)"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "President Trump addressing the recent criticism of the World Health Organization, specifically its Director Dr. Tedros Adhanom. Dr. Tedros recently praised China for its transparency in response to the virus. And now several Republicans on the House Oversight Committee are wondering whether the rest of the world should trust him. Joining me now, Ranking Member of the National Security Subcommittee on Oversight, Georgia Congressman Jody Hice. Congressman Hice, thank you very much for being with us tonight."
+    },
+    {
+      "speaker": "REP. JODY HICE (R-GA)",
+      "utterance": "Glad to be with you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What do you think? Should we pull back funding? Thank you. Good to have you. Should we pull back funding the World Health Organization? We sort of foot the bill for about 76 percent of it right now.  HICE: Absolutely, we should pull funding. I mean, this has been a tragic day for the entire world. They have misled the world. China has misled the world. And the World Health Organization jumped right in there with them and actually helped spread the propaganda from China. We have oversight. $500 million of the taxpayer funds are going to WHO. And, yes, we need to have a thorough investigation. I believe we need to withdraw all funding until the investigation is over. And personally, I believe this time perhaps for Tedros to step down.  MACCALLUM: So, are you going to call for that? Write a letter? Is that going to be an official stance from your committee?  HICE: Well, we've written a letter, I want to see what kind of response we get from the letter first. But there are already other members of Congress who are calling for his resignation. And I don't by any means believe that to be inappropriate at this time. You know, I mean, you look at what China has done and what the WHO has done with this. I mean, they told the world that this was not something that was transmitted from human to human. They were saying that on January 14th, less than two weeks later, 19 countries are infected. Over a thousand people were dead, tens and tens of thousands infected. And they were saying all the while, this cannot be transmitted from human to human."
+    },
+    {
+      "speaker": "It was just absolute insanity. Thank goodness, we had a President here in the United States who saw it differently, who began to restrict their travel and so forth, and no telling how many thousands of lives have been saved because of that action.  MACCALLUM",
+      "utterance": "Do you think that it's time for a push to make more things in America? I know there are several bills on the Hill to make more pharmaceuticals here. But, you know, how do you make that happen? Because it's much cheaper to produce them over there when this is over. Is there going to be sort of everyone forget about that. You want the trade deal to work. The President feels very strongly about the trade deal, but is there a way to actually put that into action? And is anybody trying to make that happen with tax incentives or anything along those lines for companies?  HICE: Yes, great question, and I think if there's one lesson and that we certainly have learned through this whole experience is that we need to be more dependent upon ourselves here in the United States and not so dependent upon China when it comes to some of these essential items and products that are needed in times of emergency. And so, I fully anticipate that we are going to see not only out of necessity, but we have seen the potential incredible damage that can come if we are not prepared as a country."
+    },
+    {
+      "speaker": "So, I believe that we're going to see many companies in this country rise to the occasion and say, give us the ball. We want to make sure that this never happens again in America. And we're ready to take charge of this. And I believe we want to see several companies join together in that endeavor.  MACCALLUM",
+      "utterance": "I would imagine you've got incentivize that in some way, because it's a lot cheaper to make things in China. That's how we started this whole ball rolling in the first place. And it's gotten completely out of control to the point where they make, you know, 90 percent of our antibiotics. So, would you back something that would give some sort of tax incentive to pharmaceutical companies to bring that production back here?  HICE: I probably would. But with that, you know, the American free enterprise system is amazing, and we find ways to be profitable. But yes, I would probably support something that incentivizes that to get off the launching pad, so to speak. But the opportunity is there. The American people want this. Our medical professionals want it. I believe there is a wide-open market for companies to step in the gap and be profitable in the process. But with that, I would be in favor of some incentives.  MACCALLUM: Congressman Jodi Hice, thank you very much. Good to see you, sir."
+    },
+    {
+      "speaker": "HICE",
+      "utterance": "My pleasure. Thank you.  MACCALLUM: Thank you. So, take a look at these scenes across America. Millions of people - this is a food bank line. Can you believe these photos? This video is unbelievable. So, where was the model for how many Americans would be hungry when the economy shut down? We're going to talk to someone who's on the frontlines of feeding the country, next.  (COMMERCIAL BREAK)"
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "People that had great jobs, that went out to dinner and they didn't have any problems. They would take their family. They were making good salaries. All of a sudden, you know, you use the term cold turkey. It's cold turkey. They go from that to having no money and waiting for their checks which are being processed very rapidly but still, they have to go out and look for money. It's a terrible thing. All I say is we love them. We're working so hard. And they are going to be back. And I hope they're going to be back even stronger than before."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So here just some of the people that the president is talking about there. And this is the case in cities all across the country. Look at these lines. People lined up for blocks outside local food banks, trying to pick up food ahead of Easter weekend to feed their families. These pictures came from San Antonio. Joining me now is Eric Cooper, president and CEO of the San Antonio Food Bank. Eric, thank you so much for being with us tonight. I know these must just be excruciatingly long days for you, and we commend you and thank you for what you're trying to do to help people during all of this. Describe to us what you're saying out there. What is happening? ERIC COOPER, PRESIDENT & CEO, SAN ANTONIO FOOD BANK: Well, Martha, it is unprecedented. The San Antonio Food Bank is one of 200 food banks across America. We are linked international organization called Feeding America. And as you mentioned, these lines are in every city in our nation and for us in San Antonio, this unprecedented need, it's double the amount of people coming to see us at the food bank. Many of those families, over half, have never asked for food assistance before. And so, they are navigating that process. They are registering online. Meeting those eligibility requirements and then showing up at these distribution centers. And just yesterday the distribution of about 10,000 families. The need is overwhelming and we are doing what we can as a food bank to try to meet the need."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So how do you -- how do you work with that overwhelming number of people? Do you have enough food for all the people in those cars, and what do you tell them when you run out?"
+    },
+    {
+      "speaker": "COOPER",
+      "utterance": "Well, it is, this need is so great that we are working hard and our community is rallying. Great companies, foundations, individuals. Everyone has been giving to the effort to make sure no one goes hungry. But we won't be able to make this shortfall -- we won't be able to meet the demand if we don't get help. And so, we are asking at the federal level at the state level for people to help us. We know that some relief is on the way through the CARE Act. But people have to eat in the meantime. For us, we are going to be doing all we can to make sure families are nourished. The Supplemental Nutrition Assistance Program, SNAP, it's our nation's safety net against hunger. But when families aren't working, they don't have any income and so that food supplement doesn't cover their food needs. And so that's why there's many lines for us at food banks. But we're anxious. We don't feel like we will have enough food to meet this unprecedented demand, and those checks that are coming, people are going to have to eat in the meantime. And I think our lives are going to be long for many food banks across the U.S."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. I mean, it's just heartbreaking to see these people and you see so many of them have never asked for any kind of assistance before. And you think back to what President Trump was saying moment ago, that for most of these people, they were enjoying an economy that was really going gangbusters and was lifting so many people. You've asked for $12 million from the federal government and also believe that you might need military help from the National Guard. What would they -- what role will they play? And do you think you're going to get that money?"
+    },
+    {
+      "speaker": "COOPER",
+      "utterance": "Well, we're very hopeful. Right? And so that 12 million is just to cover a 4-week period to be able to purchase the food that we need to distribute."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "COOPER",
+      "utterance": "And you know, our volunteers have been fantastic. Really rallying, in some ways putting themselves at risk. We operate under the COVID-19 protocols, keep them distance with masks and gloves. Families drive through these pop-up distributions in their cars. But it is, the fatigue that's setting in, it's the, it's the amount of work to be able to meet this demand that is causing us to reach out to the Texas National Guard, the National Guard for food banks to get help. Because it's a crisis."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "COOPER",
+      "utterance": "We don't know when this crisis is going to end. But we are optimistic that people will step up. And we've been inspired by so many people that have really come out and served and are helping these families. I met a family in the line yesterday. Both of them work in our hospitality industry in downtown San Antonio. Both husband and wife were laid off. And so that's why they were there to get food. Their last paycheck is gone."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. I mean, you think about these kids and the cars, you know, with their mom and dad, just sort of, I imagine nervous about being in a line like that, never having done that before. And we just, we're thinking about all of them. And you can go to the foodbank.org online and support the local food bank in your area. Eric Cooper, thank you so much. Best to you this Easter weekend and to all the people waiting on those lines and all those you are serving. We thank you. Thank you, Eric."
+    },
+    {
+      "speaker": "COOPER",
+      "utterance": "Thank you, Martha. Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, school from home is seeing more kids than ever missing classes and skipping assignments. Not that little boy. He's doing his work. So how will America make up for the loss of learning this semester for so many of our students? In the end, will closing schools turn out to have been the right decision, perhaps it was the only decision? We'll talk about that with the American Federation of Teachers president Randi Weingarten, up next."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Chronic absentee is another part of the COVID-19 crisis. Some teachers report that fewer than half of their students are showing up for virtual class. In many homes, parents have had to step up to assist the 55 million students who were learning from home but in many cases, there's only one computer for the whole family or no computer at all. So, with American kids already low on the international benchmarks on math and English, how can we make up for what is being lost so that our students don't fall further behind. Joining me now, Randi Weingarten, president of the American Federation of Teachers. Randi, good to have you with us tonight. One of the polls that I saw today says that four in ten teenagers say that they haven't done any online learning since this began. What do you say about that and how can we fix this problem for these kids?"
+    },
+    {
+      "speaker": "RANDI WEINGARTEN, PRESIDENT, AMERICAN FEDERATION OF TEACHERS",
+      "utterance": "So, we have three or four different suggestions, Martha, and thank you for having us tonight. But number one."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, thank you."
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "utterance": "You know, remember that this was sprung on pretty much everyone within a week in March where people had not had the time to actually really plan and ultimately that's hurting us hugely. And so the digital divide is also hurting us. The fact that this has raised every inequality that we have. All of that stuff is hurting us. But what we are suggesting is three things right now. Number one, whether somebody has internet or not we can do something about the summer. And we have actually proposed having a voluntary summer program for about four weeks to really start with the most vulnerable kids. And I would actually start with kids who are most at risk, including those who have not shown up. Kids who have -- kids who have disabilities. And we do something that really prepares for it next year. That's one of the things that we are pushing and pushing Congress to give us some funding for. Number two, one of the things that we are starting to see really work is if we try to actually reach out to kids and sum up the years. Because we did have seven to eight months of schooling. And have this kind of capstone project or term project and things like that. Number three, we are starting to work with the internet companies to try to get more (Inaudible) more internet and more hotspots so that we can actually reach more kids. But remember, this happened in a moment and people are trying to build this thing and fly at the same time."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. No, I hear you, it's very challenging. And you have a lot of parents who have, you know, several kids at home and they are trying to work from home and they can't, you know, turn themselves into teachers overnight when they have these stresses on them. But I think it sounds like a great idea. I mean, I even think that a lot of kids out there would welcome starting school in July or August after having been home since March. They are probably very anxious to get back to school and see their -- see their friends and their teachers and get back at it."
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, are you proposing that school -- the school year begin in July or August --"
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "utterance": "No."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "-- and you do a catch up, you know, four to eight weeks and then start the new year?"
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "utterance": "Actually, we are proposing something different. We are proposing to have a volunteer term. Because we still have a lot of kids who still (Technical Problem) so all kinds of things (Technical Problem) have our volunteer summer of four weeks, meaning because there may be places in the country that don't open in July. They open in August. Dr. Fauci (Technical Problem) open in September. So, we are going to have to actually figure out what that really means. But instead of it be remedial for this year, what we are proposing is how we prepare for next year. So, we make it constructive and we do something in terms of bricks- and-mortar schools where we bring in counselors and school nurses. Because (Inaudible) informed practices are going to be really important now. And we also have a combination of instruction, nourishment, and well- being. And I think that if we start planning that now, we'll actually be able to do it depending upon when we can open up."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. Well, good luck. I know these kids are going to want to catch up, their parents are going to want them to be on target and ready."
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "utterance": "Exactly."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, keep us posted on the program. Thank you very much, Randi Weingarten."
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Good to see you tonight."
+    },
+    {
+      "speaker": "WEINGARTEN",
+      "utterance": "Thanks so much."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, Easter Sunday -- thank you. Easter Sunday is coming. It is this Sunday of course. Football season is also coming. Two things that a lot of Americans are looking forward to. So, who better to talk to about both? Former New England Patriots Ben Watson joins me next."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, a lot of Americans are looking forward to the start of football season after so many sports got canceled this spring and in the summer. But a new poll shows that 72 percent of fans will not go to games again without a vaccine. Still, President Trump said this about the coming season and what he wants to see."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "And I hope football can start. I told them I think you might be able to. They may very well be able to. I hope they can start and I hope they can start with people in the stands. You know, we are not going to be separated. You have seats. Those seats are meant for people to sit next to each other."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That's right, they are. So, the NFL draft is less than two weeks away. Joining me now as of three weeks ago, former New England Patriots tight end Benjamin Watson, just retired, to talk about that and also about Good Friday and the importance of Easter week during this difficult time for so many. Ben, great to have you back on the show tonight. Thank you so much for being here."
+    },
+    {
+      "speaker": "BENJAMIN WATSON, FORMER NEW ENGLAND PATRIOTS TIGHT END",
+      "utterance": "Good to be here."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Let's start with Good Friday and Easter Sunday coming and this crisis and what you and your wife have been doing to help some of the small churches that are going through a tough time right now."
+    },
+    {
+      "speaker": "WATSON",
+      "utterance": "Thank you, Martha. We are all going through a tough time obviously, but we've seen that especially in small churches, churches with about 150 members or less are struggling. Seventy percent of those pastors say that financial giving is down and as you know we're not able to come together and worship corporally. So, what we've done in joining with the few other leaders is created the church is helping churches initiative. The point of that is to encourage churches that have a larger membership to donate and give money to the smaller churches, but also, we've created a fund where people can go to churchrelief.org and actually give to this fund. We raised $250,000 so far. We have 300 churches that are applying. Our goal is to have 500,000 in the months of April to give $3,000 grants each to these churches that may not make it out of this and they've already laid people off and many of these churches are the first place that people in the communities come to for help during times of crisis."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. I mean, it's a great, it's a great thing to support because without people going to church and the collections aren't happening and all of that and if people are laid off, it's going to be difficult for them to contribute to their churches. So, it's a wonderful thing that you and your wife are doing. You are one of those parents whose home, I think you have seven children, right? What's your advice to sort of, you know, keeping, keeping your faith during all of this and staying sane? Tell me, Ben."
+    },
+    {
+      "speaker": "WATSON",
+      "utterance": "Well, I heard you talking to someone before me talking about having kids at home. And it is tough. A lot of parents are trying to work from home. Some have been had to homeschool, we are kind of in that mix right now. But what we found is that having daily conversations with our children is key. Communicating with them. How are they feeling about this virus? What are some of their fears? You mentioned how they are talking about not being able to see their friends. That's vitally important as well. So, the lines of communication between the parents and children right now is vitally important. We've looked at this time as kind of a reset, you know, a time to come together as a family, especially in the light of Easter coming. This morning we read the passage talking about when Jesus came into Jerusalem and when he was crucified. So, there are a lot of things we can do as a parent. I think as we look back the hope is that we create some good habits, maybe even dinner together, whatever it may be, that we can carry on when this crisis is over."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. Well, we are going to miss seeing you on the field this fall and we all very much hope that football starts as planned. How much do you think America is going to need to go to football games and watch them on TV when September, August and September roll around, Ben?"
+    },
+    {
+      "speaker": "WATSON",
+      "utterance": "I think there is going to be a great need. I think there is a great need for sports. I mean, right now we are in the middle of the NBA season that has ceased to exist as we know it. The Major League Baseball season hasn't started and then football comes around later in the year. People are going to be ready for sports. They are ready for sports. Now first of all, obviously, we have to listen to the medical professionals. But my bigger concerns or actually biggest concern is what sports does for the economy. You know, when you look at the stadium, when you look at the cities where some of these teams are, they provide a lot of money for people that work there. So, there's entertainment but there's also economics that we have to consider"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So true. I mean, I remember those first baseball games after 9/11. Ben Watson, all the best you. Happy Easter."
+    },
+    {
+      "speaker": "WATSON",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "More on The Story coming up next."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, that is The Story of Friday, April 10th, 2020 on this Good Friday. We wish you and your families a happy, healthy Easter together. We'll see you back here on Monday night. Good night, everybody. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

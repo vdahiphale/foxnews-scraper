@@ -1,0 +1,1473 @@
+{
+  "date": "June 5, 2017",
+  "headline": "Rep. Chaffetz: I worry Comey will dodge questions; EPA's Pruitt: Trump put America first",
+  "subHeadline": "On \"The Story,\" the congressman sounds off about the former FBI chief's upcoming testimony.",
+  "url": "https://www.foxnews.com/transcript/rep-chaffetz-i-worry-comey-will-dodge-questions-epas-pruitt-trump-put-america-first",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MARTHA MACCALLUM, CO-HOST",
+      "sentences": "Breaking tonight, as we all have heard so often, if you see something, say something. But what if you did and no one did anything? Now, with seven dead and 48 injured, on the London Bridge case, consider this: British documentary from last year called the Jihadist next door, now many outlets including the Times and Sky News are reporting that this is Khuram Butt. Metropolitan police have not confirmed that this is indeed one of the London terror suspects. But look at this picture; this is him lying on the ground dead, wrapped in fake explosives, and what about this quote from one of his friends? \"He used to listen to a lot of Musa Jibril,\" who was a Michigan-based Islamist preacher. \"I have heard some of this stuff and it's very radical. I am surprised this stuff is on YouTube and easily accessible. I phoned the anti-terror hotline. I told him about our conversation and why I think he is radicalized.\" if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } However, he was not arrested and he was allowed to keep his passport. The friend goes to say: \"I did my bit. I know a lot of other people did their bit, but the authorities did not do their bit.\" This friend says. Very disturbing. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); } As we welcome you this evening to \"The Story.\" Good evening, everybody. I'm Martha MacCallum. So, this is the story of London, and of Manchester, and the growing war that is being waged on our freedoms by terrorists living among us. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } Big lineup tonight covering all of these angles. House Intelligence Committee Member, Peter King, here on President Trump's vow to do extreme betting one way or the other. Colonel Tony Chafer and Brad Thor on how those warnings went unheeded. And former Islamic Extremist, Maajid Nawaz, takes us inside the minds of these killers and what he believes is needed to stop them. But first, we go to London to Mike Tobin, who joins us tonight with the latest this evening. Good evening, Mike.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE TOBIN, FOX NEWS CHANNEL CORRESPONDENT",
+      "sentences": "Good evening, Martha. Evil, evil people! That is the way one of the London pub-goers describes the attackers. There are tales, horrific tales: one woman whose head was grabbed from behind before she was stabbed in the neck. There are tales of pub goers of throwing rocks, bottles, chairs, at the attackers who wore clad in their fixed suicide vest. There was a story of Christine Archibald from Canada, who was struck by the van on that bridge. She died in the arms of her fiance as the attackers slash their way through Borough market. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GERARD VOWLS, LONDON ATTACK SURVIVOR",
+      "sentences": "They're just stabbing this woman constantly, nonstop, forever, just dabbing her from every direction; lunging at her. They - and when they said, they was like, \"One thing, this is for Allah!\" if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MELISSA MCMULLAN, MOTHER PRESUMED DEAD IN LONDON ATTACK",
+      "sentences": "She's loving and caring, and no one could ever replace our mother. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RHIANNON OWEN, LONDON ATTACK SURVIVOR",
+      "sentences": "There was like, I don't know 30-40 of us in this room, then there were gunshots. There are really gunshots. We were just lying on the floor, and everyone was really, introducing ourselves and we're each other calm.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOBIN",
+      "sentences": "All three attackers have been identified. Two of their identities released: Rachid Redouane, not very well-known to investigators. But as you mentioned, Khuram Butt, was very well-known to police and Mi5 for radical ideology. Police have been conducting a flurry of raids outside of the city of London. One of those raids in a Borough called barking netted some 12 people. But late this evening, Metropolitan Police say all 12 of them have been released without charges. Martha. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Thank you very much, Mike. So, is this that the attack that becomes a game changer? Fox News Executive Editor, John Moody, writing in an opinion piece today: \"For far too long, Western societies including in the United States, have tried to rationalize what has now become an avalanche of violent hatred of Democratic freedom. We have asked if some or any of this is our fault, if we haven't listened to the voices of religious extremism or if we fail to understand their message. The results in Britain: Government officials estimate, there are more than 20,000 Jihadists living among the population.\" And here is their message he writes: \"We hate you, and we want to kill you.\" Tough stuff. Joining me now, Congressman Peter King, Chairman of the House Subcommittee on Counterterrorism and Intelligence. Congressman, good to have you here tonight. You know you listen to these reports of everything that was known about one of these individuals. Neighbors tried to turn him in. So, how does that not to lead to something?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. PETER KING, R-NY., HOUSE SUBCOMMITTEE ON COUNTERTERRORISM AND INTELLIGENCE CHAIRMAN",
+      "sentences": "You know, we have to wait until all the reports are in. But it seems that there has been a failure in the follow-up. Now, we've had that situation here in the United States with Orlando, San Bernardino, and certainly, up in Boston, where there were people under surveillance are being investigated by the FBI, and the cases were closed. I think this shows the need to have increased and intense surveillance. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); } Police can't - themselves can't be following everyone all the time. That's why we need under covers, that's why we need informers, that's why we need people working in the communities, that is why we have to monitor the mosques and other areas where the radicals congregate. And we have to realize: this is the reality. What happened on Sunday shows, once again, we are at war. This isn't some game, this is isn't politics, this isn't a mind game, this is for real. This is a war. We are at war, and we have to face the enemy and realize we're at war. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, changes are to be made: Congress is going to have to approve them. The President tweeted this today, among many other things, he said: \"The Justice Department should ask for an expedited hearing of the watered-down travel ban before the Supreme Court-and see much tougher version! In any event, we are extreme vetting,\" he says, \"people coming into the United States in order to keep our country safe. The courts are slow and political.\" So, what does he mean by that exactly, do you think? That we are extreme vetting?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KING",
+      "sentences": "I think what he's saying is that even though the Executive Order is being stayed. The fact is that the Department of Homeland Security is still very intensely looking as much as they can into those applying to come to the U.S. It's not a perfect situation because the government at the other end, they don't necessarily feel they have to cooperate. It would be a lot better and a lot stronger if we actually had an Executive Order being implemented. And I would say that Undersecretary Kelly, Department of Homeland Security, is vetting as much as they can. And again, you know, looking into the applicants coming in, and are trying to come in here, delaying it, I'm sure in some cases. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); } But again, it would be much - it would give a lot more clout if they had the Executive Order. And I can't for the life of me, believe or understand why the courts don't allow this Executive Order to go through. We're talking about six countries which are filled with terrorists and they have unstable, and in some cases, nonfunctioning governments. They have no security forces, no security measures in place. And why we shouldn't be able to delay them for at least 90 days, or 20 days? It's beyond me. This is political extremism gone wild.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Congressman Peter King, thank you very much, sir. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KING",
+      "sentences": "Thank you, Martha. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. We'll see you soon. So, several people, as we have said, tried to warn British authorities about radical Islamist viewpoints from one of the suspects. A man who law enforcement admits was on their radar. So, here now: Senior Fellow at the London Center for Policy Research, Lieutenant Colonel Tony Schaefer; and Brad Thor, former Member of Homeland Security and Analytics Red Cell Unit. Gentlemen, thank you very much. 20,000 Jihadists on the streets of the United Kingdom, how many of those would you imagine have phone calls from the Imam, and two different friends and neighbors reporting them, and that is not followed up on? Tony.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TONY SCHAEFER, LONDON CENTER FOR POLICY RESEARCH SENIOR FELLOW",
+      "sentences": "Well, look, I'd say that there's probably a pretty good percentage and I think the British are probably going through right now, combing all the records and trying to figure out who else has been reported. Let's be clear on this, Martha. They've talked about \"networks,\" multiple networks; this man was part of a network. This network was reported and ignored. And as Peter King just said, there is a pattern of this both there and here. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } So, I think you are talking about 2-3 percent of that group, which probably have on their mind doing something active. And if you are talking about thousands of people, that still a pretty big number but it's not infinite. And the reason that they're - that we saw this failure again is that you the same people in charge: Theresa May was the foreign - the Internal Secretary during the last four years. It's because of-she and other people, who have set up policies for this system to fail. So, if you have a system that's set up to fail, you have people reporting, and no follow- up, you're going to see more of this. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes. I mean, Brad, it's so disappointing to hear that these reports were made. And you know, often I think, Muslim communities are criticized for not doing enough to put up a red flag or to turn someone in if they have a concern. So, here, you have an Imam and neighbors doing exactly what they are supposed to do, and yet, they're now frustrated because no one listens to them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRAD THOR, HOMELAND SECURITY AND ANALYTICS RED CELL UNIT MEMBER",
+      "sentences": "Well, and you know who is also frustrated, Martha-law enforcement, because the bar is so high to prosecute these guys. We have zero tolerance when it comes to child pornography. Why don't we have zero tolerance when it comes to radical Islamic ideology?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Good point. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THOR",
+      "sentences": "If you go watch these videos, or you go listen to hate sermons like Anwar Awlaki, then, you ought to automatically - that ought to be a prosecutable offense. And if you even let one of these guys sleep on your couch when he's planning one of these attacks, we ought to be able to lock you up for not years, but decades. We need to lower the prosecution bar and make it much easier to close cases and unlock these people up because as Congressman King said, we're seeing the same pattern again, and again, and again. They'd get on FBI radar or over at MI-5, MI-6, wherever they are in the world. And then, they close the cases on them. So, let's make it easier to prosecute, not harder. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And these events, Tony, have to be very empowering. This is the third one since March. So, you know, they're looking at this and saying, this isn't working pretty well. You know, can jump in your van and you've got your knives, you get out, and you're going to terrify people all over the city on a regular basis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHAEFER",
+      "sentences": "There's no downside. That's right. So as, as we just alluded to by Brad, look, we've done this before. Also, during the older days, during the cold war, if you're supporting the Russians, if you are a communist, you weren't going to be given any slack, you would be locked up. So, we've done this before. Also, if you remember, Martha, right after 9/11, we did not have any major terror attacks in the United States. It's not that they didn't try; we had very severe, very effective methodologies - intelligence methodologies working with law enforcement and special operations to help do some very severe things. I don't want to get into details for obvious things; I'm sure Brad's aware of some of them. But the idea is we've done this before. It's not an issue of can; it's an issue of political will. And everything we've seen has been banned. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I want to ask a quick question to both of you; we just have only a few seconds left. Is this decision for Qatar to be cut out of the Gulf States conglomerate, is it because they're too cozy with Iran? Is it because they are fostering terrorism more than these other countries would like to see? Brad, quickly. And then, over to Tony.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THOR",
+      "sentences": "I think there's a lot of both going on, Martha. And I think any movement to address terrorism on that part of the world is a good thing, however, this shakes out. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Tony? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHAEFER",
+      "sentences": "Look, Qatar has been playing both sides of the fence, so has the Saudi Arabia. So, I'm not sure who the good guys and bad guys are here. We have our largest base in Qatar, something let's thing very seriously though.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, our next guest - thank you very much, gentlemen. Good to see you tonight. Our next guest coming up is a former Extremist himself who has converted his life and now preaches against all of this on his radio show and elsewhere. He warned us back in March. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAAJID NAWAZ, FORMER ISLAMIST EXTREMIST",
+      "sentences": "Well, unfortunately, as we just heard, these sorts of attacks are going to become increasingly common and increasingly difficult to predict and stop. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Since Maajid said that, dozens more are dead. Many more are wounded. Our President says this. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "sentences": "This bloodshed must end. This bloodshed will end. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, how? Maajid Nawaz joins us next. And as President Trump renews calls for a travel ban in the wake of the terror rampage in London, Karl Rove and Marie Harf are here are the legal challenges ahead. And the White House says it won't execute executive privilege to keep fired FBI Director James Comey from testifying on Thursday. So, that will happen this Thursday. House Oversight Chairman, Jason Chaffetz, just spoke to James Comey recently. He shares what they discussed with us in a conversation straight ahead. Stay with us. We'll be right back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. JASON CHAFFETZ, R-UTAH, HOUSE OVERSIGHT COMMITTEE CHAIRMAN",
+      "sentences": "It's hard to do this hearing without seeing the documents. And so, there's this new question, now with Mueller involved: is the Department of Justice actually going to share those documents? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Breaking tonight, three cold-blooded attacks in three months in England and no signs of sheer terror abating and time soon. In March, a lone wolf killed four people in a brutal rampage of the parliament. Two weeks later, in Manchester - or two weeks ago, rather, a suicide bomber murdered 22 children were among the dead there. And now, 50 hours ago, seven innocent lives were taken by terrorists on London Bridge and Borough market. British Prime Minister, Theresa May, and London Mayor, Sadiq Khan, are taking heat for their reserved responses to the terror. But President Trump not holding back what he thinks in a series of tweets, saying this: \"Pathetic excuse by London Mayor, Sadiq Khan, who had to think fast on his- no reason to be alarmed-statement. MSM (Main Stream Media), working hard to sell it!\" He says. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); } Joining me now Chairman of the Quilliam Think Tank, and a former Islamic Extremist, Maajid Nawaz. Maajid, thank you for being here tonight, it is good to have you with us this evening. You know, you look into that list, and we played the sound bite from our last conversation back in March when you warned that there would be much more to come. I supposed that you're sorry you were right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAWAZ",
+      "sentences": "Indeed. And I think we have to come to terms, Martha, with the fact that Europe, Britain, and the rest of Europe are in the midst of a full-blown Jihadist insurgency. You were citing figures earlier that our security services are attempting to monitor around 23,000 suspected Jihadists. That, by the way, is out of the population in the U.K. of just five percent that are Muslim, which means that 23,000 from 4 million Muslims in this country, and around those 23,000 those who are Jihadists, around them will be those who sympathize with the ideology: Islamists, who believe in establishing a caliphate, and around them those who empathize with their friends who happened to be Islamists. If that's not insurgency levels, I don't know what is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I mean it is just terrifying to look at the growth of this in so many places. You think of Belgium, you think of Paris, so what do you think? You know, there are some who - we had another attack here today in Orlando, which was a bit of a very different nature. But some people look at these as just individual incidents of violence, you know, and people who are off balance, and who are violent, you know, based on other things. What do you say to people who sort of have that perspective of what's going on in your country right now? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAWAZ",
+      "sentences": "It's an absolute insult to people who suffer from mental illness, the majority of whom, by the way, medically. Statistically, we know, the majority of people who suffer from mental illness are not violent. In fact, they are the victims of violence. That is an insult to people who suffer, genuinely, for medical conditions of mental health issues, to accuse or to scapegoat terrorism as simply loners who are suffering from mental health. It may be a bit of that involved, but frankly, in every case we look at, there are networks involved; radicalization has happened. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); } These Jihadist terrorists are indoctrinated by an ideology that believes first and foremost that their particular and very specific view of Islam must be imposed on everybody else, and by force when necessary. Take these two attackers, for example, Khuram Butt and Rachid Redouane, they hailed- especially Khuram Butt-he's known to have hailed from the Al Maha Jerun network. Al Maha Jerun was led in the U.K. until recently by Anjem Choudary, who was convicted and is now in prison for having sworn allegiance to ISIS. Al Maha Jerun effectively, in the U.K., was the wing of ISIS; that was active and operating in the United Kingdom. In turn, Al Maha Jerun itself was a splinter group of a broader organization that remains legal, my former group Hizb ut-Tahrir. And so, for decades in Europe and in Britain, organizations that espouse the Islamist ideology, want to impose their view of Islam on everybody else. These organizations have been in indoctrinating people like I, I was 16 when I joined. I'm now 40 this year, so that's how long this has been going on. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); } And they've telling these young kids that democracy is for the infidels, it's filthy, that secularism is heresy and we must fight against it. These are by no means loners or people that didn't emerge from the menu that I've just described. And as I said, it's reached insurgency levels, and we must begin to adopt counterinsurgency measures. And that's where I think, whether of the left of the political spectrum: Sadiq Khan is a labor man; or the right, Theresa May, too little has been done, and frankly, it is too late. And we need to start looking at long-term solutions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "We need your insight across the board here, and we really thank you for being here tonight. You think that Theresa May will win on Thursday before I let you go? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAWAZ",
+      "sentences": "I think she is set to win. Her tone changed after this recent attack, and she has reverted to the tone of former Prime Minister, David Cameron. He took this issue extremism incredibly, seriously. And it took, unfortunately, three attacks in as many months in the United Kingdom for Theresa May to not just worry about how the United Kingdom exits from the European Union, but also to recognize that terrorism is here to stay and isn't going away. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That's former Home Secretary has been on her plate in the past, to be sure. Maajid, thank you very much. Very good to have you with us tonight. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAWAZ",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, we now know multiple acquaintances, as we said earlier tonight of these terrorists, approach authorities and raised alarms but they were still free to roam the streets of London, and ultimately, murder seven in the most recent attack. Joining me now: Mia Bloom, is Professor at Georgia State University and the Author of \"Dying to Kill: The Allure of Suicide Terror.\" Mia, the more that we have learned about these individuals today, what does that tell you? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIA BLOOM, GEORGIA STATE UNIVERSITY PROFESSOR AND AUTHOR",
+      "sentences": "It frankly is just mind-boggling that Mr. Butt had a newborn baby at home. The idea, that people are willing to make this demonstration of what they see a sacrifice for a misguided interpretation of religion. And you know, it reminds me a little bit of San Bernardino, leaving the baby behind in order to go to the recreation center and kill people. I just don't understand it. But also, I think there's an important lesson to be learned, that many of these people were on the radar screen. And so, if that is the case, then it's very important that government - all governments, but in particular in the U.K.: they need to have the resources to keep track of these individuals that their neighbors, or their families, or friends have provided information. We know that in 70 percent of the cases, there's some leakage, that people have this unbelievable bystander effect to terrorism that they don't come forward. But when they do come forward, we absolutely have to pay attention.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Listen, I couldn't agree with you more. We know how difficult it is for any community to turn someone in, a neighbor in-someone, you know, who they have interaction with. And you have this situation where Imams are speaking out and saying, you know, I recognize the radicalism in this young man's voice, you guys need to keep an eye on him-he's going to do something. How - and I just keep going back to this one sort of line of thinking. How - it can't be that there are so many of these individuals that they're watching that also check those boxes, where several people have raised red flags on them, can't it, Mia?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLOOM",
+      "sentences": "Well, there are a lot of people. So, for example, in this Soufan group by the former FBI Agent, Ali Soufan, they've done studies of foreign fighters. They were 400 British returnees from Syria and Iraq. In other words, they went, they fought either for ISIS or (INAUDIBLE), and then they came back. In addition to that, there might be as many as 4,000 radicals and 20,000 people who are vulnerable. So, the more we see the numbers increased, the more difficult it is and a strain on the security services to watch everyone 24/7. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); } But I agree with you, Martha. If the Imam is making a phone call, for example, the Imam in Toronto that called the same week as the Tsarnaev attack in Boston, and prevented a horrible train explosion at Penn station from Toronto to New York. Or if we'd listen to the Imam in Cambridge, and Tsarnaev's had been picked up early. So, we really do need to listen to the community leaders that are giving this information. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Absolutely, because we have asked them to do exactly that and it's not easy for them to do what they're doing. And they do deserve the attention of authorities here and abroad. Mia, thank you very much. Good to have you back in the program.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BLOOM",
+      "sentences": "Thanks for having me, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, coming up next, President Trump taking to Twitter to renew calls for the travel ban in the wake of the London terror attack. But with the second Executive Order tied up in the courts, can the White House do anything to limit who crosses our borders? Karl Rove and Marie Harf, here on that. And breaking tonight, a new leak from a federal contractor seems to confirm that Russia did try to hack our voting systems in the days before the November election. House Oversight Chairman, Jason Chaffetz, here to respond to that breaking story tonight, straight ahead. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Breaking tonight, President Trump renewing calls for his travel ban in the wake of the London terror attacks. Mr. Trump taking to Twitter to make his case that the United States should enact the ban which limits travel from six predominantly Muslim countries, but his tweets may have some unintended consequences. For more on this: Chief National Correspondent, Ed Henry, joins us live outside the White House tonight. Hi, Ed!",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHANNEL CHIEF NATIONAL CORRESPONDENT",
+      "sentences": "well, good evening, Martha. The positive side of this President Trump is that he's been on offense over terror. A stark contrast from the defensive posture that Theresa May, the British Prime Minister, finds herself in just three days before national elections, now declaring that she wants to get tough on terror after three attacks in 75 days. But the negative side of it for President Trump, of course, is that in this rush to tweet out about how all of these attacks he believes, shows why he was right about the ban on travel from those Muslim-majority countries. It's now causing heartburn not just on the left, but from some conservatives, as well. The trouble started with those tweets you mentioned which the president took the rare steps of calling out his own administration, saying, quote, the justice department should ask for an expedited hearing of the watered down travel ban before the Supreme Court, and seek much tougher version. That's part trolling from the liberal ACLU, which tweeted, to recap @realdonaldtrump, confirm the ban is a ban. Noted Muslim ban 2.0 is a watered down politically correct version of the original. More problematic for the White House is the fact that prominent Republican attorney George Conway, yes, the husband of Kellyanne Conway, declared on twitter, quote, these tweets from the president may make some people feel better, but they certainly won't help the office of the solicitor general get 5 votes in the Supreme Court, which is what actually matters, sad. A clear reference there to the president. That led to an uncomfortable question at the White House podium for Sarah Huckabee Sanders, who insisted that the tweets are not tainting the administration's legal case at all. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SARAH HUCKABEE SANDERS, PRINCIPAL DEPUTY WHITE HOUSE PRESS SECRETARY",
+      "sentences": "The president is very focused on exactly what that order spells out and that's protecting Americans, protecting national security, and he has every constitutional authority to do that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Now, for the record, George Conway made clear in further tweets that he still supports not only his wife, of course, but the president, as well. George Conway saying he's merely worried that since lower court judges have used the president campaign rhetoric against him to bolster their charge that this is really is a discriminatory Muslim ban. George Conway is worried that these tweets will blow up in the president's face from a legal standpoint. Interesting because George Conway sent these tweets out just a few hours after Kellyanne Conway was on TV saying the media makes too much of the president's tweets. Martha. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Should be interesting at dinner tonight. Ed, thank you very much. Joining me now, Karl Rove, former senior advisor to President George W. Bush, and Marie Harf, former State Department spokesperson under President Obama, both are Fox News contributors. Welcome to you both. Karl, this is a segment about the political ramifications of the way this story is being handled. You can imagine that what's happening in England would make some people feel supportive of this extreme vetting ban. But the president got very active on twitter and did he do himself any favors? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARL ROVE, FOX NEWS CONTRIBUTOR",
+      "sentences": "No, he didn't. In fact, he took out a twitter gun and shot himself four times. Let's put it in context. At 3:25 AM, he says the words travel ban. His lawyers, for the last nearly three months -- nearly four months, have been attempting never to use the word travel ban insisting that this is a pause. At 3:29 AM, he says, we ought to be pushing for the original travel ban, not the watered-down version. Well, President Trump signed the watered-down version after withdrawing the original travel ban. So in essence, he's attacking himself, saying, I shouldn't really stuck with the original.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Karl, he said he's mad that he listen to his people, right. That's what he's saying. He said I never should have listened to them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Then, criticize yourself for making that decision, don't -- I mean he was the guy who withdrew the original.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "He made the decision, 3:37, he says, I want an expedited hearing on the original order. Well, you can't do that because you withdrew it, Mr. President. No longer is it an executive order you withdrew it. And finally, and this is really damaging, at 3:44, he said we are already extreme vetting.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Now, the president said in his original executive order that he wanted a pause for 90 days in order to come up with extreme vetting procedures. In court, the justice department was asked specifically, are you proceeding with the drafting of the extreme vetting standards? And they said, we have, quote, put the pin down. In other words, we're not drafting anything. If the president, following January 27, when he put the original order out, have began the process of setting those extreme vetting standards, he would have them done in 90 days, that was almost 125 days ago. He could have gotten it all done had he focused on getting that policy in place. He wanted the pause only in order to put together the vetting standards. His justice department is saying, no, we haven't gotten the vetting standards put together. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I hear what you're saying and it's clear for those tweets that he stepped on his messages in a way that could be detrimental to him. But Marie, I also think when people in this country look at what's been going on in England, they say maybe extreme vetting doesn't sound such a bad idea.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARIE HARF, FOX NEWS CONTRIBUTOR",
+      "sentences": "Well, the question has always been what extreme vetting is. And Karl is absolutely right here. If in fact they are already doing extreme vetting as the presidents said, then they're legal rationale for the temporary pause as they've called the ban, goes out the window completely. And look, Martha, they wanted us to be infrastructure week. They wanted a big rollout today of privatizing air traffic controllers, of talking about infrastructure, an issue that has actually some potential for bipartisan support, and almost people have talked about today is President Trump tweets. He stepped on his own message. He can't complain that they can't get back to domestic issues here when he's the one doing it himself.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. What is the impact of what George Conway said, Marie? Then, back to Karl.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "I agree. I wouldn't want to be at that dinner table tonight. Look, George Conway is a respected conservative legal mind. And I think that it's just indicative of the fact that there are a lot of people who do support President Trump's decisions. I'm obviously not one of them, but I think George Conway is, who are disturbed by the way in which he's trying to defend them and promote them. And so it's not just Democrats, I know that's often the line. It is people who actually want this to be implemented. Who are saying, wait a second, you're making this much harder for yourselves. And I think the Trump administration should listen to those voices if they want to get anything done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I'm out of time, Karl, real quick.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Look, the president wanted extreme vetting procedures. Conway, I think is extraneous. The president ought to focus on getting those extreme vetting procedures in place, described to the affected countries, and imposing them. And he doesn't need to get the approval of the Supreme Court in order to do that. And I'm shocked that following January 27th, they didn't continue to proceed along the line. They have the authority to do the extreme vetting. The only question has been does he have the authority to institute a ban aim at Muslims? And these tweets haven't done any -- his cause any good.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. Thank you, guys. Great to see you both. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "Thanks, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "You bet.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So breaking tonight, a shocking new leak from a federal contractor reportedly shows that Russia did try to hack our voting system just days before Americans hits the polls last November. Congressman Jason Chaffetz weighs in on this breaking news tonight, right after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "This story breaking tonight, the department of justice charging a federal contractor with leaking top-secret information to the media, a highly sensitive information in question is reportedly confirmation that the Russians tried to hack the 2016 election. At this hour, the NSA not commenting on the matter to Fox News, but telling us that this status still does not change the fact that Russian interference did not alter votes, according to the story so far. House oversight committee chairman, Jason Chaffetz joins us. Good to see you tonight, congressman.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Glad to be here with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So what do you think about this? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "I'm just seeing the media reports. Look, they have got to get after these leaks. I don't care if you're Republican or Democrat, doesn't matter what administration, when you have classified information, you cannot put that out there just because you think it would be a good idea. I want people in handcuffs and I want to see people behind bars.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So apparently this contractor, whose name is, Reality Lee Winner, printed it out, brought it out of the building, and then turned it over to -- and it was published by The Intercept.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Well, you can see the problem. They have hundreds of thousands of people that have security clearances that can do simply that. They're supposed to be safeguards in there. And when we talk to the state department, you talk to the department of justice, you talk to the NSA, they assure you that they have all of these safeguards. But how many times do we have to see this story happen? They don't. They obviously don't have the.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What their motivation was, what they got in exchange perhaps for turning over these documents, so a lot more to come on that story. So, obviously, one of the biggest events this week, probably the biggest event this week is going to be James Comey testimony before the senate intelligence committee. You spoke with him recently. Did you ask him what was in the memos that he wrote during, after that meeting that he had with the president?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Well, in working with Trey Gowdy, we really believe that the very first thing that has to happen is we actually have to see the documents themselves. Remember, the New York Times, who originally broke the story, they never saw the documents.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Yet, they printed the story. I haven't seen them. Trey Gowdy hasn't seen them. We're not aware of anybody in congress who actually seen this, unless they've been given to senate intel in the last 48 hours or so and nobody knows anything about it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You would expect that the notes that he took after that meeting, because he kept a record of all his meetings, would have been turned over to department of justice. That's what he would have to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Well, they seem to be either federal record. Now, when I spoke with Mr. Comey, I ask him very specifically, we were having a fun conversation, but I asked him very specifically, do these documents reside at the department of justice or do you personally have them? And he said he would not comment whatsoever. That kind of struck me as odd. So, we have since followed up, as the oversight committee, to say we would like to see all of your documents. Not just about your meetings with Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Will he hand them over?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Yeah. I think if he has them, which is a question. So I want to see, not only the things that he has with his interactions with Donald Trump, but what about Barack Obama? What about attorney general Loretta Lynch? What about Bill Clinton? What about all those other -- if he's making records of these things, as the FBI director, and we the America people are paying him, guess what, that's a federal record, and so you can't just put that in your back pocket, lock it home. And what's interesting about the New York Times article, which is again, a question for Thursday, are there truly classified materials? You can't walk out of the building with classified information. I don't care if you're the former FBI director or anybody else.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, obviously, the big moment that everyone is going to be watching for is when he has asked the question, did you interpret a conversation that you had with President Trump, where he, according to this report, said, can we get past this Michael Flynn issue? That he believed that was obstruction of justice, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Well, then he also has to answer the question, why did he testify under oath that there had been no political influence. That evidently happened. He had had that meeting.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What is your gut tell you he'll say about obstruction of justice? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Well, I worry that what he's going to say is -- he's going to go back to the tried and true, well, it's classified materials and I'm going to have to talk to you about but not in this setting. That's the worry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So why do a public testimony?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Well, I would love to hear his story, but you've also got to see the documents. And then, you have to explain why is it that you publicly testified under oath that there was no political interference. Why is it that your replacement, the current acting FBI director, testified under oath, that he had seen no political influence happening whatsoever. As Director Comey had previously said, this is a big story. If that had happened.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah, that's right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": ". but where's the evidence of that happening?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And the obvious question, did you consider that to be obstruction of justice, is why didn't you report it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Yes. He could talked to the house oversight committee, house judiciary committee, I mean, there's lots of different outlets to just simply write it on a sticky note or something and put in your back pocket and walk out the door, it's probably more sophisticated than that, but where are those documents? And if he's doing that in this instance with the president, where is he doing it with Obama? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Chairman Borough of the senate intelligence committee met with, wants to talk to the former FBI director Mueller, make sure that they're squared away, and what they can and can't discuss in this open forum, so we'll see how much we get out of it. Thank you so much, congressman.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Good to see you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Good to see you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So coming up next, EPA administrator Scott Pruitt is here in studio on the president's controversial decision to pull out of the Paris climate agreement. And how tough a decision was that around the White House when we come back. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "The United States will cease all implementation of the nonbinding Paris Accord, and the draconian financial and economic burdens the agreement opposes on our country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That was President Trump last week announcing his decision to withdraw the U.S. from the Paris Climate Agreement. That set off an avalanche of attacks of critics accusing the president of everything from being a climate change denier to advocating America's position as a global leader. Here now, one of the key advisors that helped President Trump make that decision, who helped to make that decision, administrator of the Environmental Protection Agency, Scott Pruitt. Good to have you here, sir. Welcome. So the word was that this was a pretty tough battle within the White House over this issue. What was that like for you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCOTT PRUITT, EPA ADMINISTRATOR",
+      "sentences": "You know every decision the president makes is a big decision. I think what the president did in this process is really solicit input from a cross-section of the cabinets, and he made a very informed and deliberate and thoughtful decision. And what's really important about this decision, Martha, in my view, is that he put America first. He actually said that when it comes to, obviously, environmental agreements, international agreements, that we're going to put the interest of this country first and recognize what we've already achieved. We're a pre-1994 levels right now with our co2 footprint. From 2000-2014, we reduce our co2 footprint by over 18 percent. But yet, the previous administration went to Paris and was apologetic, and the president said no longer. We're going to make sure we put America first.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Your argument is that we're basically self-policing, that we have done a lot to improve uses of plastic and shrinking the carbon footprint on our own.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Well, look, I mean, when you look at the innovation and technology that we have, with respect to hydraulic fracturing, horizontal drilling, clean coal technology, we see a tremendous, tremendous benefit over the last couple of decades. We've done that through innovation, not through government mandates. So why go to Paris? Why go to Paris and agreed to 26 to 28 percent reductions that if you take every action that President Obama took, every climate action, rule making that he engaged in, we're still fell 40 percent. It was a failed agreement from the beginning. And what the president recognize last week is we're no longer going to take that approach. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know who doesn't agree with you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "I can guess.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Al gore.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Here's Al Gore with Chris Wallace on Sunday. Let's watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "AL GORE, FORMER VICE PRESIDENT",
+      "sentences": "This administration has said there's no such thing as a global community, actually, there is, because we as a civilization are putting 110 million tons of heat trapping global warming pollution up into the sky every day, as if it's an open sewer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That sounds pretty bad.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "You know short memory these folks have because if you go back to when Paris was actually signed by the United States, the environmental left was very critical. In fact, James Hansen, a former NASA scientist, has been called the father of climate change. He called it a fake and a fraud. The general counsel of the Sierra Club was critical, as well. The reason they were critical, Martha, because it did not hold China and India accountable. India didn't have to take any steps in the agreement to reduce co2 emissions until they received $2.5 trillion in aid. China didn't have to take any steps until the year 2030, and we're on the frontload of all of the cause, contracting jobs, to 400,000 jobs lost under the Paris agreement, and $2.5 trillion of gross domestic product over ten years while China and India take no steps.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. So John Kerry also spoke out about this and he made an interesting comparison. Let's watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN KERRY, FORMER SECRETARY OF STATE",
+      "sentences": "When Donald Trump says to the world, well, we're going to negotiate a better deal. I mean, you know, he's going to go out and find a better deal? That's like O.J. Simpson saying he's going to go out and find the real killer. Everybody knows he's isn't going to do that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Look, our discussion should be around exporting American technology, American innovation to the rest of the world. Come and follow what we've done. Again, pre-1994 levels.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So you don't want another negotiated deal?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "No, I think that engagement is very important. We're part of UNFCCC, which is the framework convention on climate change. The United States is going to continue leading with respect to co2 reductions. I think the Paris agreement has taken almost a symbolism, that's it's really all hat, no cattle, we say in Oklahoma and Texas. I mean, the past administration talked a lot, they did very little. We're taking action as an administration and as a country to lead in co2 reduction and we've done that. We've proven that out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Very interesting. Scott Pruitt, thank you for coming by.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Thanks, Martha,",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Good to see you, sir. So coming up next, an incredible sign of support and solidarity for the 22 lives lost two weeks ago in a suicide bombing at the Ariana Grande concert in Manchester, England.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "When Ariana Grande decided to come back to Manchester to perform just two weeks after 22 people, most of them young, were killed at her concert there, no one imagined that yet another attack would take the lives of seven more in London, the night before this concert. She closed out the night with a song that tugs at our heartstrings under normal circumstances. But this young lady did well. And she sent a message to everyone. Here's our quote of the night.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARIANA GRANDE, SINGER",
+      "sentences": "Somewhere over the rainbow, where birds fly, over the rainbow, why, oh why, can't I.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Warming the heart of 50,000 people and those around the world, as well. We thank her for that. Have a good night, everybody. We'll see you back here tomorrow. Tucker Carlson is up next. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, CO-HOST",
+      "utterance": "Breaking tonight, as we all have heard so often, if you see something, say something. But what if you did and no one did anything? Now, with seven dead and 48 injured, on the London Bridge case, consider this: British documentary from last year called the Jihadist next door, now many outlets including the Times and Sky News are reporting that this is Khuram Butt. Metropolitan police have not confirmed that this is indeed one of the London terror suspects. But look at this picture; this is him lying on the ground dead, wrapped in fake explosives, and what about this quote from one of his friends? \"He used to listen to a lot of Musa Jibril,\" who was a Michigan-based Islamist preacher. \"I have heard some of this stuff and it's very radical. I am surprised this stuff is on YouTube and easily accessible. I phoned the anti-terror hotline. I told him about our conversation and why I think he is radicalized.\""
+    },
+    {
+      "speaker": "However, he was not arrested and he was allowed to keep his passport. The friend goes to say",
+      "utterance": "\"I did my bit. I know a lot of other people did their bit, but the authorities did not do their bit.\" This friend says. Very disturbing. As we welcome you this evening to \"The Story.\" Good evening, everybody. I'm Martha MacCallum. So, this is the story of London, and of Manchester, and the growing war that is being waged on our freedoms by terrorists living among us. Big lineup tonight covering all of these angles. House Intelligence Committee Member, Peter King, here on President Trump's vow to do extreme betting one way or the other. Colonel Tony Chafer and Brad Thor on how those warnings went unheeded. And former Islamic Extremist, Maajid Nawaz, takes us inside the minds of these killers and what he believes is needed to stop them. But first, we go to London to Mike Tobin, who joins us tonight with the latest this evening. Good evening, Mike."
+    },
+    {
+      "speaker": "MIKE TOBIN, FOX NEWS CHANNEL CORRESPONDENT",
+      "utterance": "Good evening, Martha. Evil, evil people! That is the way one of the London pub-goers describes the attackers. There are tales, horrific tales: one woman whose head was grabbed from behind before she was stabbed in the neck. There are tales of pub goers of throwing rocks, bottles, chairs, at the attackers who wore clad in their fixed suicide vest. There was a story of Christine Archibald from Canada, who was struck by the van on that bridge. She died in the arms of her fiance as the attackers slash their way through Borough market."
+    },
+    {
+      "speaker": "GERARD VOWLS, LONDON ATTACK SURVIVOR",
+      "utterance": "They're just stabbing this woman constantly, nonstop, forever, just dabbing her from every direction; lunging at her. They - and when they said, they was like, \"One thing, this is for Allah!\""
+    },
+    {
+      "speaker": "MELISSA MCMULLAN, MOTHER PRESUMED DEAD IN LONDON ATTACK",
+      "utterance": "She's loving and caring, and no one could ever replace our mother."
+    },
+    {
+      "speaker": "RHIANNON OWEN, LONDON ATTACK SURVIVOR",
+      "utterance": "There was like, I don't know 30-40 of us in this room, then there were gunshots. There are really gunshots. We were just lying on the floor, and everyone was really, introducing ourselves and we're each other calm."
+    },
+    {
+      "speaker": "TOBIN",
+      "utterance": "All three attackers have been identified. Two of their identities released: Rachid Redouane, not very well-known to investigators. But as you mentioned, Khuram Butt, was very well-known to police and Mi5 for radical ideology. Police have been conducting a flurry of raids outside of the city of London. One of those raids in a Borough called barking netted some 12 people. But late this evening, Metropolitan Police say all 12 of them have been released without charges. Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Thank you very much, Mike. So, is this that the attack that becomes a game changer? Fox News Executive Editor, John Moody, writing in an opinion piece today: \"For far too long, Western societies including in the United States, have tried to rationalize what has now become an avalanche of violent hatred of Democratic freedom. We have asked if some or any of this is our fault, if we haven't listened to the voices of religious extremism or if we fail to understand their message."
+    },
+    {
+      "speaker": "The results in Britain",
+      "utterance": "Government officials estimate, there are more than 20,000 Jihadists living among the population.\" And here is their message he writes: \"We hate you, and we want to kill you.\" Tough stuff. Joining me now, Congressman Peter King, Chairman of the House Subcommittee on Counterterrorism and Intelligence. Congressman, good to have you here tonight. You know you listen to these reports of everything that was known about one of these individuals. Neighbors tried to turn him in. So, how does that not to lead to something?"
+    },
+    {
+      "speaker": "REP. PETER KING, R-NY., HOUSE SUBCOMMITTEE ON COUNTERTERRORISM AND INTELLIGENCE CHAIRMAN",
+      "utterance": "You know, we have to wait until all the reports are in. But it seems that there has been a failure in the follow-up. Now, we've had that situation here in the United States with Orlando, San Bernardino, and certainly, up in Boston, where there were people under surveillance are being investigated by the FBI, and the cases were closed. I think this shows the need to have increased and intense surveillance."
+    },
+    {
+      "speaker": "Police can't - themselves can't be following everyone all the time. That's why we need under covers, that's why we need informers, that's why we need people working in the communities, that is why we have to monitor the mosques and other areas where the radicals congregate. And we have to realize",
+      "utterance": "this is the reality. What happened on Sunday shows, once again, we are at war. This isn't some game, this is isn't politics, this isn't a mind game, this is for real. This is a war. We are at war, and we have to face the enemy and realize we're at war."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, changes are to be made: Congress is going to have to approve them. The President tweeted this today, among many other things, he said: \"The Justice Department should ask for an expedited hearing of the watered-down travel ban before the Supreme Court-and see much tougher version! In any event, we are extreme vetting,\" he says, \"people coming into the United States in order to keep our country safe. The courts are slow and political.\" So, what does he mean by that exactly, do you think? That we are extreme vetting?"
+    },
+    {
+      "speaker": "KING",
+      "utterance": "I think what he's saying is that even though the Executive Order is being stayed. The fact is that the Department of Homeland Security is still very intensely looking as much as they can into those applying to come to the U.S. It's not a perfect situation because the government at the other end, they don't necessarily feel they have to cooperate. It would be a lot better and a lot stronger if we actually had an Executive Order being implemented. And I would say that Undersecretary Kelly, Department of Homeland Security, is vetting as much as they can. And again, you know, looking into the applicants coming in, and are trying to come in here, delaying it, I'm sure in some cases. But again, it would be much - it would give a lot more clout if they had the Executive Order. And I can't for the life of me, believe or understand why the courts don't allow this Executive Order to go through. We're talking about six countries which are filled with terrorists and they have unstable, and in some cases, nonfunctioning governments. They have no security forces, no security measures in place. And why we shouldn't be able to delay them for at least 90 days, or 20 days? It's beyond me. This is political extremism gone wild."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Congressman Peter King, thank you very much, sir."
+    },
+    {
+      "speaker": "KING",
+      "utterance": "Thank you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. We'll see you soon. So, several people, as we have said, tried to warn British authorities about radical Islamist viewpoints from one of the suspects. A man who law enforcement admits was on their radar. So, here now: Senior Fellow at the London Center for Policy Research, Lieutenant Colonel Tony Schaefer; and Brad Thor, former Member of Homeland Security and Analytics Red Cell Unit. Gentlemen, thank you very much. 20,000 Jihadists on the streets of the United Kingdom, how many of those would you imagine have phone calls from the Imam, and two different friends and neighbors reporting them, and that is not followed up on? Tony."
+    },
+    {
+      "speaker": "TONY SCHAEFER, LONDON CENTER FOR POLICY RESEARCH SENIOR FELLOW",
+      "utterance": "Well, look, I'd say that there's probably a pretty good percentage and I think the British are probably going through right now, combing all the records and trying to figure out who else has been reported. Let's be clear on this, Martha. They've talked about \"networks,\" multiple networks; this man was part of a network. This network was reported and ignored. And as Peter King just said, there is a pattern of this both there and here. So, I think you are talking about 2-3 percent of that group, which probably have on their mind doing something active. And if you are talking about thousands of people, that still a pretty big number but it's not infinite. And the reason that they're - that we saw this failure again is that you the same people in charge: Theresa May was the foreign - the Internal Secretary during the last four years. It's because of-she and other people, who have set up policies for this system to fail. So, if you have a system that's set up to fail, you have people reporting, and no follow- up, you're going to see more of this."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes. I mean, Brad, it's so disappointing to hear that these reports were made. And you know, often I think, Muslim communities are criticized for not doing enough to put up a red flag or to turn someone in if they have a concern. So, here, you have an Imam and neighbors doing exactly what they are supposed to do, and yet, they're now frustrated because no one listens to them."
+    },
+    {
+      "speaker": "BRAD THOR, HOMELAND SECURITY AND ANALYTICS RED CELL UNIT MEMBER",
+      "utterance": "Well, and you know who is also frustrated, Martha-law enforcement, because the bar is so high to prosecute these guys. We have zero tolerance when it comes to child pornography. Why don't we have zero tolerance when it comes to radical Islamic ideology?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Good point."
+    },
+    {
+      "speaker": "THOR",
+      "utterance": "If you go watch these videos, or you go listen to hate sermons like Anwar Awlaki, then, you ought to automatically - that ought to be a prosecutable offense. And if you even let one of these guys sleep on your couch when he's planning one of these attacks, we ought to be able to lock you up for not years, but decades. We need to lower the prosecution bar and make it much easier to close cases and unlock these people up because as Congressman King said, we're seeing the same pattern again, and again, and again. They'd get on FBI radar or over at MI-5, MI-6, wherever they are in the world. And then, they close the cases on them. So, let's make it easier to prosecute, not harder."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And these events, Tony, have to be very empowering. This is the third one since March. So, you know, they're looking at this and saying, this isn't working pretty well. You know, can jump in your van and you've got your knives, you get out, and you're going to terrify people all over the city on a regular basis."
+    },
+    {
+      "speaker": "SCHAEFER",
+      "utterance": "There's no downside. That's right. So as, as we just alluded to by Brad, look, we've done this before. Also, during the older days, during the cold war, if you're supporting the Russians, if you are a communist, you weren't going to be given any slack, you would be locked up. So, we've done this before. Also, if you remember, Martha, right after 9/11, we did not have any major terror attacks in the United States. It's not that they didn't try; we had very severe, very effective methodologies - intelligence methodologies working with law enforcement and special operations to help do some very severe things. I don't want to get into details for obvious things; I'm sure Brad's aware of some of them. But the idea is we've done this before. It's not an issue of can; it's an issue of political will. And everything we've seen has been banned."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I want to ask a quick question to both of you; we just have only a few seconds left. Is this decision for Qatar to be cut out of the Gulf States conglomerate, is it because they're too cozy with Iran? Is it because they are fostering terrorism more than these other countries would like to see? Brad, quickly. And then, over to Tony."
+    },
+    {
+      "speaker": "THOR",
+      "utterance": "I think there's a lot of both going on, Martha. And I think any movement to address terrorism on that part of the world is a good thing, however, this shakes out."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Tony?"
+    },
+    {
+      "speaker": "SCHAEFER",
+      "utterance": "Look, Qatar has been playing both sides of the fence, so has the Saudi Arabia. So, I'm not sure who the good guys and bad guys are here. We have our largest base in Qatar, something let's thing very seriously though."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, our next guest - thank you very much, gentlemen. Good to see you tonight. Our next guest coming up is a former Extremist himself who has converted his life and now preaches against all of this on his radio show and elsewhere. He warned us back in March."
+    },
+    {
+      "speaker": "MAAJID NAWAZ, FORMER ISLAMIST EXTREMIST",
+      "utterance": "Well, unfortunately, as we just heard, these sorts of attacks are going to become increasingly common and increasingly difficult to predict and stop."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Since Maajid said that, dozens more are dead. Many more are wounded. Our President says this."
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "utterance": "This bloodshed must end. This bloodshed will end."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, how? Maajid Nawaz joins us next. And as President Trump renews calls for a travel ban in the wake of the terror rampage in London, Karl Rove and Marie Harf are here are the legal challenges ahead. And the White House says it won't execute executive privilege to keep fired FBI Director James Comey from testifying on Thursday. So, that will happen this Thursday. House Oversight Chairman, Jason Chaffetz, just spoke to James Comey recently. He shares what they discussed with us in a conversation straight ahead. Stay with us. We'll be right back."
+    },
+    {
+      "speaker": "REP. JASON CHAFFETZ, R-UTAH, HOUSE OVERSIGHT COMMITTEE CHAIRMAN",
+      "utterance": "It's hard to do this hearing without seeing the documents. And so, there's this new question, now with Mueller involved: is the Department of Justice actually going to share those documents?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Breaking tonight, three cold-blooded attacks in three months in England and no signs of sheer terror abating and time soon. In March, a lone wolf killed four people in a brutal rampage of the parliament. Two weeks later, in Manchester - or two weeks ago, rather, a suicide bomber murdered 22 children were among the dead there. And now, 50 hours ago, seven innocent lives were taken by terrorists on London Bridge and Borough market."
+    },
+    {
+      "speaker": "British Prime Minister, Theresa May, and London Mayor, Sadiq Khan, are taking heat for their reserved responses to the terror. But President Trump not holding back what he thinks in a series of tweets, saying this",
+      "utterance": "\"Pathetic excuse by London Mayor, Sadiq Khan, who had to think fast on his- no reason to be alarmed-statement. MSM (Main Stream Media), working hard to sell it!\" He says. Joining me now Chairman of the Quilliam Think Tank, and a former Islamic Extremist, Maajid Nawaz. Maajid, thank you for being here tonight, it is good to have you with us this evening. You know, you look into that list, and we played the sound bite from our last conversation back in March when you warned that there would be much more to come. I supposed that you're sorry you were right."
+    },
+    {
+      "speaker": "NAWAZ",
+      "utterance": "Indeed. And I think we have to come to terms, Martha, with the fact that Europe, Britain, and the rest of Europe are in the midst of a full-blown Jihadist insurgency. You were citing figures earlier that our security services are attempting to monitor around 23,000 suspected Jihadists. That, by the way, is out of the population in the U.K. of just five percent that are Muslim, which means that 23,000 from 4 million Muslims in this country, and around those 23,000 those who are Jihadists, around them will be those who sympathize with the ideology: Islamists, who believe in establishing a caliphate, and around them those who empathize with their friends who happened to be Islamists. If that's not insurgency levels, I don't know what is."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I mean it is just terrifying to look at the growth of this in so many places. You think of Belgium, you think of Paris, so what do you think? You know, there are some who - we had another attack here today in Orlando, which was a bit of a very different nature. But some people look at these as just individual incidents of violence, you know, and people who are off balance, and who are violent, you know, based on other things. What do you say to people who sort of have that perspective of what's going on in your country right now?"
+    },
+    {
+      "speaker": "NAWAZ",
+      "utterance": "It's an absolute insult to people who suffer from mental illness, the majority of whom, by the way, medically. Statistically, we know, the majority of people who suffer from mental illness are not violent. In fact, they are the victims of violence. That is an insult to people who suffer, genuinely, for medical conditions of mental health issues, to accuse or to scapegoat terrorism as simply loners who are suffering from mental health. It may be a bit of that involved, but frankly, in every case we look at, there are networks involved; radicalization has happened. These Jihadist terrorists are indoctrinated by an ideology that believes first and foremost that their particular and very specific view of Islam must be imposed on everybody else, and by force when necessary. Take these two attackers, for example, Khuram Butt and Rachid Redouane, they hailed- especially Khuram Butt-he's known to have hailed from the Al Maha Jerun network. Al Maha Jerun was led in the U.K. until recently by Anjem Choudary, who was convicted and is now in prison for having sworn allegiance to ISIS. Al Maha Jerun effectively, in the U.K., was the wing of ISIS; that was active and operating in the United Kingdom. In turn, Al Maha Jerun itself was a splinter group of a broader organization that remains legal, my former group Hizb ut-Tahrir. And so, for decades in Europe and in Britain, organizations that espouse the Islamist ideology, want to impose their view of Islam on everybody else. These organizations have been in indoctrinating people like I, I was 16 when I joined. I'm now 40 this year, so that's how long this has been going on."
+    },
+    {
+      "speaker": "And they've telling these young kids that democracy is for the infidels, it's filthy, that secularism is heresy and we must fight against it. These are by no means loners or people that didn't emerge from the menu that I've just described. And as I said, it's reached insurgency levels, and we must begin to adopt counterinsurgency measures. And that's where I think, whether of the left of the political spectrum",
+      "utterance": "Sadiq Khan is a labor man; or the right, Theresa May, too little has been done, and frankly, it is too late. And we need to start looking at long-term solutions."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "We need your insight across the board here, and we really thank you for being here tonight. You think that Theresa May will win on Thursday before I let you go?"
+    },
+    {
+      "speaker": "NAWAZ",
+      "utterance": "I think she is set to win. Her tone changed after this recent attack, and she has reverted to the tone of former Prime Minister, David Cameron. He took this issue extremism incredibly, seriously. And it took, unfortunately, three attacks in as many months in the United Kingdom for Theresa May to not just worry about how the United Kingdom exits from the European Union, but also to recognize that terrorism is here to stay and isn't going away."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That's former Home Secretary has been on her plate in the past, to be sure. Maajid, thank you very much. Very good to have you with us tonight."
+    },
+    {
+      "speaker": "NAWAZ",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, we now know multiple acquaintances, as we said earlier tonight of these terrorists, approach authorities and raised alarms but they were still free to roam the streets of London, and ultimately, murder seven in the most recent attack. Joining me now: Mia Bloom, is Professor at Georgia State University and the Author of \"Dying to Kill: The Allure of Suicide Terror.\" Mia, the more that we have learned about these individuals today, what does that tell you?"
+    },
+    {
+      "speaker": "MIA BLOOM, GEORGIA STATE UNIVERSITY PROFESSOR AND AUTHOR",
+      "utterance": "It frankly is just mind-boggling that Mr. Butt had a newborn baby at home. The idea, that people are willing to make this demonstration of what they see a sacrifice for a misguided interpretation of religion. And you know, it reminds me a little bit of San Bernardino, leaving the baby behind in order to go to the recreation center and kill people. I just don't understand it. But also, I think there's an important lesson to be learned, that many of these people were on the radar screen."
+    },
+    {
+      "speaker": "And so, if that is the case, then it's very important that government - all governments, but in particular in the U.K.",
+      "utterance": "they need to have the resources to keep track of these individuals that their neighbors, or their families, or friends have provided information. We know that in 70 percent of the cases, there's some leakage, that people have this unbelievable bystander effect to terrorism that they don't come forward. But when they do come forward, we absolutely have to pay attention."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Listen, I couldn't agree with you more. We know how difficult it is for any community to turn someone in, a neighbor in-someone, you know, who they have interaction with. And you have this situation where Imams are speaking out and saying, you know, I recognize the radicalism in this young man's voice, you guys need to keep an eye on him-he's going to do something. How - and I just keep going back to this one sort of line of thinking. How - it can't be that there are so many of these individuals that they're watching that also check those boxes, where several people have raised red flags on them, can't it, Mia?"
+    },
+    {
+      "speaker": "BLOOM",
+      "utterance": "Well, there are a lot of people. So, for example, in this Soufan group by the former FBI Agent, Ali Soufan, they've done studies of foreign fighters. They were 400 British returnees from Syria and Iraq. In other words, they went, they fought either for ISIS or (INAUDIBLE), and then they came back. In addition to that, there might be as many as 4,000 radicals and 20,000 people who are vulnerable. So, the more we see the numbers increased, the more difficult it is and a strain on the security services to watch everyone 24/7. But I agree with you, Martha. If the Imam is making a phone call, for example, the Imam in Toronto that called the same week as the Tsarnaev attack in Boston, and prevented a horrible train explosion at Penn station from Toronto to New York. Or if we'd listen to the Imam in Cambridge, and Tsarnaev's had been picked up early. So, we really do need to listen to the community leaders that are giving this information."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Absolutely, because we have asked them to do exactly that and it's not easy for them to do what they're doing. And they do deserve the attention of authorities here and abroad. Mia, thank you very much. Good to have you back in the program."
+    },
+    {
+      "speaker": "BLOOM",
+      "utterance": "Thanks for having me, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, coming up next, President Trump taking to Twitter to renew calls for the travel ban in the wake of the London terror attack. But with the second Executive Order tied up in the courts, can the White House do anything to limit who crosses our borders? Karl Rove and Marie Harf, here on that. And breaking tonight, a new leak from a federal contractor seems to confirm that Russia did try to hack our voting systems in the days before the November election. House Oversight Chairman, Jason Chaffetz, here to respond to that breaking story tonight, straight ahead."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Breaking tonight, President Trump renewing calls for his travel ban in the wake of the London terror attacks. Mr. Trump taking to Twitter to make his case that the United States should enact the ban which limits travel from six predominantly Muslim countries, but his tweets may have some unintended consequences. For more on this: Chief National Correspondent, Ed Henry, joins us live outside the White House tonight. Hi, Ed!"
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHANNEL CHIEF NATIONAL CORRESPONDENT",
+      "utterance": "well, good evening, Martha. The positive side of this President Trump is that he's been on offense over terror. A stark contrast from the defensive posture that Theresa May, the British Prime Minister, finds herself in just three days before national elections, now declaring that she wants to get tough on terror after three attacks in 75 days. But the negative side of it for President Trump, of course, is that in this rush to tweet out about how all of these attacks he believes, shows why he was right about the ban on travel from those Muslim-majority countries. It's now causing heartburn not just on the left, but from some conservatives, as well. The trouble started with those tweets you mentioned which the president took the rare steps of calling out his own administration, saying, quote, the justice department should ask for an expedited hearing of the watered down travel ban before the Supreme Court, and seek much tougher version. That's part trolling from the liberal ACLU, which tweeted, to recap @realdonaldtrump, confirm the ban is a ban. Noted Muslim ban 2.0 is a watered down politically correct version of the original. More problematic for the White House is the fact that prominent Republican attorney George Conway, yes, the husband of Kellyanne Conway, declared on twitter, quote, these tweets from the president may make some people feel better, but they certainly won't help the office of the solicitor general get 5 votes in the Supreme Court, which is what actually matters, sad. A clear reference there to the president. That led to an uncomfortable question at the White House podium for Sarah Huckabee Sanders, who insisted that the tweets are not tainting the administration's legal case at all."
+    },
+    {
+      "speaker": "SARAH HUCKABEE SANDERS, PRINCIPAL DEPUTY WHITE HOUSE PRESS SECRETARY",
+      "utterance": "The president is very focused on exactly what that order spells out and that's protecting Americans, protecting national security, and he has every constitutional authority to do that."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Now, for the record, George Conway made clear in further tweets that he still supports not only his wife, of course, but the president, as well. George Conway saying he's merely worried that since lower court judges have used the president campaign rhetoric against him to bolster their charge that this is really is a discriminatory Muslim ban. George Conway is worried that these tweets will blow up in the president's face from a legal standpoint. Interesting because George Conway sent these tweets out just a few hours after Kellyanne Conway was on TV saying the media makes too much of the president's tweets. Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Should be interesting at dinner tonight. Ed, thank you very much. Joining me now, Karl Rove, former senior advisor to President George W. Bush, and Marie Harf, former State Department spokesperson under President Obama, both are Fox News contributors. Welcome to you both. Karl, this is a segment about the political ramifications of the way this story is being handled. You can imagine that what's happening in England would make some people feel supportive of this extreme vetting ban. But the president got very active on twitter and did he do himself any favors?"
+    },
+    {
+      "speaker": "KARL ROVE, FOX NEWS CONTRIBUTOR",
+      "utterance": "No, he didn't. In fact, he took out a twitter gun and shot himself four times. Let's put it in context. At 3:25 AM, he says the words travel ban. His lawyers, for the last nearly three months -- nearly four months, have been attempting never to use the word travel ban insisting that this is a pause. At 3:29 AM, he says, we ought to be pushing for the original travel ban, not the watered-down version. Well, President Trump signed the watered-down version after withdrawing the original travel ban. So in essence, he's attacking himself, saying, I shouldn't really stuck with the original."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Karl, he said he's mad that he listen to his people, right. That's what he's saying. He said I never should have listened to them."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Then, criticize yourself for making that decision, don't -- I mean he was the guy who withdrew the original."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "He made the decision, 3:37, he says, I want an expedited hearing on the original order. Well, you can't do that because you withdrew it, Mr. President. No longer is it an executive order you withdrew it. And finally, and this is really damaging, at 3:44, he said we are already extreme vetting."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Now, the president said in his original executive order that he wanted a pause for 90 days in order to come up with extreme vetting procedures. In court, the justice department was asked specifically, are you proceeding with the drafting of the extreme vetting standards? And they said, we have, quote, put the pin down. In other words, we're not drafting anything. If the president, following January 27, when he put the original order out, have began the process of setting those extreme vetting standards, he would have them done in 90 days, that was almost 125 days ago. He could have gotten it all done had he focused on getting that policy in place. He wanted the pause only in order to put together the vetting standards. His justice department is saying, no, we haven't gotten the vetting standards put together."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I hear what you're saying and it's clear for those tweets that he stepped on his messages in a way that could be detrimental to him. But Marie, I also think when people in this country look at what's been going on in England, they say maybe extreme vetting doesn't sound such a bad idea."
+    },
+    {
+      "speaker": "MARIE HARF, FOX NEWS CONTRIBUTOR",
+      "utterance": "Well, the question has always been what extreme vetting is. And Karl is absolutely right here. If in fact they are already doing extreme vetting as the presidents said, then they're legal rationale for the temporary pause as they've called the ban, goes out the window completely. And look, Martha, they wanted us to be infrastructure week. They wanted a big rollout today of privatizing air traffic controllers, of talking about infrastructure, an issue that has actually some potential for bipartisan support, and almost people have talked about today is President Trump tweets. He stepped on his own message. He can't complain that they can't get back to domestic issues here when he's the one doing it himself."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. What is the impact of what George Conway said, Marie? Then, back to Karl."
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "I agree. I wouldn't want to be at that dinner table tonight. Look, George Conway is a respected conservative legal mind. And I think that it's just indicative of the fact that there are a lot of people who do support President Trump's decisions. I'm obviously not one of them, but I think George Conway is, who are disturbed by the way in which he's trying to defend them and promote them. And so it's not just Democrats, I know that's often the line. It is people who actually want this to be implemented. Who are saying, wait a second, you're making this much harder for yourselves. And I think the Trump administration should listen to those voices if they want to get anything done."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I'm out of time, Karl, real quick."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Look, the president wanted extreme vetting procedures. Conway, I think is extraneous. The president ought to focus on getting those extreme vetting procedures in place, described to the affected countries, and imposing them. And he doesn't need to get the approval of the Supreme Court in order to do that. And I'm shocked that following January 27th, they didn't continue to proceed along the line. They have the authority to do the extreme vetting. The only question has been does he have the authority to institute a ban aim at Muslims? And these tweets haven't done any -- his cause any good."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. Thank you, guys. Great to see you both."
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "Thanks, Martha."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "You bet."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So breaking tonight, a shocking new leak from a federal contractor reportedly shows that Russia did try to hack our voting system just days before Americans hits the polls last November. Congressman Jason Chaffetz weighs in on this breaking news tonight, right after this."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "This story breaking tonight, the department of justice charging a federal contractor with leaking top-secret information to the media, a highly sensitive information in question is reportedly confirmation that the Russians tried to hack the 2016 election. At this hour, the NSA not commenting on the matter to Fox News, but telling us that this status still does not change the fact that Russian interference did not alter votes, according to the story so far. House oversight committee chairman, Jason Chaffetz joins us. Good to see you tonight, congressman."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Glad to be here with you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So what do you think about this?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "I'm just seeing the media reports. Look, they have got to get after these leaks. I don't care if you're Republican or Democrat, doesn't matter what administration, when you have classified information, you cannot put that out there just because you think it would be a good idea. I want people in handcuffs and I want to see people behind bars."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So apparently this contractor, whose name is, Reality Lee Winner, printed it out, brought it out of the building, and then turned it over to -- and it was published by The Intercept."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Well, you can see the problem. They have hundreds of thousands of people that have security clearances that can do simply that. They're supposed to be safeguards in there. And when we talk to the state department, you talk to the department of justice, you talk to the NSA, they assure you that they have all of these safeguards. But how many times do we have to see this story happen? They don't. They obviously don't have the."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What their motivation was, what they got in exchange perhaps for turning over these documents, so a lot more to come on that story. So, obviously, one of the biggest events this week, probably the biggest event this week is going to be James Comey testimony before the senate intelligence committee. You spoke with him recently. Did you ask him what was in the memos that he wrote during, after that meeting that he had with the president?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Well, in working with Trey Gowdy, we really believe that the very first thing that has to happen is we actually have to see the documents themselves. Remember, the New York Times, who originally broke the story, they never saw the documents."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Yet, they printed the story. I haven't seen them. Trey Gowdy hasn't seen them. We're not aware of anybody in congress who actually seen this, unless they've been given to senate intel in the last 48 hours or so and nobody knows anything about it."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You would expect that the notes that he took after that meeting, because he kept a record of all his meetings, would have been turned over to department of justice. That's what he would have to do."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Well, they seem to be either federal record. Now, when I spoke with Mr. Comey, I ask him very specifically, we were having a fun conversation, but I asked him very specifically, do these documents reside at the department of justice or do you personally have them? And he said he would not comment whatsoever. That kind of struck me as odd. So, we have since followed up, as the oversight committee, to say we would like to see all of your documents. Not just about your meetings with Donald Trump."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Will he hand them over?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Yeah. I think if he has them, which is a question. So I want to see, not only the things that he has with his interactions with Donald Trump, but what about Barack Obama? What about attorney general Loretta Lynch? What about Bill Clinton? What about all those other -- if he's making records of these things, as the FBI director, and we the America people are paying him, guess what, that's a federal record, and so you can't just put that in your back pocket, lock it home. And what's interesting about the New York Times article, which is again, a question for Thursday, are there truly classified materials? You can't walk out of the building with classified information. I don't care if you're the former FBI director or anybody else."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, obviously, the big moment that everyone is going to be watching for is when he has asked the question, did you interpret a conversation that you had with President Trump, where he, according to this report, said, can we get past this Michael Flynn issue? That he believed that was obstruction of justice, right?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Well, then he also has to answer the question, why did he testify under oath that there had been no political influence. That evidently happened. He had had that meeting."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What is your gut tell you he'll say about obstruction of justice?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Well, I worry that what he's going to say is -- he's going to go back to the tried and true, well, it's classified materials and I'm going to have to talk to you about but not in this setting. That's the worry."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So why do a public testimony?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Well, I would love to hear his story, but you've also got to see the documents. And then, you have to explain why is it that you publicly testified under oath that there was no political interference. Why is it that your replacement, the current acting FBI director, testified under oath, that he had seen no political influence happening whatsoever. As Director Comey had previously said, this is a big story. If that had happened."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah, that's right."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": ". but where's the evidence of that happening?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And the obvious question, did you consider that to be obstruction of justice, is why didn't you report it?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Yes. He could talked to the house oversight committee, house judiciary committee, I mean, there's lots of different outlets to just simply write it on a sticky note or something and put in your back pocket and walk out the door, it's probably more sophisticated than that, but where are those documents? And if he's doing that in this instance with the president, where is he doing it with Obama?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Chairman Borough of the senate intelligence committee met with, wants to talk to the former FBI director Mueller, make sure that they're squared away, and what they can and can't discuss in this open forum, so we'll see how much we get out of it. Thank you so much, congressman."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Good to see you."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Good to see you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So coming up next, EPA administrator Scott Pruitt is here in studio on the president's controversial decision to pull out of the Paris climate agreement. And how tough a decision was that around the White House when we come back."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "The United States will cease all implementation of the nonbinding Paris Accord, and the draconian financial and economic burdens the agreement opposes on our country."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That was President Trump last week announcing his decision to withdraw the U.S. from the Paris Climate Agreement. That set off an avalanche of attacks of critics accusing the president of everything from being a climate change denier to advocating America's position as a global leader. Here now, one of the key advisors that helped President Trump make that decision, who helped to make that decision, administrator of the Environmental Protection Agency, Scott Pruitt. Good to have you here, sir. Welcome. So the word was that this was a pretty tough battle within the White House over this issue. What was that like for you?"
+    },
+    {
+      "speaker": "SCOTT PRUITT, EPA ADMINISTRATOR",
+      "utterance": "You know every decision the president makes is a big decision. I think what the president did in this process is really solicit input from a cross-section of the cabinets, and he made a very informed and deliberate and thoughtful decision. And what's really important about this decision, Martha, in my view, is that he put America first. He actually said that when it comes to, obviously, environmental agreements, international agreements, that we're going to put the interest of this country first and recognize what we've already achieved. We're a pre-1994 levels right now with our co2 footprint. From 2000-2014, we reduce our co2 footprint by over 18 percent. But yet, the previous administration went to Paris and was apologetic, and the president said no longer. We're going to make sure we put America first."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Your argument is that we're basically self-policing, that we have done a lot to improve uses of plastic and shrinking the carbon footprint on our own."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Well, look, I mean, when you look at the innovation and technology that we have, with respect to hydraulic fracturing, horizontal drilling, clean coal technology, we see a tremendous, tremendous benefit over the last couple of decades. We've done that through innovation, not through government mandates. So why go to Paris? Why go to Paris and agreed to 26 to 28 percent reductions that if you take every action that President Obama took, every climate action, rule making that he engaged in, we're still fell 40 percent. It was a failed agreement from the beginning. And what the president recognize last week is we're no longer going to take that approach."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know who doesn't agree with you?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "I can guess."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Al gore."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Here's Al Gore with Chris Wallace on Sunday. Let's watch."
+    },
+    {
+      "speaker": "AL GORE, FORMER VICE PRESIDENT",
+      "utterance": "This administration has said there's no such thing as a global community, actually, there is, because we as a civilization are putting 110 million tons of heat trapping global warming pollution up into the sky every day, as if it's an open sewer."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That sounds pretty bad."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "You know short memory these folks have because if you go back to when Paris was actually signed by the United States, the environmental left was very critical. In fact, James Hansen, a former NASA scientist, has been called the father of climate change. He called it a fake and a fraud. The general counsel of the Sierra Club was critical, as well. The reason they were critical, Martha, because it did not hold China and India accountable. India didn't have to take any steps in the agreement to reduce co2 emissions until they received $2.5 trillion in aid. China didn't have to take any steps until the year 2030, and we're on the frontload of all of the cause, contracting jobs, to 400,000 jobs lost under the Paris agreement, and $2.5 trillion of gross domestic product over ten years while China and India take no steps."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. So John Kerry also spoke out about this and he made an interesting comparison. Let's watch."
+    },
+    {
+      "speaker": "JOHN KERRY, FORMER SECRETARY OF STATE",
+      "utterance": "When Donald Trump says to the world, well, we're going to negotiate a better deal. I mean, you know, he's going to go out and find a better deal? That's like O.J. Simpson saying he's going to go out and find the real killer. Everybody knows he's isn't going to do that."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What you think?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Look, our discussion should be around exporting American technology, American innovation to the rest of the world. Come and follow what we've done. Again, pre-1994 levels."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So you don't want another negotiated deal?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "No, I think that engagement is very important. We're part of UNFCCC, which is the framework convention on climate change. The United States is going to continue leading with respect to co2 reductions. I think the Paris agreement has taken almost a symbolism, that's it's really all hat, no cattle, we say in Oklahoma and Texas. I mean, the past administration talked a lot, they did very little. We're taking action as an administration and as a country to lead in co2 reduction and we've done that. We've proven that out."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Very interesting. Scott Pruitt, thank you for coming by."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Thanks, Martha,"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Good to see you, sir. So coming up next, an incredible sign of support and solidarity for the 22 lives lost two weeks ago in a suicide bombing at the Ariana Grande concert in Manchester, England."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "When Ariana Grande decided to come back to Manchester to perform just two weeks after 22 people, most of them young, were killed at her concert there, no one imagined that yet another attack would take the lives of seven more in London, the night before this concert. She closed out the night with a song that tugs at our heartstrings under normal circumstances. But this young lady did well. And she sent a message to everyone. Here's our quote of the night."
+    },
+    {
+      "speaker": "ARIANA GRANDE, SINGER",
+      "utterance": "Somewhere over the rainbow, where birds fly, over the rainbow, why, oh why, can't I."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Warming the heart of 50,000 people and those around the world, as well. We thank her for that. Have a good night, everybody. We'll see you back here tomorrow. Tucker Carlson is up next. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

@@ -1,0 +1,3021 @@
+{
+  "date": "January 9, 2019",
+  "headline": "House Minority Whip Steve Scalise on whether President Trump is facing Republican defections on border security",
+  "subHeadline": "Guests: Michael Goodwin, Howie Kurtz, Joel Rubin, Steve Scalise, Dan Patrick, Scott Bolden, Charlie Kirk",
+  "url": "https://www.foxnews.com/transcript/house-minority-whip-steve-scalise-on-whether-president-trump-is-facing-republican-defections-on-border-security",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "SEAN HANNITY, HOST",
+      "sentences": "Here on the Fox News Channel. Think about it from this perspective. When you think about human lives suffering, isn't it worth protecting Americans first? But not your heart be troubled. The news continues, Laura Ingraham is standing by in the sewer, the swamp known as Washington D.C. Hi.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAURA INGRAHAM, HOST",
+      "sentences": "OK. Every time you come to me, I think - we have a drinking game here in the studio with my name and the word sewer, I mean I expect that from some of the people on the other networks, but-- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HANNITY",
+      "sentences": "Wow. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "I need you to keep the word sewer and swamp away from my name. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HANNITY",
+      "sentences": "No, I said Laura Ingraham coming to you from the sewer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Right. Like I am not-- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HANNITY",
+      "sentences": "Wait a minute. I live in New York. You can take it. New York has about it 12 rats, 15 rats for every one person.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "All right. Thank you, Hannity from the land of free health care for illegal aliens. That is going to further bankrupt the city. OK, I've got it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HANNITY",
+      "sentences": "They take all my money as it is so. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Hannity, that was a great show tonight. Thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HANNITY",
+      "sentences": "Have a great show. We'll be in Texas tomorrow.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "All right. Fantastic I'm Laura Ingraham. This is THE INGRAHAM ANGLE from Washington. We'll be watching Sean tonight. But it was an amazing night, last night for the President. And it's the best he's had in some time and ahead, we're going to explore how the visuals of last night's shut down, the big fight over the shutdown might have given the President the upper hand. Plus, Raymond Arroyo is going to be here to reveal a few more important moments that I bet some of you might have missed. That's going to be seen and unseen. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); } And I have a question, who the heck leaked details of the President's off- the-record meeting with all those ethical reporters yesterday. They're the journalistic watchdogs for America doing their fact checks on Trump, but it was off-the-record and somehow it was then told to The New York Times. The Ingraham Angle and Howie Kurtz have done some sleuthing and we have some news to bring you. Plus, if Rachel Maddow is the queen maker, kingmaker of the left and she invited Alexandria Ocasio-Cortez on her show to respond to the President's remarks last night. To her vile comments about ICE and the Border Patrol agents reflect the mainstream now of the Democratic Party. An important segment. You're going to want to stick around for that one. But first, Trump shuts down the media. That's the focus of tonight's Angle. Last night, I told you how the President exposed the Democrats' true shutdown motives namely. The Democrats love the partial government shutdown, because they think it helps them politically, which is why they refuse to move even an inch on the issue of wall funding. Well today, the President exposed the media's motives in this drama as well. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); } Now rather than giving us in-depth objective reporting on the effects of illegal immigration on average Americans, all of you out there on your jobs, on your schools, on your safety and on your health, the media spend their airtime parroting Democrat attacks on the President's character and motives. His whole frame around this entire debate, the entire shutdown, the entire government is shut down over a scam. This is not a border security crisis that merits a wall, it's a humanitarian crisis where the President was incredibly disingenuous, because he said that the shutdown that - shutdown is because Democrats will not fund border security. That's just false. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } Now, before the President's speech last night, the media vowed to do their insta fact checking. Well, they wanted to do this in real-time. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "President Trump preparing his primetime speech as the fact checkers prepare for their version of the Super Bowl. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "The primetime pitch from the President that is expected to send fact checkers into overdrive tonight. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We're all going to be doing fact checking. You know here at CNN. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "They have been really throwing a lot of dodgy and false statistics around. What do you expect to see? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Yes. We'll be fact checking relentlessly, Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Well, the fact check squad didn't fair too well. I would have rather had the mod squad frankly. In the aftermath of the Oval Office address, the media collapsed away from kind of the fact checks into old tropes and well some awkward admissions. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "One in three women are sexually assaulted some way on the journey.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I don't know about that stuff. I can't weigh in. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "sentences": "Every day, customs and border patrol agents encounter thousands of illegal immigrants trying to enter our country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "OK, so here's the fact. The fact is while border apprehensions were up in October and November, that's not unusual. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "He was delivering his speech, it was so low energy that if Donald Trump were running against that guy, he would call him low energy Don. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "He was the first ever presidential address by a collapse souffl,. I mean he looked defeated, deflated--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Before it ended.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes, I mean he looked terribly. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "If I was that crowd, I wouldn't talk about looking terrible. All right. Well, first of all look I'm terrible, all right. Well, first of all, what happened to the fact check, it's like well he said thousands of people are coming, they just devolved into well, he looked tired. Well, their latest tactic and we're going to see more of it in the coming days is to re-feature the sob stories of government workers, who still by the way have not missed a paycheck. Well, watch carefully on what they're doing here. Rank emotional manipulation pure propaganda. Now, how many of these segments did they do over the years on American workers who pushed out in - or pushed out of entire industries as unscrupulous employers hire them for cash or at a fraction of the salary. How many close-up interviews of victims of illegal alien crime did they do? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); } By the way, those people aren't experiencing a temporary loss of income, but a permanent loss of a family member. Look at the front page of today's New York Times, which sought to frame the President's address this way. Well, see the photo. It's a photo of migrants, you can see it there, it's getting smaller, but migrants at a Tijuana temporary kind of migrant shelter. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } Now, once again the media focusing on that, interviewing people at the shelter, putting the feelings and the concerns of non-citizens over those of actual citizens. Well, at least they have that nice widescreen and they could enjoy it on that. But perhaps the voters after watching all this, hearing all of it are not so easily manipulated. A morning console poll found that a plurality of Americans, 42 percent believe the situation at the border is a crisis including 72 percent of Republicans obviously far fewer Democrats. Now, Trump has successfully shown that the Democrats are not substantively engaged in problem solving on this issue of the border. But still the media continues to carry the water for them. But when reporters begin acting like pundits, Kellyanne Conway showed us yesterday exactly how they should be treated. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Can you promise that the President will tell the truth tonight, will he tell the truth? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLYANNE CONWAY, COUNSELOR TO THE PRESIDENT",
+      "sentences": "Yes. Jim and can you promise that you will? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I will.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "The whole truth and nothing but the truth, so help you God. Am I allowed to mention God to you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I'm not the one - problem like you do. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Jim, I know that's cheap, make sure that goes viral.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Will the President tell the truth? OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "This is why - by the way, this is why I am one of the only people around here we've engaged you the time of day. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Can you guarantee . if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Let me just - let me get back in your face, because you're such - most of the time and I want this to go viral. A lot of these people don't like you, but let me just be respectful to the media writ large as I always am. I explained that that was alternative information additional facts and I explain it many times. And don't you put it back in my face for all the corrections that your network news issue. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "By the way, she said smart ass. OK. It was all over television yesterday. It's better to just lay it. She obviously has been learning though from her boss a little bit. All right. Here is the Trump smackdown of ABC's Jonathan Karl that happened today in the Oval Office as the President was actually doing the business of the country, a series of human trafficking bills were signed. Let's watch. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONATHAN KARL, REPORTER, ABC",
+      "sentences": "Why not sign the other bills though. So, some of these workers can get paid the government. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "You think I should do that. Do you think I should do that Jon. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARL",
+      "sentences": "I mean it's not for me to say.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I mean I watch your one-sided reporting; do you think I should do that? Hey Jon, no seriously, Jon do you think I should just sign. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARL",
+      "sentences": "Well, the argument--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "No, tell me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARL",
+      "sentences": "Sign the bill, nothing you do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Jon, do you think I should just sign. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARL",
+      "sentences": "I'm saying that if you sign that, these workers can start getting paid. The government-- if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "So, you would do that if you were in my position, you'd do that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARL",
+      "sentences": "I'm not in your position.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "You should never be in this position, because you'd never get anything done. Goodbye everybody. Thank you very much. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "It was devastating. By the way, the bills that were actually signed. Human trafficking, which all these other administrations were going to do something about, Trump is actually doing something about it. While all the other stuff is going on around him, and women's empowerment. Democrats are supposed to be all for that, funding for all sorts of women entrepreneurship programs, Ivanka Trump has been working on that note, that was signed into law as well, didn't matter. Not going to cover it, but we get to play the pundit game with the President. Trump is dominating rhetorically and substantively. Tomorrow he heads to the border where he's going to, again, I predict take control of the news cycle. Well, today he actually went to Capitol Hill and he met with congressional leaders at the White House before that. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); } Again, the Democrats were not interested though in solutions only in the sound bites afterward.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Well unfortunately, the President just got up and walked out. He just walked out. Again, we saw a temper tantrum because he couldn't get his way and he just walked out of the meeting. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "OK. Now, the President decided that he had enough. The Democrats just aren't operating in good faith here, so the President walked out refusing to be part of their shutdown soap opera. He wants to get to yes. They want to stay at no. Of all the media outlets out there though, the AP was one of the few to properly frame the situation in a tweet they wrote. Democrats put the blame for the shutdown on Trump, but it takes two to tango. Trump's demand for $5.7 billion for his border wall is one reason for the budget impasse. The Democrats refuse to approve the money is another. Well, guess what the AP was lashed by liberals for doing that. That little tweet. Just look at the online reaction. Looks like my Twitter feed. AP fact check, Hindenburg was a very fine blimp and Democrats failed to appreciate it because it takes two to tango. AP fact check, authorities put the blame for Hannibal Lecter's murder spree on the serial killer himself. But it takes two to tango. Amazing. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); } Well, Trump continues to be a powerful political astringent as I like to say and the face of politics as usual is feeling the sting, especially the ones we saw last night. Well, it isn't pretty. The real collusion my friends is in Washington and it's the one that Trump has so masterfully exposed. It's the collusion between the American media and the open borders Democrat Party and that's the Angle. Here now, Howie Kurtz, Fox News Media Analyst and Host of Media Buzz, Sundays on Fox News, Joel Rubin, former Deputy Assistant Secretary of State under Obama and Michael Goodwin, New York Post columnists and Fox News contributor. Now, Michael I start with you. You just wrote a piece about how the Dems intransigence on this issue shows that they're still kind of not able to get over the 2016 election. Couldn't the same though be said for the American media?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MICHAEL GOODWIN, COLUMNIST, NEW YORK POST",
+      "sentences": "Well, sure. I mean they are one in the same really, right. I call them the media handmaidens. Look, I think that what we saw with the dueling speeches yesterday was on the surface it looked like well they should be able to just kind of cut the difference here, split the difference and reach a deal. That's what they're supposed to do. But in fact, because the Democrats view themselves having an advantage in the shutdown, they are loathing to give the President anything, they don't want to give the President anything that he could claim as a victory, because they still do not view him as a legitimate President. So many members of the Democratic Party, the far left especially and Nancy Pelosi and Chuck Schumer are afraid of those people. Their jobs are on the line if they cross the far-left wing of their party and so they are going along with this resistance. I mean had they negotiated with the President for the last two years, they could have gotten a lot of things done for this country. But at this stage of the game, they've thrown their lot with the mob. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "I mean a little bit, a little bit of movement toward Trump. Trump has changed the makeup of the wall, it won't be cement, it'll be steel. He's obviously showing movement on DACA. He'll probably something in good faith on that. He's gone up to Capitol Hill. He opens the door of the White House. They meet on the weekend. They go to Camp David, more strategy. I mean he has done a lot.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOODWIN",
+      "sentences": "He likes to cut deals.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Well, he wants to get something done for the people. So, every time they yell a question Howie at the President, they say, what about these guys, the government workers? What about these furloughed workers? I'm waiting for President Trump to look at the America and say, well, have you talked to Nancy and Chuck about that, because I've been trying to get to yes with them for a while, but it's always, always pegged to the President. And I think that Jonathan Karl moment and the Acosta moment back-to-back, Kellyanne yesterday and the President today that was quite something. They're looking like pundits, they're not looking like reporters.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOWIE KURTZ, MEDIA ANALYST, HOST, MEDIA BUZZ",
+      "sentences": "Well for White House correspondent for CNN to say is the President going to lie tonight is in a whole different category. But this is the week Laura when many in the media came out of the closet and just decided to constantly call Donald Trump a liar and they would say - and they did it as a preemptive strike. In a few hours, the President come on and he's going to lie.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Lie.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "He shouldn't even be allowed airtime, because he's going to lie. Then he gives the speech. They kind of well he lied. Now there were some legitimate fact checks and there have been some claims, the administrations and back office--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "We on this network have pointed out. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "And you've talked about it. And Chris Wallace among others, but the name calling now I think it has just reached a level where there is no fig leaf anymore and the emotion is coming out and the name calling, calling the President a liar.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Yes. Joel, speaking of name calling, here is Maria Hinojosa, NPR's I think Latino correspondent. Let's watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARIA HINOJOSA, CORRESPONDENT, NPR",
+      "sentences": "What we're really talking about right now is the fact that large right-wing conservatives, Republicans, some white supremacists want to change the conversation on the narrative around who we are as a country. Oh! My God border security, border security. Guys I've been talking about this story for 30 years, for 30 years there has been the neurosis about border security.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Just a moment, we're going to talk to the Lieutenant Governor of Texas. He is going to talk a lot about the crime, just in my town in Texas, what it's done to devastate Latino families. So, I'm not quite sure what she's talking about there, but Joel, how is that objective reporting on something that even the media before five minutes ago had said was a humanitarian crisis at the border?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOEL RUBIN, FORMER DEPUTY ASSISTANT SECRETARY OF STATE",
+      "sentences": "Well, Laura, we need objective reporting and we need to have it clear so that the American people can decide. The facts about the border and the facts about the wall are ones where - when numbers are put out as they have been by Congress, by members of both parties, they see that there is a level of funding for border security that is reasonable and rational. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } Now, unfortunately we're now in a position--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "They're not discussing it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RUBIN",
+      "sentences": "Where emotions are so high, right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "They won't discuss it. Democrats will not discuss any movement toward the President. AP said, it takes two to tango.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RUBIN",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "The President said, it's my shutdown too. He said that early on, OK. He said that, but now he said OK, we want to try to get somewhere here. Let's meet - let's figure out something together. I'm going to operate in good faith. Can you join me. The intransigence here is not on the President, if it was, he'd be sitting in the Oval Office saying, let's keep it going, let's keep it going. The Democrats want to keep it going.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RUBIN",
+      "sentences": "Big last night, and I think that that's where there might be an ability to see a crack happen. He can go bigger, but bright enough, if it's just binary, if it's just wall funding, no wall funding, we're not going to get anywhere. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Panel, I want to stay on the media and get your thoughts on this issue of someone leaking information from what was supposed to be an off- the-record meeting, a briefing with President Trump and other members of his team, select group of network anchors. The New York Times Maggie Haberman was not among those invited yesterday, it was a luncheon, but somehow, she got all the details, tweeting \"Trump didn't want to give the speech tonight and told TV anchors at lunch today that his planned trip to the border is a waste of time\". And a CNN anchor who was also not invited reporting details today as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The President told television anchors yesterday before his speech that in his words, it's not going to change a damn thing and that the visit to the wall tomorrow or to the border rather tomorrow, he calls really pointless. I wonder then why he requested the nation's time yesterday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Howie you've been doing some digging on this. We know basically who is at this meeting, a number of journalists. What did you find out?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "Well, I reached out to all the network anchors who were there. The couple got back to me. CNN's Chris Cuomo, NBC Chuck Todd, so they couldn't talk about this at all because the meeting was off-the-record. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "OK. Now let's examine that answer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "They couldn't talk about it because the meeting was off-the- record. Well, we're not - the details of the meeting already out and we're not asking them to reveal the details of the meeting, we're asking them if they revealed the details of the meeting to someone else, that's a journalistic question regarding ethics and they're talking a lot about ethics lately and slamming the President for being immoral and a liar and all the rest of the things. How would that be off-the-record whether they leaked the contents of the off-the-record briefing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "Well, some take the approach that I can't talk about this at all because I went in under these grand rules. Now, I talked to our colleague Brett Baer, who was also at the meeting. He said a reporter called him and pumped him for details, he would not talk to this person. He thinks this is horrible because it shows that somebody--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "They're never going to do it again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "Can't be trusted and would--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "They're not going to do it again. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "And I talked to Peter Baker, The New York Times reporter who wrote this story and he said, it was a fair question to ask that he had written these kinds of stories under Obama. I've written some stories like this too. And he told me, it's our job to convince people who are in closed door meetings at the White House.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "I don't blame them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "To tell us what happens inside and that's true what these people are White House officials, members of Congress or other journalists and he says, it provides more insight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "I don't even blame - I'm not going to blame airtime. I mean you want people to give you stuff. I'm talking about, it was - there are people in that meeting. Jonathan Karl, right. George Stephanopoulos.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Am I getting this right? Jonathan Karl.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "CBS. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "No, he wasn't there. It was Stephanopoulos, Cuomo, Chuck Todd, those three, Univision anchor or reporter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "Yes. Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "And a few other, CBN's reporter was there. Raymond Arroyo was there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "He is going to talk about it, not what happened but he was there. Brett Baer, not many people. So, it's one of those individuals.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "Yes, it's a pretty - it's a pretty select group that you can focus on. I don't know who leaked it--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "But it goes to the Angle, they leaked it because when President Trump said, and I don't know why he would have said it that this was a waste of time. That's not a really good thing to have said. And if he said that behind closed doors, but it went to their narrative. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "Yes. But what I'm told is that the tone may have been a little bit lighter, he may have just been tweaking his staff, all these geniuses told me to give the speech.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "He's always off the cuff. So, I bet that's more of what it was. All right, Michael Goodwin before we let you go, this I think has eroded the credibility of the American media. I mean they want to fact check the President. That's fine. That is their job. But when you become a political pundit and try to pass yourself off as an objective anchor, I'm not getting that. I don't see how that helps democracy, there always democracy dies in the darkness. Is this what - I think journalism is dying in the darkness.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOODWIN",
+      "sentences": "Right. Well listen, the bias has been obvious of course for more than two years now. But I thought earlier Laura you pointed to the Morning Consult Politico poll, which showed 42 percent believe the border is a crisis, an additional 37 percent think it's a problem. So, here you have 79 percent of the respondents and it was a very big poll.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Great point.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOODWIN",
+      "sentences": "Saying that this is a real issue. According to the media, it's not an issue at all. It's not a crisis. It's not a problem. It's just kind of seasonal problems that pop up every now and then and nothing happening here. Nothing to see. I think that is the great bias that is hurting the country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "And Joel don't you think I mean my point is if the media were a little bit fairer or even 20 percent more fair, the numbers are probably a lot higher in that poll for people seeing this for what it is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RUBIN",
+      "sentences": "Yes, I think the media's credibility is really coming to question with this leak and I think it's something that when we see the President and the media fighting like they are, the enemy of the people going back and forth that he describes media, it's not good for anybody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "I think both sides should tone it down. Thanks guys so much. And what really happened today inside that meeting with President Trump, Nancy Pelosi and Chuck Schumer, Congressman Steve Scalise was in the room. He's going to be here with all the juicy details that were not off-the-record. Plus, with the President headed to the border, we're going to speak to Texas Lieutenant Governor Dan Patrick about how Democrats are looking to well, exploit the demographic shifts to their political advantage. Don't go away.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Over the years, thousands of Americans have been brutally killed by those who illegally entered our country and thousands more lives will be lost if we don't act right now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "As for the Republicans on Capitol Hill, think about it for a moment. Take a lesson from the Democrats. They never break ranks. Think about what you Republicans accomplished by supporting the President during the confirmation fight of Brett Kavanaugh, when things got tough when the media were piling on, Republicans stood firm. Do it again here. The Democrats are desperate to divide and conquer the GOP. Don't let them. Well, that was my message to the GOP on Monday. Stay unified on issues of really big import to the country and great results are going to follow. Well, despite reports to the contrary, President Trump earlier today brushed off concerns that the GOP unity was cracking.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "The Republicans are unified. We want border security. We want safety for our country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Well, still there are some like Congressman Adam Kinzinger showing signs of well weakness.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ADAM KINZINGER, CONGRESSMAN",
+      "sentences": "If it is again if it's an agreeable Bill, agreeable appropriations. I'll reopen as much government as we can. This is like a super easy issue to solve. And this is what just frustrates me out here is, we can all solve this and it's like an 80 percent agreement with when we're done. It's just nobody wants to give anybody a win or anything else. We've got to get past that. We're going to continue in this stupid shutdown, idiocy cycle.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Here to tell us where his caucus actually stands. The man in- charge of the GOP vote. House Minority Whip Steve Scalise Congressman Scalise even after the speech that was so well-received, is the President really facing defections among Republicans.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEVE SCALISE, CONGRESSMAN",
+      "sentences": "Laura, not really. I mean frankly what you're seeing is a growingly unified conference. Vice President Pence came last night to speak to our members and really gave a very passionate plea about what this is all about. Then of course you saw the President--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "What does Adam Kinzinger talk about. He joined seven other Republicans today to vote for partially funding the government. Financial Services Appropriations bill. So, Adam Kinzinger is you know - he has kind of tweak the President on a number of issues, Syria and other things.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, but keep in mind, the media was reporting before that vote that there were going to be 25 Republican defections. Go read the Politico article. On the Republican vote counter, we were never anywhere close to that and sure enough, we thought maybe a dozen or less, we ended up with eight. So, when they reported 25 and they're ended up being eight. I'm sure they're going to be a lot of reports tomorrow saying that they were wrong. In the end, the President laid out I think a very passionate plea yesterday about why we're in this fight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Let's talk about today. You had a meeting today that you were at with the President and Chuck Schumer comes on TV and said, the President, it's his favorite word tantrum. I always say it's like psychological projection, because last night--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Nobody has had more tantrums than Chuck Schumer. Watching he and Nancy Pelosi last night lit the Green Acres segment that they gave. In the end, they had no rebuttal to what the President said is a crisis at the border. And so, when you see Nancy Pelosi and I've been in these meetings now, this is the third meeting we've had in the last week. And Nancy Pelosi will start off by saying, I'm for border security and the President will say, OK, how can you say you're for border security. I need funding for border security. And she will not agree to a dime. And so, last week, the only time she's ever put an alternative on the table was when last week she jokingly Laura said, she'd support a dollar. Now, any American out there, no matter what side of this debate you're on regarding immigration. If you really think a dollar is a serious argument and proposal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Spitting at the President.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "This is a serious - we're in a serious negotiation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "The President said, the experts have told me it's going to take $5.6 billion to secure the American border. What's your alternative? And she says a dollar.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Kamala Harris from tonight, we have a sound bite for her. This is how the left is demagoguing this issue.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS, MEMBER, D-CALIF.",
+      "sentences": "Then start talking about well African-Americans and Latinos don't want this, this stuff happening. I mean, what was that supposed to be about? Tell me that. If not about inserting race in a way that was intended to create fear and division.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Thoughts?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "The fear and division is coming from people who are tired of seeing the drugs poor across our border. Officer Singh's family, there's so many people like that. And I've seen story after story, colleagues of mine who have shared stories with me about deaths that have happened in their districts from people who crossed here illegally. Every year bring in over a million people into our country legally to seek the American dream. It's the people that are coming across the border illegally that are here to do bad things -- drug dealers, terrorists. Last year ICE agents saved over 900 children from human trafficking. What are they going to say to those of 900 kids? Are they OK with that, Laura?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "The president signed legislation today, antihuman trafficking legislation. I don't know if it got any publicity. I don't know if it was covered at all on the networks. If it was, I missed it, but it was probably like a reader.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "This president has done more to try to stem some of the tide of the bad things that are coming across our border from drugs to human trafficking to sexual assaults. Look at the numbers. Over 30 percent of all the women in the caravan had been sexually assaulted.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Where are the feminists?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Why don't they care about that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Because it's always, it's not real.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "By the way, Chuck Schumer voted for a similar wall in 2006. Where is their indignation on all this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Was the president petulant today?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "The president never banged his -- he was very calm. He was trying to get a solution. Nancy Pelosi never wanted to put an alternative on the table, not once. And he looked at her and said, OK, you keeps saying you want to open the government up again. What if I opened up for the next 30 days? At the end of 30 days will support the wall? Without even blinking, she said no. And he said, OK, well, we are not getting anywhere.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "The president tweeted, Negotiations 101, the best deals you can make are the ones you walk away from and then get them with better terms, tweet today. Congressman, thank you so much. Great to see you, as always.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Great to be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "The president's trip to the border tomorrow is about more than a wall. He's going to be highlighting the communities most adversely affected by the surge of illegal immigration -- communities that are changing before our very eyes. Here now Lieutenant Governor of Texas, a man who the president has leaned on just ahead of last night's speech, Dan Patrick, who met with the president yesterday. Dan, thanks for being here. Do we have a crisis at our southern border, and is a wall necessary in your view?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAN PATRICK, R-TX, LIEUTENANT GOVERNOR",
+      "sentences": "It's not a manufactured crisis. It's a manufactured cover-up. And I'm sick and tired of it, Laura. I was in the White House yesterday. I actually didn't see the president. I was working with his team before. I'll him tomorrow. But it's a manufactured cover-up. The mainstream media, MSNBC, CNN, the print media and the Democrats are in one of two groups. They are deniers or they're deceivers. The deniers won't accept the truth or they are quite frankly not smart enough to figure it out. The deceivers know the truth and they're lying to the American people. The American people have to understand that the illegal immigrants in this country today, by my own calculations and the Yale study of September 21st of last year, says there are 25 million to 35 million people in this country, the low number could be 17, the high could be 35. Let's call it in the middle, 25. That's seven percent to eight percent of the entire American population is here illegally, Laura. And the reason the deceivers, the Democrats and the mainstream media have this manufactured cover-up is because they want another 10, 15, 20 million to continue to pour in to where they turn those into votes one day and they control the country and they move our country to the left. I have seen it, Laura, firsthand in Texas, 200,000 illegal immigrants arrested, charged with over 700,000 crimes. We have 100,000 gang members in Texas. We caught 94.5 pounds of fentanyl, our state troopers last year, and that works out to 21 million doses on the street. We have an opioid crisis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Deadly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PATRICK",
+      "sentences": "This is a real crisis, and the American people better wake up because they are being lied to by the mainstream media and the Democrats.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Dan, I want to talk about McAllen, Texas, in particular. The Rio Grande valley, that vast sector of that, like six border stations there. McAllen has been upgraded. It's a nice facility. But you've got a vast territory that's a growing Hispanic population in McAllen. You see the statistics there. It's gone up somewhat, not that much. But the more interesting thing is there's McAllen, right at the border. How does this affect crime in the area? Just in the last couple months we've seen some pretty devastating criminal activity.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PATRICK",
+      "sentences": "MS-13, continued criminal activity, although, Laura, here's what's interesting, because we have in the state of Texas, along with U.S. government, such a border presence there, crime is actually down over that area. In fact, I was in La Jolla, Texas, a couple years ago, and La Jolla is west of McAllen where the current fence, we have 54 miles of fence along that area, where it ends. And this Democrat mayor said to me please extend the fence. Why? Because the fence was keeping people out. They came around into his community. We need fences, Laura, or a wall, call it what you want. We need barriers to key people out from Brownsville to something called Falcon Lake. That's the main area were more than half of the people come into this entire country. Last year, over 500,000 people crossed the border illegally between San Diego and Brownsville, about 300,000 in Texas. Law enforcement will tell you we get one out of 45. If we caught 500,000 just last year, that means somewhere between a million, a million-and-a-half and 2 million were not copyrights.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Not a crisis. Not a crisis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PATRICK",
+      "sentences": "It is a crisis beyond imagination, and we are losing our country. In Texas alone, Laura, we have 5 million kids in public school. One in five are not proficient or don't speak English at all. The cost to the American taxpayer for education in this country, the cost to the American taxpayer for health care in this country. And I hear this about not all criminals, many are good people. We cannot afford to educate, medicate, and incarcerate the whole world.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Dan Patrick, thank you so much for the update from McAllen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PATRICK",
+      "sentences": "Thank you, Laura.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Tomorrow we'll be covering it. Up next, Raymond Arroyo.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "It's time now for our \"Seen and Unseen\" segment where we expose the big cultural stories of the day. Tonight, we break down the optics of President Trump versus Chuck and Nancy, the rebuttal that launched 1,000 memes. And we do that with our own Raymond Arroyo who was caught on film committing a crime? There's no way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RAYMOND ARROYO, CONTRIBUTOR",
+      "sentences": "Better not be.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "We have surveillance video. And joining us now, the aforementioned Raymond Arroyo. OK, Raymond, this thing last night, we were all sitting back there in the offices, and when they walked out, Chuck and Nancy, after the president spoke, the peals of laughter. Now, that's unfair, because TV, not everybody is a supermodel. That's fine. Why was that so compelling?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "It was so compelling because audiences watched. It had a lot to do with the staging. It had a lot to do with what the speakers, what Pelosi, the president, and Schumer were doing intentionally or unintentionally, Laura. On TV, little things matter. People are looking for visual clues to agree or disagree with what a speaker is saying. In this case, in the case of that rebuttal, things got a little creepy right off the top from the wide hall shot, that slow push.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI, D-CALIF., SPEAKER OF THE HOUSE",
+      "sentences": "-- to speak directly to the American people tonight about how we can end this shutdown and meet the needs of the American people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "Notice how Schumer is staring into the camera with this menace. And Nancy never blinks as she speaks. She is kind of just robotically running through it. And the hallway push at the top, there was a big mistake, Laura.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Who is producing? Remember when Obama, when he did his big first speech at the Democratic Convention? They fly in Spielberg, or Geffen that came in? That thing was shot well. This was like, this was like the kids at Hofstra.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "This reminded me of a horror movie, frankly, with the slow push watching these two figures at the end of the hall.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Psycho.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Hello.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "That's awful. What was that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "This is a movie called \"It Follows.\" They're coming for the voter. But then there was the moment, Laura, where Pelosi finished her portion of the speech, and then she handed the baton to Schumer. Watch this exchange. It tells us a lot.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PELOSI",
+      "sentences": "-- reopen the government. Thank you. Leader Schumer?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "Look what she does with her jaw. She does this strange jaw readjustment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Oh, God.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "Audience looked. They were wondering, why am I kind of thrown off by this? Those visuals send different cues. They make people a little frightened. And then Schumer, he speaks to her, he thanks her without ever looking over to her. He's like Thank you very much, Speaker Pelosi. Let me tell you the borders in in big trouble.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "That scared me what you just did. Don't do that again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "It had the air of Nosferatu about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "What's that? Oh, my.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "That's really scraping the bottom of the barrel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "That's what I thought when he's staring in that way. That's what it reminded me of.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "I kept itching at this. What did he look like, though? It was like that one villain.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "Two-face.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Two-face?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "Two-face from Batman. Two-face, he's got one eye a little -- we've got to go. We're going to run out of time. Let's go to the president in the Oval Office. You and I saw something, Laura, when we watched this. The president it was in command. He was seated there. But if you notice, watch the president. His eyes are a little off camera.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Now, how does that happen?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "It's either the prompter is beneath the lens, which means you're looking down rather than into the camera, or something was off, the camera was too close to him. But whatever the reason, he's not looking through to the viewer. That's the one critique.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Yes, but he was ringing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "But otherwise he was really in command, very emotive, and I thought made some important points.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "He was kind of Reagan-esche, I thought, but he was a little off on the camera shot. But I shouldn't say that because whoever did that is now going to get in trouble.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "Not in trouble. It's a tweak.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Probably only we notice it because we are TV people. Picky, picky.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "Needless to say, Chuck and Nancy, Laura, captured the imagination of many on the Internet, a slew of memes rose up almost instantly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "All created by us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "No, not true. Here are three of my favorites. This one is the \"Green Acres\" meme.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHUCK SCHUMER, D-N.Y., SENATE MINORITY LEADER",
+      "sentences": "-- having failed to get Mexico to pay for this ineffective -- unable to convince --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "That's not \"Green Acres.\" That's \"Witness.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "It's the \"Green Acres\" theme behind them. And then there was this next meme, I call it the head swap. This is scary. This keeps me up at night.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "No, no, no. I don't want this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "They put Pelosi's face on one side and Schumer's on the other. And finally, Nancy and Chuck as super villains.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Oh, my.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "Isn't that awful, so cruel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "I just kept thinking of Obama saying that we need fresh blood in the Democrat Party, and I kept seeing that going OK. Maybe he said bloodless.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "We've got to move on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "You were at the off the record luncheon. You are with all the fancy people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "No, no, they invited anchors of different networks, but someone clearly broke the ground rules here. And that hurts everybody because now you're not going to get any insight into what the president said.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "I wouldn't.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "But \"The New York Times\" said two people briefed on the discussion shared this information with \"The New York Times.\" You know what that means, one of these anchors ran back, talked to their staff, they leaked to the \"New York Times.\" That's called laundering sources. I don't like that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "I need to stop you right now because we actually have some breaking news.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "Oh, breaking.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "This is a Fox News alert. After a frantic manhunt, police are making an arrest of a man accused of relieving himself in a California family's yard and stealing extension cords. The suspect, R. Arroyo -- name rings a bell -- also caught on camera getting intimate with an intercom. That was in the middle of the night at someone else's home. Raymond, what you have to say for yourself? Are you the doorbell liquor?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "No, the man was identified as Roberto Daniel Arroyo, I will have you know. He is no relation, thank God. This poor guy, he's a homeless man. He's licking --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "That's awful.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "He's licking the doorbell of this home. He apparently did this for three hours. I don't know about you, Laura, but I've never licked anything for three hours, and if I do, at the risk of sounding like one of those ED commercials, call medical help. Other than stamps, I'm not going to be licking anything for more than three minutes much less three hours, OK. It was not me. I was not the doorbell licker.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Wait a second. Wait a second. Maybe he can go to a federal judge on the ninth circuit and he could say I'm going to wed this -- it was an intimate -- marry the doorbell.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARROYO",
+      "sentences": "Well, I'll tell you, they capture so many amazing things.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "You get around, Raymond. Ahead, the merging of new leftist power brokers in politics and the media. We are going to explain how a TV appearance by AOC last night projects a, well, disturbing future for the Democratic Party, we can only  hope.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "\"Politico\" is declaring her the new Democratic kingmaker. It's always interesting to see Rachel Maddow offer her coveted perch following President Trump's address last night to Alexandria Ocasio-Cortez. By doing so, Maddow granted the new darling of the left carte blanche to deride those who keep us safe. They are just the agents of death, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. ALEXANDRA OCASIO-CORTEZ, D-N.Y.",
+      "sentences": "The president should not be asking for more money to an agency that has systematically violated human rights. The president should be really defending why we are funding such an agency at all. Because right now, what we are seeing is death.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "MSNBC went on to classify those remarks in a tweet from their official account the following way, \"Alexandria Ocasio-Cortez delivers impassioned response to President Trump's address.\" Here to debate this, the emerging messaging from the new left, is Charlie Kirk, founder and president of Turning Point USA, and Democratic strategist Scott Bolden. Scott, let's start with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Maddow is described as the kingmaker, granting AOC, this is a big spot, big ratings last night for all the cable networks. Fox did the best.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "But ICE are the real criminals? How does that -- I'm trying to think as a Democrats. How does that really get the middle of the country that you need to turn out, Ohio, Michigan, Pennsylvania, jazzed up to vote for Democrats?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCOTT BOLDEN, FORMER D.C. DEMOCRATIC PARTY CHAIRMAN",
+      "sentences": "I think what you are missing in Cortez's commentary, her language may have been hyperbole and really passionate and strong, but the facts of what she was talking about, you could be protectors like ICE, but you can also have your challenges. And those challenges are, we have had kids die. We have had children separated from their families. We have had --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "ICE is not responsible for that. That is Border Patrol and HHS policy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "I think she would link them together. Those who are on the border, they have created these policies of zero tolerance have created this kind of border issue as well as this crisis that the president keeps talking about. They are responsible. And so her facts are correct, but those aren't the only facts. There could be other facts. And they certainly are there to protect us, but they are also there to protect those who are coming into seek asylum as well. So that's probably what was missing from her commentary.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Charlie, she's an externally dynamic individual. She is very popular, and really, she's like, look, I'm going to make my voice heard and I'm going to be out there. I kind of give her credit for that. She's young. She's in her 20s. She is like, let's go for broke and let's put it out there. But as Republicans, is there a risk of going too much into, she's the whole future of the Democrat party. She really?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHARLIE KIRK, FOUNDER, TURNING POINT USA",
+      "sentences": "There could be. She's constantly wrong but never in doubt. She goes out there and she puts forth ideas that are horribly dangerous, I'll tell you. And she is a harbinger of things to come. And look, I deal on the college campuses. She is campus activist personified, which talks about issues that are so radical and so and unpalatable for most of America that you look at this and you say, really, you want to abolish ICE?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "It's not just her ideas, though. It's her view on America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "That's exactly right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "And the view of what this country is today. Forget parties. What about America?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "But America isn't perfect.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Let's play. Let's play what she said.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "This is the greatest country ever.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "And it's imperfect, too.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Let's play what she said last night.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. ALEXANDRA OCASIO-CORTEZ, D-N.Y.",
+      "sentences": "The women and children on that border that are trying to seek refuge and seek opportunity in the United States of America with nothing but the shirt on their backs are acting more American than any person who seeks to keep them out ever will be.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "So Americans who believe the rule of law and orderly immigration, merit-based immigration, focusing on American workers, inner cities, veterans first, they're not American. The people who are Americans are the ones who, to hell with these laws. We want to in, want a job, we want to work, or we want to do other things. How does that bring the Democrat party, those bedrock middle-class voters, that language, I find that appalling, even for a 28-year-old.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "You are taking her literally. She was doing a comparative. And while I can't tell you what else she was going on with her commentary, the reality is this, that these individuals, these immigrants who are coming here illegally to seek asylum at the southern border, right, with very little, they are no different than our ancestors who came to this country. Rather your ancestors. Mine were enslaved, but they really aren't different. Hold on. They want the American dream. What's the benefit --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "So does the guy in Nigeria who is waiting patiently.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "Or Bulgaria who have to abide by the law.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "They come across the border, they seek asylum, and you have a president that says they're for s-hole countries.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "And 90 percent of them will be rejected.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "And they tell them their criminals when they're not simply because they are black and brown people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "No, whoa, whoa, whoa.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "No, what's the difference? What's the difference other than the color of their skin?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Do not come on this show, because I know you. You know that's not we are talking about. I don't care if they are white, brown, Asian. It doesn't matter. Follow the law. Follow the law.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "Why a wall at the southern border versus the northern border then.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "We want to do both. I'm all for it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "Why isn't the president calling for it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "Because there is not a caravan coming from Toronto, that's why.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "That's fine, but why does the president call these people, people from s-hole countries then?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "Come on. We're still on that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "Yes, we're still on that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "Hold on, there's so much demagoguery. Let's go back to something you said. Take her literally. She's a member of Congress, not a poet. You should take what she says literally.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "I do. I do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "You said we shouldn't. You said multiple times, she represents 800,000 constituents from New York.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "She drew a comparative.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "What was Trump when he made the s-hole comment?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "This is so important.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "He was comparing --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "White people from Norway.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "No, no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "Everything with the left is focused on race. We have not brought up race ones. It's about the rule of law and sovereignty.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "All right, we're out of time, but we'll be right back. They are going to keep arguing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOLDEN",
+      "sentences": "The right doesn't do well with race.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "All right, we hit this at the top of the show, and the president is now weighing it about yesterday's media luncheon that was off the record. This is somewhat of a tradition for the White House. They like to reach out before major addresses to the nation. But of course, word leaked out to \"The New York Times,\" and now the president is saying \"Gave an off the record luncheon, somewhat of a White House tradition. And who would believe with how bad it's gotten with the mainstream media which has gone totally bonkers. It quickly leaked, of course, the content for that meeting. I read it a little out of order (ph). But you get the point. That's all the time we have tonight. Ed Henry is in for our own Shannon Bream. He and the \"Fox News @ Night\" team have all the latest from every angle and I can't wait to watch. Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEAN HANNITY, HOST",
+      "utterance": "Here on the Fox News Channel. Think about it from this perspective. When you think about human lives suffering, isn't it worth protecting Americans first? But not your heart be troubled. The news continues, Laura Ingraham is standing by in the sewer, the swamp known as Washington D.C. Hi."
+    },
+    {
+      "speaker": "LAURA INGRAHAM, HOST",
+      "utterance": "OK. Every time you come to me, I think - we have a drinking game here in the studio with my name and the word sewer, I mean I expect that from some of the people on the other networks, but--"
+    },
+    {
+      "speaker": "HANNITY",
+      "utterance": "Wow."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "I need you to keep the word sewer and swamp away from my name."
+    },
+    {
+      "speaker": "HANNITY",
+      "utterance": "No, I said Laura Ingraham coming to you from the sewer."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Right. Like I am not--"
+    },
+    {
+      "speaker": "HANNITY",
+      "utterance": "Wait a minute. I live in New York. You can take it. New York has about it 12 rats, 15 rats for every one person."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "All right. Thank you, Hannity from the land of free health care for illegal aliens. That is going to further bankrupt the city. OK, I've got it."
+    },
+    {
+      "speaker": "HANNITY",
+      "utterance": "They take all my money as it is so."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Hannity, that was a great show tonight. Thanks."
+    },
+    {
+      "speaker": "HANNITY",
+      "utterance": "Have a great show. We'll be in Texas tomorrow."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "All right. Fantastic I'm Laura Ingraham. This is THE INGRAHAM ANGLE from Washington. We'll be watching Sean tonight. But it was an amazing night, last night for the President. And it's the best he's had in some time and ahead, we're going to explore how the visuals of last night's shut down, the big fight over the shutdown might have given the President the upper hand. Plus, Raymond Arroyo is going to be here to reveal a few more important moments that I bet some of you might have missed. That's going to be seen and unseen. And I have a question, who the heck leaked details of the President's off- the-record meeting with all those ethical reporters yesterday. They're the journalistic watchdogs for America doing their fact checks on Trump, but it was off-the-record and somehow it was then told to The New York Times. The Ingraham Angle and Howie Kurtz have done some sleuthing and we have some news to bring you. Plus, if Rachel Maddow is the queen maker, kingmaker of the left and she invited Alexandria Ocasio-Cortez on her show to respond to the President's remarks last night. To her vile comments about ICE and the Border Patrol agents reflect the mainstream now of the Democratic Party. An important segment. You're going to want to stick around for that one. But first, Trump shuts down the media. That's the focus of tonight's Angle. Last night, I told you how the President exposed the Democrats' true shutdown motives namely. The Democrats love the partial government shutdown, because they think it helps them politically, which is why they refuse to move even an inch on the issue of wall funding. Well today, the President exposed the media's motives in this drama as well. Now rather than giving us in-depth objective reporting on the effects of illegal immigration on average Americans, all of you out there on your jobs, on your schools, on your safety and on your health, the media spend their airtime parroting Democrat attacks on the President's character and motives. His whole frame around this entire debate, the entire shutdown, the entire government is shut down over a scam. This is not a border security crisis that merits a wall, it's a humanitarian crisis where the President was incredibly disingenuous, because he said that the shutdown that - shutdown is because Democrats will not fund border security. That's just false. Now, before the President's speech last night, the media vowed to do their insta fact checking. Well, they wanted to do this in real-time."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "President Trump preparing his primetime speech as the fact checkers prepare for their version of the Super Bowl."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "The primetime pitch from the President that is expected to send fact checkers into overdrive tonight."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "We're all going to be doing fact checking. You know here at CNN."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "They have been really throwing a lot of dodgy and false statistics around. What do you expect to see?"
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Yes. We'll be fact checking relentlessly, Chris."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Well, the fact check squad didn't fair too well. I would have rather had the mod squad frankly. In the aftermath of the Oval Office address, the media collapsed away from kind of the fact checks into old tropes and well some awkward admissions."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "One in three women are sexually assaulted some way on the journey."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I don't know about that stuff. I can't weigh in."
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "utterance": "Every day, customs and border patrol agents encounter thousands of illegal immigrants trying to enter our country."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "OK, so here's the fact. The fact is while border apprehensions were up in October and November, that's not unusual."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "He was delivering his speech, it was so low energy that if Donald Trump were running against that guy, he would call him low energy Don."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "He was the first ever presidential address by a collapse souffl,. I mean he looked defeated, deflated--"
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Before it ended."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Yes, I mean he looked terribly."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "If I was that crowd, I wouldn't talk about looking terrible. All right. Well, first of all look I'm terrible, all right. Well, first of all, what happened to the fact check, it's like well he said thousands of people are coming, they just devolved into well, he looked tired. Well, their latest tactic and we're going to see more of it in the coming days is to re-feature the sob stories of government workers, who still by the way have not missed a paycheck. Well, watch carefully on what they're doing here. Rank emotional manipulation pure propaganda. Now, how many of these segments did they do over the years on American workers who pushed out in - or pushed out of entire industries as unscrupulous employers hire them for cash or at a fraction of the salary. How many close-up interviews of victims of illegal alien crime did they do? By the way, those people aren't experiencing a temporary loss of income, but a permanent loss of a family member. Look at the front page of today's New York Times, which sought to frame the President's address this way. Well, see the photo. It's a photo of migrants, you can see it there, it's getting smaller, but migrants at a Tijuana temporary kind of migrant shelter. Now, once again the media focusing on that, interviewing people at the shelter, putting the feelings and the concerns of non-citizens over those of actual citizens. Well, at least they have that nice widescreen and they could enjoy it on that. But perhaps the voters after watching all this, hearing all of it are not so easily manipulated. A morning console poll found that a plurality of Americans, 42 percent believe the situation at the border is a crisis including 72 percent of Republicans obviously far fewer Democrats. Now, Trump has successfully shown that the Democrats are not substantively engaged in problem solving on this issue of the border. But still the media continues to carry the water for them. But when reporters begin acting like pundits, Kellyanne Conway showed us yesterday exactly how they should be treated."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Can you promise that the President will tell the truth tonight, will he tell the truth?"
+    },
+    {
+      "speaker": "KELLYANNE CONWAY, COUNSELOR TO THE PRESIDENT",
+      "utterance": "Yes. Jim and can you promise that you will?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I will."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "The whole truth and nothing but the truth, so help you God. Am I allowed to mention God to you?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I'm not the one - problem like you do."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Jim, I know that's cheap, make sure that goes viral."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Will the President tell the truth? OK."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "This is why - by the way, this is why I am one of the only people around here we've engaged you the time of day."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Can you guarantee ."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Let me just - let me get back in your face, because you're such - most of the time and I want this to go viral. A lot of these people don't like you, but let me just be respectful to the media writ large as I always am. I explained that that was alternative information additional facts and I explain it many times. And don't you put it back in my face for all the corrections that your network news issue."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "By the way, she said smart ass. OK. It was all over television yesterday. It's better to just lay it. She obviously has been learning though from her boss a little bit. All right. Here is the Trump smackdown of ABC's Jonathan Karl that happened today in the Oval Office as the President was actually doing the business of the country, a series of human trafficking bills were signed. Let's watch."
+    },
+    {
+      "speaker": "JONATHAN KARL, REPORTER, ABC",
+      "utterance": "Why not sign the other bills though. So, some of these workers can get paid the government."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "You think I should do that. Do you think I should do that Jon."
+    },
+    {
+      "speaker": "KARL",
+      "utterance": "I mean it's not for me to say."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I mean I watch your one-sided reporting; do you think I should do that? Hey Jon, no seriously, Jon do you think I should just sign."
+    },
+    {
+      "speaker": "KARL",
+      "utterance": "Well, the argument--"
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "No, tell me."
+    },
+    {
+      "speaker": "KARL",
+      "utterance": "Sign the bill, nothing you do."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Jon, do you think I should just sign."
+    },
+    {
+      "speaker": "KARL",
+      "utterance": "I'm saying that if you sign that, these workers can start getting paid. The government--"
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "So, you would do that if you were in my position, you'd do that?"
+    },
+    {
+      "speaker": "KARL",
+      "utterance": "I'm not in your position."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "You should never be in this position, because you'd never get anything done. Goodbye everybody. Thank you very much."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "It was devastating. By the way, the bills that were actually signed. Human trafficking, which all these other administrations were going to do something about, Trump is actually doing something about it. While all the other stuff is going on around him, and women's empowerment. Democrats are supposed to be all for that, funding for all sorts of women entrepreneurship programs, Ivanka Trump has been working on that note, that was signed into law as well, didn't matter. Not going to cover it, but we get to play the pundit game with the President. Trump is dominating rhetorically and substantively. Tomorrow he heads to the border where he's going to, again, I predict take control of the news cycle. Well, today he actually went to Capitol Hill and he met with congressional leaders at the White House before that. Again, the Democrats were not interested though in solutions only in the sound bites afterward."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Well unfortunately, the President just got up and walked out. He just walked out. Again, we saw a temper tantrum because he couldn't get his way and he just walked out of the meeting."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "OK. Now, the President decided that he had enough. The Democrats just aren't operating in good faith here, so the President walked out refusing to be part of their shutdown soap opera. He wants to get to yes. They want to stay at no. Of all the media outlets out there though, the AP was one of the few to properly frame the situation in a tweet they wrote. Democrats put the blame for the shutdown on Trump, but it takes two to tango. Trump's demand for $5.7 billion for his border wall is one reason for the budget impasse. The Democrats refuse to approve the money is another. Well, guess what the AP was lashed by liberals for doing that. That little tweet. Just look at the online reaction. Looks like my Twitter feed. AP fact check, Hindenburg was a very fine blimp and Democrats failed to appreciate it because it takes two to tango. AP fact check, authorities put the blame for Hannibal Lecter's murder spree on the serial killer himself. But it takes two to tango. Amazing. Well, Trump continues to be a powerful political astringent as I like to say and the face of politics as usual is feeling the sting, especially the ones we saw last night. Well, it isn't pretty. The real collusion my friends is in Washington and it's the one that Trump has so masterfully exposed. It's the collusion between the American media and the open borders Democrat Party and that's the Angle. Here now, Howie Kurtz, Fox News Media Analyst and Host of Media Buzz, Sundays on Fox News, Joel Rubin, former Deputy Assistant Secretary of State under Obama and Michael Goodwin, New York Post columnists and Fox News contributor. Now, Michael I start with you. You just wrote a piece about how the Dems intransigence on this issue shows that they're still kind of not able to get over the 2016 election. Couldn't the same though be said for the American media?"
+    },
+    {
+      "speaker": "MICHAEL GOODWIN, COLUMNIST, NEW YORK POST",
+      "utterance": "Well, sure. I mean they are one in the same really, right. I call them the media handmaidens. Look, I think that what we saw with the dueling speeches yesterday was on the surface it looked like well they should be able to just kind of cut the difference here, split the difference and reach a deal. That's what they're supposed to do. But in fact, because the Democrats view themselves having an advantage in the shutdown, they are loathing to give the President anything, they don't want to give the President anything that he could claim as a victory, because they still do not view him as a legitimate President. So many members of the Democratic Party, the far left especially and Nancy Pelosi and Chuck Schumer are afraid of those people. Their jobs are on the line if they cross the far-left wing of their party and so they are going along with this resistance. I mean had they negotiated with the President for the last two years, they could have gotten a lot of things done for this country. But at this stage of the game, they've thrown their lot with the mob."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "I mean a little bit, a little bit of movement toward Trump. Trump has changed the makeup of the wall, it won't be cement, it'll be steel. He's obviously showing movement on DACA. He'll probably something in good faith on that. He's gone up to Capitol Hill. He opens the door of the White House. They meet on the weekend. They go to Camp David, more strategy. I mean he has done a lot."
+    },
+    {
+      "speaker": "GOODWIN",
+      "utterance": "He likes to cut deals."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Well, he wants to get something done for the people. So, every time they yell a question Howie at the President, they say, what about these guys, the government workers? What about these furloughed workers? I'm waiting for President Trump to look at the America and say, well, have you talked to Nancy and Chuck about that, because I've been trying to get to yes with them for a while, but it's always, always pegged to the President. And I think that Jonathan Karl moment and the Acosta moment back-to-back, Kellyanne yesterday and the President today that was quite something. They're looking like pundits, they're not looking like reporters."
+    },
+    {
+      "speaker": "HOWIE KURTZ, MEDIA ANALYST, HOST, MEDIA BUZZ",
+      "utterance": "Well for White House correspondent for CNN to say is the President going to lie tonight is in a whole different category. But this is the week Laura when many in the media came out of the closet and just decided to constantly call Donald Trump a liar and they would say - and they did it as a preemptive strike. In a few hours, the President come on and he's going to lie."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Lie."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "He shouldn't even be allowed airtime, because he's going to lie. Then he gives the speech. They kind of well he lied. Now there were some legitimate fact checks and there have been some claims, the administrations and back office--"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "We on this network have pointed out."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "And you've talked about it. And Chris Wallace among others, but the name calling now I think it has just reached a level where there is no fig leaf anymore and the emotion is coming out and the name calling, calling the President a liar."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Yes. Joel, speaking of name calling, here is Maria Hinojosa, NPR's I think Latino correspondent. Let's watch."
+    },
+    {
+      "speaker": "MARIA HINOJOSA, CORRESPONDENT, NPR",
+      "utterance": "What we're really talking about right now is the fact that large right-wing conservatives, Republicans, some white supremacists want to change the conversation on the narrative around who we are as a country. Oh! My God border security, border security. Guys I've been talking about this story for 30 years, for 30 years there has been the neurosis about border security."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Just a moment, we're going to talk to the Lieutenant Governor of Texas. He is going to talk a lot about the crime, just in my town in Texas, what it's done to devastate Latino families. So, I'm not quite sure what she's talking about there, but Joel, how is that objective reporting on something that even the media before five minutes ago had said was a humanitarian crisis at the border?"
+    },
+    {
+      "speaker": "JOEL RUBIN, FORMER DEPUTY ASSISTANT SECRETARY OF STATE",
+      "utterance": "Well, Laura, we need objective reporting and we need to have it clear so that the American people can decide. The facts about the border and the facts about the wall are ones where - when numbers are put out as they have been by Congress, by members of both parties, they see that there is a level of funding for border security that is reasonable and rational. Now, unfortunately we're now in a position--"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "They're not discussing it."
+    },
+    {
+      "speaker": "RUBIN",
+      "utterance": "Where emotions are so high, right."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "They won't discuss it. Democrats will not discuss any movement toward the President. AP said, it takes two to tango."
+    },
+    {
+      "speaker": "RUBIN",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "The President said, it's my shutdown too. He said that early on, OK. He said that, but now he said OK, we want to try to get somewhere here. Let's meet - let's figure out something together. I'm going to operate in good faith. Can you join me. The intransigence here is not on the President, if it was, he'd be sitting in the Oval Office saying, let's keep it going, let's keep it going. The Democrats want to keep it going."
+    },
+    {
+      "speaker": "RUBIN",
+      "utterance": "Big last night, and I think that that's where there might be an ability to see a crack happen. He can go bigger, but bright enough, if it's just binary, if it's just wall funding, no wall funding, we're not going to get anywhere."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Panel, I want to stay on the media and get your thoughts on this issue of someone leaking information from what was supposed to be an off- the-record meeting, a briefing with President Trump and other members of his team, select group of network anchors. The New York Times Maggie Haberman was not among those invited yesterday, it was a luncheon, but somehow, she got all the details, tweeting \"Trump didn't want to give the speech tonight and told TV anchors at lunch today that his planned trip to the border is a waste of time\". And a CNN anchor who was also not invited reporting details today as well."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "The President told television anchors yesterday before his speech that in his words, it's not going to change a damn thing and that the visit to the wall tomorrow or to the border rather tomorrow, he calls really pointless. I wonder then why he requested the nation's time yesterday."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Howie you've been doing some digging on this. We know basically who is at this meeting, a number of journalists. What did you find out?"
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "Well, I reached out to all the network anchors who were there. The couple got back to me. CNN's Chris Cuomo, NBC Chuck Todd, so they couldn't talk about this at all because the meeting was off-the-record."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "OK. Now let's examine that answer."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "They couldn't talk about it because the meeting was off-the- record. Well, we're not - the details of the meeting already out and we're not asking them to reveal the details of the meeting, we're asking them if they revealed the details of the meeting to someone else, that's a journalistic question regarding ethics and they're talking a lot about ethics lately and slamming the President for being immoral and a liar and all the rest of the things. How would that be off-the-record whether they leaked the contents of the off-the-record briefing?"
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "Well, some take the approach that I can't talk about this at all because I went in under these grand rules. Now, I talked to our colleague Brett Baer, who was also at the meeting. He said a reporter called him and pumped him for details, he would not talk to this person. He thinks this is horrible because it shows that somebody--"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "They're never going to do it again."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "Can't be trusted and would--"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "They're not going to do it again."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "And I talked to Peter Baker, The New York Times reporter who wrote this story and he said, it was a fair question to ask that he had written these kinds of stories under Obama. I've written some stories like this too. And he told me, it's our job to convince people who are in closed door meetings at the White House."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "I don't blame them."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "To tell us what happens inside and that's true what these people are White House officials, members of Congress or other journalists and he says, it provides more insight."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "I don't even blame - I'm not going to blame airtime. I mean you want people to give you stuff. I'm talking about, it was - there are people in that meeting. Jonathan Karl, right. George Stephanopoulos."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Am I getting this right? Jonathan Karl."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "CBS."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "No, he wasn't there. It was Stephanopoulos, Cuomo, Chuck Todd, those three, Univision anchor or reporter."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "Yes. Right."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "And a few other, CBN's reporter was there. Raymond Arroyo was there."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "He is going to talk about it, not what happened but he was there. Brett Baer, not many people. So, it's one of those individuals."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "Yes, it's a pretty - it's a pretty select group that you can focus on. I don't know who leaked it--"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "But it goes to the Angle, they leaked it because when President Trump said, and I don't know why he would have said it that this was a waste of time. That's not a really good thing to have said. And if he said that behind closed doors, but it went to their narrative."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "Yes. But what I'm told is that the tone may have been a little bit lighter, he may have just been tweaking his staff, all these geniuses told me to give the speech."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "He's always off the cuff. So, I bet that's more of what it was. All right, Michael Goodwin before we let you go, this I think has eroded the credibility of the American media. I mean they want to fact check the President. That's fine. That is their job. But when you become a political pundit and try to pass yourself off as an objective anchor, I'm not getting that. I don't see how that helps democracy, there always democracy dies in the darkness. Is this what - I think journalism is dying in the darkness."
+    },
+    {
+      "speaker": "GOODWIN",
+      "utterance": "Right. Well listen, the bias has been obvious of course for more than two years now. But I thought earlier Laura you pointed to the Morning Consult Politico poll, which showed 42 percent believe the border is a crisis, an additional 37 percent think it's a problem. So, here you have 79 percent of the respondents and it was a very big poll."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Great point."
+    },
+    {
+      "speaker": "GOODWIN",
+      "utterance": "Saying that this is a real issue. According to the media, it's not an issue at all. It's not a crisis. It's not a problem. It's just kind of seasonal problems that pop up every now and then and nothing happening here. Nothing to see. I think that is the great bias that is hurting the country."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "And Joel don't you think I mean my point is if the media were a little bit fairer or even 20 percent more fair, the numbers are probably a lot higher in that poll for people seeing this for what it is."
+    },
+    {
+      "speaker": "RUBIN",
+      "utterance": "Yes, I think the media's credibility is really coming to question with this leak and I think it's something that when we see the President and the media fighting like they are, the enemy of the people going back and forth that he describes media, it's not good for anybody."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "I think both sides should tone it down. Thanks guys so much. And what really happened today inside that meeting with President Trump, Nancy Pelosi and Chuck Schumer, Congressman Steve Scalise was in the room. He's going to be here with all the juicy details that were not off-the-record. Plus, with the President headed to the border, we're going to speak to Texas Lieutenant Governor Dan Patrick about how Democrats are looking to well, exploit the demographic shifts to their political advantage. Don't go away."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Over the years, thousands of Americans have been brutally killed by those who illegally entered our country and thousands more lives will be lost if we don't act right now."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "As for the Republicans on Capitol Hill, think about it for a moment. Take a lesson from the Democrats. They never break ranks. Think about what you Republicans accomplished by supporting the President during the confirmation fight of Brett Kavanaugh, when things got tough when the media were piling on, Republicans stood firm. Do it again here. The Democrats are desperate to divide and conquer the GOP. Don't let them. Well, that was my message to the GOP on Monday. Stay unified on issues of really big import to the country and great results are going to follow. Well, despite reports to the contrary, President Trump earlier today brushed off concerns that the GOP unity was cracking."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "The Republicans are unified. We want border security. We want safety for our country."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Well, still there are some like Congressman Adam Kinzinger showing signs of well weakness."
+    },
+    {
+      "speaker": "ADAM KINZINGER, CONGRESSMAN",
+      "utterance": "If it is again if it's an agreeable Bill, agreeable appropriations. I'll reopen as much government as we can. This is like a super easy issue to solve. And this is what just frustrates me out here is, we can all solve this and it's like an 80 percent agreement with when we're done. It's just nobody wants to give anybody a win or anything else. We've got to get past that. We're going to continue in this stupid shutdown, idiocy cycle."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Here to tell us where his caucus actually stands. The man in- charge of the GOP vote. House Minority Whip Steve Scalise Congressman Scalise even after the speech that was so well-received, is the President really facing defections among Republicans."
+    },
+    {
+      "speaker": "STEVE SCALISE, CONGRESSMAN",
+      "utterance": "Laura, not really. I mean frankly what you're seeing is a growingly unified conference. Vice President Pence came last night to speak to our members and really gave a very passionate plea about what this is all about. Then of course you saw the President--"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "What does Adam Kinzinger talk about. He joined seven other Republicans today to vote for partially funding the government. Financial Services Appropriations bill. So, Adam Kinzinger is you know - he has kind of tweak the President on a number of issues, Syria and other things."
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, but keep in mind, the media was reporting before that vote that there were going to be 25 Republican defections. Go read the Politico article. On the Republican vote counter, we were never anywhere close to that and sure enough, we thought maybe a dozen or less, we ended up with eight. So, when they reported 25 and they're ended up being eight. I'm sure they're going to be a lot of reports tomorrow saying that they were wrong. In the end, the President laid out I think a very passionate plea yesterday about why we're in this fight."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Let's talk about today. You had a meeting today that you were at with the President and Chuck Schumer comes on TV and said, the President, it's his favorite word tantrum. I always say it's like psychological projection, because last night--"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Nobody has had more tantrums than Chuck Schumer. Watching he and Nancy Pelosi last night lit the Green Acres segment that they gave. In the end, they had no rebuttal to what the President said is a crisis at the border. And so, when you see Nancy Pelosi and I've been in these meetings now, this is the third meeting we've had in the last week. And Nancy Pelosi will start off by saying, I'm for border security and the President will say, OK, how can you say you're for border security. I need funding for border security. And she will not agree to a dime. And so, last week, the only time she's ever put an alternative on the table was when last week she jokingly Laura said, she'd support a dollar. Now, any American out there, no matter what side of this debate you're on regarding immigration. If you really think a dollar is a serious argument and proposal."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Spitting at the President."
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "This is a serious - we're in a serious negotiation."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "The President said, the experts have told me it's going to take $5.6 billion to secure the American border. What's your alternative? And she says a dollar."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Kamala Harris from tonight, we have a sound bite for her. This is how the left is demagoguing this issue."
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS, MEMBER, D-CALIF.",
+      "utterance": "Then start talking about well African-Americans and Latinos don't want this, this stuff happening. I mean, what was that supposed to be about? Tell me that. If not about inserting race in a way that was intended to create fear and division."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Thoughts?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "The fear and division is coming from people who are tired of seeing the drugs poor across our border. Officer Singh's family, there's so many people like that. And I've seen story after story, colleagues of mine who have shared stories with me about deaths that have happened in their districts from people who crossed here illegally. Every year bring in over a million people into our country legally to seek the American dream. It's the people that are coming across the border illegally that are here to do bad things -- drug dealers, terrorists. Last year ICE agents saved over 900 children from human trafficking. What are they going to say to those of 900 kids? Are they OK with that, Laura?"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "The president signed legislation today, antihuman trafficking legislation. I don't know if it got any publicity. I don't know if it was covered at all on the networks. If it was, I missed it, but it was probably like a reader."
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "This president has done more to try to stem some of the tide of the bad things that are coming across our border from drugs to human trafficking to sexual assaults. Look at the numbers. Over 30 percent of all the women in the caravan had been sexually assaulted."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Where are the feminists?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Why don't they care about that?"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Because it's always, it's not real."
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "By the way, Chuck Schumer voted for a similar wall in 2006. Where is their indignation on all this?"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Was the president petulant today?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "The president never banged his -- he was very calm. He was trying to get a solution. Nancy Pelosi never wanted to put an alternative on the table, not once. And he looked at her and said, OK, you keeps saying you want to open the government up again. What if I opened up for the next 30 days? At the end of 30 days will support the wall? Without even blinking, she said no. And he said, OK, well, we are not getting anywhere."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "The president tweeted, Negotiations 101, the best deals you can make are the ones you walk away from and then get them with better terms, tweet today. Congressman, thank you so much. Great to see you, as always."
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Great to be with you."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "The president's trip to the border tomorrow is about more than a wall. He's going to be highlighting the communities most adversely affected by the surge of illegal immigration -- communities that are changing before our very eyes. Here now Lieutenant Governor of Texas, a man who the president has leaned on just ahead of last night's speech, Dan Patrick, who met with the president yesterday. Dan, thanks for being here. Do we have a crisis at our southern border, and is a wall necessary in your view?"
+    },
+    {
+      "speaker": "DAN PATRICK, R-TX, LIEUTENANT GOVERNOR",
+      "utterance": "It's not a manufactured crisis. It's a manufactured cover-up. And I'm sick and tired of it, Laura. I was in the White House yesterday. I actually didn't see the president. I was working with his team before. I'll him tomorrow. But it's a manufactured cover-up. The mainstream media, MSNBC, CNN, the print media and the Democrats are in one of two groups. They are deniers or they're deceivers. The deniers won't accept the truth or they are quite frankly not smart enough to figure it out. The deceivers know the truth and they're lying to the American people. The American people have to understand that the illegal immigrants in this country today, by my own calculations and the Yale study of September 21st of last year, says there are 25 million to 35 million people in this country, the low number could be 17, the high could be 35. Let's call it in the middle, 25. That's seven percent to eight percent of the entire American population is here illegally, Laura. And the reason the deceivers, the Democrats and the mainstream media have this manufactured cover-up is because they want another 10, 15, 20 million to continue to pour in to where they turn those into votes one day and they control the country and they move our country to the left. I have seen it, Laura, firsthand in Texas, 200,000 illegal immigrants arrested, charged with over 700,000 crimes. We have 100,000 gang members in Texas. We caught 94.5 pounds of fentanyl, our state troopers last year, and that works out to 21 million doses on the street. We have an opioid crisis."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Deadly."
+    },
+    {
+      "speaker": "PATRICK",
+      "utterance": "This is a real crisis, and the American people better wake up because they are being lied to by the mainstream media and the Democrats."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Dan, I want to talk about McAllen, Texas, in particular. The Rio Grande valley, that vast sector of that, like six border stations there. McAllen has been upgraded. It's a nice facility. But you've got a vast territory that's a growing Hispanic population in McAllen. You see the statistics there. It's gone up somewhat, not that much. But the more interesting thing is there's McAllen, right at the border. How does this affect crime in the area? Just in the last couple months we've seen some pretty devastating criminal activity."
+    },
+    {
+      "speaker": "PATRICK",
+      "utterance": "MS-13, continued criminal activity, although, Laura, here's what's interesting, because we have in the state of Texas, along with U.S. government, such a border presence there, crime is actually down over that area. In fact, I was in La Jolla, Texas, a couple years ago, and La Jolla is west of McAllen where the current fence, we have 54 miles of fence along that area, where it ends. And this Democrat mayor said to me please extend the fence. Why? Because the fence was keeping people out. They came around into his community. We need fences, Laura, or a wall, call it what you want. We need barriers to key people out from Brownsville to something called Falcon Lake. That's the main area were more than half of the people come into this entire country. Last year, over 500,000 people crossed the border illegally between San Diego and Brownsville, about 300,000 in Texas. Law enforcement will tell you we get one out of 45. If we caught 500,000 just last year, that means somewhere between a million, a million-and-a-half and 2 million were not copyrights."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Not a crisis. Not a crisis."
+    },
+    {
+      "speaker": "PATRICK",
+      "utterance": "It is a crisis beyond imagination, and we are losing our country. In Texas alone, Laura, we have 5 million kids in public school. One in five are not proficient or don't speak English at all. The cost to the American taxpayer for education in this country, the cost to the American taxpayer for health care in this country. And I hear this about not all criminals, many are good people. We cannot afford to educate, medicate, and incarcerate the whole world."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Dan Patrick, thank you so much for the update from McAllen."
+    },
+    {
+      "speaker": "PATRICK",
+      "utterance": "Thank you, Laura."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Tomorrow we'll be covering it. Up next, Raymond Arroyo."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "It's time now for our \"Seen and Unseen\" segment where we expose the big cultural stories of the day. Tonight, we break down the optics of President Trump versus Chuck and Nancy, the rebuttal that launched 1,000 memes. And we do that with our own Raymond Arroyo who was caught on film committing a crime? There's no way."
+    },
+    {
+      "speaker": "RAYMOND ARROYO, CONTRIBUTOR",
+      "utterance": "Better not be."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "We have surveillance video. And joining us now, the aforementioned Raymond Arroyo. OK, Raymond, this thing last night, we were all sitting back there in the offices, and when they walked out, Chuck and Nancy, after the president spoke, the peals of laughter. Now, that's unfair, because TV, not everybody is a supermodel. That's fine. Why was that so compelling?"
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "It was so compelling because audiences watched. It had a lot to do with the staging. It had a lot to do with what the speakers, what Pelosi, the president, and Schumer were doing intentionally or unintentionally, Laura. On TV, little things matter. People are looking for visual clues to agree or disagree with what a speaker is saying. In this case, in the case of that rebuttal, things got a little creepy right off the top from the wide hall shot, that slow push."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI, D-CALIF., SPEAKER OF THE HOUSE",
+      "utterance": "-- to speak directly to the American people tonight about how we can end this shutdown and meet the needs of the American people."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "Notice how Schumer is staring into the camera with this menace. And Nancy never blinks as she speaks. She is kind of just robotically running through it. And the hallway push at the top, there was a big mistake, Laura."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Who is producing? Remember when Obama, when he did his big first speech at the Democratic Convention? They fly in Spielberg, or Geffen that came in? That thing was shot well. This was like, this was like the kids at Hofstra."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "This reminded me of a horror movie, frankly, with the slow push watching these two figures at the end of the hall."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Psycho."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Hello."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "That's awful. What was that?"
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "This is a movie called \"It Follows.\" They're coming for the voter. But then there was the moment, Laura, where Pelosi finished her portion of the speech, and then she handed the baton to Schumer. Watch this exchange. It tells us a lot."
+    },
+    {
+      "speaker": "PELOSI",
+      "utterance": "-- reopen the government. Thank you. Leader Schumer?"
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "Look what she does with her jaw. She does this strange jaw readjustment."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Oh, God."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "Audience looked. They were wondering, why am I kind of thrown off by this? Those visuals send different cues. They make people a little frightened. And then Schumer, he speaks to her, he thanks her without ever looking over to her. He's like Thank you very much, Speaker Pelosi. Let me tell you the borders in in big trouble."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "That scared me what you just did. Don't do that again."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "It had the air of Nosferatu about it."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "What's that? Oh, my."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "That's really scraping the bottom of the barrel."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "That's what I thought when he's staring in that way. That's what it reminded me of."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "I kept itching at this. What did he look like, though? It was like that one villain."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "Two-face."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Two-face?"
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "Two-face from Batman. Two-face, he's got one eye a little -- we've got to go. We're going to run out of time. Let's go to the president in the Oval Office. You and I saw something, Laura, when we watched this. The president it was in command. He was seated there. But if you notice, watch the president. His eyes are a little off camera."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Now, how does that happen?"
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "It's either the prompter is beneath the lens, which means you're looking down rather than into the camera, or something was off, the camera was too close to him. But whatever the reason, he's not looking through to the viewer. That's the one critique."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Yes, but he was ringing."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "But otherwise he was really in command, very emotive, and I thought made some important points."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "He was kind of Reagan-esche, I thought, but he was a little off on the camera shot. But I shouldn't say that because whoever did that is now going to get in trouble."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "Not in trouble. It's a tweak."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Probably only we notice it because we are TV people. Picky, picky."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "Needless to say, Chuck and Nancy, Laura, captured the imagination of many on the Internet, a slew of memes rose up almost instantly."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "All created by us."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "No, not true. Here are three of my favorites. This one is the \"Green Acres\" meme."
+    },
+    {
+      "speaker": "CHUCK SCHUMER, D-N.Y., SENATE MINORITY LEADER",
+      "utterance": "-- having failed to get Mexico to pay for this ineffective -- unable to convince --"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "That's not \"Green Acres.\" That's \"Witness.\""
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "It's the \"Green Acres\" theme behind them. And then there was this next meme, I call it the head swap. This is scary. This keeps me up at night."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "No, no, no. I don't want this."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "They put Pelosi's face on one side and Schumer's on the other. And finally, Nancy and Chuck as super villains."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Oh, my."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "Isn't that awful, so cruel."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "I just kept thinking of Obama saying that we need fresh blood in the Democrat Party, and I kept seeing that going OK. Maybe he said bloodless."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "We've got to move on."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "You were at the off the record luncheon. You are with all the fancy people."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "No, no, they invited anchors of different networks, but someone clearly broke the ground rules here. And that hurts everybody because now you're not going to get any insight into what the president said."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "I wouldn't."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "But \"The New York Times\" said two people briefed on the discussion shared this information with \"The New York Times.\" You know what that means, one of these anchors ran back, talked to their staff, they leaked to the \"New York Times.\" That's called laundering sources. I don't like that."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "I need to stop you right now because we actually have some breaking news."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "Oh, breaking."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "This is a Fox News alert. After a frantic manhunt, police are making an arrest of a man accused of relieving himself in a California family's yard and stealing extension cords. The suspect, R. Arroyo -- name rings a bell -- also caught on camera getting intimate with an intercom. That was in the middle of the night at someone else's home. Raymond, what you have to say for yourself? Are you the doorbell liquor?"
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "No, the man was identified as Roberto Daniel Arroyo, I will have you know. He is no relation, thank God. This poor guy, he's a homeless man. He's licking --"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "That's awful."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "He's licking the doorbell of this home. He apparently did this for three hours. I don't know about you, Laura, but I've never licked anything for three hours, and if I do, at the risk of sounding like one of those ED commercials, call medical help. Other than stamps, I'm not going to be licking anything for more than three minutes much less three hours, OK. It was not me. I was not the doorbell licker."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Wait a second. Wait a second. Maybe he can go to a federal judge on the ninth circuit and he could say I'm going to wed this -- it was an intimate -- marry the doorbell."
+    },
+    {
+      "speaker": "ARROYO",
+      "utterance": "Well, I'll tell you, they capture so many amazing things."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "You get around, Raymond. Ahead, the merging of new leftist power brokers in politics and the media. We are going to explain how a TV appearance by AOC last night projects a, well, disturbing future for the Democratic Party, we can only  hope."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "\"Politico\" is declaring her the new Democratic kingmaker. It's always interesting to see Rachel Maddow offer her coveted perch following President Trump's address last night to Alexandria Ocasio-Cortez. By doing so, Maddow granted the new darling of the left carte blanche to deride those who keep us safe. They are just the agents of death, right?"
+    },
+    {
+      "speaker": "REP. ALEXANDRA OCASIO-CORTEZ, D-N.Y.",
+      "utterance": "The president should not be asking for more money to an agency that has systematically violated human rights. The president should be really defending why we are funding such an agency at all. Because right now, what we are seeing is death."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "MSNBC went on to classify those remarks in a tweet from their official account the following way, \"Alexandria Ocasio-Cortez delivers impassioned response to President Trump's address.\" Here to debate this, the emerging messaging from the new left, is Charlie Kirk, founder and president of Turning Point USA, and Democratic strategist Scott Bolden. Scott, let's start with you."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Maddow is described as the kingmaker, granting AOC, this is a big spot, big ratings last night for all the cable networks. Fox did the best."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "But ICE are the real criminals? How does that -- I'm trying to think as a Democrats. How does that really get the middle of the country that you need to turn out, Ohio, Michigan, Pennsylvania, jazzed up to vote for Democrats?"
+    },
+    {
+      "speaker": "SCOTT BOLDEN, FORMER D.C. DEMOCRATIC PARTY CHAIRMAN",
+      "utterance": "I think what you are missing in Cortez's commentary, her language may have been hyperbole and really passionate and strong, but the facts of what she was talking about, you could be protectors like ICE, but you can also have your challenges. And those challenges are, we have had kids die. We have had children separated from their families. We have had --"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "ICE is not responsible for that. That is Border Patrol and HHS policy."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "I think she would link them together. Those who are on the border, they have created these policies of zero tolerance have created this kind of border issue as well as this crisis that the president keeps talking about. They are responsible. And so her facts are correct, but those aren't the only facts. There could be other facts. And they certainly are there to protect us, but they are also there to protect those who are coming into seek asylum as well. So that's probably what was missing from her commentary."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Charlie, she's an externally dynamic individual. She is very popular, and really, she's like, look, I'm going to make my voice heard and I'm going to be out there. I kind of give her credit for that. She's young. She's in her 20s. She is like, let's go for broke and let's put it out there. But as Republicans, is there a risk of going too much into, she's the whole future of the Democrat party. She really?"
+    },
+    {
+      "speaker": "CHARLIE KIRK, FOUNDER, TURNING POINT USA",
+      "utterance": "There could be. She's constantly wrong but never in doubt. She goes out there and she puts forth ideas that are horribly dangerous, I'll tell you. And she is a harbinger of things to come. And look, I deal on the college campuses. She is campus activist personified, which talks about issues that are so radical and so and unpalatable for most of America that you look at this and you say, really, you want to abolish ICE?"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "It's not just her ideas, though. It's her view on America."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "That's exactly right."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "And the view of what this country is today. Forget parties. What about America?"
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "But America isn't perfect."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Let's play. Let's play what she said."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "This is the greatest country ever."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "And it's imperfect, too."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Let's play what she said last night."
+    },
+    {
+      "speaker": "REP. ALEXANDRA OCASIO-CORTEZ, D-N.Y.",
+      "utterance": "The women and children on that border that are trying to seek refuge and seek opportunity in the United States of America with nothing but the shirt on their backs are acting more American than any person who seeks to keep them out ever will be."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "So Americans who believe the rule of law and orderly immigration, merit-based immigration, focusing on American workers, inner cities, veterans first, they're not American. The people who are Americans are the ones who, to hell with these laws. We want to in, want a job, we want to work, or we want to do other things. How does that bring the Democrat party, those bedrock middle-class voters, that language, I find that appalling, even for a 28-year-old."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "You are taking her literally. She was doing a comparative. And while I can't tell you what else she was going on with her commentary, the reality is this, that these individuals, these immigrants who are coming here illegally to seek asylum at the southern border, right, with very little, they are no different than our ancestors who came to this country. Rather your ancestors. Mine were enslaved, but they really aren't different. Hold on. They want the American dream. What's the benefit --"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "So does the guy in Nigeria who is waiting patiently."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "Or Bulgaria who have to abide by the law."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "They come across the border, they seek asylum, and you have a president that says they're for s-hole countries."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "And 90 percent of them will be rejected."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "And they tell them their criminals when they're not simply because they are black and brown people."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "No, whoa, whoa, whoa."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "No, what's the difference? What's the difference other than the color of their skin?"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Do not come on this show, because I know you. You know that's not we are talking about. I don't care if they are white, brown, Asian. It doesn't matter. Follow the law. Follow the law."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "Why a wall at the southern border versus the northern border then."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "We want to do both. I'm all for it."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "Why isn't the president calling for it?"
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "Because there is not a caravan coming from Toronto, that's why."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "That's fine, but why does the president call these people, people from s-hole countries then?"
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "Come on. We're still on that?"
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "Yes, we're still on that."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "Hold on, there's so much demagoguery. Let's go back to something you said. Take her literally. She's a member of Congress, not a poet. You should take what she says literally."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "I do. I do."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "You said we shouldn't. You said multiple times, she represents 800,000 constituents from New York."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "She drew a comparative."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "What was Trump when he made the s-hole comment?"
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "This is so important."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "He was comparing --"
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "White people from Norway."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "No, no."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "Everything with the left is focused on race. We have not brought up race ones. It's about the rule of law and sovereignty."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "All right, we're out of time, but we'll be right back. They are going to keep arguing."
+    },
+    {
+      "speaker": "BOLDEN",
+      "utterance": "The right doesn't do well with race."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "All right, we hit this at the top of the show, and the president is now weighing it about yesterday's media luncheon that was off the record. This is somewhat of a tradition for the White House. They like to reach out before major addresses to the nation. But of course, word leaked out to \"The New York Times,\" and now the president is saying \"Gave an off the record luncheon, somewhat of a White House tradition. And who would believe with how bad it's gotten with the mainstream media which has gone totally bonkers. It quickly leaked, of course, the content for that meeting. I read it a little out of order (ph). But you get the point. That's all the time we have tonight. Ed Henry is in for our own Shannon Bream. He and the \"Fox News @ Night\" team have all the latest from every angle and I can't wait to watch. Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

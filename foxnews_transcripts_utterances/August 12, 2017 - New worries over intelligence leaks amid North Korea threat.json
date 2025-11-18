@@ -1,0 +1,45 @@
+{
+  "date": "August 12, 2017",
+  "headline": "New worries over intelligence leaks amid North Korea threat",
+  "subHeadline": "DISCLAIMER: THE FOLLOWING \"Cost of Freedom Recap\" CONTAINS STRONG OPINIONS WHICH ARE NOT A REFLECTION OF THE OPINIONS OF FOX NEWS AND SHOULD NOT BE RELIED UPON AS INVESTMENT ADVICE WHEN MAKING PERSONAL INVESTMENT DECISIONS.",
+  "url": "https://www.foxnews.com/transcript/new-worries-over-intelligence-leaks-amid-north-korea-threat",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "DISCLAIMER",
+      "sentences": "THE FOLLOWING \"Cost of Freedom Recap\" CONTAINS STRONG OPINIONS WHICH ARE NOT A REFLECTION OF THE OPINIONS OF FOX NEWS AND SHOULD NOT BE RELIED UPON AS INVESTMENT ADVICE WHEN MAKING PERSONAL INVESTMENT DECISIONS. IT IS FOX NEWS' POLICY THAT CONTRIBUTORS DISCLOSE POSITIONS THEY HOLD IN STOCKS THEY DISCUSS, THOUGH POSITIONS MAY CHANGE. READERS OF \"Cost of Freedom Recap\" MUST TAKE RESPONSIBILITY FOR THEIR OWN INVESTMENT DECISIONS. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRESIDENT TRUMP",
+      "sentences": "WE NEED TO STOP INTELLIGENCE LEAKS TO PROTECT NATIONAL SECURITY Rachel Campos-Duffy: The situation with the leaks and North Korea is tense. The president needs to be able to speak to his allies and advisers in an open forum where he knows he's not going to have that information and those conversations leaked into the newspapers and into the media. This situation is very dangerous and I think it's a real patriotic question for those never-Trumpers that are inside the government that are leaking this information -- do they care more about obstructing the president and undoing this election than they care about the safety of Americans that are living in Guam. Jessica Tarlov: I was particularly disturbed when the transcripts of the president's phone calls with other world leaders were leaked last week, which calls into question whether foreign leaders feel it's a safe place to call the president of the United States. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } Larry Glazer: Look, no question, this volatile and dangerous national security crisis calls for national unity. It doesn't call for partisan divide, bickering and leaks. Job one for the new chief of staff, Kelly, needs to be to stabilize the White House, stop the leaks, and get some unity. Russia, China, Iran would like nothing better than to underline our democracy which is exactly what we are seeing with these leaks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DISCLAIMER",
+      "utterance": "THE FOLLOWING \"Cost of Freedom Recap\" CONTAINS STRONG OPINIONS WHICH ARE NOT A REFLECTION OF THE OPINIONS OF FOX NEWS AND SHOULD NOT BE RELIED UPON AS INVESTMENT ADVICE WHEN MAKING PERSONAL INVESTMENT DECISIONS. IT IS FOX NEWS' POLICY THAT CONTRIBUTORS DISCLOSE POSITIONS THEY HOLD IN STOCKS THEY DISCUSS, THOUGH POSITIONS MAY CHANGE. READERS OF \"Cost of Freedom Recap\" MUST TAKE RESPONSIBILITY FOR THEIR OWN INVESTMENT DECISIONS."
+    },
+    {
+      "speaker": "PRESIDENT TRUMP",
+      "utterance": "WE NEED TO STOP INTELLIGENCE LEAKS TO PROTECT NATIONAL SECURITY"
+    },
+    {
+      "speaker": "Rachel Campos-Duffy",
+      "utterance": "The situation with the leaks and North Korea is tense. The president needs to be able to speak to his allies and advisers in an open forum where he knows he's not going to have that information and those conversations leaked into the newspapers and into the media. This situation is very dangerous and I think it's a real patriotic question for those never-Trumpers that are inside the government that are leaking this information -- do they care more about obstructing the president and undoing this election than they care about the safety of Americans that are living in Guam."
+    },
+    {
+      "speaker": "Jessica Tarlov",
+      "utterance": "I was particularly disturbed when the transcripts of the president's phone calls with other world leaders were leaked last week, which calls into question whether foreign leaders feel it's a safe place to call the president of the United States."
+    },
+    {
+      "speaker": "Larry Glazer",
+      "utterance": "Look, no question, this volatile and dangerous national security crisis calls for national unity. It doesn't call for partisan divide, bickering and leaks. Job one for the new chief of staff, Kelly, needs to be to stabilize the White House, stop the leaks, and get some unity. Russia, China, Iran would like nothing better than to underline our democracy which is exactly what we are seeing with these leaks."
+    }
+  ]
+}

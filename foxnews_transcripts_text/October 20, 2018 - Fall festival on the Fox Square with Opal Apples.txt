@@ -1,0 +1,35 @@
+Headline: Fall festival on the Fox Square with Opal Apples
+Sub-headline: Just in time for National Apple Day on October 21, the first ever ‘Opal Orchard NYC’ pop-up is harvesting on Orchard Street, for one weekend only.
+
+  close 
+     Video  'Fox and Friends' gets excited for fall 
+'Fox and Friends' hosts a fall festival on the Fox News square.
+ 
+Just in time for National Apple Day on October 21, the first ever ‘Opal Orchard NYC’ pop-up is harvesting on Orchard Street, for one weekend only. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+They previewed the experience with a fall festival on the Fox Square today!
+The event is a fully immersive experience that will take visitors right to the farm where they can speak with Farmer Paul the Orchard Expert and experience 3-D photo opportunities, apple crafts and the official Opal Apple Tree, ripe for picking - all free of charge. 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Visit http://www.opalapples.com for more information.  

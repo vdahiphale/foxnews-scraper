@@ -1,0 +1,41 @@
+{
+  "date": "August 20, 2013",
+  "headline": "Grapevine: Class warfare at a NYC condo building",
+  "subHeadline": "Now some fresh pickings from the Political Grapevine... Class Segregation A New York City condo building has involved itself in class warfare, planning separate entrances for those living in million-dollar units and people in more modest digs.",
+  "url": "https://www.foxnews.com/transcript/grapevine-class-warfare-at-a-nyc-condo-building",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Hi, I'm just trying to figure out what's going on, we have no TV. 911 OPERATOR: Ma'am, this is not a life-threatening emergencies. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I know that. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } Fairfield Police posted this message on their Facebook page: \"This is neither an emergency or a police-related concern. Misuse of the 911 system may result in an arrest.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "An inopportune time for a cable outage forced a Connecticut police department to remind residents",
+      "utterance": "Don't call 911 unless you have a real emergency. The cable went out Sunday night in Fairfield, Connecticut, and some surrounding towns during a much-anticipated episode of \"Breaking Bad\" and a Red Sox game. Some viewers who couldn't get through to the cable company dialed 911."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Hi, I'm just trying to figure out what's going on, we have no TV. 911 OPERATOR: Ma'am, this is not a life-threatening emergencies."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "I know that."
+    },
+    {
+      "speaker": "Fairfield Police posted this message on their Facebook page",
+      "utterance": "\"This is neither an emergency or a police-related concern. Misuse of the 911 system may result in an arrest.\""
+    }
+  ]
+}

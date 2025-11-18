@@ -1,0 +1,30 @@
+Headline: Cold and snow for parts of the West, summertime heat for the South and East
+Sub-headline: We've got two seasons splitting the country today and tomorrow: cold and snow for parts of the West and summertime heat for the South and East.
+
+  close 
+     Video  National forecast for Tuesday, October 1 
+Janice Dean has your FoxCast. 
+We've got two seasons splitting the country today and tomorrow: cold and snow for parts of the West and summertime heat for the South and East.
+  
+   
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Meanwhile, heavy rain with the risk of flash flooding will threaten a broad swath from New Mexico up into Michigan.
+  
+  
+We're still keeping an eye on Hurricane Lorenzo that will brush the Azores in the next few days while weakening to an area of low pressure as it accelerates north and east.
+    

@@ -1,0 +1,10 @@
+{
+  "watch": ["src"],
+  "ignore": [
+    "foxnews_transcripts_text/*",
+    "foxnews_transcripts_html/*",
+    "foxnews_transcripts_utterances/*"
+  ],
+  "delay": "1000",
+  "ext": "js,json"
+}

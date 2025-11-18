@@ -1,0 +1,1237 @@
+{
+  "date": "December 5, 2017",
+  "headline": "Former CIA analyst: Russia probe is a 'Democratic trap'",
+  "subHeadline": "DOJ turning over FBI agent's texts to House Intelligence Committee; Fred Fleitz sounds off on \"The Story.\"",
+  "url": "https://www.foxnews.com/transcript/former-cia-analyst-russia-probe-is-a-democratic-trap",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MARTHA MACCALLUM, HOST",
+      "sentences": "Good evening, everybody. I'm Martha MacCallum. We now know that the text sent by Peter Strzok that showed enough bias against the president to get him kicked off the case will be turned over to congressional investigators soon. The new revelations about bias on the Mueller are raising questions that should matter to everyone who is watching this story regardless of your party. Can these investigators be fair? Can they be just in the Russia case? Very basic question. The Wall Street Journal editorial looked at it today and they put it this way: \"While there's no evidence so far of Trump-Russia collusion, house investigators have turned up enough material to suggest that anti-Trump motives may have driven Mr. Comey's FBI investigation. The public has the right to know whether the Steele dossier was the inspiration for the Comey probe, and whether it led to intrusive government eavesdropping on campaign satellites -- such as Carter Page and others. All of this reinforces our doubts about Mr. Mueller's ability to conduct a fair and credible probe of the FBI's considerable part in the Russia-Trump drama. Mr. Mueller ran the bureau for 12 years and is fast friends with Mr. Comey, whose firing by Mr. Trump triggered his appointment as special counsel. The reluctance to cooperate with the congressional inquiry compound doubts related to this clear conflict of interest.\" if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', ''); }); } else { console.error('Error: window.foxstrike not found'); } Tonight, we are learning more about the two men apart of both the Clinton and Trump investigation, and whether based on their own statements they can be impartial in this case. So, in a moment, Fred Fleitz, a former CIA analyst who is concerned about what he sees going on here and behind the scenes; Mollie Hemingway is also with us tonight of The Federalist; and constitutional law attorney, Jonathan Turley. But first, chief national correspondent, Ed Henry, joins us live from Washington tonight. Good evening, Ed. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHANNELL CHIEF NATIONAL CORRESPONDENT",
+      "sentences": "Martha, you know that breaking tonight, we're going to get a look at these text messages from Peter Strzok -- that FBI Agent -- they're going to be turned over to the House Intelligence Committee. Fascinating, because the mainstream media has been throwing shade at President Trump for lashing out at the FBI in recent days, but the more we learn about this very senior FBI official, the more questions are being raised about whether the president is right on target about a double standard. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb3', 'tablet-tw-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } New tonight, we're learning, two top aides to Hillary Clinton who never faced charges in the email probe, Huma Abedin, and Cheryl Mills, were interviewed about the private serves by, yes, Peter Strzok. The lead agent on the Clinton investigation who was recently pulled off of Special Counsel Robert Mueller's Russia probe because of a perceived pro-Clinton bias. Remember, we learned from WikiLeaks that after a March 2015 interview in which then-President Obama claimed he learned of the private server from news reports, it was Cheryl Mills who emailed John Podesta that they needed to adjust and coordinate the story because the president had exchanged emails with Clinton on her private address. Mills writing to Podesta, \"We need to clean this up. He has emails from her. They do not say state.gov.\" Well, late yesterday, we learned why team Clinton may have been treated with kid gloves. When it's revealed that before James Comey cleared Clinton during the summer of '16 in her e- mail probe, Strzok had intervened. He shifted Comey from saying it was \"grossly negligent,\" which hinted that potential crimes to the much more lenient \"extremely careless\" when it came to the email server. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3', ''); }); } else { console.error('Error: window.foxstrike not found'); } Strzok has pulled off the Mueller probe as I noted this summer because he'd been sending his girlfriend, another top FBI official, texts that were very pro-Clinton and extremely anti-Trump. It turns out Strzok also helped conduct the FBI interview of Retired General Mike Flynn that sparked charges that National Security Adviser lied to the FBI, months after Strzok led the interview of Hillary Clinton that was widely seen as being gentle, and that's why critics are lashing out. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb4', 'tablet-tw-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "To get close to the stink of this. It's really something that, I think, outrages Americans regardless of where they are political. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb3', 'desktop-desk-ad-lb3', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. TREY GOWDY, R-S.C.",
+      "sentences": "People have the right to assume, the people think investigating them are objective and have not already made up their minds. That's why we need to see the texts and we need to interview this special agent. But the bureau had it really bad last 18 months. And this makes it worse, frankly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Meanwhile, an email obtained by judicial watch shows that Robert Mueller's deputy, emailed Sally Yates, that former Top Justice Department Official that he was \"so proud when she defied President Trump over the travel ban.\" And the Washington Times is reporting tonight that we're soon going to learn how much money Robert Mueller has been spending in taxpayer dollars. One estimate has it at about $5 million. Martha? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb5', 'tablet-tw-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Ed, thanks very much. Ed Henry in Washington. So, my next guest has over two decades of experience in the Intelligence Committee, serving as a CIA analyst and holding positions in the Defense Intelligence Agency and the State Department. Earlier this year he exposed the truth behind the widely-circulated Democratic talking points that claim that 17 intelligence agencies agreed that there was Russian collusion in the election, which everybody took at face value. He believes that it was only, actually, four of the 17 that came to that conclusion. Here now, Fred Fleitz, Senior Vice President at the Center for Security Policy. Good evening, sir, it's really good to have you with us tonight. You know, I think a lot of people -- and as I say, regardless of where they stand politically, are looking at this and saying that this isn't the way things should work. You believe that you're coming up with a theory that there was a very intentional trap that was set here. Explain that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRED FLEITZ, SENIOR VICE PRESIDENT, CENTER FOR SECURITY POLICY",
+      "sentences": "Well, Martha, President Trump saying that this was a witch hunt -- and he might be right. But I think this was actually a Democratic trap. I think the Democrats paid for this dossier, the purpose of which was to set off an FBI investigation. The Trump campaign is made up of outsiders, they're likely to get caught up in this investigation. After all, when Michael Flynn talked to the FBI, he didn't have an attorney with him. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban6', 'mobile-mw-ad-ban6', ''); }); } else { console.error('Error: window.foxstrike not found'); } And these last-minute policy decisions by the Obama administration to close diplomatic -- Russian diplomatic facilities and to sanctions the Russians. You know, administrations in the last three weeks don't normally do that. That was at least an effort to sabotage Trump policy when he was president. But I think it was baked. It was baked to get Trump officials to do something. I think they were being monitored by intelligence agencies. The FBI was watching this. The NSC was watching this. They were looking for evidence to get the Trump transition team with. And because I think this was all a trap by the Democrats -- if this could be established, I think President Trump should pardon everyone. And I think that's what Republicans on the Hill should be calling for. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb4', 'desktop-desk-ad-lb4', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb6', 'tablet-tw-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I mean, you spent a lifetime working in the intelligence industry. When you hear the things that these people were saying, and the text messages -- we don't know the details exactly yet of those, but we're going to see them apparently. And also, you know, their emails, that obviously there's a lot of people involved in the intelligence agency who really didn't like the idea of President Trump becoming President Trump, right? And they were quite open about that in their exchanges. There's some that say, it doesn't matter, they can still do this job objectively, do you agree?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLEITZ",
+      "sentences": "I'm very troubled by these notes. Look, I work for Democratic and Republican administrations, you're supposed to keep your politics out of your job. I saw many at the CIA who didn't do that. But the vast majority of officers did. But the texts we're seeing from these various officers involved in the FBI and the Mueller investigation, and what we're seeing from Peter Strzok who apparently changed a key document on the prosecution -- the possible prosecution of Clinton so that she would get off. This goes beyond freedom of speech, this is political interference for the benefit of one political party. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban7', 'mobile-mw-ad-ban7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "One more quick question for you. You say that you think that there's a possibility that Michael Flynn actually did not lie to the FBI. He admitted as much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLEITZ",
+      "sentences": "Well, my friend Michael Ledeen said this today in (INAUDIBLE) and I read his article very carefully, and I encourage your viewers to watch it. I suspect and I don't know this for sure, that General Flynn may have copped a plea to this particular instance of lying to the FBI to save his family the pain of hundreds of thousands of dollars of legal bills concerning his dealings with Ukraine and Turkey and other things. You know, you just can't beat the U.S. government with its limitless resources. And I mean, that's Ledeen's position, and I believe in Ledeen. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb7', 'tablet-tw-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Fred Fleitz, very good to have you here, sir, tonight. Thank you very much for being here. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban8', 'mobile-mw-ad-ban8', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLEITZ",
+      "sentences": "Good to be here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Let's bring in Mollie Hemingway, Senior Editor at The Federalist and a Fox News Contributor; and Jonathan Turley, Constitutional Law Attorney, and Professor at George Washington University. Good to have both of you with us tonight. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb5', 'desktop-desk-ad-lb5', ''); }); } else { console.error('Error: window.foxstrike not found'); } You know, this issue, Mollie, of the dossier, you've written about it quite a bit. And it goes back to -- the FBI doesn't want to seem to want anyone on Capitol Hill to understand how involved they were in that effort to investigate President Trump to put together this dossier. We know they considered paying to keep it going at one point. You know -- but the gig is going to be up pretty soon on them being able to protect all this stuff from the investigation on Capitol Hill, right? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb8', 'tablet-tw-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban9', 'mobile-mw-ad-ban9', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MOLLIE HEMINGWAY, SENIOR EDITOR, THE FEDERALIST",
+      "sentences": "Well, I mean, it really would be nice to get some answers. And congressional investigators have been trying desperately for many months to get answers from the FBI and other parts of the Justice Department about what exactly they were doing, playing around with this dossier, which we now know was entirely a Clinton campaign Democratic, you know, operation -- an opposition research thing that wove, sort of, and elaborate conspiracy theory. That is looking like that's what led to the probe, and this is something that really needs to be investigated. We do need to know what payments were going on, and just why they were even using this information, whether it was used as a pretext to start this probe. And that would -- you know, American people really have a right to understand what was in play here, because of how much chaos it has caused.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Jonathan, it's hard to imagine something that's more important to the American people than the integrity of the presidency, than having it tested. You know, we've been down these roads before with Richard Nixon, with Bill Clinton's impeachment proceedings. There's all this discussion about that kind of thing. Can they feel reassured that this investigation is fair? That it is just? And that they will find a real answer here? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban10', 'mobile-mw-ad-ban10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONATHAN TURLEY, CONSTITUTIONAL LAW ATTORNEY AND PROFESSOR AT GEORGE WASHINGTON UNIVERSITY",
+      "sentences": "Well, first of all, I did not think that Robert Mueller was a good choice as special counsel. It was not just only because of his long relationship with Comey, it's because he interviewed for Comey's job. I was astonished that he was on the list given the fact that he was involved in the aftermath of the Comey firing. But having said that and despite all of the troublesome stories, I think Mueller will do a fair job. I think he knows that history will be his judge. He knows the rest of us will be, even if it wasn't. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb9', 'tablet-tw-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } But I think your point is still the most important one. This is not like a normal criminal case. Our Constitutional system turns on this. And people have lost faith on both sides -- the Democrats and Republicans. They think it's all rigged, it's all deep state stuff. We need to bring back an element of trust. And you're only going to get that by getting all the stuff out on both sides. Not only the Russian investigation but the Clinton investigation, and to disclose what happened. Because I think we're past that, we've crossed the Rubicon of the normal criminal case and we're going to have to have greater disclosure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "We're learning a lot, Mollie. Do you have faith in the investigation? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb6', 'desktop-desk-ad-lb6', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban11', 'mobile-mw-ad-ban11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HEMINGWAY",
+      "sentences": "Well, one of the things that would help have -- for people to have faith in the FBI is that they weren't using this dossier. I mean, one of the leaks that we got this year was that this dossier might have been used to secure a wiretap, surveillance warrants against someone associated with the Trump campaign. That is unprecedented, I think -- I hope it's unprecedented. But also, we just have so many things we need to know about that. And we need to know that our intelligence agencies aren't playing politics in going after political opponents. There have been times in our country's past when we have broken open just exactly what intelligence agencies are doing against the American people. We had the church commission in the 1970s. This might be a time where we really get to find out just how much surveillance of political enemies is going on, and how much the FBI and other aspects of the Justice Department have been protecting -- keeping information from coming out about what happened during the Obama administration. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb10', 'tablet-tw-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, there've been a lot of damaging leaks that have come out of this investigation. And one of the things that we would really count on the special counsel's office to do is to protect the integrity of the investigation by making sure that doesn't happen. And that is something that seems to have happened. I've got to go, but very quickly, Jonathan, does that concern you? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban12', 'mobile-mw-ad-ban12', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "It does a great deal. And if those leaks were planned, if they were strategic, they're deeply unethical, deeply troubling and they should be investigated.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Jonathan and Mollie, great to see you both tonight. Thank you very much. So, coming up tonight, the White House says that it's not true that bank records are being subpoenaed. This story has been splashed all over today. They claim that it's not happening -- an investigation of President Trump and his family's finances in terms of a subpoena. Kellyanne Conway responds to that and other things in a moment. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb11', 'tablet-tw-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban13', 'mobile-mw-ad-ban13', ''); }); } else { console.error('Error: window.foxstrike not found'); } Also, big news today: the Russian team banned from the Winter Olympics. They're going to get underway in just a few weeks. There is rage, no doubt, at the Kremlin over this. That story coming up. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb7', 'desktop-desk-ad-lb7', ''); }); } else { console.error('Error: window.foxstrike not found'); } And Detroit's Democrat, John Conyers, gives in to growing pressure to resign. He retires after 27 terms. But hopes to pass the job onto his son. Conyers is just one of an unbelievably long list that we put together here at THE STORY of members who have been in the office over 20 years. So, we ask the question: should Congress be a lifetime career? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban14', 'mobile-mw-ad-ban14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. JOHN CONYERS, D-MICH.",
+      "sentences": "This too shall pass. And I want you to know that my legacy will continue to my children. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb12', 'tablet-tw-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban15', 'mobile-mw-ad-ban15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONYERS",
+      "sentences": "I am retiring today. And I want everyone to know how much I appreciate the support. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb8', 'desktop-desk-ad-lb8', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb13', 'tablet-tw-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban16', 'mobile-mw-ad-ban16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, two weeks after the sexual harassment allegations, Congressman John Conyers, as of tonight, is out. He served 52 years in the house of representatives. Close to an all-time record. He's the third longest-serving in United States history. But he's hardly the only one who has made a career out of Congress. The men and women that you see on this list, all 70 of them, have been serving consecutive terms in the U.S. House for at least 20 years -- some of them much more than that -- and that doesn't even include the Senate. So, why do we allow elected officials to become so entrenched in Washington, and does that lead to the deepening of the so-called swamp? That's our question for Katie Pavlich, News Editor at Townhall.com and a Fox News Contributor; and Wendy Osefo, Professor and Political Commentator. Wendy and Katie, great to see the both of you tonight. Obviously, all of the people that we just put up on the wall, they get elected over and over, but it does raise the question of whether or not -- you know, how long is too long, Katie?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KATIE PAVLICH, NEWS EDITOR, TOWNHALL",
+      "sentences": "Well, I don't think the founding fathers ever intended for Congress in the House or the Senate to be a career. Public service should have a meaning outside of coming to Washington D.C., and turning what we call the swamp into more of a jacuzzi, getting comfortable. And if you look at the list that you just had up on the big board, there's a number of congressmen and women on the list who have been the subjects of ethics violation investigations, including Maxine Waters, who has been there for a very long time. So, now that we see Representative Conyers resigning, yes, he had did some good things in his career, but the fact that he now wants his son to step in and continue his legacy, really, is quite rich since he's been there so long. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb14', 'tablet-tw-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban17', 'mobile-mw-ad-ban17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And I mean, it's a very reliable Democratic district where he serves in Michigan. And you know, his son probably has a very good shot at taking over. Does that smack of a dynasty and should they be able to do that, Wendy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WENDY OSEFO, PROFESSOR AND POLITICAL COMMENTATOR",
+      "sentences": "No, I don't think they should be able to do that. And I don't think that the founding fathers, either, wanted this to be a career. And I also don't think they wanted our elected officials to pay for sexual harassment claims with our tax dollars. And quite frankly, him appointing or his son as next successor was really an eyebrow raiser, because, for me, I went and stopped that his great nephew Ian Conyers would've been the person who he named as he's the rising in the Democratic Party. But what's really interesting here, where it has been overlooked, it's how -- for me, Conyers has been cannibalized by the Democratic Party. And there has been this level of inequity when it comes to what has happened. You know, I am not a fan of sexual assault by any means, but whether it's Al Franken with the photographic evidence, we have Roy Moore, we have Donald Trump. Why is there not an outcry for all of these people to step down as well? And let's be honest here. Often the Democrats say that the Republicans don't have a heart. Well, you know, to be quite honest, the Democrats lack a spine here. We have to start sticking up for those individuals or we say all people need to resign, not just one. And you know, I'm just being honest with that. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb9', 'desktop-desk-ad-lb9', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban18', 'mobile-mw-ad-ban18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PAVLICH",
+      "sentences": "Yes. I mean, there's been double standards on both sides of the aisle, but also double standards on the same side of the aisle when it comes to equal treatment. I guess you could say there are differences between Senator Al Franken in the Senate seats, and there would be with a House seat. And, of course, this comes down to how much power each party is willing to give up. Then, the Senate might not be willing to give up a seat to -- in terms of Franken seat whereas a House seat is easier to replace. So, there's a double standard. There is case by case instances that have to look at in terms of the extreme nature of allegations that are taken. And this was Representative Conyers making this call on his own after being called on to resign. And we've heard a lot about how voters are the ones to have to make that decision. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb15', 'tablet-tw-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, they will continue to do that, too. Thanks very much. We've got to leave it there. Good to see you both tonight. So, coming up next, President Trump is about to announce a decision that some leaders say could be extremely dangerous. Why could recognition of Jerusalem as the capital of Israel have national security complications? Kellyanne Conway joins me on that with her reaction, and also to the Mueller team news that came out today. Plus, two men on the frontlines of the president's historic campaign are now out with a juicy new book that reveals a lot of stuff that we didn't know after covering a campaign, that happened behind the scenes. David Bossie and Corey Lewandowski with the inside scoop, coming up. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban19', 'mobile-mw-ad-ban19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAVID BOSSIE, DEPUTY CAMPAIGN MANAGER FOR TRUMP CAMPAIGN",
+      "sentences": "Some days we failed and it was tough because of the things that we did. But I got to tell you, no greater boss. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb16', 'tablet-tw-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('mobile', 'ban20', 'mobile-mw-ad-ban20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "sentences": "We will move the American embassy to the eternal capital of the Jewish people, Jerusalem. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb10', 'desktop-desk-ad-lb10', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Heightened security tonight across several U.S. embassies in the Middle East ahead of tomorrow's expected announcement from the president that he will make good on that campaign promise and move the U.S. embassy from Tel Aviv to Jerusalem. Basically, recognizing Jerusalem as the capital of Israel. A lot of concerns in the region. A lot of other leaders in other countries, in Arab country, say that that could undermine the peace process. Earlier, I talked to Kellyanne Conway, Counselor to the President, and asked her why he believes this is a good decision. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb17', 'tablet-tw-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLYANNE CONWAY, COUNSELOR TO THE PRESIDENT",
+      "sentences": "The president has received calls and initiated calls with a number of leaders today, and he's also consulted with his national security and foreign policy teams and he will make the final announcement tomorrow. But, Martha, you played the clip of the Candidate Mr. Trump, now the president, making that promise, making that statement. And this is a promise that past presidents have made. President Bill Clinton made a promise, President George W. Bush. In fact, in 1995, by a vote of 93-5, the United States Senate declared Jerusalem the capital -- to be Israel's capital and promised to move it there just four short years later.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I want to play this from the press briefing today, from Sarah Huckabee Sanders. She was asked about the news that the Deutsche bank holdings of the Trump family were part of the investigation, that the tentacles of the investigation were reaching deep into the finances of the family prior to the presidency. Here's her comment on that and then I would love to hear from you on it. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb18', 'tablet-tw-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SARAH HUCKABEE SANDERS, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "The news reports that the special counsel had subpoenaed financial records related to the president are completely false. No subpoena has been issued or received. We've confirmed this with the bank and other sources. I think that this is another example of the media going too far too fast. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb11', 'desktop-desk-ad-lb11', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, would you confirm that, that no subpoena has been received, and that does that also mean that no documents have been voluntarily handed over, perhaps everything that has been requested has been handed over and a subpoena wasn't necessary?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "You saw Jay Sekulow, one of the president's attorney, make a statement publicly that this is false. And you also know that we said time and time again at this White House that everybody is complying. Anybody that's been asked to comply will comply, of course. But Sarah is right that this is another example of folks getting ahead of themselves, hoping the worst would be true. You saw that last Friday in the egregious false report by ABC News Brian Ross that just laid out there for seven or eight hours before it was clarified, that it was incorrect, that they're going to retract, and him suspended, not even terminated. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb19', 'tablet-tw-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); } And so, of course, we know that presumptive negativity attends, we know that this has gone on for a year. But at this time, listening to our press secretary and the president's own attorney make a statement on this, I think is very important. You know, Martha, we here at the White House understand that people who get it wrong really never apologize. But think of the effect of last Friday's false report, it moved markets -- 350-point decline. And that was a completely false report. I know ABC News has reported that --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And we reported on it extensively.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Absolutely, and I saw you do that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb12', 'desktop-desk-ad-lb12', ''); }); } else { console.error('Error: window.foxstrike not found'); } if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb20', 'tablet-tw-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "And I think that this is another example of the same type of conduct getting ahead of things.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, let me address another report that, you know, can either debunk or agree with that there's panic in the White House --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Debunk.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "-- that are concerned that they're going to jail. You know, you hear these reports across the morning on other channels. What do you say to them? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('tablet', 'lb21', 'tablet-tw-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "I don't hear all of those reports. What I would say is this is a -- this is a White House that's pushing through so many meetings, so many pieces of the president and the vice president's agenda every single day. Just today, I mean, it's only Tuesday, it feels like it's next Tuesday already. And just today the president met with United States senators on a policy issue. Then, he went right into the oval office to meet with families -- I was there for that meeting. Families who are telling him what they like about the tax cut and jobs back package. He certainly was meeting with the national security advisor -- With United States senators on a policy issue. Then he went to the oval office to meet with families, I was there for that. Meeting families who are telling him what they like about the tax cut and job back package. He's certainly meeting with his national security advisers. Tomorrow we have a cabinet meeting. The president -- you know, it's just like his full schedule and a full agenda of issues. You see historic tax cuts. We're just a couple of days away, couple of weeks away from historic tax cuts for families and individuals and for job creators. So, things here are moving at pace, the usual Trump pace, not the swamp speed that folks in Washington are accustomed to. And this investigation, it's out of the White House in so far as whatever is going on over there is going on over there. It's a special counsel investigation. We're all complying. But the president also made very clear there's no collusion. And Martha, let's be very clear and very fair here, that is what the media and the Democrats promised for over a year now. They have wasted all of 2016 talking about Russians instead of America, and not talking about the policies that affect Americans. It's so disappointing you can't get a single Democratic senator to come on board for tax cuts.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. I want to ask you one last thing and it has to do with the Alabama senate elections. Jeff Flake today put out a picture of a $100 check that he wrote to Doug Jones, your thought on that, and also on why the president didn't back his original candidate in Luther Strange? Why didn't he come out and press for people to do a write-in candidacy and follow his initial instincts in this race? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb13', 'desktop-desk-ad-lb13', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "There's several things. First, the president did back a different candidate in the primary, the incumbent Republican senator. Secondly, the president has made very clear that the people of Alabama should decide who represents in the United States senate, and we respect the will of the Alabama voters a week from today. And we feel that people have been -- they've been talking about a number of different issues. But this president also made very clear something important here. He does not want a liberal Democrat in that seat. And he wants somebody who is going to be a reliable vote for their shared agenda on tax cuts, on securing the boarder. With respect to Senator Flake, I just to make clear here -- to tell your viewers that Senator Flake sat right next to the president today at a lunch here. And I just ran into him -- just ran into Senator Flake, literally in his tuxedo, he's on his way to congressional ball as I was coming out here to do this interview. So he's here tonight as a guest of the president, the first lady at the congressional ball for the holidays. We're glad he is. And we're glad that he's a vote for tax cuts as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. We'll have fun. Congressional ball underway shortly. Kellyanne Conway, thanks a lot.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "Thank you, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "We'll see you soon.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CONWAY",
+      "sentences": "My pleasure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "A Fox News alert now, unfolding right as we speak on the West Coast, wild fires tearing across the state of California, really taking everything in their path. It's unbelievable that they are enduring this yet again. A live report on the ground is coming up moments away. Also tonight, high drama as Russia is kicked out of the upcoming Winter Olympics, our number 1 historic rival for medals out on doping charges. Putin not likely to take this well. Marc Thiessen joins us with his analysis, coming up. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb14', 'desktop-desk-ad-lb14', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Incredible and awful wild fires raging again in California tonight. Tens of thousands of people had to do what we saw just a short time ago. Packing up their cars and trying to get away from these blazes. Senior correspondent Adam Housley joins us now. He's live at the scene in Ventura, California, tonight. Adam, tell us what you're seeing there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ADAM HOUSLEY, FOX NEWS SENIOR CORRESPONDENT",
+      "sentences": "Yeah, Martha, just two months ago, the northern California fires, similar scene here in Ventura, behind me this home where the fire has stop here in this neighborhood. Hundreds of homes have burned in this neighborhood. A lot of people didn't have a chance to even fill up their cars. They just got in their cars and drove out. It is been a miserable 18 hours here in this part of California. Now we know of at least four other fires that are burning across Southern California. The winds have really kicked up. In the distance you can see just how far this fire has burned. This isn't the wild lands. This is going to a major metropolitan area of Ventura where they've lost hundreds of homes. At some point the winds kick up right now. They've come back. They've died down for maybe a half an hour, but here they come again. And every time they kick up these -- could blow from these little fires that are still burning and smoldering in home like this. They could blow up to a mile away. And we've seen four or five homes ourselves catch fire and burn to the ground just below this home as well. And if you look here to the left, a little further too, you can see where they made the stop. There are crews out here on the streets. In fact, here's a crew right now, Martha, if you take a look to your left. They're coming in from all over California. That's from the California office of emergency services. You're seeing these engines come in from everywhere, from Northern California, from Nevada, from Northern Nevada. I have a friend coming in from Reno on a rig right now, which is a good ten hour drive away, Martha. And the worst part about these fires, not only we are close to the holidays, that people have lost so much, but the winds are supposed to get worse until Thursday. Martha?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Awful. Adam, we'll keep watching with your help. Thank you for your reporting. And we're really -- we're thinking about those folks as you say right before the holidays. It is just heart breaking and awful. We'll stay on it. Thanks, Adam. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb15', 'desktop-desk-ad-lb15', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "No official of the Russian ministry of sports will be accredited for the Olympic Winter Games Pyeongchang 2018.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Stunning. Today, the International Olympic Committee announced that Russia is banned from the Winter Games that are coming up in just a few weeks, citing a, quote, unprecedented attacks by the Russians on the integrity of the Olympic Games. It comes from widespread doping, the scandal at the 2014 games in Sochi that officials believe was fully supported by the Russian government. Russia ultimately walked away with most of the medals. I think they've won 54 in those games. But there was so much discussions, so many rumors swirling around the athletes and whether or not they were clean in those games. Marc Thiessen joins me now, American enterprises scholar and Fox News contributor, digging into this for us today. Marc, good evening to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARC THIESSEN, FOX NEWS CONTRIBUTOR",
+      "sentences": "Good to be with you, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Everybody had the same reaction when this crossed the wires today. This is a big deal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "It is a big deal. Look, I guess there's not going to be a rematch of the miracle on ice this time around. What a stunning fall from grace for Russia. From hosting the winter Olympic Games in Sochi four years ago, to being banned from the winter Olympics Games four years later in South Korea. And the reason as he suggested is because there was this massive doping scandal where they were giving their athletes performance enhancing drugs. It involved the Russian Olympic committee, the ministry of sport, and not only that, the FSB, the successor agency to the KGB was involved. What they apparently did, Martha, was they built a secret lab right next to the room, the storage room where the urine samples were held with a hole in the wall. And they would do in the middle of the night, they would take the sample of the athletes that have been doping, put it through the wall, they would give it to a KGB-FSB officer who would take it away, somehow magically get the tamper proof cap off and return it with clean urine. In one case, a Russian female hockey player ended up with male urine. And there was over a hundred athletes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I wonder how that happened. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb16', 'desktop-desk-ad-lb16', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": ". one-third of their medal were compromise. Exactly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I'm just picturing it, like it seems like Americans, right? Like on the other side of the wall, peeing into the cups and putting the tape back on. I mean, you can't just make it up. It's unbelievable. And you think about -- I think about growing up, you know, watching all the Olympics. I love it, especially the Winter Olympics. And the hockey players and all of these winter sports, and the skiers. The Russians are always the most difficult contenders out there. It's going to change the games. And you're not going to ever see that Russian -- the flag rising over the podium as one of them steps up there. It's heart breaking, obviously, for some of these athletes who did not mess with anything to miss out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "Very true. But you know, on the other hand, if you think about all those athletes in Sochi who had medals stolen from them because of this illegal doping, who never got to stand on the podium because some Russian athlete was taking performance-enhancing drugs, and they later on they'll come back and give them the medal that they should have had, but you can never give them back that moment on the podium that was stolen for them. So, you know, this is for the integrity of the games and for the integrity of the players who will be there in Sochi.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. It's really -- it's awful. And, you know, they are going to some of them in neutral uniforms? And what are they going to do when they win? They'll be Russians who are cleared to participate but they're not going to play the anthem or put the flag up?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "That's exactly right. They play as Russian athlete under Olympic Auspices. So they play the Olympic anthem and they put up the Olympic Flag for these athletes. But the people that hurt the most is hockey, because already the National Hockey League barred its players from playing. So the Russian team was going to dominate because the second best league in the world, the KHL, and the Russians were going to be coming in like a storm to take that medal. And now, even those players are not going to be there. So it's going to change the complexion of the game enormously.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Miracle behind the wall. Thank you, Marc. Good to see you tonight. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb17', 'desktop-desk-ad-lb17', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "Yeah, exactly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So coming up next from this dramatic announcement of the summer of 2015 to winning the White House. We've got an exclusive look inside President Trump's unbelievable campaign. Former campaign insiders, Corey Lewandowski and David Bossie back together. The band is back together and they're coming over here right now when we come back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "The road President Trump took to get to the White House pretty much knocked every assumption about campaigns upside-down. Many have discovered the campaign from that escalator moment which we remember well, to the stunning upset on election night. But these two were there from the beginning with an un-voluntary hiatus for two along the way, Corey Lewandowski and David Bossie joining me in just a moment. But first, Trace Gallagher takes us on a little trip down memory lane. Hi, Trace.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS",
+      "sentences": "Hi, Martha. You know it's no secret that now President Trump and then candidate Trump had pulled no punches and played no favorites, and his tell it like it is style began on day one of his campaign when he said this about immigrants from Mexico. Quoting, they're bringing drugs, they're bringing crime, they're rapists, and some I assume are good people. The comments were widely excoriated, but two weeks later when Kate Steinle was shot and kill by an illegal immigrant, Trump's call to build a wall picked up momentum and his provocative statement continued. When Senator John McCain criticized Trump's portrayal of Mexican immigrant, Trump lashed out saying, quote, he's not a war hero. He was a war hero because he was captured. I like people who weren't captured. McCain spent five years as a prisoner of war in Hanoi, after his plane was shot down. The anti-hero comments were condemn by senior members of the Republican Party, but those senior members were also far from sacred. When Senator Lindsey Graham called Trump a lightweight and an idiot, Trump read Graham's phone number on national television. And from that point, the controversial comment became a weekly occurrence. Trump went after Megyn Kelly for aggressively questioning him during a presidential debate. And during an interview with Rolling Stone in September of 2015, Trump criticized Carly Fiorina's appearance, quoting, look at that face. Would any one vote for that? Can you imagine that's the face of our next president? Then there was Trump being slammed by disability rights group who claim he mocked a disabled New York Times reporter. Watch. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb18', 'desktop-desk-ad-lb18', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "A nice reporter. Now the poor guy -- you've got to see this guy -- oh, I don't know what I said. I don't remember. He's going like, I don't remember. Maybe that's what I said.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "And on it went. Whether he was defending the size of his hands or accusing Ted Cruz's father for hanging out with Lee Harvey Oswald, Trump acknowledge he could do no wrong. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Did you ever see that? Where I could stand in the middle of Fifth Avenue and shoot somebody and I wouldn't lose any voters, OK? So it's like incredible. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb19', 'desktop-desk-ad-lb19', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "And in the end, his supporters proved they were in fact very loyal. Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "They certainly were. And most of them still are. Thanks a lot, Trace. Corey Lewandowski, former Trump campaign manager, and David Bossie, former Trump deputy campaign manager, both are the authors of the new book, Let Trump be Trump, the inside story of the rise of his presidency. Few snickers along the way, watching that, reliving all of those moments. I mean, I remember so many times, you know, we just thought that's it, right? I mean, you know, some of these comments, some of the things that were said, you know, the access Hollywood tape. You really couldn't find anybody around who thought he could survive that, Corey.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COREY LEWANDOWSKI, FORMER TRUMP CAMPAIGN MANAGER",
+      "sentences": "Everybody thought the same thing. The mainstream media's narrative was Donald Trump has stepped over the line and he's going to get out of the race and he's going to quit and the voters are going to walk away from him. What they saw in him was an authentic genuine nature of someone who is willing to say and do things no other candidate was willing to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "But you've guys would have to have moments -- like, OK, this is over. We've got to find a new job pretty soon. And there's no way this is going to work.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEWANDOWSKI",
+      "sentences": "Of course there were times whereas professional political operatives you say, boy, this one is going to be a tough one to get out of. You know, maybe we crossed a line. And then the candidate would double down. And he would bring attention to an issue that no one was talking about and I think of illegal immigration, right? No one in the Republican Party was talking about that issue before Donald Trump raised that issue. He raised on day one. And now is a serious issue that this country is talking about and the travesty of justice that we saw last week in California is only in the news every day because of Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. I mean, when in doubt, he would talk about building the wall. He gets back to the stuff you want to talk about. But inevitably, you know, the next day he would do something else that would cause you guys, I'm sure, quite a bit of heartburn. What about the decision to bring out the former Clinton accusers and line them up at a table with now President Trump in the middle of the table in St. Louis. Whose idea was that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAVID BOSSIE, FORMER TRUMP DEPUTY CAMPAIGN MANAGER",
+      "sentences": "That was Steve Bannon's. It was a brilliant stroke. It refocused the debate. And it put it right back on the Bill and Hillary Clinton because three of the women were accusers of Bill Clinton, and one of them was an accuser of Hillary Clinton being an enabler of somebody who raped her. So what we wanted to say was there's locker room talk and then there's action. And the president lost his law license. The president was fined for lying. So we know what the president with Bill Clinton had done. And what we're trying to do is say, hey, let's make sure the media isn't going overboard here. And the president was unbelievable at that debate in St. Louis. In my opinion, it was the make or break of the campaign, and Donald Trump decimated Hillary Clinton in St. Louis. if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb20', 'desktop-desk-ad-lb20', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "In terms of the team, you know, you had Reince Priebus at one point saying, you know, you need to drop out. You're going to have the biggest electoral loss in the history of anyone running for the presidency. What was your reaction? What happened in that moment?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOSSIE",
+      "sentences": "Well, I was in the room.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOSSIE",
+      "sentences": "And Reince said those things, but he said things that -- like you were just pointing out, as political professionals, all of us were thinking those different variations of things. And so, Reince, when he said it, he was courageous for having done it in the sense that he's the chairman of the RNC. He had a different role than Corey or I or others on the team. We were Trump's campaign step. He was the chairman of the RNC, and he was being, you know, assaulted by different leaders, donors who wanted Trump to drop out. So Reince Priebus stepped up and helped Donald Trump get ready for these debates. His assistance in debate prep for St. Louis, and for the third debate in Las Vegas, without that, I don't know that things would have gone as well. The president stepped up on the stage and delivered a masterful performance in both. But some of that was the preparation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I want to play just -- it's real quick, 20 seconds or something, of an interview that I did with President Trump on Election Day. When I put myself back in that moment, you remember that everybody thought Hillary was going to win based on the polls, right? I mean, because the polls have always worked basically before. And I asked him -- everybody asked him if he was going to concede. Is he going to concede or he's going to fight this thing, right? Play this little clip, and then I want to get Corey's response.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "If you do lose tonight, what's your next move? if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) { window.foxstrike.cmd.push(function(Strike) { Strike.insertAd('desktop', 'lb21', 'desktop-desk-ad-lb21', ''); }); } else { console.error('Error: window.foxstrike not found'); }",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Well, I'm going to have to see under what circumstances. It's largely a rigged system. And you see it at the polling booths, too.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Are you saying that you believe this will not be over tonight, Mr. Trump?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "No, I'm not saying that. I say I have to look at, you know, what's happening. I have to look at reports that are coming out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Corey, he was preparing the ground for maybe fighting it if he lost.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEWANDOWSKI",
+      "sentences": "Let Trump be Trump details election night in intimate detail. And you know what it says? We had no acceptance speech written. He had no speech if he lost written, because he was going to wait to see what the results were. And the mainstream media narrative, which was so unfair to President Trump was, are you going to make a concession speech when you lose. No one asked Hillary Clinton that. And what we saw that night was the failure of Hillary Clinton. Her true colors came out that night where she lost the election and she refused to stand before the American people and say I concede this race. That's the cowardness of Hillary Clinton. But everybody in the mainstream media, we talk about this in the book, was pushing Donald Trump to say will you make a concession speech. And all of those pundits they were wrong and he was right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "David?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOSSIE",
+      "sentences": "And you know what, Hillary Clinton one year later is still upset about the results of that election, of losing. She still doesn't want to accept it. So, you know what, they pushed it all on the president and our book, Let Trump be Trump. We detail all of those great back stories and how great it was to work alongside the president, with him as our leader.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, yeah -- he would break lesser men than you by his temper and the way he goes at you. You guys have stuck by him since day one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEWANDOWSKI",
+      "sentences": "He deserves the best. We owe him the best. He deserves perfection, that's what his staff is doing. If you're not perfect, he lets you know. And I honor that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "David and Corey, thanks a lot, guys. Good to see you tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEWANDOWSKI",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOSSIE",
+      "sentences": "Thanks for having us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Quick break. We'll be right back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So that is our story for tonight. Thanks for coming along for the ride with us. We will see you back here tomorrow night. And Tucker Carlson is live tonight from Las Vegas, baby. Take it away. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, HOST",
+      "utterance": "Good evening, everybody. I'm Martha MacCallum. We now know that the text sent by Peter Strzok that showed enough bias against the president to get him kicked off the case will be turned over to congressional investigators soon. The new revelations about bias on the Mueller are raising questions that should matter to everyone who is watching this story regardless of your party. Can these investigators be fair? Can they be just in the Russia case? Very basic question. The Wall Street Journal editorial looked at it today and they put it this way: \"While there's no evidence so far of Trump-Russia collusion, house investigators have turned up enough material to suggest that anti-Trump motives may have driven Mr. Comey's FBI investigation. The public has the right to know whether the Steele dossier was the inspiration for the Comey probe, and whether it led to intrusive government eavesdropping on campaign satellites -- such as Carter Page and others. All of this reinforces our doubts about Mr. Mueller's ability to conduct a fair and credible probe of the FBI's considerable part in the Russia-Trump drama. Mr. Mueller ran the bureau for 12 years and is fast friends with Mr. Comey, whose firing by Mr. Trump triggered his appointment as special counsel. The reluctance to cooperate with the congressional inquiry compound doubts related to this clear conflict of interest.\" Tonight, we are learning more about the two men apart of both the Clinton and Trump investigation, and whether based on their own statements they can be impartial in this case. So, in a moment, Fred Fleitz, a former CIA analyst who is concerned about what he sees going on here and behind the scenes; Mollie Hemingway is also with us tonight of The Federalist; and constitutional law attorney, Jonathan Turley. But first, chief national correspondent, Ed Henry, joins us live from Washington tonight. Good evening, Ed."
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHANNELL CHIEF NATIONAL CORRESPONDENT",
+      "utterance": "Martha, you know that breaking tonight, we're going to get a look at these text messages from Peter Strzok -- that FBI Agent -- they're going to be turned over to the House Intelligence Committee. Fascinating, because the mainstream media has been throwing shade at President Trump for lashing out at the FBI in recent days, but the more we learn about this very senior FBI official, the more questions are being raised about whether the president is right on target about a double standard. New tonight, we're learning, two top aides to Hillary Clinton who never faced charges in the email probe, Huma Abedin, and Cheryl Mills, were interviewed about the private serves by, yes, Peter Strzok. The lead agent on the Clinton investigation who was recently pulled off of Special Counsel Robert Mueller's Russia probe because of a perceived pro-Clinton bias. Remember, we learned from WikiLeaks that after a March 2015 interview in which then-President Obama claimed he learned of the private server from news reports, it was Cheryl Mills who emailed John Podesta that they needed to adjust and coordinate the story because the president had exchanged emails with Clinton on her private address. Mills writing to Podesta, \"We need to clean this up. He has emails from her. They do not say state.gov.\" Well, late yesterday, we learned why team Clinton may have been treated with kid gloves. When it's revealed that before James Comey cleared Clinton during the summer of '16 in her e- mail probe, Strzok had intervened. He shifted Comey from saying it was \"grossly negligent,\" which hinted that potential crimes to the much more lenient \"extremely careless\" when it came to the email server. Strzok has pulled off the Mueller probe as I noted this summer because he'd been sending his girlfriend, another top FBI official, texts that were very pro-Clinton and extremely anti-Trump. It turns out Strzok also helped conduct the FBI interview of Retired General Mike Flynn that sparked charges that National Security Adviser lied to the FBI, months after Strzok led the interview of Hillary Clinton that was widely seen as being gentle, and that's why critics are lashing out."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "To get close to the stink of this. It's really something that, I think, outrages Americans regardless of where they are political."
+    },
+    {
+      "speaker": "REP. TREY GOWDY, R-S.C.",
+      "utterance": "People have the right to assume, the people think investigating them are objective and have not already made up their minds. That's why we need to see the texts and we need to interview this special agent. But the bureau had it really bad last 18 months. And this makes it worse, frankly."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Meanwhile, an email obtained by judicial watch shows that Robert Mueller's deputy, emailed Sally Yates, that former Top Justice Department Official that he was \"so proud when she defied President Trump over the travel ban.\" And the Washington Times is reporting tonight that we're soon going to learn how much money Robert Mueller has been spending in taxpayer dollars. One estimate has it at about $5 million. Martha?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Ed, thanks very much. Ed Henry in Washington. So, my next guest has over two decades of experience in the Intelligence Committee, serving as a CIA analyst and holding positions in the Defense Intelligence Agency and the State Department. Earlier this year he exposed the truth behind the widely-circulated Democratic talking points that claim that 17 intelligence agencies agreed that there was Russian collusion in the election, which everybody took at face value. He believes that it was only, actually, four of the 17 that came to that conclusion. Here now, Fred Fleitz, Senior Vice President at the Center for Security Policy. Good evening, sir, it's really good to have you with us tonight. You know, I think a lot of people -- and as I say, regardless of where they stand politically, are looking at this and saying that this isn't the way things should work. You believe that you're coming up with a theory that there was a very intentional trap that was set here. Explain that."
+    },
+    {
+      "speaker": "FRED FLEITZ, SENIOR VICE PRESIDENT, CENTER FOR SECURITY POLICY",
+      "utterance": "Well, Martha, President Trump saying that this was a witch hunt -- and he might be right. But I think this was actually a Democratic trap. I think the Democrats paid for this dossier, the purpose of which was to set off an FBI investigation. The Trump campaign is made up of outsiders, they're likely to get caught up in this investigation. After all, when Michael Flynn talked to the FBI, he didn't have an attorney with him. And these last-minute policy decisions by the Obama administration to close diplomatic -- Russian diplomatic facilities and to sanctions the Russians. You know, administrations in the last three weeks don't normally do that. That was at least an effort to sabotage Trump policy when he was president. But I think it was baked. It was baked to get Trump officials to do something. I think they were being monitored by intelligence agencies. The FBI was watching this. The NSC was watching this. They were looking for evidence to get the Trump transition team with. And because I think this was all a trap by the Democrats -- if this could be established, I think President Trump should pardon everyone. And I think that's what Republicans on the Hill should be calling for."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I mean, you spent a lifetime working in the intelligence industry. When you hear the things that these people were saying, and the text messages -- we don't know the details exactly yet of those, but we're going to see them apparently. And also, you know, their emails, that obviously there's a lot of people involved in the intelligence agency who really didn't like the idea of President Trump becoming President Trump, right? And they were quite open about that in their exchanges. There's some that say, it doesn't matter, they can still do this job objectively, do you agree?"
+    },
+    {
+      "speaker": "FLEITZ",
+      "utterance": "I'm very troubled by these notes. Look, I work for Democratic and Republican administrations, you're supposed to keep your politics out of your job. I saw many at the CIA who didn't do that. But the vast majority of officers did. But the texts we're seeing from these various officers involved in the FBI and the Mueller investigation, and what we're seeing from Peter Strzok who apparently changed a key document on the prosecution -- the possible prosecution of Clinton so that she would get off. This goes beyond freedom of speech, this is political interference for the benefit of one political party."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "One more quick question for you. You say that you think that there's a possibility that Michael Flynn actually did not lie to the FBI. He admitted as much."
+    },
+    {
+      "speaker": "FLEITZ",
+      "utterance": "Well, my friend Michael Ledeen said this today in (INAUDIBLE) and I read his article very carefully, and I encourage your viewers to watch it. I suspect and I don't know this for sure, that General Flynn may have copped a plea to this particular instance of lying to the FBI to save his family the pain of hundreds of thousands of dollars of legal bills concerning his dealings with Ukraine and Turkey and other things. You know, you just can't beat the U.S. government with its limitless resources. And I mean, that's Ledeen's position, and I believe in Ledeen."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Fred Fleitz, very good to have you here, sir, tonight. Thank you very much for being here."
+    },
+    {
+      "speaker": "FLEITZ",
+      "utterance": "Good to be here."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Let's bring in Mollie Hemingway, Senior Editor at The Federalist and a Fox News Contributor; and Jonathan Turley, Constitutional Law Attorney, and Professor at George Washington University. Good to have both of you with us tonight. You know, this issue, Mollie, of the dossier, you've written about it quite a bit. And it goes back to -- the FBI doesn't want to seem to want anyone on Capitol Hill to understand how involved they were in that effort to investigate President Trump to put together this dossier. We know they considered paying to keep it going at one point. You know -- but the gig is going to be up pretty soon on them being able to protect all this stuff from the investigation on Capitol Hill, right?"
+    },
+    {
+      "speaker": "MOLLIE HEMINGWAY, SENIOR EDITOR, THE FEDERALIST",
+      "utterance": "Well, I mean, it really would be nice to get some answers. And congressional investigators have been trying desperately for many months to get answers from the FBI and other parts of the Justice Department about what exactly they were doing, playing around with this dossier, which we now know was entirely a Clinton campaign Democratic, you know, operation -- an opposition research thing that wove, sort of, and elaborate conspiracy theory. That is looking like that's what led to the probe, and this is something that really needs to be investigated. We do need to know what payments were going on, and just why they were even using this information, whether it was used as a pretext to start this probe. And that would -- you know, American people really have a right to understand what was in play here, because of how much chaos it has caused."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Jonathan, it's hard to imagine something that's more important to the American people than the integrity of the presidency, than having it tested. You know, we've been down these roads before with Richard Nixon, with Bill Clinton's impeachment proceedings. There's all this discussion about that kind of thing. Can they feel reassured that this investigation is fair? That it is just? And that they will find a real answer here?"
+    },
+    {
+      "speaker": "JONATHAN TURLEY, CONSTITUTIONAL LAW ATTORNEY AND PROFESSOR AT GEORGE WASHINGTON UNIVERSITY",
+      "utterance": "Well, first of all, I did not think that Robert Mueller was a good choice as special counsel. It was not just only because of his long relationship with Comey, it's because he interviewed for Comey's job. I was astonished that he was on the list given the fact that he was involved in the aftermath of the Comey firing. But having said that and despite all of the troublesome stories, I think Mueller will do a fair job. I think he knows that history will be his judge. He knows the rest of us will be, even if it wasn't. But I think your point is still the most important one. This is not like a normal criminal case. Our Constitutional system turns on this. And people have lost faith on both sides -- the Democrats and Republicans. They think it's all rigged, it's all deep state stuff. We need to bring back an element of trust. And you're only going to get that by getting all the stuff out on both sides. Not only the Russian investigation but the Clinton investigation, and to disclose what happened. Because I think we're past that, we've crossed the Rubicon of the normal criminal case and we're going to have to have greater disclosure."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "We're learning a lot, Mollie. Do you have faith in the investigation?"
+    },
+    {
+      "speaker": "HEMINGWAY",
+      "utterance": "Well, one of the things that would help have -- for people to have faith in the FBI is that they weren't using this dossier. I mean, one of the leaks that we got this year was that this dossier might have been used to secure a wiretap, surveillance warrants against someone associated with the Trump campaign. That is unprecedented, I think -- I hope it's unprecedented. But also, we just have so many things we need to know about that. And we need to know that our intelligence agencies aren't playing politics in going after political opponents. There have been times in our country's past when we have broken open just exactly what intelligence agencies are doing against the American people. We had the church commission in the 1970s. This might be a time where we really get to find out just how much surveillance of political enemies is going on, and how much the FBI and other aspects of the Justice Department have been protecting -- keeping information from coming out about what happened during the Obama administration."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, there've been a lot of damaging leaks that have come out of this investigation. And one of the things that we would really count on the special counsel's office to do is to protect the integrity of the investigation by making sure that doesn't happen. And that is something that seems to have happened. I've got to go, but very quickly, Jonathan, does that concern you?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "It does a great deal. And if those leaks were planned, if they were strategic, they're deeply unethical, deeply troubling and they should be investigated."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Jonathan and Mollie, great to see you both tonight. Thank you very much. So, coming up tonight, the White House says that it's not true that bank records are being subpoenaed. This story has been splashed all over today. They claim that it's not happening -- an investigation of President Trump and his family's finances in terms of a subpoena. Kellyanne Conway responds to that and other things in a moment."
+    },
+    {
+      "speaker": "Also, big news today",
+      "utterance": "the Russian team banned from the Winter Olympics. They're going to get underway in just a few weeks. There is rage, no doubt, at the Kremlin over this. That story coming up. And Detroit's Democrat, John Conyers, gives in to growing pressure to resign. He retires after 27 terms. But hopes to pass the job onto his son. Conyers is just one of an unbelievably long list that we put together here at THE STORY of members who have been in the office over 20 years. So, we ask the question: should Congress be a lifetime career?"
+    },
+    {
+      "speaker": "REP. JOHN CONYERS, D-MICH.",
+      "utterance": "This too shall pass. And I want you to know that my legacy will continue to my children."
+    },
+    {
+      "speaker": "CONYERS",
+      "utterance": "I am retiring today. And I want everyone to know how much I appreciate the support."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, two weeks after the sexual harassment allegations, Congressman John Conyers, as of tonight, is out. He served 52 years in the house of representatives. Close to an all-time record. He's the third longest-serving in United States history. But he's hardly the only one who has made a career out of Congress. The men and women that you see on this list, all 70 of them, have been serving consecutive terms in the U.S. House for at least 20 years -- some of them much more than that -- and that doesn't even include the Senate. So, why do we allow elected officials to become so entrenched in Washington, and does that lead to the deepening of the so-called swamp? That's our question for Katie Pavlich, News Editor at Townhall.com and a Fox News Contributor; and Wendy Osefo, Professor and Political Commentator. Wendy and Katie, great to see the both of you tonight. Obviously, all of the people that we just put up on the wall, they get elected over and over, but it does raise the question of whether or not -- you know, how long is too long, Katie?"
+    },
+    {
+      "speaker": "KATIE PAVLICH, NEWS EDITOR, TOWNHALL",
+      "utterance": "Well, I don't think the founding fathers ever intended for Congress in the House or the Senate to be a career. Public service should have a meaning outside of coming to Washington D.C., and turning what we call the swamp into more of a jacuzzi, getting comfortable. And if you look at the list that you just had up on the big board, there's a number of congressmen and women on the list who have been the subjects of ethics violation investigations, including Maxine Waters, who has been there for a very long time. So, now that we see Representative Conyers resigning, yes, he had did some good things in his career, but the fact that he now wants his son to step in and continue his legacy, really, is quite rich since he's been there so long."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And I mean, it's a very reliable Democratic district where he serves in Michigan. And you know, his son probably has a very good shot at taking over. Does that smack of a dynasty and should they be able to do that, Wendy?"
+    },
+    {
+      "speaker": "WENDY OSEFO, PROFESSOR AND POLITICAL COMMENTATOR",
+      "utterance": "No, I don't think they should be able to do that. And I don't think that the founding fathers, either, wanted this to be a career. And I also don't think they wanted our elected officials to pay for sexual harassment claims with our tax dollars. And quite frankly, him appointing or his son as next successor was really an eyebrow raiser, because, for me, I went and stopped that his great nephew Ian Conyers would've been the person who he named as he's the rising in the Democratic Party. But what's really interesting here, where it has been overlooked, it's how -- for me, Conyers has been cannibalized by the Democratic Party. And there has been this level of inequity when it comes to what has happened. You know, I am not a fan of sexual assault by any means, but whether it's Al Franken with the photographic evidence, we have Roy Moore, we have Donald Trump. Why is there not an outcry for all of these people to step down as well? And let's be honest here. Often the Democrats say that the Republicans don't have a heart. Well, you know, to be quite honest, the Democrats lack a spine here. We have to start sticking up for those individuals or we say all people need to resign, not just one. And you know, I'm just being honest with that."
+    },
+    {
+      "speaker": "PAVLICH",
+      "utterance": "Yes. I mean, there's been double standards on both sides of the aisle, but also double standards on the same side of the aisle when it comes to equal treatment. I guess you could say there are differences between Senator Al Franken in the Senate seats, and there would be with a House seat. And, of course, this comes down to how much power each party is willing to give up. Then, the Senate might not be willing to give up a seat to -- in terms of Franken seat whereas a House seat is easier to replace. So, there's a double standard. There is case by case instances that have to look at in terms of the extreme nature of allegations that are taken. And this was Representative Conyers making this call on his own after being called on to resign. And we've heard a lot about how voters are the ones to have to make that decision."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, they will continue to do that, too. Thanks very much. We've got to leave it there. Good to see you both tonight. So, coming up next, President Trump is about to announce a decision that some leaders say could be extremely dangerous. Why could recognition of Jerusalem as the capital of Israel have national security complications? Kellyanne Conway joins me on that with her reaction, and also to the Mueller team news that came out today. Plus, two men on the frontlines of the president's historic campaign are now out with a juicy new book that reveals a lot of stuff that we didn't know after covering a campaign, that happened behind the scenes. David Bossie and Corey Lewandowski with the inside scoop, coming up."
+    },
+    {
+      "speaker": "DAVID BOSSIE, DEPUTY CAMPAIGN MANAGER FOR TRUMP CAMPAIGN",
+      "utterance": "Some days we failed and it was tough because of the things that we did. But I got to tell you, no greater boss."
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "utterance": "We will move the American embassy to the eternal capital of the Jewish people, Jerusalem."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Heightened security tonight across several U.S. embassies in the Middle East ahead of tomorrow's expected announcement from the president that he will make good on that campaign promise and move the U.S. embassy from Tel Aviv to Jerusalem. Basically, recognizing Jerusalem as the capital of Israel. A lot of concerns in the region. A lot of other leaders in other countries, in Arab country, say that that could undermine the peace process. Earlier, I talked to Kellyanne Conway, Counselor to the President, and asked her why he believes this is a good decision."
+    },
+    {
+      "speaker": "KELLYANNE CONWAY, COUNSELOR TO THE PRESIDENT",
+      "utterance": "The president has received calls and initiated calls with a number of leaders today, and he's also consulted with his national security and foreign policy teams and he will make the final announcement tomorrow. But, Martha, you played the clip of the Candidate Mr. Trump, now the president, making that promise, making that statement. And this is a promise that past presidents have made. President Bill Clinton made a promise, President George W. Bush. In fact, in 1995, by a vote of 93-5, the United States Senate declared Jerusalem the capital -- to be Israel's capital and promised to move it there just four short years later."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I want to play this from the press briefing today, from Sarah Huckabee Sanders. She was asked about the news that the Deutsche bank holdings of the Trump family were part of the investigation, that the tentacles of the investigation were reaching deep into the finances of the family prior to the presidency. Here's her comment on that and then I would love to hear from you on it."
+    },
+    {
+      "speaker": "SARAH HUCKABEE SANDERS, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "The news reports that the special counsel had subpoenaed financial records related to the president are completely false. No subpoena has been issued or received. We've confirmed this with the bank and other sources. I think that this is another example of the media going too far too fast."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, would you confirm that, that no subpoena has been received, and that does that also mean that no documents have been voluntarily handed over, perhaps everything that has been requested has been handed over and a subpoena wasn't necessary?"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "You saw Jay Sekulow, one of the president's attorney, make a statement publicly that this is false. And you also know that we said time and time again at this White House that everybody is complying. Anybody that's been asked to comply will comply, of course. But Sarah is right that this is another example of folks getting ahead of themselves, hoping the worst would be true. You saw that last Friday in the egregious false report by ABC News Brian Ross that just laid out there for seven or eight hours before it was clarified, that it was incorrect, that they're going to retract, and him suspended, not even terminated. And so, of course, we know that presumptive negativity attends, we know that this has gone on for a year. But at this time, listening to our press secretary and the president's own attorney make a statement on this, I think is very important. You know, Martha, we here at the White House understand that people who get it wrong really never apologize. But think of the effect of last Friday's false report, it moved markets -- 350-point decline. And that was a completely false report. I know ABC News has reported that --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And we reported on it extensively."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Absolutely, and I saw you do that."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "And I think that this is another example of the same type of conduct getting ahead of things."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, let me address another report that, you know, can either debunk or agree with that there's panic in the White House --"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Debunk."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "-- that are concerned that they're going to jail. You know, you hear these reports across the morning on other channels. What do you say to them?"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "I don't hear all of those reports. What I would say is this is a -- this is a White House that's pushing through so many meetings, so many pieces of the president and the vice president's agenda every single day. Just today, I mean, it's only Tuesday, it feels like it's next Tuesday already. And just today the president met with United States senators on a policy issue. Then, he went right into the oval office to meet with families -- I was there for that meeting. Families who are telling him what they like about the tax cut and jobs back package. He certainly was meeting with the national security advisor -- With United States senators on a policy issue. Then he went to the oval office to meet with families, I was there for that. Meeting families who are telling him what they like about the tax cut and job back package. He's certainly meeting with his national security advisers. Tomorrow we have a cabinet meeting. The president -- you know, it's just like his full schedule and a full agenda of issues. You see historic tax cuts. We're just a couple of days away, couple of weeks away from historic tax cuts for families and individuals and for job creators. So, things here are moving at pace, the usual Trump pace, not the swamp speed that folks in Washington are accustomed to. And this investigation, it's out of the White House in so far as whatever is going on over there is going on over there. It's a special counsel investigation. We're all complying. But the president also made very clear there's no collusion. And Martha, let's be very clear and very fair here, that is what the media and the Democrats promised for over a year now. They have wasted all of 2016 talking about Russians instead of America, and not talking about the policies that affect Americans. It's so disappointing you can't get a single Democratic senator to come on board for tax cuts."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. I want to ask you one last thing and it has to do with the Alabama senate elections. Jeff Flake today put out a picture of a $100 check that he wrote to Doug Jones, your thought on that, and also on why the president didn't back his original candidate in Luther Strange? Why didn't he come out and press for people to do a write-in candidacy and follow his initial instincts in this race?"
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "There's several things. First, the president did back a different candidate in the primary, the incumbent Republican senator. Secondly, the president has made very clear that the people of Alabama should decide who represents in the United States senate, and we respect the will of the Alabama voters a week from today. And we feel that people have been -- they've been talking about a number of different issues. But this president also made very clear something important here. He does not want a liberal Democrat in that seat. And he wants somebody who is going to be a reliable vote for their shared agenda on tax cuts, on securing the boarder. With respect to Senator Flake, I just to make clear here -- to tell your viewers that Senator Flake sat right next to the president today at a lunch here. And I just ran into him -- just ran into Senator Flake, literally in his tuxedo, he's on his way to congressional ball as I was coming out here to do this interview. So he's here tonight as a guest of the president, the first lady at the congressional ball for the holidays. We're glad he is. And we're glad that he's a vote for tax cuts as well."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. We'll have fun. Congressional ball underway shortly. Kellyanne Conway, thanks a lot."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "Thank you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "We'll see you soon."
+    },
+    {
+      "speaker": "CONWAY",
+      "utterance": "My pleasure."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "A Fox News alert now, unfolding right as we speak on the West Coast, wild fires tearing across the state of California, really taking everything in their path. It's unbelievable that they are enduring this yet again. A live report on the ground is coming up moments away. Also tonight, high drama as Russia is kicked out of the upcoming Winter Olympics, our number 1 historic rival for medals out on doping charges. Putin not likely to take this well. Marc Thiessen joins us with his analysis, coming up."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Incredible and awful wild fires raging again in California tonight. Tens of thousands of people had to do what we saw just a short time ago. Packing up their cars and trying to get away from these blazes. Senior correspondent Adam Housley joins us now. He's live at the scene in Ventura, California, tonight. Adam, tell us what you're seeing there."
+    },
+    {
+      "speaker": "ADAM HOUSLEY, FOX NEWS SENIOR CORRESPONDENT",
+      "utterance": "Yeah, Martha, just two months ago, the northern California fires, similar scene here in Ventura, behind me this home where the fire has stop here in this neighborhood. Hundreds of homes have burned in this neighborhood. A lot of people didn't have a chance to even fill up their cars. They just got in their cars and drove out. It is been a miserable 18 hours here in this part of California. Now we know of at least four other fires that are burning across Southern California. The winds have really kicked up. In the distance you can see just how far this fire has burned. This isn't the wild lands. This is going to a major metropolitan area of Ventura where they've lost hundreds of homes. At some point the winds kick up right now. They've come back. They've died down for maybe a half an hour, but here they come again. And every time they kick up these -- could blow from these little fires that are still burning and smoldering in home like this. They could blow up to a mile away. And we've seen four or five homes ourselves catch fire and burn to the ground just below this home as well. And if you look here to the left, a little further too, you can see where they made the stop. There are crews out here on the streets. In fact, here's a crew right now, Martha, if you take a look to your left. They're coming in from all over California. That's from the California office of emergency services. You're seeing these engines come in from everywhere, from Northern California, from Nevada, from Northern Nevada. I have a friend coming in from Reno on a rig right now, which is a good ten hour drive away, Martha. And the worst part about these fires, not only we are close to the holidays, that people have lost so much, but the winds are supposed to get worse until Thursday. Martha?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Awful. Adam, we'll keep watching with your help. Thank you for your reporting. And we're really -- we're thinking about those folks as you say right before the holidays. It is just heart breaking and awful. We'll stay on it. Thanks, Adam."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "No official of the Russian ministry of sports will be accredited for the Olympic Winter Games Pyeongchang 2018."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Stunning. Today, the International Olympic Committee announced that Russia is banned from the Winter Games that are coming up in just a few weeks, citing a, quote, unprecedented attacks by the Russians on the integrity of the Olympic Games. It comes from widespread doping, the scandal at the 2014 games in Sochi that officials believe was fully supported by the Russian government. Russia ultimately walked away with most of the medals. I think they've won 54 in those games. But there was so much discussions, so many rumors swirling around the athletes and whether or not they were clean in those games. Marc Thiessen joins me now, American enterprises scholar and Fox News contributor, digging into this for us today. Marc, good evening to you."
+    },
+    {
+      "speaker": "MARC THIESSEN, FOX NEWS CONTRIBUTOR",
+      "utterance": "Good to be with you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Everybody had the same reaction when this crossed the wires today. This is a big deal."
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "It is a big deal. Look, I guess there's not going to be a rematch of the miracle on ice this time around. What a stunning fall from grace for Russia. From hosting the winter Olympic Games in Sochi four years ago, to being banned from the winter Olympics Games four years later in South Korea. And the reason as he suggested is because there was this massive doping scandal where they were giving their athletes performance enhancing drugs. It involved the Russian Olympic committee, the ministry of sport, and not only that, the FSB, the successor agency to the KGB was involved. What they apparently did, Martha, was they built a secret lab right next to the room, the storage room where the urine samples were held with a hole in the wall. And they would do in the middle of the night, they would take the sample of the athletes that have been doping, put it through the wall, they would give it to a KGB-FSB officer who would take it away, somehow magically get the tamper proof cap off and return it with clean urine. In one case, a Russian female hockey player ended up with male urine. And there was over a hundred athletes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I wonder how that happened."
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": ". one-third of their medal were compromise. Exactly."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I'm just picturing it, like it seems like Americans, right? Like on the other side of the wall, peeing into the cups and putting the tape back on. I mean, you can't just make it up. It's unbelievable. And you think about -- I think about growing up, you know, watching all the Olympics. I love it, especially the Winter Olympics. And the hockey players and all of these winter sports, and the skiers. The Russians are always the most difficult contenders out there. It's going to change the games. And you're not going to ever see that Russian -- the flag rising over the podium as one of them steps up there. It's heart breaking, obviously, for some of these athletes who did not mess with anything to miss out."
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "Very true. But you know, on the other hand, if you think about all those athletes in Sochi who had medals stolen from them because of this illegal doping, who never got to stand on the podium because some Russian athlete was taking performance-enhancing drugs, and they later on they'll come back and give them the medal that they should have had, but you can never give them back that moment on the podium that was stolen for them. So, you know, this is for the integrity of the games and for the integrity of the players who will be there in Sochi."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. It's really -- it's awful. And, you know, they are going to some of them in neutral uniforms? And what are they going to do when they win? They'll be Russians who are cleared to participate but they're not going to play the anthem or put the flag up?"
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "That's exactly right. They play as Russian athlete under Olympic Auspices. So they play the Olympic anthem and they put up the Olympic Flag for these athletes. But the people that hurt the most is hockey, because already the National Hockey League barred its players from playing. So the Russian team was going to dominate because the second best league in the world, the KHL, and the Russians were going to be coming in like a storm to take that medal. And now, even those players are not going to be there. So it's going to change the complexion of the game enormously."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Miracle behind the wall. Thank you, Marc. Good to see you tonight."
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "Yeah, exactly."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So coming up next from this dramatic announcement of the summer of 2015 to winning the White House. We've got an exclusive look inside President Trump's unbelievable campaign. Former campaign insiders, Corey Lewandowski and David Bossie back together. The band is back together and they're coming over here right now when we come back."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "The road President Trump took to get to the White House pretty much knocked every assumption about campaigns upside-down. Many have discovered the campaign from that escalator moment which we remember well, to the stunning upset on election night. But these two were there from the beginning with an un-voluntary hiatus for two along the way, Corey Lewandowski and David Bossie joining me in just a moment. But first, Trace Gallagher takes us on a little trip down memory lane. Hi, Trace."
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS",
+      "utterance": "Hi, Martha. You know it's no secret that now President Trump and then candidate Trump had pulled no punches and played no favorites, and his tell it like it is style began on day one of his campaign when he said this about immigrants from Mexico. Quoting, they're bringing drugs, they're bringing crime, they're rapists, and some I assume are good people. The comments were widely excoriated, but two weeks later when Kate Steinle was shot and kill by an illegal immigrant, Trump's call to build a wall picked up momentum and his provocative statement continued. When Senator John McCain criticized Trump's portrayal of Mexican immigrant, Trump lashed out saying, quote, he's not a war hero. He was a war hero because he was captured. I like people who weren't captured. McCain spent five years as a prisoner of war in Hanoi, after his plane was shot down. The anti-hero comments were condemn by senior members of the Republican Party, but those senior members were also far from sacred. When Senator Lindsey Graham called Trump a lightweight and an idiot, Trump read Graham's phone number on national television. And from that point, the controversial comment became a weekly occurrence. Trump went after Megyn Kelly for aggressively questioning him during a presidential debate. And during an interview with Rolling Stone in September of 2015, Trump criticized Carly Fiorina's appearance, quoting, look at that face. Would any one vote for that? Can you imagine that's the face of our next president? Then there was Trump being slammed by disability rights group who claim he mocked a disabled New York Times reporter. Watch."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "A nice reporter. Now the poor guy -- you've got to see this guy -- oh, I don't know what I said. I don't remember. He's going like, I don't remember. Maybe that's what I said."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "And on it went. Whether he was defending the size of his hands or accusing Ted Cruz's father for hanging out with Lee Harvey Oswald, Trump acknowledge he could do no wrong. Watch."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Did you ever see that? Where I could stand in the middle of Fifth Avenue and shoot somebody and I wouldn't lose any voters, OK? So it's like incredible."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "And in the end, his supporters proved they were in fact very loyal. Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "They certainly were. And most of them still are. Thanks a lot, Trace. Corey Lewandowski, former Trump campaign manager, and David Bossie, former Trump deputy campaign manager, both are the authors of the new book, Let Trump be Trump, the inside story of the rise of his presidency. Few snickers along the way, watching that, reliving all of those moments. I mean, I remember so many times, you know, we just thought that's it, right? I mean, you know, some of these comments, some of the things that were said, you know, the access Hollywood tape. You really couldn't find anybody around who thought he could survive that, Corey."
+    },
+    {
+      "speaker": "COREY LEWANDOWSKI, FORMER TRUMP CAMPAIGN MANAGER",
+      "utterance": "Everybody thought the same thing. The mainstream media's narrative was Donald Trump has stepped over the line and he's going to get out of the race and he's going to quit and the voters are going to walk away from him. What they saw in him was an authentic genuine nature of someone who is willing to say and do things no other candidate was willing to do."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "But you've guys would have to have moments -- like, OK, this is over. We've got to find a new job pretty soon. And there's no way this is going to work."
+    },
+    {
+      "speaker": "LEWANDOWSKI",
+      "utterance": "Of course there were times whereas professional political operatives you say, boy, this one is going to be a tough one to get out of. You know, maybe we crossed a line. And then the candidate would double down. And he would bring attention to an issue that no one was talking about and I think of illegal immigration, right? No one in the Republican Party was talking about that issue before Donald Trump raised that issue. He raised on day one. And now is a serious issue that this country is talking about and the travesty of justice that we saw last week in California is only in the news every day because of Donald Trump."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. I mean, when in doubt, he would talk about building the wall. He gets back to the stuff you want to talk about. But inevitably, you know, the next day he would do something else that would cause you guys, I'm sure, quite a bit of heartburn. What about the decision to bring out the former Clinton accusers and line them up at a table with now President Trump in the middle of the table in St. Louis. Whose idea was that?"
+    },
+    {
+      "speaker": "DAVID BOSSIE, FORMER TRUMP DEPUTY CAMPAIGN MANAGER",
+      "utterance": "That was Steve Bannon's. It was a brilliant stroke. It refocused the debate. And it put it right back on the Bill and Hillary Clinton because three of the women were accusers of Bill Clinton, and one of them was an accuser of Hillary Clinton being an enabler of somebody who raped her. So what we wanted to say was there's locker room talk and then there's action. And the president lost his law license. The president was fined for lying. So we know what the president with Bill Clinton had done. And what we're trying to do is say, hey, let's make sure the media isn't going overboard here. And the president was unbelievable at that debate in St. Louis. In my opinion, it was the make or break of the campaign, and Donald Trump decimated Hillary Clinton in St. Louis."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "In terms of the team, you know, you had Reince Priebus at one point saying, you know, you need to drop out. You're going to have the biggest electoral loss in the history of anyone running for the presidency. What was your reaction? What happened in that moment?"
+    },
+    {
+      "speaker": "BOSSIE",
+      "utterance": "Well, I was in the room."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "BOSSIE",
+      "utterance": "And Reince said those things, but he said things that -- like you were just pointing out, as political professionals, all of us were thinking those different variations of things. And so, Reince, when he said it, he was courageous for having done it in the sense that he's the chairman of the RNC. He had a different role than Corey or I or others on the team. We were Trump's campaign step. He was the chairman of the RNC, and he was being, you know, assaulted by different leaders, donors who wanted Trump to drop out. So Reince Priebus stepped up and helped Donald Trump get ready for these debates. His assistance in debate prep for St. Louis, and for the third debate in Las Vegas, without that, I don't know that things would have gone as well. The president stepped up on the stage and delivered a masterful performance in both. But some of that was the preparation."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I want to play just -- it's real quick, 20 seconds or something, of an interview that I did with President Trump on Election Day. When I put myself back in that moment, you remember that everybody thought Hillary was going to win based on the polls, right? I mean, because the polls have always worked basically before. And I asked him -- everybody asked him if he was going to concede. Is he going to concede or he's going to fight this thing, right? Play this little clip, and then I want to get Corey's response."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "If you do lose tonight, what's your next move?"
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Well, I'm going to have to see under what circumstances. It's largely a rigged system. And you see it at the polling booths, too."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Are you saying that you believe this will not be over tonight, Mr. Trump?"
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "No, I'm not saying that. I say I have to look at, you know, what's happening. I have to look at reports that are coming out."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Corey, he was preparing the ground for maybe fighting it if he lost."
+    },
+    {
+      "speaker": "LEWANDOWSKI",
+      "utterance": "Let Trump be Trump details election night in intimate detail. And you know what it says? We had no acceptance speech written. He had no speech if he lost written, because he was going to wait to see what the results were. And the mainstream media narrative, which was so unfair to President Trump was, are you going to make a concession speech when you lose. No one asked Hillary Clinton that. And what we saw that night was the failure of Hillary Clinton. Her true colors came out that night where she lost the election and she refused to stand before the American people and say I concede this race. That's the cowardness of Hillary Clinton. But everybody in the mainstream media, we talk about this in the book, was pushing Donald Trump to say will you make a concession speech. And all of those pundits they were wrong and he was right."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "David?"
+    },
+    {
+      "speaker": "BOSSIE",
+      "utterance": "And you know what, Hillary Clinton one year later is still upset about the results of that election, of losing. She still doesn't want to accept it. So, you know what, they pushed it all on the president and our book, Let Trump be Trump. We detail all of those great back stories and how great it was to work alongside the president, with him as our leader."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, yeah -- he would break lesser men than you by his temper and the way he goes at you. You guys have stuck by him since day one."
+    },
+    {
+      "speaker": "LEWANDOWSKI",
+      "utterance": "He deserves the best. We owe him the best. He deserves perfection, that's what his staff is doing. If you're not perfect, he lets you know. And I honor that."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "David and Corey, thanks a lot, guys. Good to see you tonight."
+    },
+    {
+      "speaker": "LEWANDOWSKI",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "BOSSIE",
+      "utterance": "Thanks for having us."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Quick break. We'll be right back."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So that is our story for tonight. Thanks for coming along for the ride with us. We will see you back here tomorrow night. And Tucker Carlson is live tonight from Las Vegas, baby. Take it away. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

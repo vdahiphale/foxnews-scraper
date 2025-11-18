@@ -1,0 +1,24 @@
+Headline: 'I am Neil Armstrong' by Brad Meltzer
+Sub-headline: Neil Armstrong's journey to the moon is the focus of the fifteenth picture book in the New York Times bestselling series of biographies about heroes.
+
+  close 
+     Video  Neil Armstrong book teaches humility to children 
+Astronaut's heroic traits that got him to the moon told in 'I am Neil Armstrong.' 
+From the publisher: Neil Armstrong's journey to the moon is the focus of the fifteenth picture book in the New York Times bestselling series of biographies about heroes.Buy the book I am Neil Armstrong 
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+This friendly, fun biography series focuses on the traits that made our heroes great--the traits that kids can aspire to in order to live heroically themselves. Each book tells the story of one of America's icons in a lively, conversational way that works well for the youngest nonfiction readers and that always includes the hero's childhood influences. At the back are an excellent timeline and photos. This volume tells the story of Neil Armstrong, the first person to walk on the moon.  

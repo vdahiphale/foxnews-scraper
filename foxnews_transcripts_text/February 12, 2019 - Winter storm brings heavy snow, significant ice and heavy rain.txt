@@ -1,0 +1,37 @@
+Headline: Winter storm brings heavy snow, significant ice and heavy rain
+Sub-headline: A messy weather pattern has set up across the Northern half of the country.
+
+ 
+A messy weather pattern has set up across the Northern half of the country.
+  
+   
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('tablet', 'lb2', 'tablet-tw-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+       
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Travel delays will be imminent from the Midwest into the Great lakes with a winter storm bringing heavy snow, significant ice and heavy rain with the risk of flash flooding from the Central Plains to the Mid Atlantic and into the Northeast.
+  
+  
+An ice storm warning is up for Chicago and Toledo. Ice will also present problems later on today for some of the big cities across the Northeast.
+   
+        if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('desktop', 'lb2', 'desktop-desk-ad-lb2', '');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+      
+Meanwhile, another busy week across the West with heavy rain along the coast and feet of snow over the mountains.  
