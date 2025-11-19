@@ -1,0 +1,2185 @@
+{
+  "date": "November 14, 2019",
+  "headline": "Former Microsoft CEO Steve Ballmer: We over-spend our tax revenue",
+  "subHeadline": "Guests: Matthew Whitaker, Andy Biggs, Steve Ballmer, Jens Stoltenberg",
+  "url": "https://www.foxnews.com/transcript/former-microsoft-ceo-steve-ballmer-we-over-spend-our-tax-revenue",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "NEIL CAVUTO, ANCHOR",
+      "sentences": "We are live right now in Santa Clarita, California. It's the scene of a school shooting today that has left at least two high school students dead. Three others are injured, one quite seriously. The shooter, we are told, is in grave condition.  As Bret said, we're also expecting a news conference by hospital officials on the conditions of those other victims. When that happens, of course, we will bring it to you live.  Welcome, everybody, busy news day. I'm Neil Cavuto.  FOX News correspondent Christina Coleman first near Saugus High School in Santa Clarita, California, with the very, very latest. What is the latest right now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRISTINA COLEMAN, CORRESPONDENT",
+      "sentences": "Well, Neil, the school is still blocked off, as lots of law enforcement are here investigating, trying to get down to the bottom of this. From what we know right now, at least six students, six students were found in the quad area of the school injured this morning shortly after 7:30, when the shooting was reported.  A 16-year-old female student and a 14-year-old male student have both died, according to authorities. Deputies say today was the suspect's 16th birthday and he is in grave condition.   An L.A. County sheriff's deputy says detectives reviewed video, and it clearly shows the suspect withdrew a handgun from his backpack and injured five people, and then shot himself in the head. Again, he is listed in grave condition. The suspect's mother and girlfriend are being questioned by authorities. Students are also being interviewed by law enforcement, possible witnesses there. Deputies say the suspect's weapon, a .45-caliber semiautomatic handgun, was found at the scene here at Saugus High School. The FBI and ATF are also investigating. An L.A. County deputies says there rumors the suspects may have posted -- the suspect may have posted threats on social media. So they're looking into that, doing a social media scrub of where he might have been online.   And L.A. County has sent staff to Saugus High School around this area to provide mental health resources to people here. Some of the students were crying as they were escorted out of the building this morning after the shooting that has rocked this very tight-knit community.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALEX VILLANUEVA, LOS ANGELES COUNTY SHERIFF",
+      "sentences": "I hate to have Saugus be added to the names of Columbine, Parkland, Sandy Hook. But it's a reality that affects us all throughout the nation, something we're going to have to deal with.  And as Captain Lewis said, we got to figure out, what are we doing wrong and how can we stop this from happening in the future?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We just seem so much more safe than a lot of schools. And for it to happen here, it just -- I can't even comprehend it. It doesn't make sense to me, how this could happen here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLEMAN",
+      "sentences": "So a lot of people being questioned and interviewed by law enforcement at the this point. Again, no indication of any motive for this terrible shooting, but, tonight, the Santa Clarita Activity Center will have grief counselors there to help people who might have been traumatized by this tragedy that happened this morning.  Those grief counselors will be there from 5:00 to 7:00 local time tonight - - Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Christina, thank you very much, Christina Coleman following all of that. Meanwhile, to the White House. You're looking live there. The president is set to depart for Louisiana moments from now. He's been, obviously, monitoring the school shooting developments in California.  John Roberts on that and much more from the White House.   Hey, John.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN ROBERTS, CHIEF WHITE HOUSE CORRESPONDENT",
+      "sentences": "And I don't think you can see it in the picture there, Neil, but the helicopter Marine One just landed on the South Lawn of the White House. The president will be departing soon for a campaign rally in Louisiana. He may stop at the cameras to talk for just a little bit, but with the tragedy there in Santa Clarita, he may not want to talk about anything else other than that.  Just a few minutes ago, the vice president, who is at the NASA Ames Research facility in Mountain View, California, offered his condolences and on behalf of the president to the victims and the families of the dead.  Listen to what the vice president said.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT",
+      "sentences": "But to every American and all of you gathered here, we say, this president and this administration will remain resolved to bring the scourge of mass shootings to an end. And we will not rest or relent until we end this evil in our time and make our schools and our communities safe again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "Now, because of the shooting, the White House is also holding back on responding to what Nancy Pelosi said this morning on the impeachment inquiry, when she compared it to the proceedings against Richard Nixon. Listen here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI, D-CALIF.",
+      "sentences": "By the way, what President Trump has done on the record, in terms of acting to advantage his -- a foreign power to help him in his own election and the obstruction of information about that the cover-up makes what Nixon did look almost small, almost small. But, again, an inquiry is an inquiry. And people come in and you hear what they have to say.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "So it's likely that we will -- we won't hear the president talk about that on his way out the door of the White House, but you can bet just outside of Shreveport, Louisiana, tonight, during the campaign rally for Eddie Rispone, who is in a run-off election against current Governor John Bel Edwards, the president probably will let loose. The current polls show that Rispone is running about two points behind Edwards, again, the run-off election Saturday. The president would like to take back Louisiana for the Republican Party. So you can bet he's going to have an energetic rally there tonight -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, thank you very much, John Roberts at the White House. The president, one day after meeting with Turkey's leader, sat down today with NATO Secretary-General Jens Stoltenberg.   The secretary-general is kind enough to join us right now.  General, very good to have you. Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JENS STOLTENBERG, NATO SECRETARY-GENERAL",
+      "sentences": "Thank you so much for having me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Turkey's President Erdogan is on the wires now saying he just felt a much more positive approach from Donald Trump, liked what he had in the visit, and finds it to be a constructive visit.   What did you think of it all?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "sentences": "Well, I think it is important that we stand together in NATO, despite differences. It's obvious that, when we are 29 allies from both sides of the Atlantic, we don't agree on all issues. There actually are some serious differences between allies on issues like trade, on climate change, and other issues.   But the strength of NATO is that, despite these differences, we have always been able to unite around our core task to defend and protect each other, based on NATO's main idea, one for all and all for one. And that's making Europe safer, but also the United States.  It's a great advantage for the United States to have so many friends and allies, as they have in NATO.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But do you trust President Erdogan, General? I only say that because of his interest in purchasing Russian arms and S-400s, and now wanting to add to that with F-35s from the United States.  A number of senators, including five who met with the president yesterday and President Erdogan in the same room, expressed alarm at that. Do you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "sentences": "Well, I have discussed this issue many times with President Erdogan. I also discussed it today with President Trump.  And I have also expressed my concerns about the consequences of the Turkish decision to acquire Russian air defense system the S-400.  But I also welcome the fact that the United States and Turkey are talking together to try to find a way to solve this issue. And we know that there are alternatives. We have the U.S. Patriot systems. I know that France and Italy, they have something called SAMP/T Air Defense System.  And they're also discussing with them. So, we are looking into ways to solve this issue, because this is a serious disagreement, which causes concern in several NATO capitals and, of course, also in Washington. So it's an example that we don't always agree in this alliance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, that's probably putting it mildly right, sir? I mean, I among the senators who met with the president and President Erdogan were Joni Ernst of Iowa, who described the entire meeting as kind of chilly. This is from Joni Ernst earlier today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So was it tense, Senator?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. JONI ERNST, R-IA",
+      "sentences": "I would say it was tense more than just a few times. Yes, it was tense.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "We got into some of the specifics, senator -- about buying from the Russians, buying from the United States, that that really doesn't seem to indicate much NATO loyalty. Can you trust President Erdogan, especially if he seems to be playing both sides of the field?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "sentences": "As I said, I have expressed my concerns, and I have done so also in Ankara. At the same time, we have to realize or recognize that Turkey is an important NATO ally. You can just look at the map. Turkey is bordering Iraq and Syria. Turkey has been extremely important in the fight against ISIS.   We have been able to liberate vast territories, millions of people living under the control of ISIS, a brutal terrorist organization. And this has been possible not least because of the use of infrastructure, bases in Turkey. So -- and Turkey also plays an important role, for instance, in Afghanistan. They are one of the lead nations there, with a significant presence in Afghanistan in a military operation which is a direct result of an attack on the United States 9/11, showing that NATO allies are standing together with United States also in Afghanistan. So, again, it's not easy. It is a serious issue. But we need to try to find a way to understand that, despite the disagreement on S-400 Russian air defense system, Turkey remains an important ally, and we have to try to keep Turkey in, because that's important for the whole NATO alliance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "General, I don't want you to divulge your conversations with the president of the United States, nor should you, in this venue.  But I'm wondering if the president agreed that Erdogan's behavior does at least bear watching, that, sometimes, he can't even be trusted?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "sentences": "Well, Turkey is a NATO member. And we work together in many different military operations, as I said, in Afghanistan, but also, for instance, in the fight against ISIS. And we have made enormous progress in the fight against ISIS. Turkey is also important in dealing with the migrant and refugee crisis in Europe. We have a NATO naval presence in the GNC, where we have Turkish ships, E.U. -- or European -- ships from E.U. countries. Germany is leading that. And it helps to implement the agreement between Turkey and the European Union controlling the -- or stopping the illegal migration across the Aegean Sea from Turkey into Europe.  So the fact is that we are working together with Turkey in many fields, in many areas, knowing that, on the issue of S-400, there is a serious disagreement.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Are you convinced that he is done doing what he's doing in Northern Syria, or there is the fear that he will simply return? He plays it pretty shrewdly. What do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "sentences": "The situation in Northern Syria is fragile and unpredictable. I welcome the fact that at least you have seen reduction in violence and that we also have seen clearly that there is strong support to the efforts of the global coalition, the U.S.-led global coalition, to uphold the gains we have made in the fight against ISIS. When -- that fight is not over. ISIS is still both in Syria and Iraq. And, also, that all NATO allies agree that we need to support the E.U. and efforts to find a political solution. The only long-term solution in Syria is a political agreement. And that's the reason why we support that so much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "General Stoltenberg, thank you very much for taking the time, sir. I appreciate it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "sentences": "Thank you so much for having me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right. Thank you, General. All right, in the meantime, both sides claiming victory in round one of these public impeachment hearings. How are Republicans preparing for round two? The House Freedom Caucus chair, Andy Biggs, on that and Nancy Pelosi saying this is worse than Watergate. I wonder what he thinks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI, D-CALIF., HOUSE SPEAKER",
+      "sentences": "Bribery. Bribery. And that is in the Constitution attached to the impeachment proceedings.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "QUESTION",
+      "sentences": "So, what was the bribe here?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PELOSI",
+      "sentences": "The bribe is to grant or withhold military assistance in return for a public statement of a fake investigation into the elections. That's bribery.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, and, to Nancy Pelosi, that means this whole situation with the president and Ukraine is worse than Watergate. House Freedom Caucus Chairman Andy Biggs disagrees with that, joins us now. Worse than Watergate, bribery, the whole nine yards. What do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. ANDY BIGGS, R-ARIZ.",
+      "sentences": "Well, I think that she's trying to defend the dud of a hearing that happened yesterday. I mean, I think we had a bit of a breach of promise yesterday. We were promised all kinds of fireworks and a great case. And whatever it is they think that they have got is so obtuse, that they can't actually describe it. In fact, their witnesses themselves couldn't describe what they thought might be impeachable conduct. So I think this is a bit of kind of playing defense right now on the part of the speaker.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Congressman, I'm wondering how you feel about, would the president have been interested in corruption in Ukraine if it weren't for the name Joe Biden? Would he have been just as eager to get to it if it were Joe Smith?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIGGS",
+      "sentences": "Yes, I think so. I mean, we're going to find out, and I believe that we know already, that he was asking about corruption, he was asking about what other countries in the region, like France, like Germany, were doing to help fund Ukraine's -- the Ukrainians, to see if we might get an alleviation of corruption.  In fact, if you get -- take anything out of Taylor and Kent's remarks yesterday is that they were trying to convince the president that Zelensky was the real deal in trying to fight corruption. So he definitely had a concern about corruption, which has been a longstanding U.S. policy going back to the NDAA Act of 2011, 2014, again in 2019.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So I guess it depends on what you hear and how you hear it. When William Taylor, the acting U.S. ambassador to Ukraine, George Kent, the deputy assistant secretary of state for European and Eurasian affairs, were questioned on this talked about directly or indirectly hearing of multiple calls on the part of the president to check up and follow on the status of that investigation, he was talking about the one of Biden. So that was what the take was there. Does that disturb you? Or does that say, wherever it leads, that's where you go, even though that could be a prospective opponent of the president's in the next election, and he's involving a sovereign government in the middle of it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIGGS",
+      "sentences": "Well, there's two or three things there, Neil. First of all, Taylor and Kent have no direct knowledge of anything, as was pointed out. And, thankfully, they both admitted that the only thing they can tell us is what they have heard from other people who have heard it from other people, and that maybe mistakes were made.  But what I took away...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, do you have information, Congressman, just to be clear, that there were not multiple calls or inquiries on the part of the president into this matter, whether it involved those men or others?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIGGS",
+      "sentences": "Well, what they testified to is that I think there were a couple of calls. But they don't know what happened on those calls. And they actually don't know who -- who made those calls. But one thing that they -- we do know is that there was an effort to stop corruption in the Ukraine, which both of them admitted is pervasive, longstanding, and it is the actual system of government there. And that's why we have a concern about corruption, especially since we're giving literally hundreds of millions of dollars every year to the Ukrainians.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Where do you think this goes? Democrats seem to be pushing toward impeachment in the House. The Senate, obviously, anyone's guess. Unlikely it goes further there. Is that your sense of things?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIGGS",
+      "sentences": "Well, there's a significant number of people in the House pushing for impeachment. But don't be surprised -- I mean, seriously, when I say this, Neil, I really believe this, that after watching the hearing yesterday, if you are in a contested district, and you're a Democrat, first or second term, that President Trump won in 2016, you might be saying to yourself, I will not be here much longer if I vote for impeachment, based on what I heard out of Taylor and Kent. We will see where it goes, of course.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIGGS",
+      "sentences": "But I'm just not sure that, right now, if they had the vote, that they would have enough votes to get an impeachment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "We will watch closely. Congressman, thank you very much for taking the time.  Up tomorrow will be Marie Yovanovitch, as you know, the former U.S. ambassador to Ukraine. And, by the way, the hearings are not over, not by a long shot, but this former attorney general says impeachment is. Why does Matthew Whitaker say that? After this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, everyone watching these hearings as they continue on Capitol Hill. And, tomorrow, they resume, as I mentioned before, with a cast of characters who's going to paint a picture, including from Marie Yovanovitch, the former ambassador to Ukraine, of a president who was hell- bent on getting some dirt on his likely opponent in the next election. Much has been made as well about revealing the whistle-blower who started all of these revelations here and whether that person should be outed and exposed to the world.  The former acting Attorney General Matthew Whitaker stepping way back on this and saying, there simply is no there there, and this impeachment, even in the House, is going nowhere. He joins us right now, the former acting general.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MATTHEW WHITAKER, FORMER ACTING ATTORNEY GENERAL",
+      "sentences": "Hi, Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Always good to have you. What is your sense of where this is going? Apparently, you think nowhere.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "I just -- so, I watched Nancy Pelosi's press conference today. And it really felt like she had not watched yesterday play out and didn't realize how actually week her case is. We're dealing -- the reason that hearsay evidence is not admissible in federal court or state court is because it's not reliable. And these witnesses heard from somebody who heard from somebody who overheard a phone call that may have been somebody. It was -- it was -- it was -- I really -- I was concerned that this is the evidence that they're going to attempt to impeach the president. And I really think that, when the House of Representatives -- as Congressman Biggs was pointing out, once the House of Representatives actually takes this up, they're going to realize that not only do the American people see through this attempt, but that they have wasted a lot of time and taxpayer money on something that ultimately is not going to be successful.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Our acting U.S. ambassador to the Ukraine, William Taylor, has been arguing that the president was drawing a connection between an investigation and this aid. And it prompted you to say not too long ago that, even if it were an abuse of power, which I think you distinguished wasn't the case here...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "... it wouldn't be a crime. Did I get that right? And could you explain that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "Yes, so, Neil, here's the point is -- is, in my experience, and in this case, they should -- if you're going to impeach the president, there should be some crime that has been pointed out. That's what the Constitution requires. I can get into a founding fathers debate with those on the left that will say, well...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But is abuse of power a crime, sir? That's what I'm trying -- I'm not a lawyer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "It is not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, I will defer to you. So, tell me, why is it not a crime?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "It's not -- it's not, which means it's not found in the federal code. And it's -- there's no elements with which you can line up the facts. And that's -- that's what we need here is, we have facts that are alleged, but there's -- what is -- what is the -- what is the crime, what is the elements that can be held up to those facts to see if the president actually did something wrong?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "I think abuse of power is...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, when you said -- you said, show us your evidence. What evidence of a crime do you have? You said later on: \"The Constitution, abuse of power not a crime. Let's fundamentally boil it down. The Constitution is very clear that this has to be some pretty egregious behavior.\" Do you find anything you have seen in the president's discussions or how follow-up discussions, we're told -- now, again, they can't be verified. You're quite right. We know of only the one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Where he was trying to establish a link?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "What I know is that the president has been reported to have said there is no quid pro quo, there is no this for that, there is no, you do something for the Biden -- on the Biden investigation, and we will release the aid, because what we know is, there was no investigation that was launched, Neil. And there was -- and they received the aid. They have received aid, lethal aid, in '17, '18 and '19, consistent with what Congress has authorized. And I -- again, I just -- I'm telling you, I know what Congress is trying to do here. They're trying to politically weaken the president. I'm worried about the precedent this is going to set for future administrations.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But if there were follow-up conversations, Matt, or -- again, and it's hard to verify what William Taylor or, that matter, George Kent said, and maybe we will get something out of Marie Yovanovitch tomorrow. I have no idea. That the president might have multiple times, with multiple people, checked back on this, and dangled, or potentially dangled, even delaying this aid until he had answers to those questions. You're saying, since the aid ultimately was delivered, and it turns out that the dirt or whatever you want to call it on the Bidens wasn't, then there's nothing there?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "Well, again, I have been a prosecutor. I have been the acting attorney general of the United States, and I have also been a defense lawyer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "And I -- again, I know the criminal code. And I don't see anything that would -- that would make this a high crime or misdemeanor, consistent with the Constitution. And if the Democrats want to impeach the president for anything, just -- just a fact pattern that they're finding here, they certainly, politically, can do that. I just -- I'm just telling you, as I sit here today, this is...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But egregious behavior -- egregious behavior or something that might not pass the smell test isn't necessarily a high crime or a misdemeanor in your eyes?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "I don't think so, because, again, egregious behavior, abuse of power, those are just baskets with which...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "... things can be placed in that is in the eye of the beholder. And that's never the system that we have developed here, Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, we will watch very closely. Matthew Whitaker, thank you for taking the time. I appreciate it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITAKER",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, Elizabeth Warren at it again. She's going after billionaires, but this particular billionaire is having none of it -- after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, we keep repeating it. If the markets are worried about what's happening on the impeachment front, and we're running ourselves into debt, they have a funny way of showing it, the S&P 500 up again today into record territory, the Dow and Nasdaq just missing. We're back in 60 seconds.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. ELIZABETH WARREN, D-MASS., PRESIDENTIAL CANDIDATE",
+      "sentences": "So here's the deal. You have built a great fortune, good for you. I guarantee you built in at least in part using workers all of us help pay to educate, getting your goods to market on roads and bridges all of us help pay to build.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WARREN",
+      "sentences": "We're Americans . We want to make these investments. All we're saying is, when you make it big, pitch in 2 cents, so everybody else gets a chance to make it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, the 2 cent thing is a bit of a misnomer, because if you are a billionaire, of course, that results into billions of extra dollars you're paying to Uncle Sam. Now, we have already been chronicling some of the big billionaires, like Mark Cuban and a host of others, who have been raising concerns about how far the government goes, whether you're Democrat or Republican. Steve Ballmer is here, the former CEO of Microsoft. He's founded a new project, USAFacts, where they try to get the numbers here. And it has no aspersion to Democrats or Republicans, just that our debt has run up, it's crazy, and none of these guys are doing anything about it. In his spare time, he runs the Clippers. So it's good to see you, my friend.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEVE BALLMER, USAFACTS FOUNDER",
+      "sentences": "Good to be here, Neil. Thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "First of all, just as a billionaire, do you take offense at anything Elizabeth Warren says?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "It's politics. So the answer is no. I mean, my job was to do the best we could with the company we built, Microsoft, and now to try to get back in the ways that it can, including starting USAFacts, so that people have the information about, what is the truth, how much money are people paying on taxes, what is the government doing with our money, so that when it comes time to evaluate policy positions by any politician, we can start with a good grounding in the numbers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And what drives you, it's not a right or left thing. It's that both sides are driving us into the debt grave here, right, and that whether you do it through tax cuts or spending, if you're exceeding what you're taking in, there is trouble. And that's what this is all about, right, spelling it out, or how would you...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "Well, I want to spell it out. There will be people who say it's OK to run a deficit. I will cop to two issues that you could -- that are not partisan. But, number one, as a businessperson, I think we have to balance our budget. I will just throw that out there. And number...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But you were there in the Microsoft investment phase, right? I mean, so you could say, well, we're investing and all, but we're not even doing that as a country, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "At Microsoft, we never lost -- we never lost money, Neil, not one year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "It's a concept. It's a concept.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "It's different than today's Silicon Valley.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And there's a strategy. There was a strategy, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "And then the second thing, my wife and I, in our philanthropy, care a lot about kids in the U.S. who are born with essentially no shot at the American dream. So you could say, on one side, and we think we need to raise more money to -- or cut more expenses to balance the budget. And on the other side, you could say we may need to raise a little bit, money, in order to invest more in kids who live in unfortunate circumstances.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, if Elizabeth Warren or some of these others come to you and say, all right, well, you have to kick in more so we can do a lot of this, you say?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "My attitude about this is, I have been very fortunate. If the will of the people is that I should pay more, I will pay more. I certainly know that there are things I believe in that might require more.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "How much more? Bill Gates said, I pay $10 billion. If I had to pay $20 billion -- he instantly doubled his taxes. I could consider $100 billion. That's another issue.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "I would prefer to frame it a little differently. I'd say, OK, how much tax do people pay today in various income brackets? How much does the top 1 percent -- how much the top 1 percent make? How much does the top 1 percent pay? We have government data on that. That, we do, Neil. We can take a look at that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, we know that 1 percent pay a lot of the taxes, but we also know, disproportionately -- and this is the rap that you get on the left -- that they're not giving nearly as much as they can and should, given how much they control the wealth. You say...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "Well, let me give you an example. We can look at the top point 0.1 percent. Again, we're just using data that comes out of IRS and census.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "I understand.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "The top 1 percent, on average -- sorry -- 0.1 percent, which is about 150,000 tax filers in the U.S., pays, on average, about 8.5 -- or makes about 8.5 million bucks a year and pays about $3.7 million in taxes. Now, obviously, there are people who make far more and pay far more.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "And that includes everything, state and local tax, federal, because if you're going to talk about taxes, let's talk about the whole enchilada.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "It talks about property tax, even corporate income tax. If you stop and think about it, who pays corporate income tax? The shareholders in the corporation. So you take all of that, and it's about $3.7 million on 8.5. Now, could you scale that up? Sure. Could you make 3.7 more than 8.5, because you want to tax wealth that people have? You could do that. But I think everybody needs to give a thoughtful view of what the truth is today, before deciding what the right thing is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But, with USAFacts, you just look at the numbers. And I said they are unsustainable numbers, right? I mean, we continue piling up what we're doing and committing to what we have without addressing entitlements, without addressing even discretionary spending, all types of spending. But we don't. And I'm wondering if it's a ticking time bomb, and the escape -- and you and I have gotten into this before -- is that, well, interest rates are very low, you shouldn't need to worry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "Well, I think we have a problem. I do believe in balancing our budget. We will have a deficit of about $1 trillion on a total tax base that's only about $4.5 trillion. If you stop -- or a little more than that, closer to $5 trillion now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right. Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "You stop and think about that, that's a huge amount of money. I don't like adjectives, but you just stop and think. About $5 trillion of tax revenue, and we overspend by about a trillion. How would we solve that problem? Let alone, I personally believe there may be some things that we need to invest in that we don't invest in today. Where are we going to get the money both to close that deficit and to invest?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, in the Clinton years, we had the Internet boom, right, the technology boom that just created these revenues that went a long way toward addressing deficits that turned into surpluses. Now, that boom turned to a bust, I understand. But short of then dramatically raising taxes on everyone or hacking spending for everything, how do you get a handle on this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "I think, if you take -- look at the numbers, what one could properly conclude is, if you take a look at it and you say, look, we really don't want to -- take the bottom 20 percent. Bottom 20 percent of people in America average $2,000 a year of income, and post transfers from the government, they're at about $21,000 -- $21,000 a year of income, plus transfers, minus taxes...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "They can't afford it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "You're not going to get it there. So you have to say, how much can you get in taxes? But if you cut transfers, if you cut Medicaid and those sorts of things, just think about the kind of impact you can have on somebody's life who only has $21,000 or $22,000 a year to live?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But both parties have to talk on this. But they don't do that. An election year like now, they vilify guys like you on the left. And on the right, they just say, the problem isn't there, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "No, this problem is real. It's here. And people are going to want to invest in new things. And we need to close the deficit. And we need to ground in an understanding of the numbers. We did an exercise recently for the Committee on a Responsible Federal Budget. I gave a presentation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "And we showed the numbers. Here's transfers, here's fixed costs in the government, and here's taxes. And then we did a what if it and said, here's a little calculator. We're going to put up on our Web site. How would you close the deficit? How much more taxes do you want out of this group of people? How much do you want to cut transfers to those people? What do you really believe? Do you want to cut the education budget in this country, not federal, but state and local also?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right. Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "What do you want to do? It's a little calculator. Now, what tax policy and spend time policy accomplishes that, economists can figure out. But people have to look at the numbers, see where we are today. And then they can draw their own judgments on what's -- quote -- \"fair\" -- unquote.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Do you have any horse in this presidential race?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "I am a nonpartisan in my work. Of course, I will vote and ultimately...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Do you take offense when billionaires are fingered, or they want to get rid of billionaires?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "I am offended when candidates of all types vilify anybody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "There you go.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BALLMER",
+      "sentences": "Vilification of other people is not valuable, whether it's done by D's or R's, whether it's done to the more affluent or the less affluent. If we're going to have a constructive dialogue grounded in the facts, we probably shouldn't engage in these crazy vilifications.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "It's not a bad idea. I get mad when they go after Italian American anchors. I think that's a bad move. It's a bad move.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Steve Ballmer, thank you very, very much. What he has done with this is just to put the numbers out there for everyone to see, and so you can get an idea, the money in and the money out thing. That's what it is. And there's a lot more money going out than is coming in. We got to fix that, or we're in a deep fix. More after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIANNO CALDWELL, POLITICAL ANALYST",
+      "sentences": "Do you mind if I ask you what you want to jail for?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes. Manufacture, delivery on crack cocaine.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Armed robbery, possession, delivery of controlled substance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That is succinct enough?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "If I help you get a job, you would get out of the life, you would no longer be involved in the gangs?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Mm-hmm.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "A hundred percent?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "I'm telling you, riveting stuff. Gianno Caldwell, he's got a new book out detailing some of those experiences that he raises on TV in \"Taken for Granted: How Conservatism Can Win Back the Americans That Liberalism Failed.\" Joins me right now. You were going right to the street?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And what were they telling you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Well, I felt from a lot of the members of the community in which I talked to -- some of them were gang members. A number of them just felt hopeless. They felt like there was no opportunities. And I talked about that in my book because I grew up in a way that was somewhat similar. I felt hopeless.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Very similar.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Absolutely.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Poverty, a lot of crime.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Absolutely. Mom -- grew up extremely poor, lights, gas and water off at the same time, mom addicted to crack cocaine. And I tell you, that hopelessness that I felt really was an engine to get me to where I am today. I got involved in politics because I thought I was legitimately saving my mother by way of doing it. So I wanted to understand how elected officials did what they do. And when I got involved, I noticed that the liberals that ran the city of Chicago often -- more often than not took for granted the residents that were there. It wasn't that these were people that they cared about. These black lives didn't matter to them. Black votes did. And that's where it became problematic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So how did you become a conservative?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "That's an interesting question. I had a conversation with an African-American gentleman on the street one day who was saying things that I had never heard before. All black folks were once Republicans. I'd never heard that before. I felt bamboozled. I went researched, and I found out that that was true. The party actually started in opposition to slavery. And then I begin to see the ideology. I'm a very Christian person. I come from a very religious background. My grandfather on my dad's side, small business owner (INAUDIBLE) construction. And after seeing the tenets of the party, I was immediately attracted. And then I had to go through this process of acquiescing to the idea that I am a conservative, but...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And that didn't win you a lot of friends.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "No, it didn't win...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "In fact, you lost a lot of dates that way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "When they find out who you were.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Listen -- and I talk about it in my book.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Even in your family.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "In my family. I talked about it in my book \"Taken For Granted\" how I had a number of individuals in my family that disowned me. They called me names, Uncle Tom.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Really?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Same thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "The Uncle Tom thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Uncle Tom. They said...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "What did you say? How did you fight back?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Well, they say -- I mean, what can I do? You get older members of your family. You just begin to ignore them and distance yourself. That's really what it was, because, at the end of the day, I felt that this was really me, and I have to stick with who I truly am. I am a conservative. I'm a proud conservative. We live in a country now that's doing better than it ever has. And even talking about President Trump -- I talk about President Trump in my book a great deal, in \"Taken for Granted.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "He's recommended your book, tweeted it out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "President Trump endorsed my book, Ann Coulter, Newt Gingrich, Ben Shapiro, Brian Kilmeade.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And he did that despite your critical comments of the president after his Charlottesville remarks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Absolutely.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But you said, in the end, it's his actions that speak louder than his words.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Let's be very clear. President Trump is the most impactful President Trump from a policy perspective for African-Americans in my lifetime. And he's a very impactful...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And he has delivered the goods, record low unemployment, opportunity.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "He's delivered. And to -- listen, we can go, record low unemployment. We can talk about opportunity zones. We can talk about the First Step Act. We're talking about thousands of people released from jail, 90 percent of them being black, funding for HBCUs. This president has been the most impactful president for African-Americans in my lifetime. But that's not just African-Americans. We can talk about the Appalachian region.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "No, no, all key groups.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "All key groups.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But does it make you bristle when a lot of people come back, oh, yes, but he's a racist?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "You know what? When I hear that -- and I know Democrats have been saying since 2016 nobody will ever vote for Trump. And then I saw the numbers in 2016. You had 8 percent of African-Americans voted for him overall, 12 percent of African- American men.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Remember, he famously said, what the hell have you got to lose?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "What do you have to gain? And we have the results. And, truthfully speaking, I think there's a lot folks, especially with the Kanye Wests of the world and all these other individuals, who are going to alert folks of what he's done that's going to turn an eye and say, hey.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But you still encounter people who don't harbor that view and don't like you lecturing them about conservative politics, being an African-American.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "Listen, I will be very clear. I was at a Hollywood party. And I went up to shake a famous actress' hand. And she said: \"I know who you are. You're that Republican from FOX News.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "And that was Tiffany Haddish. She didn't even want to shake my hand.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Really?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CALDWELL",
+      "sentences": "This happens -- this happens a great deal. But at the end of the day, I still have to fight for what I believe in. And I will continue to fight. And I detail those stories in my book, \"Taken For Granted.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You do. It is a great read. It lets you know just what he had to fight just being the person he is, and losing all of those dates in the process.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "We will have more after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, after that California high school shooting, the searching for answers. What happened? Why? Our Trace Gallagher has the latest now from Los Angeles. Hey, Trace.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRACE GALLAGHER, CORRESPONDENT",
+      "sentences": "Hi Neil. The L.A. County sheriff says the school shooter turned 16 today. And that surveillance video shows him walking into the quad at Saugus High School, pulling a .45-caliber handgun out of his backpack and opening fire, shooting five students, before turning the gun on himself. A 16-year-old girl and 14-year-old boy died in the shooting, and the shooter is in grave condition. Our FOX affiliate KTTV says the shooter is on the track team, that he runs the 800 and 1,600, and that he was always very quiet and somewhat antisocial. The Los Angeles Times is reporting that people in the shooter's neighborhood say he was a Boy Scout, comes from a great family and that his dad, who recently died of a heart attack was an avid hunter and had a large collection of guns. It's unclear where the handgun used in the shooting came from. Investigators say they are now in the process of scouring the shooter -- the shooter's social media footprint to see who he was texting, and that -- what posting there is to see who else may have been involved in this -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, thank you very much, Trace Gallagher. We will have more after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, Marie Yovanovitch. Tomorrow, the former U.S. ambassador to Ukraine, she will be questioned. And, remember, a lot of Republicans have said that her story doesn't add up, that she had a political agenda to grind against the president of the United States. That will no doubt be front and center tomorrow in the hearings. Also, very quickly, very quickly a lot of you are asking me about Steve Ballmer's USAFacts. It's a way to keep track of the money that Washington spends, the money in and money out. It is a site. It is an independent site that just follows the math. And it adds up to a lot of red. Here comes \"The Five.\" Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NEIL CAVUTO, ANCHOR",
+      "utterance": "We are live right now in Santa Clarita, California. It's the scene of a school shooting today that has left at least two high school students dead. Three others are injured, one quite seriously. The shooter, we are told, is in grave condition. As Bret said, we're also expecting a news conference by hospital officials on the conditions of those other victims. When that happens, of course, we will bring it to you live. Welcome, everybody, busy news day. I'm Neil Cavuto. FOX News correspondent Christina Coleman first near Saugus High School in Santa Clarita, California, with the very, very latest. What is the latest right now?"
+    },
+    {
+      "speaker": "CHRISTINA COLEMAN, CORRESPONDENT",
+      "utterance": "Well, Neil, the school is still blocked off, as lots of law enforcement are here investigating, trying to get down to the bottom of this. From what we know right now, at least six students, six students were found in the quad area of the school injured this morning shortly after 7:30, when the shooting was reported. A 16-year-old female student and a 14-year-old male student have both died, according to authorities. Deputies say today was the suspect's 16th birthday and he is in grave condition. An L.A. County sheriff's deputy says detectives reviewed video, and it clearly shows the suspect withdrew a handgun from his backpack and injured five people, and then shot himself in the head. Again, he is listed in grave condition. The suspect's mother and girlfriend are being questioned by authorities. Students are also being interviewed by law enforcement, possible witnesses there. Deputies say the suspect's weapon, a .45-caliber semiautomatic handgun, was found at the scene here at Saugus High School. The FBI and ATF are also investigating. An L.A. County deputies says there rumors the suspects may have posted -- the suspect may have posted threats on social media. So they're looking into that, doing a social media scrub of where he might have been online. And L.A. County has sent staff to Saugus High School around this area to provide mental health resources to people here. Some of the students were crying as they were escorted out of the building this morning after the shooting that has rocked this very tight-knit community."
+    },
+    {
+      "speaker": "ALEX VILLANUEVA, LOS ANGELES COUNTY SHERIFF",
+      "utterance": "I hate to have Saugus be added to the names of Columbine, Parkland, Sandy Hook. But it's a reality that affects us all throughout the nation, something we're going to have to deal with. And as Captain Lewis said, we got to figure out, what are we doing wrong and how can we stop this from happening in the future?"
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "We just seem so much more safe than a lot of schools. And for it to happen here, it just -- I can't even comprehend it. It doesn't make sense to me, how this could happen here."
+    },
+    {
+      "speaker": "COLEMAN",
+      "utterance": "So a lot of people being questioned and interviewed by law enforcement at the this point. Again, no indication of any motive for this terrible shooting, but, tonight, the Santa Clarita Activity Center will have grief counselors there to help people who might have been traumatized by this tragedy that happened this morning. Those grief counselors will be there from 5:00 to 7:00 local time tonight - - Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Christina, thank you very much, Christina Coleman following all of that. Meanwhile, to the White House. You're looking live there. The president is set to depart for Louisiana moments from now. He's been, obviously, monitoring the school shooting developments in California. John Roberts on that and much more from the White House. Hey, John."
+    },
+    {
+      "speaker": "JOHN ROBERTS, CHIEF WHITE HOUSE CORRESPONDENT",
+      "utterance": "And I don't think you can see it in the picture there, Neil, but the helicopter Marine One just landed on the South Lawn of the White House. The president will be departing soon for a campaign rally in Louisiana. He may stop at the cameras to talk for just a little bit, but with the tragedy there in Santa Clarita, he may not want to talk about anything else other than that. Just a few minutes ago, the vice president, who is at the NASA Ames Research facility in Mountain View, California, offered his condolences and on behalf of the president to the victims and the families of the dead. Listen to what the vice president said."
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT",
+      "utterance": "But to every American and all of you gathered here, we say, this president and this administration will remain resolved to bring the scourge of mass shootings to an end. And we will not rest or relent until we end this evil in our time and make our schools and our communities safe again."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "Now, because of the shooting, the White House is also holding back on responding to what Nancy Pelosi said this morning on the impeachment inquiry, when she compared it to the proceedings against Richard Nixon. Listen here."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI, D-CALIF.",
+      "utterance": "By the way, what President Trump has done on the record, in terms of acting to advantage his -- a foreign power to help him in his own election and the obstruction of information about that the cover-up makes what Nixon did look almost small, almost small. But, again, an inquiry is an inquiry. And people come in and you hear what they have to say."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "So it's likely that we will -- we won't hear the president talk about that on his way out the door of the White House, but you can bet just outside of Shreveport, Louisiana, tonight, during the campaign rally for Eddie Rispone, who is in a run-off election against current Governor John Bel Edwards, the president probably will let loose. The current polls show that Rispone is running about two points behind Edwards, again, the run-off election Saturday. The president would like to take back Louisiana for the Republican Party. So you can bet he's going to have an energetic rally there tonight -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, thank you very much, John Roberts at the White House. The president, one day after meeting with Turkey's leader, sat down today with NATO Secretary-General Jens Stoltenberg. The secretary-general is kind enough to join us right now. General, very good to have you. Thank you."
+    },
+    {
+      "speaker": "JENS STOLTENBERG, NATO SECRETARY-GENERAL",
+      "utterance": "Thank you so much for having me."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Turkey's President Erdogan is on the wires now saying he just felt a much more positive approach from Donald Trump, liked what he had in the visit, and finds it to be a constructive visit. What did you think of it all?"
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "utterance": "Well, I think it is important that we stand together in NATO, despite differences. It's obvious that, when we are 29 allies from both sides of the Atlantic, we don't agree on all issues. There actually are some serious differences between allies on issues like trade, on climate change, and other issues. But the strength of NATO is that, despite these differences, we have always been able to unite around our core task to defend and protect each other, based on NATO's main idea, one for all and all for one. And that's making Europe safer, but also the United States. It's a great advantage for the United States to have so many friends and allies, as they have in NATO."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But do you trust President Erdogan, General? I only say that because of his interest in purchasing Russian arms and S-400s, and now wanting to add to that with F-35s from the United States. A number of senators, including five who met with the president yesterday and President Erdogan in the same room, expressed alarm at that. Do you?"
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "utterance": "Well, I have discussed this issue many times with President Erdogan. I also discussed it today with President Trump. And I have also expressed my concerns about the consequences of the Turkish decision to acquire Russian air defense system the S-400. But I also welcome the fact that the United States and Turkey are talking together to try to find a way to solve this issue. And we know that there are alternatives. We have the U.S. Patriot systems. I know that France and Italy, they have something called SAMP/T Air Defense System. And they're also discussing with them. So, we are looking into ways to solve this issue, because this is a serious disagreement, which causes concern in several NATO capitals and, of course, also in Washington. So it's an example that we don't always agree in this alliance."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, that's probably putting it mildly right, sir? I mean, I among the senators who met with the president and President Erdogan were Joni Ernst of Iowa, who described the entire meeting as kind of chilly. This is from Joni Ernst earlier today."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So was it tense, Senator?"
+    },
+    {
+      "speaker": "SEN. JONI ERNST, R-IA",
+      "utterance": "I would say it was tense more than just a few times. Yes, it was tense."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "We got into some of the specifics, senator -- about buying from the Russians, buying from the United States, that that really doesn't seem to indicate much NATO loyalty. Can you trust President Erdogan, especially if he seems to be playing both sides of the field?"
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "utterance": "As I said, I have expressed my concerns, and I have done so also in Ankara. At the same time, we have to realize or recognize that Turkey is an important NATO ally. You can just look at the map. Turkey is bordering Iraq and Syria. Turkey has been extremely important in the fight against ISIS. We have been able to liberate vast territories, millions of people living under the control of ISIS, a brutal terrorist organization. And this has been possible not least because of the use of infrastructure, bases in Turkey. So -- and Turkey also plays an important role, for instance, in Afghanistan. They are one of the lead nations there, with a significant presence in Afghanistan in a military operation which is a direct result of an attack on the United States 9/11, showing that NATO allies are standing together with United States also in Afghanistan. So, again, it's not easy. It is a serious issue. But we need to try to find a way to understand that, despite the disagreement on S-400 Russian air defense system, Turkey remains an important ally, and we have to try to keep Turkey in, because that's important for the whole NATO alliance."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "General, I don't want you to divulge your conversations with the president of the United States, nor should you, in this venue. But I'm wondering if the president agreed that Erdogan's behavior does at least bear watching, that, sometimes, he can't even be trusted?"
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "utterance": "Well, Turkey is a NATO member. And we work together in many different military operations, as I said, in Afghanistan, but also, for instance, in the fight against ISIS. And we have made enormous progress in the fight against ISIS. Turkey is also important in dealing with the migrant and refugee crisis in Europe. We have a NATO naval presence in the GNC, where we have Turkish ships, E.U. -- or European -- ships from E.U. countries. Germany is leading that. And it helps to implement the agreement between Turkey and the European Union controlling the -- or stopping the illegal migration across the Aegean Sea from Turkey into Europe. So the fact is that we are working together with Turkey in many fields, in many areas, knowing that, on the issue of S-400, there is a serious disagreement."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Are you convinced that he is done doing what he's doing in Northern Syria, or there is the fear that he will simply return? He plays it pretty shrewdly. What do you think?"
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "utterance": "The situation in Northern Syria is fragile and unpredictable. I welcome the fact that at least you have seen reduction in violence and that we also have seen clearly that there is strong support to the efforts of the global coalition, the U.S.-led global coalition, to uphold the gains we have made in the fight against ISIS. When -- that fight is not over. ISIS is still both in Syria and Iraq. And, also, that all NATO allies agree that we need to support the E.U. and efforts to find a political solution. The only long-term solution in Syria is a political agreement. And that's the reason why we support that so much."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "General Stoltenberg, thank you very much for taking the time, sir. I appreciate it."
+    },
+    {
+      "speaker": "STOLTENBERG",
+      "utterance": "Thank you so much for having me."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right. Thank you, General. All right, in the meantime, both sides claiming victory in round one of these public impeachment hearings. How are Republicans preparing for round two? The House Freedom Caucus chair, Andy Biggs, on that and Nancy Pelosi saying this is worse than Watergate. I wonder what he thinks."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI, D-CALIF., HOUSE SPEAKER",
+      "utterance": "Bribery. Bribery. And that is in the Constitution attached to the impeachment proceedings."
+    },
+    {
+      "speaker": "QUESTION",
+      "utterance": "So, what was the bribe here?"
+    },
+    {
+      "speaker": "PELOSI",
+      "utterance": "The bribe is to grant or withhold military assistance in return for a public statement of a fake investigation into the elections. That's bribery."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, and, to Nancy Pelosi, that means this whole situation with the president and Ukraine is worse than Watergate. House Freedom Caucus Chairman Andy Biggs disagrees with that, joins us now. Worse than Watergate, bribery, the whole nine yards. What do you think?"
+    },
+    {
+      "speaker": "REP. ANDY BIGGS, R-ARIZ.",
+      "utterance": "Well, I think that she's trying to defend the dud of a hearing that happened yesterday. I mean, I think we had a bit of a breach of promise yesterday. We were promised all kinds of fireworks and a great case. And whatever it is they think that they have got is so obtuse, that they can't actually describe it. In fact, their witnesses themselves couldn't describe what they thought might be impeachable conduct. So I think this is a bit of kind of playing defense right now on the part of the speaker."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Congressman, I'm wondering how you feel about, would the president have been interested in corruption in Ukraine if it weren't for the name Joe Biden? Would he have been just as eager to get to it if it were Joe Smith?"
+    },
+    {
+      "speaker": "BIGGS",
+      "utterance": "Yes, I think so. I mean, we're going to find out, and I believe that we know already, that he was asking about corruption, he was asking about what other countries in the region, like France, like Germany, were doing to help fund Ukraine's -- the Ukrainians, to see if we might get an alleviation of corruption. In fact, if you get -- take anything out of Taylor and Kent's remarks yesterday is that they were trying to convince the president that Zelensky was the real deal in trying to fight corruption. So he definitely had a concern about corruption, which has been a longstanding U.S. policy going back to the NDAA Act of 2011, 2014, again in 2019."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So I guess it depends on what you hear and how you hear it. When William Taylor, the acting U.S. ambassador to Ukraine, George Kent, the deputy assistant secretary of state for European and Eurasian affairs, were questioned on this talked about directly or indirectly hearing of multiple calls on the part of the president to check up and follow on the status of that investigation, he was talking about the one of Biden. So that was what the take was there. Does that disturb you? Or does that say, wherever it leads, that's where you go, even though that could be a prospective opponent of the president's in the next election, and he's involving a sovereign government in the middle of it?"
+    },
+    {
+      "speaker": "BIGGS",
+      "utterance": "Well, there's two or three things there, Neil. First of all, Taylor and Kent have no direct knowledge of anything, as was pointed out. And, thankfully, they both admitted that the only thing they can tell us is what they have heard from other people who have heard it from other people, and that maybe mistakes were made. But what I took away..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, do you have information, Congressman, just to be clear, that there were not multiple calls or inquiries on the part of the president into this matter, whether it involved those men or others?"
+    },
+    {
+      "speaker": "BIGGS",
+      "utterance": "Well, what they testified to is that I think there were a couple of calls. But they don't know what happened on those calls. And they actually don't know who -- who made those calls. But one thing that they -- we do know is that there was an effort to stop corruption in the Ukraine, which both of them admitted is pervasive, longstanding, and it is the actual system of government there. And that's why we have a concern about corruption, especially since we're giving literally hundreds of millions of dollars every year to the Ukrainians."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Where do you think this goes? Democrats seem to be pushing toward impeachment in the House. The Senate, obviously, anyone's guess. Unlikely it goes further there. Is that your sense of things?"
+    },
+    {
+      "speaker": "BIGGS",
+      "utterance": "Well, there's a significant number of people in the House pushing for impeachment. But don't be surprised -- I mean, seriously, when I say this, Neil, I really believe this, that after watching the hearing yesterday, if you are in a contested district, and you're a Democrat, first or second term, that President Trump won in 2016, you might be saying to yourself, I will not be here much longer if I vote for impeachment, based on what I heard out of Taylor and Kent. We will see where it goes, of course."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "BIGGS",
+      "utterance": "But I'm just not sure that, right now, if they had the vote, that they would have enough votes to get an impeachment."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "We will watch closely. Congressman, thank you very much for taking the time. Up tomorrow will be Marie Yovanovitch, as you know, the former U.S. ambassador to Ukraine. And, by the way, the hearings are not over, not by a long shot, but this former attorney general says impeachment is. Why does Matthew Whitaker say that? After this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, everyone watching these hearings as they continue on Capitol Hill. And, tomorrow, they resume, as I mentioned before, with a cast of characters who's going to paint a picture, including from Marie Yovanovitch, the former ambassador to Ukraine, of a president who was hell- bent on getting some dirt on his likely opponent in the next election. Much has been made as well about revealing the whistle-blower who started all of these revelations here and whether that person should be outed and exposed to the world. The former acting Attorney General Matthew Whitaker stepping way back on this and saying, there simply is no there there, and this impeachment, even in the House, is going nowhere. He joins us right now, the former acting general."
+    },
+    {
+      "speaker": "MATTHEW WHITAKER, FORMER ACTING ATTORNEY GENERAL",
+      "utterance": "Hi, Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Always good to have you. What is your sense of where this is going? Apparently, you think nowhere."
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "I just -- so, I watched Nancy Pelosi's press conference today. And it really felt like she had not watched yesterday play out and didn't realize how actually week her case is. We're dealing -- the reason that hearsay evidence is not admissible in federal court or state court is because it's not reliable. And these witnesses heard from somebody who heard from somebody who overheard a phone call that may have been somebody. It was -- it was -- it was -- I really -- I was concerned that this is the evidence that they're going to attempt to impeach the president. And I really think that, when the House of Representatives -- as Congressman Biggs was pointing out, once the House of Representatives actually takes this up, they're going to realize that not only do the American people see through this attempt, but that they have wasted a lot of time and taxpayer money on something that ultimately is not going to be successful."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Our acting U.S. ambassador to the Ukraine, William Taylor, has been arguing that the president was drawing a connection between an investigation and this aid. And it prompted you to say not too long ago that, even if it were an abuse of power, which I think you distinguished wasn't the case here..."
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "... it wouldn't be a crime. Did I get that right? And could you explain that?"
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "Yes, so, Neil, here's the point is -- is, in my experience, and in this case, they should -- if you're going to impeach the president, there should be some crime that has been pointed out. That's what the Constitution requires. I can get into a founding fathers debate with those on the left that will say, well..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But is abuse of power a crime, sir? That's what I'm trying -- I'm not a lawyer."
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "It is not."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, I will defer to you. So, tell me, why is it not a crime?"
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "It's not -- it's not, which means it's not found in the federal code. And it's -- there's no elements with which you can line up the facts. And that's -- that's what we need here is, we have facts that are alleged, but there's -- what is -- what is the -- what is the crime, what is the elements that can be held up to those facts to see if the president actually did something wrong?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right."
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "I think abuse of power is..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, when you said -- you said, show us your evidence. What evidence of a crime do you have? You said later on: \"The Constitution, abuse of power not a crime. Let's fundamentally boil it down. The Constitution is very clear that this has to be some pretty egregious behavior.\" Do you find anything you have seen in the president's discussions or how follow-up discussions, we're told -- now, again, they can't be verified. You're quite right. We know of only the one."
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Where he was trying to establish a link?"
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "What I know is that the president has been reported to have said there is no quid pro quo, there is no this for that, there is no, you do something for the Biden -- on the Biden investigation, and we will release the aid, because what we know is, there was no investigation that was launched, Neil. And there was -- and they received the aid. They have received aid, lethal aid, in '17, '18 and '19, consistent with what Congress has authorized. And I -- again, I just -- I'm telling you, I know what Congress is trying to do here. They're trying to politically weaken the president. I'm worried about the precedent this is going to set for future administrations."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But if there were follow-up conversations, Matt, or -- again, and it's hard to verify what William Taylor or, that matter, George Kent said, and maybe we will get something out of Marie Yovanovitch tomorrow. I have no idea. That the president might have multiple times, with multiple people, checked back on this, and dangled, or potentially dangled, even delaying this aid until he had answers to those questions. You're saying, since the aid ultimately was delivered, and it turns out that the dirt or whatever you want to call it on the Bidens wasn't, then there's nothing there?"
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "Well, again, I have been a prosecutor. I have been the acting attorney general of the United States, and I have also been a defense lawyer."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "And I -- again, I know the criminal code. And I don't see anything that would -- that would make this a high crime or misdemeanor, consistent with the Constitution. And if the Democrats want to impeach the president for anything, just -- just a fact pattern that they're finding here, they certainly, politically, can do that. I just -- I'm just telling you, as I sit here today, this is..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But egregious behavior -- egregious behavior or something that might not pass the smell test isn't necessarily a high crime or a misdemeanor in your eyes?"
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "I don't think so, because, again, egregious behavior, abuse of power, those are just baskets with which..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right."
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "... things can be placed in that is in the eye of the beholder. And that's never the system that we have developed here, Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, we will watch very closely. Matthew Whitaker, thank you for taking the time. I appreciate it."
+    },
+    {
+      "speaker": "WHITAKER",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, Elizabeth Warren at it again. She's going after billionaires, but this particular billionaire is having none of it -- after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, we keep repeating it. If the markets are worried about what's happening on the impeachment front, and we're running ourselves into debt, they have a funny way of showing it, the S&P 500 up again today into record territory, the Dow and Nasdaq just missing. We're back in 60 seconds."
+    },
+    {
+      "speaker": "SEN. ELIZABETH WARREN, D-MASS., PRESIDENTIAL CANDIDATE",
+      "utterance": "So here's the deal. You have built a great fortune, good for you. I guarantee you built in at least in part using workers all of us help pay to educate, getting your goods to market on roads and bridges all of us help pay to build."
+    },
+    {
+      "speaker": "WARREN",
+      "utterance": "We're Americans . We want to make these investments. All we're saying is, when you make it big, pitch in 2 cents, so everybody else gets a chance to make it."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, the 2 cent thing is a bit of a misnomer, because if you are a billionaire, of course, that results into billions of extra dollars you're paying to Uncle Sam. Now, we have already been chronicling some of the big billionaires, like Mark Cuban and a host of others, who have been raising concerns about how far the government goes, whether you're Democrat or Republican. Steve Ballmer is here, the former CEO of Microsoft. He's founded a new project, USAFacts, where they try to get the numbers here. And it has no aspersion to Democrats or Republicans, just that our debt has run up, it's crazy, and none of these guys are doing anything about it. In his spare time, he runs the Clippers. So it's good to see you, my friend."
+    },
+    {
+      "speaker": "STEVE BALLMER, USAFACTS FOUNDER",
+      "utterance": "Good to be here, Neil. Thanks."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "First of all, just as a billionaire, do you take offense at anything Elizabeth Warren says?"
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "It's politics. So the answer is no. I mean, my job was to do the best we could with the company we built, Microsoft, and now to try to get back in the ways that it can, including starting USAFacts, so that people have the information about, what is the truth, how much money are people paying on taxes, what is the government doing with our money, so that when it comes time to evaluate policy positions by any politician, we can start with a good grounding in the numbers."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And what drives you, it's not a right or left thing. It's that both sides are driving us into the debt grave here, right, and that whether you do it through tax cuts or spending, if you're exceeding what you're taking in, there is trouble. And that's what this is all about, right, spelling it out, or how would you..."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "Well, I want to spell it out. There will be people who say it's OK to run a deficit. I will cop to two issues that you could -- that are not partisan. But, number one, as a businessperson, I think we have to balance our budget. I will just throw that out there. And number..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But you were there in the Microsoft investment phase, right? I mean, so you could say, well, we're investing and all, but we're not even doing that as a country, right?"
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "At Microsoft, we never lost -- we never lost money, Neil, not one year."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "It's a concept. It's a concept."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "It's different than today's Silicon Valley."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And there's a strategy. There was a strategy, right?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "And then the second thing, my wife and I, in our philanthropy, care a lot about kids in the U.S. who are born with essentially no shot at the American dream. So you could say, on one side, and we think we need to raise more money to -- or cut more expenses to balance the budget. And on the other side, you could say we may need to raise a little bit, money, in order to invest more in kids who live in unfortunate circumstances."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, if Elizabeth Warren or some of these others come to you and say, all right, well, you have to kick in more so we can do a lot of this, you say?"
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "My attitude about this is, I have been very fortunate. If the will of the people is that I should pay more, I will pay more. I certainly know that there are things I believe in that might require more."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "How much more? Bill Gates said, I pay $10 billion. If I had to pay $20 billion -- he instantly doubled his taxes. I could consider $100 billion. That's another issue."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "I would prefer to frame it a little differently. I'd say, OK, how much tax do people pay today in various income brackets? How much does the top 1 percent -- how much the top 1 percent make? How much does the top 1 percent pay? We have government data on that. That, we do, Neil. We can take a look at that."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, we know that 1 percent pay a lot of the taxes, but we also know, disproportionately -- and this is the rap that you get on the left -- that they're not giving nearly as much as they can and should, given how much they control the wealth. You say..."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "Well, let me give you an example. We can look at the top point 0.1 percent. Again, we're just using data that comes out of IRS and census."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "I understand."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "The top 1 percent, on average -- sorry -- 0.1 percent, which is about 150,000 tax filers in the U.S., pays, on average, about 8.5 -- or makes about 8.5 million bucks a year and pays about $3.7 million in taxes. Now, obviously, there are people who make far more and pay far more."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "And that includes everything, state and local tax, federal, because if you're going to talk about taxes, let's talk about the whole enchilada."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "It talks about property tax, even corporate income tax. If you stop and think about it, who pays corporate income tax? The shareholders in the corporation. So you take all of that, and it's about $3.7 million on 8.5. Now, could you scale that up? Sure. Could you make 3.7 more than 8.5, because you want to tax wealth that people have? You could do that. But I think everybody needs to give a thoughtful view of what the truth is today, before deciding what the right thing is."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But, with USAFacts, you just look at the numbers. And I said they are unsustainable numbers, right? I mean, we continue piling up what we're doing and committing to what we have without addressing entitlements, without addressing even discretionary spending, all types of spending. But we don't. And I'm wondering if it's a ticking time bomb, and the escape -- and you and I have gotten into this before -- is that, well, interest rates are very low, you shouldn't need to worry."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "Well, I think we have a problem. I do believe in balancing our budget. We will have a deficit of about $1 trillion on a total tax base that's only about $4.5 trillion. If you stop -- or a little more than that, closer to $5 trillion now."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right. Right."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "You stop and think about that, that's a huge amount of money. I don't like adjectives, but you just stop and think. About $5 trillion of tax revenue, and we overspend by about a trillion. How would we solve that problem? Let alone, I personally believe there may be some things that we need to invest in that we don't invest in today. Where are we going to get the money both to close that deficit and to invest?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, in the Clinton years, we had the Internet boom, right, the technology boom that just created these revenues that went a long way toward addressing deficits that turned into surpluses. Now, that boom turned to a bust, I understand. But short of then dramatically raising taxes on everyone or hacking spending for everything, how do you get a handle on this?"
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "I think, if you take -- look at the numbers, what one could properly conclude is, if you take a look at it and you say, look, we really don't want to -- take the bottom 20 percent. Bottom 20 percent of people in America average $2,000 a year of income, and post transfers from the government, they're at about $21,000 -- $21,000 a year of income, plus transfers, minus taxes..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "They can't afford it."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "You're not going to get it there. So you have to say, how much can you get in taxes? But if you cut transfers, if you cut Medicaid and those sorts of things, just think about the kind of impact you can have on somebody's life who only has $21,000 or $22,000 a year to live?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But both parties have to talk on this. But they don't do that. An election year like now, they vilify guys like you on the left. And on the right, they just say, the problem isn't there, right?"
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "No, this problem is real. It's here. And people are going to want to invest in new things. And we need to close the deficit. And we need to ground in an understanding of the numbers. We did an exercise recently for the Committee on a Responsible Federal Budget. I gave a presentation."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "And we showed the numbers. Here's transfers, here's fixed costs in the government, and here's taxes. And then we did a what if it and said, here's a little calculator. We're going to put up on our Web site. How would you close the deficit? How much more taxes do you want out of this group of people? How much do you want to cut transfers to those people? What do you really believe? Do you want to cut the education budget in this country, not federal, but state and local also?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right. Right."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "What do you want to do? It's a little calculator. Now, what tax policy and spend time policy accomplishes that, economists can figure out. But people have to look at the numbers, see where we are today. And then they can draw their own judgments on what's -- quote -- \"fair\" -- unquote."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Do you have any horse in this presidential race?"
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "I am a nonpartisan in my work. Of course, I will vote and ultimately..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Do you take offense when billionaires are fingered, or they want to get rid of billionaires?"
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "I am offended when candidates of all types vilify anybody."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "There you go."
+    },
+    {
+      "speaker": "BALLMER",
+      "utterance": "Vilification of other people is not valuable, whether it's done by D's or R's, whether it's done to the more affluent or the less affluent. If we're going to have a constructive dialogue grounded in the facts, we probably shouldn't engage in these crazy vilifications."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "It's not a bad idea. I get mad when they go after Italian American anchors. I think that's a bad move. It's a bad move."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Steve Ballmer, thank you very, very much. What he has done with this is just to put the numbers out there for everyone to see, and so you can get an idea, the money in and the money out thing. That's what it is. And there's a lot more money going out than is coming in. We got to fix that, or we're in a deep fix. More after this."
+    },
+    {
+      "speaker": "GIANNO CALDWELL, POLITICAL ANALYST",
+      "utterance": "Do you mind if I ask you what you want to jail for?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Yes. Manufacture, delivery on crack cocaine."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Armed robbery, possession, delivery of controlled substance."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "That is succinct enough?"
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "If I help you get a job, you would get out of the life, you would no longer be involved in the gangs?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Mm-hmm."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "A hundred percent?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "I'm telling you, riveting stuff. Gianno Caldwell, he's got a new book out detailing some of those experiences that he raises on TV in \"Taken for Granted: How Conservatism Can Win Back the Americans That Liberalism Failed.\" Joins me right now. You were going right to the street?"
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And what were they telling you?"
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Well, I felt from a lot of the members of the community in which I talked to -- some of them were gang members. A number of them just felt hopeless. They felt like there was no opportunities. And I talked about that in my book because I grew up in a way that was somewhat similar. I felt hopeless."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Very similar."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Absolutely."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Poverty, a lot of crime."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Absolutely. Mom -- grew up extremely poor, lights, gas and water off at the same time, mom addicted to crack cocaine. And I tell you, that hopelessness that I felt really was an engine to get me to where I am today. I got involved in politics because I thought I was legitimately saving my mother by way of doing it. So I wanted to understand how elected officials did what they do. And when I got involved, I noticed that the liberals that ran the city of Chicago often -- more often than not took for granted the residents that were there. It wasn't that these were people that they cared about. These black lives didn't matter to them. Black votes did. And that's where it became problematic."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So how did you become a conservative?"
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "That's an interesting question. I had a conversation with an African-American gentleman on the street one day who was saying things that I had never heard before. All black folks were once Republicans. I'd never heard that before. I felt bamboozled. I went researched, and I found out that that was true. The party actually started in opposition to slavery. And then I begin to see the ideology. I'm a very Christian person. I come from a very religious background. My grandfather on my dad's side, small business owner (INAUDIBLE) construction. And after seeing the tenets of the party, I was immediately attracted. And then I had to go through this process of acquiescing to the idea that I am a conservative, but..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And that didn't win you a lot of friends."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "No, it didn't win..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "In fact, you lost a lot of dates that way."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "When they find out who you were."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Listen -- and I talk about it in my book."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Even in your family."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "In my family. I talked about it in my book \"Taken For Granted\" how I had a number of individuals in my family that disowned me. They called me names, Uncle Tom."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Really?"
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Same thing."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "The Uncle Tom thing."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Uncle Tom. They said..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "What did you say? How did you fight back?"
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Well, they say -- I mean, what can I do? You get older members of your family. You just begin to ignore them and distance yourself. That's really what it was, because, at the end of the day, I felt that this was really me, and I have to stick with who I truly am. I am a conservative. I'm a proud conservative. We live in a country now that's doing better than it ever has. And even talking about President Trump -- I talk about President Trump in my book a great deal, in \"Taken for Granted.\""
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "He's recommended your book, tweeted it out."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "President Trump endorsed my book, Ann Coulter, Newt Gingrich, Ben Shapiro, Brian Kilmeade."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And he did that despite your critical comments of the president after his Charlottesville remarks."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Absolutely."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But you said, in the end, it's his actions that speak louder than his words."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Let's be very clear. President Trump is the most impactful President Trump from a policy perspective for African-Americans in my lifetime. And he's a very impactful..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And he has delivered the goods, record low unemployment, opportunity."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "He's delivered. And to -- listen, we can go, record low unemployment. We can talk about opportunity zones. We can talk about the First Step Act. We're talking about thousands of people released from jail, 90 percent of them being black, funding for HBCUs. This president has been the most impactful president for African-Americans in my lifetime. But that's not just African-Americans. We can talk about the Appalachian region."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "No, no, all key groups."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "All key groups."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But does it make you bristle when a lot of people come back, oh, yes, but he's a racist?"
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "You know what? When I hear that -- and I know Democrats have been saying since 2016 nobody will ever vote for Trump. And then I saw the numbers in 2016. You had 8 percent of African-Americans voted for him overall, 12 percent of African- American men."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Remember, he famously said, what the hell have you got to lose?"
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "What do you have to gain? And we have the results. And, truthfully speaking, I think there's a lot folks, especially with the Kanye Wests of the world and all these other individuals, who are going to alert folks of what he's done that's going to turn an eye and say, hey."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But you still encounter people who don't harbor that view and don't like you lecturing them about conservative politics, being an African-American."
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "Listen, I will be very clear."
+    },
+    {
+      "speaker": "I was at a Hollywood party. And I went up to shake a famous actress' hand. And she said",
+      "utterance": "\"I know who you are. You're that Republican from FOX News.\""
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "And that was Tiffany Haddish. She didn't even want to shake my hand."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Really?"
+    },
+    {
+      "speaker": "CALDWELL",
+      "utterance": "This happens -- this happens a great deal. But at the end of the day, I still have to fight for what I believe in. And I will continue to fight. And I detail those stories in my book, \"Taken For Granted.\""
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You do. It is a great read. It lets you know just what he had to fight just being the person he is, and losing all of those dates in the process."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "We will have more after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, after that California high school shooting, the searching for answers. What happened? Why? Our Trace Gallagher has the latest now from Los Angeles. Hey, Trace."
+    },
+    {
+      "speaker": "TRACE GALLAGHER, CORRESPONDENT",
+      "utterance": "Hi Neil. The L.A. County sheriff says the school shooter turned 16 today. And that surveillance video shows him walking into the quad at Saugus High School, pulling a .45-caliber handgun out of his backpack and opening fire, shooting five students, before turning the gun on himself. A 16-year-old girl and 14-year-old boy died in the shooting, and the shooter is in grave condition. Our FOX affiliate KTTV says the shooter is on the track team, that he runs the 800 and 1,600, and that he was always very quiet and somewhat antisocial. The Los Angeles Times is reporting that people in the shooter's neighborhood say he was a Boy Scout, comes from a great family and that his dad, who recently died of a heart attack was an avid hunter and had a large collection of guns. It's unclear where the handgun used in the shooting came from. Investigators say they are now in the process of scouring the shooter -- the shooter's social media footprint to see who he was texting, and that -- what posting there is to see who else may have been involved in this -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, thank you very much, Trace Gallagher. We will have more after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, Marie Yovanovitch. Tomorrow, the former U.S. ambassador to Ukraine, she will be questioned. And, remember, a lot of Republicans have said that her story doesn't add up, that she had a political agenda to grind against the president of the United States. That will no doubt be front and center tomorrow in the hearings. Also, very quickly, very quickly a lot of you are asking me about Steve Ballmer's USAFacts. It's a way to keep track of the money that Washington spends, the money in and money out. It is a site. It is an independent site that just follows the math. And it adds up to a lot of red. Here comes \"The Five.\" Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

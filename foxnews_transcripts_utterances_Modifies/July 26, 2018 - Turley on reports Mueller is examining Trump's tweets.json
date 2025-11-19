@@ -1,0 +1,2281 @@
+{
+  "date": "July 26, 2018",
+  "headline": "Turley on reports Mueller is examining Trump's tweets",
+  "subHeadline": "Special counsel Robert Mueller is reportedly examining Trump's tweets about Sessions and Comey; constitutional law attorney Jonathan Turley weighs in on 'The Story.'",
+  "url": "https://www.foxnews.com/transcript/turley-on-reports-mueller-is-examining-trumps-tweets",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS CHIEF CONGRESSIONAL CORRESPONDENT",
+      "sentences": "I love a good pair of crazy socks, and you can see some of the former president's fun socks there. Superman and some other fun stuff. That's it for this edition of SPECIAL REPORT. I'm Mike Emanuel in Washington. \"The Story\" with guest host Sandra Smith starts right now. Hi, Sandra.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDRA SMITH, FOX NEWS HOST",
+      "sentences": "Thank you, Mike. Hey, Mike. Breaking news tonight, the White House flexing its muscles on the world stage fighting for the freedom of a man of faith.  Threatening sanctions to Turkey and President Erdogan, over the detainment of Pastor Andrew Brunson, an American who's been held for nearly two years now. Vice President Pence delivering this ultimatum earlier today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT OF THE UNITED STATES",
+      "sentences": "The President Erdogan, and the Turkish government, I have a message on behalf of the President of the United States of America. Release Pastor Andrew Brunson now or be prepared to face the consequences. If Turkey does not take immediate action to free this innocent man of faith and send him home to America, the United States will impose significant sanctions on Turkey until Pastor Andrew Brunson is free.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, good evening everybody. I'm Sandra Smith, in for Martha MacCallum, who's on assignment tonight. Following those remarks and a tweet from President Trump in the same vein. Turkey fired back.  Their Minister of Foreign Affairs, tweeting this, \"No one dictates Turkey. We will never tolerate threats from anybody. Rule of law is for everyone. No exception.\"   So, who is this pastor that's prompted such a forceful stand of support from the Trump administration? Trace Gallagher live in our West Coast newsroom with the backstory, Trace?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS CORRESPONDENT",
+      "sentences": "Hey, Sandra. After the failed coup against President Erdogan in 2016, the Turkish government began cracking down on military members, journalists, academics, and Christian minorities. Pastor Andrew Brunson, originally from North Carolina but who lived in Turkey for two decades was arrested and jailed. He was held without charges for more than a year until finally being accused of dividing and separating Turkey by spreading his Christian faith.   Those who visited the pastor in prison, say he lost significant weight and was under extreme stress. In April, a group of bipartisan Senators signed a letter expressing concern about the situation. And this week, the Senate Foreign Relations Committee passed legislation that would impose unnamed financial penalties against Turkey until Brunson is freed. That action apparently is resonating because Pastor Brunson is now out of jail and under house arrest. He's wearing an electronic monitoring device. Here is Vice President Pence. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENCE",
+      "sentences": "Yesterday, Turkey released Pastor Brunson from prison only to place him under house arrest. This is a welcome first step but it is not good enough.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "Secretary of State Mike Pompeo, echoed that quoting now. \"We welcome long overdue news that Pastor Brunson has been moved from prison to house arrest in Turkey, but it is not enough. We have seen no credible evidence against Mr. Brunson and call on Turkish authorities to resolve his case immediately in a transparent and fair manner. And while Turkey is now pushing back against the threat of sanctions, analysts say more than 16 months of constant pressure from President Trump and his administration is what kept this story in the headlines. And that has not gone unnoticed by leading evangelical Christians who form a key part of the president's base.  Today, Tony Perkins, the president of the Family Research Council called the threat of sanctions quoting now \"A clear and unequivocal message to the tyrants in Turkey.\" And Pastor Brunson's family is once again hopeful. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JACQUELINE FURNARI, DAUGHTER OF PASTOR",
+      "sentences": "I'm still wait -- waiting to wear the wedding dress that I got two years ago. I'm still waiting for my dad to walk me down the aisle, and I'm still waiting to that father-daughter dance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "And for now, the diplomatic dance has seen a rise in tempo. Sandra.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Trace Gallagher, thank you. Here now with more on this, Bill Bennett, host of the Bill Bennett podcast, and a Fox News contributor. Good evening to you, Mr. Bennett. Thank you for being here tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BILL BENNETT, FOX NEWS CONTRIBUTOR",
+      "sentences": "You bet, Sandra.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "What do you think of this strong show of support from the White House? From Mike Pence to the president, Mike Pompeo, all stepping forward and threatening serious sanctions on Turkey if they don't release this pastor.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "Well, I think a couple things, Sandra. I think he's using the right adjective, strong. This was a muscular response. You heard the words of Mike Pence, we read the words of Mike Pompeo. Of course, they're speaking for the president, and this was a very tough response. People don't remember, a lot of people forget that Turkey's part of NATO. And this -- these are very tough words for a member of NATO. Lately, you know, what people have been critical of anybody criticizing anything about NATO from this administration.   But I think it's part of a larger pattern, Sandra. Since Helsinki, I think the administration has decided to project strength in a serious way, and I don't mean this cynically, but to remind people of how many good things it's doing. And this wasn't an instantaneous response or a made-up response, they've been responding this way as the report showed for some time. But to emphasize the strength of the administration's response, combine that with the European Union agreement or agreement to have an agreement that we saw, the president's remarks today. And I think you are reminded that this is an administration which is very strong, very tough, despite what some of the critics have been saying on the Left.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Clearly, making the case that this is a very -- a muscular reaction from this administration.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Will it yield results? Will we see Turkey respond?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "I think so. And by the way, I should maybe try to explain my own remark here. One of the reasons I don't think you see a lot of people clamoring for relief for Turkey is Erdogan is a bad customer, a bad player. And so, there's not much sympathy there.   Yes, we are reminded of the power of the United States. We're reminded of that economic power whether we're talking about Iran or Russia. Think of what liquid natural gas and oil can do to that gas station call Russia, once the pipes start flowing. And sanctions on Turkey can do very much the same thing.  The world has not seen this kind of flexing of muscle and strength in some time. And, of course, the Democrats were way too early in condemning Donald Trump as a weaker as weak after the Helsinki thing. He misspoke, he corrected the mistake, but the one thing you have to pay attention to his policy. Policy toward Russia, and policy toward these other countries.  If I could just say one more thing, the other day, we just saw a master class and what it means to be a loyal and tough member of the cabinet, Mike Pompeo's hearing before the Senate Democrats. I used to say, when I left Washington, they said, \"What did you learn?\" And I say, learned only one thing, \"You're either on offense or you're on defense. An LSU fan would understand this, right. Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Thank you, sir. Always.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "Yes, I noticed the dress. Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "Anyway, but you're on offense or on defense, and right at the toughest parts of those -- that hearing, the Pompeo was on offense and did a great job. And then, do a Dan Coats in Aspen, I love Dan Coats, but -- you know, he was -- he was shifting a little bit in the presence of Andrea Mitchell. Pompeo was holding up straighten firm.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "In another show of strength, and you reference back to Helsinki, before Helsinki, it was Singapore, and it was that the summit will -- with Kim Jong Un. 8:00 p.m. tonight, North Korea is expected to start handing over the remains over a number of servicemen killed during the Korean War.  Are you -- Bill, are you optimistic that this is actually going to happen?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "You know, I trust but verify. I'm guardedly optimistic, yes, I've been talking to people who are expert. I'm not expert, but the people who suggest and I think to argue that this is happening, we're going to have two steps forward, one step back. But I think it will happen. We'll, of course, find out soon. And if and when it does, that will put the lie to another thing which is that we're getting nothing out of these negotiations.   The minister in Turkey, the remains of these soldiers, these Marines many of them in North Korea, means the world to these families. And the president understands that the nation understands that. And everyone has to applaud it. So, yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "And the president has made it very clear that this is very important to him. Does it silence his critics, Bill, who said nothing came out of that summit with Kim Jong Un?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "No. Of course, no, it won't silence his critics. Her critics are in for the long run, or critics are in until though they can get him out of office which is their object or until 2024 when maybe they'll breathe a sigh of relief. I don't know.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, we hope some conclusion for those families who have been waiting for this remains.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "You bet.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "It's going to take many years, we're told before they can accurately be identified. A few seconds left here, Bill, if you could just broadly speaking look at this president's foreign policy to date, and how is he doing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "Well, it's new, and it's different. And I think, it's surprising a lot of people. Remember the worries that the people who tried to put alarm into the people for the election, he's going to blow up the world, he's going to push the button in the first six months. It's a new order and it's a Trump doctrine is emerging. And it is partly America first, partly be fair, and be just pay your share. And, you know, if you remember, we're sick and tired, we're just not going to take it anymore.  I remember when Jeane Kirkpatrick, the ambassador of the U.N. when I served with Ronald Reagan, addressed all of us employees here in Washington. She said, we're tired of being pushed around, we're tired of being the patsies, we go to remember that we are America, and we are the last best hope.  Not just of us, but of the world, and that is becoming more clear every day. It needs reminding, it needs teaching in each generation as we need to learn our history, we need to learn what we mean to other people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Always great to get your thoughts, and your perspective, and you always get to go Tigers out of me, Bill Bennett.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "Go Tigers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Thanks for being here tonight. Good to see you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENNETT",
+      "sentences": "You bet, you bet. Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, still to come, could President Trump be charged with a crime because of his tweets? Constitutional attorney Jonathan Turley is here to answer that. Plus the president travels to the Midwest to assure those hit hardest by the escalating trade war that the White House is fighting for them. But, was it enough?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Now is the time to finally fix the terrible one-sided unfair trade deals and practices that have caused our nation trillions of dollars and millions of jobs.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well it's no secret that our president likes to tweet but tonight there are new concerns that he could be charged with a crime because of it. Special Counsel Robert Mueller is reportedly combing through the president's Twitter feed to determine if the president tried to \"intimidate key figures in the Russia probe like Jeff Sessions and James Comey something that could amount to obstruction of justice charges.\" Chief intelligence correspondent Catherine Herridge is live in Washington with what we need to know about this. Catherine?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CATHERINE HERRIDGE, FOX NEWS CORRESPONDENT",
+      "sentences": "Thanks, Sandra. Good evening. Based on its investigation The New York Times reports that the special counsel is conducting a wide-ranging probe assessing whether negative statements and critical tweets by the president are designed to obstruct justice by intimidating witnesses and tamping down the special counsel case. The president's targets include Attorney General Jeff Sessions tweeting in June, \"the Russian witch-hunt hoax continues all because Jeff Sessions didn't tell me he was going to recuse himself. I would have quickly picked someone else. So much time and money wasted, so many lives ruined. And Sessions knew better than most that there was no collusion.\" And tweets on the fired FBI director may be legally significant too according to The Times. Five months after this video was shot, James Comey was fired. We later learned that Comey gave memo some containing classified information to a Columbia Law professor and his two lawyers. At least one memo documenting a conversation with the president was given to a Times reporter. May 12, 2017, the president tweeted, \"James Comey better hope that there are no tapes of our conversations before he starts leaking to the press.\" House Republicans said the Twitter line of inquiry smacks of desperation.   REP. MATT GAETZ, R—FLA.: If we're going to start investigating people for mean tweets in Washington D.C., I think we're going to need a whole lot more special counsels. The Mueller probe is so baseless against the president. They're literally down to trolling tweets.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HERRIDGE",
+      "sentences": "A source close to the special counsel discussions told Fox News the Twitter issue was first discussed many months ago when lawyer John Dowd was still acting as the president's personal attorney and Dowd left in March firmly advising against a special counsel interview insisting that the president was well within his authorities as the head of the executive branch to terminate those position, Sandra.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "All right, Catherine Herridge in Washington for us, thank you. Here now Jonathan Turley, constitutional law attorney and law professor at George Washington University. Professor, thank you for coming on with us tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONATHAN TURLEY, LAW PROFESSOR, GEORGE WASHINGTON UNIVERSITY",
+      "sentences": "Thanks, Sandra.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "So, can the president be charged with a crime over his tweets?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Will, you be charged is not very convincingly. If you're going to start to stitch together tweets into some criminal mosaic then you really are reaching these sort of evidentiary dregs. I mean, it is -- it's a very weak type of case. A subject, even a target of investigation does not surrender their First Amendment rights to speak out in their own defense. Now the president is someone who frankly seems to play poker with the cards faced outward. He doesn't hold anything back he has a very short trigger. But that actually helps him in many respects. He's not just issuing these tweets with regard to the special counsel investigation, he's doing it on China, he's doing it on trade, he's doing it on his Republican and Democratic critics. He is someone who communicates through tweets and tends to be visceral in his responses. I don't see how you can possibly base a convincing criminal case on that type of social media.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, if this is the case and we're going off a report here. If this is the case and the special counsel is looking at the president's tweets particularly about Sessions and Comey, what does it tell you about Robert Mueller and his investigation?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Well, this would really undermine his credibility and that of his investigation. There is another possibility that he is looking into these tweets as part of his report to Congress. He can't -- he might view that report as laying the foundation for something like impeachment and showing that these tweets are part of this broader mosaic. But I think reaching for the social media as a form of evidence is a sign of weakness. I felt the same way about the courts that use the president's tweets as a critical piece of evidence in the immigration cases. Ultimately, that failed before the Supreme Court. I think this would even fail more in a much more spectacular fashion to try to base a criminal charge on this type of stuff.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, professor, you've clearly looked at the president's tweets over time through his campaign, into his presidency and have you ever seen anything that stuck out to you that could potentially red flag Robert Mueller?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Look, I think the president is unwise to do these tweets. I've been very critical of the tweets that he's issued. They have made the life of his defense legal team a living nightmare but no I do not view this as compelling evidence of obstruction. I think that you can see what his visceral responses are. I think this is unwise. I think that many of them seem quite un-presidential but I do not believe that these are forms of incriminating evidence that could actually support a formal charge.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "I've got to ask you about these impeachment efforts on the part of Republicans. You've got Jim Jordan, Mark Meadows, Freedom Caucus that are leading these efforts to -- for impeachment charges against Rod Rosenstein. The Speaker of the House is firmly standing up against that today at his weekly news conference and Attorney General Jeff Sessions firmly standing behind his deputy attorney general today. Listen to this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JEFF SESSIONS, UNITED STATES ATTORNEY GENERAL",
+      "sentences": "My deputy Rod Rosenstein is highly capable. I have the highest confidence in him. What I would like Congress to do is to focus on some of the legal challenges that are out there. We need Congress to deal with the immigration question.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "There was no vote today ahead of that House leaving for their recess so we don't know what will happen next with this. But should they be doing this professor?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "They shouldn't. And I have a column out today in 'The Hill' newspaper explaining why. This is not an impeachable offense. I happened to be very sympathetic with the people who have drafted these articles. I do believe that the Justice Department has slow-walked at disclosures. I also agree that they have abused classification authority in redacting embarrassing but unclassified things. All of that I think is well supported but it doesn't make it an impeachable offense it may make it contempt. But the framers designed impeachment to acquire a very high standard so it's not some type of impulse buy response to a conflict with another branch. Rosenstein is worthy of some criticism. He also has actually turned over more than his predecessors did in these types of investigations. Has he done enough? No. Could he be subject to contempt for some of these actions? Yes. But that's not an impeachment question. People have to be very, very careful. If they lower the standard for impeachment it can really -- this create an instability in our system. And by the way with the House possibly changing hands in November, the last time or the least that the Republicans should want is to lower the standard for impeachment right now because there are going to be plenty of folks who already are on the other side who are going to want to do the same type of impulse impeachment but the name is going to be different.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Really interesting stuff. We'll see where it all goes. Jonathan Turley, thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Nice to see you. Well, we've got some live pictures for you right now. We're looking live at Joint Base Andrews where President Trump is arriving back in Washington after what was a very busy day out in the Midwest visiting Iowa and Illinois where he focused on jobs, manufacturing, trade we're going to have more on this later in the show. The president touching down there at Joint Base Andrews. More coming up, Twitter denying reports that it so-called shadow band some big-name conservatives but admits it did make some changes. So what is really going on here? Plus, Jim Jordan, we just mentioned them, he says he'll challenge House Majority Leader Kevin McCarthy in the race to replace Paul Ryan as Speaker of the House but the current speaker is not on board.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Could you support Jim Jordan for Speaker? REP. PAUL RYAN, R—WISC., SPEAKER OF THE HOUSE OF REPRESENTATIVES: I'm not going to be here. I support Kevin McCarthy everybody knows that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Marc Thiessen and Juan Williams on who will come out on top next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "President Trump arriving back in Washington at this hour after taking his tough talk on trade two areas hit hardest by the tariff wars, making stops in Iowa and Illinois, talking to farmers and steel workers to let them know he has their backs.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "This is the time to straighten out the worst trade deals ever made by any country on earth ever in history. We've been in a trade war for many years and we've lost for many years, but over the last year and a half, we are winning. We're back and we're winning and we are winning bigger than anyone understands. The soul of our nation lives in our people, the heart of our nation beats in our citizens and the destiny of our nation is found in our two hands.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Joining me now Marc Thiessen American Enterprise Institute scholar and a Fox News contributor, Juan Williams co-host of \"The Five\" and Fox News political analyst. Thank you, gentlemen, for both of you for being here tonight. So Marc, clearly you saw the president taken a bit of a victory lap there speaking in Granite City, Illinois. Should he be?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARC THIESSEN, FOX NEWS CONTRIBUTOR",
+      "sentences": "He should be. He -- look, he just cut -- after he just wrestled the European Union to the ground, he got the European Union president to agree to negotiate a deal for zero tariffs on most goods with the -- with the European Union. The deal is not cut yet but he's -- his tariff threats and tariffs have been working in getting European Union to the table. And what people don't seem to understand about Donald Trump is that he's not pursuing protectionism. What he's doing is he's using tariffs in order for what is really a radical free trade agenda. It got very little reported but Maria Bartiromo had a great interview with Trump after the G7 Summit and he told her on this network and nobody paid attention to it, that he laid it proposal on the table in front of the G7. He said, let's get rid of all tariffs. Let's remove all tariffs, all non- tariff barriers, all subsidies and have complete total free trade between our countries and they all turned him down because they don't really want free trade. They want manage trade where they get to get access to U.S. markets but they get to protect their industries. And Trump is calling them on it. He's for trying t0 force them to reduce barriers to American exports by using tariffs as a tool to coerce them. It's a brilliant strategy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "but still doesn't seem to --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "It's a brilliant strategy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "He still doesn't seem to please all his critics here. Juan, I know you're one of them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS POLITICAL ANALYST",
+      "sentences": "Well, I mean, it's not me that matters here. I think it's G.M. that matters. I think it's Coca-Cola that matters. I think it's the American Farmers, I think it's Harley-Davidson that matters.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "What didn't you like about what --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, what you're seeing is that these -- the threat of a trade war is having a negative impact on a very healthy American economy. The president goes out there today and I think he has been losing ground in those Midwestern states, states are critical to his Electoral College victory in 2016, and he is saying to people that voted for him, and specific, the manufacturing sector and the farmers, hold on, I'm doing something here and it may not be apparent that it will help you in the long run even though I'm hurting you in the short run. So I think he's trying to sell that message but it's having a terrifically negative impact in the short run on Republicans who are running for congressional seats in those states. The president's numbers, his approval numbers in those states are way down. And I think that's what's going on right now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "How about that, Marc?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARC THIESSEN, FOX NEWS CONTRIBUTOR",
+      "sentences": "Well, actually, Juan, what he's doing is while everybody else is playing checkers he is playing three-dimensional chess.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "So here's how it works, OK. So, China, our trade war where we are trying to put tariffs on China and China responded by attacking Trump voters by going after soybeans producers. Most soybeans in America are (AUDIO GAP) by China and they are produced in swing states that Donald Trump won and needs to win. So they're going after Trump voters. He just cut a deal with the E.U. in which he got the E.U. to agree to immediate purchase of soybeans. So he is using the European Union, his pressure on the European Union on trade to get them to help American farmers to counteract Chinese retaliatory tariffs. That's three-dimensional chess.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "If the market is any measure, Juan. If the market is any measure, there was definitely some nervousness in the U.S. stock market and today like what it sought, triple digit gains.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes. Well, I just think that you have to -- the president likes to, you know, art of the deal start by making very strong demands. And then say, well, and I think this is what happened yesterday. I don't think there is any deal, Marc, with the European Union, I think what you have is the president saying, we are going to talk. We are now open and we won't have a trade war before the midterms. And so slow down on that. But there's no real deal yet and we still have this--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "Really?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "All right. Last word on that. I got to get to Jim Jordan, Marc.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "Yes. The Europeans agreed to buy U.S. soybeans right away, and they put out a joint statement--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes. That's (Inaudible).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "-- they put out a joint statement saying they are going to zero tariffs, zero trade barriers and zero subsidies on non-auto--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Not realistic, Marc. Not realistic. That's why I say until we see the specifics then I can buy--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "The Europeans buy--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "So far the president doesn't have anything on the table except his promise, you know, we'll be great again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, he made a visit to those states today and he made a few folks happy, you saw him up on the stage, on the stages. The rates for the speakership, it is certainly heating up, Marc. I want to ask you about Jim Jordan throwing his hat in the ring.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "Yes. So, you know, Jim Jordan is not going to be the speaker. He doesn't have the votes to become the speaker and he's running despite some very serious allegations that have been made by wrestlers at OSU. That when he was an assistant coach, the team doctor was abusing wrestlers and they reported it to him and he ignored it. Now he denies those charges. But you know, we just had a situation where a Republican speaker, Dennis Hastert, turned out to have been a molester of wrestlers. That's the last thing we want for the Republican Party is to have anything to do with allegations of people abusing or ignoring abuse of wrestlers. So I think it's a bad move for conservatives and for the Republican Party--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "In his announcement he criticizes the current GOP leadership, Juan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes. I think that's what this is about, I think that he doesn't want Kevin McCarthy, the congressman from California to become the next speaker. He doesn't see him as sufficiently, you know, respectful of the Freedom Caucus. Jim Jordan is a member of that right wing caucus in the House. So if you get Kevin McCarthy blocked, I think then Steve's Scalise, the congressman from Louisiana who is more conservative has a better chance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "He's another LSU tiger. You just -- they're all over the place tonight. Hey, Marc Thiessen and Juan Williams, good to have both of you on the program tonight. Thank you very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "You're welcome.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "Great to be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Coming up, the White House now pushing back on why they banned a CNN reporter from a Rose Garden event. Guy Benson and Marie Harp, look at those two, the co-host of the new Benson and Harp Fox News radio show are here next on the growing debate. Plus a former Special Forces sniper and a UFC fighter and said he just tried not to die as he took on some of the most dangerous jobs in the country. And Tim Kennedy lives to tell about it. And he will join us live, next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIM KENNEDY, UFC FIGHTER",
+      "sentences": "Am I doing this first one?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do you think you could do it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes, I think so.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "The White House disputing reports that a CNN reporter was banned from covering an event yesterday. Press secretary Sarah Sanders explaining the reporter, quote, \"shouted questions and refused to leave despite repeatedly being asked.\" Fox News media analyst Howie Kurtz reports on the growing controversy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOWARD KURTZ, FOX NEWS MEDIA ANALYST",
+      "sentences": "Sandra, the media controversy erupted when CNN White House reporter Kaitlan Collins, among others, were shouting questions at President Trump after an Oval Office photo op.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KAITLAN COLLINS, CNN WHITE HOUSE REPORTER",
+      "sentences": "Did Michael Cohen betray you, Mr. President?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Thank you. Thank you, everybody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "Mr. President, did Michael Cohen betray you? Why has Vladimir Putin not accepted your invitation?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Thanks, everybody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "This is a pretty routine practice but White House officials were not pleased and barred Collins from attending a later event. This is what she says press secretary Sarah Sanders and Deputy Chief of Staff Bill Shine, a former co-president of Fox News, told her.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "That I would not be invited to an open press event here in the Rose Garden moments later at the White House because they thought the questions I posed to President Trump were inappropriate and inappropriate for that venue.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "But Shine disputed that account this morning.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BILL SHINE, WHITE HOUSE DEPUTY CHIEF OF STAFF",
+      "sentences": "Did you ask her if you ever used the word ban. I've seen it on lower thirds?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "What word did you use, Bill?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHINE",
+      "sentences": "What word would you use?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHINE",
+      "sentences": "When you ask her if we ever use the word ban, then I will answer that question.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "If it is her, what's the word you would use?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHINE",
+      "sentences": "You ask her, focus now. You asked her if we ever used the word ban.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "See and then called the move retaliatory because the White House didn't like Collins' questions. And Fox News president Jay Wallace said, \"We stand in strong solidarity with CNN for the right to full access for our journalist as part of a free and unfettered press.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS HOST",
+      "sentences": "As a member of the White House press pool, Fox stands firmly with CNN on this issue of access.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, FOX NEWS HOST",
+      "sentences": "She is a member of the White House pool and should be treated as such and not isolated.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KURTZ",
+      "sentences": "The bottom line is reporters have been shouting questions at presidents for decades going back to Sam Donaldson and Ronald Reagan. The practice may be more frequent with President Trump now because he often answers such questions even as his press handlers are suing people out. Sandra?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Thank you, Howie. Here with me now, making their first live TV appearance as the host of Benson and Harp on Fox News radio. Guy Benson and Marie Harf, looking good, guys.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARIE HARF, FOX NEWS RADIO CO-HOST",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUY BENSON, FOX NEWS RADIO CO-HOST",
+      "sentences": "Thank you, Sandra.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Good evening to you. All right. So first off, I want you both to weigh in on this. The White House barring this reporter and it has certainly sparked a big debate in this country. To you first, Guy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "Well, I think I was immediately reminded, Sandra, of something that happened in 2009 when the Obama administration tried to freeze out our network, Fox News, from asking questions of a senior administration official in fall of that year. And the other networks all banded together including CNN and they said it, no, if Fox is not included in this process, none of us are going to do it. And the Obama administration relented and backed down. I think what we saw there from Jay Wallace, our president here at the network and Bret Baier and Martha MacCallum was paying that forward back to CNN because I think it is important regardless of who is in power, regardless of which administration happens to occupy 1600 Pennsylvania Avenue. The White House press corps is a team together and they stand up for the First Amendment, they stand up for their ability to gain access and not be isolated or thrown out of the press corps based on partisan or ideological differences. And so the show is on the other foot and I'm glad that our network has come down on the side that we have.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, Marie, the White House is certainly pushing back here. And Kellyanne Conway was on this network earlier today reacting. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLYANNE CONWAY, WHITE HOUSE SENIOR ADVISER",
+      "sentences": "I think that the question isn't -- or the questioner ask a lot of questions. This president obviously isn't afraid of questions, we answer them routinely. It's -- I think being, and that incident aside, just being polite to the process to the presidency and to the protocol, and not shouting questions long after the press has politely been asked to leave, long after that we have an opportunity to be there with the president. I think it's a very reasonable request.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Marie?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "Well, look, reporters in those scrums with the president always shout questions, that's what happens. It's happened for decades under multiple presidents of different parties. So what Kellyanne said doesn't really stand up to what the practice has been. And look, this is the latest in a series of White House versus CNN, particularly, the White House versus the press showdown. This is a White House that has called or president who has called the press the enemy of American people on multiple occasions. I think the president and the White House thrive in some respects on battling the press and they know their base likes it. So we have to see this as the latest in a series really of actions of the White House trying to freeze out reporters whose stories they don't like, calling stories fake news that are actually true but they just don't like them, so it is disturbing. And I'm really glad that our network and all the networks have stood up for CNN and I hope it doesn't continue because it's a really bad look for this- -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "Although as the president, he does go too far sometimes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "Way too far.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "But the press and the media is extraordinarily biased against this president and his administration. There is no denying that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, speaking of that, Twitter in the news today and we know that Twitter has been used as a major political tool by the president and others. And Twitter appears to have updated its policy now after the shadow banning conservative's controversy. Twitter issued the statement on the GOP's shadow banning report, saying, quote, \"We are aware that some accounts are not automatically populating in our search box, and shipping a change to address this. The profiles, tweets, and discussion about these accounts do appear when you search for them. To be clear, our behavioral ranking doesn't make judgments based on political views or the substance of tweets.\" But this has raised a lot of questions, Guy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "Yes. I mean, I think a lot of conservatives look at Silicon Valley and big tech and are deeply suspicious if those companies which are sort of in the deep blue territory run by very liberal people are going to give conservatives speech a fair shake. And I think that Twitter is right to acknowledge what's going on here rather than calling it a conspiracy theory. They are acknowledging this has gone on. It seems like they are altering their algorithms and their policies which is the right thing to do. And I think conservatives should remain not always accusatory but at least vigilant and hold big tech accountable. I'm actually going to Twitter out in San Francisco to their headquarters next week and I'm probably pretty certain this topic is going to come up--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "For sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "-- because these rules have to be applied evenly to all sides.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "And they also have bigger problems to when it comes to harassment and bullying and across the political spectrum, so Twitter has a lot of issues they need to deal with.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, this is the first live shot of taking you both inside of your radio, so this was exciting.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "Welcome in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Thank you very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "It's good, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Thank you for having us in tonight. Good to see you both, Guy and Marie. Benson and Harf, I should say. Thank you very much. Up next, it's being described as a mix between dirty jobs and fear factor. A former UFC fighter and Green Beret takes on some of the country's most dangerous jobs and lives to tell about it. Tim Kennedy joins us next with a sneak peek of his new show.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Tim Kennedy is a thrill seeker. The former UFC fighter, ranger, Green Beret and Special Forces sniper is now taking on a new adventure in the Discovery Channel news series, 'Hard to Kill.' From flying planes to escaping a sinking boat, Tim has learned the most dangerous jobs of unsung heroes. Here's a sneak peek.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "All right. You want to try those?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "All right. So I'm going to give you the control so we get up on that, Mr. Kennedy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Am I doing this first one?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do you think you can do it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes, I think so.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We are going to push the nose down and we're going to accelerate to 140 knots on your speed indicator. We're going to pull the nose through the horizon so your feet are just about on the horizon, does that make sense?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "And you watch the horizon come around.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes. And I don't need anything besides a stick, right? There's no throttle, there's no--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I will take care of everything else.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "All right. Show it to me. You have the control.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "You have my attention. Joining me now is Tim Kennedy, star of Hard to Kill which premiers Tuesday on Discovery. What were you thinking when you were watching that just now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "It just reminds me how stupid I am.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Don't say that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "It's true.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "You are an accomplished -- you are a hero indeed. Why are you doing this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "I mean, Iraq, Afghanistan, Africa, South America, I've been all over the world in a military and went a green hatch, I've been up a plane get shot at and blown up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "And you wanted more?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "No, no. I wanted it to be for a reason, you know. And the reason is there are some courageous bro, people right here in the middle, right here in the middle of America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "So why you've been putting the show together? Who are these teams?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "I've seen courageous people doing jobs that are thought -- that are thankless that nobody recognize, nobody thinks of.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "First of all, the guy we were watching you said that guy crashed -- has crashed three planes?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes. Yes. Elliot.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "What was going on there?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "He's a test pilot. One of the episodes that we feature is like we get on planes, right. We get on a 747 and 737 we want our peanuts and we want our beverage service, and we want to go for a flight but we never think all--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "And we want to be on time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes. We want to be on time. There's people that have flown those planes. There's no test dummies, there's no crash test dummies, there is a dude that sits in that plane or a lady that is courageous and is like, let's see if it flies. Right? And that's how aviation excels. That's how we get oil in our cars. That's how we get sushi on our table as there is someone on a boat that could die, go overboard or could freeze to death and I think they are kind of the unsung heroes of this beautiful country and this thing that we have the American dream.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "In one episode you attempt to survive, which obviously we know you did a sinking boat?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "No. I mean, yes. But the boat was on fire and we were trapped inside of it and my safety gear was inside of the hole. So, actually as the boat sank I had to swim in. I got tore up and cut and I had to take up a Tomahawk and smashed through the window and swing through the window. None of this was planned, there are no stunts. It's like, hey, Tim, the boat is on fire and you are going to drown. Good luck with that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Have you said no to anything?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "No. No. Our limitation is always, you know, insurance is like weight, you want to a set plane on fire inside of another plane and put you inside of that plane and pushed it out of that plane with your blindfold and your parachute strapped to a chair behind you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Two arms, two legs, two feet, it's like you survived like, do you have any major injuries from any of this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes. I got run over by a bull pretty bad.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "A bull.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes, a 2,000 pissed off bull. And he hooked me, and threw me up in the air, and then turned around and was like, I'm not done with you. And he came back for more.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Because you are experiencing being a bull rider for that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes. You mean, bull fighter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "A bull fighter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes. Being scared to death and being trapped in the avalanche at the base of a mountain for 30 minutes. Being like, hey, you're going to find me and you can't move and you don't know which was is up, and every time you breathe, there is a little bit less air. You know, that is also like one -- don't want to do again list.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Amen to you for going out there. There are lots of unsung heroes. What has stuck with you the most through this process?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "I'm inspired.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Like I find these men and women that do these jobs. You know, it's not like I do them for a week or two weeks or maybe a month, like these people get up every single day not for a year, not for 40 years but for generations. Like their dad did it and their dad's dad did it and they had 10 cousins and now they had six because four of them died and they went into the drink. But this is what their family does. You know, they maybe commercial fishermen. And it's just this humbling, every single day. It's just I got a thought I'm a tough guy, no, like looking at these people and what they do and how they provide for us and how they make America beautiful and powerful and great, it's humbling and inspiring to be around these people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "OK. So you are married, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "What's your wife think about this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "She is like, this idiot, you know, could he just go be an accountant or something, you know, like maybe?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "But that's just not you, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "I could never do it. There is nothing else I can do. This is what I'm made to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "All right. Tim Kennedy, the show 'Hard to Kill' premiers Tuesday, July 31st. That's next Tuesday at 10 p.m. Eastern on Discovery.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "We will be tuning into that for sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY",
+      "sentences": "I hope so, you'll like it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Thank you so much for joining us tonight. Great to meet you. More on 'The Story,' next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Well, that's it for our 'Story' on Thursday night. Don't miss Sean Hannity's exclusive interview with Roseanne Barr, that is coming up at 9 p.m. Eastern Time tonight. One hour from now. I will see again you bright and early tomorrow morning on America Newsroom from 9 a.m. till 12 noon. Join Bill and me every weekday at that time, hashtag nine to noon. Tucker Carlson is up next. Thank you again for joining us. Copy: Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS CHIEF CONGRESSIONAL CORRESPONDENT",
+      "utterance": "I love a good pair of crazy socks, and you can see some of the former president's fun socks there. Superman and some other fun stuff. That's it for this edition of SPECIAL REPORT. I'm Mike Emanuel in Washington. \"The Story\" with guest host Sandra Smith starts right now. Hi, Sandra."
+    },
+    {
+      "speaker": "SANDRA SMITH, FOX NEWS HOST",
+      "utterance": "Thank you, Mike. Hey, Mike. Breaking news tonight, the White House flexing its muscles on the world stage fighting for the freedom of a man of faith. Threatening sanctions to Turkey and President Erdogan, over the detainment of Pastor Andrew Brunson, an American who's been held for nearly two years now. Vice President Pence delivering this ultimatum earlier today."
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT OF THE UNITED STATES",
+      "utterance": "The President Erdogan, and the Turkish government, I have a message on behalf of the President of the United States of America. Release Pastor Andrew Brunson now or be prepared to face the consequences. If Turkey does not take immediate action to free this innocent man of faith and send him home to America, the United States will impose significant sanctions on Turkey until Pastor Andrew Brunson is free."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, good evening everybody. I'm Sandra Smith, in for Martha MacCallum, who's on assignment tonight. Following those remarks and a tweet from President Trump in the same vein. Turkey fired back. Their Minister of Foreign Affairs, tweeting this, \"No one dictates Turkey. We will never tolerate threats from anybody. Rule of law is for everyone. No exception.\" So, who is this pastor that's prompted such a forceful stand of support from the Trump administration? Trace Gallagher live in our West Coast newsroom with the backstory, Trace?"
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS CORRESPONDENT",
+      "utterance": "Hey, Sandra. After the failed coup against President Erdogan in 2016, the Turkish government began cracking down on military members, journalists, academics, and Christian minorities. Pastor Andrew Brunson, originally from North Carolina but who lived in Turkey for two decades was arrested and jailed. He was held without charges for more than a year until finally being accused of dividing and separating Turkey by spreading his Christian faith. Those who visited the pastor in prison, say he lost significant weight and was under extreme stress. In April, a group of bipartisan Senators signed a letter expressing concern about the situation. And this week, the Senate Foreign Relations Committee passed legislation that would impose unnamed financial penalties against Turkey until Brunson is freed. That action apparently is resonating because Pastor Brunson is now out of jail and under house arrest. He's wearing an electronic monitoring device. Here is Vice President Pence. Watch."
+    },
+    {
+      "speaker": "PENCE",
+      "utterance": "Yesterday, Turkey released Pastor Brunson from prison only to place him under house arrest. This is a welcome first step but it is not good enough."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "Secretary of State Mike Pompeo, echoed that quoting now. \"We welcome long overdue news that Pastor Brunson has been moved from prison to house arrest in Turkey, but it is not enough. We have seen no credible evidence against Mr. Brunson and call on Turkish authorities to resolve his case immediately in a transparent and fair manner. And while Turkey is now pushing back against the threat of sanctions, analysts say more than 16 months of constant pressure from President Trump and his administration is what kept this story in the headlines. And that has not gone unnoticed by leading evangelical Christians who form a key part of the president's base. Today, Tony Perkins, the president of the Family Research Council called the threat of sanctions quoting now \"A clear and unequivocal message to the tyrants in Turkey.\" And Pastor Brunson's family is once again hopeful. Watch."
+    },
+    {
+      "speaker": "JACQUELINE FURNARI, DAUGHTER OF PASTOR",
+      "utterance": "I'm still wait -- waiting to wear the wedding dress that I got two years ago. I'm still waiting for my dad to walk me down the aisle, and I'm still waiting to that father-daughter dance."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "And for now, the diplomatic dance has seen a rise in tempo. Sandra."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Trace Gallagher, thank you. Here now with more on this, Bill Bennett, host of the Bill Bennett podcast, and a Fox News contributor. Good evening to you, Mr. Bennett. Thank you for being here tonight."
+    },
+    {
+      "speaker": "BILL BENNETT, FOX NEWS CONTRIBUTOR",
+      "utterance": "You bet, Sandra."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "What do you think of this strong show of support from the White House? From Mike Pence to the president, Mike Pompeo, all stepping forward and threatening serious sanctions on Turkey if they don't release this pastor."
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "Well, I think a couple things, Sandra. I think he's using the right adjective, strong. This was a muscular response. You heard the words of Mike Pence, we read the words of Mike Pompeo. Of course, they're speaking for the president, and this was a very tough response. People don't remember, a lot of people forget that Turkey's part of NATO. And this -- these are very tough words for a member of NATO. Lately, you know, what people have been critical of anybody criticizing anything about NATO from this administration. But I think it's part of a larger pattern, Sandra. Since Helsinki, I think the administration has decided to project strength in a serious way, and I don't mean this cynically, but to remind people of how many good things it's doing. And this wasn't an instantaneous response or a made-up response, they've been responding this way as the report showed for some time. But to emphasize the strength of the administration's response, combine that with the European Union agreement or agreement to have an agreement that we saw, the president's remarks today. And I think you are reminded that this is an administration which is very strong, very tough, despite what some of the critics have been saying on the Left."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Clearly, making the case that this is a very -- a muscular reaction from this administration."
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Will it yield results? Will we see Turkey respond?"
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "I think so. And by the way, I should maybe try to explain my own remark here. One of the reasons I don't think you see a lot of people clamoring for relief for Turkey is Erdogan is a bad customer, a bad player. And so, there's not much sympathy there. Yes, we are reminded of the power of the United States. We're reminded of that economic power whether we're talking about Iran or Russia. Think of what liquid natural gas and oil can do to that gas station call Russia, once the pipes start flowing. And sanctions on Turkey can do very much the same thing. The world has not seen this kind of flexing of muscle and strength in some time. And, of course, the Democrats were way too early in condemning Donald Trump as a weaker as weak after the Helsinki thing. He misspoke, he corrected the mistake, but the one thing you have to pay attention to his policy. Policy toward Russia, and policy toward these other countries. If I could just say one more thing, the other day, we just saw a master class and what it means to be a loyal and tough member of the cabinet, Mike Pompeo's hearing before the Senate Democrats. I used to say, when I left Washington, they said, \"What did you learn?\" And I say, learned only one thing, \"You're either on offense or you're on defense. An LSU fan would understand this, right. Yes."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Thank you, sir. Always."
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "Yes, I noticed the dress. Yes."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "Anyway, but you're on offense or on defense, and right at the toughest parts of those -- that hearing, the Pompeo was on offense and did a great job. And then, do a Dan Coats in Aspen, I love Dan Coats, but -- you know, he was -- he was shifting a little bit in the presence of Andrea Mitchell. Pompeo was holding up straighten firm."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "In another show of strength, and you reference back to Helsinki, before Helsinki, it was Singapore, and it was that the summit will -- with Kim Jong Un. 8:00 p.m. tonight, North Korea is expected to start handing over the remains over a number of servicemen killed during the Korean War. Are you -- Bill, are you optimistic that this is actually going to happen?"
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "You know, I trust but verify. I'm guardedly optimistic, yes, I've been talking to people who are expert. I'm not expert, but the people who suggest and I think to argue that this is happening, we're going to have two steps forward, one step back. But I think it will happen. We'll, of course, find out soon. And if and when it does, that will put the lie to another thing which is that we're getting nothing out of these negotiations. The minister in Turkey, the remains of these soldiers, these Marines many of them in North Korea, means the world to these families. And the president understands that the nation understands that. And everyone has to applaud it. So, yes."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "And the president has made it very clear that this is very important to him. Does it silence his critics, Bill, who said nothing came out of that summit with Kim Jong Un?"
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "No. Of course, no, it won't silence his critics. Her critics are in for the long run, or critics are in until though they can get him out of office which is their object or until 2024 when maybe they'll breathe a sigh of relief. I don't know."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, we hope some conclusion for those families who have been waiting for this remains."
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "You bet."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "It's going to take many years, we're told before they can accurately be identified. A few seconds left here, Bill, if you could just broadly speaking look at this president's foreign policy to date, and how is he doing?"
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "Well, it's new, and it's different. And I think, it's surprising a lot of people. Remember the worries that the people who tried to put alarm into the people for the election, he's going to blow up the world, he's going to push the button in the first six months. It's a new order and it's a Trump doctrine is emerging. And it is partly America first, partly be fair, and be just pay your share. And, you know, if you remember, we're sick and tired, we're just not going to take it anymore. I remember when Jeane Kirkpatrick, the ambassador of the U.N. when I served with Ronald Reagan, addressed all of us employees here in Washington. She said, we're tired of being pushed around, we're tired of being the patsies, we go to remember that we are America, and we are the last best hope. Not just of us, but of the world, and that is becoming more clear every day. It needs reminding, it needs teaching in each generation as we need to learn our history, we need to learn what we mean to other people."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Always great to get your thoughts, and your perspective, and you always get to go Tigers out of me, Bill Bennett."
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "Go Tigers."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Thanks for being here tonight. Good to see you."
+    },
+    {
+      "speaker": "BENNETT",
+      "utterance": "You bet, you bet. Thank you."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, still to come, could President Trump be charged with a crime because of his tweets? Constitutional attorney Jonathan Turley is here to answer that. Plus the president travels to the Midwest to assure those hit hardest by the escalating trade war that the White House is fighting for them. But, was it enough?"
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Now is the time to finally fix the terrible one-sided unfair trade deals and practices that have caused our nation trillions of dollars and millions of jobs."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well it's no secret that our president likes to tweet but tonight there are new concerns that he could be charged with a crime because of it. Special Counsel Robert Mueller is reportedly combing through the president's Twitter feed to determine if the president tried to \"intimidate key figures in the Russia probe like Jeff Sessions and James Comey something that could amount to obstruction of justice charges.\" Chief intelligence correspondent Catherine Herridge is live in Washington with what we need to know about this. Catherine?"
+    },
+    {
+      "speaker": "CATHERINE HERRIDGE, FOX NEWS CORRESPONDENT",
+      "utterance": "Thanks, Sandra. Good evening. Based on its investigation The New York Times reports that the special counsel is conducting a wide-ranging probe assessing whether negative statements and critical tweets by the president are designed to obstruct justice by intimidating witnesses and tamping down the special counsel case. The president's targets include Attorney General Jeff Sessions tweeting in June, \"the Russian witch-hunt hoax continues all because Jeff Sessions didn't tell me he was going to recuse himself. I would have quickly picked someone else. So much time and money wasted, so many lives ruined. And Sessions knew better than most that there was no collusion.\" And tweets on the fired FBI director may be legally significant too according to The Times. Five months after this video was shot, James Comey was fired. We later learned that Comey gave memo some containing classified information to a Columbia Law professor and his two lawyers. At least one memo documenting a conversation with the president was given to a Times reporter. May 12, 2017, the president tweeted, \"James Comey better hope that there are no tapes of our conversations before he starts leaking to the press.\" House Republicans said the Twitter line of inquiry smacks of desperation. REP. MATT GAETZ, R—FLA.: If we're going to start investigating people for mean tweets in Washington D.C., I think we're going to need a whole lot more special counsels. The Mueller probe is so baseless against the president. They're literally down to trolling tweets."
+    },
+    {
+      "speaker": "HERRIDGE",
+      "utterance": "A source close to the special counsel discussions told Fox News the Twitter issue was first discussed many months ago when lawyer John Dowd was still acting as the president's personal attorney and Dowd left in March firmly advising against a special counsel interview insisting that the president was well within his authorities as the head of the executive branch to terminate those position, Sandra."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "All right, Catherine Herridge in Washington for us, thank you. Here now Jonathan Turley, constitutional law attorney and law professor at George Washington University. Professor, thank you for coming on with us tonight."
+    },
+    {
+      "speaker": "JONATHAN TURLEY, LAW PROFESSOR, GEORGE WASHINGTON UNIVERSITY",
+      "utterance": "Thanks, Sandra."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "So, can the president be charged with a crime over his tweets?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Will, you be charged is not very convincingly. If you're going to start to stitch together tweets into some criminal mosaic then you really are reaching these sort of evidentiary dregs. I mean, it is -- it's a very weak type of case. A subject, even a target of investigation does not surrender their First Amendment rights to speak out in their own defense. Now the president is someone who frankly seems to play poker with the cards faced outward. He doesn't hold anything back he has a very short trigger. But that actually helps him in many respects. He's not just issuing these tweets with regard to the special counsel investigation, he's doing it on China, he's doing it on trade, he's doing it on his Republican and Democratic critics. He is someone who communicates through tweets and tends to be visceral in his responses. I don't see how you can possibly base a convincing criminal case on that type of social media."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, if this is the case and we're going off a report here. If this is the case and the special counsel is looking at the president's tweets particularly about Sessions and Comey, what does it tell you about Robert Mueller and his investigation?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Well, this would really undermine his credibility and that of his investigation. There is another possibility that he is looking into these tweets as part of his report to Congress. He can't -- he might view that report as laying the foundation for something like impeachment and showing that these tweets are part of this broader mosaic. But I think reaching for the social media as a form of evidence is a sign of weakness. I felt the same way about the courts that use the president's tweets as a critical piece of evidence in the immigration cases. Ultimately, that failed before the Supreme Court. I think this would even fail more in a much more spectacular fashion to try to base a criminal charge on this type of stuff."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, professor, you've clearly looked at the president's tweets over time through his campaign, into his presidency and have you ever seen anything that stuck out to you that could potentially red flag Robert Mueller?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Look, I think the president is unwise to do these tweets. I've been very critical of the tweets that he's issued. They have made the life of his defense legal team a living nightmare but no I do not view this as compelling evidence of obstruction. I think that you can see what his visceral responses are. I think this is unwise. I think that many of them seem quite un-presidential but I do not believe that these are forms of incriminating evidence that could actually support a formal charge."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "I've got to ask you about these impeachment efforts on the part of Republicans. You've got Jim Jordan, Mark Meadows, Freedom Caucus that are leading these efforts to -- for impeachment charges against Rod Rosenstein. The Speaker of the House is firmly standing up against that today at his weekly news conference and Attorney General Jeff Sessions firmly standing behind his deputy attorney general today. Listen to this."
+    },
+    {
+      "speaker": "JEFF SESSIONS, UNITED STATES ATTORNEY GENERAL",
+      "utterance": "My deputy Rod Rosenstein is highly capable. I have the highest confidence in him. What I would like Congress to do is to focus on some of the legal challenges that are out there. We need Congress to deal with the immigration question."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "There was no vote today ahead of that House leaving for their recess so we don't know what will happen next with this. But should they be doing this professor?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "They shouldn't. And I have a column out today in 'The Hill' newspaper explaining why. This is not an impeachable offense. I happened to be very sympathetic with the people who have drafted these articles. I do believe that the Justice Department has slow-walked at disclosures. I also agree that they have abused classification authority in redacting embarrassing but unclassified things. All of that I think is well supported but it doesn't make it an impeachable offense it may make it contempt. But the framers designed impeachment to acquire a very high standard so it's not some type of impulse buy response to a conflict with another branch. Rosenstein is worthy of some criticism. He also has actually turned over more than his predecessors did in these types of investigations. Has he done enough? No. Could he be subject to contempt for some of these actions? Yes. But that's not an impeachment question. People have to be very, very careful. If they lower the standard for impeachment it can really -- this create an instability in our system. And by the way with the House possibly changing hands in November, the last time or the least that the Republicans should want is to lower the standard for impeachment right now because there are going to be plenty of folks who already are on the other side who are going to want to do the same type of impulse impeachment but the name is going to be different."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Really interesting stuff. We'll see where it all goes. Jonathan Turley, thank you."
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Nice to see you. Well, we've got some live pictures for you right now. We're looking live at Joint Base Andrews where President Trump is arriving back in Washington after what was a very busy day out in the Midwest visiting Iowa and Illinois where he focused on jobs, manufacturing, trade we're going to have more on this later in the show. The president touching down there at Joint Base Andrews. More coming up, Twitter denying reports that it so-called shadow band some big-name conservatives but admits it did make some changes. So what is really going on here? Plus, Jim Jordan, we just mentioned them, he says he'll challenge House Majority Leader Kevin McCarthy in the race to replace Paul Ryan as Speaker of the House but the current speaker is not on board."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Could you support Jim Jordan for Speaker? REP. PAUL RYAN, R—WISC., SPEAKER OF THE HOUSE OF REPRESENTATIVES: I'm not going to be here. I support Kevin McCarthy everybody knows that."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Marc Thiessen and Juan Williams on who will come out on top next."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "President Trump arriving back in Washington at this hour after taking his tough talk on trade two areas hit hardest by the tariff wars, making stops in Iowa and Illinois, talking to farmers and steel workers to let them know he has their backs."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "This is the time to straighten out the worst trade deals ever made by any country on earth ever in history. We've been in a trade war for many years and we've lost for many years, but over the last year and a half, we are winning. We're back and we're winning and we are winning bigger than anyone understands. The soul of our nation lives in our people, the heart of our nation beats in our citizens and the destiny of our nation is found in our two hands."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Joining me now Marc Thiessen American Enterprise Institute scholar and a Fox News contributor, Juan Williams co-host of \"The Five\" and Fox News political analyst. Thank you, gentlemen, for both of you for being here tonight. So Marc, clearly you saw the president taken a bit of a victory lap there speaking in Granite City, Illinois. Should he be?"
+    },
+    {
+      "speaker": "MARC THIESSEN, FOX NEWS CONTRIBUTOR",
+      "utterance": "He should be. He -- look, he just cut -- after he just wrestled the European Union to the ground, he got the European Union president to agree to negotiate a deal for zero tariffs on most goods with the -- with the European Union. The deal is not cut yet but he's -- his tariff threats and tariffs have been working in getting European Union to the table. And what people don't seem to understand about Donald Trump is that he's not pursuing protectionism. What he's doing is he's using tariffs in order for what is really a radical free trade agenda. It got very little reported but Maria Bartiromo had a great interview with Trump after the G7 Summit and he told her on this network and nobody paid attention to it, that he laid it proposal on the table in front of the G7. He said, let's get rid of all tariffs. Let's remove all tariffs, all non- tariff barriers, all subsidies and have complete total free trade between our countries and they all turned him down because they don't really want free trade. They want manage trade where they get to get access to U.S. markets but they get to protect their industries. And Trump is calling them on it. He's for trying t0 force them to reduce barriers to American exports by using tariffs as a tool to coerce them. It's a brilliant strategy."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "but still doesn't seem to --"
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "It's a brilliant strategy."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "He still doesn't seem to please all his critics here. Juan, I know you're one of them."
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS POLITICAL ANALYST",
+      "utterance": "Well, I mean, it's not me that matters here. I think it's G.M. that matters. I think it's Coca-Cola that matters. I think it's the American Farmers, I think it's Harley-Davidson that matters."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "What didn't you like about what --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, what you're seeing is that these -- the threat of a trade war is having a negative impact on a very healthy American economy. The president goes out there today and I think he has been losing ground in those Midwestern states, states are critical to his Electoral College victory in 2016, and he is saying to people that voted for him, and specific, the manufacturing sector and the farmers, hold on, I'm doing something here and it may not be apparent that it will help you in the long run even though I'm hurting you in the short run. So I think he's trying to sell that message but it's having a terrifically negative impact in the short run on Republicans who are running for congressional seats in those states. The president's numbers, his approval numbers in those states are way down. And I think that's what's going on right now."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "How about that, Marc?"
+    },
+    {
+      "speaker": "MARC THIESSEN, FOX NEWS CONTRIBUTOR",
+      "utterance": "Well, actually, Juan, what he's doing is while everybody else is playing checkers he is playing three-dimensional chess."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "So here's how it works, OK. So, China, our trade war where we are trying to put tariffs on China and China responded by attacking Trump voters by going after soybeans producers. Most soybeans in America are (AUDIO GAP) by China and they are produced in swing states that Donald Trump won and needs to win. So they're going after Trump voters. He just cut a deal with the E.U. in which he got the E.U. to agree to immediate purchase of soybeans. So he is using the European Union, his pressure on the European Union on trade to get them to help American farmers to counteract Chinese retaliatory tariffs. That's three-dimensional chess."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "If the market is any measure, Juan. If the market is any measure, there was definitely some nervousness in the U.S. stock market and today like what it sought, triple digit gains."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes. Well, I just think that you have to -- the president likes to, you know, art of the deal start by making very strong demands. And then say, well, and I think this is what happened yesterday. I don't think there is any deal, Marc, with the European Union, I think what you have is the president saying, we are going to talk. We are now open and we won't have a trade war before the midterms. And so slow down on that. But there's no real deal yet and we still have this--"
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "Really?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "All right. Last word on that. I got to get to Jim Jordan, Marc."
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "Yes. The Europeans agreed to buy U.S. soybeans right away, and they put out a joint statement--"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes. That's (Inaudible)."
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "-- they put out a joint statement saying they are going to zero tariffs, zero trade barriers and zero subsidies on non-auto--"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Not realistic, Marc. Not realistic. That's why I say until we see the specifics then I can buy--"
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "The Europeans buy--"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "So far the president doesn't have anything on the table except his promise, you know, we'll be great again."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, he made a visit to those states today and he made a few folks happy, you saw him up on the stage, on the stages. The rates for the speakership, it is certainly heating up, Marc. I want to ask you about Jim Jordan throwing his hat in the ring."
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "Yes. So, you know, Jim Jordan is not going to be the speaker. He doesn't have the votes to become the speaker and he's running despite some very serious allegations that have been made by wrestlers at OSU. That when he was an assistant coach, the team doctor was abusing wrestlers and they reported it to him and he ignored it. Now he denies those charges. But you know, we just had a situation where a Republican speaker, Dennis Hastert, turned out to have been a molester of wrestlers. That's the last thing we want for the Republican Party is to have anything to do with allegations of people abusing or ignoring abuse of wrestlers. So I think it's a bad move for conservatives and for the Republican Party--"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "In his announcement he criticizes the current GOP leadership, Juan."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes. I think that's what this is about, I think that he doesn't want Kevin McCarthy, the congressman from California to become the next speaker. He doesn't see him as sufficiently, you know, respectful of the Freedom Caucus. Jim Jordan is a member of that right wing caucus in the House. So if you get Kevin McCarthy blocked, I think then Steve's Scalise, the congressman from Louisiana who is more conservative has a better chance."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "He's another LSU tiger. You just -- they're all over the place tonight. Hey, Marc Thiessen and Juan Williams, good to have both of you on the program tonight. Thank you very much."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "You're welcome."
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "Great to be with you."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Coming up, the White House now pushing back on why they banned a CNN reporter from a Rose Garden event. Guy Benson and Marie Harp, look at those two, the co-host of the new Benson and Harp Fox News radio show are here next on the growing debate. Plus a former Special Forces sniper and a UFC fighter and said he just tried not to die as he took on some of the most dangerous jobs in the country. And Tim Kennedy lives to tell about it. And he will join us live, next."
+    },
+    {
+      "speaker": "TIM KENNEDY, UFC FIGHTER",
+      "utterance": "Am I doing this first one?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Do you think you could do it?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes, I think so."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "The White House disputing reports that a CNN reporter was banned from covering an event yesterday. Press secretary Sarah Sanders explaining the reporter, quote, \"shouted questions and refused to leave despite repeatedly being asked.\" Fox News media analyst Howie Kurtz reports on the growing controversy."
+    },
+    {
+      "speaker": "HOWARD KURTZ, FOX NEWS MEDIA ANALYST",
+      "utterance": "Sandra, the media controversy erupted when CNN White House reporter Kaitlan Collins, among others, were shouting questions at President Trump after an Oval Office photo op."
+    },
+    {
+      "speaker": "KAITLAN COLLINS, CNN WHITE HOUSE REPORTER",
+      "utterance": "Did Michael Cohen betray you, Mr. President?"
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Thank you. Thank you, everybody."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "Mr. President, did Michael Cohen betray you? Why has Vladimir Putin not accepted your invitation?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Thanks, everybody."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "This is a pretty routine practice but White House officials were not pleased and barred Collins from attending a later event. This is what she says press secretary Sarah Sanders and Deputy Chief of Staff Bill Shine, a former co-president of Fox News, told her."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "That I would not be invited to an open press event here in the Rose Garden moments later at the White House because they thought the questions I posed to President Trump were inappropriate and inappropriate for that venue."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "But Shine disputed that account this morning."
+    },
+    {
+      "speaker": "BILL SHINE, WHITE HOUSE DEPUTY CHIEF OF STAFF",
+      "utterance": "Did you ask her if you ever used the word ban. I've seen it on lower thirds?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "What word did you use, Bill?"
+    },
+    {
+      "speaker": "SHINE",
+      "utterance": "What word would you use?"
+    },
+    {
+      "speaker": "SHINE",
+      "utterance": "When you ask her if we ever use the word ban, then I will answer that question."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "If it is her, what's the word you would use?"
+    },
+    {
+      "speaker": "SHINE",
+      "utterance": "You ask her, focus now. You asked her if we ever used the word ban."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "See and then called the move retaliatory because the White House didn't like Collins' questions. And Fox News president Jay Wallace said, \"We stand in strong solidarity with CNN for the right to full access for our journalist as part of a free and unfettered press.\""
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS HOST",
+      "utterance": "As a member of the White House press pool, Fox stands firmly with CNN on this issue of access."
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, FOX NEWS HOST",
+      "utterance": "She is a member of the White House pool and should be treated as such and not isolated."
+    },
+    {
+      "speaker": "KURTZ",
+      "utterance": "The bottom line is reporters have been shouting questions at presidents for decades going back to Sam Donaldson and Ronald Reagan. The practice may be more frequent with President Trump now because he often answers such questions even as his press handlers are suing people out. Sandra?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Thank you, Howie. Here with me now, making their first live TV appearance as the host of Benson and Harp on Fox News radio. Guy Benson and Marie Harf, looking good, guys."
+    },
+    {
+      "speaker": "MARIE HARF, FOX NEWS RADIO CO-HOST",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "GUY BENSON, FOX NEWS RADIO CO-HOST",
+      "utterance": "Thank you, Sandra."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Good evening to you. All right. So first off, I want you both to weigh in on this. The White House barring this reporter and it has certainly sparked a big debate in this country. To you first, Guy."
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "Well, I think I was immediately reminded, Sandra, of something that happened in 2009 when the Obama administration tried to freeze out our network, Fox News, from asking questions of a senior administration official in fall of that year. And the other networks all banded together including CNN and they said it, no, if Fox is not included in this process, none of us are going to do it. And the Obama administration relented and backed down. I think what we saw there from Jay Wallace, our president here at the network and Bret Baier and Martha MacCallum was paying that forward back to CNN because I think it is important regardless of who is in power, regardless of which administration happens to occupy 1600 Pennsylvania Avenue. The White House press corps is a team together and they stand up for the First Amendment, they stand up for their ability to gain access and not be isolated or thrown out of the press corps based on partisan or ideological differences. And so the show is on the other foot and I'm glad that our network has come down on the side that we have."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, Marie, the White House is certainly pushing back here. And Kellyanne Conway was on this network earlier today reacting. Watch."
+    },
+    {
+      "speaker": "KELLYANNE CONWAY, WHITE HOUSE SENIOR ADVISER",
+      "utterance": "I think that the question isn't -- or the questioner ask a lot of questions. This president obviously isn't afraid of questions, we answer them routinely. It's -- I think being, and that incident aside, just being polite to the process to the presidency and to the protocol, and not shouting questions long after the press has politely been asked to leave, long after that we have an opportunity to be there with the president. I think it's a very reasonable request."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Marie?"
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "Well, look, reporters in those scrums with the president always shout questions, that's what happens. It's happened for decades under multiple presidents of different parties. So what Kellyanne said doesn't really stand up to what the practice has been. And look, this is the latest in a series of White House versus CNN, particularly, the White House versus the press showdown. This is a White House that has called or president who has called the press the enemy of American people on multiple occasions. I think the president and the White House thrive in some respects on battling the press and they know their base likes it. So we have to see this as the latest in a series really of actions of the White House trying to freeze out reporters whose stories they don't like, calling stories fake news that are actually true but they just don't like them, so it is disturbing. And I'm really glad that our network and all the networks have stood up for CNN and I hope it doesn't continue because it's a really bad look for this- -"
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "Although as the president, he does go too far sometimes."
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "Way too far."
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "But the press and the media is extraordinarily biased against this president and his administration. There is no denying that."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, speaking of that, Twitter in the news today and we know that Twitter has been used as a major political tool by the president and others. And Twitter appears to have updated its policy now after the shadow banning conservative's controversy. Twitter issued the statement on the GOP's shadow banning report, saying, quote, \"We are aware that some accounts are not automatically populating in our search box, and shipping a change to address this. The profiles, tweets, and discussion about these accounts do appear when you search for them. To be clear, our behavioral ranking doesn't make judgments based on political views or the substance of tweets.\" But this has raised a lot of questions, Guy."
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "Yes. I mean, I think a lot of conservatives look at Silicon Valley and big tech and are deeply suspicious if those companies which are sort of in the deep blue territory run by very liberal people are going to give conservatives speech a fair shake. And I think that Twitter is right to acknowledge what's going on here rather than calling it a conspiracy theory. They are acknowledging this has gone on. It seems like they are altering their algorithms and their policies which is the right thing to do. And I think conservatives should remain not always accusatory but at least vigilant and hold big tech accountable. I'm actually going to Twitter out in San Francisco to their headquarters next week and I'm probably pretty certain this topic is going to come up--"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "For sure."
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "-- because these rules have to be applied evenly to all sides."
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "And they also have bigger problems to when it comes to harassment and bullying and across the political spectrum, so Twitter has a lot of issues they need to deal with."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, this is the first live shot of taking you both inside of your radio, so this was exciting."
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "Welcome in."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Thank you very much."
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "It's good, right?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Thank you for having us in tonight. Good to see you both, Guy and Marie. Benson and Harf, I should say. Thank you very much. Up next, it's being described as a mix between dirty jobs and fear factor. A former UFC fighter and Green Beret takes on some of the country's most dangerous jobs and lives to tell about it. Tim Kennedy joins us next with a sneak peek of his new show."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Tim Kennedy is a thrill seeker. The former UFC fighter, ranger, Green Beret and Special Forces sniper is now taking on a new adventure in the Discovery Channel news series, 'Hard to Kill.' From flying planes to escaping a sinking boat, Tim has learned the most dangerous jobs of unsung heroes. Here's a sneak peek."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "All right. You want to try those?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "All right. So I'm going to give you the control so we get up on that, Mr. Kennedy?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Am I doing this first one?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Do you think you can do it?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes, I think so."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "We are going to push the nose down and we're going to accelerate to 140 knots on your speed indicator. We're going to pull the nose through the horizon so your feet are just about on the horizon, does that make sense?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "And you watch the horizon come around."
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes. And I don't need anything besides a stick, right? There's no throttle, there's no--"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I will take care of everything else."
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "All right. Show it to me. You have the control."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "You have my attention. Joining me now is Tim Kennedy, star of Hard to Kill which premiers Tuesday on Discovery. What were you thinking when you were watching that just now?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "It just reminds me how stupid I am."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Don't say that."
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "It's true."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "You are an accomplished -- you are a hero indeed. Why are you doing this?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "I mean, Iraq, Afghanistan, Africa, South America, I've been all over the world in a military and went a green hatch, I've been up a plane get shot at and blown up."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "And you wanted more?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "No, no. I wanted it to be for a reason, you know. And the reason is there are some courageous bro, people right here in the middle, right here in the middle of America."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "So why you've been putting the show together? Who are these teams?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "I've seen courageous people doing jobs that are thought -- that are thankless that nobody recognize, nobody thinks of."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "First of all, the guy we were watching you said that guy crashed -- has crashed three planes?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes. Yes. Elliot."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "What was going on there?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "He's a test pilot. One of the episodes that we feature is like we get on planes, right. We get on a 747 and 737 we want our peanuts and we want our beverage service, and we want to go for a flight but we never think all--"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "And we want to be on time."
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes. We want to be on time. There's people that have flown those planes. There's no test dummies, there's no crash test dummies, there is a dude that sits in that plane or a lady that is courageous and is like, let's see if it flies. Right? And that's how aviation excels. That's how we get oil in our cars. That's how we get sushi on our table as there is someone on a boat that could die, go overboard or could freeze to death and I think they are kind of the unsung heroes of this beautiful country and this thing that we have the American dream."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "In one episode you attempt to survive, which obviously we know you did a sinking boat?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "No. I mean, yes. But the boat was on fire and we were trapped inside of it and my safety gear was inside of the hole. So, actually as the boat sank I had to swim in. I got tore up and cut and I had to take up a Tomahawk and smashed through the window and swing through the window. None of this was planned, there are no stunts. It's like, hey, Tim, the boat is on fire and you are going to drown. Good luck with that."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Have you said no to anything?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "No. No. Our limitation is always, you know, insurance is like weight, you want to a set plane on fire inside of another plane and put you inside of that plane and pushed it out of that plane with your blindfold and your parachute strapped to a chair behind you."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Two arms, two legs, two feet, it's like you survived like, do you have any major injuries from any of this?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes. I got run over by a bull pretty bad."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "A bull."
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes, a 2,000 pissed off bull. And he hooked me, and threw me up in the air, and then turned around and was like, I'm not done with you. And he came back for more."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Because you are experiencing being a bull rider for that?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes. You mean, bull fighter."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "A bull fighter."
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes. Being scared to death and being trapped in the avalanche at the base of a mountain for 30 minutes. Being like, hey, you're going to find me and you can't move and you don't know which was is up, and every time you breathe, there is a little bit less air. You know, that is also like one -- don't want to do again list."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Amen to you for going out there. There are lots of unsung heroes. What has stuck with you the most through this process?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "I'm inspired."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Like I find these men and women that do these jobs. You know, it's not like I do them for a week or two weeks or maybe a month, like these people get up every single day not for a year, not for 40 years but for generations. Like their dad did it and their dad's dad did it and they had 10 cousins and now they had six because four of them died and they went into the drink. But this is what their family does. You know, they maybe commercial fishermen. And it's just this humbling, every single day. It's just I got a thought I'm a tough guy, no, like looking at these people and what they do and how they provide for us and how they make America beautiful and powerful and great, it's humbling and inspiring to be around these people."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "OK. So you are married, right?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "What's your wife think about this?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "She is like, this idiot, you know, could he just go be an accountant or something, you know, like maybe?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "But that's just not you, right?"
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "I could never do it. There is nothing else I can do. This is what I'm made to do."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "All right. Tim Kennedy, the show 'Hard to Kill' premiers Tuesday, July 31st. That's next Tuesday at 10 p.m. Eastern on Discovery."
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "We will be tuning into that for sure."
+    },
+    {
+      "speaker": "KENNEDY",
+      "utterance": "I hope so, you'll like it."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Thank you so much for joining us tonight. Great to meet you. More on 'The Story,' next."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Well, that's it for our 'Story' on Thursday night. Don't miss Sean Hannity's exclusive interview with Roseanne Barr, that is coming up at 9 p.m. Eastern Time tonight. One hour from now. I will see again you bright and early tomorrow morning on America Newsroom from 9 a.m. till 12 noon. Join Bill and me every weekday at that time, hashtag nine to noon. Tucker Carlson is up next. Thank you again for joining us."
+    },
+    {
+      "speaker": "Copy",
+      "utterance": "Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

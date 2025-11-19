@@ -1,0 +1,1437 @@
+{
+  "date": "June 25, 2020",
+  "headline": "CDC reports possible 24M coronavirus cases in US",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/cdc-reports-possible-24m-coronavirus-cases-in-us",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "BRET BAIER, FOX NEWS ANCHOR",
+      "sentences": "Get the book and I like the rollerblading. Good job, Greg. Thanks, Juan. Good evening. Welcome to Washington, I'm Bret Baier. Breaking tonight, brand-new Fox polls in some key battleground states showing Joe Biden maintaining a lead on President Trump. The Democrat has a nine-point edge in Florida in our latest poll out right now. Trump took the state by one point in 2016 over Hillary Clinton. Biden leads by two in Georgia, a state in which Trump beat Clinton by five.  The margin is also two for Biden in North Carolina which Trump won by nearly four points in 2016 and Biden leads by one in Texas where the president won by nine almost four years ago.  We have a breakdown from the internals in these polls later with the panel. We'll also talk with representatives from both campaigns in just a moment.  Surveys like those are prompting concerns from some Republican leaders who are suggesting the president needs to adopt a different tone. Those suggestions come amid the latest dose of economic news in the wake of the coronavirus lockdowns and reopenings. Correspondent Peter Doocy starts us off tonight from Lancaster, Pennsylvania. Good evening, Peter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS CORRESPONDENT",
+      "sentences": "Good evening, Bret. This is the only swing state within the two-hour drive of Joe Biden's Delaware home. He's been here four out of six days on a campaign trail close post COVID-19 lockdown. And every time he comes to Pennsylvania, he sharpens his criticism of the way that President Trump has handled COVID-19.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "sentences": "He's like a child who can't believe this has happened to him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "And now, Independents in four states Trump carried in 2016 are breaking for Biden. By 22 in Florida, 18 in Texas, 17 in Georgia and 20 in North Carolina. So, some Republicans on Capitol Hill are urging the president to change his approach to pull Independents to the right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. JOHN THUNE (R-SD)",
+      "sentences": "I think he can win those back. But, it'll probably require not only a message that deals with substantive police, but I think a message that conveys perhaps a different tone.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "And there's reason for the Trump team to be hopeful, if the big issue on November 3rd is the economy, he's trusted to do a better job than Biden with that in battlegrounds Florida, Texas, Georgia and North Carolina. Still Biden is fighting to be seen as the economic mind over Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "To fix the economy, we have to get control over the virus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "There's no reason to believe COVID-19 will disappear by November. And when it comes to best handling the coronavirus, voters in these battleground states favor Biden over Trump by a narrow margin. Now, Biden's arguing to test more people as the president suggests reducing testing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "He thinks that finding out that more Americans are sick, we'll make him look bad.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "These battlegrounds all reveal a similar gender gap, man break for Trump, women break for Biden. In North Carolina suburban voters take Biden by a 21-point spread, in Georgia by 20 points. But some of the presidents' allies in Congress say they've got reason to believe whatever crisis is dominating the headlines today will be a distant memory when it matters.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "A lot of things will happen and I think there's a lot of the story that had to be written.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "And the president is trying to make it about Biden's delivery.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "He's a guy, doesn't talk, nobody hears him. Whenever he does talk, he can't put two sentences together. I don't want to be nice or a nice, OK? But I mean, the man can't speak.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "But Biden is trying to steer voters' attention to his record on the issues. One small socially distance group at a time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "I'm supposedly an expert on foreign policy. Well, health care is more complicated than foreign policy. And no, it really is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "So that's what a day on the campaign trail looks like for Joe Biden right now. The only voters that he met with where in that one small group. At one point he saw some facility staff and there was one socially distance selfie.  And he also had to make a promise that is basically unheard of in modern campaigning. He said, he would have to come back when it was OK to shake hands, Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Peter Doocy, live in Lancaster, Pennsylvania. Peter, thanks. President Trump has spend much of the day in another key battleground state, Wisconsin. President took part in the Town Hall with Sean Hannity. You can see that later on Fox News 9:00 p.m. on this. And he pushed back hard, the president did on demonstrators threatening one of Washington's iconic monuments. Chief White House Correspondent John Roberts joins us now from the North Lawn. Good evening, John.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN ROBERTS, FOX NEWS CHIEF WHITE HOUSE CORRESPONDENT",
+      "sentences": "Bret, good evening to you. Part of the fallout from the ongoing demonstrations across the country is whether symbols from another time are appropriate today. It's a debate that President Trump is having none of.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "That a white person gave you your freedom.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "With the protest group vowing to tear down the famous Lincoln Emancipation statue in Washington D.C., President Trump told the Sean Hannity Town Hall airing tonight, it is time to get tougher.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I stopped at the other night, every night we're going to get tougher and tougher. And at some point, there's going to be retribution because there has to be. These people are vandals but their agitators, but they're really, they're terrorists in a sense.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "The president is expected to sign an executive order tomorrow providing stiff penalties for anyone who defaces or damages statues, monuments and federal buildings.  At a Rose Garden news conference, President Trump said many people don't even know which statues they're tearing down. Tuesday night, vandals ruined a monument to Hans Christian Heg, a noted abolitionist who died fighting slavery in the Civil War.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "They're looking at George Washington, they're looking at Abraham Lincoln, Thomas Jefferson, not going to happen -- not going to happen. Not as long as I'm here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "400 National Guard troops in the nation's capital are on standby to protect monuments and statues. Washington's Mayor Muriel Bowser says, some of the statues may indeed cause legitimate concerns but there needs to be dialogue, not violence.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAYOR MURIEL BOWSER (D-WA), DISTRICT OF COLUMBIA",
+      "sentences": "What I think we all need to do with statues is kind of have a reasonable conversation on statues and other references to historical figures. Not have a mob decide that they want to pull it down.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "President Trump also took aim at the New York regional leader of Black Lives Matter, who in an interview with Martha MacCallum last night insisted there needs to be change.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HAWK NEWSOME, PRESIDENT, GREATER NEW YORK BLACK LIVES MATTER",
+      "sentences": "If this country doesn't give us what we want, then we will burn down this system and replace it, all right? And I can be speaking figuratively, I can be speaking literally, it's a matter of interpretation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "The president on Twitter saying Black Lives Matter leader states, if U.S. doesn't give us what we want, then we will burn this system and replace it. This is treason, sedition, insurrection. With legislation on police reform stalled in the Senate, Vice President Mike Pence today visited with police in Youngstown, Ohio. Pledging that while tactics and training need to change, the street violence that attacks against police have to stop.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT OF THE UNITED STATES",
+      "sentences": "There's no excuse for what happened to George Floyd in Minneapolis but there's also no excuse for the rioting and the violence and the looting and the attacks on law enforcement that have followed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "President Trump also took note today of the rising number of coronavirus cases in the United States insisting that the U.S. has the best and the most testing.  The president saying that while coronavirus cases on a daily basis have spiked to an all-time high, the number of daily deaths from coronavirus continued to decline, now down two-thirds from their peak, Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "John Roberts live on the North Lawn. John, thanks. Let's talk more about the economy and the presidential race. In a moment I'll speak with former Baltimore Democrat Mayor Stephanie Rawlings-Blake who will join us on behalf of the Joe Biden campaign.   But first, former acting White House Chief of Staff, Mick Mulvaney joins us. Mick, how are you doing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MICK MULVANEY, FORMER ACTING WHITE HOUSE CHIEF OF STAFF",
+      "sentences": "Good, good evening. How are you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Good, thanks.   Listen, we just put those polls up from our battleground states that we just put up. It tracks RealClearPolitics averages of battleground states where you're seeing Biden perform better than Hillary Clinton did at this point in the race in 2016. Your thoughts right now where the state of the race is?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MULVANEY",
+      "sentences": "You know, polls Bret as everybody learned in 2016, are really, really hard to get right especially when there's an unusual of candidate on the ballot like Donald Trump. Yet obviously would like to be ahead in every single pole, the same time you can manipulate easily an outcome based upon the number of people you talk to -- excuse me, the type of people you talk to the type of question that you asked. So, you sort of take all of the polls with a grain of salt. In fact, I was watching in other network this morning that would tend to be a little bit more pro-Biden in some other network. So they were cautious about -- you know, making too big a deal out of these polls. Polls are tough. The president's approval rating I think going into the 2016 election was in the upper 30s, yet he still won.  So, yes, you'd like to be ahead in the polls, but you're not too worried at this point in the race if you're behind.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Right, and we put the caveat on as well and later on the show, I'm going to go in to the internals and kind of give you a little bit behind- the-scenes of how we do that.  But I want to talk about what the president's facing. And there are some headwinds here, arguably even some of his supporters up on Capitol Hill, Senator Stone, Senator Graham, Senator Rounds had been talking about a need for a change in tone.  Basically because of these body blows that he's been taking. You know, the coronavirus handling, the post George Floyd time, and the economy. Kind of trying to get back from coronavirus. What do you -- do you see that as a canary in the coal mine?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MULVANEY",
+      "sentences": "I think we all get that -- you know, get the fact that there are a lot of folks, Republicans included who -- you know, have never liked the president's style. What I say to those folks is that the president's style is probably one of the things that won him election in the first place in 2016. And in any event, it's unlikely you're going to change his style. I think that better question Bret is how do you take the president's style and turn it into a huge advantage right now?  I think the thing that the campaign is not doing extraordinarily well is drawing those comparisons. That's wrong to draw a comparison between Donald Trump and Joe Biden, but it's been hard because Mr. Biden hasn't been out very much. (INAUDIBLE) hasn't been campaigning because of coronavirus. So the more they can draw those contrasts and make it Trump versus Biden, I suppose to Trump versus Trump, I think the president will fare much better in that outcome.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Mick, John Bolton has obviously made the rounds. He was on SPECIAL REPORT this week after an extended interview. One of things he's talking about is decision-making. Joe Biden is out with an ad about the decision- making on China. Here's Bolton on Chinese deals, take a listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN BOLTON, FORMER NATIONAL SECURITY ADVISOR",
+      "sentences": "Just a few days ago, he said that the Uyghur issue had interrupted his trade negotiations with China.  The point is not what he believes when he signs the particular legislation or what he says when he's dealing with the Chinese, it's that he doesn't particularly believe any of it longer than it takes to get past the day he's dealing with it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You've seen these interviews, you've seen what Bolton's saying, what's the response?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MULVANEY",
+      "sentences": "I think at some point, John Bolton forgot that he was a staff or forgot that he was the national security advisor and though that he was most of the time, he was the secretary of state or the president.  Every time I hear those clips, I see those interviews, it just makes me cringe as someone who is on the inner circle thinking that this is someone going out publicly now and essentially just second-guessing the president in an attempt to prevent his re-election. It's a true betrayal of confidence. I've often thought that there are folks who are Democrats chiefs of staff, Democrat national security advisor. It's just cringing watching that thinking that this is the ultimate in betrayal. John Bolton did like some of the president's decisions, didn't like some of the president's policies, but instead of making an argument behind closed doors and then defending the positions publicly, John decided to sort of go off on his own and try and undermine the president. That's the cardinal sin of any staffer but certainly some of its high up in the hierarchy as a national security advisor.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Mick Mulvaney, former acting chief of staff. Thank you. Welcome back any time, thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MULVANEY",
+      "sentences": "Thanks, Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Now, for the other side, we welcome in former Baltimore Mayor, Stephanie Rawlings-Blake. Madam Mayor, thanks for being here. Your thoughts, you just heard that from the former acting White House chief of staff, the state of the race. Where do you see it tonight?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEPHANIE RAWLINGS-BLAKE, FORMER MAYOR OF BALTIMORE",
+      "sentences": "I think it's always great to be up in the polls but the most important poll we know is Election Day. I think so many of us remember the pain that we felt knowing the polls were favoring Hillary Clinton four years ago and knowingly the ultimate outcome. And I hop everyone understands the price that is paid when we don't go to the polls. So I encourage people even though we're -- we are pleased and the Biden team is pleased that the polls are showing him ahead, but we cannot take it for granted. The focus needs to be on making sure that every single Democrat gets out to vote. Because if that happens, Biden will win.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Yes, there's some frustration up on Capitol Hill. Republicans thought that they were close to at least starting the conversation on police reform. Take a listen Senator Tim Scott on this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. TIM SCOTT (R-SC)",
+      "sentences": "Young Americans of all colors are losing faith in the institutions of authority and power in this nation. Because we're playing small ball, we're playing for those in the insulated chambers. We're playing for presidential politics.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So Democrats blocked the effort to even get the bill to the -- to vote on or to be amended. And there's frustration that this is all about politics in trying to be a presidential issue. How do you respond to that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "sentences": "I think it's definitely frustrating for many of us to see what's going on in Congress. Our hope, my hope is that some meaningful police reform will come out of Congress, but what I know from being a mayor is a lot of the leadership happens on the ground level from mayors. And I know that police reform is something that mayors across the country are taking a look at. They are engaging with their constituents to make sure that the policing for their community fits what the community needs. So I'm -- while I know that it's frustrating that the reform isn't coming out of Capitol Hill, that doesn't mean that changes are coming.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So, you would tell your Democrat colleagues on the Hill, maybe they should have gone forward and try to amend the bill and get 70 percent, not 100 percent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "sentences": "You know, I -- I'd wouldn't -- no, I think it's important for them to stand their ground in a way that they think is important. They are there every day, they know what they need to get done. For me, while it's frustrating that there isn't more coming out of it, what I know is that, you know, as much as they're doing, the real change happens on the ground. It's the work that they're doing in congress isn't going to change the law enforcement bill of -- law enforcement officer's bill of rights in Maryland, which has to be amended to make sure that my police commissioner could enforce and take precautions when it was necessary against officers who had committed wrongdoing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Yes, I want to play just one more sound bite for you, and this is Bob Johnson, the founder of BET, talking to Fox earlier this week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOB JOHNSON, FOUNDER, BLACK ENTERTAINMENT TELEVISION",
+      "sentences": "Vice President Biden, said to African American, Black-American host on a show, even if you think about voting for Donald Trump, you're not Black. To have that mind-set, you must have the attitude that we, Black Americans, we own you. We can take you for granted. And that to me shows you that Black Americans are an appendage of a party.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You went on to say that may be Black Lives Matter should start its own party. What's your response to Bob Johnson?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "sentences": "You know, I think it's unfortunate that he took what Biden said, you know, when fronted by a radio host out of context. And did so in a -- unfortunately, to be more divisive. And I don't think it's a time for us as a community to think about being divisive.  The Democratic Party has always been a place where African Americans, you know, in my lifetime have found opportunities for leadership. I was the secretary for the DNC. You know, there's so many that have gone before me. So, to say that because of something that was in artfully set on a talk show that African Americans are an appendage of the party, I don't -- I don't believe that to be the case at all.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Yes, just last thing quickly, I mean that you're saying not to be divisive, but there are parts of this movement and tearing down monuments and statues beyond confederate figures that some would say are divisive and outside the norm of our process of government. Will the vice president -- former vice president, speak out about that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "sentences": "I think what we need to hear is our president speak out against --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "He has.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "sentences": "Against racism, against police brutality. He spent more time defending these monuments of the south, monuments of the confederates that were anti-America, anti-U.S. He spent more time defending them that he has protecting the -- over 100,000 -- over 100,000 Americans that have died from COVID. You know, he's got his priorities really mixed up.  I think if he focused on, you know, listening to the -- to the protesters, instead of trying to incite violence and, you know, to try to boost his poll numbers with his base, I think we'd all be better off.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Yes, obviously, the Trump campaign has a different view of where he is and what he said. Mayor, we appreciate your time. Please send the message that we'd love to have the former vice president on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "sentences": "We'll do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Thanks. Up next, where things stand right now on police reform on Capitol Hill? First, here is what some of our Fox affiliates around the country are covering tonight. FOX 8 in Cleveland, as Vice President Mike Pence visits Ohio for the unveiling of a new electric pickup truck build buy a start-up company and the massive factory that once housed G.M.'s Lordstown Assembly plant. Lordstown Motor Corporation plans to hire hundreds of new workers. So, expected to sell that pickup truck for around $52,000 after federal tax credits. FOX 4 in Dallas as Chuck E. Cheese files for bankruptcy protection in the era of coronavirus lockdown. That company that owns the chain has reopen 266 of its 612 company operated restaurants. But its CEO says the organization needs to recover from the most challenging event in its history.  And this is a live look at Chicago from our affiliate, FOX 32. One of the big stories there tonight. The brothers who claimed they were paid by actor Jussie Smollett, to stage a racist homophobic attack against him, now say they are unwilling to testify against him. Abel and Ola Osundairo had been cooperating with law enforcement. They say they have changed their minds due in part to how the police are handling evidence seized from their home more than a year ago. That's tonight's live look \"OUTSIDE THE BELTWAY\" from SPECIAL REPORT. We'll be right back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "A late surge propel the Dow to a 300-point gain today. The S&P 500 was up 33. The NASDAQ finished ahead 108. Tonight, House lawmakers will vote on a Democrat supported bill on law enforcement reform. This comes one day after minority Democrats in the Senate scuttled, for now, a GOP measure. You heard me mention that earlier. Congressional correspondent Chad Pergram, tells us where things stand with this legislation this evening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "On this vote, the yeas are 55, the nays are 45.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAD PERGRAM, FOX NEWS CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Republicans are seething about Senate Democrats stalling legislation to curb police abuse.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL (R-KY)",
+      "sentences": "They want the Senate to discuss police reform while they blocked the Senate from discussing police reform.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERGRAM",
+      "sentences": "Senate procedure allowed the minority party Democrats to filibuster the GOP bill.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The House will be in order, the chairman before the House --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERGRAM",
+      "sentences": "The Democrats don't face the same process hurdles in the House, where the majority rules.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. JERROLD NADLER (D-NY)",
+      "sentences": "The Senate bill is sham, fake reform. It gestures, it uses some of the same words, but it does nothing real.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERGRAM",
+      "sentences": "South Carolina Republican Senaor Tim Scott wrote the Senate GOP bill, House Speaker Nancy Pelosi blasted it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "sentences": "They were trying to get away with murder, actually. The murder of George Floyd.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERGRAM",
+      "sentences": "Republicans demanded apology from Pelosi. Scott, says Democrats aren't serious about police reform, hoping to court black voters.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. TIM SCOTT (R-SC)",
+      "sentences": "This is pure, pure race politics at its worst.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERGRAM",
+      "sentences": "But even if the House passes its bill, police reform is likely dead in Congress despite weeks of protests.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCOTT",
+      "sentences": "They are really as closer to the trash can than it's ever been. Unfortunately, the Democrats really want to hold onto this issue. They believe they're going to win in November.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERGRAM",
+      "sentences": "Democrats want to pass their own bill if they can flip the Senate and capture the White House this fall. And even if Democrats due in the Senate, they most likely won't have 60 votes to cut off a filibuster. And Republicans could return the favor blocking the Democrats bill then.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCOTT",
+      "sentences": "That's why there will blood on the Democrats' hand. We did our part. The Democrats had the chance to do their part.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERGRAM",
+      "sentences": "Police reform could be stuck in legislative limbo, like immigration and guns, even if the House approves its bill tonight. Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Chad Pergram, live on Capitol Hill. Chad, thanks. People in Seattle, impacted by protesters' occupation of several city blocks are now fighting back. We'll bring you there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "The head of the World Health Organization says that while conditions in Europe are getting better, the coronavirus pandemic is getting worse in the rest of the world. This comes following the record date for new cases here in the U.S., also hospitalizations going up in different states around the country. Correspondent Laura Ingle takes a look tonight from Malverne, New York.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAURA INGLE, FOX NEWS CORRESPONDENT",
+      "sentences": "A staggering announcement today from the director of the Centers for Disease Control, estimating that for every person diagnosed with COVID-19, 10 additional infections have most likely gone unreported, meaning there could be up to 24 million cases in the United States.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. ROBERT REDFIELD, DIRECTOR, CENTERS FOR DISEASE CONTROL AND PREVENTION",
+      "sentences": "In the past, I just don't think we diagnosed these infections. The CDC has completed a series and will continue to do fairly extensive surveillance throughout the nation using antibody testing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGLE",
+      "sentences": "U.S. reported an all-time high in your daily cases of the coronavirus yesterday, with nearly 39,000 people testing positive for COVID-19.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It's really important we get to the bottom waiver seeing the surgeon cases.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGLE",
+      "sentences": "Twenty-two states in the last week have seen a spike in new cases 20 percent or higher, including California, Arizona, Florida, South Carolina, and Texas. With the new surgeon cases, Texas Governor Greg Abbott announced the state will now pause its additional reopening phases after health officials in his state reported over 4,300 new hospitalizations of COVID patients yesterday, a record high for the 13th straight day. The uptick in cases couldn't come at a worse time for the travel industry, which has prompted governors in New York, New Jersey, and Connecticut to announce a mandatory 14-day quarantine from anyone visiting from the eight hardest hit states. And in California, Disneyland announced it will would not reopen as scheduled on July 17th, citing a lack of guidance from state officials. The announcement comes as the company moves forward with plans to reopen the Walt Disney World Resort in Florida where cases have spiked again, posting its second highest one day total was over 5,000 cases reported overnight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGLE",
+      "sentences": "And as the nation works to financially recover from the COVID crisis, today the Government Accountability Office released a report showing the Treasury Department delivered about $1.4 billion in COVID relief stimulus payments to people who are deceased. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Laura, thank you. Officials Lincoln County, Oregon, have reversed themselves and agreed to drop an exemption to the directive requiring people to wear masks in public. That exemption allowed people of color to not wear masks if they were concerned about racial profiling. Officials say they heard concerns from people on both sides of the aisle. Lincoln was one of the first counties in the country to exempt people of color from wearing masks to prevent racial profiling. Several Seattle businesses, property owners, and residents are fighting back tonight against the city over its tolerance of an occupied protest zone. Senior correspondent Claudia Cowan details this evening from Seattle. ANDRE TAYLOR, \"NOT THIS TIME\" FOUNDER: CHOP is not a location. CHOP is an idea, right? And you can take that idea all over the country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CLAUDIA COWAN, FOX NEWS CORRESPONDENT",
+      "sentences": "As the protest winds down on day 17 in Seattle, legal action is just starting up. More than a dozen Capitol Hill residents and business owners have filed a class action lawsuit in federal court, claiming city leaders not only abandoned the neighborhood but were complicit in depriving them of their rights to their property. The suit accuses the city of helping the protesters by providing them with bathrooms, concrete barriers, and medical supplies, while those who live and work there were harassed and lost business. Resident Robert Flagg, seen here in the red hoodie, clears his street each morning and his own risk.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERT FLAGG, CAPITOL HILL RESIDENT",
+      "sentences": "The mayor, the governor, anybody that is looking in on this needs to see that this is not a protest, and this neighborhood, we need your help. We need all the help we can get.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COWAN",
+      "sentences": "The plaintiffs include an auto repair shop that was the site of this confrontation last week. When a protester tried to burn it down, the owner called the police repeatedly, but they never came.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN MCDERMOTT, PLAINTIFF",
+      "sentences": "People don't call 911 for entertainment. It's because they've got an emergency and they need help and they need it now. So very frustrated that the city has put us in this position.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COWAN",
+      "sentences": "Some protesters say they're glad the mayor has proposed cutting $20 million from the police budget. But it's not enough for others who remain entrenched around this abandoned precinct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ERIN ROSE, PROTESTOR",
+      "sentences": "We'll be camping around this building until we have a complete negotiation with the city.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COWAN",
+      "sentences": "And the city is negotiating with activists inside the CHOP zone so that police can move back into this precinct building safely and soon, but it is still unclear when exactly that is going to happen. And as far as the lawsuit, the city attorney's office will only say it intends to review it and respond accordingly. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Claudia Cowan, outside the CHOP zone in Seattle. Claudia, thanks. Does President Trump have buyer's remorse over his U.S. Supreme Court picks? We'll take you there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Updating a story we brought you earlier in the show, the brothers who claim they were paid by actor Jussie Smollett to stage a racist, homophobic attack against him said in a new statement late today they will, in fact, testify against him after all. Yesterday they said they wouldn't because of the way the police handled their material, the items were seized, including their handgun. Their attorney now says that handgun has been produced and they are going to testify against him. Just wanted to update you. Meantime, the U.S. Supreme Court has ruled the Trump administration can deport some people seeking asylum without allowing them to make their case to a federal judge. The high court's seven to two decision applies to people who fail their initial asylum screenings, making them eligible for quick deportation or expected removal. It comes on the heels of two other recent decisions that did not go the president's way. Tonight, we look at whether he may have some regrets about his Supreme Court choices. Here's correspondent David Spunt.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAVID SPUNT, FOX NEWS CORRESPONDENT",
+      "sentences": "As time ticks closer to the November election, the Supreme Court comes ever more into focus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "So help me God.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "So help me God.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "Asked if he ever made a mistake, Republican President Dwight Eisenhower once admitted two. Both were sitting on the Supreme Court, Chief Justice Earl Warren and Justice William Brennan, who both carved influential liberal legacies. Now President Trump may have similar concerns following two Supreme Court rulings last week. In one, the justices said was unconstitutional under federal law to fire someone based on sexual orientation or gender identity. Trump's handpicked appointee Neil Gorsuch authored the opinion. Three days later, the justices ruled the Trump administration's attempt to dismantle DACA improper, giving so called Dreamers a reprieve.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PAUL SMITH, GEORGETOWN UNIVERSITY LAW CENTER",
+      "sentences": "What the cases last week illustrate is that these are judges. They're not just legislators. They don't just vote policy outcomes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "Georgetown law professor Paul Smith argued in front of the Supreme Court 21 times.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "I think you have to look at the whole range of nominations, and most of them have turned out to be pretty much what the doctor ordered, what the president expected.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "But there are exceptions. Richard Nixon appointee Harry Blackmun wrote the majority opinion for Roe v. Wade in 1973. John Paul Stevens and David Souter, GOP presidential nominees, also swung left. And don't count out Bush 43 appointee, the Chief Justice John Roberts, who in some key cases runs counter to the Trump administration ideology on health care and immigration.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, (R) PRESIDENT OF THE UNITED STATES",
+      "sentences": "Justice Roberts really let us down. What he did with Obamacare was disgraceful.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "Three years later, responding to the president's labeling of a, quote, \"Obama judge,\" the chief justice put out a rare statement, quote, \"We do not have Obama judges or Trump judges, Bush judges or Clinton judges.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "Despite striving for complete independence, and nine justices and their decisions will no doubt become part of the conversation as we inch closer to the election. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "David Spunt, thanks. This morning, President Trump placed a wreath at the Korean War Memorial in Washington. Today is the 70th anniversary of the start of the Korean War. About 36,000 U.S. soldiers were killed in the conflict which lasted from 1950 to 1953. Up next, Joe Biden leads President Trump in key battleground states. We just have new polls out. We'll get reaction from the panel and go deep into those poles, explain them for you, when we come back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, (R) PRESIDENT OF THE UNITED STATES",
+      "sentences": "If they don't do something with Seattle, we're going to do that, we're going to go in there, because what's happening is they're taking over American cities. By the way, in all cases it's Democrats, they're Democrat run, in all cases. And Joe Biden would have that be the whole country. It's so crazy what's happening. Here's a guy who doesn't talk, nobody hears him. Whenever he does talk he can't put two sentences together. I don't want to be nice or un-nice, OK? But I mean, the man can't speak.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "President Trump with Sean Hannity at the town hall tonight, you can see it at 9:00 p.m. right here on this channel. This comes as new battleground state polls out from FOX News show Joe Biden increasing the lead in some places, roughly the same in others. And this track with the Real Clear Politics average of polls, Florida, Georgia, North Carolina, and Texas. I want to take you inside these polls and explain them. This next or graphic, the question here asked is, generally speaking, do you consider yourself Democrat or Republican or neither? In Florida, it is Democrat plus four, Georgia is Republican plus three, North Carolina is Democrat plus one, Texas is Republican plus six. Now, as you know, I'll leave this up, as you know, it's important to remember that responses to party identification, this question, move around, just like positions on issues and candidates. It's not a fixed demographic. Our poll, though, is the gold standard. We interview registered voters right now over the course of four ninths, June 20th to 23rd on landlines and cellphones with live interviewers. In Florida and Texas respondents are given the opportunity to complete the survey in English or Spanish. Polls of likely voters, this is important, are only realistic a couple of months prior to the next election. It's not really standard practice for most organizations, including FOX News -- you can take that off the screen -- to move from registered voters to likely voters. Usually around Labor Day, that's when many everyday Americans start tuning in and turning their attention to the election. So that gives us the perspective of the poll, and I just wanted to take you inside those numbers. These are state polls, again, not a national polls. Let's bring in our panel, Jason Riley, \"Wall Street Journal\" columnist, senior fellow at the Manhattan Institute, Mara Liasson, national political correspondent for National Public Radio, and Charles Hurt, opinion editor for \"The Washington Times.\" OK, Charlie, obviously it's June, we've got a long way to go, and as I mentioned about the likely polls, they give you a better sense of state polls. But this is a snapshot in time and it tracks with other polls we've seen in other battleground states. CHARLES HURT, OPINION EDITOR, \"WASHINGTON TIMES\": Yes, and I think you gave a very good rundown on why some of these polls this early out are to be taken with at least a slight grain of salt. And I think that those caveats become even greater when you look around at the environment that we're looking at right now, where you have, one of the reasons that people are reluctant to talk the pollsters has a lot to do with in the toxic environment that we are in. And so with that caveat, I think it's important to also note that the campaign has just begun. Obviously, as anybody would note, you want to be ahead in the polls at all times, but the campaign has just begun. And when people look around and they see the lawlessness in the streets and they see we've been through a pandemic, an economic collapse the likes of which this country has ever seen before, it's going to be a full, three, four, five month campaign before these issues start to get sorted out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Jason, does the monument stuff and the violence that we've seen around some of this, does that start to turn some folks in the middle, do you think? What the president is saying about it, the lack of action on police reform on Capitol Hill, does that boomerang somehow against Democrats? JASON RILEY, \"WALL STREET JOURNAL\" COLUMNIST: We need to hear how Joe Biden responds to that. I think that's yet to be seen, if he is going to distance himself from people that are toppling statues of our Founding Fathers. I think if he doesn't, it will hurt him. I think that is one of the wild cards that will play out between now and November. We don't know how these demonstrations are going to be handled by Joe Biden. If you're the White House, you don't like these polls. You're not panicking yet, you have some time, but you're behind where you were four years ago at this time. And Joe Biden looks like a stronger candidate than Hillary Clinton if for no other reason than he is not as unpopular as she was. And what I've been looking at in some of the polls are the demographic breakdowns of how Trump is doing. He won voters over 65 four years ago. He is behind among those voters now. And even among groups where he is still leading, like, say, with white women without a college degree or with evangelicals, his lead is smaller than it was four years ago. So he certainly has his work cut out. But he does have time and he does have a couple wild cards like the demonstrations and like how the COVID pandemic will play out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Then the other wild care, obviously, Mara, is the debates. And the Biden campaign has agreed to three presidential debates. I think the campaign wanted four or more. That could change the dynamic as well. They start in September.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARA LIASSON, NATIONAL POLITICAL CORRESPONDENT, NATIONAL PUBLIC RADIO",
+      "sentences": "That can absolutely. What the Trump campaign has been hoping for is that Biden comes out, starts making gaffes like he is prone to do. The more debates they feel are better for them, more opportunities for Biden to screw up. The problem is that the campaign who asks for more debates generally looks like the underdog and the guy who's a little more desperate. But I think that the fact that Donald Trump didn't have any room for error from last time, he just squeaked through. And he is not doing any better with any of the groups that he won last time. As Jason just mentioned, seniors, white noncollege women, he's doing worse. And he's been having a hard time defining Joe Biden, which is the job of any incumbent president running in a tough reelection race. He hasn't been able to define him. He's hard to define because he's not out there. The Biden campaign will say, hey, yes we are, you're just not covering us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I think they'll be some defining, obviously, with the Trump campaign war chest, Charlie, but the negatives for Biden are definitely different than they were for Hillary Clinton as you head to these final months.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HURT",
+      "sentences": "Absolutely. Hillary Clinton was a historically unpopular candidates to be running in the general election. That side, I think that what we saw from President Trump in Tulsa on Saturday night was a pretty good preview. And that line about this is Joe Biden's America, talking about the chaos in the street, talking about all of these problems that maybe people don't want to talk about with pollsters but are deeply troubling to everybody, Democrats and Republicans. But the other thing is, that line about how Joe Biden has been part of this problem in Washington for 47 years and he hasn't done anything about it, I think that that is the sort of thing we're going to hear a lot from the Trump campaign on, and I think it's a winning message.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And I have 15 seconds here, Jason, but do you think the Bob Johnson statements resonate in the African-American communities?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RILEY",
+      "sentences": "Perhaps they could resonate. But there is diversity of views among the African community. I don't know that Bob Johnson is speaking for everyone there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All right, panel, thank you very much. When we come back, the brighter side, some good news.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Finally, tonight, man's best friend. August, the golden retriever, recently celebrated her 20th birthday, becoming the oldest known living golden retriever. That is according to the Golden Hearts Golden Retriever Rescue, in case you wanted to know. August ate some dog friendly carrot cake, spent some quality time with her siblings Sherman, Belle, and Bruce. Her owner said she still moves around pretty well, enjoys daily walks around the yard. Good for you, August. And law enforcement officers honored a valuable member of their team, K-9 patrol dog Cuba. He served the Missouri State Highway Patrol for nine years before being diagnosed with terminal cancer. Officers came from across the state to give Cuba a pat on the head one last time before he made his final walk with his handler. OK, thanks for inviting us into your home tonight. That's it for this SPECIAL REPORT, fair, balanced, and still unafraid. \"The Story\" hosted by Martha MacCallum starts now. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS ANCHOR",
+      "utterance": "Get the book and I like the rollerblading. Good job, Greg. Thanks, Juan. Good evening. Welcome to Washington, I'm Bret Baier. Breaking tonight, brand-new Fox polls in some key battleground states showing Joe Biden maintaining a lead on President Trump. The Democrat has a nine-point edge in Florida in our latest poll out right now. Trump took the state by one point in 2016 over Hillary Clinton. Biden leads by two in Georgia, a state in which Trump beat Clinton by five. The margin is also two for Biden in North Carolina which Trump won by nearly four points in 2016 and Biden leads by one in Texas where the president won by nine almost four years ago. We have a breakdown from the internals in these polls later with the panel. We'll also talk with representatives from both campaigns in just a moment. Surveys like those are prompting concerns from some Republican leaders who are suggesting the president needs to adopt a different tone. Those suggestions come amid the latest dose of economic news in the wake of the coronavirus lockdowns and reopenings. Correspondent Peter Doocy starts us off tonight from Lancaster, Pennsylvania. Good evening, Peter."
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS CORRESPONDENT",
+      "utterance": "Good evening, Bret. This is the only swing state within the two-hour drive of Joe Biden's Delaware home. He's been here four out of six days on a campaign trail close post COVID-19 lockdown. And every time he comes to Pennsylvania, he sharpens his criticism of the way that President Trump has handled COVID-19."
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "utterance": "He's like a child who can't believe this has happened to him."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "And now, Independents in four states Trump carried in 2016 are breaking for Biden. By 22 in Florida, 18 in Texas, 17 in Georgia and 20 in North Carolina. So, some Republicans on Capitol Hill are urging the president to change his approach to pull Independents to the right."
+    },
+    {
+      "speaker": "SEN. JOHN THUNE (R-SD)",
+      "utterance": "I think he can win those back. But, it'll probably require not only a message that deals with substantive police, but I think a message that conveys perhaps a different tone."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "And there's reason for the Trump team to be hopeful, if the big issue on November 3rd is the economy, he's trusted to do a better job than Biden with that in battlegrounds Florida, Texas, Georgia and North Carolina. Still Biden is fighting to be seen as the economic mind over Trump."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "To fix the economy, we have to get control over the virus."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "There's no reason to believe COVID-19 will disappear by November. And when it comes to best handling the coronavirus, voters in these battleground states favor Biden over Trump by a narrow margin. Now, Biden's arguing to test more people as the president suggests reducing testing."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "He thinks that finding out that more Americans are sick, we'll make him look bad."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "These battlegrounds all reveal a similar gender gap, man break for Trump, women break for Biden. In North Carolina suburban voters take Biden by a 21-point spread, in Georgia by 20 points. But some of the presidents' allies in Congress say they've got reason to believe whatever crisis is dominating the headlines today will be a distant memory when it matters."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "A lot of things will happen and I think there's a lot of the story that had to be written."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "And the president is trying to make it about Biden's delivery."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "He's a guy, doesn't talk, nobody hears him. Whenever he does talk, he can't put two sentences together. I don't want to be nice or a nice, OK? But I mean, the man can't speak."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "But Biden is trying to steer voters' attention to his record on the issues. One small socially distance group at a time."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "I'm supposedly an expert on foreign policy. Well, health care is more complicated than foreign policy. And no, it really is."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "So that's what a day on the campaign trail looks like for Joe Biden right now. The only voters that he met with where in that one small group. At one point he saw some facility staff and there was one socially distance selfie. And he also had to make a promise that is basically unheard of in modern campaigning. He said, he would have to come back when it was OK to shake hands, Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Peter Doocy, live in Lancaster, Pennsylvania. Peter, thanks. President Trump has spend much of the day in another key battleground state, Wisconsin. President took part in the Town Hall with Sean Hannity. You can see that later on Fox News 9:00 p.m. on this. And he pushed back hard, the president did on demonstrators threatening one of Washington's iconic monuments. Chief White House Correspondent John Roberts joins us now from the North Lawn. Good evening, John."
+    },
+    {
+      "speaker": "JOHN ROBERTS, FOX NEWS CHIEF WHITE HOUSE CORRESPONDENT",
+      "utterance": "Bret, good evening to you. Part of the fallout from the ongoing demonstrations across the country is whether symbols from another time are appropriate today. It's a debate that President Trump is having none of."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "That a white person gave you your freedom."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "With the protest group vowing to tear down the famous Lincoln Emancipation statue in Washington D.C., President Trump told the Sean Hannity Town Hall airing tonight, it is time to get tougher."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I stopped at the other night, every night we're going to get tougher and tougher. And at some point, there's going to be retribution because there has to be. These people are vandals but their agitators, but they're really, they're terrorists in a sense."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "The president is expected to sign an executive order tomorrow providing stiff penalties for anyone who defaces or damages statues, monuments and federal buildings. At a Rose Garden news conference, President Trump said many people don't even know which statues they're tearing down. Tuesday night, vandals ruined a monument to Hans Christian Heg, a noted abolitionist who died fighting slavery in the Civil War."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "They're looking at George Washington, they're looking at Abraham Lincoln, Thomas Jefferson, not going to happen -- not going to happen. Not as long as I'm here."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "400 National Guard troops in the nation's capital are on standby to protect monuments and statues. Washington's Mayor Muriel Bowser says, some of the statues may indeed cause legitimate concerns but there needs to be dialogue, not violence."
+    },
+    {
+      "speaker": "MAYOR MURIEL BOWSER (D-WA), DISTRICT OF COLUMBIA",
+      "utterance": "What I think we all need to do with statues is kind of have a reasonable conversation on statues and other references to historical figures. Not have a mob decide that they want to pull it down."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "President Trump also took aim at the New York regional leader of Black Lives Matter, who in an interview with Martha MacCallum last night insisted there needs to be change."
+    },
+    {
+      "speaker": "HAWK NEWSOME, PRESIDENT, GREATER NEW YORK BLACK LIVES MATTER",
+      "utterance": "If this country doesn't give us what we want, then we will burn down this system and replace it, all right? And I can be speaking figuratively, I can be speaking literally, it's a matter of interpretation."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "The president on Twitter saying Black Lives Matter leader states, if U.S. doesn't give us what we want, then we will burn this system and replace it. This is treason, sedition, insurrection. With legislation on police reform stalled in the Senate, Vice President Mike Pence today visited with police in Youngstown, Ohio. Pledging that while tactics and training need to change, the street violence that attacks against police have to stop."
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT OF THE UNITED STATES",
+      "utterance": "There's no excuse for what happened to George Floyd in Minneapolis but there's also no excuse for the rioting and the violence and the looting and the attacks on law enforcement that have followed."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "President Trump also took note today of the rising number of coronavirus cases in the United States insisting that the U.S. has the best and the most testing. The president saying that while coronavirus cases on a daily basis have spiked to an all-time high, the number of daily deaths from coronavirus continued to decline, now down two-thirds from their peak, Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "John Roberts live on the North Lawn. John, thanks. Let's talk more about the economy and the presidential race. In a moment I'll speak with former Baltimore Democrat Mayor Stephanie Rawlings-Blake who will join us on behalf of the Joe Biden campaign. But first, former acting White House Chief of Staff, Mick Mulvaney joins us. Mick, how are you doing?"
+    },
+    {
+      "speaker": "MICK MULVANEY, FORMER ACTING WHITE HOUSE CHIEF OF STAFF",
+      "utterance": "Good, good evening. How are you?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Good, thanks. Listen, we just put those polls up from our battleground states that we just put up. It tracks RealClearPolitics averages of battleground states where you're seeing Biden perform better than Hillary Clinton did at this point in the race in 2016. Your thoughts right now where the state of the race is?"
+    },
+    {
+      "speaker": "MULVANEY",
+      "utterance": "You know, polls Bret as everybody learned in 2016, are really, really hard to get right especially when there's an unusual of candidate on the ballot like Donald Trump. Yet obviously would like to be ahead in every single pole, the same time you can manipulate easily an outcome based upon the number of people you talk to -- excuse me, the type of people you talk to the type of question that you asked. So, you sort of take all of the polls with a grain of salt. In fact, I was watching in other network this morning that would tend to be a little bit more pro-Biden in some other network. So they were cautious about -- you know, making too big a deal out of these polls. Polls are tough. The president's approval rating I think going into the 2016 election was in the upper 30s, yet he still won. So, yes, you'd like to be ahead in the polls, but you're not too worried at this point in the race if you're behind."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Right, and we put the caveat on as well and later on the show, I'm going to go in to the internals and kind of give you a little bit behind- the-scenes of how we do that. But I want to talk about what the president's facing. And there are some headwinds here, arguably even some of his supporters up on Capitol Hill, Senator Stone, Senator Graham, Senator Rounds had been talking about a need for a change in tone. Basically because of these body blows that he's been taking. You know, the coronavirus handling, the post George Floyd time, and the economy. Kind of trying to get back from coronavirus. What do you -- do you see that as a canary in the coal mine?"
+    },
+    {
+      "speaker": "MULVANEY",
+      "utterance": "I think we all get that -- you know, get the fact that there are a lot of folks, Republicans included who -- you know, have never liked the president's style. What I say to those folks is that the president's style is probably one of the things that won him election in the first place in 2016. And in any event, it's unlikely you're going to change his style. I think that better question Bret is how do you take the president's style and turn it into a huge advantage right now? I think the thing that the campaign is not doing extraordinarily well is drawing those comparisons. That's wrong to draw a comparison between Donald Trump and Joe Biden, but it's been hard because Mr. Biden hasn't been out very much. (INAUDIBLE) hasn't been campaigning because of coronavirus. So the more they can draw those contrasts and make it Trump versus Biden, I suppose to Trump versus Trump, I think the president will fare much better in that outcome."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Mick, John Bolton has obviously made the rounds. He was on SPECIAL REPORT this week after an extended interview. One of things he's talking about is decision-making. Joe Biden is out with an ad about the decision- making on China. Here's Bolton on Chinese deals, take a listen."
+    },
+    {
+      "speaker": "JOHN BOLTON, FORMER NATIONAL SECURITY ADVISOR",
+      "utterance": "Just a few days ago, he said that the Uyghur issue had interrupted his trade negotiations with China.  The point is not what he believes when he signs the particular legislation or what he says when he's dealing with the Chinese, it's that he doesn't particularly believe any of it longer than it takes to get past the day he's dealing with it."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You've seen these interviews, you've seen what Bolton's saying, what's the response?"
+    },
+    {
+      "speaker": "MULVANEY",
+      "utterance": "I think at some point, John Bolton forgot that he was a staff or forgot that he was the national security advisor and though that he was most of the time, he was the secretary of state or the president. Every time I hear those clips, I see those interviews, it just makes me cringe as someone who is on the inner circle thinking that this is someone going out publicly now and essentially just second-guessing the president in an attempt to prevent his re-election. It's a true betrayal of confidence. I've often thought that there are folks who are Democrats chiefs of staff, Democrat national security advisor. It's just cringing watching that thinking that this is the ultimate in betrayal. John Bolton did like some of the president's decisions, didn't like some of the president's policies, but instead of making an argument behind closed doors and then defending the positions publicly, John decided to sort of go off on his own and try and undermine the president. That's the cardinal sin of any staffer but certainly some of its high up in the hierarchy as a national security advisor."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Mick Mulvaney, former acting chief of staff. Thank you. Welcome back any time, thanks."
+    },
+    {
+      "speaker": "MULVANEY",
+      "utterance": "Thanks, Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Now, for the other side, we welcome in former Baltimore Mayor, Stephanie Rawlings-Blake. Madam Mayor, thanks for being here. Your thoughts, you just heard that from the former acting White House chief of staff, the state of the race. Where do you see it tonight?"
+    },
+    {
+      "speaker": "STEPHANIE RAWLINGS-BLAKE, FORMER MAYOR OF BALTIMORE",
+      "utterance": "I think it's always great to be up in the polls but the most important poll we know is Election Day. I think so many of us remember the pain that we felt knowing the polls were favoring Hillary Clinton four years ago and knowingly the ultimate outcome. And I hop everyone understands the price that is paid when we don't go to the polls. So I encourage people even though we're -- we are pleased and the Biden team is pleased that the polls are showing him ahead, but we cannot take it for granted. The focus needs to be on making sure that every single Democrat gets out to vote. Because if that happens, Biden will win."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Yes, there's some frustration up on Capitol Hill. Republicans thought that they were close to at least starting the conversation on police reform. Take a listen Senator Tim Scott on this."
+    },
+    {
+      "speaker": "SEN. TIM SCOTT (R-SC)",
+      "utterance": "Young Americans of all colors are losing faith in the institutions of authority and power in this nation. Because we're playing small ball, we're playing for those in the insulated chambers. We're playing for presidential politics."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So Democrats blocked the effort to even get the bill to the -- to vote on or to be amended. And there's frustration that this is all about politics in trying to be a presidential issue. How do you respond to that?"
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "utterance": "I think it's definitely frustrating for many of us to see what's going on in Congress. Our hope, my hope is that some meaningful police reform will come out of Congress, but what I know from being a mayor is a lot of the leadership happens on the ground level from mayors. And I know that police reform is something that mayors across the country are taking a look at. They are engaging with their constituents to make sure that the policing for their community fits what the community needs. So I'm -- while I know that it's frustrating that the reform isn't coming out of Capitol Hill, that doesn't mean that changes are coming."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So, you would tell your Democrat colleagues on the Hill, maybe they should have gone forward and try to amend the bill and get 70 percent, not 100 percent."
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "utterance": "You know, I -- I'd wouldn't -- no, I think it's important for them to stand their ground in a way that they think is important. They are there every day, they know what they need to get done. For me, while it's frustrating that there isn't more coming out of it, what I know is that, you know, as much as they're doing, the real change happens on the ground. It's the work that they're doing in congress isn't going to change the law enforcement bill of -- law enforcement officer's bill of rights in Maryland, which has to be amended to make sure that my police commissioner could enforce and take precautions when it was necessary against officers who had committed wrongdoing."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Yes, I want to play just one more sound bite for you, and this is Bob Johnson, the founder of BET, talking to Fox earlier this week."
+    },
+    {
+      "speaker": "BOB JOHNSON, FOUNDER, BLACK ENTERTAINMENT TELEVISION",
+      "utterance": "Vice President Biden, said to African American, Black-American host on a show, even if you think about voting for Donald Trump, you're not Black. To have that mind-set, you must have the attitude that we, Black Americans, we own you. We can take you for granted. And that to me shows you that Black Americans are an appendage of a party."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You went on to say that may be Black Lives Matter should start its own party. What's your response to Bob Johnson?"
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "utterance": "You know, I think it's unfortunate that he took what Biden said, you know, when fronted by a radio host out of context. And did so in a -- unfortunately, to be more divisive. And I don't think it's a time for us as a community to think about being divisive. The Democratic Party has always been a place where African Americans, you know, in my lifetime have found opportunities for leadership. I was the secretary for the DNC. You know, there's so many that have gone before me. So, to say that because of something that was in artfully set on a talk show that African Americans are an appendage of the party, I don't -- I don't believe that to be the case at all."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Yes, just last thing quickly, I mean that you're saying not to be divisive, but there are parts of this movement and tearing down monuments and statues beyond confederate figures that some would say are divisive and outside the norm of our process of government. Will the vice president -- former vice president, speak out about that?"
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "utterance": "I think what we need to hear is our president speak out against --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "He has."
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "utterance": "Against racism, against police brutality. He spent more time defending these monuments of the south, monuments of the confederates that were anti-America, anti-U.S. He spent more time defending them that he has protecting the -- over 100,000 -- over 100,000 Americans that have died from COVID. You know, he's got his priorities really mixed up. I think if he focused on, you know, listening to the -- to the protesters, instead of trying to incite violence and, you know, to try to boost his poll numbers with his base, I think we'd all be better off."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Yes, obviously, the Trump campaign has a different view of where he is and what he said. Mayor, we appreciate your time. Please send the message that we'd love to have the former vice president on."
+    },
+    {
+      "speaker": "RAWLINGS-BLAKE",
+      "utterance": "We'll do."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Thanks. Up next, where things stand right now on police reform on Capitol Hill? First, here is what some of our Fox affiliates around the country are covering tonight. FOX 8 in Cleveland, as Vice President Mike Pence visits Ohio for the unveiling of a new electric pickup truck build buy a start-up company and the massive factory that once housed G.M.'s Lordstown Assembly plant. Lordstown Motor Corporation plans to hire hundreds of new workers. So, expected to sell that pickup truck for around $52,000 after federal tax credits. FOX 4 in Dallas as Chuck E. Cheese files for bankruptcy protection in the era of coronavirus lockdown. That company that owns the chain has reopen 266 of its 612 company operated restaurants. But its CEO says the organization needs to recover from the most challenging event in its history. And this is a live look at Chicago from our affiliate, FOX 32. One of the big stories there tonight. The brothers who claimed they were paid by actor Jussie Smollett, to stage a racist homophobic attack against him, now say they are unwilling to testify against him. Abel and Ola Osundairo had been cooperating with law enforcement. They say they have changed their minds due in part to how the police are handling evidence seized from their home more than a year ago. That's tonight's live look \"OUTSIDE THE BELTWAY\" from SPECIAL REPORT. We'll be right back."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "A late surge propel the Dow to a 300-point gain today. The S&P 500 was up 33. The NASDAQ finished ahead 108. Tonight, House lawmakers will vote on a Democrat supported bill on law enforcement reform. This comes one day after minority Democrats in the Senate scuttled, for now, a GOP measure. You heard me mention that earlier. Congressional correspondent Chad Pergram, tells us where things stand with this legislation this evening."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "On this vote, the yeas are 55, the nays are 45."
+    },
+    {
+      "speaker": "CHAD PERGRAM, FOX NEWS CONGRESSIONAL CORRESPONDENT",
+      "utterance": "Republicans are seething about Senate Democrats stalling legislation to curb police abuse."
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL (R-KY)",
+      "utterance": "They want the Senate to discuss police reform while they blocked the Senate from discussing police reform."
+    },
+    {
+      "speaker": "PERGRAM",
+      "utterance": "Senate procedure allowed the minority party Democrats to filibuster the GOP bill."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "The House will be in order, the chairman before the House --"
+    },
+    {
+      "speaker": "PERGRAM",
+      "utterance": "The Democrats don't face the same process hurdles in the House, where the majority rules."
+    },
+    {
+      "speaker": "REP. JERROLD NADLER (D-NY)",
+      "utterance": "The Senate bill is sham, fake reform. It gestures, it uses some of the same words, but it does nothing real."
+    },
+    {
+      "speaker": "PERGRAM",
+      "utterance": "South Carolina Republican Senaor Tim Scott wrote the Senate GOP bill, House Speaker Nancy Pelosi blasted it."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "utterance": "They were trying to get away with murder, actually. The murder of George Floyd."
+    },
+    {
+      "speaker": "PERGRAM",
+      "utterance": "Republicans demanded apology from Pelosi. Scott, says Democrats aren't serious about police reform, hoping to court black voters."
+    },
+    {
+      "speaker": "SEN. TIM SCOTT (R-SC)",
+      "utterance": "This is pure, pure race politics at its worst."
+    },
+    {
+      "speaker": "PERGRAM",
+      "utterance": "But even if the House passes its bill, police reform is likely dead in Congress despite weeks of protests."
+    },
+    {
+      "speaker": "SCOTT",
+      "utterance": "They are really as closer to the trash can than it's ever been. Unfortunately, the Democrats really want to hold onto this issue. They believe they're going to win in November."
+    },
+    {
+      "speaker": "PERGRAM",
+      "utterance": "Democrats want to pass their own bill if they can flip the Senate and capture the White House this fall. And even if Democrats due in the Senate, they most likely won't have 60 votes to cut off a filibuster. And Republicans could return the favor blocking the Democrats bill then."
+    },
+    {
+      "speaker": "SCOTT",
+      "utterance": "That's why there will blood on the Democrats' hand. We did our part. The Democrats had the chance to do their part."
+    },
+    {
+      "speaker": "PERGRAM",
+      "utterance": "Police reform could be stuck in legislative limbo, like immigration and guns, even if the House approves its bill tonight. Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Chad Pergram, live on Capitol Hill. Chad, thanks. People in Seattle, impacted by protesters' occupation of several city blocks are now fighting back. We'll bring you there."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "The head of the World Health Organization says that while conditions in Europe are getting better, the coronavirus pandemic is getting worse in the rest of the world. This comes following the record date for new cases here in the U.S., also hospitalizations going up in different states around the country. Correspondent Laura Ingle takes a look tonight from Malverne, New York."
+    },
+    {
+      "speaker": "LAURA INGLE, FOX NEWS CORRESPONDENT",
+      "utterance": "A staggering announcement today from the director of the Centers for Disease Control, estimating that for every person diagnosed with COVID-19, 10 additional infections have most likely gone unreported, meaning there could be up to 24 million cases in the United States."
+    },
+    {
+      "speaker": "DR. ROBERT REDFIELD, DIRECTOR, CENTERS FOR DISEASE CONTROL AND PREVENTION",
+      "utterance": "In the past, I just don't think we diagnosed these infections. The CDC has completed a series and will continue to do fairly extensive surveillance throughout the nation using antibody testing."
+    },
+    {
+      "speaker": "INGLE",
+      "utterance": "U.S. reported an all-time high in your daily cases of the coronavirus yesterday, with nearly 39,000 people testing positive for COVID-19."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "It's really important we get to the bottom waiver seeing the surgeon cases."
+    },
+    {
+      "speaker": "INGLE",
+      "utterance": "Twenty-two states in the last week have seen a spike in new cases 20 percent or higher, including California, Arizona, Florida, South Carolina, and Texas. With the new surgeon cases, Texas Governor Greg Abbott announced the state will now pause its additional reopening phases after health officials in his state reported over 4,300 new hospitalizations of COVID patients yesterday, a record high for the 13th straight day. The uptick in cases couldn't come at a worse time for the travel industry, which has prompted governors in New York, New Jersey, and Connecticut to announce a mandatory 14-day quarantine from anyone visiting from the eight hardest hit states. And in California, Disneyland announced it will would not reopen as scheduled on July 17th, citing a lack of guidance from state officials. The announcement comes as the company moves forward with plans to reopen the Walt Disney World Resort in Florida where cases have spiked again, posting its second highest one day total was over 5,000 cases reported overnight."
+    },
+    {
+      "speaker": "INGLE",
+      "utterance": "And as the nation works to financially recover from the COVID crisis, today the Government Accountability Office released a report showing the Treasury Department delivered about $1.4 billion in COVID relief stimulus payments to people who are deceased. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Laura, thank you. Officials Lincoln County, Oregon, have reversed themselves and agreed to drop an exemption to the directive requiring people to wear masks in public. That exemption allowed people of color to not wear masks if they were concerned about racial profiling. Officials say they heard concerns from people on both sides of the aisle. Lincoln was one of the first counties in the country to exempt people of color from wearing masks to prevent racial profiling. Several Seattle businesses, property owners, and residents are fighting back tonight against the city over its tolerance of an occupied protest zone. Senior correspondent Claudia Cowan details this evening from Seattle. ANDRE TAYLOR, \"NOT THIS TIME\" FOUNDER: CHOP is not a location. CHOP is an idea, right? And you can take that idea all over the country."
+    },
+    {
+      "speaker": "CLAUDIA COWAN, FOX NEWS CORRESPONDENT",
+      "utterance": "As the protest winds down on day 17 in Seattle, legal action is just starting up. More than a dozen Capitol Hill residents and business owners have filed a class action lawsuit in federal court, claiming city leaders not only abandoned the neighborhood but were complicit in depriving them of their rights to their property. The suit accuses the city of helping the protesters by providing them with bathrooms, concrete barriers, and medical supplies, while those who live and work there were harassed and lost business. Resident Robert Flagg, seen here in the red hoodie, clears his street each morning and his own risk."
+    },
+    {
+      "speaker": "ROBERT FLAGG, CAPITOL HILL RESIDENT",
+      "utterance": "The mayor, the governor, anybody that is looking in on this needs to see that this is not a protest, and this neighborhood, we need your help. We need all the help we can get."
+    },
+    {
+      "speaker": "COWAN",
+      "utterance": "The plaintiffs include an auto repair shop that was the site of this confrontation last week. When a protester tried to burn it down, the owner called the police repeatedly, but they never came."
+    },
+    {
+      "speaker": "JOHN MCDERMOTT, PLAINTIFF",
+      "utterance": "People don't call 911 for entertainment. It's because they've got an emergency and they need help and they need it now. So very frustrated that the city has put us in this position."
+    },
+    {
+      "speaker": "COWAN",
+      "utterance": "Some protesters say they're glad the mayor has proposed cutting $20 million from the police budget. But it's not enough for others who remain entrenched around this abandoned precinct."
+    },
+    {
+      "speaker": "ERIN ROSE, PROTESTOR",
+      "utterance": "We'll be camping around this building until we have a complete negotiation with the city."
+    },
+    {
+      "speaker": "COWAN",
+      "utterance": "And the city is negotiating with activists inside the CHOP zone so that police can move back into this precinct building safely and soon, but it is still unclear when exactly that is going to happen. And as far as the lawsuit, the city attorney's office will only say it intends to review it and respond accordingly. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Claudia Cowan, outside the CHOP zone in Seattle. Claudia, thanks. Does President Trump have buyer's remorse over his U.S. Supreme Court picks? We'll take you there."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Updating a story we brought you earlier in the show, the brothers who claim they were paid by actor Jussie Smollett to stage a racist, homophobic attack against him said in a new statement late today they will, in fact, testify against him after all. Yesterday they said they wouldn't because of the way the police handled their material, the items were seized, including their handgun. Their attorney now says that handgun has been produced and they are going to testify against him. Just wanted to update you. Meantime, the U.S. Supreme Court has ruled the Trump administration can deport some people seeking asylum without allowing them to make their case to a federal judge. The high court's seven to two decision applies to people who fail their initial asylum screenings, making them eligible for quick deportation or expected removal. It comes on the heels of two other recent decisions that did not go the president's way. Tonight, we look at whether he may have some regrets about his Supreme Court choices. Here's correspondent David Spunt."
+    },
+    {
+      "speaker": "DAVID SPUNT, FOX NEWS CORRESPONDENT",
+      "utterance": "As time ticks closer to the November election, the Supreme Court comes ever more into focus."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "So help me God."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "So help me God."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "Asked if he ever made a mistake, Republican President Dwight Eisenhower once admitted two. Both were sitting on the Supreme Court, Chief Justice Earl Warren and Justice William Brennan, who both carved influential liberal legacies. Now President Trump may have similar concerns following two Supreme Court rulings last week. In one, the justices said was unconstitutional under federal law to fire someone based on sexual orientation or gender identity. Trump's handpicked appointee Neil Gorsuch authored the opinion. Three days later, the justices ruled the Trump administration's attempt to dismantle DACA improper, giving so called Dreamers a reprieve."
+    },
+    {
+      "speaker": "PAUL SMITH, GEORGETOWN UNIVERSITY LAW CENTER",
+      "utterance": "What the cases last week illustrate is that these are judges. They're not just legislators. They don't just vote policy outcomes."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "Georgetown law professor Paul Smith argued in front of the Supreme Court 21 times."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "I think you have to look at the whole range of nominations, and most of them have turned out to be pretty much what the doctor ordered, what the president expected."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "But there are exceptions. Richard Nixon appointee Harry Blackmun wrote the majority opinion for Roe v. Wade in 1973. John Paul Stevens and David Souter, GOP presidential nominees, also swung left. And don't count out Bush 43 appointee, the Chief Justice John Roberts, who in some key cases runs counter to the Trump administration ideology on health care and immigration."
+    },
+    {
+      "speaker": "DONALD TRUMP, (R) PRESIDENT OF THE UNITED STATES",
+      "utterance": "Justice Roberts really let us down. What he did with Obamacare was disgraceful."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "Three years later, responding to the president's labeling of a, quote, \"Obama judge,\" the chief justice put out a rare statement, quote, \"We do not have Obama judges or Trump judges, Bush judges or Clinton judges.\""
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "Despite striving for complete independence, and nine justices and their decisions will no doubt become part of the conversation as we inch closer to the election. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "David Spunt, thanks. This morning, President Trump placed a wreath at the Korean War Memorial in Washington. Today is the 70th anniversary of the start of the Korean War. About 36,000 U.S. soldiers were killed in the conflict which lasted from 1950 to 1953. Up next, Joe Biden leads President Trump in key battleground states. We just have new polls out. We'll get reaction from the panel and go deep into those poles, explain them for you, when we come back."
+    },
+    {
+      "speaker": "DONALD TRUMP, (R) PRESIDENT OF THE UNITED STATES",
+      "utterance": "If they don't do something with Seattle, we're going to do that, we're going to go in there, because what's happening is they're taking over American cities. By the way, in all cases it's Democrats, they're Democrat run, in all cases. And Joe Biden would have that be the whole country. It's so crazy what's happening. Here's a guy who doesn't talk, nobody hears him. Whenever he does talk he can't put two sentences together. I don't want to be nice or un-nice, OK? But I mean, the man can't speak."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "President Trump with Sean Hannity at the town hall tonight, you can see it at 9:00 p.m. right here on this channel. This comes as new battleground state polls out from FOX News show Joe Biden increasing the lead in some places, roughly the same in others. And this track with the Real Clear Politics average of polls, Florida, Georgia, North Carolina, and Texas. I want to take you inside these polls and explain them. This next or graphic, the question here asked is, generally speaking, do you consider yourself Democrat or Republican or neither? In Florida, it is Democrat plus four, Georgia is Republican plus three, North Carolina is Democrat plus one, Texas is Republican plus six. Now, as you know, I'll leave this up, as you know, it's important to remember that responses to party identification, this question, move around, just like positions on issues and candidates. It's not a fixed demographic. Our poll, though, is the gold standard. We interview registered voters right now over the course of four ninths, June 20th to 23rd on landlines and cellphones with live interviewers. In Florida and Texas respondents are given the opportunity to complete the survey in English or Spanish. Polls of likely voters, this is important, are only realistic a couple of months prior to the next election. It's not really standard practice for most organizations, including FOX News -- you can take that off the screen -- to move from registered voters to likely voters. Usually around Labor Day, that's when many everyday Americans start tuning in and turning their attention to the election. So that gives us the perspective of the poll, and I just wanted to take you inside those numbers. These are state polls, again, not a national polls. Let's bring in our panel, Jason Riley, \"Wall Street Journal\" columnist, senior fellow at the Manhattan Institute, Mara Liasson, national political correspondent for National Public Radio, and Charles Hurt, opinion editor for \"The Washington Times.\" OK, Charlie, obviously it's June, we've got a long way to go, and as I mentioned about the likely polls, they give you a better sense of state polls. But this is a snapshot in time and it tracks with other polls we've seen in other battleground states. CHARLES HURT, OPINION EDITOR, \"WASHINGTON TIMES\": Yes, and I think you gave a very good rundown on why some of these polls this early out are to be taken with at least a slight grain of salt. And I think that those caveats become even greater when you look around at the environment that we're looking at right now, where you have, one of the reasons that people are reluctant to talk the pollsters has a lot to do with in the toxic environment that we are in. And so with that caveat, I think it's important to also note that the campaign has just begun. Obviously, as anybody would note, you want to be ahead in the polls at all times, but the campaign has just begun. And when people look around and they see the lawlessness in the streets and they see we've been through a pandemic, an economic collapse the likes of which this country has ever seen before, it's going to be a full, three, four, five month campaign before these issues start to get sorted out."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Jason, does the monument stuff and the violence that we've seen around some of this, does that start to turn some folks in the middle, do you think? What the president is saying about it, the lack of action on police reform on Capitol Hill, does that boomerang somehow against Democrats? JASON RILEY, \"WALL STREET JOURNAL\" COLUMNIST: We need to hear how Joe Biden responds to that. I think that's yet to be seen, if he is going to distance himself from people that are toppling statues of our Founding Fathers. I think if he doesn't, it will hurt him. I think that is one of the wild cards that will play out between now and November. We don't know how these demonstrations are going to be handled by Joe Biden. If you're the White House, you don't like these polls. You're not panicking yet, you have some time, but you're behind where you were four years ago at this time. And Joe Biden looks like a stronger candidate than Hillary Clinton if for no other reason than he is not as unpopular as she was. And what I've been looking at in some of the polls are the demographic breakdowns of how Trump is doing. He won voters over 65 four years ago. He is behind among those voters now. And even among groups where he is still leading, like, say, with white women without a college degree or with evangelicals, his lead is smaller than it was four years ago. So he certainly has his work cut out. But he does have time and he does have a couple wild cards like the demonstrations and like how the COVID pandemic will play out."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Then the other wild care, obviously, Mara, is the debates. And the Biden campaign has agreed to three presidential debates. I think the campaign wanted four or more. That could change the dynamic as well. They start in September."
+    },
+    {
+      "speaker": "MARA LIASSON, NATIONAL POLITICAL CORRESPONDENT, NATIONAL PUBLIC RADIO",
+      "utterance": "That can absolutely. What the Trump campaign has been hoping for is that Biden comes out, starts making gaffes like he is prone to do. The more debates they feel are better for them, more opportunities for Biden to screw up. The problem is that the campaign who asks for more debates generally looks like the underdog and the guy who's a little more desperate. But I think that the fact that Donald Trump didn't have any room for error from last time, he just squeaked through. And he is not doing any better with any of the groups that he won last time. As Jason just mentioned, seniors, white noncollege women, he's doing worse. And he's been having a hard time defining Joe Biden, which is the job of any incumbent president running in a tough reelection race. He hasn't been able to define him. He's hard to define because he's not out there. The Biden campaign will say, hey, yes we are, you're just not covering us."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I think they'll be some defining, obviously, with the Trump campaign war chest, Charlie, but the negatives for Biden are definitely different than they were for Hillary Clinton as you head to these final months."
+    },
+    {
+      "speaker": "HURT",
+      "utterance": "Absolutely. Hillary Clinton was a historically unpopular candidates to be running in the general election. That side, I think that what we saw from President Trump in Tulsa on Saturday night was a pretty good preview. And that line about this is Joe Biden's America, talking about the chaos in the street, talking about all of these problems that maybe people don't want to talk about with pollsters but are deeply troubling to everybody, Democrats and Republicans. But the other thing is, that line about how Joe Biden has been part of this problem in Washington for 47 years and he hasn't done anything about it, I think that that is the sort of thing we're going to hear a lot from the Trump campaign on, and I think it's a winning message."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And I have 15 seconds here, Jason, but do you think the Bob Johnson statements resonate in the African-American communities?"
+    },
+    {
+      "speaker": "RILEY",
+      "utterance": "Perhaps they could resonate. But there is diversity of views among the African community. I don't know that Bob Johnson is speaking for everyone there."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All right, panel, thank you very much. When we come back, the brighter side, some good news."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Finally, tonight, man's best friend. August, the golden retriever, recently celebrated her 20th birthday, becoming the oldest known living golden retriever. That is according to the Golden Hearts Golden Retriever Rescue, in case you wanted to know. August ate some dog friendly carrot cake, spent some quality time with her siblings Sherman, Belle, and Bruce. Her owner said she still moves around pretty well, enjoys daily walks around the yard. Good for you, August. And law enforcement officers honored a valuable member of their team, K-9 patrol dog Cuba. He served the Missouri State Highway Patrol for nine years before being diagnosed with terminal cancer. Officers came from across the state to give Cuba a pat on the head one last time before he made his final walk with his handler. OK, thanks for inviting us into your home tonight. That's it for this SPECIAL REPORT, fair, balanced, and still unafraid. \"The Story\" hosted by Martha MacCallum starts now. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

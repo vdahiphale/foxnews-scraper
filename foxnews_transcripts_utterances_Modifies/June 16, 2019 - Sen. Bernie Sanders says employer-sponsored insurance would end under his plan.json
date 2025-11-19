@@ -1,0 +1,1941 @@
+{
+  "date": "June 16, 2019",
+  "headline": "Sen. Bernie Sanders says employer-sponsored insurance would end under his plan",
+  "subHeadline": "Guests: Mike Pompeo, U.S. Secretary Of State; Sen. Bernie Sanders (I-Vt), Presidential Candidate; Jon Stewart, Former Host Of \"The Daily Show\"",
+  "url": "https://www.foxnews.com/transcript/sen-bernie-sanders-says-employer-sponsored-insurance-would-end-under-his-plan",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "sentences": "I'm Chris Wallace. Tensions between the U.S. and Iran keep rising. How real is the threat of war?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE POMPEO, SECRETARY OF STATE",
+      "sentences": "The international community condemns Iran's assault on the freedom of navigation and the targeting of innocent civilians.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "The Trump administration calls Iran a nation of terror, placing the blame for those tanker attacks squarely on Tehran. And the president calls out U.S. intelligence agencies after a report Kim Jong-un's murdered behalf brother was a source for the CIA. We'll ask Secretary of State Mike Pompeo about all this when he joins us live.  Then, who's up and who's down ahead of the first Democratic debate of 2020? We will debut the latest FOX News poll. And --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS, I-VT, D-PRESIDENTIAL CANDIDATE",
+      "sentences": "We must recognize that in the 21st century economic rights are human rights.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "What is Bernie Sanders' vision for Democratic socialism? We'll ask him in our 2020 sit down, only on \"Fox News Sunday\". Plus, we'll ask our Sunday panel about President Trump saying he'd take research on his political rivals from other countries. And a special power player of the week, Jon Stewart calling on Congress to support 9/11 first responders.   JON STEWART, FORMER HOST, \"THE DAILY SHOW\": Shameful. It's an embarrassment to the country and it is a stain on this institution.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All, right now, on \"Fox News Sunday.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Hello again and happy Father's Day from Fox News in Washington.   The Trump administration is once again turning up the pressure on Iran, blaming the Islamic republic for attacks on two oil tankers. The Pentagon now considering sending thousands of more troops, warships and planes for the region. And Iranian leader saying they have no interest in dealing with the U.S. In a moment, we'll talk with the Secretary of State Mike Pompeo.  But first, Rich Edson had the latest on the escalating tensions with Iran and another mass protest in Hong Kong against Chinese interference -- Rich.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICH EDSON, CORRESPONDENT",
+      "sentences": "Chris, Iran has released a crew of one of the oil tankers attacked last week in the Gulf of Oman. \"The Associated Press\" reports the sailors arrived safely in Dubai after spending two days in Iran as the situation in the region deteriorates again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDSON",
+      "sentences": "Iranian forces remove an unexploded mine from one of two targeted ships, that's according to U.S. Central Command. Attacks in the tankers happened near the Strait of Hormuz, a crucial stripping passage where about 20 percent of the world's oil passes through.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "Iran is lashing out because the regime wants our successful, maximum pressure campaign lifted.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDSON",
+      "sentences": "Germany's foreign minister says the U.S. is not enough to blame Iran. The British government says it is almost certain a branch of Iran's Islamic Revolutionary Guard Corps is responsible for the attacks. Iran's leaders deny involvement. President Trump says he will negotiate when Iran is ready and the president says he is in no rush. Meanwhile, massive demonstrations in Hong Kong, even though its Beijing- backed chief executive suspended a controversial bill. It would allow those accused of crimes in Hong Kong to face trial in mainland China. China assumed Hong Kong from the British in 1997 under a system allowing it to preserve its lifestyle for at least 50 years.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDSON",
+      "sentences": "There have been substantial demonstrations over this bill and previously or other issues targeted at China's attempts to erode freedoms there -- Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Rich Edson reporting from the State Department -- Rich, thank you.   Joining us now to discuss this and more, Secretary of State Mike Pompeo. Mr. Secretary, welcome back to \"Fox News Sunday.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "Chris, it's great to be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Trump says flatly that Iran was responsible for the attack on those two tankers and the Pentagon has released this video, which appears to show a revolutionary guard crew moving an unexploded mine from the haul of one of the boats. But as Rich reported, Germany's foreign minister says the videos not enough in the Japanese owner of one of the ships that he believes from the crew that it was hit by a flying object, not a mine. Two questions: how certain are you that Iran was responsible for these attacks? And do you have more evidence that you can share with us?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "Well, Chris, it's unmistakable what happened here. These were attacks by the Islamic Republic of Iran on commercial shipping on the freedom of navigation with the clear intent to deny transit through the strait. This was on the Gulf of Oman side of the Strait of Hormuz.   There's no doubt the intelligence committee has lots of data, lots of evidence, the world will come to see much of it, but the American people should rest assured we have high confidence with respect to who conducted these attacks, as well as half a dozen other attacks throughout the world over the past 40 days.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to talk to about that because last month after the first attack on four commercial ships, President Trump took a very hard line, here he is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "sentences": "We'll see what happens with Iran. If they do anything, it would be a very bad mistake, if they do anything. I'm here in little stories about Iran. If they do anything, they will suffer greatly. We'll see what happens with Iran.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But Iran and its surrogates, as you noted, have responded to the maximum pressure campaign with more aggression, not less. Attacking tankers, firing missiles in Iraq and into Saudi Arabia and targeting U.S. drones in Yemen and the Persian Gulf.  Question, Mr. Secretary, what's the administration going to do about it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "Well, remember, Chris, where we took over. We took over from an administration that allowed Iran to create enormous wealth, build their missile program, a clear pathway to a nuclear weapon system. This is where the Trump administration came in.   So, we wisely withdrew from the JCPOA and put in place an economic pressure campaign, one that continues. We had a ban on a number of petrochemical companies just this past week.  President Trump has done everything he can to avoid -- we don't want a war. We've done what we can to deter this. The Iranians should understand very clearly that we will continue to take actions that deter Iran from engaging in this behind some kind of behavior. I made a number of calls to my colleagues around the world yesterday. I am confident we will have partners that understand this threat. You have to remember, Chris, too, very little of our crude oil comes to the gulf these days. China is relying for over 80 percent of its crude, Japan, South Korea, Indonesia, these countries are very dependent on freedom of navigation throughout these straits and I'm confident that when they see the risk -- the risk of their own economies and their own people and outrageous behavior of the Islamic Republic of Iran, they will join us in this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to pursue this question of -- you say perhaps more action and perhaps more international action. The Pentagon is reportedly considering sending as many as 6,000 more troops to the area along with warships, warplanes, submarines. There's also been talk about an international coalition to escort commercial ships through the Strait of Hormuz. Are those on the table, and I guess basically, how far is President Trump prepared to go?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "Chris, President Trump has been unambiguous, Iran will not get a nuclear weapon. That's the goal, that's the objective of our entire campaign with respect to Iran and to create stability throughout the Middle East as part of that effort.   I don't want to talk about options that are out there, options that are not there. The president has made it very clear we're going to achieve this objective. We continually update options for the president. We've taken a handful of those actions to increase the opportunity to convince Iran that these actions aren't in their best interests and it appears to be Iran that wants to continue to escalate this conflict.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But should we assume that the U.S. is going to respond? Because clearly, as I said, despite the maximum pressure, Iran seems to be getting more aggressive, not less.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "Chris, what you should assume is we are going to guarantee freedom of navigation throughout the strait. This is an international challenge. This is important to the entire globe. The United States is going to make sure that we take all the actions necessary -- diplomatic and otherwise -- that achieve that outcome.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Meanwhile, Congress -- and we're talking now both about Republicans and Democrats -- appears ready to block an emergency U.S. arms sale to Saudi Arabia, which, of course, is one of the major enemies of Iran. If they go ahead and do that, block the U.S. arms sale that the Trump administration wants, what message will that send to mullahs in Tehran?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "Yes, it would be most unfortunate. I think the decision we made to move forward with these arm sales was the right decision, was an important decision. I think the events of this past week are another piece of that evidence. I think we have 40 years of history. But even these past 40 days demonstrate the malign activity that puts Saudis at risk.  Remember, Chris, just this past week, was an Iranian-backed Houthi effort that flew a missile into an airport in Saudi Arabia. Saudi Arabia has the right to defend itself. The United States wants to support our important defense partner in the region. And I think, moving forward, these arms sales made enormous sense, and we are going to continue to push forward with them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let's turn to Hong Kong. The chief executive in Hong Kong appointed by Beijing has announced that she is suspending, not killing, but suspending a bill of extradition that would allow people in Hong Kong to be extradited to the Chinese mainland.  The response for the people in Hong Kong and there was a massive protest again today, is to protest the measure, millions of citizens coming into the street. They say the measure would allow China to crack down on critics. You have spoken out against this measure, but President Trump has said nothing critical about it. He simply commented about the size of the demonstrations.  Is he more concerned about maintaining his relationship with President Xi than he is in defending human rights?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "The president has always been a vigorous defender of human rights. He's going to get the opportunity, I think, to see President Xi in just a couple weeks now in Osaka, Japan, at the G20 Summit. I'm sure this will be among the issues that they discuss. We have a wide range of very important issues in the way China and United States interact for an awfully long time under a Republican, Democrat presidents, we allow China to take advantage of us on trade and in other ways. President Trump has pushed back very strongly against them. We see what's happening, what's unfolding in Hong Kong. We are watching the people of Hong Kong speak about the things they value. And we'll see what CEO Lam's decision is in the coming days and weeks ahead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let's turn to another subject. There were reports this week that the CIA had turned the half-brother of Kim Jong-un, the North Korean dictator, into a CIA informant before he was murdered in February of 2017.  President Trump seemed to tell Kim this week that that kind of thing wouldn't happen on his watch. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I saw the information about the CIA with respect to his brother or half-brother, and I would tell him that would not happen under my -- under my auspices, that's for sure. I wouldn't let that happen under my auspices.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "As the former head of the CIA, before you took this job, and some of these contacts with Kim Jong Nam reportedly happened on your watch, is there something wrong with the U.S. spying on North Korea and even using a family member to do so?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "I never comment on intelligence matters in any way, Chris. I think you had me on what I was the CIA director. I'm going to stay with that rule today. The American people should rest assured, the United States is taking all the actions that it needs to take to make sure we understand the risks and the threats that are posed by North Korea. And now, in my current role, I'm working to achieve a diplomatic outcome that gets the nuclear weapons out of the hands of North Korea.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Just at the risk of pressing this, I understand you're not going to say what you're doing, but the president seemed to imply that there were some kinds of spying on North Korea, as he said, that would not happen under his auspices. And I think a lot of people are asking, why not?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "We are taking all the efforts necessary to make sure we know what's going on all around the world. That includes every country, Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, let's talk about another country, Russia. The U.S. is reporting today that the U.S. has increased digital incursions into the electrical grid of Russia in effect to send a warning. You do cyber attacks on us, we can respond and we can mess up your infrastructure. President Trump called this report in \"The New York Times,\" and I want to get his quote right: a virtual act of treason.  What can you tell us about the new offensive and what you have to say about \"The New York Times\" reporting this story?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "I've had my moments with \"The New York Times\" on issues related to protecting American secrets. They called out by name and office of the work for me, clandestine officer that worked for me. It was outrageous. It was deeply inconsistent with American values and it was unnecessary. It was a throw away. It didn't add to the story line one iota and yet they chose to do that.  I've seen the story this morning. I don't have anything to say about the contents of that. I don't talk about intelligence matters. But President Trump has been crystal clear during my now two and a half years with the administration -- we are going to do everything we can prevent any country from interfering in any election in the United States of America. We'll continue to work hard of that. I'm proud of the work this administration does. I only wish the previous administration had done the same.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Finally, the president created quite a controversy this week when he said that he seemed to invite opposition research on his political rivals in the 2020 campaign from foreign governments. Here's what he had to say.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Somebody comes up and says, hey, I have information on your opponent, you call the FBI? I don't think -- I tell you what?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEORGE STEPHANOPOULOS, ABC NEWS ANCHOR",
+      "sentences": "If it's coming from Russia, you do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I've seen a lot of things over my list, I don't think my whole life I've ever called the FBI. In my whole life. You don't call the FBI. Life doesn't work that way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "The FBI director says that's what should happen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "The FBI director is wrong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Is accepting oppo research from a foreign government right or wrong?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "Chris, you asked me not to call any of your questions today ridiculous. You can really close right there. President Trump has been very clear. He clarified his remarks later. He made it very clear, even in his first comments, he said I'd do both. He said he'd call the FBI.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "He said maybe I'd do both. He said maybe I'd do both.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "President Trump has been very clear that he will always make sure that he gets it right for the American people and I'm confident he'll do that here as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, at the risk of getting your ire, the president told \"Fox and Friends\" on Friday, and I agree, he kind of walked it back --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "No, he didn't walk it back Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Yes, he did, because he said maybe on Thursday and then on Friday on \"Fox & Friends\", he said he'd listen first, and then, if the information was bad, that he would take it to the FBI or the attorney general. But he also made it clear to George Stephanopoulos that he did not see this as foreign interference. I want to play a clip of the president's own words.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I think you might want to listen. I don't -- there's nothing wrong with listening. If somebody called from a country, Norway, we have information on your opponent, oh, I think I'd want to hear it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEPHANOPOULOS",
+      "sentences": "You want that kind of interference in our elections?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "It's not an interference. They have information. I think I'd take it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "He says it's not interference, its information. The country, sir, and I don't have to tell you, has a long history dating back to George Washington in saying that foreign interference in our elections is unacceptable.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "Chris, President Trump leaves that too. I have nothing further to add. I came on to talk about foreign policy and I think the third time you've asked me about a Washington piece of silliness, that chased down the story that is inconsistent with what I've seen President Trump do every single day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I will leave it there. I think I only asked you twice, but that's all right. Mr. Secretary, thank you. Thanks for your time and happy Father's Day, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POMPEO",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Up next, 2020 Democratic front runners Bernie Sanders and Joe Biden will share a debate stage. We'll debut our latest Fox News poll. Plus, Senator Sanders joins us live for a \"Fox News Sunday\" sit down. All that when we come right back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "The first Democratic debate is now just 10 days away and the two front runners, Joe Biden and Bernie Sanders, will face off against each other with eight other candidates on the second night. In a moment, Senator Sanders joins us live. But, first, we have brand-new Fox polls showing where the race stands right now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Joe Biden goes into the first round of debates with a big lead. Thirty-two percent of Democratic primary voters support him, with Bernie Sanders trailing at 13 percent and Elizabeth Warren, Pete Buttigieg and Kamala Harris bunched in third place. This may be the reason for Biden's lead. By almost 3:1, Democrats say a steady reliable leadership is more important than a bold new agenda.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I'd rather run against, I think, Biden than anybody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "In matchups with President Trump, Biden and Sanders have substantial leads among all registered voters, while the edge for Warren, Buttigieg and Harris is within the poll's margin of error.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS, D-CALIF., PRESIDENTIAL CANDIDATE",
+      "sentences": "We need to begin impeachment proceedings.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Despite calls for impeachment on the campaign trail up by a margin of more than 2-1, voters say Congress should spend less time investigating the president, not more. But voters have problems with the other end of Pennsylvania Avenue, 54 percent say the White House should be more cooperative with Congress, only 11 percent want less cooperation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And Senator Sanders joins us now from Burlington, Vermont, for a \"FOX News Sunday\" sit down. Senator, welcome back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Thank you very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We are going to start with a look at the state of the race at this point, and let's take a look at the latest fox news poll, and this is reflected in other polling as well, you, sir, have dropped sharply from 23 percent support in March to 13 percent now. Question: how do you explain it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Well, I'll explain it in the sense that polls go up and polls go down, but the other part of the poll, if I heard you correctly, Chris, is that I am beating President Trump fairly decisively, which is consistent with all of the polling that I have seen. I think, frankly, I am the strongest candidate to defeat Trump. I think we can win in Pennsylvania, Wisconsin, and Michigan and some of the other battleground states, and that's a fight that I look forward to.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You seem to be competing most directly, perhaps on the left side of the Democratic race with Democratic Senator Elizabeth Warren, and in a new CBS News poll out today of 18 battleground states, she actually leads you by one point in those 18 states, obviously within the margin of error. She says that she supports capitalism and she supports markets, but she wants them more tightly regulated. Why do you think that you're a better choice for voters than Senator Warren with that approach?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Well, Senator Warren is a friend of mine and she's a great senator, but let me just give you my perspective. Chris, according to Federal Reserve data, the average worker in America today, despite a huge increase in productivity and technology, is earning exactly the same wages that he or she earned 45 years ago. In the last 30 years, the top 1 percent has seen an increase in the wealth of $21 trillion, while the bottom half of America has seen an actual decline in their wealth of some $800 billion. In other words, we have an economy today that is working phenomenally well for the top 1 percent, while the working class of this country is being decimated. Meanwhile, it seems to me, that if we’re going to bring about real change in this country, that means health care to all people, raising the minimum wage to a living wage. Making sure that all of our young people can afford to go to college, dealing with climate change, dealing with criminal justice reform. We need a fundamental change. We need a political revolution. We need millions of people, working class people, whose lives have been decimated for the last 45 years to stand up to Wall Street, to stand up to the insurance companies and the drug companies. A political revolution. That is what I believe in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You made a major speech this week to define what you believe in, what's called democratic socialism. Here's a clip from that speech.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Today in the second decade of the 21st century, we must take up the unfinished business of the New Deal and carry it to completion.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But critics, sir, say that you’re defining down democratic socialism to make it more palatable to voters. They say that it isn't just new social programs, you listed some and you're going to get into them in the moment, it's actually a dramatic change and a transfer of economic power to the people, is that true?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Well, it means to say that we have to break up the large financial institutions on Wall Street, who have unbelievable economic power. It means that we have to stand up to the drug companies who are or charging us twice as much for the medicine that we need compared to other countries. It means that we have to stand up to the insurance companies and move to a Medicare-for-All, single-payer system. We have to stand up to the military-industrial complex where there's enormous fraud and waste within the Pentagon. So, it does mean, Chris -- I think, you know, what you said is basically true, right now, real power -- most people understand this -- rests with a handful of large corporations and very wealthy individuals. And the time is now for us to say, you know what, we need an economy and a government that works for all of us, not just the 1 percent. And if people want to accuse me of believing in that, I plead guilty. Yes, that's what I believe. I believe in a vibrant democracy where ordinary people get a fair shake rather than just the 1 percent getting it all.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But -- sir, let me drill down on that, because here's what Maria Svart, the executive director of the Democratic Socialist for America told \"The New York Times\" last year. Our ultimate goal really is for working people to run our society and run our workplaces and our economies. And back in the '70s, you seem to agree. Here's a quote from you: I favor the public ownership of utilities, banks, and major industries. Senator, do you still believe that in the public ownership of major industries?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Chris, that was -- Chris, that was --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And if not, why?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "I live in a city that -- where I am right now, we do a public ownership of our electric department, and they do a pretty good. A lot of electric departments all over this country are publicly owned. Do I believe that workers should have more say and be sitting on the boards of large corporations? Yes, I do. Do I believe that we should break up some of the major banks on Wall Street and support credit unions and community banks? Yes, I do. So, I think really one of the things we have to look at is the fact that power in this country rests with just a handful of people. You've got six financial institutions that have assets equivalent to 54 percent of the GDP. Six institutions control the flow of trillions of dollars. When we talk about democracy, it means not just voting every two years, is giving working people more of a say in what goes on in the economy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right. Let's take a look at perhaps your biggest proposal -- and you have a number of proposals -- Medicare-for-All. And let's put up some of the details. Half of Americans, 156 million people get their health insurance through their employer. According to the Kaiser Family Foundation, 68 percent of them give their health plan a grade of A or B. So I guess the question is, why take away a system that millions of Americans like?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Well, first of all, every single year tens of millions of people move from one plan to the other plan. Second of all, what we are talking about, despite a lot of misinformation coming from the insurance companies and the drug companies is allowing all of the American people to continue to go to the doctor that you want to go to. Go to the hospital that you want to go to. And, in fact, under a Medicare-for-All, single-payer system, we expand Medicare for seniors to include dental clear -- dental care, hearing aids and vision care, eyeglasses. So, we expand Medicare. But right now, Chris, you have a dysfunctional health care system. You've got 70 million Americans who either have no health insurance or they are under insured with high deductibles and copayments. We are paying twice as much as any other country on earth for the prescription drugs that we need. We spend far more per capita on health care as do the people of any other country. Medicare, as you know, is the most popular health insurance program in the country right now. But it only applies to people 65 or older. What I want to do is over a four-year period, expand Medicare to every man, woman and child in this country. It will save the average person significant sums of money and provide comprehensive care. We are the only major country on Earth not to guarantee health care to all people and that has got to change.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, I want to pick up on the price, which you mentioned, because the liberal Urban Institute assessed your plan back in 2016 and said the cost would be $32 trillion over 10 years, and you talked about paying for that through a variety of taxes --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "But, Chris --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let me -- if I may just finished, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "A variety of taxes on individuals and companies. Look, I fully understand, and I accept the idea that you want to do something for the uninsured or even the under insured, but isn't it the essence of big government when you say we know better and even if you -- and there are, as we pointed out, tens of millions of people who like getting her insurance in their employer, you say, no, that's not right, we're going to decide what the plan is and you're going to do it the way we tell you to?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Well, not quite that way, first of all you use the number $32 trillion, which is roughly probably right. That sounds like a lot of money, but do know what happens if we keep the current system, which is the most wasteful and expensive system in the world over a 10-year period? Their estimates of the cost will be $50 trillion. So the health care costs go up, everybody shows that Medicare-for-All will be less expensive than continuing the current dysfunctional health care system.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But I've got about a minute left. What about this main point, which is you, the government, President Sanders, is going to tell people that like getting her insurance either from their union or from their employer, no, you're going to take the coverage we give you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Look, Medicare itself is health insurance program, it's far, far more popular than our private insurance companies. People don't like insurance companies, they like their doctors and they like their hospitals. And we maintain that. And right now, Chris, as you know if you're in one plan, it may cost you a fortune to go to the doctor you want if he or she is not in the same plan. We do away with that. We give people complete freedom of choice as to the doctor that they want to go to or the hospital they want to go to. They will save money. We will join every other major country on earth in guaranteeing health care to all. We will cut prescription drug costs in half. I think that's a pretty good deal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Senator Sanders, thank you. Thanks for your time. Please come back and continue the conversation, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Four years ago today, Donald Trump descended that escalator in Trump Tower to announce his first presidential run. And in just two days, he'll launch his official bid for re-election in 2020. Up next, we'll bring in our Sunday group to discuss the storm of criticism the president faces for saying he'd accept dirt on his political rivals from foreign sources. Plus, what would you like to ask the panel about that? Just go to FaceBook or Twitter, @foxnewssunday, and we may use your question on the air.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Coming up, former late night host Jon Stewart get serious on Capitol Hill. JON STEWART, FORMER HOST OF \"THE DAILY SHOW\": Your indifference cost these men and women at their most valuable commodity, time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll ask him about his mission to get Congress to extend the 9/11 Victim Compensation Fund, coming up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "sentences": "You go and talk honestly to congressman, they all do it. They always have. And that's the way it is. It's called oppo research.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI, D-CALIF., SPEAKER OF THE HOUSE",
+      "sentences": "What the president said last night shows clearly, once again, over and over again, that he does not know the difference between right and wrong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Trump creating quite a stir saying he'd look at oppo research from a foreign government and House Speaker Nancy Pelosi hammering him for it. And it's time now for our Sunday group. Rich Lowry of the \"National Review,\" columnist for \"The Hill,\" Juan Williams, Guy Benson of Fox News Radio, and former DNC chair, Donna Brazile. Well, the new Fox poll has some interesting numbers on this subject, and let's put them up on the screen. A record -- and this is pretty surprising, 50 percent now think the Trump campaign actually coordinated with the Russians in 2016. That's higher than a year ago and it's higher than this March, just before release of the Mueller report cleared the president of collusion. Guy, it was pretty clear to me that Secretary Pompeo was not especially appreciative of my asking him about its -- what it seems to me as an inescapably big story. But the president's answer, yes, I'd -- I'd look at it, it -- it -- doesn't that only add to people's concerns about this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUY BENSON, CONTRIBUTOR",
+      "sentences": "Yes, it was a bad answer. He sort of went all over the place and touched all of the bases so he could go back and say, well I did say maybe I'd go to the FBI, maybe you do both. And he cleaned it up. He mopped it up on \"Fox & Friends\" the next day. As for the poll that you just put on the screen, with 50 percent of Americans believing now that there was coordination between the Trump campaign and Russia, I just want to read for the record from the Mueller report, the investigation did not establish that the Trump campaign conspired or coordinated with the Russian government in its election interference activities.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "No, I know. I mean that -- that's -- that was why it was astonishing to me that -- that --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "It's just -- just a matter of record, yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONNA BRAZILE, CONTRIBUTOR",
+      "sentences": "Yes, but they accepted information. And they should have known better that this information was -- was gained through illegitimate and criminal means. Chris, what bothers me still, as of today, is that we're not doing enough to protect ourselves from the future elections. Every campaign, every campaign official, every campaign staff and candidates should receive an unclassified briefing on the intelligence community now so that we know going into 2020 what is going on with our elections.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "OK. No, no, wait a minute, I want to -- I want to go back to -- to Donna because we asked you for questions for the panel and we got this on Twitter from Lou Sloan about the president saying he'd accept information from a foreign government. Lou writes, does the same question go for Hillary Rodham Clinton and the Steele dossier? So the question, Donna, is, how do you answer Lou and what's the difference between the president saying he'd accept information, or at least listen to it from the Russians, and Hillary Clinton paying for the Steele dossier, were Christopher Steele actually got information from the Russians?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRAZILE",
+      "sentences": "Well, first of all, I don't like to conflate the two. I think it's -- it's -- it's bad to conflate the two because I can go back to April 2016 and I can tell you what happened, not with Fusion GPS, because we did -- I did not hire them when I became chair of the party. There were already working for \"The Washington Free Beacon,\" later Fusion GPS was --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But Democrats ended up paying for it, the Clinton campaign.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRAZILE",
+      "sentences": "The Democrats ended up paying -- the -- indirectly, the Clinton campaign, because the law firm, Perkins Coie, paid Fusion GPS. You don't conflate the two. When you get opposition research from the Russian government and the Russian intelligence service, you know that's about Russian interests. I don't conflate the two. The Steele dossier, you read the Mueller report, at least I did. He barely mentions the Steele dossier. And if people want to - - if they want to conflate the two.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, some people say that's the problem and that, of course, there's an inspector general.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRAZILE",
+      "sentences": "But even if you read -- go back and read the -- the House Intelligence report that came out in March 2018, yes, the Steele dossier is part of that conversation, but the FBI counterintelligence was onto Carter Page before the Steele dossier. RICH LOWRY, \"NATIONAL REVIEW\": So, a couple things. One, you're for the information that the Trump campaign got being from -- from ill-gotten sources, but there was no information. They had the meeting and it came to absolutely nothing. And the dossier clearly missed cued the FBI and the media from the very beginning based on information from shadowy Russian sources that there was some deep conspiracy here that there wasn't. Now, I think Trump's answer was bad, but the reason he gave it, I believe, is that he just doesn't want to admit that Don Junior made a mistake in taking this meeting. And the idea than anyone from the Trump campaign, after three years of investigation and criminal exposure for Don Junior supposedly is going to take a call from Russia or China and say, yes, I'm going to do that meeting is completely absurd.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, we're going to turn -- I know we could all continue talking about this to the escalating, I think frankly a much more serious situation, the escalating tension between the U.S. and Iran. Japanese Prime Minister Abe brought a message from President Trump to Iran's supreme leader, the Ayatollah Khamenei, this week. Here was the ayatollah's response. AYATOLLAH ALI KHAMENEI, IRANIAN SUPREME LEADER (through translator): I have no response to Trump's message. I tell you some words, but I'm not giving him any message because I don't consider him worthy of even exchanging messages.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Juan, how serious do you think the risk of armed conflict is between the U.S. and Iran is at this point?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, POLITICAL ANALYST",
+      "sentences": "I think it's pretty serious. I don't think we -- first, let me just say, I don't think we'd be in this precarious and dangerous global position if the president had not pulled out of the Iran deal. The Iran deal gave us options in terms of ratcheting up or down those sanctions. Obviously we don't have that now and we have less international support because the other countries, the other six -- other five countries in the 2015 deal had remained loyal to it. So the question isn't about America's credibility, it's word, when we make an agreement. The second thing to say is that --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But that doesn't excuse Iran shooting down our drones, firing missiles into Saudi Arabia that hurt 26 civilians.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No, I -- but that's why --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And -- and mining these two ships.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That's -- I don't know that for a fact. I mean there's lots of controversy about that intelligence. But I will say this, when you look at Iran right now and you say, what is the likelihood of them obtaining nuclear material or moving forward, I think the U.S. pulling out of the deal made that more likely. And you also have to consider that United Arab Emirates, Saudi Arabia are involved in wars against Iran with surrogates in places like Syria, Lebanon, Yemen, go on. That's why this is so dangerous. That's why this could blow up in a second. The U.S. immediate options is to escort some of those commercial ships through the gulf. But if you do that or put American flags on them, again, you increase the likelihood of real conflict.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You were shaking your head, Guy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "Well, yes, because, first of all, our unilateral sanctions are working. They're strangling Hezbollah, which is the top terrorist proxy of the regime, that was a \"Washington Post\" story about a week ago. But, to meet the headline today in \"The Washington Post,\" \"Trump Pushes U.S. to Bring with Iran.\" If we are approaching a brink, and I hope that we're not, Iran is pushing the world to the brink by acting in this fashion. I mean I think to push this off on the Iran deal or Donald Trump is to almost take responsibility an agency away from a regime that has been, for decades, the number one outsourcer, the number one funder of international terrorism.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, you can feel that way, but the --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "Well, it's a fact.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No. I -- I --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "It's a fact according to the State Department for a decade.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I -- but -- but I'm saying, do you believe in regime change? The president says, no, he -- this is not about regime change. He's trying to change behavior to establish peace. This is not making that more likely.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "But, you know, there are other options to -- available to Iran besides blowing up ships in the Strait of Hormuz in reaction to this increased pressure. You can sit down and say, OK, we're going to make more concessions, destroy more of our nuclear program. They don't want to do that because they wanted -- they loved that deal because they could sit on the cusp of being a nuclear power while getting all sorts of economic benefits from the west.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Rich, I want to pick up on this, though. I mean we talk about the brink, and let's set aside whether -- who's pushing whom to the brink. On the one hand there's talk about us being, you know, on the cusp of war. On the other hand, President Trump has made it clear, over and over, since he was elected, he has no interest in getting involved in another foreign engagement, and I think we'd all agree at this table, war with Iran would be ugly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "Yes, so this is not his natural inclination. Last month when the Department of Defense was considering sending more troops to the region, they ratcheted down the number because they were afraid that Trump wouldn't approve a bigger number. But I just think you -- it's intolerable to have shipping in this immensely important commercial thoroughfare under threat from Iranian forces and we're going to have to make some sort of -- make it clear to them that if it happens again, we're going to hit them in some way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I have less than a minute left, Donna, but I think Rich is exactly right, regardless of how we got here, you can't have Iran in effect trying to block the flow of oil through the -- this vital waterway.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRAZILE",
+      "sentences": "I -- I don't think there's any disagreement on that. I think the disagreement really comes with the notion that the maximum pressure campaign is going to give the Trump -- the Trump administration, the United States the best options moving forward. I think Congress, this week, during the defense appropriation and talks will have to weigh in because the maximum pressure campaign may not give us the results we want.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I don't know that maximum weakness is going to help though.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRAZILE",
+      "sentences": "Well, I don't think the pressure is going to help either because the Middle East is fragile, and any day, any moment, something else can just blow up like that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, thank you, panel. See you next Sunday. Unfortunately, we'll probably still be talking about this. When we come back, our \"Power Player of the Week.\" Jon Stewart joins us live to discuss his emotional appeal to lawmakers to extend funding for 9/11 first responders. JON STEWART, FORMER HOST OF \"THE DAILY SHOW\": They did their jobs with courage, grace, tenacity, humility. Eighteen years later, do yours!",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, that was Jon Stewart this week on Capitol Hill in what became a viral moment, demanding Congress extend funding for the program that provides health care to first responders who became so ill after 9/11. Jon joins us now from New York. And, Jon, welcome back to “Fox News Sunday.” JON STEWART, FORMER HOST OF \"THE DAILY SHOW\": Thanks a lot, Chris. Thanks for having me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "How emotional was that appearance before the committee this week, along with the first responders?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "I mean it's -- it's terribly emotional. This community, the 9/11 first responder community from, you know, the Pentagon, Shanksville and -- and New York, the Trade Center, they've been through an incredible ordeal. Almost solely because of the heroism that they displayed on 9/11 and in the months following 9/11. And, you know, when you're with these men and women, when you've worked with them for a long time, when you've advocated with them for a long time, you -- everybody becomes very close and we lose -- you know, last week seven -- seven first responders died due to 9/11 related illness. It's a very emotional issue. I think this community is at the end of their rope. I think there's a -- a feeling of disbelief that they can't understand why they have to continually saddle up and ride down to Washington and make these appeals for something that -- that should be simple, but is somehow, through politics, made agonizingly difficult.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, let's -- let's, you know, it's tough in this kind of a situation to talk about money, but money is a factor.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Payouts from the fund have been capped at $7.4 billion -- $7.5 billion and the fund was the Victims Compensation Fund, ends at 2020. No more claims after 2020.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You want to extend the fund through 2090, basically through the lives of all the people who may have become sick.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And -- and to keep it open-ended through 2090. Any idea how much that would cost?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "So the CBO is only going to score something over a 10-year period. They haven't gotten the score in and, you know, my guess -- and -- and most people are guessing $10 billion to $12 billion is going to be the figure that -- that comes through. But, remember, that's over a 10-year period. And then extending it past that -- the VCF part of this is going to get smaller and smaller because even for the first 11 -- the first responders of the 9/11 community, the average age now is in the 50s, where it was, you know, 36, 37 on 9/11. So, you know, if you're looking for a sunset clause on this bill in terms of funding, it's there. The sunset clause is death. And so many of these individuals are -- are sick and dying that, you know, when we talk about just extending it through 2090 to go along with the health care fund, that's just to ensure that none of these men and women ever have to come down and hat in hand beg for this kind of thing again. But, realistically, the money for these funds will slowly diminish. Not necessarily the health care portion, but the VCF portion will get smaller.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let's talk practical politics, because that's, of course, in the end, what this is all about. It's very likely that the House is going to pass the full bill that you want, extending the program through the lives of these people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Then you have to go to the Senate. And in your testimony, you said --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "The Senate --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "That a certain someone, by which it appeared that you meant Senate Leader Mitch McConnell, cannot be allowed to use this as a, quote, political football, in negotiations on other spending bills. Have you had problems with Senator McConnell?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "Ah, yes. I mean, not me personally, but in terms of getting the 9/11 bills past, Mitch McConnell has been the white whale of this since 2010. In 2010 -- you know, and this brings up something, because I think it's -- it's the cynicism that's displayed by Washington that also causes this situation to be so emotional. They asked Mitch McConnell about the testimony after it was done and he said, oh the, gosh -- I think he used the word gosh. Gosh, we haven't looked at that in a while, but we will look at it and I'm sure we'll deal with it as compassionately as we have in the past. But I want to make it clear that this has never been dealt with compassionately by Senator McConnell. He has always held out until the very last minute. And only then, under intense lobbying and public shaming, has he even deigned to move on it. This is not a Republican-Democrat issue. There are Republicans on the bill. We'd obviously like to have more of them. But Senator McConnell has seen fit to -- in 2010 he used it to make sure that the Bush tax cuts would be permanent. In 2015, he took it out of the transportation bill because he wanted to extract some promises on oil imports. And so in -- in this bill right now, in 2019, he's been aware of this -- we were told in August that this fund was running out of money and that people were going to have their awards slashed by 30, 50, up to 70 percent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I -- I got less than three minutes. I want to get two questions in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "Sure, sure. I'm sorry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "First of all, some of the -- critics, and mostly Republican senators, say, one, that the -- that the fund should not be open-ended, and, two, they say, look, this should be handled by the states, not by the federal government. Briefly your response to that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "OK, it should be open-ended because cancer doesn't have an expiration date on it and the gestation period of different illnesses goes along different words. The idea that this is a state issue, 9/11 was -- you know, it would be like after Pearl Harbor saying, you know what, we're not going to do anything for people in Pearl Harbor because that's a Hawaii issue. This was an attack on America. As I said in the meeting, they didn't shout \"death to Tribeca.\" And to try and push this off as a New York issue -- and I think they do that because they believe New York is reliably liberal and Democratic and it's not as important to them. Not all Republicans oppose this, but everyone who has opposed is a Republican. And it's unacceptable. And they've done it now for years. Senator McConnell -- Lindsey Graham is the one who's the head of Judiciary. He's the one who's going to be negotiating, whether it's five, ten years. We cannot make these individuals continue to live in the agonizing uncertainty of not knowing that these programs will be extended and that they will be able to move on with their lives. And it has to be done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "A little -- a little bit more than a -- than a minute left. You have spent years, oftentimes in satire, commenting about Washington and politics.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "Uh-huh.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "What -- in a real way, as opposed to, you know, commenting from the -- the anchor chair --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "What have you learned about our politics from this experience?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "You know, it's interesting, I've learned -- so, I come from a world of show business and I think if you were to take all the arrogance and entitlement and elitism that people don't like about Hollywood and show business and you concentrated it in one city and gave those people actual power, that's Washington. There's a tremendous amount of people down there doing great work with good will, but there is a very small, concentrated group of people at the top that have lost sight of what they're there for and how it looks to the outside world. You know, they criticized us for saying, you're so upset that it's an empty Congress, but this is just a subcommittee. We knew it was a subcommittee, and they said 12 out of the 14 people were there the whole time, but they weren't. You get marked as present on the subcommittee showing up for just a minute. When Lou Alvarez was speaking, when Michael Connell was speaking, there was only six members out of 14. Seven members out of 14. That's a failing grade and that shouldn't happen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We got to leave it there. Jon, thank you. Thanks for joining us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And we'll stay on top of what happens to this measure in the House and in the Senate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEWART",
+      "sentences": "Much appreciated.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And up next, we'll be back with a final word.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "For the latest on the growing tensions between the U.S. and Iran, keep it on this Fox station and Fox News Channel. And that's it for today. Have a happy Father's Day. For all you kids out there, especially mine, call your dad, and we'll see you next “Fox News Sunday.” Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "utterance": "I'm Chris Wallace. Tensions between the U.S. and Iran keep rising. How real is the threat of war?"
+    },
+    {
+      "speaker": "MIKE POMPEO, SECRETARY OF STATE",
+      "utterance": "The international community condemns Iran's assault on the freedom of navigation and the targeting of innocent civilians."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "The Trump administration calls Iran a nation of terror, placing the blame for those tanker attacks squarely on Tehran. And the president calls out U.S. intelligence agencies after a report Kim Jong-un's murdered behalf brother was a source for the CIA. We'll ask Secretary of State Mike Pompeo about all this when he joins us live. Then, who's up and who's down ahead of the first Democratic debate of 2020? We will debut the latest FOX News poll. And --"
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS, I-VT, D-PRESIDENTIAL CANDIDATE",
+      "utterance": "We must recognize that in the 21st century economic rights are human rights."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "What is Bernie Sanders' vision for Democratic socialism? We'll ask him in our 2020 sit down, only on \"Fox News Sunday\". Plus, we'll ask our Sunday panel about President Trump saying he'd take research on his political rivals from other countries. And a special power player of the week, Jon Stewart calling on Congress to support 9/11 first responders. JON STEWART, FORMER HOST, \"THE DAILY SHOW\": Shameful. It's an embarrassment to the country and it is a stain on this institution."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All, right now, on \"Fox News Sunday.\""
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Hello again and happy Father's Day from Fox News in Washington. The Trump administration is once again turning up the pressure on Iran, blaming the Islamic republic for attacks on two oil tankers. The Pentagon now considering sending thousands of more troops, warships and planes for the region. And Iranian leader saying they have no interest in dealing with the U.S. In a moment, we'll talk with the Secretary of State Mike Pompeo. But first, Rich Edson had the latest on the escalating tensions with Iran and another mass protest in Hong Kong against Chinese interference -- Rich."
+    },
+    {
+      "speaker": "RICH EDSON, CORRESPONDENT",
+      "utterance": "Chris, Iran has released a crew of one of the oil tankers attacked last week in the Gulf of Oman. \"The Associated Press\" reports the sailors arrived safely in Dubai after spending two days in Iran as the situation in the region deteriorates again."
+    },
+    {
+      "speaker": "EDSON",
+      "utterance": "Iranian forces remove an unexploded mine from one of two targeted ships, that's according to U.S. Central Command. Attacks in the tankers happened near the Strait of Hormuz, a crucial stripping passage where about 20 percent of the world's oil passes through."
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "Iran is lashing out because the regime wants our successful, maximum pressure campaign lifted."
+    },
+    {
+      "speaker": "EDSON",
+      "utterance": "Germany's foreign minister says the U.S. is not enough to blame Iran. The British government says it is almost certain a branch of Iran's Islamic Revolutionary Guard Corps is responsible for the attacks. Iran's leaders deny involvement. President Trump says he will negotiate when Iran is ready and the president says he is in no rush. Meanwhile, massive demonstrations in Hong Kong, even though its Beijing- backed chief executive suspended a controversial bill. It would allow those accused of crimes in Hong Kong to face trial in mainland China. China assumed Hong Kong from the British in 1997 under a system allowing it to preserve its lifestyle for at least 50 years."
+    },
+    {
+      "speaker": "EDSON",
+      "utterance": "There have been substantial demonstrations over this bill and previously or other issues targeted at China's attempts to erode freedoms there -- Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Rich Edson reporting from the State Department -- Rich, thank you. Joining us now to discuss this and more, Secretary of State Mike Pompeo. Mr. Secretary, welcome back to \"Fox News Sunday.\""
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "Chris, it's great to be with you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Trump says flatly that Iran was responsible for the attack on those two tankers and the Pentagon has released this video, which appears to show a revolutionary guard crew moving an unexploded mine from the haul of one of the boats. But as Rich reported, Germany's foreign minister says the videos not enough in the Japanese owner of one of the ships that he believes from the crew that it was hit by a flying object, not a mine."
+    },
+    {
+      "speaker": "Two questions",
+      "utterance": "how certain are you that Iran was responsible for these attacks? And do you have more evidence that you can share with us?"
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "Well, Chris, it's unmistakable what happened here. These were attacks by the Islamic Republic of Iran on commercial shipping on the freedom of navigation with the clear intent to deny transit through the strait. This was on the Gulf of Oman side of the Strait of Hormuz. There's no doubt the intelligence committee has lots of data, lots of evidence, the world will come to see much of it, but the American people should rest assured we have high confidence with respect to who conducted these attacks, as well as half a dozen other attacks throughout the world over the past 40 days."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to talk to about that because last month after the first attack on four commercial ships, President Trump took a very hard line, here he is."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "utterance": "We'll see what happens with Iran. If they do anything, it would be a very bad mistake, if they do anything. I'm here in little stories about Iran. If they do anything, they will suffer greatly. We'll see what happens with Iran."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But Iran and its surrogates, as you noted, have responded to the maximum pressure campaign with more aggression, not less. Attacking tankers, firing missiles in Iraq and into Saudi Arabia and targeting U.S. drones in Yemen and the Persian Gulf. Question, Mr. Secretary, what's the administration going to do about it?"
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "Well, remember, Chris, where we took over. We took over from an administration that allowed Iran to create enormous wealth, build their missile program, a clear pathway to a nuclear weapon system. This is where the Trump administration came in. So, we wisely withdrew from the JCPOA and put in place an economic pressure campaign, one that continues. We had a ban on a number of petrochemical companies just this past week. President Trump has done everything he can to avoid -- we don't want a war. We've done what we can to deter this. The Iranians should understand very clearly that we will continue to take actions that deter Iran from engaging in this behind some kind of behavior. I made a number of calls to my colleagues around the world yesterday. I am confident we will have partners that understand this threat. You have to remember, Chris, too, very little of our crude oil comes to the gulf these days. China is relying for over 80 percent of its crude, Japan, South Korea, Indonesia, these countries are very dependent on freedom of navigation throughout these straits and I'm confident that when they see the risk -- the risk of their own economies and their own people and outrageous behavior of the Islamic Republic of Iran, they will join us in this."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to pursue this question of -- you say perhaps more action and perhaps more international action. The Pentagon is reportedly considering sending as many as 6,000 more troops to the area along with warships, warplanes, submarines. There's also been talk about an international coalition to escort commercial ships through the Strait of Hormuz. Are those on the table, and I guess basically, how far is President Trump prepared to go?"
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "Chris, President Trump has been unambiguous, Iran will not get a nuclear weapon. That's the goal, that's the objective of our entire campaign with respect to Iran and to create stability throughout the Middle East as part of that effort. I don't want to talk about options that are out there, options that are not there. The president has made it very clear we're going to achieve this objective. We continually update options for the president. We've taken a handful of those actions to increase the opportunity to convince Iran that these actions aren't in their best interests and it appears to be Iran that wants to continue to escalate this conflict."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But should we assume that the U.S. is going to respond? Because clearly, as I said, despite the maximum pressure, Iran seems to be getting more aggressive, not less."
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "Chris, what you should assume is we are going to guarantee freedom of navigation throughout the strait. This is an international challenge. This is important to the entire globe. The United States is going to make sure that we take all the actions necessary -- diplomatic and otherwise -- that achieve that outcome."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Meanwhile, Congress -- and we're talking now both about Republicans and Democrats -- appears ready to block an emergency U.S. arms sale to Saudi Arabia, which, of course, is one of the major enemies of Iran. If they go ahead and do that, block the U.S. arms sale that the Trump administration wants, what message will that send to mullahs in Tehran?"
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "Yes, it would be most unfortunate. I think the decision we made to move forward with these arm sales was the right decision, was an important decision. I think the events of this past week are another piece of that evidence. I think we have 40 years of history. But even these past 40 days demonstrate the malign activity that puts Saudis at risk. Remember, Chris, just this past week, was an Iranian-backed Houthi effort that flew a missile into an airport in Saudi Arabia. Saudi Arabia has the right to defend itself. The United States wants to support our important defense partner in the region. And I think, moving forward, these arms sales made enormous sense, and we are going to continue to push forward with them."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let's turn to Hong Kong. The chief executive in Hong Kong appointed by Beijing has announced that she is suspending, not killing, but suspending a bill of extradition that would allow people in Hong Kong to be extradited to the Chinese mainland. The response for the people in Hong Kong and there was a massive protest again today, is to protest the measure, millions of citizens coming into the street. They say the measure would allow China to crack down on critics. You have spoken out against this measure, but President Trump has said nothing critical about it. He simply commented about the size of the demonstrations. Is he more concerned about maintaining his relationship with President Xi than he is in defending human rights?"
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "The president has always been a vigorous defender of human rights. He's going to get the opportunity, I think, to see President Xi in just a couple weeks now in Osaka, Japan, at the G20 Summit. I'm sure this will be among the issues that they discuss. We have a wide range of very important issues in the way China and United States interact for an awfully long time under a Republican, Democrat presidents, we allow China to take advantage of us on trade and in other ways. President Trump has pushed back very strongly against them. We see what's happening, what's unfolding in Hong Kong. We are watching the people of Hong Kong speak about the things they value. And we'll see what CEO Lam's decision is in the coming days and weeks ahead."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let's turn to another subject. There were reports this week that the CIA had turned the half-brother of Kim Jong-un, the North Korean dictator, into a CIA informant before he was murdered in February of 2017. President Trump seemed to tell Kim this week that that kind of thing wouldn't happen on his watch. Take a look."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I saw the information about the CIA with respect to his brother or half-brother, and I would tell him that would not happen under my -- under my auspices, that's for sure. I wouldn't let that happen under my auspices."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "As the former head of the CIA, before you took this job, and some of these contacts with Kim Jong Nam reportedly happened on your watch, is there something wrong with the U.S. spying on North Korea and even using a family member to do so?"
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "I never comment on intelligence matters in any way, Chris. I think you had me on what I was the CIA director. I'm going to stay with that rule today. The American people should rest assured, the United States is taking all the actions that it needs to take to make sure we understand the risks and the threats that are posed by North Korea. And now, in my current role, I'm working to achieve a diplomatic outcome that gets the nuclear weapons out of the hands of North Korea."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Just at the risk of pressing this, I understand you're not going to say what you're doing, but the president seemed to imply that there were some kinds of spying on North Korea, as he said, that would not happen under his auspices. And I think a lot of people are asking, why not?"
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "We are taking all the efforts necessary to make sure we know what's going on all around the world. That includes every country, Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, let's talk about another country, Russia. The U.S. is reporting today that the U.S. has increased digital incursions into the electrical grid of Russia in effect to send a warning. You do cyber attacks on us, we can respond and we can mess up your infrastructure. President Trump called this report in \"The New York Times,\" and I want to get his quote right: a virtual act of treason. What can you tell us about the new offensive and what you have to say about \"The New York Times\" reporting this story?"
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "I've had my moments with \"The New York Times\" on issues related to protecting American secrets. They called out by name and office of the work for me, clandestine officer that worked for me. It was outrageous. It was deeply inconsistent with American values and it was unnecessary. It was a throw away. It didn't add to the story line one iota and yet they chose to do that. I've seen the story this morning. I don't have anything to say about the contents of that. I don't talk about intelligence matters. But President Trump has been crystal clear during my now two and a half years with the administration -- we are going to do everything we can prevent any country from interfering in any election in the United States of America. We'll continue to work hard of that. I'm proud of the work this administration does. I only wish the previous administration had done the same."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Finally, the president created quite a controversy this week when he said that he seemed to invite opposition research on his political rivals in the 2020 campaign from foreign governments. Here's what he had to say."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Somebody comes up and says, hey, I have information on your opponent, you call the FBI? I don't think -- I tell you what?"
+    },
+    {
+      "speaker": "GEORGE STEPHANOPOULOS, ABC NEWS ANCHOR",
+      "utterance": "If it's coming from Russia, you do."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I've seen a lot of things over my list, I don't think my whole life I've ever called the FBI. In my whole life. You don't call the FBI. Life doesn't work that way."
+    },
+    {
+      "speaker": "STEPHANOPOULOS",
+      "utterance": "The FBI director says that's what should happen."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "The FBI director is wrong."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Is accepting oppo research from a foreign government right or wrong?"
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "Chris, you asked me not to call any of your questions today ridiculous. You can really close right there. President Trump has been very clear. He clarified his remarks later. He made it very clear, even in his first comments, he said I'd do both. He said he'd call the FBI."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "He said maybe I'd do both. He said maybe I'd do both."
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "President Trump has been very clear that he will always make sure that he gets it right for the American people and I'm confident he'll do that here as well."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, at the risk of getting your ire, the president told \"Fox and Friends\" on Friday, and I agree, he kind of walked it back --"
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "No, he didn't walk it back Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Yes, he did, because he said maybe on Thursday and then on Friday on \"Fox & Friends\", he said he'd listen first, and then, if the information was bad, that he would take it to the FBI or the attorney general. But he also made it clear to George Stephanopoulos that he did not see this as foreign interference. I want to play a clip of the president's own words."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I think you might want to listen. I don't -- there's nothing wrong with listening. If somebody called from a country, Norway, we have information on your opponent, oh, I think I'd want to hear it."
+    },
+    {
+      "speaker": "STEPHANOPOULOS",
+      "utterance": "You want that kind of interference in our elections?"
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "It's not an interference. They have information. I think I'd take it."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "He says it's not interference, its information. The country, sir, and I don't have to tell you, has a long history dating back to George Washington in saying that foreign interference in our elections is unacceptable."
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "Chris, President Trump leaves that too. I have nothing further to add. I came on to talk about foreign policy and I think the third time you've asked me about a Washington piece of silliness, that chased down the story that is inconsistent with what I've seen President Trump do every single day."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I will leave it there. I think I only asked you twice, but that's all right. Mr. Secretary, thank you. Thanks for your time and happy Father's Day, sir."
+    },
+    {
+      "speaker": "POMPEO",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Up next, 2020 Democratic front runners Bernie Sanders and Joe Biden will share a debate stage. We'll debut our latest Fox News poll. Plus, Senator Sanders joins us live for a \"Fox News Sunday\" sit down. All that when we come right back."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "The first Democratic debate is now just 10 days away and the two front runners, Joe Biden and Bernie Sanders, will face off against each other with eight other candidates on the second night. In a moment, Senator Sanders joins us live. But, first, we have brand-new Fox polls showing where the race stands right now."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Joe Biden goes into the first round of debates with a big lead. Thirty-two percent of Democratic primary voters support him, with Bernie Sanders trailing at 13 percent and Elizabeth Warren, Pete Buttigieg and Kamala Harris bunched in third place. This may be the reason for Biden's lead. By almost 3:1, Democrats say a steady reliable leadership is more important than a bold new agenda."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I'd rather run against, I think, Biden than anybody."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "In matchups with President Trump, Biden and Sanders have substantial leads among all registered voters, while the edge for Warren, Buttigieg and Harris is within the poll's margin of error."
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS, D-CALIF., PRESIDENTIAL CANDIDATE",
+      "utterance": "We need to begin impeachment proceedings."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Despite calls for impeachment on the campaign trail up by a margin of more than 2-1, voters say Congress should spend less time investigating the president, not more. But voters have problems with the other end of Pennsylvania Avenue, 54 percent say the White House should be more cooperative with Congress, only 11 percent want less cooperation."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And Senator Sanders joins us now from Burlington, Vermont, for a \"FOX News Sunday\" sit down. Senator, welcome back."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Thank you very much."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We are going to start with a look at the state of the race at this point, and let's take a look at the latest fox news poll, and this is reflected in other polling as well, you, sir, have dropped sharply from 23 percent support in March to 13 percent now."
+    },
+    {
+      "speaker": "Question",
+      "utterance": "how do you explain it?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Well, I'll explain it in the sense that polls go up and polls go down, but the other part of the poll, if I heard you correctly, Chris, is that I am beating President Trump fairly decisively, which is consistent with all of the polling that I have seen. I think, frankly, I am the strongest candidate to defeat Trump. I think we can win in Pennsylvania, Wisconsin, and Michigan and some of the other battleground states, and that's a fight that I look forward to."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You seem to be competing most directly, perhaps on the left side of the Democratic race with Democratic Senator Elizabeth Warren, and in a new CBS News poll out today of 18 battleground states, she actually leads you by one point in those 18 states, obviously within the margin of error. She says that she supports capitalism and she supports markets, but she wants them more tightly regulated. Why do you think that you're a better choice for voters than Senator Warren with that approach?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Well, Senator Warren is a friend of mine and she's a great senator, but let me just give you my perspective. Chris, according to Federal Reserve data, the average worker in America today, despite a huge increase in productivity and technology, is earning exactly the same wages that he or she earned 45 years ago. In the last 30 years, the top 1 percent has seen an increase in the wealth of $21 trillion, while the bottom half of America has seen an actual decline in their wealth of some $800 billion. In other words, we have an economy today that is working phenomenally well for the top 1 percent, while the working class of this country is being decimated. Meanwhile, it seems to me, that if we’re going to bring about real change in this country, that means health care to all people, raising the minimum wage to a living wage. Making sure that all of our young people can afford to go to college, dealing with climate change, dealing with criminal justice reform. We need a fundamental change. We need a political revolution. We need millions of people, working class people, whose lives have been decimated for the last 45 years to stand up to Wall Street, to stand up to the insurance companies and the drug companies. A political revolution. That is what I believe in."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You made a major speech this week to define what you believe in, what's called democratic socialism. Here's a clip from that speech."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Today in the second decade of the 21st century, we must take up the unfinished business of the New Deal and carry it to completion."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But critics, sir, say that you’re defining down democratic socialism to make it more palatable to voters. They say that it isn't just new social programs, you listed some and you're going to get into them in the moment, it's actually a dramatic change and a transfer of economic power to the people, is that true?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Well, it means to say that we have to break up the large financial institutions on Wall Street, who have unbelievable economic power. It means that we have to stand up to the drug companies who are or charging us twice as much for the medicine that we need compared to other countries. It means that we have to stand up to the insurance companies and move to a Medicare-for-All, single-payer system. We have to stand up to the military-industrial complex where there's enormous fraud and waste within the Pentagon. So, it does mean, Chris -- I think, you know, what you said is basically true, right now, real power -- most people understand this -- rests with a handful of large corporations and very wealthy individuals. And the time is now for us to say, you know what, we need an economy and a government that works for all of us, not just the 1 percent. And if people want to accuse me of believing in that, I plead guilty. Yes, that's what I believe. I believe in a vibrant democracy where ordinary people get a fair shake rather than just the 1 percent getting it all."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But -- sir, let me drill down on that, because here's what Maria Svart, the executive director of the Democratic Socialist for America told \"The New York Times\" last year. Our ultimate goal really is for working people to run our society and run our workplaces and our economies. And back in the '70s, you seem to agree. Here's a quote from you: I favor the public ownership of utilities, banks, and major industries. Senator, do you still believe that in the public ownership of major industries?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Chris, that was -- Chris, that was --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And if not, why?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "I live in a city that -- where I am right now, we do a public ownership of our electric department, and they do a pretty good. A lot of electric departments all over this country are publicly owned. Do I believe that workers should have more say and be sitting on the boards of large corporations? Yes, I do. Do I believe that we should break up some of the major banks on Wall Street and support credit unions and community banks? Yes, I do. So, I think really one of the things we have to look at is the fact that power in this country rests with just a handful of people. You've got six financial institutions that have assets equivalent to 54 percent of the GDP. Six institutions control the flow of trillions of dollars. When we talk about democracy, it means not just voting every two years, is giving working people more of a say in what goes on in the economy."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right. Let's take a look at perhaps your biggest proposal -- and you have a number of proposals -- Medicare-for-All. And let's put up some of the details. Half of Americans, 156 million people get their health insurance through their employer. According to the Kaiser Family Foundation, 68 percent of them give their health plan a grade of A or B. So I guess the question is, why take away a system that millions of Americans like?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Well, first of all, every single year tens of millions of people move from one plan to the other plan. Second of all, what we are talking about, despite a lot of misinformation coming from the insurance companies and the drug companies is allowing all of the American people to continue to go to the doctor that you want to go to. Go to the hospital that you want to go to. And, in fact, under a Medicare-for-All, single-payer system, we expand Medicare for seniors to include dental clear -- dental care, hearing aids and vision care, eyeglasses. So, we expand Medicare. But right now, Chris, you have a dysfunctional health care system. You've got 70 million Americans who either have no health insurance or they are under insured with high deductibles and copayments. We are paying twice as much as any other country on earth for the prescription drugs that we need. We spend far more per capita on health care as do the people of any other country. Medicare, as you know, is the most popular health insurance program in the country right now. But it only applies to people 65 or older. What I want to do is over a four-year period, expand Medicare to every man, woman and child in this country. It will save the average person significant sums of money and provide comprehensive care. We are the only major country on Earth not to guarantee health care to all people and that has got to change."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, I want to pick up on the price, which you mentioned, because the liberal Urban Institute assessed your plan back in 2016 and said the cost would be $32 trillion over 10 years, and you talked about paying for that through a variety of taxes --"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "But, Chris --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let me -- if I may just finished, sir."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "A variety of taxes on individuals and companies. Look, I fully understand, and I accept the idea that you want to do something for the uninsured or even the under insured, but isn't it the essence of big government when you say we know better and even if you -- and there are, as we pointed out, tens of millions of people who like getting her insurance in their employer, you say, no, that's not right, we're going to decide what the plan is and you're going to do it the way we tell you to?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Well, not quite that way, first of all you use the number $32 trillion, which is roughly probably right. That sounds like a lot of money, but do know what happens if we keep the current system, which is the most wasteful and expensive system in the world over a 10-year period? Their estimates of the cost will be $50 trillion. So the health care costs go up, everybody shows that Medicare-for-All will be less expensive than continuing the current dysfunctional health care system."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But I've got about a minute left. What about this main point, which is you, the government, President Sanders, is going to tell people that like getting her insurance either from their union or from their employer, no, you're going to take the coverage we give you?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Look, Medicare itself is health insurance program, it's far, far more popular than our private insurance companies. People don't like insurance companies, they like their doctors and they like their hospitals. And we maintain that. And right now, Chris, as you know if you're in one plan, it may cost you a fortune to go to the doctor you want if he or she is not in the same plan. We do away with that. We give people complete freedom of choice as to the doctor that they want to go to or the hospital they want to go to. They will save money. We will join every other major country on earth in guaranteeing health care to all. We will cut prescription drug costs in half. I think that's a pretty good deal."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Senator Sanders, thank you. Thanks for your time. Please come back and continue the conversation, sir."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Four years ago today, Donald Trump descended that escalator in Trump Tower to announce his first presidential run. And in just two days, he'll launch his official bid for re-election in 2020. Up next, we'll bring in our Sunday group to discuss the storm of criticism the president faces for saying he'd accept dirt on his political rivals from foreign sources. Plus, what would you like to ask the panel about that? Just go to FaceBook or Twitter, @foxnewssunday, and we may use your question on the air."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Coming up, former late night host Jon Stewart get serious on Capitol Hill. JON STEWART, FORMER HOST OF \"THE DAILY SHOW\": Your indifference cost these men and women at their most valuable commodity, time."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll ask him about his mission to get Congress to extend the 9/11 Victim Compensation Fund, coming up."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "utterance": "You go and talk honestly to congressman, they all do it. They always have. And that's the way it is. It's called oppo research."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI, D-CALIF., SPEAKER OF THE HOUSE",
+      "utterance": "What the president said last night shows clearly, once again, over and over again, that he does not know the difference between right and wrong."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Trump creating quite a stir saying he'd look at oppo research from a foreign government and House Speaker Nancy Pelosi hammering him for it. And it's time now for our Sunday group. Rich Lowry of the \"National Review,\" columnist for \"The Hill,\" Juan Williams, Guy Benson of Fox News Radio, and former DNC chair, Donna Brazile. Well, the new Fox poll has some interesting numbers on this subject, and let's put them up on the screen. A record -- and this is pretty surprising, 50 percent now think the Trump campaign actually coordinated with the Russians in 2016. That's higher than a year ago and it's higher than this March, just before release of the Mueller report cleared the president of collusion. Guy, it was pretty clear to me that Secretary Pompeo was not especially appreciative of my asking him about its -- what it seems to me as an inescapably big story. But the president's answer, yes, I'd -- I'd look at it, it -- it -- doesn't that only add to people's concerns about this?"
+    },
+    {
+      "speaker": "GUY BENSON, CONTRIBUTOR",
+      "utterance": "Yes, it was a bad answer. He sort of went all over the place and touched all of the bases so he could go back and say, well I did say maybe I'd go to the FBI, maybe you do both. And he cleaned it up. He mopped it up on \"Fox & Friends\" the next day. As for the poll that you just put on the screen, with 50 percent of Americans believing now that there was coordination between the Trump campaign and Russia, I just want to read for the record from the Mueller report, the investigation did not establish that the Trump campaign conspired or coordinated with the Russian government in its election interference activities."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "No, I know. I mean that -- that's -- that was why it was astonishing to me that -- that --"
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "It's just -- just a matter of record, yes."
+    },
+    {
+      "speaker": "DONNA BRAZILE, CONTRIBUTOR",
+      "utterance": "Yes, but they accepted information. And they should have known better that this information was -- was gained through illegitimate and criminal means. Chris, what bothers me still, as of today, is that we're not doing enough to protect ourselves from the future elections. Every campaign, every campaign official, every campaign staff and candidates should receive an unclassified briefing on the intelligence community now so that we know going into 2020 what is going on with our elections."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "OK. No, no, wait a minute, I want to -- I want to go back to -- to Donna because we asked you for questions for the panel and we got this on Twitter from Lou Sloan about the president saying he'd accept information from a foreign government. Lou writes, does the same question go for Hillary Rodham Clinton and the Steele dossier? So the question, Donna, is, how do you answer Lou and what's the difference between the president saying he'd accept information, or at least listen to it from the Russians, and Hillary Clinton paying for the Steele dossier, were Christopher Steele actually got information from the Russians?"
+    },
+    {
+      "speaker": "BRAZILE",
+      "utterance": "Well, first of all, I don't like to conflate the two. I think it's -- it's -- it's bad to conflate the two because I can go back to April 2016 and I can tell you what happened, not with Fusion GPS, because we did -- I did not hire them when I became chair of the party. There were already working for \"The Washington Free Beacon,\" later Fusion GPS was --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But Democrats ended up paying for it, the Clinton campaign."
+    },
+    {
+      "speaker": "BRAZILE",
+      "utterance": "The Democrats ended up paying -- the -- indirectly, the Clinton campaign, because the law firm, Perkins Coie, paid Fusion GPS. You don't conflate the two. When you get opposition research from the Russian government and the Russian intelligence service, you know that's about Russian interests. I don't conflate the two. The Steele dossier, you read the Mueller report, at least I did. He barely mentions the Steele dossier. And if people want to - - if they want to conflate the two."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, some people say that's the problem and that, of course, there's an inspector general."
+    },
+    {
+      "speaker": "BRAZILE",
+      "utterance": "But even if you read -- go back and read the -- the House Intelligence report that came out in March 2018, yes, the Steele dossier is part of that conversation, but the FBI counterintelligence was onto Carter Page before the Steele dossier. RICH LOWRY, \"NATIONAL REVIEW\": So, a couple things. One, you're for the information that the Trump campaign got being from -- from ill-gotten sources, but there was no information. They had the meeting and it came to absolutely nothing. And the dossier clearly missed cued the FBI and the media from the very beginning based on information from shadowy Russian sources that there was some deep conspiracy here that there wasn't. Now, I think Trump's answer was bad, but the reason he gave it, I believe, is that he just doesn't want to admit that Don Junior made a mistake in taking this meeting. And the idea than anyone from the Trump campaign, after three years of investigation and criminal exposure for Don Junior supposedly is going to take a call from Russia or China and say, yes, I'm going to do that meeting is completely absurd."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, we're going to turn -- I know we could all continue talking about this to the escalating, I think frankly a much more serious situation, the escalating tension between the U.S. and Iran. Japanese Prime Minister Abe brought a message from President Trump to Iran's supreme leader, the Ayatollah Khamenei, this week. Here was the ayatollah's response."
+    },
+    {
+      "speaker": "AYATOLLAH ALI KHAMENEI, IRANIAN SUPREME LEADER (through translator)",
+      "utterance": "I have no response to Trump's message. I tell you some words, but I'm not giving him any message because I don't consider him worthy of even exchanging messages."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Juan, how serious do you think the risk of armed conflict is between the U.S. and Iran is at this point?"
+    },
+    {
+      "speaker": "JUAN WILLIAMS, POLITICAL ANALYST",
+      "utterance": "I think it's pretty serious. I don't think we -- first, let me just say, I don't think we'd be in this precarious and dangerous global position if the president had not pulled out of the Iran deal. The Iran deal gave us options in terms of ratcheting up or down those sanctions. Obviously we don't have that now and we have less international support because the other countries, the other six -- other five countries in the 2015 deal had remained loyal to it. So the question isn't about America's credibility, it's word, when we make an agreement. The second thing to say is that --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But that doesn't excuse Iran shooting down our drones, firing missiles into Saudi Arabia that hurt 26 civilians."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No, I -- but that's why --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And -- and mining these two ships."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That's -- I don't know that for a fact. I mean there's lots of controversy about that intelligence. But I will say this, when you look at Iran right now and you say, what is the likelihood of them obtaining nuclear material or moving forward, I think the U.S. pulling out of the deal made that more likely. And you also have to consider that United Arab Emirates, Saudi Arabia are involved in wars against Iran with surrogates in places like Syria, Lebanon, Yemen, go on. That's why this is so dangerous. That's why this could blow up in a second. The U.S. immediate options is to escort some of those commercial ships through the gulf. But if you do that or put American flags on them, again, you increase the likelihood of real conflict."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You were shaking your head, Guy?"
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "Well, yes, because, first of all, our unilateral sanctions are working. They're strangling Hezbollah, which is the top terrorist proxy of the regime, that was a \"Washington Post\" story about a week ago. But, to meet the headline today in \"The Washington Post,\" \"Trump Pushes U.S. to Bring with Iran.\" If we are approaching a brink, and I hope that we're not, Iran is pushing the world to the brink by acting in this fashion. I mean I think to push this off on the Iran deal or Donald Trump is to almost take responsibility an agency away from a regime that has been, for decades, the number one outsourcer, the number one funder of international terrorism."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, you can feel that way, but the --"
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "Well, it's a fact."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No. I -- I --"
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "It's a fact according to the State Department for a decade."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I -- but -- but I'm saying, do you believe in regime change? The president says, no, he -- this is not about regime change. He's trying to change behavior to establish peace. This is not making that more likely."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "But, you know, there are other options to -- available to Iran besides blowing up ships in the Strait of Hormuz in reaction to this increased pressure. You can sit down and say, OK, we're going to make more concessions, destroy more of our nuclear program. They don't want to do that because they wanted -- they loved that deal because they could sit on the cusp of being a nuclear power while getting all sorts of economic benefits from the west."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Rich, I want to pick up on this, though. I mean we talk about the brink, and let's set aside whether -- who's pushing whom to the brink. On the one hand there's talk about us being, you know, on the cusp of war. On the other hand, President Trump has made it clear, over and over, since he was elected, he has no interest in getting involved in another foreign engagement, and I think we'd all agree at this table, war with Iran would be ugly."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "Yes, so this is not his natural inclination. Last month when the Department of Defense was considering sending more troops to the region, they ratcheted down the number because they were afraid that Trump wouldn't approve a bigger number. But I just think you -- it's intolerable to have shipping in this immensely important commercial thoroughfare under threat from Iranian forces and we're going to have to make some sort of -- make it clear to them that if it happens again, we're going to hit them in some way."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I have less than a minute left, Donna, but I think Rich is exactly right, regardless of how we got here, you can't have Iran in effect trying to block the flow of oil through the -- this vital waterway."
+    },
+    {
+      "speaker": "BRAZILE",
+      "utterance": "I -- I don't think there's any disagreement on that. I think the disagreement really comes with the notion that the maximum pressure campaign is going to give the Trump -- the Trump administration, the United States the best options moving forward. I think Congress, this week, during the defense appropriation and talks will have to weigh in because the maximum pressure campaign may not give us the results we want."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I don't know that maximum weakness is going to help though."
+    },
+    {
+      "speaker": "BRAZILE",
+      "utterance": "Well, I don't think the pressure is going to help either because the Middle East is fragile, and any day, any moment, something else can just blow up like that."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, thank you, panel. See you next Sunday. Unfortunately, we'll probably still be talking about this. When we come back, our \"Power Player of the Week.\" Jon Stewart joins us live to discuss his emotional appeal to lawmakers to extend funding for 9/11 first responders. JON STEWART, FORMER HOST OF \"THE DAILY SHOW\": They did their jobs with courage, grace, tenacity, humility. Eighteen years later, do yours!"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, that was Jon Stewart this week on Capitol Hill in what became a viral moment, demanding Congress extend funding for the program that provides health care to first responders who became so ill after 9/11. Jon joins us now from New York. And, Jon, welcome back to “Fox News Sunday.” JON STEWART, FORMER HOST OF \"THE DAILY SHOW\": Thanks a lot, Chris. Thanks for having me."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "How emotional was that appearance before the committee this week, along with the first responders?"
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "I mean it's -- it's terribly emotional. This community, the 9/11 first responder community from, you know, the Pentagon, Shanksville and -- and New York, the Trade Center, they've been through an incredible ordeal. Almost solely because of the heroism that they displayed on 9/11 and in the months following 9/11. And, you know, when you're with these men and women, when you've worked with them for a long time, when you've advocated with them for a long time, you -- everybody becomes very close and we lose -- you know, last week seven -- seven first responders died due to 9/11 related illness. It's a very emotional issue. I think this community is at the end of their rope. I think there's a -- a feeling of disbelief that they can't understand why they have to continually saddle up and ride down to Washington and make these appeals for something that -- that should be simple, but is somehow, through politics, made agonizingly difficult."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, let's -- let's, you know, it's tough in this kind of a situation to talk about money, but money is a factor."
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Payouts from the fund have been capped at $7.4 billion -- $7.5 billion and the fund was the Victims Compensation Fund, ends at 2020. No more claims after 2020."
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You want to extend the fund through 2090, basically through the lives of all the people who may have become sick."
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And -- and to keep it open-ended through 2090. Any idea how much that would cost?"
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "So the CBO is only going to score something over a 10-year period. They haven't gotten the score in and, you know, my guess -- and -- and most people are guessing $10 billion to $12 billion is going to be the figure that -- that comes through. But, remember, that's over a 10-year period. And then extending it past that -- the VCF part of this is going to get smaller and smaller because even for the first 11 -- the first responders of the 9/11 community, the average age now is in the 50s, where it was, you know, 36, 37 on 9/11. So, you know, if you're looking for a sunset clause on this bill in terms of funding, it's there. The sunset clause is death. And so many of these individuals are -- are sick and dying that, you know, when we talk about just extending it through 2090 to go along with the health care fund, that's just to ensure that none of these men and women ever have to come down and hat in hand beg for this kind of thing again. But, realistically, the money for these funds will slowly diminish. Not necessarily the health care portion, but the VCF portion will get smaller."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let's talk practical politics, because that's, of course, in the end, what this is all about. It's very likely that the House is going to pass the full bill that you want, extending the program through the lives of these people."
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Then you have to go to the Senate. And in your testimony, you said --"
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "The Senate --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "That a certain someone, by which it appeared that you meant Senate Leader Mitch McConnell, cannot be allowed to use this as a, quote, political football, in negotiations on other spending bills. Have you had problems with Senator McConnell?"
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "Ah, yes. I mean, not me personally, but in terms of getting the 9/11 bills past, Mitch McConnell has been the white whale of this since 2010. In 2010 -- you know, and this brings up something, because I think it's -- it's the cynicism that's displayed by Washington that also causes this situation to be so emotional. They asked Mitch McConnell about the testimony after it was done and he said, oh the, gosh -- I think he used the word gosh. Gosh, we haven't looked at that in a while, but we will look at it and I'm sure we'll deal with it as compassionately as we have in the past. But I want to make it clear that this has never been dealt with compassionately by Senator McConnell. He has always held out until the very last minute. And only then, under intense lobbying and public shaming, has he even deigned to move on it. This is not a Republican-Democrat issue. There are Republicans on the bill. We'd obviously like to have more of them. But Senator McConnell has seen fit to -- in 2010 he used it to make sure that the Bush tax cuts would be permanent. In 2015, he took it out of the transportation bill because he wanted to extract some promises on oil imports. And so in -- in this bill right now, in 2019, he's been aware of this -- we were told in August that this fund was running out of money and that people were going to have their awards slashed by 30, 50, up to 70 percent."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I -- I got less than three minutes. I want to get two questions in."
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "Sure, sure. I'm sorry."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "First of all, some of the -- critics, and mostly Republican senators, say, one, that the -- that the fund should not be open-ended, and, two, they say, look, this should be handled by the states, not by the federal government. Briefly your response to that."
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "OK, it should be open-ended because cancer doesn't have an expiration date on it and the gestation period of different illnesses goes along different words. The idea that this is a state issue, 9/11 was -- you know, it would be like after Pearl Harbor saying, you know what, we're not going to do anything for people in Pearl Harbor because that's a Hawaii issue. This was an attack on America. As I said in the meeting, they didn't shout \"death to Tribeca.\" And to try and push this off as a New York issue -- and I think they do that because they believe New York is reliably liberal and Democratic and it's not as important to them. Not all Republicans oppose this, but everyone who has opposed is a Republican. And it's unacceptable. And they've done it now for years. Senator McConnell -- Lindsey Graham is the one who's the head of Judiciary. He's the one who's going to be negotiating, whether it's five, ten years. We cannot make these individuals continue to live in the agonizing uncertainty of not knowing that these programs will be extended and that they will be able to move on with their lives. And it has to be done."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "A little -- a little bit more than a -- than a minute left. You have spent years, oftentimes in satire, commenting about Washington and politics."
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "Uh-huh."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "What -- in a real way, as opposed to, you know, commenting from the -- the anchor chair --"
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "What have you learned about our politics from this experience?"
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "You know, it's interesting, I've learned -- so, I come from a world of show business and I think if you were to take all the arrogance and entitlement and elitism that people don't like about Hollywood and show business and you concentrated it in one city and gave those people actual power, that's Washington. There's a tremendous amount of people down there doing great work with good will, but there is a very small, concentrated group of people at the top that have lost sight of what they're there for and how it looks to the outside world. You know, they criticized us for saying, you're so upset that it's an empty Congress, but this is just a subcommittee. We knew it was a subcommittee, and they said 12 out of the 14 people were there the whole time, but they weren't. You get marked as present on the subcommittee showing up for just a minute. When Lou Alvarez was speaking, when Michael Connell was speaking, there was only six members out of 14. Seven members out of 14. That's a failing grade and that shouldn't happen."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We got to leave it there. Jon, thank you. Thanks for joining us."
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And we'll stay on top of what happens to this measure in the House and in the Senate."
+    },
+    {
+      "speaker": "STEWART",
+      "utterance": "Much appreciated."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And up next, we'll be back with a final word."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "For the latest on the growing tensions between the U.S. and Iran, keep it on this Fox station and Fox News Channel. And that's it for today. Have a happy Father's Day. For all you kids out there, especially mine, call your dad, and we'll see you next “Fox News Sunday.” Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

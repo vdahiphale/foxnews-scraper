@@ -1,0 +1,1845 @@
+{
+  "date": "June 24, 2018",
+  "headline": "Rep. McCaul on chances Congress can solve immigration crisis",
+  "subHeadline": "Chair of the House Homeland Security Committee on efforts to pass 'compromise' immigration bill.",
+  "url": "https://www.foxnews.com/transcript/rep-mccaul-on-chances-congress-can-solve-immigration-crisis",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "CHRIS WALLACE, HOST",
+      "sentences": "I'm Chris Wallace. Widespread confusion on our southern border is President Trump flips on separating immigrant families, but doubles down on his zero-tolerance policy against those entering the U.S. illegally.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Our first duty and our highest loyalty is to the citizens of the United States. We want safety in our country. We want border security.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER, D-NY, SENATE MINORITY LEADER",
+      "sentences": "The president must continue to act to deal with these problems, which, again, he can do on his own.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll discuss what the president will do next and if Congress can pass immigration reform with Republican Congressman Michael McCaul, chair of the House Homeland Security Committee.  Then, do Democrats have a solution for how to deal with a flood of illegal immigrants? We'll ask Jeh Johnson, former secretary of homeland security under President Obama. Plus --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHARLES KRAUTHAMMER, CONSERVATIVE COMMENTATOR",
+      "sentences": "I believe that ultimately everything hinges on getting your politics right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Saying goodbye to our friend and colleague Charles Krauthammer. We will ask our panel about his life and legacy. And our \"Power Player of the Week,\" the man behind some of President Trump's most important nominations. You have been called president Trump's Supreme Court whisperer. How do you plead?   All, right now, on \"Fox News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And hello again from Fox News in Washington.  When President Trump signed an executive order this week, he said it would solve the sudden firestorm over immigration, but at the week's end, the disarray on our southern border has only grown. The president action called for ending the separation of families coming to the U.S. illegally, but there are still questions when 2,000 children will be reunited with relatives. The order called for maintaining the president's zero-tolerance policy, but the government is divided about continuing prosecutions.   In a moment, we'll ask Congressman Michael McCaul, chair of the House Committee on Homeland Security what the president and Congress will do next. But first, let's bring in Steve Harrigan with the latest from outside a detention center in McAllen, Texas -- Steve.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEVE HARRIGAN, FOX NEWS CORRESPONDENT",
+      "sentences": "Chris, here on the ground there's a real sense of confusion about what's next for families who have been separated. Right now, there's no clear answer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "Protesters here think children and parents are still being separated, so they block a bus of families being moved from one detention center to another, chanting, \"Free the Children\".  They are not the only ones confused about what's happening along the Texas border. A string of politicians has come through the Rio Grande Valley to see conditions firsthand, only to emerge with more questions than answers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. JACKIE SPEIER, D-CALIFORNIA",
+      "sentences": "We have applauded the work of the border patrol at each of our stops. There's no directives coming out of Washington, so they are flying by the collective seat of their pants.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "Justice Department officials say it remains government policy to criminally prosecute families who cross the border illegally. But in courtrooms in McAllen, Texas, those cases are now routinely dismissed. The Department of Health and Human Services now has an emergency task force to speed the reunion of parents and children, but it is not clear how they will reunite children here with parents who have already been deported.   One thing both sides agree on now is the goal of keeping families together.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. TED CRUZ, R-TEXAS",
+      "sentences": "My hope is in the coming days and weeks, we will see Republicans and Democrats coming together to ensure that kids stay with their parents.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "Together in more than 20,000 beds on military bases here in Texas and Arkansas -- Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Steve Harrigan reporting from McAllen, Texas -- Steve, thank you. Joining us now, the chair of the House Homeland Security Committee, Congressman Michael McCaul, sponsor of an immigration reform bill the House may vote on this week after rejecting a more conservative plan on Thursday.   Mr. Chairman, welcome back to \"Fox News Sunday.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. MICHAEL MCCAUL, R-TEXAS, CHAIRMAN, HOUSE HOMELAND SECURITY COMMITTEE",
+      "sentences": "Thank you, Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let's start with that more moderate immigration reform bill that you helped pass. Let's put up what's in it. It provides a pathway to citizenship for the Dreamers, $25 billion to build a border wall, it puts new limits on legal immigration and ends separation of families.  President Trump tweeted this Friday: Republicans should stop wasting their time on immigration until after we elect more senators and congressmen/women in November. So, will the House still vote on your bill this week and how much damage has President Trump's stop wasting your time to be done to the chances for passage?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Well, I would urge the president to continue to support the four pillars idea. That's my border security bill, going to a merit-based system and providing for a rational DACA fix. That was rejected, as you mentioned the conservative bill that Chairman Goodlatte and I sponsored that got rejected. But I did talk to the White House yesterday. They say the president is still 100 percent behind us.   Moving forward, I think -- you know, when you look at these kids down there, and I've been down there, this is not the first time this has happened. This happened in 2014 as well. Congress needs to act to close the legal loopholes that incentivize the coyotes to bring these children into the United States and if we don't do that we are going to see this scenario, this human tragedy play out over and over again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But the president's tweet, stop wasting your time, can't have helped in the fact is that the reason this bill, the more moderate bill was put over from last week to this week is because you still don't have the votes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Well, we call it a consensus bill. We're trying to get a consensus from Freedom Caucus moderates and people in the middle on the Republican side. We had a very good conference when we put a pause on that bill going forward. I felt very optimistic we are going to have a solution to this problem and if we don't do this you are going to see more for these kids at the border.  And let's not forget the dangerous journey they make. Yes, the secretary told me there were 12,000 children, 10,000 of them did not come with parents, but rather the coyote was their guardian, taking them from Central America all the way through Mexico and the United States, a very dangerous journey where they are abused and exploited.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "If comprehensive reform, your bill, goes down this week, and it still seems to be more likely than not, there is already talk to the House may try to pass a narrow bill which would deal simply with the idea of keeping families together, not separating them. One, is that true? And secondly, if you pass that bill, is it humane that your solution is going to be, well, yes, we are going to keep them together, but we're going to keep the families and the children detained for weeks or even months?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Well, under the bill that I helped to pass this week, we provide the solution. The problem, Chris, is that we treat people from other than Mexico, the Central Americans different from the Mexicans coming across. We want to treat them all the same, and that is when you come in from Mexico as a child, you are detained but then immediately removed from the country.  We think if we could do that with the Central American population, that would go a long ways to providing -- disincentivizing the smugglers and cartels and traffickers from bringing the kids up in the first place.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But is there talk -- and is there serious thought about if you can't pass your bill that you go to a skinny bill that just deals with family separation?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "I think -- I think we at a minimum have to deal with the family separation. I'm a father of five. I think this is inhumane and I think the pictures that we have seen -- that's not the face of America. I think that most people in this country want.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "The president keeps blaming Democrats for the problem and the failure to deal with the immigration problem in this country. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Democrats don't care about the impact of uncontrolled migration on your communities, your schools, your hospitals, your jobs or your safety. Democrats put illegal immigrants before they put American citizens. What the hell is going on?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But, Chairman, Republicans control the House. It was Republicans who failed to pass the more conservative bill this week. It's Republicans who could pass your bill next week without a single Democratic vote. In fact, you could lose 20 Republican votes and still pass the bill. So, for all the president's talk about Democrats, if you failed to pass the bill, isn't that on Republicans, not Democrats?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Well, I think our family needs to come together. The fact is every Democrat voted against a very I think rational DACA fix. They have been talking about DACA, you know, for a year now and we had a bill on the floor that would resolve this issue, legalize the DACA kids and yet, every one of them voted against that.   I don't think that's operating in good faith either and I also think it's important on the border security piece. I've been doing this since I was a federal prosecutor in Texas to chairman of this committee to deliver on the president's campaign promise to build a wall with technology, and get the border secure. The --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Why can't you get Republicans to support this? I mean, you know Democrats oppose it, certain elements of it like the wall, like limiting legal immigration, why can't you get your own house in order and Republicans pass the House bill?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Well, I am the eternal optimist and I do think there are 218 Republicans that agree with the four pillars of border security, ending chain migration, visa lottery, a a random system and fixing the DACA children.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You know, some of the hardline conservative call that amnesty and they are going to vote against it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "It's merit-based.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I'm talking about the DACA.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Right. And it's a merit-based visa. It's based on merit. It's not amnesty. I mean, Raul Labrador is hardly a left-wing liberal, right? He's very conservative, Freedom Caucus guy, actually drafted that DACA provision that Carlos Curbelo on (ph) the left, they came to an agreement on that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to go to something else you said about all of this because if the House does pass something, it goes onto the Senate where you would need 10 -- or nine Democratic votes to get above the filibuster-proof majority to get to 60 votes. You said this week that you think the Republican majority in the Senate should change the rules an end the filibuster. But, you know, sometimes when you were in the minority that works to your benefit and the question I guess I have is, OK, that would help you right now, but are you willing to see a Democratic president and a Democratic Senate, that will, at some point able to ram anything they want through?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Well, we did that Supreme Court Neil Gorsuch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But not legislation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "I would argue that this is national security at stake. Securing that our border, the threats I can tell you, not only drug cartels, opioids, but also the terrorists. We stop 10 terrorists every day from getting into this country. I look at it from a national security standpoint.  It should be a bipartisan issue, but if not, the Senate has that traditional role -- I think they should wave it in this case on the basis of national security to protect the American people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let's turn to the president's executive order this week in the confusion that it has sown at the border. Here's what the president said.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "So, we are keeping families together and this will solve that problem. At the same time, we are keeping a very powerful border and it continues to be a zero tolerance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But as chairman of House Homeland Security, can you sit here and tell me right now as we sit here, do you know when those 2,000 children who are still separated from their families will be reunited with their parents?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Well, I applaud the president for reversing course on this issue. Those children were sent into the custody of HHS, who then sent them 1,000 miles away to relatives in the United States.   I think the better way to do this that are billed as is we keep the family together, but we also treat them like the Mexican people where we detain and then remove them from the country. If we don't do that, we will never stop this problem. We'll be talking about this next year and the year after if we don't fix it by Congress.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But I -- just to press my point, do you know when these 2,000 children who have been separated, and as you say, some of them are thousands of miles away, what are they going to be reunited with their parents?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "I think it's a very difficult thing to do and they're going to do have to bring them back to the border where they should have been in the first place and --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Are we talking weeks or months?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "And be with their parents who violated the law, reunite them at the family center and then go forward with the removal proceedings. But, Chris, as it exists now under the Flores decision, after 20 days, they are released into society and these could be dangerous people. I'm not saying they all are. But I think the children, you know, because HHS, they are put in their custody and transferred somewhere else in the country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let me ask you another specific question. As chairman of House Homeland Security, do you know whether adults, members of families crossing the border illegally can and are still being prosecuted under zero-tolerance?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "That was the plan. They violated the law. They were being prosecuted. I have --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And now we hear some of these people are being dismissed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "I have heard recent reports now that that may be -- that policy may be revisited and it may not go forward.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Zero-tolerance?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "I mean, that's some of the reporting I'm getting. And it's very unclear how this executive order is playing out, but I'm not clear about how the prosecution of the parents. I think they want to reunite the family and then remove them from the country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Final question, at the height of this furor, you said and you basically made that point just now that you were destroyed as a father of five at what's happened. And you said at one point that this policy must come to an end. How badly has this been handled?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "I think, you know, to set forth a policy and then having to reverse it is not a consistent message obviously, to be candid with you. But I think -- I wouldn't fall the administration on this. I would fault the United States Congress, who has the power to change the laws that will stop this from happening again and yet we can't seem to get this done.  And that's why I've urged my colleagues, why is it so important that national security is at stake, protecting the American people? We have to get this done or we'll be seeing the scene play out over and over again. There will be -- we had 30,000 kids in 2014. We're going to see the same thing this summer if we don't change it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Chairman McCaul, thank you. Thanks for your time. We'll track what happens with your comprehensive bill on the floor this week. Thank you, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCAUL",
+      "sentences": "Thank you, Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Up next, President Trump says he inherited a mess on immigration from the Obama administration. We'll talk with Jeh Johnson, Mr. Obama's secretary of homeland security, when we come back. What is the Democrats' solution?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Democrats say President Trump created the mess over separating families at the border with his new zero-tolerance policy and that he alone can fix it. But what is their answer for stemming the tide of illegal immigrants coming into the U.S.?  Joining us now, Jeh Johnson, President Obama's secretary of homeland security, who had to deal with a spike in illegal crossings back in 2014. Mr. Secretary, President Trump says the real cause of our immigration problems are weak laws and what he calls open border Democrats. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "They just want everyone to be released into our country no matter how dangerous they are. They can be killers, they can be thieves, they can be horrible people. The Democrats say it's OK for them to be in our country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Mr. Secretary, does the president have a point?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JEH JOHNSON, FORMER HOMELAND SECURITY SECRETARY",
+      "sentences": "Chris, first of all, thanks for having me on.  Chris, I'm not going to go down the road of the normal Washington blame game, Trump versus Obama, Obama versus Bush, or what have you. We have an underlying humanitarian crisis on our southern border that we must deal with and in Central America. The high in illegal migration was 18 years ago. It is now a fraction of what used to be, but the demographic has changed. It's women and children coming from Central America. As you point out, we saw a spike in 2014. We did a number of things to deal with it. We have the second lowest number in apprehensions on our southern border in 2015, since 1972. But then the number started to creep up again and so, this is a problem that is international in scope. I applaud Mike McCaul for his leadership on the bill he discussed with you, but we've got to address this problem at the root cause. In Central America, the poverty and violence in Central America that motivates women and children to come here in the first place. We started on that in the Congress two years ago and I hope Congress continues on that road.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, and we'll get to that a little bit later. But obviously, you're not going to solve the problems quickly, which are pretty systemic in Guatemala and Honduras and El Salvador.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Without a doubt.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to talk to about some specifics. I'm not playing the political blame game, I'm talking about issues and one of them the president says in the Trump administration part of the problem is a measure that was written by Democratic Senator Dianne Feinstein in 2008 that became law. If a minor, an unaccompanied minor or child comes across the border from Mexico or Canada, we can send them immediately back to their country, but under the Feinstein amendment, if it's a noncontiguous country like Central America, not right on our border, they can't be sent back immediately.  Hasn't that contributed especially to the spike in unaccompanied minors coming into this country over the last few years?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Chris, what you're referring to is the TVPRA passed in 2008 and as you pointed out, it does say that an unaccompanied child from Central America, noncontiguous country, cannot be sent back immediately. Now, there's a certain amount of common sense behind that because you can't just simply send an unaccompanied child back across the southern border into Mexico. You cannot repatriate a Guatemalan to Mexico. And so, that law, which has a certain level of protections for children. We are talking about unaccompanied children, 5 and 6-year-old kids. It requires that the Department of Homeland Security place that child with HHS within 48 hours. A deportation proceeding is commenced and the child has a right through a lawyer to assert a claim for asylum.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Secretary Johnson, the fact is, you know, we've talked all about the children who are separated from their families. Of the 12,000 children that are in the system, 2,000 our children separated from families, 10,000 are unaccompanied minors. Perhaps unintended consequence of this amendment is that unaccompanied minors have flooded the area, a lot of them brought by coyote smugglers into the country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Well, Chris, even if that law did not exist, it would not be simply a matter of expediting the removal of an unaccompanied child. There are certain due process rights that they have anyway and when we repatriate somebody, and the Trump administration knows this, when you repatriate somebody to Central America, Central America has to agree to take them back. You have to put them on planes. It's a very measured process. So, the TVPRA in 2008 was put in place to make certain that we treat unaccompanied children -- we're talking about unaccompanied children -- in a fair way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I understand that.  Let's look -- because you mentioned it -- at how the Obama administration and you as secretary of homeland security handle this back in 2014 when there was also a spike in children, most of them unaccompanied coming across the border. You started jailing entire families. In some cases, not a lot, but in some, you separated children from their parents in these pictures that we are putting up, from 2014, show pictures of unaccompanied minors in effect jail situations. As you look back on that, did you handle it so well?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Well, Chris, without a doubt the images and the reality from 2014 just like 2018 are not pretty. And so, we expanded family detention. We had then 34,000 beds for family detention, only 95 of 34,000 equipped to deal with families. So, we extended it. I freely admit it was controversial. We believed it was necessary at the time. I still believe it is necessary to name (ph) a certain capability for families. We can't have catch and release and in my three years we deported, or repatriated or returned over a million people. But, again, you can deal with this on the border. You can try different things. We did not want to go so far as to separate families. But unless we deal with the underlying causes that are motivating people to come here in the first place we are going to continue to bang our heads against the wall on this issue.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right. Let's look at the problem that President Trump is trying to address right now. Let's put it up on the screen: 40,000 to 50,000 people across the border illegally each month. Last month, 9,500 family members crossed the border illegally and up to 40,000 unaccompanied minors cross per year. When I was talking this week to a top member of the Trump administration, he -- and I told him you were going to be on show, he said, I have one question for Secretary Johnson: what is the Democrat solution? How would they deal?  I mean, it's easy to say, well, we've got to fix Central America. But come on, that isn't going to solve the 40,000, 50,000 coming each month.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Well --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Certainly not anytime soon. How would you deal with that flood of people coming over the border now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Well, I'll tell you of Jeh Johnson's solution. Continue our border security efforts. Give the border control, give immigration enforcement the tools they need, but let's not go so far as two separate families. But also continue what Congress started two years ago, aid to Central America to deal with the property and violence and also encourage other countries in the region, Mexico, Belize, Costa Rica, Panama, to develop their own systems for asylum, for refugee processing. It was someone from the U.S. conference of Catholic bishops who told me in 2014 you can't just simply padlock a burning building without providing people with an alternative path to safety. And so, we need to develop those additional paths for getting --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But, sir, that isn't -- respectfully, that isn't going to solve the problem anytime soon. It won't solve it for months. It probably wouldn't solve it for years if we put $750 million, which is what we did during the Obama administration into foreign aid in those three countries. They are pretty broken countries. You've got a real crisis on the border with 50,000 people a month, 600,000 people a year coming across the border. How do you stop that? And what's wrong with zero-tolerance, the idea you come across the border, you broke the law, we're going to prosecute you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Three things: first, Chris, you're right, there are no easy fixes to this problem. And Washington is bad at investing in long-term solutions. Number two, history will tell you, lessons learned, lessons learned in 2014, you can do certain things that will drive down illegal migration in the short term as we did in 2014, but then the longer term patterns always revert to form. The numbers always creep back up. President Trump himself saw that in 2017, the numbers went down dramatically and then they are back up again. And so, you can do these things, but we've got to make the longer-term investment in dealing with illegal migration generally. And if we don't do that, we are going to continue to have this problem.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "One final question, because the practical result of the program that the Obama administration put in was that you had to release. You caught and had to release some of the people with a promise and sometimes an ankle bracelet that they would come back. I want to put back some numbers on the screen because according to government numbers, 74 percent of those who were released showed up for their hearings last year, but that still left almost 40,000 people who didn't show up for deportation hearings. So, catch and release, which is what the practical effect was under the Obama administration, and until this year for the Trump administration, that doesn't really work either, does it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Well, without a doubt it's a problem, Chris, which is one of the reasons we expanded family detention, which was controversial.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And was knocked down by the court. That's the reason we got this 20-day ruling. It was because of the Obama administration's policy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Well, we expanded family detention and then we ran into the issue of the Flores case, which you mentioned a moment ago. I disagreed then with the ruling in the Flores case because I think that our border patrol and our immigration enforcement people need those tools available to deal with situations like this. But it's the sheer matter of numbers, Chris. Right now, we have family detention capability for about 3,000 or 4,000 people, and you've got over a thousand migrants crossing the border a day in Central America. And so, even if you emptied it out completely today, it would fill back up in a matter of days.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "So, there you are. This is not an easy problem, which is why we need to invest and address the underlying causes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Secretary Johnson, thank you. Thanks for joining us today. Always good to talk with you, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHNSON",
+      "sentences": "Thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Up next, we'll bring in our Sunday group to discuss the policy and politics of illegal immigration. Plus, what would you like to ask the panel about President Trump advising Republicans to put off immigration reform until after the midterms? Just go to Facebook or Twitter @FoxNewsSunday, and we may use your question on the air.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Coming up, Rudy Giuliani calls for an end to the Mueller investigation after the inspector general hammers the FBI.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RUDY GIULIANI, PRESIDENT TRUMP'S ATTORNEY",
+      "sentences": "They're in jeopardy of having the whole thing thrown out on the fact that Strzok began it. Strzok began it with total bias.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll ask our Sunday panel what comes next for the special counsel's probe in a moment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "We can't do it through an executive order. Democrats forced that law upon our nation. I hate it. I hate to see separation of parents and children. We're signing an executive order. I consider to be a very important executive order. It's about keeping families together.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, what a difference a few days and a national uproar make, as President Trump ended up signing an executive order in the separation of families after saying he couldn't. And it's time now for our Sunday group. Rich Lowry of National Review, columnist for The Hill, Juan Williams, former Democratic Congresswoman Donna Edwards, and former federal prosecutor Andrew McCarthy, who writes about legal issues for National Review. Well, Rich, let me start with you. The president says he does not like to reverse course, but he did it repeatedly, this work. First, he said he couldn't sign an executive order. He did. Then he went up to Capitol Hill and said he was a thousand percent behind Republicans trying to pass a comprehensive immigration reform bill. Then he told them to stop wasting the time. What's going on here?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICH LOWRY, NATIONAL REVIEW",
+      "sentences": "He's been all over the map. Well, this separation policy, it wasn't sustainable and it hasn't been sustained. And they, obviously, need to get beyond this phase, reunite the kids quickly with the parents, which is easier said than done because there are insane bureaucratic rules around it, which means it will take months, and then try to get to debate on the catch and release. And I think the policy they want to implement now make sense and is a common sense goal, hold the kids and the parents together at the border and then deport them. The problem is, there's rules that make that impossible and there's limited capacity. My understanding, DHS has three family detention facilities. One of them is in Pennsylvania. So, obviously, they would need to radically ramp up the amount of shelters they have.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "On Friday, the president met with what are called the angel families to talk about the human cost of illegal immigration. Here he is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "They're not separated for a day or two days, they are permanently separated because they were killed by criminal illegal aliens. These are the families the media ignores. They don't talk about them. Very unfair.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Juan, did the president succeed in changing the focus on the immigration debate from separated families to the drugs and crime that come over the border with illegal immigration?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS POLITICAL ANALYST",
+      "sentences": "Well, I think it was a last -- you know, a last gasp maneuver because he was having a rough week on this issue, as you've -- as you've explained, Chris. But two wrongs don't make a right. My heart goes out to anyone that's lost a child to a terrible crime like that. But there's -- that doesn't excuse separating children from their parents at the border. So this was a cynical act by the president at the end of the week. Statistics show very clearly that there's a lower crime rate among illegal immigrants than there is among native-born Americans. There's a 70 year low in terms of people crossing that southern border, but we've had a spike in recent months. I think this is about politics and I think Trump has decided, for the midterms, he's going to demonize immigrants. And so you demonized immigrants in a way you talk about infestation, you talk about animals, people come in from terrible countries. To me, this is offensive, but this is his policy at the moment. And, I mean, what's regrettable is that it's become about politics, not so much about immigration. And right now he's losing on that fight. Two-thirds of voters, Americans, say this is a bad policy. But the president thinks it excites his base and will get them out for the midterms.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to pick up on that, but I want to ask you, Andy, as a former federal prosecutor, because one of the things that strikes me at weeks' end is the confusion. You heard Mike McCaul, chairman of the House Homeland Security Committee, basically say, I don't know when these families are going to be reunited. When he was asked about prosecution and zero-tolerance, he said, I don't know where that stands. As a former federal prosecutor, it can't be good when there's real confusion. The Department of Justice says, yes, we can continue to prosecute the parents of these families coming across, and DHS says, no you can't, and they're letting some of these people go.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANDREW MCCARTHY, FOX NEWS CONTRIBUTOR",
+      "sentences": "Yes, but, Chris, we have to remember that in every single case where you enforce the law, this is a residual problem that you have. I had I don't know how many cases that I prosecuted where day after day the family of the defendant would sit in the front row behind the defendant and the signal to the jury in every one of those cases was, if you convict this person, if you apply the law in this situation, you are going to rip this family apart, you're going to separate the family. And, in every case, as a human being, the prosecutor feels awful about it, the police who have to enforce the law feel awful about it and the jury feels awful about it. I never saw a single case where somebody actually was acquitted because of the -- because of that dynamic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So do you think the president was wrong to revoke the -- the family separation aspect? If you're saying that's part of what happens when you commit a crime.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCARTHY",
+      "sentences": "It's a fact that it is part of what happens when you commit a crime. But it's also a fact that if you were going to start a law enforcement initiative, you have to back it with the resources that you need to carry it out effectively. So if we decided today is a country we now want to crack down on marijuana trafficking, that would require a vast resource reallocation to commit to that problem and it would mean a number of other things didn't get addressed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Oh, in other words, there should have been a lot more detention --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCARTHY",
+      "sentences": "Infrastructure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Infrastructure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCARTHY",
+      "sentences": "Right. Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We asked you for questions for the panel. And on this issue on the separation of families, we got this on Facebook from John Ward who writes, what can Congress and POTUS, do -- president -- to help solve the problems in Central American countries that would allow its citizens to remain there? You can't solve the problem after they've reached the border. This is, of course, what we heard several times from former Secretary Jeh Johnson. Congresswoman Edwards, I mean are we really -- I understand that there's a problem there and people are going to want to leave if their lives are miserable, but that's a -- that isn't going to solve the problem of 600,000 people coming over the border. It's certainly not going to solve it quickly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONNA EDWARDS, FORMER U.S. CONGRESSWOMAN (D-MD)",
+      "sentences": "Oh, I think I want to go Juan's point, which is that these border crossing are actually at an all-time low. And so let's be real about what's happening here. And the fact is that we do have to change the circumstances, both economic circumstances, but also the violence that's been driven by the drug trade in Central America, which is why many of these families are fleeing. And, frankly, ripping babies, infants, toddlers, children from parents doesn't deal with the issue of MS-13. I think the president was like mixing apples and oranges here when it comes to -- to what's happening with families who are being detained. And we can't be a country that, on one hand embraces immigration, but on the other hand separates families, separates children from their parents. And this was --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, the difference in we embrace legal immigration, we don't embrace --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDWARDS",
+      "sentences": "This was a policy -- this was a policy change by the Trump administration. He didn't actually even need an executive order to deal with it. It was a policy change. And it was deliberate. And now we're learning from the president himself that it was a deliberate strategy that was actually about an election strategy for 2018. Not acceptable.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Rich.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "Overall, border crossings are lower than they had been, you know, ten, 15 years ago, but they're not lower from these Central American countries. The only --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And they're also not lower than they were last year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "In the first year of Trump, they went down considerably. They're back up to normal levels of about 50,000 a month.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "Right. And the only way you're going to stop the influx is if future migrants get the idea that if they come, they're not going to get in and they're going to get turned around and they're going to go home. They've made this harrowing journey for no good reason. That should be the policy goal. There's going to be legislation in the House that will be narrowly tailored to make it possible to hold these migrants together and then deport them. It will die in the Senate because Democrats have no interest in enforcing the law against this segment of illegal immigrants.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, panel, we have to take a break here. When we come back, Rudy Giuliani says the president may not talk to the special counsel while his 2020 campaign manager calls for an end to the investigation. And remembering our colleague Charles Krauthammer. We look back at his extraordinary life.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRISTOPHER WRAY, FBI DIRECTOR",
+      "sentences": "Senator, I believe that Special Counsel Mueller is conducting an important investigation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RUDY GIULIANI, PRESIDENT TRUMP'S ATTORNEY",
+      "sentences": "I believe that this investigation is very, very close to being able to be thrown out, anything they do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "FBI Director Christopher Wray and President Trump's lawyer Rudy Giuliani with very different views on the merit of the special counsel's investigation of the president. And we're back now with the panel. Andy, you've been writing for months about the special counsel investigation and in The National Review, and you say that the inspector general's report only adds to the argument that Justice -- the Department of Justice should pull the plug on the Mueller probe. Explain.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCARTHY",
+      "sentences": "Well, it should pull the plug on the aspect of the Mueller probe that deals with whether the president's guilty of obstruction. And part of the confusion here is that when you talk about the Mueller probe, people seem to mean different things about it as they say. The Mueller probe, as it was originally articulated by Deputy Attorney General Rosenstein, is a counterintelligence probe into Russia's interference in the 2016 election. I don't think anybody thinks that that -- the entirety of that mission is a waste of time. In fact, it's an important investigation. It ought to be seen through. Then there are the aspects of a deal with President Trump, which are very important to the governance of the country because you can't -- unless it's very necessary, you should not have a situation where the president is under the cloud of -- of federal criminal investigation. So the question is, do they have a case on him? And it appears that they don't as a matter of law. And the inspector general's report underscores that because the inspector general's theory is that when an executive official like the FBI, or the federal prosecutors, are dealing within their discretion as executive actors, even if there is a possibility of corrupt intent, as long as there are legitimate explanations for any particular step that they take, we should assume that they are acting legitimately.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So, for instance, even if Peter Strzok, the lead investigator for the FBI, sends these wildly biased texts and e-mails to his girlfriend, if there's a legitimate reason that he could have taken the actions he's taken, you've got to put the best face on it? You have to --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCARTHY",
+      "sentences": "Correct. And because the president, under the Constitution, has broader discretion than the FBI and the federal prosecutors do, and because there's more scant evidence of corrupt intent on his part than there is with respect to the agents, as we've seen in page after page after this -- of this inspector general report, I just simply don't see a basis. Even if you bought their theory of obstruction, which I never have.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Congresswoman Edwards, does the bias and misconduct inside the FBI, as documented by the inspector general's report, does that fatally taint the special counsel investigation with regard to Donald Trump?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDWARDS",
+      "sentences": "I don't think it does it all. And here's why. The special -- first of all, we know very little of what the Special Counsel Mueller is doing. And I think with good reason. And I'm glad for that. The IG report is separate, dealing with the FBI. I think it could well be that, you know, this ends up like Iran contra, where, at the end of the -- end of the day, there's nothing that comes that would -- would taint or indict the president. On the other hand, it could end up like Watergate, that results in a resignation or like -- like, you know --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Impeachment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDWARDS",
+      "sentences": "Clinton impeachment. And so I think it's really too early to know. We've already had five guilty pleas. We've had 14 indictments. It's really early on in this investigation to call for an end to it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "In the time we have left, want to talk about the passing of our colleague, Charles Krauthammer. Back in 2013, when Charles' best-selling book, \"Things that Matter,\" came out, we did a \"Power Player\" segment on Charles. And it was so interesting, it was the only two-part \"Power Player\" we have ever done. And here is a portion of that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHARLES KRAUTHAMMER",
+      "sentences": "The best thing I had going for me is from the first day I had no hope and no hope is a redeeming thing. I knew what life would be like and I -- you either accept it or you don't. WALLACE (voice over): And that may be the most remarkable part of this story. More than all Charles has accomplished and all he does in a wheelchair. There is not a trace of self-pity. Not a bit.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KRAUTHAMMER",
+      "sentences": "You've got two choices. You're either going to live a good life or you're going to live a miserable life. And that, to me, was a very easy choice.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Rich, where do you think -- and I just found out that you worked for Charles, one of your first job out of college, where does Charles rank in the pantheon of conservative thinkers? And -- and just among commentators on the public scene in general?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "Well, let me say, I worked for him as a research assistant out of college. I was scared the entire time. Obviously, not because he did anything to make me feel uncomfortable, he'd be incapable of that, but just -- he had a formidable dignity to him and you always knew you were in the presence, even if he wasn't rubbing it in your face, of a superior intellect. I think he's -- he ranks with Bill Buckley, Irving Kristol as among the top conservative intellectuals of the last 50 years. He was one of the great defenders of our civilization and he represented what was best about it. And his voice will be missed and never replaced.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Is there one story from your days as a college graduate dealing with Mr. Krauthammer?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "I once inserted a typo into his column late when it was, you know, almost going to the printer at The Washington Post and I had to go tell him this the next day. I thought -- I didn't realize in Washington you actually pass the buck and you cover for your mistakes. And he -- he wasn't --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You mean you could have said, well, it was the paper that did it or --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "He wasn't -- he wasn't mean about it or nasty about it, but I remember still it rings in my ear, he said, why did you do it? And -- and like -- like, you know, I'd killed my mother and -- and we came to joke about this over the years.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Juan, you were on the other side fencing with Charles often and it always struck me that whether you agreed with him or not, and, you know, Charles wasn't always right, I think we would agree, if you ignored him, you missed out on an important part of the national conversation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Without a doubt. You know, it comes to mind because I was on the opposite side that people talk about Wayne Gretzky or Michael Jordan as knowing where the puck or the ball was going before it gets there. So Charles was like a chess player strategic thinker. And when it came to debate, he thought out, he had a strategy in mind. He's going someplace. So to go along with him was to learn and to match strategies. The best example of this would be Harriet Miers, going back to '05. I don't know, she was -- if you remember, she was nominated for the Supreme Court by George W. Bush. Then their -- I supported her as a Democrat. I thought this was a moderate Republican, the best we can hope for from this president. He opposed her and there was tremendous opposition from the right. They feared Harriet Miers would be another David Souter kind of a indistinct, even liberal justice. Charles then cames up -- comes up with this idea for how George W. Bush can pull Harriet Miers' nomination, effectively an exit strategy, and the White House follows Charles' instructions. And for me it was like, oh, my God, he came up with this idea and he had the influence to make it real. It was -- it's a revelation. So, you know, I just give thanks that I was on the other side of a chess master at public debate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You know, it's interesting. It's like when Walter Cronkite turned against the Vietnam War. Lyndon Johnson said, if I've lost Cronkite, I've lost the country. I suspect George W. Bush thought, if I've lost Krauthammer, I've lost the country. Thank you all, panel. See you next week. Up next, our \"Power Player of the Week.\" If there's a vacancy on the Supreme Court, he will help fill it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "This last week in June marks the end of the Supreme Court's term, when it announces its biggest decisions. And often, when a justice plans to retire, we learn that too. If President Trump gets to fill another court vacancy, he'll almost certainly reach out for guidance to someone he's relied on before. Here is our \"Power Player of the Week.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEONARDO LEO, EXECUTIVE VICE PRESIDENT, THE FEDERALIST",
+      "sentences": "The job of a judge is to enforce the Constitution as it's written.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Leonard Leo is executive vice president of the Federalist Society, which advances the cause of limited constitutional government. In Washington he's known by a different name.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEO",
+      "sentences": "I don't remember ever whispering. And I know he's never whispered. WALLACE (voice over): Leo may be back in the spotlight this week if a justice on the aging Supreme Court retires at the end of the term. Anthony Kennedy is 81. Ruth Bader Ginsburg, 85.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEO",
+      "sentences": "Every June we think about that. Yes, absolutely. The odds are high that over the course of the next couple of years, several years, you're going to see a couple of vacancies.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Better than 50/50?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEO",
+      "sentences": "Yes. WALLACE (voice over): If President Trump gets to nominate another justice, that will move a court that's often split over two solidly conservative. Leo has already helped get four justices on the court. He organized conservative support for Clarence Thomas and John Roberts and Sam Alito, but his role increased dramatically when candidate Trump asked him to draw up a list of potential nominees.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEO",
+      "sentences": "What you see in that list of 21, now actually I think 25, is probably the best and brightest, you know, individuals on the bench.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Judge Gorsuch has outstanding legal skills, a brilliant mind, tremendous discipline.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Just days after he took office, President Trump nominated Federal Appeals Court Judge Neil Gorsuch, who was on Leo's list.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUSTICE NEIL GORSUCH, SUPREME COURT",
+      "sentences": "I will do all my powers permit to be a faithful servant of the Constitution laws of this great country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEO",
+      "sentences": "It's always been a point of contention.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Leonard Leo has been pushing his originalist philosophy for more than a quarter-century. The idea that the words of the Constitution should be interpreted as they were commonly understood when it was written. Outside his office there's a photograph of the Supreme Court's chambers of Justice Antonin Scalia, the prime mover of originalism over the last half-century.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEO",
+      "sentences": "That's why it's hanging here outside of my office, because this is the place -- this is the originalist temple. WALLACE (voice over): Leo is modest about what his role will be if there's another vacancy on the court, saying it's up to the White House. But there's little doubt if President Trump makes another nomination, Leo will be at the center of the action, and he could not be more committed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEO",
+      "sentences": "This is really at the core of his legacy. You're dealing with fundamental transformation in the federal bench. It's about as inspiring and motivating as anything has been in my professional life. It's like nothing I've ever experienced, Chris. It's really incredible.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Leo wouldn't tell us if he has a favorite for the Supreme Court on that list of 25. He says you could throw a dart at the list and get a solid, conservative justice. And that's it for today. Have a great week. And we'll see you next \"Fox News Sunday.\" END Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, HOST",
+      "utterance": "I'm Chris Wallace. Widespread confusion on our southern border is President Trump flips on separating immigrant families, but doubles down on his zero-tolerance policy against those entering the U.S. illegally."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Our first duty and our highest loyalty is to the citizens of the United States. We want safety in our country. We want border security."
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER, D-NY, SENATE MINORITY LEADER",
+      "utterance": "The president must continue to act to deal with these problems, which, again, he can do on his own."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll discuss what the president will do next and if Congress can pass immigration reform with Republican Congressman Michael McCaul, chair of the House Homeland Security Committee. Then, do Democrats have a solution for how to deal with a flood of illegal immigrants? We'll ask Jeh Johnson, former secretary of homeland security under President Obama. Plus --"
+    },
+    {
+      "speaker": "CHARLES KRAUTHAMMER, CONSERVATIVE COMMENTATOR",
+      "utterance": "I believe that ultimately everything hinges on getting your politics right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Saying goodbye to our friend and colleague Charles Krauthammer. We will ask our panel about his life and legacy. And our \"Power Player of the Week,\" the man behind some of President Trump's most important nominations. You have been called president Trump's Supreme Court whisperer. How do you plead? All, right now, on \"Fox News Sunday\"."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And hello again from Fox News in Washington. When President Trump signed an executive order this week, he said it would solve the sudden firestorm over immigration, but at the week's end, the disarray on our southern border has only grown. The president action called for ending the separation of families coming to the U.S. illegally, but there are still questions when 2,000 children will be reunited with relatives. The order called for maintaining the president's zero-tolerance policy, but the government is divided about continuing prosecutions. In a moment, we'll ask Congressman Michael McCaul, chair of the House Committee on Homeland Security what the president and Congress will do next. But first, let's bring in Steve Harrigan with the latest from outside a detention center in McAllen, Texas -- Steve."
+    },
+    {
+      "speaker": "STEVE HARRIGAN, FOX NEWS CORRESPONDENT",
+      "utterance": "Chris, here on the ground there's a real sense of confusion about what's next for families who have been separated. Right now, there's no clear answer."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "Protesters here think children and parents are still being separated, so they block a bus of families being moved from one detention center to another, chanting, \"Free the Children\". They are not the only ones confused about what's happening along the Texas border. A string of politicians has come through the Rio Grande Valley to see conditions firsthand, only to emerge with more questions than answers."
+    },
+    {
+      "speaker": "REP. JACKIE SPEIER, D-CALIFORNIA",
+      "utterance": "We have applauded the work of the border patrol at each of our stops. There's no directives coming out of Washington, so they are flying by the collective seat of their pants."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "Justice Department officials say it remains government policy to criminally prosecute families who cross the border illegally. But in courtrooms in McAllen, Texas, those cases are now routinely dismissed. The Department of Health and Human Services now has an emergency task force to speed the reunion of parents and children, but it is not clear how they will reunite children here with parents who have already been deported. One thing both sides agree on now is the goal of keeping families together."
+    },
+    {
+      "speaker": "SEN. TED CRUZ, R-TEXAS",
+      "utterance": "My hope is in the coming days and weeks, we will see Republicans and Democrats coming together to ensure that kids stay with their parents."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "Together in more than 20,000 beds on military bases here in Texas and Arkansas -- Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Steve Harrigan reporting from McAllen, Texas -- Steve, thank you. Joining us now, the chair of the House Homeland Security Committee, Congressman Michael McCaul, sponsor of an immigration reform bill the House may vote on this week after rejecting a more conservative plan on Thursday. Mr. Chairman, welcome back to \"Fox News Sunday.\""
+    },
+    {
+      "speaker": "REP. MICHAEL MCCAUL, R-TEXAS, CHAIRMAN, HOUSE HOMELAND SECURITY COMMITTEE",
+      "utterance": "Thank you, Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let's start with that more moderate immigration reform bill that you helped pass. Let's put up what's in it. It provides a pathway to citizenship for the Dreamers, $25 billion to build a border wall, it puts new limits on legal immigration and ends separation of families."
+    },
+    {
+      "speaker": "President Trump tweeted this Friday",
+      "utterance": "Republicans should stop wasting their time on immigration until after we elect more senators and congressmen/women in November. So, will the House still vote on your bill this week and how much damage has President Trump's stop wasting your time to be done to the chances for passage?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Well, I would urge the president to continue to support the four pillars idea. That's my border security bill, going to a merit-based system and providing for a rational DACA fix. That was rejected, as you mentioned the conservative bill that Chairman Goodlatte and I sponsored that got rejected. But I did talk to the White House yesterday. They say the president is still 100 percent behind us. Moving forward, I think -- you know, when you look at these kids down there, and I've been down there, this is not the first time this has happened. This happened in 2014 as well. Congress needs to act to close the legal loopholes that incentivize the coyotes to bring these children into the United States and if we don't do that we are going to see this scenario, this human tragedy play out over and over again."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But the president's tweet, stop wasting your time, can't have helped in the fact is that the reason this bill, the more moderate bill was put over from last week to this week is because you still don't have the votes."
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Well, we call it a consensus bill. We're trying to get a consensus from Freedom Caucus moderates and people in the middle on the Republican side. We had a very good conference when we put a pause on that bill going forward. I felt very optimistic we are going to have a solution to this problem and if we don't do this you are going to see more for these kids at the border. And let's not forget the dangerous journey they make. Yes, the secretary told me there were 12,000 children, 10,000 of them did not come with parents, but rather the coyote was their guardian, taking them from Central America all the way through Mexico and the United States, a very dangerous journey where they are abused and exploited."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "If comprehensive reform, your bill, goes down this week, and it still seems to be more likely than not, there is already talk to the House may try to pass a narrow bill which would deal simply with the idea of keeping families together, not separating them. One, is that true? And secondly, if you pass that bill, is it humane that your solution is going to be, well, yes, we are going to keep them together, but we're going to keep the families and the children detained for weeks or even months?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Well, under the bill that I helped to pass this week, we provide the solution. The problem, Chris, is that we treat people from other than Mexico, the Central Americans different from the Mexicans coming across. We want to treat them all the same, and that is when you come in from Mexico as a child, you are detained but then immediately removed from the country. We think if we could do that with the Central American population, that would go a long ways to providing -- disincentivizing the smugglers and cartels and traffickers from bringing the kids up in the first place."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But is there talk -- and is there serious thought about if you can't pass your bill that you go to a skinny bill that just deals with family separation?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "I think -- I think we at a minimum have to deal with the family separation. I'm a father of five. I think this is inhumane and I think the pictures that we have seen -- that's not the face of America. I think that most people in this country want."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "The president keeps blaming Democrats for the problem and the failure to deal with the immigration problem in this country. Take a look."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Democrats don't care about the impact of uncontrolled migration on your communities, your schools, your hospitals, your jobs or your safety. Democrats put illegal immigrants before they put American citizens. What the hell is going on?"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But, Chairman, Republicans control the House. It was Republicans who failed to pass the more conservative bill this week. It's Republicans who could pass your bill next week without a single Democratic vote. In fact, you could lose 20 Republican votes and still pass the bill. So, for all the president's talk about Democrats, if you failed to pass the bill, isn't that on Republicans, not Democrats?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Well, I think our family needs to come together. The fact is every Democrat voted against a very I think rational DACA fix. They have been talking about DACA, you know, for a year now and we had a bill on the floor that would resolve this issue, legalize the DACA kids and yet, every one of them voted against that. I don't think that's operating in good faith either and I also think it's important on the border security piece. I've been doing this since I was a federal prosecutor in Texas to chairman of this committee to deliver on the president's campaign promise to build a wall with technology, and get the border secure. The --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Why can't you get Republicans to support this? I mean, you know Democrats oppose it, certain elements of it like the wall, like limiting legal immigration, why can't you get your own house in order and Republicans pass the House bill?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Well, I am the eternal optimist and I do think there are 218 Republicans that agree with the four pillars of border security, ending chain migration, visa lottery, a a random system and fixing the DACA children."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You know, some of the hardline conservative call that amnesty and they are going to vote against it."
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "It's merit-based."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I'm talking about the DACA."
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Right. And it's a merit-based visa. It's based on merit. It's not amnesty. I mean, Raul Labrador is hardly a left-wing liberal, right? He's very conservative, Freedom Caucus guy, actually drafted that DACA provision that Carlos Curbelo on (ph) the left, they came to an agreement on that."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to go to something else you said about all of this because if the House does pass something, it goes onto the Senate where you would need 10 -- or nine Democratic votes to get above the filibuster-proof majority to get to 60 votes. You said this week that you think the Republican majority in the Senate should change the rules an end the filibuster. But, you know, sometimes when you were in the minority that works to your benefit and the question I guess I have is, OK, that would help you right now, but are you willing to see a Democratic president and a Democratic Senate, that will, at some point able to ram anything they want through?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Well, we did that Supreme Court Neil Gorsuch."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But not legislation."
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "I would argue that this is national security at stake. Securing that our border, the threats I can tell you, not only drug cartels, opioids, but also the terrorists. We stop 10 terrorists every day from getting into this country. I look at it from a national security standpoint. It should be a bipartisan issue, but if not, the Senate has that traditional role -- I think they should wave it in this case on the basis of national security to protect the American people."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let's turn to the president's executive order this week in the confusion that it has sown at the border. Here's what the president said."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "So, we are keeping families together and this will solve that problem. At the same time, we are keeping a very powerful border and it continues to be a zero tolerance."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But as chairman of House Homeland Security, can you sit here and tell me right now as we sit here, do you know when those 2,000 children who are still separated from their families will be reunited with their parents?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Well, I applaud the president for reversing course on this issue. Those children were sent into the custody of HHS, who then sent them 1,000 miles away to relatives in the United States. I think the better way to do this that are billed as is we keep the family together, but we also treat them like the Mexican people where we detain and then remove them from the country. If we don't do that, we will never stop this problem. We'll be talking about this next year and the year after if we don't fix it by Congress."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But I -- just to press my point, do you know when these 2,000 children who have been separated, and as you say, some of them are thousands of miles away, what are they going to be reunited with their parents?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "I think it's a very difficult thing to do and they're going to do have to bring them back to the border where they should have been in the first place and --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Are we talking weeks or months?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "And be with their parents who violated the law, reunite them at the family center and then go forward with the removal proceedings. But, Chris, as it exists now under the Flores decision, after 20 days, they are released into society and these could be dangerous people. I'm not saying they all are. But I think the children, you know, because HHS, they are put in their custody and transferred somewhere else in the country."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let me ask you another specific question. As chairman of House Homeland Security, do you know whether adults, members of families crossing the border illegally can and are still being prosecuted under zero-tolerance?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "That was the plan. They violated the law. They were being prosecuted. I have --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And now we hear some of these people are being dismissed."
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "I have heard recent reports now that that may be -- that policy may be revisited and it may not go forward."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Zero-tolerance?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "I mean, that's some of the reporting I'm getting. And it's very unclear how this executive order is playing out, but I'm not clear about how the prosecution of the parents. I think they want to reunite the family and then remove them from the country."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Final question, at the height of this furor, you said and you basically made that point just now that you were destroyed as a father of five at what's happened. And you said at one point that this policy must come to an end. How badly has this been handled?"
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "I think, you know, to set forth a policy and then having to reverse it is not a consistent message obviously, to be candid with you. But I think -- I wouldn't fall the administration on this. I would fault the United States Congress, who has the power to change the laws that will stop this from happening again and yet we can't seem to get this done. And that's why I've urged my colleagues, why is it so important that national security is at stake, protecting the American people? We have to get this done or we'll be seeing the scene play out over and over again. There will be -- we had 30,000 kids in 2014. We're going to see the same thing this summer if we don't change it."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Chairman McCaul, thank you. Thanks for your time. We'll track what happens with your comprehensive bill on the floor this week. Thank you, sir."
+    },
+    {
+      "speaker": "MCCAUL",
+      "utterance": "Thank you, Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Up next, President Trump says he inherited a mess on immigration from the Obama administration. We'll talk with Jeh Johnson, Mr. Obama's secretary of homeland security, when we come back. What is the Democrats' solution?"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Democrats say President Trump created the mess over separating families at the border with his new zero-tolerance policy and that he alone can fix it. But what is their answer for stemming the tide of illegal immigrants coming into the U.S.? Joining us now, Jeh Johnson, President Obama's secretary of homeland security, who had to deal with a spike in illegal crossings back in 2014. Mr. Secretary, President Trump says the real cause of our immigration problems are weak laws and what he calls open border Democrats. Take a look."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "They just want everyone to be released into our country no matter how dangerous they are. They can be killers, they can be thieves, they can be horrible people. The Democrats say it's OK for them to be in our country."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Mr. Secretary, does the president have a point?"
+    },
+    {
+      "speaker": "JEH JOHNSON, FORMER HOMELAND SECURITY SECRETARY",
+      "utterance": "Chris, first of all, thanks for having me on. Chris, I'm not going to go down the road of the normal Washington blame game, Trump versus Obama, Obama versus Bush, or what have you. We have an underlying humanitarian crisis on our southern border that we must deal with and in Central America. The high in illegal migration was 18 years ago. It is now a fraction of what used to be, but the demographic has changed. It's women and children coming from Central America. As you point out, we saw a spike in 2014. We did a number of things to deal with it. We have the second lowest number in apprehensions on our southern border in 2015, since 1972. But then the number started to creep up again and so, this is a problem that is international in scope. I applaud Mike McCaul for his leadership on the bill he discussed with you, but we've got to address this problem at the root cause. In Central America, the poverty and violence in Central America that motivates women and children to come here in the first place. We started on that in the Congress two years ago and I hope Congress continues on that road."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, and we'll get to that a little bit later. But obviously, you're not going to solve the problems quickly, which are pretty systemic in Guatemala and Honduras and El Salvador."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Without a doubt."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to talk to about some specifics. I'm not playing the political blame game, I'm talking about issues and one of them the president says in the Trump administration part of the problem is a measure that was written by Democratic Senator Dianne Feinstein in 2008 that became law. If a minor, an unaccompanied minor or child comes across the border from Mexico or Canada, we can send them immediately back to their country, but under the Feinstein amendment, if it's a noncontiguous country like Central America, not right on our border, they can't be sent back immediately. Hasn't that contributed especially to the spike in unaccompanied minors coming into this country over the last few years?"
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Chris, what you're referring to is the TVPRA passed in 2008 and as you pointed out, it does say that an unaccompanied child from Central America, noncontiguous country, cannot be sent back immediately. Now, there's a certain amount of common sense behind that because you can't just simply send an unaccompanied child back across the southern border into Mexico. You cannot repatriate a Guatemalan to Mexico. And so, that law, which has a certain level of protections for children. We are talking about unaccompanied children, 5 and 6-year-old kids. It requires that the Department of Homeland Security place that child with HHS within 48 hours. A deportation proceeding is commenced and the child has a right through a lawyer to assert a claim for asylum."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Secretary Johnson, the fact is, you know, we've talked all about the children who are separated from their families. Of the 12,000 children that are in the system, 2,000 our children separated from families, 10,000 are unaccompanied minors. Perhaps unintended consequence of this amendment is that unaccompanied minors have flooded the area, a lot of them brought by coyote smugglers into the country."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Well, Chris, even if that law did not exist, it would not be simply a matter of expediting the removal of an unaccompanied child. There are certain due process rights that they have anyway and when we repatriate somebody, and the Trump administration knows this, when you repatriate somebody to Central America, Central America has to agree to take them back. You have to put them on planes. It's a very measured process. So, the TVPRA in 2008 was put in place to make certain that we treat unaccompanied children -- we're talking about unaccompanied children -- in a fair way."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I understand that. Let's look -- because you mentioned it -- at how the Obama administration and you as secretary of homeland security handle this back in 2014 when there was also a spike in children, most of them unaccompanied coming across the border. You started jailing entire families. In some cases, not a lot, but in some, you separated children from their parents in these pictures that we are putting up, from 2014, show pictures of unaccompanied minors in effect jail situations. As you look back on that, did you handle it so well?"
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Well, Chris, without a doubt the images and the reality from 2014 just like 2018 are not pretty. And so, we expanded family detention. We had then 34,000 beds for family detention, only 95 of 34,000 equipped to deal with families. So, we extended it. I freely admit it was controversial. We believed it was necessary at the time. I still believe it is necessary to name (ph) a certain capability for families. We can't have catch and release and in my three years we deported, or repatriated or returned over a million people. But, again, you can deal with this on the border. You can try different things. We did not want to go so far as to separate families. But unless we deal with the underlying causes that are motivating people to come here in the first place we are going to continue to bang our heads against the wall on this issue."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right. Let's look at the problem that President Trump is trying to address right now. Let's put it up on the screen: 40,000 to 50,000 people across the border illegally each month. Last month, 9,500 family members crossed the border illegally and up to 40,000 unaccompanied minors cross per year."
+    },
+    {
+      "speaker": "When I was talking this week to a top member of the Trump administration, he -- and I told him you were going to be on show, he said, I have one question for Secretary Johnson",
+      "utterance": "what is the Democrat solution? How would they deal? I mean, it's easy to say, well, we've got to fix Central America. But come on, that isn't going to solve the 40,000, 50,000 coming each month."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Well --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Certainly not anytime soon. How would you deal with that flood of people coming over the border now?"
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Well, I'll tell you of Jeh Johnson's solution. Continue our border security efforts. Give the border control, give immigration enforcement the tools they need, but let's not go so far as two separate families. But also continue what Congress started two years ago, aid to Central America to deal with the property and violence and also encourage other countries in the region, Mexico, Belize, Costa Rica, Panama, to develop their own systems for asylum, for refugee processing. It was someone from the U.S. conference of Catholic bishops who told me in 2014 you can't just simply padlock a burning building without providing people with an alternative path to safety. And so, we need to develop those additional paths for getting --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But, sir, that isn't -- respectfully, that isn't going to solve the problem anytime soon. It won't solve it for months. It probably wouldn't solve it for years if we put $750 million, which is what we did during the Obama administration into foreign aid in those three countries. They are pretty broken countries. You've got a real crisis on the border with 50,000 people a month, 600,000 people a year coming across the border. How do you stop that? And what's wrong with zero-tolerance, the idea you come across the border, you broke the law, we're going to prosecute you?"
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Three things: first, Chris, you're right, there are no easy fixes to this problem. And Washington is bad at investing in long-term solutions. Number two, history will tell you, lessons learned, lessons learned in 2014, you can do certain things that will drive down illegal migration in the short term as we did in 2014, but then the longer term patterns always revert to form. The numbers always creep back up. President Trump himself saw that in 2017, the numbers went down dramatically and then they are back up again. And so, you can do these things, but we've got to make the longer-term investment in dealing with illegal migration generally. And if we don't do that, we are going to continue to have this problem."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "One final question, because the practical result of the program that the Obama administration put in was that you had to release. You caught and had to release some of the people with a promise and sometimes an ankle bracelet that they would come back. I want to put back some numbers on the screen because according to government numbers, 74 percent of those who were released showed up for their hearings last year, but that still left almost 40,000 people who didn't show up for deportation hearings. So, catch and release, which is what the practical effect was under the Obama administration, and until this year for the Trump administration, that doesn't really work either, does it?"
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Well, without a doubt it's a problem, Chris, which is one of the reasons we expanded family detention, which was controversial."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And was knocked down by the court. That's the reason we got this 20-day ruling. It was because of the Obama administration's policy."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Well, we expanded family detention and then we ran into the issue of the Flores case, which you mentioned a moment ago. I disagreed then with the ruling in the Flores case because I think that our border patrol and our immigration enforcement people need those tools available to deal with situations like this. But it's the sheer matter of numbers, Chris. Right now, we have family detention capability for about 3,000 or 4,000 people, and you've got over a thousand migrants crossing the border a day in Central America. And so, even if you emptied it out completely today, it would fill back up in a matter of days."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "So, there you are. This is not an easy problem, which is why we need to invest and address the underlying causes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Secretary Johnson, thank you. Thanks for joining us today. Always good to talk with you, sir."
+    },
+    {
+      "speaker": "JOHNSON",
+      "utterance": "Thanks."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Up next, we'll bring in our Sunday group to discuss the policy and politics of illegal immigration. Plus, what would you like to ask the panel about President Trump advising Republicans to put off immigration reform until after the midterms? Just go to Facebook or Twitter @FoxNewsSunday, and we may use your question on the air."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Coming up, Rudy Giuliani calls for an end to the Mueller investigation after the inspector general hammers the FBI."
+    },
+    {
+      "speaker": "RUDY GIULIANI, PRESIDENT TRUMP'S ATTORNEY",
+      "utterance": "They're in jeopardy of having the whole thing thrown out on the fact that Strzok began it. Strzok began it with total bias."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll ask our Sunday panel what comes next for the special counsel's probe in a moment."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "We can't do it through an executive order. Democrats forced that law upon our nation. I hate it. I hate to see separation of parents and children. We're signing an executive order. I consider to be a very important executive order. It's about keeping families together."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, what a difference a few days and a national uproar make, as President Trump ended up signing an executive order in the separation of families after saying he couldn't. And it's time now for our Sunday group. Rich Lowry of National Review, columnist for The Hill, Juan Williams, former Democratic Congresswoman Donna Edwards, and former federal prosecutor Andrew McCarthy, who writes about legal issues for National Review. Well, Rich, let me start with you. The president says he does not like to reverse course, but he did it repeatedly, this work. First, he said he couldn't sign an executive order. He did. Then he went up to Capitol Hill and said he was a thousand percent behind Republicans trying to pass a comprehensive immigration reform bill. Then he told them to stop wasting the time. What's going on here?"
+    },
+    {
+      "speaker": "RICH LOWRY, NATIONAL REVIEW",
+      "utterance": "He's been all over the map. Well, this separation policy, it wasn't sustainable and it hasn't been sustained. And they, obviously, need to get beyond this phase, reunite the kids quickly with the parents, which is easier said than done because there are insane bureaucratic rules around it, which means it will take months, and then try to get to debate on the catch and release. And I think the policy they want to implement now make sense and is a common sense goal, hold the kids and the parents together at the border and then deport them. The problem is, there's rules that make that impossible and there's limited capacity. My understanding, DHS has three family detention facilities. One of them is in Pennsylvania. So, obviously, they would need to radically ramp up the amount of shelters they have."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "On Friday, the president met with what are called the angel families to talk about the human cost of illegal immigration. Here he is."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "They're not separated for a day or two days, they are permanently separated because they were killed by criminal illegal aliens. These are the families the media ignores. They don't talk about them. Very unfair."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Juan, did the president succeed in changing the focus on the immigration debate from separated families to the drugs and crime that come over the border with illegal immigration?"
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS POLITICAL ANALYST",
+      "utterance": "Well, I think it was a last -- you know, a last gasp maneuver because he was having a rough week on this issue, as you've -- as you've explained, Chris. But two wrongs don't make a right. My heart goes out to anyone that's lost a child to a terrible crime like that. But there's -- that doesn't excuse separating children from their parents at the border. So this was a cynical act by the president at the end of the week. Statistics show very clearly that there's a lower crime rate among illegal immigrants than there is among native-born Americans. There's a 70 year low in terms of people crossing that southern border, but we've had a spike in recent months. I think this is about politics and I think Trump has decided, for the midterms, he's going to demonize immigrants. And so you demonized immigrants in a way you talk about infestation, you talk about animals, people come in from terrible countries. To me, this is offensive, but this is his policy at the moment. And, I mean, what's regrettable is that it's become about politics, not so much about immigration. And right now he's losing on that fight. Two-thirds of voters, Americans, say this is a bad policy. But the president thinks it excites his base and will get them out for the midterms."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to pick up on that, but I want to ask you, Andy, as a former federal prosecutor, because one of the things that strikes me at weeks' end is the confusion. You heard Mike McCaul, chairman of the House Homeland Security Committee, basically say, I don't know when these families are going to be reunited. When he was asked about prosecution and zero-tolerance, he said, I don't know where that stands. As a former federal prosecutor, it can't be good when there's real confusion. The Department of Justice says, yes, we can continue to prosecute the parents of these families coming across, and DHS says, no you can't, and they're letting some of these people go."
+    },
+    {
+      "speaker": "ANDREW MCCARTHY, FOX NEWS CONTRIBUTOR",
+      "utterance": "Yes, but, Chris, we have to remember that in every single case where you enforce the law, this is a residual problem that you have. I had I don't know how many cases that I prosecuted where day after day the family of the defendant would sit in the front row behind the defendant and the signal to the jury in every one of those cases was, if you convict this person, if you apply the law in this situation, you are going to rip this family apart, you're going to separate the family. And, in every case, as a human being, the prosecutor feels awful about it, the police who have to enforce the law feel awful about it and the jury feels awful about it. I never saw a single case where somebody actually was acquitted because of the -- because of that dynamic."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So do you think the president was wrong to revoke the -- the family separation aspect? If you're saying that's part of what happens when you commit a crime."
+    },
+    {
+      "speaker": "MCCARTHY",
+      "utterance": "It's a fact that it is part of what happens when you commit a crime. But it's also a fact that if you were going to start a law enforcement initiative, you have to back it with the resources that you need to carry it out effectively. So if we decided today is a country we now want to crack down on marijuana trafficking, that would require a vast resource reallocation to commit to that problem and it would mean a number of other things didn't get addressed."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Oh, in other words, there should have been a lot more detention --"
+    },
+    {
+      "speaker": "MCCARTHY",
+      "utterance": "Infrastructure."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Infrastructure."
+    },
+    {
+      "speaker": "MCCARTHY",
+      "utterance": "Right. Right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We asked you for questions for the panel. And on this issue on the separation of families, we got this on Facebook from John Ward who writes, what can Congress and POTUS, do -- president -- to help solve the problems in Central American countries that would allow its citizens to remain there? You can't solve the problem after they've reached the border. This is, of course, what we heard several times from former Secretary Jeh Johnson. Congresswoman Edwards, I mean are we really -- I understand that there's a problem there and people are going to want to leave if their lives are miserable, but that's a -- that isn't going to solve the problem of 600,000 people coming over the border. It's certainly not going to solve it quickly."
+    },
+    {
+      "speaker": "DONNA EDWARDS, FORMER U.S. CONGRESSWOMAN (D-MD)",
+      "utterance": "Oh, I think I want to go Juan's point, which is that these border crossing are actually at an all-time low. And so let's be real about what's happening here. And the fact is that we do have to change the circumstances, both economic circumstances, but also the violence that's been driven by the drug trade in Central America, which is why many of these families are fleeing. And, frankly, ripping babies, infants, toddlers, children from parents doesn't deal with the issue of MS-13. I think the president was like mixing apples and oranges here when it comes to -- to what's happening with families who are being detained. And we can't be a country that, on one hand embraces immigration, but on the other hand separates families, separates children from their parents. And this was --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, the difference in we embrace legal immigration, we don't embrace --"
+    },
+    {
+      "speaker": "EDWARDS",
+      "utterance": "This was a policy -- this was a policy change by the Trump administration. He didn't actually even need an executive order to deal with it. It was a policy change. And it was deliberate. And now we're learning from the president himself that it was a deliberate strategy that was actually about an election strategy for 2018. Not acceptable."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Rich."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "Overall, border crossings are lower than they had been, you know, ten, 15 years ago, but they're not lower from these Central American countries. The only --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And they're also not lower than they were last year."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "In the first year of Trump, they went down considerably. They're back up to normal levels of about 50,000 a month."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "Right. And the only way you're going to stop the influx is if future migrants get the idea that if they come, they're not going to get in and they're going to get turned around and they're going to go home. They've made this harrowing journey for no good reason. That should be the policy goal. There's going to be legislation in the House that will be narrowly tailored to make it possible to hold these migrants together and then deport them. It will die in the Senate because Democrats have no interest in enforcing the law against this segment of illegal immigrants."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, panel, we have to take a break here. When we come back, Rudy Giuliani says the president may not talk to the special counsel while his 2020 campaign manager calls for an end to the investigation. And remembering our colleague Charles Krauthammer. We look back at his extraordinary life."
+    },
+    {
+      "speaker": "CHRISTOPHER WRAY, FBI DIRECTOR",
+      "utterance": "Senator, I believe that Special Counsel Mueller is conducting an important investigation."
+    },
+    {
+      "speaker": "RUDY GIULIANI, PRESIDENT TRUMP'S ATTORNEY",
+      "utterance": "I believe that this investigation is very, very close to being able to be thrown out, anything they do."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "FBI Director Christopher Wray and President Trump's lawyer Rudy Giuliani with very different views on the merit of the special counsel's investigation of the president. And we're back now with the panel. Andy, you've been writing for months about the special counsel investigation and in The National Review, and you say that the inspector general's report only adds to the argument that Justice -- the Department of Justice should pull the plug on the Mueller probe. Explain."
+    },
+    {
+      "speaker": "MCCARTHY",
+      "utterance": "Well, it should pull the plug on the aspect of the Mueller probe that deals with whether the president's guilty of obstruction. And part of the confusion here is that when you talk about the Mueller probe, people seem to mean different things about it as they say. The Mueller probe, as it was originally articulated by Deputy Attorney General Rosenstein, is a counterintelligence probe into Russia's interference in the 2016 election. I don't think anybody thinks that that -- the entirety of that mission is a waste of time. In fact, it's an important investigation. It ought to be seen through. Then there are the aspects of a deal with President Trump, which are very important to the governance of the country because you can't -- unless it's very necessary, you should not have a situation where the president is under the cloud of -- of federal criminal investigation. So the question is, do they have a case on him? And it appears that they don't as a matter of law. And the inspector general's report underscores that because the inspector general's theory is that when an executive official like the FBI, or the federal prosecutors, are dealing within their discretion as executive actors, even if there is a possibility of corrupt intent, as long as there are legitimate explanations for any particular step that they take, we should assume that they are acting legitimately."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So, for instance, even if Peter Strzok, the lead investigator for the FBI, sends these wildly biased texts and e-mails to his girlfriend, if there's a legitimate reason that he could have taken the actions he's taken, you've got to put the best face on it? You have to --"
+    },
+    {
+      "speaker": "MCCARTHY",
+      "utterance": "Correct. And because the president, under the Constitution, has broader discretion than the FBI and the federal prosecutors do, and because there's more scant evidence of corrupt intent on his part than there is with respect to the agents, as we've seen in page after page after this -- of this inspector general report, I just simply don't see a basis. Even if you bought their theory of obstruction, which I never have."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Congresswoman Edwards, does the bias and misconduct inside the FBI, as documented by the inspector general's report, does that fatally taint the special counsel investigation with regard to Donald Trump?"
+    },
+    {
+      "speaker": "EDWARDS",
+      "utterance": "I don't think it does it all. And here's why. The special -- first of all, we know very little of what the Special Counsel Mueller is doing. And I think with good reason. And I'm glad for that. The IG report is separate, dealing with the FBI. I think it could well be that, you know, this ends up like Iran contra, where, at the end of the -- end of the day, there's nothing that comes that would -- would taint or indict the president. On the other hand, it could end up like Watergate, that results in a resignation or like -- like, you know --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Impeachment."
+    },
+    {
+      "speaker": "EDWARDS",
+      "utterance": "Clinton impeachment. And so I think it's really too early to know. We've already had five guilty pleas. We've had 14 indictments. It's really early on in this investigation to call for an end to it."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "In the time we have left, want to talk about the passing of our colleague, Charles Krauthammer. Back in 2013, when Charles' best-selling book, \"Things that Matter,\" came out, we did a \"Power Player\" segment on Charles. And it was so interesting, it was the only two-part \"Power Player\" we have ever done. And here is a portion of that."
+    },
+    {
+      "speaker": "CHARLES KRAUTHAMMER",
+      "utterance": "The best thing I had going for me is from the first day I had no hope and no hope is a redeeming thing. I knew what life would be like and I -- you either accept it or you don't."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "And that may be the most remarkable part of this story. More than all Charles has accomplished and all he does in a wheelchair. There is not a trace of self-pity. Not a bit."
+    },
+    {
+      "speaker": "KRAUTHAMMER",
+      "utterance": "You've got two choices. You're either going to live a good life or you're going to live a miserable life. And that, to me, was a very easy choice."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Rich, where do you think -- and I just found out that you worked for Charles, one of your first job out of college, where does Charles rank in the pantheon of conservative thinkers? And -- and just among commentators on the public scene in general?"
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "Well, let me say, I worked for him as a research assistant out of college. I was scared the entire time. Obviously, not because he did anything to make me feel uncomfortable, he'd be incapable of that, but just -- he had a formidable dignity to him and you always knew you were in the presence, even if he wasn't rubbing it in your face, of a superior intellect. I think he's -- he ranks with Bill Buckley, Irving Kristol as among the top conservative intellectuals of the last 50 years. He was one of the great defenders of our civilization and he represented what was best about it. And his voice will be missed and never replaced."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Is there one story from your days as a college graduate dealing with Mr. Krauthammer?"
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "I once inserted a typo into his column late when it was, you know, almost going to the printer at The Washington Post and I had to go tell him this the next day. I thought -- I didn't realize in Washington you actually pass the buck and you cover for your mistakes. And he -- he wasn't --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You mean you could have said, well, it was the paper that did it or --"
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "He wasn't -- he wasn't mean about it or nasty about it, but I remember still it rings in my ear, he said, why did you do it? And -- and like -- like, you know, I'd killed my mother and -- and we came to joke about this over the years."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Juan, you were on the other side fencing with Charles often and it always struck me that whether you agreed with him or not, and, you know, Charles wasn't always right, I think we would agree, if you ignored him, you missed out on an important part of the national conversation."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Without a doubt. You know, it comes to mind because I was on the opposite side that people talk about Wayne Gretzky or Michael Jordan as knowing where the puck or the ball was going before it gets there. So Charles was like a chess player strategic thinker. And when it came to debate, he thought out, he had a strategy in mind. He's going someplace. So to go along with him was to learn and to match strategies. The best example of this would be Harriet Miers, going back to '05. I don't know, she was -- if you remember, she was nominated for the Supreme Court by George W. Bush. Then their -- I supported her as a Democrat. I thought this was a moderate Republican, the best we can hope for from this president. He opposed her and there was tremendous opposition from the right. They feared Harriet Miers would be another David Souter kind of a indistinct, even liberal justice. Charles then cames up -- comes up with this idea for how George W. Bush can pull Harriet Miers' nomination, effectively an exit strategy, and the White House follows Charles' instructions. And for me it was like, oh, my God, he came up with this idea and he had the influence to make it real. It was -- it's a revelation. So, you know, I just give thanks that I was on the other side of a chess master at public debate."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You know, it's interesting. It's like when Walter Cronkite turned against the Vietnam War. Lyndon Johnson said, if I've lost Cronkite, I've lost the country. I suspect George W. Bush thought, if I've lost Krauthammer, I've lost the country. Thank you all, panel. See you next week. Up next, our \"Power Player of the Week.\" If there's a vacancy on the Supreme Court, he will help fill it."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "This last week in June marks the end of the Supreme Court's term, when it announces its biggest decisions. And often, when a justice plans to retire, we learn that too. If President Trump gets to fill another court vacancy, he'll almost certainly reach out for guidance to someone he's relied on before. Here is our \"Power Player of the Week.\""
+    },
+    {
+      "speaker": "LEONARDO LEO, EXECUTIVE VICE PRESIDENT, THE FEDERALIST",
+      "utterance": "The job of a judge is to enforce the Constitution as it's written."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Leonard Leo is executive vice president of the Federalist Society, which advances the cause of limited constitutional government. In Washington he's known by a different name."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "You have been called President Trump's Supreme Court whisperer. How do you plead?"
+    },
+    {
+      "speaker": "LEO",
+      "utterance": "I don't remember ever whispering. And I know he's never whispered."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Leo may be back in the spotlight this week if a justice on the aging Supreme Court retires at the end of the term. Anthony Kennedy is 81. Ruth Bader Ginsburg, 85."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Do you, given your role, do you think to yourself, we're headed into the regular season now?"
+    },
+    {
+      "speaker": "LEO",
+      "utterance": "Every June we think about that. Yes, absolutely. The odds are high that over the course of the next couple of years, several years, you're going to see a couple of vacancies."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Better than 50/50?"
+    },
+    {
+      "speaker": "LEO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "If President Trump gets to nominate another justice, that will move a court that's often split over two solidly conservative. Leo has already helped get four justices on the court. He organized conservative support for Clarence Thomas and John Roberts and Sam Alito, but his role increased dramatically when candidate Trump asked him to draw up a list of potential nominees."
+    },
+    {
+      "speaker": "LEO",
+      "utterance": "What you see in that list of 21, now actually I think 25, is probably the best and brightest, you know, individuals on the bench."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Judge Gorsuch has outstanding legal skills, a brilliant mind, tremendous discipline."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Just days after he took office, President Trump nominated Federal Appeals Court Judge Neil Gorsuch, who was on Leo's list."
+    },
+    {
+      "speaker": "JUSTICE NEIL GORSUCH, SUPREME COURT",
+      "utterance": "I will do all my powers permit to be a faithful servant of the Constitution laws of this great country."
+    },
+    {
+      "speaker": "LEO",
+      "utterance": "It's always been a point of contention."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Leonard Leo has been pushing his originalist philosophy for more than a quarter-century. The idea that the words of the Constitution should be interpreted as they were commonly understood when it was written. Outside his office there's a photograph of the Supreme Court's chambers of Justice Antonin Scalia, the prime mover of originalism over the last half-century."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Is this the inner sanctum of originalism?"
+    },
+    {
+      "speaker": "LEO",
+      "utterance": "That's why it's hanging here outside of my office, because this is the place -- this is the originalist temple."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Leo is modest about what his role will be if there's another vacancy on the court, saying it's up to the White House. But there's little doubt if President Trump makes another nomination, Leo will be at the center of the action, and he could not be more committed."
+    },
+    {
+      "speaker": "LEO",
+      "utterance": "This is really at the core of his legacy. You're dealing with fundamental transformation in the federal bench. It's about as inspiring and motivating as anything has been in my professional life. It's like nothing I've ever experienced, Chris. It's really incredible."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Leo wouldn't tell us if he has a favorite for the Supreme Court on that list of 25. He says you could throw a dart at the list and get a solid, conservative justice. And that's it for today. Have a great week. And we'll see you next \"Fox News Sunday.\" END Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

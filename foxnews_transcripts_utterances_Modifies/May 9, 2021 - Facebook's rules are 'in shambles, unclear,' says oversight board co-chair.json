@@ -1,0 +1,1537 @@
+{
+  "date": "May 9, 2021",
+  "headline": "Facebook's rules are 'in shambles, unclear,' says oversight board co-chair",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/facebooks-rules-are-in-shambles-unclear-says-oversight-board-co-chair",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "sentences": "I'm Chris Wallace. Facebook's independent oversight board maintains that temporary ban on Donald Trump, but sends the case back to the social media giant.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARK MEADOWS, FORMER WHITE HOUSE CHIEF OF STAFF",
+      "sentences": "Whether it's six months or six days, what we see in this decision is really about chilling free speech.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll sit down with the co-chair of the oversight board, law professor and former federal judge, Michael McConnell, only on \"FOX News Sunday\".  Then, Republican lawmakers in the House call for new leadership, backing Trump defender Elise Stefanik to replace Liz Cheney.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. KEVIN MCCARTHY (R-CA)",
+      "sentences": "I have heard from members concerned about her ability to carry out the job as conference chair.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We're joined by Congressman Jim Banks of Indiana, one of the leaders in the drive to oust Cheney. It's a \"FOX News Sunday\" exclusive.   Plus --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOSEPH R. BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Our efforts are starting to work, but the climb is steep and we still have a long way to go.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Disappointing job numbers even as employers struggle to find workers. We'll ask our Sunday panel about challenges to the economic recovery.   And our power player of the week, the FCC chair who once called TV a vast wasteland and what he thinks of today's media landscape. All, right now, on \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Hello again and happy Mother's Day from FOX News in Washington.   Donald Trump's influence on the Republican Party is being challenged on two fronts right now. First in Congress, where House Republicans are moving to replace Liz Cheney as one of their leaders over her split with the former president. And on social media, where Facebook decision to ban Mr. Trump from its platform, which it must now reconsider, could play a big role in another possible run for president in 2024. In a moment, we'll speak with former Federal Judge Michael McConnell, one of the co-chairs of Facebook's oversight board.  But, first, let's bring in Mike Emanuel with more on where the Trump Facebook controversy stands right now -- Mike.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS CORRESPONDENT",
+      "sentences": "Chris, the Facebook oversight board's decision to uphold the ban on former President Trump for now has led to calls to break up big tech platforms, with some arguing for anti- trust reform after allegations of censoring conservatives.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEADOWS",
+      "sentences": "This is going to be a breakup of big tech. When you look at Google and Facebook, they have more power over what we read and what we see than any in the media.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JEN PSAKI, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "The president's view is that major platforms have a responsibility related to health and safety of all Americans to stop amplifying untrustworthy content, disinformation and misinformation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "In Congress, there's at least some bipartisan support for big tech reform, with some on the left pushing for Section 230 reform to cut down on spam and conspiracy theories. The Democratic chairman of the Senate Intelligence Committee says failure is not an option.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. MARK WARNER (D-VA), SENATE INTELLIGENCE COMMITTEE CHAIRMAN",
+      "sentences": "And urging these reforms and have not been able to get them across the finish line.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Mike, thank you. And joining us now, one of the co-chairs of Facebook's oversight board, former federal judge, Michael McConnell.  Professor, let's start with Facebook's original decision to ban President Trump based on two of his posts on the day of the Capitol riot.  First, there was this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT",
+      "sentences": "This was a fraudulent election, but we can't play into the hands of these people. We have to have peace. So, go home. We love you. You're very special. You've seen what happens.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Later that same day, Mr. Trump posted this: These are the things and events that happen when a sacred landslide election victory is so unceremoniously, viciously stripped away from great patriots who have been badly, unfairly treated for so long. Professor, your board decided to uphold the ban for six months while Facebook clarifies its policy. Why did you decide to enforce the ban or to continue the ban during that period, rather than to lift it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MICHAEL MCCONNELL, FACEBOOK OVERSIGHT BOARD CO-CHAIR",
+      "sentences": "Well, Chris, on January 6th, President Trump issued those statements as a mob was rampaging through the Capitol, as members of Congress were cowering in fear, as mob -  - as the rioters were threatening Vice President Pence's life. And at that time, he issued these statements which were just egging on -- with perfunctory asking for peace, but mostly, he was just egging them on to continue. So, this is a plain violation of Facebook's rules against praising dangerous individuals and organizations at a time of violence.  So, Mr. Trump is subject to the same rules on Facebook as everyone else and the oversight board held that this was in fact a violation and, thus, Facebook was justified in taking them down. What we did say, though, was that they were not justified taking them down indefinitely, that they did not provide any reasons for that, that is not a provision in their rules, that was wrong. And we gave them a certain amount of time to get that -- get their house in order. They needed some time because their rules are shambles. They are not transparent. They are unclear, they are internally inconsistent. So, we made a series of recommendations about how to make their rules clearer and more consistent and the hope is that they will use the next few months to do that. And then when they come back and look at this, they'll be able to apply those rules in a straight-forward way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "As a constitutional law professor, as a former federal circuit court of appeals judge, how do you answer concerns that Facebook is violating President Trump's free speech?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCONNELL",
+      "sentences": "Well, I mean, the simple willing answer is private companies are not bound by the First Amendment. And so, he has no First Amendment rights. He's a customer. He's not -- Facebook is not a government, and he is not a citizen of Facebook. But in a broader sense, what we are trying to do is bringing some of the most important principles of the First Amendment, a free expression law globally into this operation. Facebook has been -- exercises too much power. They are arbitrary. They are inconsistent and it is the job of the oversight board to try to bring some discipline to that process.   So what we have done is to identify ways in which Facebook has been nontransparent, ways in which they've been arbitrary and trying to nudge them toward a more -- free speech, free expression, friendly environment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to push back a bit on the free speech argument. I understand the legal argument, but as you say, you think that Facebook is exercising too much authority. Listen to what Republican Senator Josh Hawley had to say about all of this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. JOSH HAWLEY (R-MO)",
+      "sentences": "These platforms like Facebook, like Google, they censor our speech. They shut out new market entrants. They shut out competitors. Why? Because they've gotten to be monopolies. And that's why I think we've got to take them on and break them up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "The argument is that Facebook and Twitter and other platforms have become so big that they can in effect silence people in the digital age and the argument is, yes, President Trump is able to speak, but it is matter of freedom of speech in -- with something like Facebook. It's a matter of freedom of reach. How do you respond to that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCONNELL",
+      "sentences": "Well, it's, of course, up to Congress to decide what the anti- trust laws are going to be, but this is not a free -- this is not a First Amendment issue. It is not as if -- you can't go to court, no judge in the country would hold that Mr. Trump's free speech rights were violated.  Now, if Congress wants to pass a new law similar to, you know, must-carry rules or fairness doctrine of the past, they can do that and the courts will decide whether that -- it comports with the First Amendment.  The oversight board has nothing to do with that. Our job is to -- is to provide oversight for Facebook to make sure that they are applying their rules in a fair, consistent, non-arbitrary fashion.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But I want to pick up on exactly that point, sir. There's certainly a practical effect to the Facebook ban. President Trump in 2020, as Mike Emanuel mentioned, got to his message out to millions of voters through Facebook. He raised millions of dollars through Facebook.  I want to -- when you were appointed to oversight board, you said it was, quote, your goal that Facebook act as a, quote, neutral platform that, quote, does not decide elections. Couldn't one argue that what Facebook is doing now goes exactly what you said the goal of the oversight board is, it's acting on bias to very hinder President Trump's ability to run for re- election?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCONNELL",
+      "sentences": "So, there's -- there might be bias either way. Remember, Mr. Trump is the one who issued those inflammatory posts at the very time when rioters were invading the Congress and shutting down the constitutionally prescribed process for counting electoral votes. He issued those posts. He is responsible for doing that. He bears responsibility for his own situation. He put himself in this bed and he can sleep in it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Do you think, I understand this isn't a board question, but I'm asking you as a law professor and former federal judge, do you think that these big -- these enormous platforms like Facebook, like Twitter, should be regulated? Do you think these enormous platforms should be broken up?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCONNELL",
+      "sentences": "Chris, that is not my job to decide. Congress can decide that. You know, as co-chair of the oversight board, my job is -- you know, while Congress is figuring out what to do -- to try to improve matters, to try to bring some fairness and consistency to Facebook. And let me emphasize fairness and consistency are absolute bedrocks of freedom of expression rules. Freedom of expression depends upon a lack of vagueness. It depends upon even treatment of everyone.  Now, if Facebook simply let Mr. Trump off the hook completely, it would not be even treatment of everyone because all users of the platform are subject to the same set of rules and that includes Mr. Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I have -- I have a final question, I have about a minute left, Professor. When Mark Zuckerberg set up the oversight board, he said he wanted to establish separation of power, if you will. That you would act as kind of Supreme Court to oversee public policy issues involving Facebook. But it was Zuckerberg who appointed the four co-chairs of the board, including you. It's Zuckerberg who set up the trust that pays all of you. I guess the question is, how independent is the independent oversight board?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCONNELL",
+      "sentences": "Let me tell you, I've gotten to know these 20 people around the world and the danger that they are toadies for Facebook is just about zero. There is no -- many of them have spent their careers criticizing Facebook. We are not beholden to Facebook. Most decisions so far have been overturning Facebook's decisions. And by the way, most of them requiring Facebook to put together back up. It has been a voice largely for freedom of expression and, you know, as well -  -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCONNELL",
+      "sentences": "-- as clarity and consistency and transparency.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We're going to have to leave it there. Professor McConnell, thank you. Thanks for your time this weekend. And it's good to talk with you, sir. Up next, she was once a rising star in the GOP, but now, Liz Cheney, the number three Republican in the House appears about to lose that position over her split with former President Trump. We're joined by Congressman Jim Banks, chair of the Republican Study Committee who is one member of Congress leading the charge to remove her.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "House Republicans meet this week to decide whether to remove Liz Cheney as conference chair, the number three post in GOP leadership. Cheney says her party is at a turning point over former President Trump's claims of a stolen election and his role in the Capitol Hill riot. And joining us now, the head of the House GOP's biggest caucus, Indiana Congressman Jim Banks. Congressman, welcome to \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. JIM BANKS, (R-IN)",
+      "sentences": "Hey, Chris, good to be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You are one of the Republicans leading the charge to remove Liz Cheney as chair of the Republican conference and it looks like to replace her with Elise Stefanik, a congresswoman from upstate New York. I want to put up their voting records because it's pretty interesting. Take a look. Cheney has an 80 percent voting record from the conservative group Heritage Action. Stefanik's score is 48 percent. Cheney voted with Trump positions these last four years 93 percent of the time. Stefanik voted with Trump positions 78 percent of the time. If Cheney is being replaced and -- and she's clearly, it seems, more conservative than Stefanik, is it just because of the fact that she's not as loyal to Donald Trump?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "Well, Chris, let's -- let's start with that. No, this -- this completely misses the point about why we need a change in Republican leadership. Let me tell you, Republicans are almost completely unified in a single mission to oppose the radical dangerous Biden agenda and win back the majority in the midterm election. And any other focus other than that is a distraction from stopping the Biden agenda from what it -- what it's already done in three months, sending this economy in a tailspin, the crisis that the border, making America less safe abroad from appeasing those like in Iran by -- by flirting with reentering the Iran nuclear deal. That -- that's our focus as a House Republican conference. And any leader who's not focused on that, on pushing back against the Biden -- the radical dangerous Biden agenda, at this point, needs to be replaced. But the -- the point here is that we are almost entirely unified on that mission except for Liz Cheney.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And -- and -- and it's -- let me -- let me ask you -- I understand, Congressman. What is it about Liz Cheney that isn't focusing on this mission? She opposes Joe Biden's agenda very strongly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "Well, that -- that -- that has not been as seen as much as most of us in the Republican conference would like to see. As you mentioned, I'm the -- I'm the leader of the largest conservative caucus Republican study committee. Chris, it's uncomfortable at times, but one of my jobs is to hold my Republican leadership accountable for being focused on the Republican ideals that we stand for and the single mission that we have to win back the majority. And, at this point, the reason, Chris, that you and I are talking about Liz Cheney on this important program on Sunday morning is -- is exact -- the exact evidence that she's failed in her mission as the chief spokesperson of our party. We shouldn't be talking about Liz Cheney, we should be talking about pushing back against the radical Biden agenda. And this is all a distraction from our ability to be able to do that. That -- that's why she will likely be replace this week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Why -- why is it --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "We'll sort it out. I don't know who will replace her. But that will be a discussion the House conference will have this week, that we're going to take up because, at this point, it's necessary to do so.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I -- I've asked you two questions, Congressman, why are you unwilling to discuss her criticism of President Trump?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "I -- I'm not. And as a rank and file member of the House Republican conference, Liz Cheney or anyone else in our conference can stay focused on other issues unrelated to us winning back the majority in the midterm election. But I know that the belief that I have, Chris, that a majority of our conference has, that she's lost focus on the single mission that we have in winning back the majority, to push back against the radical Biden agenda is the reason that she needs to be replaced. But as a rank and file member -- and -- and make it clear, make it clear to all of your viewers, Chris, that we're not kicking her out of the Republican Party if she's removed from her leadership post. But in her leadership post, she doesn't just -- any member of Congress doesn't just represent their district, they represent 212 members of the Republican conference and -- and right now it's clear that she doesn't represent the views of the majority of our conference or the focus that all of us have to win back the majority.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, let me try to get at this a different way. Is Joe Biden the legitimate president of the United States?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "Yes, Joe Biden was elected. He was -- he was inaugurated on January 20th. And he -- he's -- he's the -- our focus. As -- as the chairman of the Republican Study Committee, we meet on a weekly basis to counter the radical Biden agenda and -- and push back with policies, talking points and we -- at this point, the Republican Study Committee is -- is filling the void and providing our members in the House Republican conference with what they need to push back against the Biden agenda. And that -- that's the focus. The -- every day that we're focused on something else means that we're not focused on winning back the majority.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "I -- the reason I ask is I want to go back to your actions after the election in November. You joined more than 100 House Republicans supporting a Texas lawsuit to overturn the election results in other states. The Supreme Court refused to hear the case. Then you voted on January 6th to, quote, uphold the Constitution by challenging Biden victories in several states. Do you still question whether or not Joe Biden won the election fair and square and got over 270 electoral votes fair and square?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "Yes, Chris, I -- I stand by my vote to object on January 6th. I stand by the Texas lawsuit because I have serious concerns about how the election in November was -- was carried out. That's why I wrote a bill that's co-sponsored by nearly 100 of my colleagues to strengthen voter identification laws at the federal level and support those measures nationwide. And it's -- it's -- it's why I'm -- I'm -- I'm even more concerned about HR-1, the radical Democrat -- their -- their bill to nationalize and federalize elections, a very dangerous move forward. And -- and that's what we should be focused on. And, once again, when we're focused on beating Democrats, beating back the -- the radical, dangerous Biden agenda, we should be focused on winning back the majority in the midterm election to save this country. And that's where most Republicans in the GOP conference are unified around that single mission and goal and anything that districts from it is -- is going to hold us back from doing that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But -- but -- but, Congressman, you -- you say anything that -- that distracts from that. After the insurrection, after an unprecedented attack on the U.S. Capitol by Americans, you said that President Trump was not responsible for the attack on the Capitol. Here is what your leader, the House Republican leader, Kevin McCarthy, said on the day of the vote to impeach the president. Take a listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. KEVIN MCCARTHY (R-CA)",
+      "sentences": "The president bears responsibility of Wednesday's attack by Congress by mob rioters. He should have immediately denounced the mob when he saw what was unfolding.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Was Kevin McCarthy wrong that day?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "Look -- look, Chris, every single Republican in the Republican conference denounced what happened on January 6 and almost all of us agree there should be some sort of a bipartisan commission to study what happened on that day to make sure that it never happens again. And --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Forgive me, sir, I -- I -- I'm not -- I'm just asking a question, was President Trump -- I mean this gest to the central issue here because what Liz Cheney did, I understand the argument, she's distracting from going after Joe Biden. I understand that and you've made that point clearly. Liz Cheney is saying that it was -- it's a big lie to say the election was stolen. Liz Cheney is saying that, in fact, Donald Trump contributed to the riot. I'm asking you for your opinion on those issues. Is it --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "Yes, I've made the --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Is it a lie that the election was stolen? Did he contribute to the insurrection on the Capitol?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "Yes, Chris, I've -- I've -- I've never said that the election was stolen. I've said I have very serious concerns with -- with how the election was conducted in last November because of COVID rules that loosened voter identification laws. That -- that's why I -- I -- I objected on January 6th. I'll never -- I'll never apologize for that. I represented my district in doing so. But the focus on this program and that -- and on other news shows about Liz Cheney and January 6th and Donald Trump distract us from what we have to do to save this country, to win back the majority in the midterm election. That's what I am focused on. Every single day that goes by that Joe Biden, Nancy Pelosi pass more radical bills and send this country down a socialist path is -- is a day that we -- we lose and this -- and the mission to save the country. So that -- that's why a change in Republican leadership at this level is necessary and its likely to happen this week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So -- so -- so final question. So, final question, I've got less than a minute here, Congressman. When Liz Cheney says history is watching and you can't go forward until you resolve this question, the election was fair and square, Donald Trump played a negative role, you think she's misguided making those points?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "Yes, I -- I've called on Liz Cheney to rejoin the Republican team and help us go out and win the majority in the midterm election. That -- that's where my frustration has bubbled up.  I wrote a memo, Chris, recently to Leader McCarthy about how we keep Trump voters in the Republican fold. You can find it at workingclassgop.com. And Liz Cheney is the only Republican leader who attacked the memo about making the Republican Party the party of the working class. If she doesn't get that, that that's an important part of the formula to win the majority back in the midterm election and win the White House back in 2024, then she doesn't belong in a leadership position.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Congressman Banks, thank you. Thanks for talking with us. Please, come back. And I promise the next time we're going to go in, in depth into that memo about making the GOP the working class party. Thank you, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BANKS",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Up next, we'll bring in our Sunday group to discuss the Cheney battle in the House and the Facebook faceoff with Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Coming up, Joe Biden pushes for more spending as the April jobs report falls flat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "Thank goodness we passed the American Rescue Plan. Help is here and more help is on the way, and more help is needed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll ask our Sunday panel where the economy is heading, next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. ANDY BIGGS (R-AZ)",
+      "sentences": "By ousting her, what we're saying is, we are repudiating your repudiation of the Trump policies and the Trump agenda and her attacks on the president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "sentences": "Republican Congressman Andy Biggs explaining why house Republicans are almost certainly going to remove Liz Cheney from her leadership post this week. And it's time now for our Sunday group. GOP strategist Karl Rove, Susan Page of \"USA Today,\" author of the new book, and, yes, I have read it and it's fascinating, \"Madam Speaker,\" and Jonathan Sawn from \"Axios.\" So, Karl, let me start with you. What do you think of the House Republican's decision to oust Liz Cheney this week and to tie their fortunes so strongly to President Trump?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARL ROVE, FORMER BUSH WHITE HOUSE ADVISER AND FOX NEWS CONTRIBUTOR",
+      "sentences": "Well, the House Republicans are ordering up a round of puric (ph) victories for everybody. There's not going to be a winner in this. There are only losers. If -- if Liz Cheney somehow prevails, it will only be because there's a two-thirds rule. She has to -- they have to get two-thirds of vote to remove her from office. But she will have been rebuked for a vote of conscious and for her statements on the January 6th assault on the Capitol and on the prodigious untruth that there was massive voter fraud in six states that somehow cost Donald Trump the election. If she loses, which is likely, it's going to further alienate the minority of Republicans who like what Donald Trump did in office but don't like how he handled himself, particularly in the aftermath of the election, and it's going to make it more difficult to attract swing voters in the 2022 elections. An NBC poll this week had President Donald Trump's approval at 32 percent. And 44 -- and in losing strength within the party, 44 percent of -- of those surveyed said they were more supporters of Trump than of the Republican Party, 50 percent said they were more supporters of the Republican Party than Donald Trump. That's the first time that it's ever gotten to 50 percent for that. And the -- and -- and it's showed clear deterioration of his position within the party since -- since the November election.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right. Jonathan, let me add something to that. If congressional Republicans seem to be tying themselves to the former president, Mr. Trump doesn't seem to be returning the favor. He has made it pretty clear he's looking to -- to set up primary opponents to a number of Republican incumbents, including all 10 House Republicans who voted to impeach him. Just this week he launched another attack on Senate Republican Leader Mitch McConnell. Is the Republican Party, the -- I'm -- I'm talking about, you know, the -- members of Congress, are -- are they going to get it together with President Trump? Is this party going to be unified or still badly split going into the 2022 midterms? JONATHAN SWAN, NATIONAL POLITICAL REPORTER, \"AXIOS\": Well, the House is -- is unified. The House and the Senate are very different. And the fact is Liz Cheney does not represent the Republican conference. She's the leader there. She doesn't represent them. They're not with her. She doesn't represent the voters. We've done polling comparing Liz Cheney's standing to other figures in the party. She is -- her -- she is so far under water, it's not -- you know, it's -- it's really stark how far under water she is. By the way, so is Mitch McConnell. So the fact is the Republican voters are much more on the side of Donald Trump than they are on her side. And that's what the -- the conference is responding to. As for how many priories Donald Trump intervenes in, he's certainly going to intervene in some. I would actually be surprised if he does aggressive primaries in all of those impeachment votes. Kevin McCarthy's trying to ward him off. And in some ways I think, you know, putting Liz Cheney forward as a, you know, sacrificial lamb is -- is -- is part of that attempt to try more -- it may not work, by the way. There's no controlling Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SWAN",
+      "sentences": "But that's certainly part of the -- their strategy here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Yes, I want to pick up on that, Susan, because there's a report this week out of Mar-a-Lago that President Trump is even considering as loyal as Kevin McCarthy, the House Republican leader has been to him. Well, you know, if -- if Republicans were to win -- take back the House, the speaker is the real golden position, and that he might not necessarily support McCarthy. How -- how smart are House Republicans to base their chances for 2022 on getting along with and the support of Donald Trump? SUSAN PAGE, \"USA TODAY\": Well, I think that the House Republicans have adopted a -- a risky strategy for a political party in tying their fortune to the defeated presidential candidate from last time around. You know, that -- that's just never happened before in modern times. Usually somebody gets the nomination, loses the bid for the White House, as President Trump did in 2020, and then they move on to some other figures. We've never seen a time when the losing presidential candidate continues to dominate, continues to be the face of the political party, even to the point of meddling in these primaries. You know, at the moment, the Republican Party is pretty united. I don't see a big civil war in the party. But if that's the basis for your party, if that's the appeal that you're making, the grievances over the last election, it is hard for me to see how that appeals to voters beyond the core Trump supporters, which is, as Karl Rove pointed out, maybe down to about a third of the electorate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to turn to the other subject we've been discussing today. Karl, the -- the FaceBook oversight board, they decided to maintain the ban on President Trump for six months, but said that FaceBook doesn't really have a serious policy. They need to put one out. Here was President Trump about these big, social media platforms a couple of months ago. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, FORMER U.S. PRESIDENT",
+      "sentences": "Big-tech giants like Twitter, Google and FaceBook should be punished with major sanctions whenever they silence conservative voices.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Karl, will all sides keep picking on and attacking big tech or do you see Washington actually doing something? You know, there's such a split between Democrats who say, you know, you've got to stop all the information, you've got to stop all the hate speech, and Republicans who say that what big tech is doing is censoring Republican voices. So is there a deal to be made, a compromise here?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Well, I think there's going to continue to be a lot of talk about this. But I'm, frankly, dubious that you're going to be able to find a meeting of the minds because you've got a -- you (INAUDIBLE) a binary division. It's far more complicated than that. Even within the Republicans, you have some who say, repeal of Section 302 will solve the problems, others say reform, others say the real problem is anti-trust, others say none of the -- those other three proposals have anything to do with keeping us conservatives from being de-platformed. So I -- you know, if there's that kind of disagreement within the Republicans, it's likely mirrored with inside the Democratic Party as well. I find it hard to believe that they're going to be able to find something that can draw together and get meaningful legislation passed with, you know, 218 votes in the House and 51 votes in the Senate or 60 votes in the Senate. So I -- I'm -- I'm -- we're going to have sound and fury. It doesn't signify nothing, but I'm not certain it signifies legislation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Nice reference to McBeth. All right, panel, we have to take a break here, but when we come back, we'll discuss April's disappointing job numbers and what it means for President Biden's multitrillion dollar spending plan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Today, there's more evidence that our economy is moving in the right direction. But it's clear we have a long way to go.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. PAT TOOMEY (R-PA)",
+      "sentences": "Paying unemployment benefits that are more than a person makes working doesn't create an environment that's particularly conducive to going back to work.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Biden and Republican Senator Pat Toomey reacting to the April jobs number numbers, 266,000 jobs created, falling well short of a projected one million new jobs for the month. And we're back now with the panel. Susan, there has been quite a debate ever since those numbers came out Friday morning about what they mean. President Biden says that it shows the need for that $4 trillion in additional government spending, but Republicans say, you know, the -- what it -- what it shows is that big government, and especially the enhanced unemployment benefits, are the problem. Did it suddenly get easier or harder for Biden to pass his agenda?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PAGE",
+      "sentences": "Well, I think the first debate was whether these numbers are a blip or an omen of things to come. And we won't know that for a month or two more down the road. Obviously, as you say, both sides seized on -- on these disappointing numbers as evidence supporting their view of how the economy should work. I think that what we know from polling is that Americans are really eager to get government help as we face the recovery from the -- from the COVID pandemic. And so I think it probably makes it easier for Joe Biden to hold every Democrat together as he needs to do and push through this huge package. Americans have been surprisingly supportive of the idea of a stronger government safety net, at least until we recover some of these millions and millions of jobs that have continue to be lost because of the pandemic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Jonathan, basically same question, how much should we make of these quite disappointing job numbers for April and what impact do you think it will have on Biden's ability to pass the rest of his agenda?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SWAN",
+      "sentences": "Well, I think we should emphasize a few things. Number one is, in normal times it would be -- it would be a good number, but it -- it's a horrific number in the context of what was expected. I mean there were -- we're expecting more than a million jobs and we -- we come up, you know, 800,000 short. And they also downgraded March. And there's going to be analysis as to, you know, where these jobs are -- where the weak points are. Part of it is -- is there's certainly a question about the unemployment payments. There's also a question about people being hesitant to go back because of COVID and also the child care problem, which still remains a real problem with, you know, schools not fully reopened and parents still having these really complicated relationships. So it can't really be boiled down to a sort of bumper plate. The problem with tying this sort of conceptually to what's coming next with infrastructure is it's -- it's sort of -- it's kind of bogus because what the White House will tell you is this infrastructure plan is spaced out over a number of years. It's actually long term investment. And this is not going to solve some monthly employment blip. We're talking about, you know, rebuilding the nation's infrastructure over a really long period of time with spaced out spending. So everyone will do their sort of political hackery (ph) and say this justifies my position. But the fact is there's a pretty tenuous condition between the infrastructure part and, you know, trying to get the immediate task of getting Americans back to work and back into the workplace.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SWAN",
+      "sentences": "And just the last thing I'd say is, the overall unemployment figure is very misleading because one of the biggest problems is a lot of Americans have just stopped looking for work. They're just out of that picture. And that's the real problem.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I -- Karl, I want to pick up on exactly Jonathan's point because it was the COVID relief package, the $1.9 trillion that was already passed that was supposed to be the quick jump start, the -- the -- the boost to the economy. The next two plans, the $4 trillion more in infrastructure, in social programs, those are supposed to be, as -- as Jonathan says, much longer term, slower, structural change. So -- so even if the president were able to pass them, is that going to give the -- the quick boost to unemployment?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "No. Back of the envelope scratches suggest that of the $4 trillion, more than 90 percent of it will be spent in fiscal year 2022 through fiscal year 2029. If we've got an immediate problem here, it ain't going to do anything to solve that immediate problem. And I agree with Jonathan's point about -- about this being, you know, the unemployment rate today is -- is -- if you look at it compared to its height during COVID, we're -- we've -- we've reduced that unemployment rate 80 percent of the way back to the 3.5 percent unemployment we had when this COVID hit. And -- but the labor force participation rate, though, that is the number of people who are willing to work, is back by only half that rate. And -- and I had dinner last week with about eight CEO's of companies from around the country, mostly family-run, privately held companies. And I said, what's the number one issue you're facing. Every one of them said, I -- we can't get enough workers. Particularly, and this caught my -- my -- my ear. They said, if the job pays $50,000 or $60,000 or less, it is virtually impossible for us to find workers. So I did a little research. The federal bump up of $600 a week that exists through November works out to an annual of $31,200. In -- In New York, if you look at the existing payments, New York, California and Illinois, think about this, you're getting paid tax free $57,408, so in New York, well, actually on the first 10,000, 54,600 at an annual rate in California, and 55,592 in Illinois. Why work if you can get that kind of money and stay home and Netflix?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I love the white board. All right, I want to turn, in the time we have left, to another subject, Susan, COVID. There was good news and bad news this week. Cases are down. Deaths are down. Vaccination demand is down. Here is the CDC Director Rochelle Walensky.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROCHELLE WALENSKY, CDC DIRECTOR",
+      "sentences": "The sooner we get more and more people vaccinated, the sooner we will all get back to normal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Susan, is the glass half full or half empty when it comes to COVID these days?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PAGE",
+      "sentences": "Well, I mean, it's -- it's half full compared to where we were six months ago. So much more hope now and so much -- you know, so -- better times ahead. But the glass is definitely not full. We continue to be vulnerable as a nation to these variants that we see devastating places like India. And this issue of vaccine hesitancy among Americans is a serious one. I've talked to people -- I've been surprised. People I would have assumed would already be vaccinated, who are worried about getting vaccinated, not sure if they're going to get vaccinated. You -- we cannot be safe as a nation and fully out of this pandemic unless we reach -- unless we double the number of people who are now fully vaccinated in this country. It's a -- it's going to be a big -- a big task.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I -- Karl, that raises the question, obviously our understanding of this virus continues to evolve, but how damaging is it, both in terms of public attitude and particularly public attitude toward getting the vaccine when the messaging about what you can do after you're so fully -- after you're fully vaccinated is so garbled?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "It is garbled. And -- and, look, back to Susan's point, I think the only way we're going to be able to solve this is by two things happening. Every American who's gotten vaccinated encouraging those that are in their sphere, their family, their friends, the people they worship with, or work with, socialize with, to get vaccinated as well. We're all going to have to make this a personal appeal. And, second of all, we've got to have more local governments being -- and state governments being very aggressive in their efforts to get people vaccinated. One of the great stories here in Texas, for example, was Amarillo, which basically said -- Potter and Randal County said, we're going to set up a central place in our -- in our convention center and we don't care where you're from or who you are or what age you are, come and get it. And as a result, a lot of people did. And so we've got to have -- our governor is sending out inoculation teams, vaccination teams, to get people in -- in -- in more remote parts of our state, or communities that might be hesitant, to step forward and get vaccinated, to get vaccinated.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I got -- I --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "But this is going to be increasingly state, local and personal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Fifteen seconds, Jonathan. How worried are they at the White House that they're not putting out a clear message about what people can do after they're vaccinated?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SWAN",
+      "sentences": "I think everyone recognizes that the public health communications here have been suboptimal to say the least.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "That's 15 seconds and you got the word \"suboptimal\" in. Very well done. Thank you, panel. See you all next Sunday. Up next, our special \"Power Player of the Week,\" former FCC Chair Newt Minow on his iconic speech six decades ago, calling TV a vast wasteland. What does he think of it today?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "It was 60 years ago today that the head of the Federal Communications Commission made a speech that started a national debate. Now, six decades later, he's still got strong views. Here's our \"Power Player of the Week.\" NEWTON MINOW, FORMER CHAIRMAN, FEDERAL COMMUNICATIONS COMMISSION OF THE",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "U.S.",
+      "sentences": "No, I thought that we were wasting this extraordinary gift of technology, and we were not using it to its full potential. WALLACE (voice over): Newton Minow, President Kennedy's FCC chair, on why he challenged TV broadcasters in 1961. MINOW (May 9, 1961): Keep your eyes glued to that set until the station signs off. I can assure you that what you will observe is a vast wasteland.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "The phrase \"vast wasteland\" made headlines and struck a nerve. The producer of \"Gillian's Island\" even named the boat that wrecked on that three hour cruise the SS Minnow.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "I was shocked. I think it was because print media was jealous of television and they made a big fuss about it. WALLACE (voice over): It's just one of Minow's many brushes with history.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN F. KENNEDY, FORMER U.S. PRESIDENT",
+      "sentences": "Adlai E. Stevenson.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Working for Democratic Candidate Adlai Stevenson in 1956, Minow came up with the idea for televised debates with President Eisenhower.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "Adlai's political advisers thought it would be perceived as a gimmick and many of them thought Adlai would not do very well. So it was rejected and never even proposed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "After Stevenson lost, Minow had some advice for a younger politician about the next election.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "I said, Jack, I said, if you are still interested, you probably could get the vice presidential nomination next time. And Jack Kennedy looked at me and he said, vice president? Vice president? He said, I'm going to run for president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Kennedy won in no small part because of a televised debate with Richard Nixon.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "By a funny coincidence, my college roommate --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDER VANOCUR",
+      "sentences": "I'm Sander Vanocur.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "Sander Vanocur turned out to be one of the questioners, one of the panelists.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "I pop up at very, very odd places. But I've -- I've certainly been blessed -- been blessed to see a lot of American history.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "President Kennedy begins a tour of U.S. space centers. WALLACE (voice over): While Kennedy pushed to put man on the moon before the Russians, Minow focused on communication satellites.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "One day the president said to me, he said, why are you pushing so hard on this? And I said, Mr. President, communication satellites will communicate ideas and ideas last longer than people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Minow also pressed to put federal dollars into educational television.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "Today we have a strong public radio and public television system in our country that didn't exist before. \"Sesame Street\" is one of the proudest things we've done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "In 1988, Minow got his law firm to hire an summer intern from Harvard.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "Barack came to work (INAUDIBLE) and his supervisor was a young woman, also a Harvard Law graduate named Michelle Robinson. And one night Joe and I went to the movies and we ran into Michelle and Barack, they were out on their very first date. This is my favorite.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Now, at age 95, Minow is still a TV enthusiast.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "What channel shall we watch or shall we just wallow in the vast wasteland?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And still a critic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "Yes, I do. And I particularly see it when we don't agree on facts. You must know the difference between a fact and an opinion.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "What do you think of platforms like FaceBook and Twitter banning Donald Trump?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "I think FaceBook was right, you cannot have the incitement for violence. Even though we believe in free speech, that crossed the line.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You have been at the center of so many key events and you have dealt with so many major figures in this country. As you look back on your life, what are your thoughts?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MINOW",
+      "sentences": "I'm so devoted to this country and been so fortunate to have been involved in so many important things and I -- I -- every day I say thank God for America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Minow says the goal for television should be to serve the public interest. Back in that 1961 speech, he said history will decide whether today's broadcasters employ their powerful voice to enrich the people or to debase them. And that's it for today. To all you moms out there, Happy Mother's Day. Have a great week and we'll see you next FOX NEWS SUNDAY. Copy: Content and Programming Copyright 2021 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2021 VIQ Media Transcription, Inc.  All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "utterance": "I'm Chris Wallace. Facebook's independent oversight board maintains that temporary ban on Donald Trump, but sends the case back to the social media giant."
+    },
+    {
+      "speaker": "WALLACE (voice-over)",
+      "utterance": "Now, Facebook has six months to make a final decision. What does it mean for Mr. Trump's ability to get out his message and raise money as it considers another run for president? And what does it mean for the push in Congress to regulate big tech?"
+    },
+    {
+      "speaker": "MARK MEADOWS, FORMER WHITE HOUSE CHIEF OF STAFF",
+      "utterance": "Whether it's six months or six days, what we see in this decision is really about chilling free speech."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll sit down with the co-chair of the oversight board, law professor and former federal judge, Michael McConnell, only on \"FOX News Sunday\". Then, Republican lawmakers in the House call for new leadership, backing Trump defender Elise Stefanik to replace Liz Cheney."
+    },
+    {
+      "speaker": "REP. KEVIN MCCARTHY (R-CA)",
+      "utterance": "I have heard from members concerned about her ability to carry out the job as conference chair."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We're joined by Congressman Jim Banks of Indiana, one of the leaders in the drive to oust Cheney. It's a \"FOX News Sunday\" exclusive. Plus --"
+    },
+    {
+      "speaker": "JOSEPH R. BIDEN, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Our efforts are starting to work, but the climb is steep and we still have a long way to go."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Disappointing job numbers even as employers struggle to find workers. We'll ask our Sunday panel about challenges to the economic recovery. And our power player of the week, the FCC chair who once called TV a vast wasteland and what he thinks of today's media landscape. All, right now, on \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Hello again and happy Mother's Day from FOX News in Washington. Donald Trump's influence on the Republican Party is being challenged on two fronts right now. First in Congress, where House Republicans are moving to replace Liz Cheney as one of their leaders over her split with the former president. And on social media, where Facebook decision to ban Mr. Trump from its platform, which it must now reconsider, could play a big role in another possible run for president in 2024. In a moment, we'll speak with former Federal Judge Michael McConnell, one of the co-chairs of Facebook's oversight board. But, first, let's bring in Mike Emanuel with more on where the Trump Facebook controversy stands right now -- Mike."
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS CORRESPONDENT",
+      "utterance": "Chris, the Facebook oversight board's decision to uphold the ban on former President Trump for now has led to calls to break up big tech platforms, with some arguing for anti- trust reform after allegations of censoring conservatives."
+    },
+    {
+      "speaker": "MEADOWS",
+      "utterance": "This is going to be a breakup of big tech. When you look at Google and Facebook, they have more power over what we read and what we see than any in the media."
+    },
+    {
+      "speaker": "EMANUEL (voice-over)",
+      "utterance": "There is also significant concern from those close to former President Trump that being shut out by Facebook and Twitter could severely impact his fundraising power and ability to reach his base. In fact, the Trump re-election campaign devoted a nine-figure budget to Facebook. As for President Biden --"
+    },
+    {
+      "speaker": "JEN PSAKI, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "The president's view is that major platforms have a responsibility related to health and safety of all Americans to stop amplifying untrustworthy content, disinformation and misinformation."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "In Congress, there's at least some bipartisan support for big tech reform, with some on the left pushing for Section 230 reform to cut down on spam and conspiracy theories. The Democratic chairman of the Senate Intelligence Committee says failure is not an option."
+    },
+    {
+      "speaker": "SEN. MARK WARNER (D-VA), SENATE INTELLIGENCE COMMITTEE CHAIRMAN",
+      "utterance": "And urging these reforms and have not been able to get them across the finish line."
+    },
+    {
+      "speaker": "EMANUEL (on camera)",
+      "utterance": "There are calls for social media giants to be consistent and transparent in enforcing the rules. There's also the big picture constitutional issue regarding First Amendment speech -- Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Mike, thank you. And joining us now, one of the co-chairs of Facebook's oversight board, former federal judge, Michael McConnell. Professor, let's start with Facebook's original decision to ban President Trump based on two of his posts on the day of the Capitol riot. First, there was this."
+    },
+    {
+      "speaker": "DONALD TRUMP, FORMER PRESIDENT",
+      "utterance": "This was a fraudulent election, but we can't play into the hands of these people. We have to have peace. So, go home. We love you. You're very special. You've seen what happens."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Later that same day, Mr. Trump posted this: These are the things and events that happen when a sacred landslide election victory is so unceremoniously, viciously stripped away from great patriots who have been badly, unfairly treated for so long. Professor, your board decided to uphold the ban for six months while Facebook clarifies its policy. Why did you decide to enforce the ban or to continue the ban during that period, rather than to lift it?"
+    },
+    {
+      "speaker": "MICHAEL MCCONNELL, FACEBOOK OVERSIGHT BOARD CO-CHAIR",
+      "utterance": "Well, Chris, on January 6th, President Trump issued those statements as a mob was rampaging through the Capitol, as members of Congress were cowering in fear, as mob - - as the rioters were threatening Vice President Pence's life. And at that time, he issued these statements which were just egging on -- with perfunctory asking for peace, but mostly, he was just egging them on to continue. So, this is a plain violation of Facebook's rules against praising dangerous individuals and organizations at a time of violence. So, Mr. Trump is subject to the same rules on Facebook as everyone else and the oversight board held that this was in fact a violation and, thus, Facebook was justified in taking them down. What we did say, though, was that they were not justified taking them down indefinitely, that they did not provide any reasons for that, that is not a provision in their rules, that was wrong. And we gave them a certain amount of time to get that -- get their house in order. They needed some time because their rules are shambles. They are not transparent. They are unclear, they are internally inconsistent. So, we made a series of recommendations about how to make their rules clearer and more consistent and the hope is that they will use the next few months to do that. And then when they come back and look at this, they'll be able to apply those rules in a straight-forward way."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "As a constitutional law professor, as a former federal circuit court of appeals judge, how do you answer concerns that Facebook is violating President Trump's free speech?"
+    },
+    {
+      "speaker": "MCCONNELL",
+      "utterance": "Well, I mean, the simple willing answer is private companies are not bound by the First Amendment. And so, he has no First Amendment rights. He's a customer. He's not -- Facebook is not a government, and he is not a citizen of Facebook. But in a broader sense, what we are trying to do is bringing some of the most important principles of the First Amendment, a free expression law globally into this operation. Facebook has been -- exercises too much power. They are arbitrary. They are inconsistent and it is the job of the oversight board to try to bring some discipline to that process. So what we have done is to identify ways in which Facebook has been nontransparent, ways in which they've been arbitrary and trying to nudge them toward a more -- free speech, free expression, friendly environment."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to push back a bit on the free speech argument. I understand the legal argument, but as you say, you think that Facebook is exercising too much authority. Listen to what Republican Senator Josh Hawley had to say about all of this."
+    },
+    {
+      "speaker": "SEN. JOSH HAWLEY (R-MO)",
+      "utterance": "These platforms like Facebook, like Google, they censor our speech. They shut out new market entrants. They shut out competitors. Why? Because they've gotten to be monopolies. And that's why I think we've got to take them on and break them up."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "The argument is that Facebook and Twitter and other platforms have become so big that they can in effect silence people in the digital age and the argument is, yes, President Trump is able to speak, but it is matter of freedom of speech in -- with something like Facebook. It's a matter of freedom of reach. How do you respond to that?"
+    },
+    {
+      "speaker": "MCCONNELL",
+      "utterance": "Well, it's, of course, up to Congress to decide what the anti- trust laws are going to be, but this is not a free -- this is not a First Amendment issue. It is not as if -- you can't go to court, no judge in the country would hold that Mr. Trump's free speech rights were violated. Now, if Congress wants to pass a new law similar to, you know, must-carry rules or fairness doctrine of the past, they can do that and the courts will decide whether that -- it comports with the First Amendment. The oversight board has nothing to do with that. Our job is to -- is to provide oversight for Facebook to make sure that they are applying their rules in a fair, consistent, non-arbitrary fashion."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But I want to pick up on exactly that point, sir. There's certainly a practical effect to the Facebook ban. President Trump in 2020, as Mike Emanuel mentioned, got to his message out to millions of voters through Facebook. He raised millions of dollars through Facebook. I want to -- when you were appointed to oversight board, you said it was, quote, your goal that Facebook act as a, quote, neutral platform that, quote, does not decide elections. Couldn't one argue that what Facebook is doing now goes exactly what you said the goal of the oversight board is, it's acting on bias to very hinder President Trump's ability to run for re- election?"
+    },
+    {
+      "speaker": "MCCONNELL",
+      "utterance": "So, there's -- there might be bias either way. Remember, Mr. Trump is the one who issued those inflammatory posts at the very time when rioters were invading the Congress and shutting down the constitutionally prescribed process for counting electoral votes. He issued those posts. He is responsible for doing that. He bears responsibility for his own situation. He put himself in this bed and he can sleep in it."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Do you think, I understand this isn't a board question, but I'm asking you as a law professor and former federal judge, do you think that these big -- these enormous platforms like Facebook, like Twitter, should be regulated? Do you think these enormous platforms should be broken up?"
+    },
+    {
+      "speaker": "MCCONNELL",
+      "utterance": "Chris, that is not my job to decide. Congress can decide that. You know, as co-chair of the oversight board, my job is -- you know, while Congress is figuring out what to do -- to try to improve matters, to try to bring some fairness and consistency to Facebook. And let me emphasize fairness and consistency are absolute bedrocks of freedom of expression rules. Freedom of expression depends upon a lack of vagueness. It depends upon even treatment of everyone. Now, if Facebook simply let Mr. Trump off the hook completely, it would not be even treatment of everyone because all users of the platform are subject to the same set of rules and that includes Mr. Trump."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I have -- I have a final question, I have about a minute left, Professor. When Mark Zuckerberg set up the oversight board, he said he wanted to establish separation of power, if you will. That you would act as kind of Supreme Court to oversee public policy issues involving Facebook. But it was Zuckerberg who appointed the four co-chairs of the board, including you. It's Zuckerberg who set up the trust that pays all of you. I guess the question is, how independent is the independent oversight board?"
+    },
+    {
+      "speaker": "MCCONNELL",
+      "utterance": "Let me tell you, I've gotten to know these 20 people around the world and the danger that they are toadies for Facebook is just about zero. There is no -- many of them have spent their careers criticizing Facebook. We are not beholden to Facebook. Most decisions so far have been overturning Facebook's decisions. And by the way, most of them requiring Facebook to put together back up. It has been a voice largely for freedom of expression and, you know, as well - -"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "MCCONNELL",
+      "utterance": "-- as clarity and consistency and transparency."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We're going to have to leave it there. Professor McConnell, thank you. Thanks for your time this weekend. And it's good to talk with you, sir. Up next, she was once a rising star in the GOP, but now, Liz Cheney, the number three Republican in the House appears about to lose that position over her split with former President Trump. We're joined by Congressman Jim Banks, chair of the Republican Study Committee who is one member of Congress leading the charge to remove her."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "House Republicans meet this week to decide whether to remove Liz Cheney as conference chair, the number three post in GOP leadership. Cheney says her party is at a turning point over former President Trump's claims of a stolen election and his role in the Capitol Hill riot. And joining us now, the head of the House GOP's biggest caucus, Indiana Congressman Jim Banks. Congressman, welcome to \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "REP. JIM BANKS, (R-IN)",
+      "utterance": "Hey, Chris, good to be with you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You are one of the Republicans leading the charge to remove Liz Cheney as chair of the Republican conference and it looks like to replace her with Elise Stefanik, a congresswoman from upstate New York. I want to put up their voting records because it's pretty interesting. Take a look. Cheney has an 80 percent voting record from the conservative group Heritage Action. Stefanik's score is 48 percent. Cheney voted with Trump positions these last four years 93 percent of the time. Stefanik voted with Trump positions 78 percent of the time. If Cheney is being replaced and -- and she's clearly, it seems, more conservative than Stefanik, is it just because of the fact that she's not as loyal to Donald Trump?"
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "Well, Chris, let's -- let's start with that. No, this -- this completely misses the point about why we need a change in Republican leadership. Let me tell you, Republicans are almost completely unified in a single mission to oppose the radical dangerous Biden agenda and win back the majority in the midterm election. And any other focus other than that is a distraction from stopping the Biden agenda from what it -- what it's already done in three months, sending this economy in a tailspin, the crisis that the border, making America less safe abroad from appeasing those like in Iran by -- by flirting with reentering the Iran nuclear deal. That -- that's our focus as a House Republican conference. And any leader who's not focused on that, on pushing back against the Biden -- the radical dangerous Biden agenda, at this point, needs to be replaced. But the -- the point here is that we are almost entirely unified on that mission except for Liz Cheney."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And -- and -- and it's -- let me -- let me ask you -- I understand, Congressman. What is it about Liz Cheney that isn't focusing on this mission? She opposes Joe Biden's agenda very strongly."
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "Well, that -- that -- that has not been as seen as much as most of us in the Republican conference would like to see. As you mentioned, I'm the -- I'm the leader of the largest conservative caucus Republican study committee. Chris, it's uncomfortable at times, but one of my jobs is to hold my Republican leadership accountable for being focused on the Republican ideals that we stand for and the single mission that we have to win back the majority. And, at this point, the reason, Chris, that you and I are talking about Liz Cheney on this important program on Sunday morning is -- is exact -- the exact evidence that she's failed in her mission as the chief spokesperson of our party. We shouldn't be talking about Liz Cheney, we should be talking about pushing back against the radical Biden agenda. And this is all a distraction from our ability to be able to do that. That -- that's why she will likely be replace this week."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Why -- why is it --"
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "We'll sort it out. I don't know who will replace her. But that will be a discussion the House conference will have this week, that we're going to take up because, at this point, it's necessary to do so."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I -- I've asked you two questions, Congressman, why are you unwilling to discuss her criticism of President Trump?"
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "I -- I'm not. And as a rank and file member of the House Republican conference, Liz Cheney or anyone else in our conference can stay focused on other issues unrelated to us winning back the majority in the midterm election. But I know that the belief that I have, Chris, that a majority of our conference has, that she's lost focus on the single mission that we have in winning back the majority, to push back against the radical Biden agenda is the reason that she needs to be replaced. But as a rank and file member -- and -- and make it clear, make it clear to all of your viewers, Chris, that we're not kicking her out of the Republican Party if she's removed from her leadership post. But in her leadership post, she doesn't just -- any member of Congress doesn't just represent their district, they represent 212 members of the Republican conference and -- and right now it's clear that she doesn't represent the views of the majority of our conference or the focus that all of us have to win back the majority."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, let me try to get at this a different way. Is Joe Biden the legitimate president of the United States?"
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "Yes, Joe Biden was elected. He was -- he was inaugurated on January 20th. And he -- he's -- he's the -- our focus. As -- as the chairman of the Republican Study Committee, we meet on a weekly basis to counter the radical Biden agenda and -- and push back with policies, talking points and we -- at this point, the Republican Study Committee is -- is filling the void and providing our members in the House Republican conference with what they need to push back against the Biden agenda. And that -- that's the focus. The -- every day that we're focused on something else means that we're not focused on winning back the majority."
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "I -- the reason I ask is I want to go back to your actions after the election in November. You joined more than 100 House Republicans supporting a Texas lawsuit to overturn the election results in other states. The Supreme Court refused to hear the case. Then you voted on January 6th to, quote, uphold the Constitution by challenging Biden victories in several states. Do you still question whether or not Joe Biden won the election fair and square and got over 270 electoral votes fair and square?"
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "Yes, Chris, I -- I stand by my vote to object on January 6th. I stand by the Texas lawsuit because I have serious concerns about how the election in November was -- was carried out. That's why I wrote a bill that's co-sponsored by nearly 100 of my colleagues to strengthen voter identification laws at the federal level and support those measures nationwide. And it's -- it's -- it's why I'm -- I'm -- I'm even more concerned about HR-1, the radical Democrat -- their -- their bill to nationalize and federalize elections, a very dangerous move forward. And -- and that's what we should be focused on. And, once again, when we're focused on beating Democrats, beating back the -- the radical, dangerous Biden agenda, we should be focused on winning back the majority in the midterm election to save this country. And that's where most Republicans in the GOP conference are unified around that single mission and goal and anything that districts from it is -- is going to hold us back from doing that."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But -- but -- but, Congressman, you -- you say anything that -- that distracts from that. After the insurrection, after an unprecedented attack on the U.S. Capitol by Americans, you said that President Trump was not responsible for the attack on the Capitol. Here is what your leader, the House Republican leader, Kevin McCarthy, said on the day of the vote to impeach the president. Take a listen."
+    },
+    {
+      "speaker": "REP. KEVIN MCCARTHY (R-CA)",
+      "utterance": "The president bears responsibility of Wednesday's attack by Congress by mob rioters. He should have immediately denounced the mob when he saw what was unfolding."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Was Kevin McCarthy wrong that day?"
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "Look -- look, Chris, every single Republican in the Republican conference denounced what happened on January 6 and almost all of us agree there should be some sort of a bipartisan commission to study what happened on that day to make sure that it never happens again. And --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Forgive me, sir, I -- I -- I'm not -- I'm just asking a question, was President Trump -- I mean this gest to the central issue here because what Liz Cheney did, I understand the argument, she's distracting from going after Joe Biden. I understand that and you've made that point clearly. Liz Cheney is saying that it was -- it's a big lie to say the election was stolen. Liz Cheney is saying that, in fact, Donald Trump contributed to the riot. I'm asking you for your opinion on those issues. Is it --"
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "Yes, I've made the --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Is it a lie that the election was stolen? Did he contribute to the insurrection on the Capitol?"
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "Yes, Chris, I've -- I've -- I've never said that the election was stolen. I've said I have very serious concerns with -- with how the election was conducted in last November because of COVID rules that loosened voter identification laws. That -- that's why I -- I -- I objected on January 6th. I'll never -- I'll never apologize for that. I represented my district in doing so. But the focus on this program and that -- and on other news shows about Liz Cheney and January 6th and Donald Trump distract us from what we have to do to save this country, to win back the majority in the midterm election. That's what I am focused on. Every single day that goes by that Joe Biden, Nancy Pelosi pass more radical bills and send this country down a socialist path is -- is a day that we -- we lose and this -- and the mission to save the country. So that -- that's why a change in Republican leadership at this level is necessary and its likely to happen this week."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So -- so -- so final question. So, final question, I've got less than a minute here, Congressman. When Liz Cheney says history is watching and you can't go forward until you resolve this question, the election was fair and square, Donald Trump played a negative role, you think she's misguided making those points?"
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "Yes, I -- I've called on Liz Cheney to rejoin the Republican team and help us go out and win the majority in the midterm election. That -- that's where my frustration has bubbled up. I wrote a memo, Chris, recently to Leader McCarthy about how we keep Trump voters in the Republican fold. You can find it at workingclassgop.com. And Liz Cheney is the only Republican leader who attacked the memo about making the Republican Party the party of the working class. If she doesn't get that, that that's an important part of the formula to win the majority back in the midterm election and win the White House back in 2024, then she doesn't belong in a leadership position."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Congressman Banks, thank you. Thanks for talking with us. Please, come back. And I promise the next time we're going to go in, in depth into that memo about making the GOP the working class party. Thank you, sir."
+    },
+    {
+      "speaker": "BANKS",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Up next, we'll bring in our Sunday group to discuss the Cheney battle in the House and the Facebook faceoff with Donald Trump."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Coming up, Joe Biden pushes for more spending as the April jobs report falls flat."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "Thank goodness we passed the American Rescue Plan. Help is here and more help is on the way, and more help is needed."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll ask our Sunday panel where the economy is heading, next."
+    },
+    {
+      "speaker": "REP. ANDY BIGGS (R-AZ)",
+      "utterance": "By ousting her, what we're saying is, we are repudiating your repudiation of the Trump policies and the Trump agenda and her attacks on the president."
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "utterance": "Republican Congressman Andy Biggs explaining why house Republicans are almost certainly going to remove Liz Cheney from her leadership post this week. And it's time now for our Sunday group. GOP strategist Karl Rove, Susan Page of \"USA Today,\" author of the new book, and, yes, I have read it and it's fascinating, \"Madam Speaker,\" and Jonathan Sawn from \"Axios.\" So, Karl, let me start with you. What do you think of the House Republican's decision to oust Liz Cheney this week and to tie their fortunes so strongly to President Trump?"
+    },
+    {
+      "speaker": "KARL ROVE, FORMER BUSH WHITE HOUSE ADVISER AND FOX NEWS CONTRIBUTOR",
+      "utterance": "Well, the House Republicans are ordering up a round of puric (ph) victories for everybody. There's not going to be a winner in this. There are only losers. If -- if Liz Cheney somehow prevails, it will only be because there's a two-thirds rule. She has to -- they have to get two-thirds of vote to remove her from office. But she will have been rebuked for a vote of conscious and for her statements on the January 6th assault on the Capitol and on the prodigious untruth that there was massive voter fraud in six states that somehow cost Donald Trump the election. If she loses, which is likely, it's going to further alienate the minority of Republicans who like what Donald Trump did in office but don't like how he handled himself, particularly in the aftermath of the election, and it's going to make it more difficult to attract swing voters in the 2022 elections. An NBC poll this week had President Donald Trump's approval at 32 percent. And 44 -- and in losing strength within the party, 44 percent of -- of those surveyed said they were more supporters of Trump than of the Republican Party, 50 percent said they were more supporters of the Republican Party than Donald Trump. That's the first time that it's ever gotten to 50 percent for that. And the -- and -- and it's showed clear deterioration of his position within the party since -- since the November election."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right. Jonathan, let me add something to that. If congressional Republicans seem to be tying themselves to the former president, Mr. Trump doesn't seem to be returning the favor. He has made it pretty clear he's looking to -- to set up primary opponents to a number of Republican incumbents, including all 10 House Republicans who voted to impeach him. Just this week he launched another attack on Senate Republican Leader Mitch McConnell. Is the Republican Party, the -- I'm -- I'm talking about, you know, the -- members of Congress, are -- are they going to get it together with President Trump? Is this party going to be unified or still badly split going into the 2022 midterms? JONATHAN SWAN, NATIONAL POLITICAL REPORTER, \"AXIOS\": Well, the House is -- is unified. The House and the Senate are very different. And the fact is Liz Cheney does not represent the Republican conference. She's the leader there. She doesn't represent them. They're not with her. She doesn't represent the voters. We've done polling comparing Liz Cheney's standing to other figures in the party. She is -- her -- she is so far under water, it's not -- you know, it's -- it's really stark how far under water she is. By the way, so is Mitch McConnell. So the fact is the Republican voters are much more on the side of Donald Trump than they are on her side. And that's what the -- the conference is responding to. As for how many priories Donald Trump intervenes in, he's certainly going to intervene in some. I would actually be surprised if he does aggressive primaries in all of those impeachment votes. Kevin McCarthy's trying to ward him off. And in some ways I think, you know, putting Liz Cheney forward as a, you know, sacrificial lamb is -- is -- is part of that attempt to try more -- it may not work, by the way. There's no controlling Donald Trump."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "SWAN",
+      "utterance": "But that's certainly part of the -- their strategy here."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Yes, I want to pick up on that, Susan, because there's a report this week out of Mar-a-Lago that President Trump is even considering as loyal as Kevin McCarthy, the House Republican leader has been to him. Well, you know, if -- if Republicans were to win -- take back the House, the speaker is the real golden position, and that he might not necessarily support McCarthy. How -- how smart are House Republicans to base their chances for 2022 on getting along with and the support of Donald Trump? SUSAN PAGE, \"USA TODAY\": Well, I think that the House Republicans have adopted a -- a risky strategy for a political party in tying their fortune to the defeated presidential candidate from last time around. You know, that -- that's just never happened before in modern times. Usually somebody gets the nomination, loses the bid for the White House, as President Trump did in 2020, and then they move on to some other figures. We've never seen a time when the losing presidential candidate continues to dominate, continues to be the face of the political party, even to the point of meddling in these primaries. You know, at the moment, the Republican Party is pretty united. I don't see a big civil war in the party. But if that's the basis for your party, if that's the appeal that you're making, the grievances over the last election, it is hard for me to see how that appeals to voters beyond the core Trump supporters, which is, as Karl Rove pointed out, maybe down to about a third of the electorate."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to turn to the other subject we've been discussing today. Karl, the -- the FaceBook oversight board, they decided to maintain the ban on President Trump for six months, but said that FaceBook doesn't really have a serious policy. They need to put one out. Here was President Trump about these big, social media platforms a couple of months ago. Take a look."
+    },
+    {
+      "speaker": "DONALD TRUMP, FORMER U.S. PRESIDENT",
+      "utterance": "Big-tech giants like Twitter, Google and FaceBook should be punished with major sanctions whenever they silence conservative voices."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Karl, will all sides keep picking on and attacking big tech or do you see Washington actually doing something? You know, there's such a split between Democrats who say, you know, you've got to stop all the information, you've got to stop all the hate speech, and Republicans who say that what big tech is doing is censoring Republican voices. So is there a deal to be made, a compromise here?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Well, I think there's going to continue to be a lot of talk about this. But I'm, frankly, dubious that you're going to be able to find a meeting of the minds because you've got a -- you (INAUDIBLE) a binary division. It's far more complicated than that. Even within the Republicans, you have some who say, repeal of Section 302 will solve the problems, others say reform, others say the real problem is anti-trust, others say none of the -- those other three proposals have anything to do with keeping us conservatives from being de-platformed. So I -- you know, if there's that kind of disagreement within the Republicans, it's likely mirrored with inside the Democratic Party as well. I find it hard to believe that they're going to be able to find something that can draw together and get meaningful legislation passed with, you know, 218 votes in the House and 51 votes in the Senate or 60 votes in the Senate. So I -- I'm -- I'm -- we're going to have sound and fury. It doesn't signify nothing, but I'm not certain it signifies legislation."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Nice reference to McBeth. All right, panel, we have to take a break here, but when we come back, we'll discuss April's disappointing job numbers and what it means for President Biden's multitrillion dollar spending plan."
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Today, there's more evidence that our economy is moving in the right direction. But it's clear we have a long way to go."
+    },
+    {
+      "speaker": "SEN. PAT TOOMEY (R-PA)",
+      "utterance": "Paying unemployment benefits that are more than a person makes working doesn't create an environment that's particularly conducive to going back to work."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Biden and Republican Senator Pat Toomey reacting to the April jobs number numbers, 266,000 jobs created, falling well short of a projected one million new jobs for the month. And we're back now with the panel. Susan, there has been quite a debate ever since those numbers came out Friday morning about what they mean. President Biden says that it shows the need for that $4 trillion in additional government spending, but Republicans say, you know, the -- what it -- what it shows is that big government, and especially the enhanced unemployment benefits, are the problem. Did it suddenly get easier or harder for Biden to pass his agenda?"
+    },
+    {
+      "speaker": "PAGE",
+      "utterance": "Well, I think the first debate was whether these numbers are a blip or an omen of things to come. And we won't know that for a month or two more down the road. Obviously, as you say, both sides seized on -- on these disappointing numbers as evidence supporting their view of how the economy should work. I think that what we know from polling is that Americans are really eager to get government help as we face the recovery from the -- from the COVID pandemic. And so I think it probably makes it easier for Joe Biden to hold every Democrat together as he needs to do and push through this huge package. Americans have been surprisingly supportive of the idea of a stronger government safety net, at least until we recover some of these millions and millions of jobs that have continue to be lost because of the pandemic."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Jonathan, basically same question, how much should we make of these quite disappointing job numbers for April and what impact do you think it will have on Biden's ability to pass the rest of his agenda?"
+    },
+    {
+      "speaker": "SWAN",
+      "utterance": "Well, I think we should emphasize a few things. Number one is, in normal times it would be -- it would be a good number, but it -- it's a horrific number in the context of what was expected. I mean there were -- we're expecting more than a million jobs and we -- we come up, you know, 800,000 short. And they also downgraded March. And there's going to be analysis as to, you know, where these jobs are -- where the weak points are. Part of it is -- is there's certainly a question about the unemployment payments. There's also a question about people being hesitant to go back because of COVID and also the child care problem, which still remains a real problem with, you know, schools not fully reopened and parents still having these really complicated relationships. So it can't really be boiled down to a sort of bumper plate. The problem with tying this sort of conceptually to what's coming next with infrastructure is it's -- it's sort of -- it's kind of bogus because what the White House will tell you is this infrastructure plan is spaced out over a number of years. It's actually long term investment. And this is not going to solve some monthly employment blip. We're talking about, you know, rebuilding the nation's infrastructure over a really long period of time with spaced out spending. So everyone will do their sort of political hackery (ph) and say this justifies my position. But the fact is there's a pretty tenuous condition between the infrastructure part and, you know, trying to get the immediate task of getting Americans back to work and back into the workplace."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "SWAN",
+      "utterance": "And just the last thing I'd say is, the overall unemployment figure is very misleading because one of the biggest problems is a lot of Americans have just stopped looking for work. They're just out of that picture. And that's the real problem."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I -- Karl, I want to pick up on exactly Jonathan's point because it was the COVID relief package, the $1.9 trillion that was already passed that was supposed to be the quick jump start, the -- the -- the boost to the economy. The next two plans, the $4 trillion more in infrastructure, in social programs, those are supposed to be, as -- as Jonathan says, much longer term, slower, structural change. So -- so even if the president were able to pass them, is that going to give the -- the quick boost to unemployment?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "No. Back of the envelope scratches suggest that of the $4 trillion, more than 90 percent of it will be spent in fiscal year 2022 through fiscal year 2029. If we've got an immediate problem here, it ain't going to do anything to solve that immediate problem. And I agree with Jonathan's point about -- about this being, you know, the unemployment rate today is -- is -- if you look at it compared to its height during COVID, we're -- we've -- we've reduced that unemployment rate 80 percent of the way back to the 3.5 percent unemployment we had when this COVID hit. And -- but the labor force participation rate, though, that is the number of people who are willing to work, is back by only half that rate. And -- and I had dinner last week with about eight CEO's of companies from around the country, mostly family-run, privately held companies. And I said, what's the number one issue you're facing. Every one of them said, I -- we can't get enough workers. Particularly, and this caught my -- my -- my ear. They said, if the job pays $50,000 or $60,000 or less, it is virtually impossible for us to find workers. So I did a little research. The federal bump up of $600 a week that exists through November works out to an annual of $31,200. In -- In New York, if you look at the existing payments, New York, California and Illinois, think about this, you're getting paid tax free $57,408, so in New York, well, actually on the first 10,000, 54,600 at an annual rate in California, and 55,592 in Illinois. Why work if you can get that kind of money and stay home and Netflix?"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I love the white board. All right, I want to turn, in the time we have left, to another subject, Susan, COVID. There was good news and bad news this week. Cases are down. Deaths are down. Vaccination demand is down. Here is the CDC Director Rochelle Walensky."
+    },
+    {
+      "speaker": "ROCHELLE WALENSKY, CDC DIRECTOR",
+      "utterance": "The sooner we get more and more people vaccinated, the sooner we will all get back to normal."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Susan, is the glass half full or half empty when it comes to COVID these days?"
+    },
+    {
+      "speaker": "PAGE",
+      "utterance": "Well, I mean, it's -- it's half full compared to where we were six months ago. So much more hope now and so much -- you know, so -- better times ahead. But the glass is definitely not full. We continue to be vulnerable as a nation to these variants that we see devastating places like India. And this issue of vaccine hesitancy among Americans is a serious one. I've talked to people -- I've been surprised. People I would have assumed would already be vaccinated, who are worried about getting vaccinated, not sure if they're going to get vaccinated. You -- we cannot be safe as a nation and fully out of this pandemic unless we reach -- unless we double the number of people who are now fully vaccinated in this country. It's a -- it's going to be a big -- a big task."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I -- Karl, that raises the question, obviously our understanding of this virus continues to evolve, but how damaging is it, both in terms of public attitude and particularly public attitude toward getting the vaccine when the messaging about what you can do after you're so fully -- after you're fully vaccinated is so garbled?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "It is garbled. And -- and, look, back to Susan's point, I think the only way we're going to be able to solve this is by two things happening. Every American who's gotten vaccinated encouraging those that are in their sphere, their family, their friends, the people they worship with, or work with, socialize with, to get vaccinated as well. We're all going to have to make this a personal appeal. And, second of all, we've got to have more local governments being -- and state governments being very aggressive in their efforts to get people vaccinated. One of the great stories here in Texas, for example, was Amarillo, which basically said -- Potter and Randal County said, we're going to set up a central place in our -- in our convention center and we don't care where you're from or who you are or what age you are, come and get it. And as a result, a lot of people did. And so we've got to have -- our governor is sending out inoculation teams, vaccination teams, to get people in -- in -- in more remote parts of our state, or communities that might be hesitant, to step forward and get vaccinated, to get vaccinated."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I got -- I --"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "But this is going to be increasingly state, local and personal."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Fifteen seconds, Jonathan. How worried are they at the White House that they're not putting out a clear message about what people can do after they're vaccinated?"
+    },
+    {
+      "speaker": "SWAN",
+      "utterance": "I think everyone recognizes that the public health communications here have been suboptimal to say the least."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "That's 15 seconds and you got the word \"suboptimal\" in. Very well done. Thank you, panel. See you all next Sunday. Up next, our special \"Power Player of the Week,\" former FCC Chair Newt Minow on his iconic speech six decades ago, calling TV a vast wasteland. What does he think of it today?"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "It was 60 years ago today that the head of the Federal Communications Commission made a speech that started a national debate. Now, six decades later, he's still got strong views. Here's our \"Power Player of the Week.\" NEWTON MINOW, FORMER CHAIRMAN, FEDERAL COMMUNICATIONS COMMISSION OF THE"
+    },
+    {
+      "speaker": "U.S.",
+      "utterance": "No, I thought that we were wasting this extraordinary gift of technology, and we were not using it to its full potential."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Newton Minow, President Kennedy's FCC chair, on why he challenged TV broadcasters in 1961. MINOW (May 9, 1961): Keep your eyes glued to that set until the station signs off. I can assure you that what you will observe is a vast wasteland."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "The phrase \"vast wasteland\" made headlines and struck a nerve. The producer of \"Gillian's Island\" even named the boat that wrecked on that three hour cruise the SS Minnow."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Were you surprised at the reaction?"
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "I was shocked. I think it was because print media was jealous of television and they made a big fuss about it."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "It's just one of Minow's many brushes with history."
+    },
+    {
+      "speaker": "JOHN F. KENNEDY, FORMER U.S. PRESIDENT",
+      "utterance": "Adlai E. Stevenson."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Working for Democratic Candidate Adlai Stevenson in 1956, Minow came up with the idea for televised debates with President Eisenhower."
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "Adlai's political advisers thought it would be perceived as a gimmick and many of them thought Adlai would not do very well. So it was rejected and never even proposed."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "After Stevenson lost, Minow had some advice for a younger politician about the next election."
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "I said, Jack, I said, if you are still interested, you probably could get the vice presidential nomination next time. And Jack Kennedy looked at me and he said, vice president? Vice president? He said, I'm going to run for president."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Kennedy won in no small part because of a televised debate with Richard Nixon."
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "By a funny coincidence, my college roommate --"
+    },
+    {
+      "speaker": "SANDER VANOCUR",
+      "utterance": "I'm Sander Vanocur."
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "Sander Vanocur turned out to be one of the questioners, one of the panelists."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "You're kind of the Forest Gump of the second half of the 20th century, aren't you?"
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "I pop up at very, very odd places. But I've -- I've certainly been blessed -- been blessed to see a lot of American history."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "President Kennedy begins a tour of U.S. space centers."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "While Kennedy pushed to put man on the moon before the Russians, Minow focused on communication satellites."
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "One day the president said to me, he said, why are you pushing so hard on this? And I said, Mr. President, communication satellites will communicate ideas and ideas last longer than people."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Minow also pressed to put federal dollars into educational television."
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "Today we have a strong public radio and public television system in our country that didn't exist before. \"Sesame Street\" is one of the proudest things we've done."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "In 1988, Minow got his law firm to hire an summer intern from Harvard."
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "Barack came to work (INAUDIBLE) and his supervisor was a young woman, also a Harvard Law graduate named Michelle Robinson. And one night Joe and I went to the movies and we ran into Michelle and Barack, they were out on their very first date. This is my favorite."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Now, at age 95, Minow is still a TV enthusiast."
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "What channel shall we watch or shall we just wallow in the vast wasteland?"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And still a critic."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Do you see a connection between having so many choices of television and the polarization in the country?"
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "Yes, I do. And I particularly see it when we don't agree on facts. You must know the difference between a fact and an opinion."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "What do you think of platforms like FaceBook and Twitter banning Donald Trump?"
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "I think FaceBook was right, you cannot have the incitement for violence. Even though we believe in free speech, that crossed the line."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You have been at the center of so many key events and you have dealt with so many major figures in this country. As you look back on your life, what are your thoughts?"
+    },
+    {
+      "speaker": "MINOW",
+      "utterance": "I'm so devoted to this country and been so fortunate to have been involved in so many important things and I -- I -- every day I say thank God for America."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Minow says the goal for television should be to serve the public interest. Back in that 1961 speech, he said history will decide whether today's broadcasters employ their powerful voice to enrich the people or to debase them. And that's it for today. To all you moms out there, Happy Mother's Day. Have a great week and we'll see you next FOX NEWS SUNDAY."
+    },
+    {
+      "speaker": "Copy",
+      "utterance": "Content and Programming Copyright 2021 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2021 VIQ Media Transcription, Inc.  All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

@@ -1,0 +1,1797 @@
+{
+  "date": "October 7, 2017",
+  "headline": "Will more gun laws stop the next mass shooting?",
+  "subHeadline": "Renewed calls on Capitol Hill for gun control legislation in the aftermath of the Las Vegas shooting.",
+  "url": "https://www.foxnews.com/transcript/will-more-gun-laws-stop-the-next-mass-shooting",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "PAUL GIGOT, HOST",
+      "sentences": "Welcome to the \"Journal Editorial Report.\" I'm Paul Gigot. As the country reeled this week from the deadliest mass shooting in modern U.S. history and as investigators scramble to uncover the motives and methods of gunman, Stephen Paddock, President Trump traveled to Las Vegas Wednesday to meet with the shooting victims and first-responders after Sunday's attack at a country music festival. Let's listen to some of what he had to say.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "sentences": "The mass murder that took place on Sunday night fills America's heart with grief. America is truly a nation in mourning.  We struggle for the words to explain to our children how such evil can exist, how there can be such cruelty and such suffering. But we cannot be defined by the evil that threatens us or the violence that incites such terror. Words cannot describe the bravery that the whole world witnessed on Sunday night. Americans defied death and hatred with love and with courage.  We will all have to wrestle with the horror of what has unfolded this week, but we will struggle through it together, and we will overcome together as Americans.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Let's bring in Wall Street Journal columnist and deputy editor, Dan Henninger, and columnists, Mary Anastasia O'Grady and Bill McGurn.   Bill, what do you make of the president's response?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BILL MCGURN, COLUMNIST",
+      "sentences": "I think it was right. It was the right tone. A president needs to go and visit. He is a national figure. I also think the tone of the people out there. We saw incredible stories of bravery. And it's a very American story. People in official positions standing up and not running away from the fire. There was a Marine that stole a car to drive people to the hospital, the security guard who got shot, and doctors, it is an incredible story. The government has a big role, but a lot of people took initiative themselves. Amid the heartache, there's a lot of inspiration there about how people, ordinary people behaved.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARY ANASTASIA O'GRADY, COLUMNIST",
+      "sentences": "Yes. I think in the aftermath also the law enforcement in Las Vegas has been really impressive. Sheriff Lombardo has been holding these press conferences and speaking very clearly, being careful with what he knows and what he doesn't know. The press is hounding him and asking the same questions over and over. But he's held his composure. Like Bill, said, a very heroic story. DAN HENNINGER, COLUMNIST & DEPUTY EDITOR: But, you know, the president's role at this stage when events like this get so widely publicized, horrible event, the country is bereft, they feel completely shocked down to their shoes, and the president goes out there as representative for all of us. He is saying what we feel and what we would convey to those people if we were there. I think Donald Trump did it in extraordinarily appropriate way representing the American people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Not polarizing at all.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "Not at all.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Basically, trying to speak to our own better angels. So, Mary, what about the way the debate has turned elsewhere. It pretty quickly devolved into another debate over gun control?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "Yes, well, you know, it is another crisis that some people don't want to let go to waste. And certainly, there's a lot of cynical, I think, politicians and entertainers. But I think one of the big problems as Dan says, the American public is just so shocked and stunned at this, that their first reaction is, do something, can we do something, because, we can't abide this. And so, therefore, it opens the door for these, you know, discussions about gun control, even though people basically know that there's no easy answer to this problem.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "But what does it say, Bill? I think, most of us, certainly, my reaction to this was, oh, my god, is anybody I know in this crowd?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "These are people that went to a concert in a place where you know, most Americans in their lifetime will visit, Las Vegas.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "And you don't expect to be shot at --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "-- and have people falling all around you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "Right. I was looking at the \"New York Post\" pictures of all the dead. The largest chunk seemed to be 30-year-old women out for a night out.  Mary, characteristically, a little nicer than I am on this.  I don't think the reaction that you're speaking of is really more -- there's a reaction not just for gun control but to characterize those who disagree as haters and evil. I mean, when you have Jimmy Kimmel, it means you have lost the argument.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "They depending on him, you mean, to make the case?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "To make the case. These people do not want a rational argument. Look at Twitter, look at the stuff of this, all about blood on their hands and this. We could have a sensible argument, what are practical measures that may not eliminate this, but might make it less possible, they don't want that. This is wedge. I think, frankly, it's, despite what they want, it is playing into Donald Trump's hands.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Is anything, Dan, that you have seen proposed here, on -- in the wake of this, whether it be eliminating bump stocks to make a semi- automatic weapon fire rapidly than it is supposed to or more background checks, would anything have prevented Paddock from doing this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "Nothing we know of right now. The focus is misplaced. It shouldn't so much be on the weaponry itself in the United States, but on sorts of individuals who commit these crimes, whether they're deranged or, say, a terrorist.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "But Paddock didn't fit either of those profiles.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "I understand that. For instance, Stephen Paddock, as an example, bought his rifles in four different states. If we had, using something like big-data software that would have tracked the fact that he was buying rifles in four different states, just as, say, a terrorist is buying fertilizer elements in four difficult stores, into a central database, then you could focus on someone like that. I know there are privacy concerns but I think we have to consider something like that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "All right. Thank you, Dan. Thank you, all.  When we come back, call grow for new gun control measures in the wake of Las Vegas massacre, but will more laws stop the next mass shooting?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER, D-N.Y., SENATE MINORITY LEADER",
+      "sentences": "I'm also calling on President Trump to bring together the leaders of Congress and let both sides know he is ready and willing to address this issue of gun safety.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED CONGRESSMAN",
+      "sentences": "This country has the loosest set of gun laws, allowing dangerous people to own dangerous weapons, in the industrialized world. And so what is unacceptable in the wake of the most-deadly mass shooting in the history of the country is for this utter silence, this unintentional complicity from Congress to continue.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Renewed calls on Capitol Hill for gun control legislation in the wake of the Las Vegas massacre. But would more laws prevented Sunday's killings, and can they stop future mass casualty events?   Earlier, I spoke to law professor, David Kopel. He's a research director of Independence Institute, and author of the book, The Truth About Gun Control.\" David Kopel, welcome. Good to have you with us.   New calls for gun control in the wake of Las Vegas. I want to take these arguments, if we can, based on what we know, one by one.  Let's start with automatic weapons, if Stephen Paddock had automatic weapons, that was illegal under the law, correct? DAVID KOPEL, LAW PROFESSOR & RESEARCH DIRECTOR, INDEPENDENCE INSTITUTE & AUTHOR: Yes. A 1986 federal law said no new automatics can be sold to anyone in the public. Ever since 1934, even owning an old one has been a process that requires about nine months to get federal permission to do so.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK. Let's go to semi-automatic weapons, which means you fire with a single pull of the trigger one shot. He had a lot of those, apparently, including some A.R.-15s, which are a popular form of semi-automatic weapon. If he adapted those to be able to make more rapid firing like an automatic weapon, that is also illegal under federal law, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPEL",
+      "sentences": "It depends how the adaptation is done. The particular thing that he did appears to use something called a bump stock, which is currently legal under the federal statutory definition. That is something the Congress should have hearings on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Let's talk about that, because that has gotten a lot of attention. Why would have normal person who has a rifle want to use a bump stock?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPEL",
+      "sentences": "It's mainly for guys who want to go to the range and shoot a bunch of rounds off quickly. That is the market for it. It is something that degrades the accuracy of the gun, so it makes it less useful for self- defense. Obviously, it would be unlawful probably to use it in hunting.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Is there another way to adapt -- without a bump stock, it there another way to adapt a semi-automatic in a way to allow it to become automatic?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPEL",
+      "sentences": "There are conversion kits, which genuinely change a semi-automatic into a fully automatic, but those are already regulated the same as a real automatic. So post-1986, it is impossible to buy a new one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK. But if you're a determined killer, you're somebody like Paddock, you can find a way, can you not, to take a semi-automatic weapon and turn it into a rapid-fire automatic?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPEL",
+      "sentences": "Well, you could go to someone who is sophisticated with machine shop skills. If they can work down the tolerances of a thousandth of an inch, it's possible to do that modification with tools.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK. So I think what a lot of people who are just average citizens who say, you know what? Ii want to go to a concert, which is safe, I don't want to have to worry about my son or daughter getting shot at public event, a country music concert or something else. They say, do we really need rifles like the A.R.-15 to be legal? Why not ban them all? You can't run the risk of anyone adapting them into a truly killing machine.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPEL",
+      "sentences": "You can understand why people think that, because it seems so incomprehensible. As you say, people have a right to be safe when they're out in public places. But if you're going to go down that road, which Australia went down, then you're talking about gun confiscation from tens of millions of people. That is unlikely to work out. The drug war hasn't been too successful in this country. This would be something much, much worse than that. Besides getting rid of the Second Amendment, we would have to get rid of the Fourth and Fifth Amendment, too.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Your argument it would be illegal -- it would be illegal under the Second Amendment to ban these kinds of guns in the first place, but also, even if you did succeed in making, changing the Second Amendment or passing a law that the court said was legal, you would have a major, major problem just politically on your hands getting ahold of those guns?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPEL",
+      "sentences": "Yes. This is a country that was founded, in part, in 1775, when a gun confiscation program was implemented in Lexington and Concord. People didn't like it then. This is something that really would cause a lot of danger for law enforcement if they were ever forced to go out and try to confiscate guns from the public.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Well, Australia did it. As you know, they outlawed many guns in the 1990s. They had a big buyback program. The government went out and purchased guns. They purchased more than 650,000 guns. A lot of people point to Australia and say, you know what, that worked. They haven't had the same kind of mass casualty events they we have had here in the United States. What is your response to that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPEL",
+      "sentences": "The fact you say is true, although, New Zealand also hasn't had those kinds of mass casualty events, and New Zealand didn't change its gun laws. Countries like Norway or France, with much more oppressive gun laws than in the United States, still have mass casualty events, including sometimes with many more mass casualties than even in Las Vegas.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPEL",
+      "sentences": "In general, Australia and the United States have both seen a long- term decline in their murder rates. Australia, at a time when it confiscated guns, and the United States, over the last quarter of a century when we added 80 million guns to the national gun supply.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK. What would you tell the average American who says, I want to go to events, I want my family to be safe, what can we do to stop mass casualty events with gun regulation, or is that simply impossible?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPEL",
+      "sentences": "I think it depends on, from event to event. I think, in this case, the issue of bump stocks, which can -- it is allegedly seems to be true, make a semi-automatic firearm fire as fast as automatic, probably should be regulated at same level as a machine gun. You should have to go through that same federal process to purchase one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK. All right. Thank you, David Kopel. Appreciate you being here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KOPEL",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "When we come back, an unusual and public denial from Secretary of State Rex Tillerson this week as he seeks to dispel reports of bad blood with President Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REX TILLERSON, SECRETARY OF STATE",
+      "sentences": "I'm not from this place, but the place I come from, we don't deal with that kind of petty nonsense.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TILLERSON",
+      "sentences": "My commitment to the success of our president and our country is as strong as it was the day I accepted his offer to serve as secretary of state. There has never been a consideration in my mind to leave. I serve at the appointment of the president and I am here as long as the president feels I can be useful to achieving his objectives.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "That was Secretary of State Rex Tillerson this week in an unusually public denial of a report saying he had been on the verge of resigning from his cabinet post over the summer. Tillerson also condemned, as petty nonsense, rumors that he called the president a moron in a Pentagon meeting. Wednesday's statement came just days after President Trump seemed to undercut Tillerson in a tweet, saying, that America's top diplomat, quote, \"is wasting his time trying to negotiate with \"Little Rocket Man,\" referring North Korean leader, Kim Jong-Un. Mr. Trump and Tillerson are also said to be at odds over the Iran nuclear deal, with the president will announce next week whether he will decertify the pact. Let's bring in Dan Henninger, Mary Anastasia O'Grady and Bill McGurn. So, Dan, this kind of thing, what does this tell us about the team? Is it dysfunctional?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "I don't know that it's dysfunctional. I would say it's a baseline. We under Donald Trump is a very unusual president in his conduct of foreign policy or anything else. That is not news.  But all presidents wax and wane in enthusiasm for the secretary of state and the State Department. Nixon didn't care for it so much until he put Henry Kissinger over there. John Kerry rose because he was willing to execute President Obama's foreign policy on Iran, with Susan Rice calling shuts. Donald Trump, clearly, does not favor the State Department. He is running foreign policy out of the National Security Council and the Department of Defense. Rex Tillerson is something of an outsider. The problem is, because Trump has non-stop battle going on with the press, any distance perceived between Tillerson and Trump will be elevated and used as a wedge between him and Donald Trump's foreign policy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK, but you have -- put this in the context of Trump and his Cabinet. He publicly attacked Jeff Sessions, Mary. Publicly fired Tom Price after humiliating him in public. Now, he is two or three times, at least, at least two, contradicted Tillerson publicly, most recently in the tweet on North Korea we talked about. Tough to work for a guy who does that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "Yes. I would say that they could kind of patch that up if they can fix the -- what you would call strategic communication, sort of get on the same page. But there's another problem that Tillerson has, which is that he came into the State Department with this idea that he would overhaul the place. So he has got these consultants going through and looking at what the problems are and so forth. Deputy Secretary John Sullivan last week went before the State -- the House Foreign Affairs Committee and said, we're almost done, which is, going to be a good thing. And, but in the meantime, secretary -- the secretary has not -- has left 22 vacancies in a assistant or deputy positions. And --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Those are key policy decision.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "Exactly. And the problem is in their place are career foreign service officers, who tend to be bringing with them all the baggage of the former administration. So I think that's part of where the clash is coming with president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "There are some policy disputes. We mentioned the Iran deal. We mentioned the North Korean exchange. But there's also Qatar versus the Saudis, and Trump was with the Saudis. Tillerson wanted to be a mediator. The climate deal where he disagreed with the president. There's major policy disputes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "Right. You have to get on board with your president. If you're outlining differences there, that is a problem for me. I say one thing, Trump obviously is very difficult man to work with. But if you called your president a moron at a meeting of, at the Pentagon, you're a moron. There are very few places where you can call your boss a moron and survive.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "\"Wall Street Journal\" being one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "Now I -- I actually feel a little more optimistic about state having read this \"Politico\" argument saying he is destroying the State Department.  This was written by a staffer to Samantha Power. Maybe he is doing something good. Also, substance on the North Korean thing, I think Trump was actually right in the tweet. If it is good cop/bad cop --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "Look, if it's a good cop/bad cop thing, I'm not so sure that is bad. Tillerson goes through negotiations and Trump saying, well, we're not really sure. The problem is, the real problem there is we've been talking to the North Koreans for 25 years. We actually reach agreements with them and then they defy them. They're not going to -- they're not going to -- even if we reached a deal, there's no way they are going to obey it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "You made the point that certain secretaries of state often been isolated and so on. But it really does mean that when Rex Tillerson goes out to Asia, as he did, to be the Sherpa for the president's trip in November, people don't know, can I, does he represent the president or not? That makes it a very hard thing for him to do his job.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "Yes. I think that applies, to some extent, to the other individuals you mentioned, who have been criticized by the president, Jeff Sessions, Tom Price, who is no longer here. You end up in a situation the cabinet secretaries are no longer working out loyalty to the person and the presidency but to country or cause, and that matters. If Rex Tillerson still thinks he can contribute to the causes he is working for, he should stay. If he decides, at some point, he can no longer do that, he should step away.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "One thing though. It should be the president's agenda. If he says, I will stay, I will undermine him getting out of Paris, I'm not with him on North Korea, I don't think you serve someone and undermine their goals.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "But Rex Tillerson is a seasoned executive. He has to be very, very frustrated to say that is a president is a moron at a meeting. Shows the level of frustration for a lot of people in the cabinet.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "I should add, his spokeswoman said that he didn't say that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Just for the record, we don't know, of course, what really happened.  Still ahead, as the Supreme Court kicks off what is shaping up to be a block-buster term, we'll look at cases and justices to watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "The Supreme Court returned to work this week, and from religious liberty to union dues to partisan gerrymandering, it is shaping up to be what Justice Ruth Bader Ginsburg has called a momentous term. Here with a look at the cases and the justices to watch is Ilya Shapiro. He's a senior fellow in constitutional studies at the Cato Institute and editor-in-chief of the \"Cato Supreme Court Review.\" Welcome. Good to have you here. ILYA SHAPIRO, SENIOR FELLOW IN CONSTITUTIONAL STUDIES, CATO INSTITUTE & EDITOR-IN-CHIEF, CATO SUPREME COURT REVIEW: Good to be on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Do you agree with Justice Ginsburg this could be a blockbuster?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHAPIRO",
+      "sentences": "I think so, especially with last term, with Scalia's absence, with the eight-justice court. They just were not taking high-profile cases. And in this term already, I think we have five or six that are legitimate blockbusters.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK. Give us a couple here. I know the partisan gerrymandering case, which has oral arguments this week, that could remake American politics by getting the judiciary right in the middle of every electoral map in the states.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHAPIRO",
+      "sentences": "Absolutely. You would have even more lawsuits about every district drawing after -- it's already a cottage industry for lawyers in Washington and elsewhere. This would be an election lawyer full-employment act. We would never see the end of it. We would have judges drawing districts all over the place, if they decided to uphold the challenge.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Of course, we had oral arguments. You follow that, I'm sure. How do you read where that will come out? Looks like Justice Anthony Kennedy is, once again, the swing vote?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHAPIRO",
+      "sentences": "Yes, not surprisingly. In this case, like the last couple of times that the court has taken up the issue, it's all on whether Justice Kennedy feels now is the time to constitutionalize some sort of a standard for evaluating when politicians use too much politics in drawing district lines.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Did you get any reading where he would come out from the oral?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHAPIRO",
+      "sentences": "I mean, no. You can guess, but unless you hear it from him directly, I wouldn't believe it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK What about the big religious liberty case, which is the one coming up with the cake baker who declined, based on conscience, religious conscience, to bake a cake for a gay marriage? That is another big one where Kennedy is also a swing vote.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHAPIRO",
+      "sentences": "Yes. This is called Masterpiece Cake Shop. And here, I think, Kennedy is again the swing. But it really brings attention to two things that he has become known for, what his legacy will be. He is a very strong supporter of the First Amendment, freedom of speech. He has also written all the court's opinions expanding gay rights over the years. Now I, the Cato Institute, we've been filing briefs in support of gay marriage. Now we're supporting the baker or others in private business who don't want to work with gay marriage. Because private businesses are different than the government. For us, it's easy to square that circle. We'll see how Kennedy does. And there's different ways you can slice this case, if you will, whether it's expressive kind of business, with a wedding vender that does a message of some kind, if you accept baking as that, versus non-expressive businesses, like limo drivers or caterers. There's making a contract for a specific type of cake versus willing to sell it off-the-shelf. This will be an explosive case.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Another one related to free speech is the so-called union fees case, where the court, which was close a couple years ago to ruling on this, and then Justice Scalia died. Now with nine justices, it has come back. This is a case where it is going to be -- concerns whether or not the government can compel somebody to pay union dues that goes for speech that they don't support.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHAPIRO",
+      "sentences": "Well, the argument is, by the state, about half the states allow this, for unions to charge non-union members in the public sector with union dues, to support collective bargaining. They're called fair share fees. But the challengers here are municipal workers out of Chicago and Illinois. Two years ago, in that case, as you mentioned, that was out of California, same issue. They're saying, look, in the public sector, anything unions collectively bargain is a matter of public policy, is a matter of speech, because they're dealing with public financing, they're dealing with education priorities, whether to give tenure protections versus higher salaries, all these sorts of things, and we might not like what the union is supposedly doing in our favor. I think the court is poised to strike down these laws. I think they were two years ago. They will do the same thing now. That would really remove a lot of money from public-sector unions as they go about politicking. That would change American politics as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "This is the first term that Neil Gorsuch -- the first full term Neil Gorsuch will sit. Based on the few cases he was involved with last year, and what you know about him, how will he change the dynamics on the court?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHAPIRO",
+      "sentences": "Well, you don't really know how things go behind the scenes. Justice Byron White, for whom Gorsuch clerked, said that every new justice makes for a new court. I don't know if you will see very many difference in terms of voting patterns. I think Gorsuch is somewhere in between that Scalia and Thomas range, both on the substance and on various juris doctrines. I'm seeing some green shoots, I suppose, from his rulings when he was on the lower court, in terms of not being as deferential, even as Scalia, to government in administrative law, regulatory matters. In the cases that he he sat in, so far, there's just a month and a half at the end of last term, he voted together with Thomas on every single one. And he has been active in terms of questioning and in terms of writing concurrences and dissents. So he is certainly adding a strong voice. We thought maybe losing Scalia, there would be more time for the advocates to talk, but we haven't seen that. From where I sit, I'm very much looking forward to the constitutional seriousness that Gorsuch is bringing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "It sounds to me like what we'll see, it will go back to the kind of court dynamics, at least in votes and ideology, we saw before Justice Scalia died. Briefly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHAPIRO",
+      "sentences": "Very much so. Including on criminal procedure cases where it is left and right against the middle. We've seen that this week in a couple of arguments where Gorsuch is joining the liberals in protecting constitutional protections for criminal defendants.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "All right, thank you, Ilya Shapiro. Appreciate it. When we come back, Supreme Court Justice Neil Gorsuch, just one of President Trump's judicial successes. We'll take a look at his efforts to remake lower courts when we come back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "As Supreme Court Justice Neil Gorsuch begins his first full Supreme Court term, President Trump is rapidly working to remake the lower courts as well. The White House announced its eighth batch of judicial nominees last week with some notable picks on the appellate and district-court levels. We're back with Dan Henninger, Bill McGurn, and Wall Street Journal editorial board member, Allysia Finley. Allysia, this is story that is below the radar with everything going on in Washington and most people focusing on the Supreme Court, but Trump is rapidly remaking the lower courts, too.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALLYSIA FINLEY, EDITORIAL BOARD MEMBER",
+      "sentences": "Right. He made 18 nominations to the federal appeals courts and 39 to the district courts. He made another four to the Fifth District.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Four on one circuit.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "Four. Right. This is traditionally more conservative circuit. The reason why this is incredibly important is Obama really packed the courts when he was in office, especially D.C. circuit. What you're seeing is a lot of these judges are striking down some of Trump's rule makings already, or decisions to pause rules.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK. So what kind of judges is he nominating? Let's take those Fifth Circuit. You have Stuart Duncan, was one of them. He was from the Beckett Fund for Religious Liberty, and argued the Hobby Lobby case that said closely-held companies don't have to abide by Obamacare rules on abortion, for example?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "Right. And you have Don Willet, who a lot of people know from his witty Twitter feed. He had -- was on the Texas Supreme Court. As well as James Hogue, who was former solicitor general in Texas.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "These are generally really very solid, conservative judges. Some of them Originalists in their interpretation of the Constitution, in the mold of Gorsuch and Scalia.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "Right. That is partly because he has used the Federalist Society as a clearinghouse. That allowed the expediting of the selections.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Federalist Society being a kind of -- it's a group of conservative judges, lawyers, not just judges, lawyers and so. And Trump has put them in a very prominent position, Dan, on vetting judicial nominees. DAN HENNINGER, COLUMNIST & DEPUTY EDITOR: Yes. I think it is had very positive effect. If there's any criticism we've heard it's that there could be more nominees that are from the Law and Economics School, which is applies economic rationality to the law. In the way that, say, the very famous judge, Richard Pozner, of the Seventh Circuit, just retired. Pozner was one of the godfathers of law and economics. Perhaps over time, we'll see more of that introduced in the nominees.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "And, I mean, I think, Bill, Trump promised this in the campaign.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BILL MCGURN, COLUMNIST",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "And delivered.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "I think actually, the dare -- remember, he promised it in response to a Ted Cruz attack on what kind of judges he would -- it helped Trump because he is on the record saying these are the kind of judges I'm going to pick. It also -- look, in the Republican Party, judges are one thing people understand. It is very important --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "It's a unifying force in the party.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "It's a unifying force. It is not only about, we want people to interpret the law and Constitution. For Democrats, the appellate courts and Supreme Courts, that is their legislature. That is where they like to go and ram through things they can't get through any democratic legislature in the states or at the federal level. So it is very important. They will come back to rule on things that Donald Trump does at president. But it is something we understand. When I was in the Bush White House, they understood the process and the kind of nominees. It is one area where Republicans really do have their act together. I just say one last thing. The Supreme Court has a busy docket, some really important cases. And I think at the end of the year, we're all going to owe Mitch McConnell a huge thank you for getting Neil Gorsuch on there instead of Merrick Garland.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "That something, interesting, Allysia, because I think Gorsuch - I mean, I think McConnell is doing his best to get all of these nominees through. The Democrats are throwing up every possible roadblock, taking every delay they can. But in the end, and I have talked to Republican Senators, they're saying every one of these people is going to get through.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "Right. Just will take a little longer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "Unfortunately, you can't to get them on. Especially, there is a concern that the Democrats could take the Senate in 2018. You want these on courts as quick as possible. Especially, because there are new cases pending.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Oral argument, Dan, gerrymander case. Do you have any tea leaf reading for Justice Kennedy goes because it's a big case?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "It's a big case. Which should understand that gerrymander is very difficult. Gerrymander started this in 1788 and when Patrick Henry tried to gerrymander James Madison.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "And Bill voted for it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "There are gerrymanders in Turkey and Sudan. If you have representative government, they come from districts, and the people in power will try to draw those districts in a way that favors them. The question is, is there any fair way to do that? I would guess Justice Kennedy -- the one solution de jure these days is to turn it over to non- partisan commissions in the states, as they have done in some states, Florida, California.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "You we can't do that as a matter of policy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "He cannot do that as a matter of policy, but he could suggest they go in the direction, rather than, as plaintiffs are saying, judges should decide. Justice Roberts, Chief Justice Roberts was very clear about not wanting the judiciary to get involved in these really intense political fights over gerrymandering.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Where do you think it goes, Allysia?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "I think Justice Breyer teed this up to Kennedy, kind of setting out a test that he could potentially use. One of those, the standard in the tests, whether it was done by one party, which is kind of steering Kennedy, could potentially say, that a commission would not -- would not be subject to judicial review.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "All right. Still ahead, as President Trump visits hurricane-ravaged Puerto Rico, just what will it take for the island to recover? And are promises of debt relief realistic?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We're going to work something out. We have to look at the whole debt structure. They owe a lot of money to your friends on Wall Street. We'll have to wipe that out. That will have to be -- you can say good-bye to that. I don't know if it is Goldman Sachs, but whoever it is, you can wave good-bye to that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "That was President Trump in San Juan Tuesday telling FOX's Geraldo Rivera that the U.S. might have to wipe out Puerto Rico's debt in order to help the island recover from a direct hit by the Hurricane Maria. The U.S. territory, which already owes creditors more than $70 billion, suffered tens of billions of dollars more in damage when the category 4 storm came ashore on September 20th. We're back with Dan Henninger, Mary Anastasia O'Grady, and Allysia Finely. Mary, so Donald Trump says whip out those debts. Does he even have the authority to do that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARY ANASTASIA O'GRADY, COLUMNIST",
+      "sentences": "Donald Trump did not have access to teleprompter in Puerto Rico. So, therefore, our populist president was speaking off the top of his head. He does not have the authority to do that. Nor would it be good, even though it sounds good to people on the island. Nor would it be good for Puerto Rico, because Puerto Rico will need capital to rebuild and need access to the private markets, and it will not do that if it defaults and wipes away all of the debt. Plus, keep in mind, about 75 percent of that debt is held by moms and pops on the mainland, who are -- who own Puerto Rican debt through mutual funds, and they're pensioners.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "It is not Wall Street.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK. Fair enough. The -- the debt load, though, is severe. Will there be haircuts here for some of these lenders?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "Oh, sure. I mean, they're already getting hair-cutted through this thing called Permasso (ph), which is a Washington idea to basically come in with a financial oversight board and tell the two parties you need to negotiate. If you can't negotiate, then you're going to get haircut by a judge. They didn't negotiate. So, they are going to get that haircut.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Allysia, what about, what else condition Donald Trump actually do to help Puerto Rico here?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "Well I think, just sending them with FEMA, obviously, plays a role, in helping rebuild the electric grid. You have the U.S. Army Corps, and that will need, require funding, and the entire island is without power. And waiving the Jones Act. That's going to be more than 10 days, because the Jones Act requires any shipments made from the U.S., to another U.S. island or territory, be made or carried in a U.S. ship.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Right. U.S. flagged.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "There's only about 99 of those ships that are available, and, and he waived it for 10 days, only 10 days. And that expires I think on Sunday. Why -- you're saying waive it for another year?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "Yes. Supplies to rebuild. And then for energy. I mean, they want to convert their power plants to liquified natural gas. will it take for the island to recover? And are promises of debt relief realistic Right now, they use oil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Much more expensive.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "Much more expensive.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "But because he is destroying the private-sector markets, the taxpayers will be on the hook for all of that. Another thing is, a lot of people are talking about the Jones Act, but another thing Puerto Rico could really use in terms of relief, some kind of exemption from U.S. minimum wage. Because the per capita GDP on the island is like $28,000 a year. They should not be subject to the higher minimum wage rates on the mainland. That is a big deterrent for rebuilding.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "On Mary's point, the labor participation rate is 40 percent. They have terribly rigid labor laws.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Compared to 60s in the United States.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "Exactly. I think relieving them of minimum wage requirement would be just the beginning. This country has to be turned virtually another Ireland, which threw over the tax rates, allowed the private economy to grow. And they --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "And they could use a lot of help in terms of devising a tax system that is both low and fair and simple but also that works where they can actually collect taxes because there's a huge black market on the island, an underground economy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "There's real danger here, Allysia, of a brain drain.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "That young people on the island, in particular, if they see that this is going to be an ordeal for several years, they're going to Florida, they're going to Georgia, they're going to New York.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "You're already seeing that. You're already seeing that. Right now, they're projecting maybe up to a million people may leave the island.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Of 3.4 million.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FINLEY",
+      "sentences": "And 100,000 could -- are already being expected just in the Orlando, Tampa area. And so the word is that the people who are going to remain on the island will be more older, sicker people, who will require more help. Nobody will be there to take care of them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "That's kind of, you know the pessimistic view. The optimistic view is, people buy distressed debt. The Phoenix rises out of the ashes. Let's make Puerto Rico a place to attracts new fresh capital. People say, look, there's opportunity. I will go there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "OK, thank you all. We have to take one more break. When we come back, \"Hits & Misses\" of the week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Time now for our \"Hits & Misses\" of the week. Bill, first to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "Paul, a miss to William and Mary College. We are all familiar with the suppression of conservative voices on campus but, recently, a woman from the ACLU was shut down when she tried to speak by a group affiliated with Black Lives Matters, which planned and livestreamed the event. Next it was followed by a mealy-mouthed statement from the president, which said nothing about bringing people to justice. The left is eating itself.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "The president of William and Mary?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "Right. The left is eating its own. The First Amendment is suffering. And our university leaders are too craven to do anything about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Mary?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "O'GRADY",
+      "sentences": "Paul, a hit for the State Department, which this week asked 15 Cuban diplomats, A/K/Aa, spies, to leave Washington, leave the embassy in Washington. This was in response to 22 Americans at the U.S. embassy in Havana getting sick with a mysterious disease that ranges from brain trauma to hearing loss. The Cubans have not been able to tell us why or how our diplomats were harmed. And the State Department says, you know what, we had to withdraw these people. We want to get the numbers the same, so they kicked out the 15.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "Dan?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENNINGER",
+      "sentences": "All right, Paul, I'm going to give a hit to King Felipe, of Spain, for his statement this week severely criticizing the leadership in Catalonia for dividing the nation. This is Spain's biggest crisis in decades. And it's a democratic country. It has been emerging successfully from the depths of the 2008 recession. And King Felipe's statement was an example of strong leadership saying something that's not popular but necessary.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GIGOT",
+      "sentences": "All right. That's it for this week's show. Thanks to my panel. And thanks to all of you for watching. I'm Paul Gigot. Hope to see all of you right here next week. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PAUL GIGOT, HOST",
+      "utterance": "Welcome to the \"Journal Editorial Report.\" I'm Paul Gigot. As the country reeled this week from the deadliest mass shooting in modern U.S. history and as investigators scramble to uncover the motives and methods of gunman, Stephen Paddock, President Trump traveled to Las Vegas Wednesday to meet with the shooting victims and first-responders after Sunday's attack at a country music festival. Let's listen to some of what he had to say."
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "utterance": "The mass murder that took place on Sunday night fills America's heart with grief. America is truly a nation in mourning. We struggle for the words to explain to our children how such evil can exist, how there can be such cruelty and such suffering. But we cannot be defined by the evil that threatens us or the violence that incites such terror. Words cannot describe the bravery that the whole world witnessed on Sunday night. Americans defied death and hatred with love and with courage. We will all have to wrestle with the horror of what has unfolded this week, but we will struggle through it together, and we will overcome together as Americans."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Let's bring in Wall Street Journal columnist and deputy editor, Dan Henninger, and columnists, Mary Anastasia O'Grady and Bill McGurn. Bill, what do you make of the president's response?"
+    },
+    {
+      "speaker": "BILL MCGURN, COLUMNIST",
+      "utterance": "I think it was right. It was the right tone. A president needs to go and visit. He is a national figure. I also think the tone of the people out there. We saw incredible stories of bravery. And it's a very American story. People in official positions standing up and not running away from the fire. There was a Marine that stole a car to drive people to the hospital, the security guard who got shot, and doctors, it is an incredible story. The government has a big role, but a lot of people took initiative themselves. Amid the heartache, there's a lot of inspiration there about how people, ordinary people behaved."
+    },
+    {
+      "speaker": "MARY ANASTASIA O'GRADY, COLUMNIST",
+      "utterance": "Yes. I think in the aftermath also the law enforcement in Las Vegas has been really impressive. Sheriff Lombardo has been holding these press conferences and speaking very clearly, being careful with what he knows and what he doesn't know. The press is hounding him and asking the same questions over and over. But he's held his composure. Like Bill, said, a very heroic story. DAN HENNINGER, COLUMNIST & DEPUTY EDITOR: But, you know, the president's role at this stage when events like this get so widely publicized, horrible event, the country is bereft, they feel completely shocked down to their shoes, and the president goes out there as representative for all of us. He is saying what we feel and what we would convey to those people if we were there. I think Donald Trump did it in extraordinarily appropriate way representing the American people."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Not polarizing at all."
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "Not at all."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Basically, trying to speak to our own better angels. So, Mary, what about the way the debate has turned elsewhere. It pretty quickly devolved into another debate over gun control?"
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "Yes, well, you know, it is another crisis that some people don't want to let go to waste. And certainly, there's a lot of cynical, I think, politicians and entertainers. But I think one of the big problems as Dan says, the American public is just so shocked and stunned at this, that their first reaction is, do something, can we do something, because, we can't abide this. And so, therefore, it opens the door for these, you know, discussions about gun control, even though people basically know that there's no easy answer to this problem."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "But what does it say, Bill? I think, most of us, certainly, my reaction to this was, oh, my god, is anybody I know in this crowd?"
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "These are people that went to a concert in a place where you know, most Americans in their lifetime will visit, Las Vegas."
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "And you don't expect to be shot at --"
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "-- and have people falling all around you."
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "Right. I was looking at the \"New York Post\" pictures of all the dead. The largest chunk seemed to be 30-year-old women out for a night out. Mary, characteristically, a little nicer than I am on this. I don't think the reaction that you're speaking of is really more -- there's a reaction not just for gun control but to characterize those who disagree as haters and evil. I mean, when you have Jimmy Kimmel, it means you have lost the argument."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "They depending on him, you mean, to make the case?"
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "To make the case. These people do not want a rational argument. Look at Twitter, look at the stuff of this, all about blood on their hands and this. We could have a sensible argument, what are practical measures that may not eliminate this, but might make it less possible, they don't want that. This is wedge. I think, frankly, it's, despite what they want, it is playing into Donald Trump's hands."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Is anything, Dan, that you have seen proposed here, on -- in the wake of this, whether it be eliminating bump stocks to make a semi- automatic weapon fire rapidly than it is supposed to or more background checks, would anything have prevented Paddock from doing this?"
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "Nothing we know of right now. The focus is misplaced. It shouldn't so much be on the weaponry itself in the United States, but on sorts of individuals who commit these crimes, whether they're deranged or, say, a terrorist."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "But Paddock didn't fit either of those profiles."
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "I understand that. For instance, Stephen Paddock, as an example, bought his rifles in four different states. If we had, using something like big-data software that would have tracked the fact that he was buying rifles in four different states, just as, say, a terrorist is buying fertilizer elements in four difficult stores, into a central database, then you could focus on someone like that. I know there are privacy concerns but I think we have to consider something like that."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "All right. Thank you, Dan. Thank you, all. When we come back, call grow for new gun control measures in the wake of Las Vegas massacre, but will more laws stop the next mass shooting?"
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER, D-N.Y., SENATE MINORITY LEADER",
+      "utterance": "I'm also calling on President Trump to bring together the leaders of Congress and let both sides know he is ready and willing to address this issue of gun safety."
+    },
+    {
+      "speaker": "UNIDENTIFIED CONGRESSMAN",
+      "utterance": "This country has the loosest set of gun laws, allowing dangerous people to own dangerous weapons, in the industrialized world. And so what is unacceptable in the wake of the most-deadly mass shooting in the history of the country is for this utter silence, this unintentional complicity from Congress to continue."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Renewed calls on Capitol Hill for gun control legislation in the wake of the Las Vegas massacre. But would more laws prevented Sunday's killings, and can they stop future mass casualty events? Earlier, I spoke to law professor, David Kopel. He's a research director of Independence Institute, and author of the book, The Truth About Gun Control.\" David Kopel, welcome. Good to have you with us. New calls for gun control in the wake of Las Vegas. I want to take these arguments, if we can, based on what we know, one by one. Let's start with automatic weapons, if Stephen Paddock had automatic weapons, that was illegal under the law, correct? DAVID KOPEL, LAW PROFESSOR & RESEARCH DIRECTOR, INDEPENDENCE INSTITUTE & AUTHOR: Yes. A 1986 federal law said no new automatics can be sold to anyone in the public. Ever since 1934, even owning an old one has been a process that requires about nine months to get federal permission to do so."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK. Let's go to semi-automatic weapons, which means you fire with a single pull of the trigger one shot. He had a lot of those, apparently, including some A.R.-15s, which are a popular form of semi-automatic weapon. If he adapted those to be able to make more rapid firing like an automatic weapon, that is also illegal under federal law, right?"
+    },
+    {
+      "speaker": "KOPEL",
+      "utterance": "It depends how the adaptation is done. The particular thing that he did appears to use something called a bump stock, which is currently legal under the federal statutory definition. That is something the Congress should have hearings on."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Let's talk about that, because that has gotten a lot of attention. Why would have normal person who has a rifle want to use a bump stock?"
+    },
+    {
+      "speaker": "KOPEL",
+      "utterance": "It's mainly for guys who want to go to the range and shoot a bunch of rounds off quickly. That is the market for it. It is something that degrades the accuracy of the gun, so it makes it less useful for self- defense. Obviously, it would be unlawful probably to use it in hunting."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Is there another way to adapt -- without a bump stock, it there another way to adapt a semi-automatic in a way to allow it to become automatic?"
+    },
+    {
+      "speaker": "KOPEL",
+      "utterance": "There are conversion kits, which genuinely change a semi-automatic into a fully automatic, but those are already regulated the same as a real automatic. So post-1986, it is impossible to buy a new one."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK. But if you're a determined killer, you're somebody like Paddock, you can find a way, can you not, to take a semi-automatic weapon and turn it into a rapid-fire automatic?"
+    },
+    {
+      "speaker": "KOPEL",
+      "utterance": "Well, you could go to someone who is sophisticated with machine shop skills. If they can work down the tolerances of a thousandth of an inch, it's possible to do that modification with tools."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK. So I think what a lot of people who are just average citizens who say, you know what? Ii want to go to a concert, which is safe, I don't want to have to worry about my son or daughter getting shot at public event, a country music concert or something else. They say, do we really need rifles like the A.R.-15 to be legal? Why not ban them all? You can't run the risk of anyone adapting them into a truly killing machine."
+    },
+    {
+      "speaker": "KOPEL",
+      "utterance": "You can understand why people think that, because it seems so incomprehensible. As you say, people have a right to be safe when they're out in public places. But if you're going to go down that road, which Australia went down, then you're talking about gun confiscation from tens of millions of people. That is unlikely to work out. The drug war hasn't been too successful in this country. This would be something much, much worse than that. Besides getting rid of the Second Amendment, we would have to get rid of the Fourth and Fifth Amendment, too."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Your argument it would be illegal -- it would be illegal under the Second Amendment to ban these kinds of guns in the first place, but also, even if you did succeed in making, changing the Second Amendment or passing a law that the court said was legal, you would have a major, major problem just politically on your hands getting ahold of those guns?"
+    },
+    {
+      "speaker": "KOPEL",
+      "utterance": "Yes. This is a country that was founded, in part, in 1775, when a gun confiscation program was implemented in Lexington and Concord. People didn't like it then. This is something that really would cause a lot of danger for law enforcement if they were ever forced to go out and try to confiscate guns from the public."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Well, Australia did it. As you know, they outlawed many guns in the 1990s. They had a big buyback program. The government went out and purchased guns. They purchased more than 650,000 guns. A lot of people point to Australia and say, you know what, that worked. They haven't had the same kind of mass casualty events they we have had here in the United States. What is your response to that?"
+    },
+    {
+      "speaker": "KOPEL",
+      "utterance": "The fact you say is true, although, New Zealand also hasn't had those kinds of mass casualty events, and New Zealand didn't change its gun laws. Countries like Norway or France, with much more oppressive gun laws than in the United States, still have mass casualty events, including sometimes with many more mass casualties than even in Las Vegas."
+    },
+    {
+      "speaker": "KOPEL",
+      "utterance": "In general, Australia and the United States have both seen a long- term decline in their murder rates. Australia, at a time when it confiscated guns, and the United States, over the last quarter of a century when we added 80 million guns to the national gun supply."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK. What would you tell the average American who says, I want to go to events, I want my family to be safe, what can we do to stop mass casualty events with gun regulation, or is that simply impossible?"
+    },
+    {
+      "speaker": "KOPEL",
+      "utterance": "I think it depends on, from event to event. I think, in this case, the issue of bump stocks, which can -- it is allegedly seems to be true, make a semi-automatic firearm fire as fast as automatic, probably should be regulated at same level as a machine gun. You should have to go through that same federal process to purchase one."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK. All right. Thank you, David Kopel. Appreciate you being here."
+    },
+    {
+      "speaker": "KOPEL",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "When we come back, an unusual and public denial from Secretary of State Rex Tillerson this week as he seeks to dispel reports of bad blood with President Trump."
+    },
+    {
+      "speaker": "REX TILLERSON, SECRETARY OF STATE",
+      "utterance": "I'm not from this place, but the place I come from, we don't deal with that kind of petty nonsense."
+    },
+    {
+      "speaker": "TILLERSON",
+      "utterance": "My commitment to the success of our president and our country is as strong as it was the day I accepted his offer to serve as secretary of state. There has never been a consideration in my mind to leave. I serve at the appointment of the president and I am here as long as the president feels I can be useful to achieving his objectives."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "That was Secretary of State Rex Tillerson this week in an unusually public denial of a report saying he had been on the verge of resigning from his cabinet post over the summer. Tillerson also condemned, as petty nonsense, rumors that he called the president a moron in a Pentagon meeting. Wednesday's statement came just days after President Trump seemed to undercut Tillerson in a tweet, saying, that America's top diplomat, quote, \"is wasting his time trying to negotiate with \"Little Rocket Man,\" referring North Korean leader, Kim Jong-Un. Mr. Trump and Tillerson are also said to be at odds over the Iran nuclear deal, with the president will announce next week whether he will decertify the pact. Let's bring in Dan Henninger, Mary Anastasia O'Grady and Bill McGurn. So, Dan, this kind of thing, what does this tell us about the team? Is it dysfunctional?"
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "I don't know that it's dysfunctional. I would say it's a baseline. We under Donald Trump is a very unusual president in his conduct of foreign policy or anything else. That is not news. But all presidents wax and wane in enthusiasm for the secretary of state and the State Department. Nixon didn't care for it so much until he put Henry Kissinger over there. John Kerry rose because he was willing to execute President Obama's foreign policy on Iran, with Susan Rice calling shuts. Donald Trump, clearly, does not favor the State Department. He is running foreign policy out of the National Security Council and the Department of Defense. Rex Tillerson is something of an outsider. The problem is, because Trump has non-stop battle going on with the press, any distance perceived between Tillerson and Trump will be elevated and used as a wedge between him and Donald Trump's foreign policy."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK, but you have -- put this in the context of Trump and his Cabinet. He publicly attacked Jeff Sessions, Mary. Publicly fired Tom Price after humiliating him in public. Now, he is two or three times, at least, at least two, contradicted Tillerson publicly, most recently in the tweet on North Korea we talked about. Tough to work for a guy who does that."
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "Yes. I would say that they could kind of patch that up if they can fix the -- what you would call strategic communication, sort of get on the same page. But there's another problem that Tillerson has, which is that he came into the State Department with this idea that he would overhaul the place. So he has got these consultants going through and looking at what the problems are and so forth. Deputy Secretary John Sullivan last week went before the State -- the House Foreign Affairs Committee and said, we're almost done, which is, going to be a good thing. And, but in the meantime, secretary -- the secretary has not -- has left 22 vacancies in a assistant or deputy positions. And --"
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Those are key policy decision."
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "Exactly. And the problem is in their place are career foreign service officers, who tend to be bringing with them all the baggage of the former administration. So I think that's part of where the clash is coming with president."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "There are some policy disputes. We mentioned the Iran deal. We mentioned the North Korean exchange. But there's also Qatar versus the Saudis, and Trump was with the Saudis. Tillerson wanted to be a mediator. The climate deal where he disagreed with the president. There's major policy disputes."
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "Right. You have to get on board with your president. If you're outlining differences there, that is a problem for me. I say one thing, Trump obviously is very difficult man to work with. But if you called your president a moron at a meeting of, at the Pentagon, you're a moron. There are very few places where you can call your boss a moron and survive."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "\"Wall Street Journal\" being one."
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "Now I -- I actually feel a little more optimistic about state having read this \"Politico\" argument saying he is destroying the State Department. This was written by a staffer to Samantha Power. Maybe he is doing something good. Also, substance on the North Korean thing, I think Trump was actually right in the tweet. If it is good cop/bad cop --"
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "Look, if it's a good cop/bad cop thing, I'm not so sure that is bad. Tillerson goes through negotiations and Trump saying, well, we're not really sure. The problem is, the real problem there is we've been talking to the North Koreans for 25 years. We actually reach agreements with them and then they defy them. They're not going to -- they're not going to -- even if we reached a deal, there's no way they are going to obey it."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "You made the point that certain secretaries of state often been isolated and so on. But it really does mean that when Rex Tillerson goes out to Asia, as he did, to be the Sherpa for the president's trip in November, people don't know, can I, does he represent the president or not? That makes it a very hard thing for him to do his job."
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "Yes. I think that applies, to some extent, to the other individuals you mentioned, who have been criticized by the president, Jeff Sessions, Tom Price, who is no longer here. You end up in a situation the cabinet secretaries are no longer working out loyalty to the person and the presidency but to country or cause, and that matters. If Rex Tillerson still thinks he can contribute to the causes he is working for, he should stay. If he decides, at some point, he can no longer do that, he should step away."
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "One thing though. It should be the president's agenda. If he says, I will stay, I will undermine him getting out of Paris, I'm not with him on North Korea, I don't think you serve someone and undermine their goals."
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "But Rex Tillerson is a seasoned executive. He has to be very, very frustrated to say that is a president is a moron at a meeting. Shows the level of frustration for a lot of people in the cabinet."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "I should add, his spokeswoman said that he didn't say that."
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Just for the record, we don't know, of course, what really happened. Still ahead, as the Supreme Court kicks off what is shaping up to be a block-buster term, we'll look at cases and justices to watch."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "The Supreme Court returned to work this week, and from religious liberty to union dues to partisan gerrymandering, it is shaping up to be what Justice Ruth Bader Ginsburg has called a momentous term. Here with a look at the cases and the justices to watch is Ilya Shapiro. He's a senior fellow in constitutional studies at the Cato Institute and editor-in-chief of the \"Cato Supreme Court Review.\" Welcome. Good to have you here. ILYA SHAPIRO, SENIOR FELLOW IN CONSTITUTIONAL STUDIES, CATO INSTITUTE & EDITOR-IN-CHIEF, CATO SUPREME COURT REVIEW: Good to be on."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Do you agree with Justice Ginsburg this could be a blockbuster?"
+    },
+    {
+      "speaker": "SHAPIRO",
+      "utterance": "I think so, especially with last term, with Scalia's absence, with the eight-justice court. They just were not taking high-profile cases. And in this term already, I think we have five or six that are legitimate blockbusters."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK. Give us a couple here. I know the partisan gerrymandering case, which has oral arguments this week, that could remake American politics by getting the judiciary right in the middle of every electoral map in the states."
+    },
+    {
+      "speaker": "SHAPIRO",
+      "utterance": "Absolutely. You would have even more lawsuits about every district drawing after -- it's already a cottage industry for lawyers in Washington and elsewhere. This would be an election lawyer full-employment act. We would never see the end of it. We would have judges drawing districts all over the place, if they decided to uphold the challenge."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Of course, we had oral arguments. You follow that, I'm sure. How do you read where that will come out? Looks like Justice Anthony Kennedy is, once again, the swing vote?"
+    },
+    {
+      "speaker": "SHAPIRO",
+      "utterance": "Yes, not surprisingly. In this case, like the last couple of times that the court has taken up the issue, it's all on whether Justice Kennedy feels now is the time to constitutionalize some sort of a standard for evaluating when politicians use too much politics in drawing district lines."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Did you get any reading where he would come out from the oral?"
+    },
+    {
+      "speaker": "SHAPIRO",
+      "utterance": "I mean, no. You can guess, but unless you hear it from him directly, I wouldn't believe it."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK What about the big religious liberty case, which is the one coming up with the cake baker who declined, based on conscience, religious conscience, to bake a cake for a gay marriage? That is another big one where Kennedy is also a swing vote."
+    },
+    {
+      "speaker": "SHAPIRO",
+      "utterance": "Yes. This is called Masterpiece Cake Shop. And here, I think, Kennedy is again the swing. But it really brings attention to two things that he has become known for, what his legacy will be. He is a very strong supporter of the First Amendment, freedom of speech. He has also written all the court's opinions expanding gay rights over the years. Now I, the Cato Institute, we've been filing briefs in support of gay marriage. Now we're supporting the baker or others in private business who don't want to work with gay marriage. Because private businesses are different than the government. For us, it's easy to square that circle. We'll see how Kennedy does. And there's different ways you can slice this case, if you will, whether it's expressive kind of business, with a wedding vender that does a message of some kind, if you accept baking as that, versus non-expressive businesses, like limo drivers or caterers. There's making a contract for a specific type of cake versus willing to sell it off-the-shelf. This will be an explosive case."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Another one related to free speech is the so-called union fees case, where the court, which was close a couple years ago to ruling on this, and then Justice Scalia died. Now with nine justices, it has come back. This is a case where it is going to be -- concerns whether or not the government can compel somebody to pay union dues that goes for speech that they don't support."
+    },
+    {
+      "speaker": "SHAPIRO",
+      "utterance": "Well, the argument is, by the state, about half the states allow this, for unions to charge non-union members in the public sector with union dues, to support collective bargaining. They're called fair share fees. But the challengers here are municipal workers out of Chicago and Illinois. Two years ago, in that case, as you mentioned, that was out of California, same issue. They're saying, look, in the public sector, anything unions collectively bargain is a matter of public policy, is a matter of speech, because they're dealing with public financing, they're dealing with education priorities, whether to give tenure protections versus higher salaries, all these sorts of things, and we might not like what the union is supposedly doing in our favor. I think the court is poised to strike down these laws. I think they were two years ago. They will do the same thing now. That would really remove a lot of money from public-sector unions as they go about politicking. That would change American politics as well."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "This is the first term that Neil Gorsuch -- the first full term Neil Gorsuch will sit. Based on the few cases he was involved with last year, and what you know about him, how will he change the dynamics on the court?"
+    },
+    {
+      "speaker": "SHAPIRO",
+      "utterance": "Well, you don't really know how things go behind the scenes. Justice Byron White, for whom Gorsuch clerked, said that every new justice makes for a new court. I don't know if you will see very many difference in terms of voting patterns. I think Gorsuch is somewhere in between that Scalia and Thomas range, both on the substance and on various juris doctrines. I'm seeing some green shoots, I suppose, from his rulings when he was on the lower court, in terms of not being as deferential, even as Scalia, to government in administrative law, regulatory matters. In the cases that he he sat in, so far, there's just a month and a half at the end of last term, he voted together with Thomas on every single one. And he has been active in terms of questioning and in terms of writing concurrences and dissents. So he is certainly adding a strong voice. We thought maybe losing Scalia, there would be more time for the advocates to talk, but we haven't seen that. From where I sit, I'm very much looking forward to the constitutional seriousness that Gorsuch is bringing."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "It sounds to me like what we'll see, it will go back to the kind of court dynamics, at least in votes and ideology, we saw before Justice Scalia died. Briefly."
+    },
+    {
+      "speaker": "SHAPIRO",
+      "utterance": "Very much so. Including on criminal procedure cases where it is left and right against the middle. We've seen that this week in a couple of arguments where Gorsuch is joining the liberals in protecting constitutional protections for criminal defendants."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "All right, thank you, Ilya Shapiro. Appreciate it. When we come back, Supreme Court Justice Neil Gorsuch, just one of President Trump's judicial successes. We'll take a look at his efforts to remake lower courts when we come back."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "As Supreme Court Justice Neil Gorsuch begins his first full Supreme Court term, President Trump is rapidly working to remake the lower courts as well. The White House announced its eighth batch of judicial nominees last week with some notable picks on the appellate and district-court levels. We're back with Dan Henninger, Bill McGurn, and Wall Street Journal editorial board member, Allysia Finley. Allysia, this is story that is below the radar with everything going on in Washington and most people focusing on the Supreme Court, but Trump is rapidly remaking the lower courts, too."
+    },
+    {
+      "speaker": "ALLYSIA FINLEY, EDITORIAL BOARD MEMBER",
+      "utterance": "Right. He made 18 nominations to the federal appeals courts and 39 to the district courts. He made another four to the Fifth District."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Four on one circuit."
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "Four. Right. This is traditionally more conservative circuit. The reason why this is incredibly important is Obama really packed the courts when he was in office, especially D.C. circuit. What you're seeing is a lot of these judges are striking down some of Trump's rule makings already, or decisions to pause rules."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK. So what kind of judges is he nominating? Let's take those Fifth Circuit. You have Stuart Duncan, was one of them. He was from the Beckett Fund for Religious Liberty, and argued the Hobby Lobby case that said closely-held companies don't have to abide by Obamacare rules on abortion, for example?"
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "Right. And you have Don Willet, who a lot of people know from his witty Twitter feed. He had -- was on the Texas Supreme Court. As well as James Hogue, who was former solicitor general in Texas."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "These are generally really very solid, conservative judges. Some of them Originalists in their interpretation of the Constitution, in the mold of Gorsuch and Scalia."
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "Right. That is partly because he has used the Federalist Society as a clearinghouse. That allowed the expediting of the selections."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Federalist Society being a kind of -- it's a group of conservative judges, lawyers, not just judges, lawyers and so. And Trump has put them in a very prominent position, Dan, on vetting judicial nominees. DAN HENNINGER, COLUMNIST & DEPUTY EDITOR: Yes. I think it is had very positive effect. If there's any criticism we've heard it's that there could be more nominees that are from the Law and Economics School, which is applies economic rationality to the law. In the way that, say, the very famous judge, Richard Pozner, of the Seventh Circuit, just retired. Pozner was one of the godfathers of law and economics. Perhaps over time, we'll see more of that introduced in the nominees."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "And, I mean, I think, Bill, Trump promised this in the campaign."
+    },
+    {
+      "speaker": "BILL MCGURN, COLUMNIST",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "And delivered."
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "I think actually, the dare -- remember, he promised it in response to a Ted Cruz attack on what kind of judges he would -- it helped Trump because he is on the record saying these are the kind of judges I'm going to pick. It also -- look, in the Republican Party, judges are one thing people understand. It is very important --"
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "It's a unifying force in the party."
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "It's a unifying force. It is not only about, we want people to interpret the law and Constitution. For Democrats, the appellate courts and Supreme Courts, that is their legislature. That is where they like to go and ram through things they can't get through any democratic legislature in the states or at the federal level. So it is very important. They will come back to rule on things that Donald Trump does at president. But it is something we understand. When I was in the Bush White House, they understood the process and the kind of nominees. It is one area where Republicans really do have their act together. I just say one last thing. The Supreme Court has a busy docket, some really important cases. And I think at the end of the year, we're all going to owe Mitch McConnell a huge thank you for getting Neil Gorsuch on there instead of Merrick Garland."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "That something, interesting, Allysia, because I think Gorsuch - I mean, I think McConnell is doing his best to get all of these nominees through. The Democrats are throwing up every possible roadblock, taking every delay they can. But in the end, and I have talked to Republican Senators, they're saying every one of these people is going to get through."
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "Right. Just will take a little longer."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "Unfortunately, you can't to get them on. Especially, there is a concern that the Democrats could take the Senate in 2018. You want these on courts as quick as possible. Especially, because there are new cases pending."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Oral argument, Dan, gerrymander case. Do you have any tea leaf reading for Justice Kennedy goes because it's a big case?"
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "It's a big case. Which should understand that gerrymander is very difficult. Gerrymander started this in 1788 and when Patrick Henry tried to gerrymander James Madison."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "And Bill voted for it."
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "There are gerrymanders in Turkey and Sudan. If you have representative government, they come from districts, and the people in power will try to draw those districts in a way that favors them. The question is, is there any fair way to do that? I would guess Justice Kennedy -- the one solution de jure these days is to turn it over to non- partisan commissions in the states, as they have done in some states, Florida, California."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "You we can't do that as a matter of policy?"
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "He cannot do that as a matter of policy, but he could suggest they go in the direction, rather than, as plaintiffs are saying, judges should decide. Justice Roberts, Chief Justice Roberts was very clear about not wanting the judiciary to get involved in these really intense political fights over gerrymandering."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Where do you think it goes, Allysia?"
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "I think Justice Breyer teed this up to Kennedy, kind of setting out a test that he could potentially use. One of those, the standard in the tests, whether it was done by one party, which is kind of steering Kennedy, could potentially say, that a commission would not -- would not be subject to judicial review."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "All right. Still ahead, as President Trump visits hurricane-ravaged Puerto Rico, just what will it take for the island to recover? And are promises of debt relief realistic?"
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We're going to work something out. We have to look at the whole debt structure. They owe a lot of money to your friends on Wall Street. We'll have to wipe that out. That will have to be -- you can say good-bye to that. I don't know if it is Goldman Sachs, but whoever it is, you can wave good-bye to that."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "That was President Trump in San Juan Tuesday telling FOX's Geraldo Rivera that the U.S. might have to wipe out Puerto Rico's debt in order to help the island recover from a direct hit by the Hurricane Maria. The U.S. territory, which already owes creditors more than $70 billion, suffered tens of billions of dollars more in damage when the category 4 storm came ashore on September 20th. We're back with Dan Henninger, Mary Anastasia O'Grady, and Allysia Finely. Mary, so Donald Trump says whip out those debts. Does he even have the authority to do that?"
+    },
+    {
+      "speaker": "MARY ANASTASIA O'GRADY, COLUMNIST",
+      "utterance": "Donald Trump did not have access to teleprompter in Puerto Rico. So, therefore, our populist president was speaking off the top of his head. He does not have the authority to do that. Nor would it be good, even though it sounds good to people on the island. Nor would it be good for Puerto Rico, because Puerto Rico will need capital to rebuild and need access to the private markets, and it will not do that if it defaults and wipes away all of the debt. Plus, keep in mind, about 75 percent of that debt is held by moms and pops on the mainland, who are -- who own Puerto Rican debt through mutual funds, and they're pensioners."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "It is not Wall Street."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK. Fair enough. The -- the debt load, though, is severe. Will there be haircuts here for some of these lenders?"
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "Oh, sure. I mean, they're already getting hair-cutted through this thing called Permasso (ph), which is a Washington idea to basically come in with a financial oversight board and tell the two parties you need to negotiate. If you can't negotiate, then you're going to get haircut by a judge. They didn't negotiate. So, they are going to get that haircut."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Allysia, what about, what else condition Donald Trump actually do to help Puerto Rico here?"
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "Well I think, just sending them with FEMA, obviously, plays a role, in helping rebuild the electric grid. You have the U.S. Army Corps, and that will need, require funding, and the entire island is without power. And waiving the Jones Act. That's going to be more than 10 days, because the Jones Act requires any shipments made from the U.S., to another U.S. island or territory, be made or carried in a U.S. ship."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Right. U.S. flagged."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "There's only about 99 of those ships that are available, and, and he waived it for 10 days, only 10 days. And that expires I think on Sunday. Why -- you're saying waive it for another year?"
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "Yes. Supplies to rebuild. And then for energy. I mean, they want to convert their power plants to liquified natural gas. will it take for the island to recover? And are promises of debt relief realistic Right now, they use oil."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Much more expensive."
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "Much more expensive."
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "But because he is destroying the private-sector markets, the taxpayers will be on the hook for all of that. Another thing is, a lot of people are talking about the Jones Act, but another thing Puerto Rico could really use in terms of relief, some kind of exemption from U.S. minimum wage. Because the per capita GDP on the island is like $28,000 a year. They should not be subject to the higher minimum wage rates on the mainland. That is a big deterrent for rebuilding."
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "On Mary's point, the labor participation rate is 40 percent. They have terribly rigid labor laws."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Compared to 60s in the United States."
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "Exactly. I think relieving them of minimum wage requirement would be just the beginning. This country has to be turned virtually another Ireland, which threw over the tax rates, allowed the private economy to grow. And they --"
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "And they could use a lot of help in terms of devising a tax system that is both low and fair and simple but also that works where they can actually collect taxes because there's a huge black market on the island, an underground economy."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "There's real danger here, Allysia, of a brain drain."
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "That young people on the island, in particular, if they see that this is going to be an ordeal for several years, they're going to Florida, they're going to Georgia, they're going to New York."
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "You're already seeing that. You're already seeing that. Right now, they're projecting maybe up to a million people may leave the island."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Of 3.4 million."
+    },
+    {
+      "speaker": "FINLEY",
+      "utterance": "And 100,000 could -- are already being expected just in the Orlando, Tampa area. And so the word is that the people who are going to remain on the island will be more older, sicker people, who will require more help. Nobody will be there to take care of them."
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "That's kind of, you know the pessimistic view. The optimistic view is, people buy distressed debt. The Phoenix rises out of the ashes. Let's make Puerto Rico a place to attracts new fresh capital. People say, look, there's opportunity. I will go there."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "OK, thank you all. We have to take one more break. When we come back, \"Hits & Misses\" of the week."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Time now for our \"Hits & Misses\" of the week. Bill, first to you."
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "Paul, a miss to William and Mary College. We are all familiar with the suppression of conservative voices on campus but, recently, a woman from the ACLU was shut down when she tried to speak by a group affiliated with Black Lives Matters, which planned and livestreamed the event. Next it was followed by a mealy-mouthed statement from the president, which said nothing about bringing people to justice. The left is eating itself."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "The president of William and Mary?"
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "Right. The left is eating its own. The First Amendment is suffering. And our university leaders are too craven to do anything about it."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Mary?"
+    },
+    {
+      "speaker": "O'GRADY",
+      "utterance": "Paul, a hit for the State Department, which this week asked 15 Cuban diplomats, A/K/Aa, spies, to leave Washington, leave the embassy in Washington. This was in response to 22 Americans at the U.S. embassy in Havana getting sick with a mysterious disease that ranges from brain trauma to hearing loss. The Cubans have not been able to tell us why or how our diplomats were harmed. And the State Department says, you know what, we had to withdraw these people. We want to get the numbers the same, so they kicked out the 15."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "Dan?"
+    },
+    {
+      "speaker": "HENNINGER",
+      "utterance": "All right, Paul, I'm going to give a hit to King Felipe, of Spain, for his statement this week severely criticizing the leadership in Catalonia for dividing the nation. This is Spain's biggest crisis in decades. And it's a democratic country. It has been emerging successfully from the depths of the 2008 recession. And King Felipe's statement was an example of strong leadership saying something that's not popular but necessary."
+    },
+    {
+      "speaker": "GIGOT",
+      "utterance": "All right. That's it for this week's show. Thanks to my panel. And thanks to all of you for watching. I'm Paul Gigot. Hope to see all of you right here next week. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

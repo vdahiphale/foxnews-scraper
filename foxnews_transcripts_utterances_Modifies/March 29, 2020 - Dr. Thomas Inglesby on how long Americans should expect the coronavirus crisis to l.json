@@ -1,0 +1,1093 @@
+{
+  "date": "March 29, 2020",
+  "headline": "Dr. Thomas Inglesby on how long Americans should expect the coronavirus crisis to last",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/dr-thomas-inglesby-on-how-long-americans-should-expect-the-coronavirus-crisis-to-last",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "sentences": "I'm Chris Wallace. Striking the balance between fighting the coronavirus and the president's calls to protect the economy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "I would love to have the country opened up and they're just raring to go by Easter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Trump's ambitious timeline for reopening the country putting him on a collision course with some governors, business leaders and public health officials, and signing a record $2 trillion relief package to shore up the U.S. economy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "This will deliver urgently needed relief to our nation's families, workers and businesses.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll ask Treasury Secretary Steven Mnuchin about the dual threats to the nation's economic and physical health. Then, as cases in the United States surge to the most in the world, are we anywhere near the end?  We're joined by Dr. Tom Inglesby, director of the Johns Hopkins Center for Health Security.   And --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. LARRY HOGAN (R), MARYLAND",
+      "sentences": "You can't put a timeline on saving people's lives.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll sit down with Maryland Governor Larry Hogan, one of the state leaders on the frontlines.   Plus, our Sunday panel on the response so far from the president and Congress. And our \"Power Player of the Week\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOEL OSTEEN, PASTOR",
+      "sentences": "Yes, there's uncertainty.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Pastor Joel Osteen with a message of hope in these uncertain times.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OSTEEN",
+      "sentences": "We don't know what the future holds but we do know who holds the future.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All, right now, on \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And hello again from FOX News in Washington.  The U.S. is now the epicenter of the global coronavirus outbreak with more than 121,000 confirmed cases and 2,000 deaths and the nation's health care system struggling to keep up.  Here are the latest developments: The CDC now urging residents of New York, New Jersey, and Connecticut to avoid nonessential travel for 14 days after President Trump backed off talk of imposing a quarantine. But his 15 days to slow the spread initiative is slated to end tomorrow and the president has discussed getting Americans back to work in some areas by Easter, despite push-backs from governors and public health officials. In a moment, we'll speak with Treasury Secretary Steven Mnuchin.  But first, let's bring in Mark Meredith reporting from the White House on the struggles facing people on the front lines -- Mark.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARK MEREDITH, FOX NEWS CORRESPONDENT",
+      "sentences": "Chris, good morning. The president first raised the idea of this potential quarantine for the Northeast on Saturday. Instead, the CDC has issued the travel advisory for the tri-state area, urging people to avoid nonessential travel. Meanwhile, cities nationwide, they are bracing for the worst as millions of Americans also wonder what the outbreak will mean for their wallets, too.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "New York's hospitals are struggling to keep up as the number of patients infected with COVID-19 grows by the hour.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I need eyewear and I need face masks, I need as many as you can get.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "At this hospital in Queens, some people are stuck waiting hours to be tested or treated.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DANIEL DROOM (D), NEW YORK CITY COUNCIL",
+      "sentences": "Elmhurst Hospital has hit capacity, and there's about 545 beds in here and they're all filled with COVID patients.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "The Navy's hospital ship, the USNS Comfort, departed Norfolk Saturday bound for New York. Its mission, relieve the city's doctors of other medical duties.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Beds will be opened, up all over the city for those who are infected.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "Beds aside, New York's governor says his state needs at least 30,000 ventilators. But other governors stress they have needs, too.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. JOHN BEL EDWARDS (D), LOUISIANA",
+      "sentences": "There simply are not enough health care resources to care for all those who will need care if we continue to develop cases at our current pace.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "Louisiana's leaders fear their state is about to see a major surge that's led some to ask if the recent Mardi Gras celebration in New Orleans sped up the spread of the virus throughout the South.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "Meantime, the president on Friday signed a $2 trillion stimulus bill aimed to help individuals and industries now struggling to survive, but millions of Americans are still out of work right now, and many are wondering how long this may last -- Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Mark Meredith reporting from the White House -- Mark, thanks for that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "As the debate intensifies about how long to continue to coronavirus lockdown in this country, we want to bring in one of the nation's top experts on infectious disease epidemics. Joining us from Baltimore, Dr. Thomas Inglesby, director of the Center for Health Security at Johns Hopkins University.   Doctor let's start with the astonishing spread of this virus. One week ago we had 25,000 cases and 307 deaths but as of Saturday we had 121,000 cases and 2,000 deaths. What does that tell you about the nature of this virus? And where are we in its course, it's spread, here in the United States?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. THOMAS INGLESBY, DIRECTOR OF THE CENTER FOR HEALTH SECURITY AT JOHNS HOPKINS UNIVERSITY",
+      "sentences": "Well it tells us that this virus is able to spread pretty efficiently and quickly. We've seen that around the world in the last few months and we should expect that to keep happening in the United States. I think unfortunately we are still at the very beginning of this outbreak and we should expect that to continue for some time and really focus on social distancing as one of our main interventions of trying to slow it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to pick up on that because I want to ask you about President Trump's evolving policy on how to handle the virus. As you know his initial 15 days to stop the spread of the virus guidelines run out tomorrow, the 15 days end tomorrow. And he is now talking about the possibility in certain, what he calls low risk, parts of the country where there's a low incidence of the virus re-opening those areas by Easter. Here he is this week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "sentences": "There are a lot (ph) of sections of our country probably can go back much sooner than other sections.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Will that work? And what about the president's discussing the idea that you could have some areas of the country where you could begin to open in two weeks?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGLESBY",
+      "sentences": "Yes, at this point we're seeing numbers go up around the country pretty consistently. There isn't really any place in the country where we've seen numbers go down. And we wouldn't expect to have had enough time for social distancing to change the numbers so I don't think we have had nearly enough time for these measures to take full effect. I do think in the future it's possible that parts of the country, once they get control of this virus, that maybe states or regions could begin to relax social distancing measures a little sooner than other parts of the country. But as long as the numbers continue to go up as they are around the country I think we really need to hold steady with the social distancing until we have a number of different conditions in place.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But -- I want to put up a map because if you look at the situation there are broad parts of the country, well you can see in the Northeast, in the New York general areas, some cities -- big cities in the Midwest and on the West Coast, where there are serious hot spots and then there are broad areas where there are very few cases. So why can't we, as the president is suggesting, treat different parts of the country where the virus is at a very different state, treat those different parts of the country differently?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGLESBY",
+      "sentences": "Well I think the first reason is that I don't really have confidence -- I don't think many in public health have confidence that we really know where all the cases are. We've begun to do much more diagnostic testing around the country, especially in places where there is a lot of illness, but in some parts of the country we don't have enough coverage of diagnostic testing. We're seeing what we see but there could be twice as many, three times as many, four times as many cases in a particular area of the country that aren't yet recognized.  So we need to get to a point in the country where we have such extensive diagnostic testing that we can test people who have mild symptoms. Right now many -- in many places in the country if you have mild symptoms you can't get a test. But those people can spread the disease just as well as the people who are sick in the hospital. So we need to get to a point where we have -- go ahead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "No, I got -- I didn't mean to interrupt. But the president talks about in these certain areas of the country that people could actually go back to work, go back to offices, as long as they practice the guidelines for these last 15 days in the office social distancing, in the office good hygiene, washing your hands a lot. Take a look at what the president said.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We can socially distance ourselves and go to work and you'll have to work a little bit harder. You can clean your hands five times more than you used to.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Dr. Inglesby, will that work?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGLESBY",
+      "sentences": "I don't think so. I think if we -- we've seen in Italy, for example, which is a number of weeks ahead of the United States in terms of it's epidemic, that even with very serious, very aggressive social distancing measures where people have been kept at home, schools have been closed, everyone is recommended not to leave their homes, that this disease has continued to spread and is causing national crisis. So at this point, I think, what we need to do is really stick with what other countries that have had more success have done, which is -- they've largely been in Asia, Singapore, Hong Kong, South Korea, China, Taiwan. They have put in place social distancing measures until they've gotten control of the epidemic convincingly and at that point begun to try experiments with loosening it. And I do think we will get to that point.  Obviously we need to as a country get to a point where people can go back to work. But if we go back to work too quickly this epidemic is going to spread widely and aggressively and we won't have a normal economy in that case anyway. So I really do think that while this epidemic continues to be on the rise in many places in the country and we don't know enough about diagnostics in many other parts of the country, we really should hold the course.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So if Easter, as the president has suggested, is too soon to begin to loosen the reigns in the quote low risk areas, when would you say -- this is the kind of question reporters ask and I'm sure epidemiologists like you hate. Two questions. One, what is the earliest that you think that we could begin to loosen the reigns in some of the less affected areas? And then the question I'm sure you're getting over and over, how long is this going to last before we really go back to normal?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGLESBY",
+      "sentences": "So I think dates are hard to predict because everyday the numbers continue to go up in many parts of the country. I think we should really have this more like a conditions based decision so when we see a state or a region have numbers that go down over time and when we have diagnostics in place and when we have masks available for all of our doctors and nurses who are putting their lives at risk to take care of sick patients and hospitals are well prepared and when we can get our public health systems in place to start tracing -- or identifying individuals and tracing their contracts, again like they do in Asia, I think those five major conditions then I think it's a time to begin to think about how we might experiment with lightening social distancing perhaps one step at a time. It's not clear to me when that's going to happen. I think we'll have to see where we are in two more weeks. In other countries where they've put social distancing measures in place aggressively it's taken about four weeks for those measures to begin to have an effect. But at that point I think we could begin to look for the conditions that might make it safe to begin to lowering our social distancing, but not until then.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Dr. Inglesby, thank you. Thanks for providing your expert --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGLESBY",
+      "sentences": "Thanks for having me on, Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "-- analysis, and please come back sir. Up next, increasing cooperation and some tension between the president and the nation's governors who are on the front lines of fighting the coronavirus. We'll talk with Maryland's Larry Hogan, head of the National Governors Association. That's next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Coming up, President Trump's timeline to reopen the country puts him at odds with some governors.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOGAN",
+      "sentences": "We simply don't yet know how bad it's going to get or how long it's going to last.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll ask Maryland Governor Larry Hogan how he feels about relaxing the restrictions, next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "The coronavirus pandemic is putting the nation's governors in the spotlight and setting some in the hardest hit states at odds with the White House. In Maryland, there are now a thousand confirmed cases, an increase of more than just 250 yesterday, including 66 residents of a nursing home and 10 people have died in Maryland. Joining us now, that state's governor, Larry Hogan, who's also chair of the National Governors Association. Governor, Maryland was one of the first states to shut down all the schools, then all the restaurants, then all non-essential businesses. And you just extended school closures for another four weeks until April 24th. If the president and his task force start saying this week that certain low risk areas of the country, including some perhaps in Maryland, can reopen, do you follow that guidance or do you just ignore it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. LARRY HOGAN (R-MD)",
+      "sentences": "Look, I think the virus is going to dictate the timeframe and it -- we're going to follow the advice of the scientists and doctor like Dr. Inglesby (ph), who you just had on a moment ago. He's on our task force. But, no, we don't see any way that we're going to be opening back up in a couple of weeks. The Washington metropolitan area has Maryland, D.C., and Virginia quadrupled in the past week and we see that continuing to grow exponentially. And we think in two weeks, around Easter, we're going to be looking a lot more like New York.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So you think two weeks from now it's going to be getting worse in Maryland, not better?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOGAN",
+      "sentences": "There's no question about that. I mean in spite of the fact that we've taken some of the most aggressive steps in the country on social distancing and we were out front ahead of nearly every state on some of these things, we've been taking unprecedented actions every day for the past three weeks. It's continuing to grow at really kind of frightening paces. And we think it's going to be worse in two weeks, not better.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Do you worry that this talk -- and it got a little tempered as the week went on -- about reopening, about we don't want the cure to be worse than the problem, it may be giving some people, not just in Maryland but around the country a false sense of confidence that, you know, maybe I don't have to do all the social distancing and I don't have to do all of those precautions?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOGAN",
+      "sentences": "It is -- the messaging isn't helpful because as we're -- as the governor's out there on the front lines, they're trying to get people to stay in their homes for everything but very essential things like going out to get food or prescriptions or things that are basic needs for their -- you know, for them to survive and then we've got messaging coming out saying that things are OK and -- and, you know, you shouldn't -- you should get back to normal. It does conflict and it hurts with the messaging. But, look, I think the president's just trying to be hopeful, which is good. We want -- we don't want people to be scared. But we do want them to take it seriously and we want, you know, the facts to be out there. So we're going to follow the doctors and the scientists. I think most governors are going to do what they think is right in their own states to - - to save lives.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We have been hearing a lot about a shortage of ventilators, a shortage of personal protective equipment for health care workers, especially in New York City and state.  How are you doing in Maryland, and are you getting all the help you would like from the federal government?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOGAN",
+      "sentences": "well, you know, we -- the federal government has done a great job of communicating with us. We've had five calls with all of the governors, with the president and -- and/or vice president and many of the top leaders. We've -- we had a request for about ten different things, most of which they've tried to address. But the big pinch point that everybody is dealing with, both at the federal and all the states, is this lack of -- of the equipment that we need. It's a lack of tests, a lack of ventilators, a lack of masks and swabs and protective equipment. You know, this is -- this is a serious issue across the country that we're all grappling with. And so while they've made efforts in FEMA is now in charge, it's not enough.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You, as we've said, are not only the governor of Maryland, you're also the head of the National Governors Association. And some of your Democratic governors have been complaining and getting into some verbal spats with the president. He was asked about that this week. Here he is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "QUESTION",
+      "sentences": "What more specifically do you want the governor of Washington, the governor of Michigan, --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "All I want them to do, very simple, I want them to be appreciative. I don't want them to say things that aren't true. I want them to be appreciative.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Governor Hogan, does President Trump have a point?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOGAN",
+      "sentences": "Well, look, I do appreciate the efforts. I said a minute ago that of the -- of the ten things that we've been asking for, you know, they have tried to address about eight of them and some -- you know, half of them are already done. So we do appreciate the efforts of the federal government and I hate to just point fingers and talk about what hasn't been done or what didn't get done. We -- we -- we're all in this together and it's going to take the federal, state and locals working together to save lives. But there's also frustration out there, just that -- that we're all in the situation we're in and that the federal government is unable to -- to -- to solve some of these issues and neither -- you know, the states are -- are not -- also not able to. So there's frustration out there, but I think we should do less arguing, more working together.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Maryland just released information that seems to go against, I think, some of the prevailing narratives. One of them is that half your cases are people under 50 and that you have as many cases of infection of - - of people in their 20s as you do of people in their 60s. And you just postponed your state election primary from April until June. So -- so where -- what are you learning about the nature and spread and duration of this virus in your state of Maryland?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOGAN",
+      "sentences": "Well, Chris, the more -- the more data we gather from the smart folks like Dr. Inglesby at Johns Hopkins and the University of Maryland and all of our -- all of our smart folks that are collecting all the new cases, we're finding out that it's not -- it's not exactly the way it's been described for the past few months. And the more data we get, the more the numbers change.  We have people in their 20s, 30s and 40s. The -- the biggest category is people in their 40s. But we've got young -- younger people. We have cases of four months old, ten months old. And 56 percent of all the people that have been hospitalized in Maryland are -- are under 60. They're not just folks from nursing homes that are in their 70s and 80s. So as we -- as we move on, I mean this -- this virus, some of the information, because we haven't done enough testing, we don't -- you know, we're getting new and conflicting data and we're just trying to understand exactly what's happening. But I've been warning people that -- younger people that felt they were bulletproof and that weren't listening to directives that you're endangering yourselves and your -- and your family and friends by not following these -- these orders to -- to stop, you know, going out and -- and -- and being in groups. It's why we've been so tough and trying to get people to stay at home.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Governor Hogan, thank you. Thanks for joining this weekend in the midst of your fight against the virus, and good luck, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOGAN",
+      "sentences": "Thank you, Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Up next, we will bring in our Sunday group to discuss efforts to balance addressing both the public health and economic crisis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "America will again and soon be open for business. Very soon. A lot sooner than three or four months that somebody was suggesting.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES",
+      "sentences": "I think people might get the misinterpretation, you're just going to lift everything up. And even somebody's going like that, your -- I mean that -- that's not going to happen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Trump hoping to lift restrictions on parts of the country by Easter, while Dr. Anthony Fauci, a key member of his task force, urges caution. And it's time now for a Sunday group. \"Washington Post\" columnist Marc Thiessen, Fox News political analyst Juan Williams, and posterior Kristen Soltis Anderson, who's a Fox News contributor.  Marc, you wrote a column on Friday in which you said this continuing lockdown is unsustainable. So when the president talks about the possibility in the less affected areas where you're not seeing -- like the hot spots, you're seeing very few cases, relatively speaking. When he says that you might conceivably be able to reopen some of them by Easter, do you agree with him?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARC THIESSEN, FOX NEWS CONTRIBUTOR",
+      "sentences": "No. I think Easter is too optimistic. But I think the president is absolutely right that we need to see a light at the end of the tunnel and that we need to have a sustainable strategy to defeat the virus because right now what we're doing is unsustainable. We just had 3.28 million Americans apply for unemployment benefits last -- last week. That's a record. We are talking, as you mentioned earlier, between 25 and even some estimates 30 percent reduction in GDP. That can't go on forever. At the start of an epidemic -- a pandemic like this you accept very high economic costs because we don't know what we're dealing with. We're flying blind. But, over time, as we get -- as we -- as the medical professionals get a handle on this and we start to contain the virus and we have to start transitioning. Dr. Scott Gottlieb, who is my colleague at the American Enterprise Institute, former FDA commissioner, has released this morning a road map towards reopening. And what he's saying is that April's going to be a very tough month because we're going to see -- continue to see a spike. But if we keep the mitigation efforts in place, by May we should be able to start opening on a state-by-state basis. And the way you decide state-by-state how you do it is, has there been a sustained reduction in cases for 14 days? In states where you're seeing that happen and they have the medical capability to take care of the -- the hospital capability to take care of people, they can test people, then you can start lifting the restrictions in those states. So it might be some states that happens sooner and other places like New York where it's been hardest hit, the hot spots, it's going to take longer to get there, but we have to start moving in that direction.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Juan, Marc points out in his column that some countries, like South Korea, have been able to contain the virus without locking down most of their population for months. What are your thoughts about loosening the reins, how soon we do it, how do we decide whether and when to do it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS POLITICAL ANALYST",
+      "sentences": "Well, I just want to, I guess, you know, refrain what Dr. Inglesby said to you earlier, Chris, which is that the virus does not respect county lines or state lines. Alabama, for example, has had a very low register so far in terms of the virus, but now they're spiking. And what you heard from Dr. Inglesby is, we're short on testing in lots of areas of the country.  You look at a place like South Korea, they did much in terms of limiting this, but they had a tremendous advantage in terms of being prepared with the testing and with the medical supplies. And so they employed social distancing on top of that preparation. Even at this point, I think it's the case -- they're a country that's about 50 million, we're six times bigger, 300 plus million. And what you see is that they're -- they have tested, in terms of one of every 150 people in their population, but we, here in the U.S., it's still about one in every 900. That's a huge differential and it gives you an indication of how someone -- another country handle it versus what we've done. The other element here is, you know, the kind of talk that we've heard. Obviously the president has tried to be very positive, uplifting. But when you talk about, you know, this is going to disappear like a miracle or we've got it under control, it led a lot of people to have a perspective that said, maybe this is being overhyped, maybe there's alarmism here and not take the proper precautions. I think we're still in that fight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Kristen, that brings me to what I wanted to talk to you about. Where is public opinion at this point? How are people balancing the public health threat here versus the economic threat? And how inpatient are they getting with the current guidelines, the -- the staying in place, closed schools, businesses shut down? Are -- are people still think that's the right thing to do or are you beginning to see a little bit of restlessness about that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KRISTEN SOLTIS ANDERSON, FOX NEWS CONTRIBUTOR",
+      "sentences": "By and large the public opinion data we've got says that people are making big sacrifices, both economically in terms of making changes to their own personal lives, but that they, at the moment, are believing that though sacrifices are justified. We have medical professionals on the frontlines of this who need folks who are not medical professionals to follow these guidelines and to stay home and to make these sacrifices. And these sacrifices will all be for not if the economy is reopened too early, if the virus then suddenly surges. If we go through the next couple of weeks of incredible pain, and as we've seen in Fox News' own polling data you've got over -- over 80 percent of Americans say that they are making big changes to their daily lives. They're doing things like washing their hands more. They're not going out of public as much. But you've also got, you know, small business owners who don't know if they're going to be able to open their small business when this is all done. You've got parents who are suddenly in a position where they have to homeschool their children. Something that they were not equipped or prepared for. That was not how they were planning to spend their April. You've got kids who are going to miss their graduations and enter an economy where -- where are they going to get a job? Who is hiring right now?  But all of these sacrifices will be for not if the economy is reopened too early, if people are told, go out of your homes and this virus then spikes again. And I think that's when you begin to see things like what the president is enjoying right now, which is a relatively good job approval rating that has increased very slightly over the course of this crisis. You still have Americans who are apprehensive about the way this is handled at first. About 53 percent in Fox's polling say that they felt this was not taken seriously enough at the beginning. We didn't do enough at the start. They're giving good marks to what we're doing now. And I think that needs to, therefore, continue. If it's released to early, you could definitely wind up in a situation where people are really frustrated that they made all of these sacrifices, and it feels like it was for nothing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Marc, we had an interesting narrative this week at the White House because Monday, and we played some clips from it, President Trump came out and basically said, we got to reopen this country. The country can't stay shut and we can't have a cure that's worse than the problem. And as the week went on, you could see him begin to soften that as you got more of a pushback from the public health experts saying, well, that's aspirational and it's good to provide hope. But the numbers, and particularly the testing, to find out really what is the incidence of this virus, may not be there. Your sense, as somebody who reports on it and talks to people in this administration, how much of a struggle is there between the political and the economic advisors on the one hand, who may be wanting to put the pedal on the gas a little bit more, and public health experts who may be saying, not so fast?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THIESSEN",
+      "sentences": "I don't -- I think that tension is a little bit overblown. I think what the president is trying to do is provide a light at the end of the tunnel for the American people. When he sets a target date of Easter, he was -- even the very same day that he did it, he said that, you know, we're going to follow the data and we're going to -- and the advice of health experts. So I think he's trying to provide a light at the end of the tunnel. I think that's what's so important about what Dr. Gottlieb has done is because he's laid out a road map. So we're -- right now we're in phase one, where we're in the lockdown and we're doing population-based mitigation efforts, in part because we didn't have testing capability and there's a whole story behind that, whereas, as you pointed out in South Korea, they were able to test very quickly. But we want to transition to phase two over time where we can go state-by- state and start lifting some of these restrictions, with still people, you know, social distancing, teleworking when they can, washing their hands more, and do that in areas of the country where you can. And then phase three will be when we can lift all the restrictions, and that's when there's a therapeutic. That's when the doctors have a -- and, even better, a vaccine where you can treat it. But people need to see that road map. People need to understand that we're not going to be in this lockdown forever. That this is -- we bought ourselves some time with the emergency bill, which is great, but at a cost of $2 trillion, tripling the deficit. You know, we can't keep going back to the well. We have to come up with a strategy that is a long-term, sustainable strategy to deal with this -- with this pandemic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But, Juan, and I've only got 30 seconds for you here, in terms of that road map, we don't know. I mean the virus has a mind of its own. So when we talk about phase two by May, that may hold, it may not hold.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "We don't know! Chris, we don't know. I think, just initially, you know, I think the president should retract that Easter deadline. Just make it clear to everyone, that's not realistic. If you're only listening to the experts when it suits you, you're not really listening to the experts or the facts on the ground. And what we've heard from Dr. Fauci, Dr. -- everybody, Dr. Inglesby this morning on your show, is that you have to be responsive to the realities. You have to look for that curve to start to come down hopefully for 14 days before you would even have that discussion.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Thank you, Juan. Thank you, panel. See you all next Sunday. Up next, we're going to visit with Pastor Joel Osteen and discussed his thoughts on how to get through these tough times.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Churches across the country will be empty again today as clergy live stream services for their socially-distanced congregations. Pastor Joel Osteen leads one of the largest mega-churches in the country and last Sunday he preached to thousands of empty seats, but four and a half million people watched online.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PASTOR JOEL OSTEEN",
+      "sentences": "You're not close to your miracle only when everything is calm and peaceful. Sometimes it's the opposite, when it's chaotic, when you're tempted to panic, live afraid. That means your miracle is on the way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And Pastor Joel joins us now from his Lakewood Church in Houston. Pastor, there's an awful lot for people to be worried about right now. Their physical health, their economic security. So what's your advice as to how to deal with these tough times?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PASTOR JOEL OSTEEN, LAKEWOOD CHURCH SENIOR PASTOR",
+      "sentences": "You know, Chris, there is a lot of negativity and reason to worry and be afraid, but I think that's when we have to make that choice to live from a place of peace and not a place of fear. You know, you take it one day at a time. You know, it's just as energy -- I've learned, it's just as easy to worry as it is to believe. That God, you've got me in the palm your hand. You've got us through in the past and you'll get us through again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We talked a couple of years ago, and it's funny because you mentioned the negative conversation that we all have going on in our minds all the time. Am I good enough? Can I handle this? And you say that the way to -- to break through that negative conversation right now is to seek peace, and that peace is a place of power. Explain that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OSTEEN",
+      "sentences": "Yes, it really is, Chris, because, you know, when you -- when you live worried, when you live negative and just, you know, thinking about all that could happen, all that could go wrong, we're drawn into negative. Our life follows our thoughts. And I'm not saying it's easy and I'm not saying to deny the facts, but I believe there's a -- there's a -- when you live from that place of peace, a grateful place, you draw in peace, you draw in your faith. And that's what helps you get through these tough times. Not that, you know, we're denying it all, but you can just choose to live from that place of peace. And that's what gives you the strength and the power to make it through.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You say, and you just mentioned it here, find something to be grateful for. But when you're worried about your health, maybe you've got a relative who's got the virus, when you're worried about your 401(k), you see those numbers ticking down all the time, what do you find to be grateful for?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OSTEEN",
+      "sentences": "Well, Chris, you've got to find something. And I believe we all have some reason. Maybe we do have our health. Well, you know what, we can thank God for what we have. Or we have a place to live. Or we're in a great country. I just think you have to make that shift that, hey, this is another day that God's given me. It's a gift. I can choose to live it negative, bitter, discouraged, or I can say I'm going to make the most of this day. Maybe I'm going to spend a little more time with my family or I'm going to be, you know, maybe it helps me get things more in perspective. I'm going to find something maybe I wouldn't normally be grateful for, just the fact that I'm alive and healthy or, you know, something like that, just to start the day off in faith.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Everyone, Pastor Joel, is asking, and I asked Dr. Inglesby that -- this question, how long will this virus last. Can I hang on for another two weeks? Might I have to hang on for another two months because we really don't know how long this is going to go on, this isolation, this lockdown? You say don't be thinking two weeks ahead, don't be thinking two months ahead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OSTEEN",
+      "sentences": "I think that's right, Chris, because it is. That can get us all frustrated and worried and depressed and can we make it. But God gives you grace for every day. His mercy is new every morning. So we don't have grace for tomorrow. So if we're thinking about tomorrow or can I do this a month or six months, it is going to discourage us. But I think you have to get up and say, can I make it through this day with a good attitude, with a smile, being good to somebody else? And you can because you have the grace for this day. So don't go way out into the future, well, what if I don't have the money, what if my relatives get sick? Why don't you stay in today, be grateful for today. When you get to tomorrow, you're going to have grace for that day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You say that -- that one way to deal with the isolation, the fact that we can't hug our family, we can't sit down and have dinner with our friends, is to help someone else. Now, I know that you have a blood drive at your Lakewood Church in Houston, but what can one person sitting at home and not even able to get out of their home necessarily, what can they do to help other people right now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OSTEEN",
+      "sentences": "Yes, it's more difficult now, Chris, but maybe, you know, simple things, picking up the phone and calling a friend and encouraging them, letting the people in your life you love know that you love them. I believe it's just -- it's -- it's the way we were made to be when we help somebody else get better, God helps us get better. If we'll make their day, God will make our day. And it's easy to live ingrown, hey, I've got my problems, I've got this virus, I've got -- worried about my future. But if you'll get outside of yourself and go be a blessing or at least by your voice, by phone, right, somebody send somebody a text, well, that's a seed your sewing that God can bless you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Pastor Joel, thank you. Thanks for sharing your wisdom with us at a time when we all need some. And I'm sure you never thought you were going to be in a situation where you were going to be preaching to an absolutely empty church. The probably is your nightmare, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OSTEEN",
+      "sentences": "Yes, it was very unusual to not have any response. And I just had to kind of tune out the empty seats. But we are blessed to have the technology and, you know, see so many turning to their faith.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Pastor, thanks so much. Now this program note. Tune in tonight for a one-hour special you can see on this Fox station or any Fox platform as Fox presents the \"iHeart Living Room Concert for America\" hosted by Elton John. Musicians like Alicia Keys and Tim McGraw and -- 9:00 p.m. tonight. That's it for today. Have a great week and we'll see you right back here next FOX NEWS SUNDAY. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "utterance": "I'm Chris Wallace. Striking the balance between fighting the coronavirus and the president's calls to protect the economy."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "I would love to have the country opened up and they're just raring to go by Easter."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Trump's ambitious timeline for reopening the country putting him on a collision course with some governors, business leaders and public health officials, and signing a record $2 trillion relief package to shore up the U.S. economy."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "This will deliver urgently needed relief to our nation's families, workers and businesses."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll ask Treasury Secretary Steven Mnuchin about the dual threats to the nation's economic and physical health. Then, as cases in the United States surge to the most in the world, are we anywhere near the end? We're joined by Dr. Tom Inglesby, director of the Johns Hopkins Center for Health Security. And --"
+    },
+    {
+      "speaker": "GOV. LARRY HOGAN (R), MARYLAND",
+      "utterance": "You can't put a timeline on saving people's lives."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll sit down with Maryland Governor Larry Hogan, one of the state leaders on the frontlines. Plus, our Sunday panel on the response so far from the president and Congress. And our \"Power Player of the Week\"."
+    },
+    {
+      "speaker": "JOEL OSTEEN, PASTOR",
+      "utterance": "Yes, there's uncertainty."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Pastor Joel Osteen with a message of hope in these uncertain times."
+    },
+    {
+      "speaker": "OSTEEN",
+      "utterance": "We don't know what the future holds but we do know who holds the future."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All, right now, on \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And hello again from FOX News in Washington. The U.S. is now the epicenter of the global coronavirus outbreak with more than 121,000 confirmed cases and 2,000 deaths and the nation's health care system struggling to keep up."
+    },
+    {
+      "speaker": "Here are the latest developments",
+      "utterance": "The CDC now urging residents of New York, New Jersey, and Connecticut to avoid nonessential travel for 14 days after President Trump backed off talk of imposing a quarantine. But his 15 days to slow the spread initiative is slated to end tomorrow and the president has discussed getting Americans back to work in some areas by Easter, despite push-backs from governors and public health officials. In a moment, we'll speak with Treasury Secretary Steven Mnuchin. But first, let's bring in Mark Meredith reporting from the White House on the struggles facing people on the front lines -- Mark."
+    },
+    {
+      "speaker": "MARK MEREDITH, FOX NEWS CORRESPONDENT",
+      "utterance": "Chris, good morning. The president first raised the idea of this potential quarantine for the Northeast on Saturday. Instead, the CDC has issued the travel advisory for the tri-state area, urging people to avoid nonessential travel. Meanwhile, cities nationwide, they are bracing for the worst as millions of Americans also wonder what the outbreak will mean for their wallets, too."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "New York's hospitals are struggling to keep up as the number of patients infected with COVID-19 grows by the hour."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I need eyewear and I need face masks, I need as many as you can get."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "At this hospital in Queens, some people are stuck waiting hours to be tested or treated."
+    },
+    {
+      "speaker": "DANIEL DROOM (D), NEW YORK CITY COUNCIL",
+      "utterance": "Elmhurst Hospital has hit capacity, and there's about 545 beds in here and they're all filled with COVID patients."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "The Navy's hospital ship, the USNS Comfort, departed Norfolk Saturday bound for New York. Its mission, relieve the city's doctors of other medical duties."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Beds will be opened, up all over the city for those who are infected."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "Beds aside, New York's governor says his state needs at least 30,000 ventilators. But other governors stress they have needs, too."
+    },
+    {
+      "speaker": "GOV. JOHN BEL EDWARDS (D), LOUISIANA",
+      "utterance": "There simply are not enough health care resources to care for all those who will need care if we continue to develop cases at our current pace."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "Louisiana's leaders fear their state is about to see a major surge that's led some to ask if the recent Mardi Gras celebration in New Orleans sped up the spread of the virus throughout the South."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "Meantime, the president on Friday signed a $2 trillion stimulus bill aimed to help individuals and industries now struggling to survive, but millions of Americans are still out of work right now, and many are wondering how long this may last -- Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Mark Meredith reporting from the White House -- Mark, thanks for that. Joining us now, Treasury Secretary Stephen Mnuchin, who's a member of the president's coronavirus task force.  Mr. Secretary, President Trump talked openly yesterday about a possible quarantine of the New York State area. Why did he first consider it? And why, in the end, did he decide not to go ahead with it?  MNUCHIN: Well, Chris, it's great to be back with you. The president did very seriously consider it. The task force met yesterday with the vice president. It was the unanimous decision of the -- recommendation of the task force to go forward with the advisory.  The vice president, myself, Mark Meadows and others met with the president yesterday afternoon, and he decided to go forward with the recommendation.  WALLACE: What was it that made him think a quarantine might be necessary? And, again, why did he decide not to do it?  MNUCHIN: Chris, I think the president wanted to consider all the options. He was obviously concerned what was going on with New York. He spoke to the task force. He spoke to the governors. And he was comfortable that people would take this advisory very seriously and -- and would not travel.  WALLACE: The coronavirus task force, of which you're a member, is meeting this weekend to come up with new guidelines after the 15 days how to stop the spread of the virus guidelines end tomorrow.  Here is what the president said this week about what he'd like to see.  (BEGIN VIDEO CLIP)  PRESIDENT DONALD J. TRUMP: I would love to have the country opened up and just raring to go by Easter.  WALLACE: As Treasury secretary, do you think that's realistic, to open up parts of the country, to open up parts of the economy as soon as two weeks from today, which is -- which will be Easter?  MNUCHIN: Chris, I'm going to leave that decision to the medical professionals and the president. My full-time focus right now is we couldn't be more pleased that the Senate and House reacted very quickly, signed an enormous package to support U.S. workers and the U.S. economy. The president signed it into law. And my full-time focus is delivering on that.  And let me just say, the -- the SBA is working very closely with the Treasury. We expect to have a program up on Friday, that will be up and running, that will cover half of the private workforce.  I encourage all small businesses to take out these loans because, if you go and hire back your workers for eight weeks, you will have a forgivable loan and the government will pay for that.  So again, it is very important for us that workers are protected, and this is a major part of the package.  WALLACE: Mr. Secretary, I'm going to get to that package in a moment, but I want to press on this issue of perhaps changing the guidelines, because that not only has a lot of health implications; it also has a lot of economic implications.  There's been a lot of push-back from public health experts about the idea of reopening parts of the country where there's a lower incidence of the virus, opening them up perhaps within two weeks.  Our very next guest, Dr. Tom Inglesby, head of the Johns Hopkins Center for Health Security, says this disease will not respect state borders and city borders and will move around this country just like it's moved around the world.  So the question is, if the virus spread from China to Italy, can't it spread from Chicago to Iowa? And if we were to open -- reopen parts of the country too soon, wouldn't that be the worst thing for the economy, if we see the virus spreading into more areas?  MNUCHIN: Chris, I can assure you the president's number one objective is the health of the American public and protecting the American public. And we're going to do everything to support the economy.  The task force will be reviewing it. It will be discussing it with the president. There hasn't been any recommendation made yet. So, again, let me just emphasize, the president wants to make sure that we kill this virus and we do it quickly. And the medical professionals are working on that. And while we do that, we have now a gigantic economic program to support American workers and American business.  WALLACE: Yeah, let's get to that. You were the key administration figure negotiating that $2 trillion -- some call it relief bill; some call it a stimulus bill. One part of that is $500 billion, a half a trillion dollars, to help dealing with various big corporations.  How much discretion do you and the president have in deciding who to give that $500 billion to, which corporations and under what terms?  MNUCHIN: Chris, there's two parts to this program. There's -- there's approximately $50 billion that we can make direct Treasury loans that are subject to the president and my approval. Those are specifically designed for the airline business and for the cargo business, which are national security concerns, and also give us flexibility if there are other national security companies.  And let me be clear, taxpayers will be fully compensated for those loans. The other part of the package is for us to work with Federal Reserve. I think you know Chairman Jay Powell and I now speak multiple times a day on a regular basis. The 13(3) was a package that existed under the Federal Reserve Act.  The Federal Reserve has the ability to make broad-based lending programs available. Once the Fed requests those actions, they come to me. I have to approve them, as Treasury secretary. And in many cases, I contribute capital to support that in consultation with the president.  So these are very important programs. We think they can provide about $4 trillion of liquidity to the American economy. Again, we expect we will get paid back on these loans. These are temporary support for the American economy that's very -- very, very critical. And we've already rolled out many of these already.  WALLACE: But, Mr. Secretary, one of the big sticking points, when you were negotiating with Democrats in the Senate, is they wanted an inspector general to oversee the big loans, the big grants to big corporations. And just two hours after the president signed the $2 trillion bill, he put out a signing statement saying that he will only allow that inspector general to report to Congress under, quote, \"presidential supervision.\"  So didn't that basically violate the deal you made with the Democrats in the Senate?  MNUCHIN: I don't -- I don't think that's the case, Chris. There's constitutional issues. Again, we are going to have full transparency. The way this works is we have full transparency in reporting what we're doing to the American public. We also have a bipartisan oversight committee that will review our actions. We -- we are fully comfortable that whatever we do, we want full transparency. And we're very careful in what we're doing about supporting American workers and the American economy.  WALLACE: So directly, will the inspector general that was provided for in this bill be allowed to testify and report to Congress?  MNUCHIN: Chris, I'm -- I'm going to leave that to the lawyers, OK, and to Congress to figure out. My full-time objective right now is to make sure this administration does everything we can to get this money into the economy quickly.  That's a combination of small-business loans that will be available this week. And let me just be clear. This is not just normal SBA lenders. Any FDIC bank, any credit union, any Fintech lender will be authorized to make these loans subject to certain approvals.  We'll also have direct deposit into people's accounts within three weeks so they have checks. These are bridge checks. We have enhanced unemployment insurance that we're working with the states. This is all about the president's determination to support the U.S. economy.  WALLACE: Finally, Mr. Secretary, 3.3 million people applied for unemployment benefits this week. That is four times the previous highest record since 1967 when these records were kept.  The former head of the CBO says that we are going to see an unemployment rate in the next few months of 20 percent. Your former company, Goldman Sachs, is projecting that GDP in the second quarter, instead of being up 2 percent or 3 percent, is going to be minus 24 percent.  Is that what you're seeing at the Treasury Department, 20 percent unemployment, a GDP shrinking from year-over-year by a quarter?  MNUCHIN: Chris, it's hard to predict these numbers because we've never had anything like this, where we've shut down the U.S. economy for medical reasons. The economy was in very, very good health, and we shut it down.  And let me just say we're very sympathetic to the people who -- who don't have jobs, and that's why the president was very clear that he wanted me to work with Congress on a bipartisan basis quickly to support those people.  So I hope, number one, businesses rehire, small businesses rehire those people now that they'll have the money. Number two, people will have enhanced unemployment insurance. And, number three, people will have direct deposit money in their accounts to provide liquidity.  And we want to get people back to work --  WALLACE: But -- but --  MNUCHIN: -- as quickly as we can, subject to the medical conditions.  WALLACE: Understood, but briefly -- now, I've got about 30 seconds left -- you're saying; you seem to be saying that 20 percent unemployment and GDP minus a quarter, 24 percent, is not impossible. It may not be -- may not last long, but we may see those numbers and we may have to live with that?  MNUCHIN: Chris, I don't know what the numbers are going to be this quarter. What I do think is we are going to kill this virus. We are going to reopen this economy. And in the third quarter of this year, you're going to see this economy bounce back with very large GDP numbers and low unemployment, back to where we were beforehand.  So the president is determined that we protect people and reopen the economy when it's the right time.  WALLACE: Secretary Mnuchin, thank you. Thanks for your time during these busy days. Always good to talk with you, sir.  MNUCHIN: Thank you, Chris.  WALLACE: Up next, the spread of the virus in the United States, warnings of a second wave and an expert's serious concerns about ending social distancing too soon."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "As the debate intensifies about how long to continue to coronavirus lockdown in this country, we want to bring in one of the nation's top experts on infectious disease epidemics. Joining us from Baltimore, Dr. Thomas Inglesby, director of the Center for Health Security at Johns Hopkins University. Doctor let's start with the astonishing spread of this virus. One week ago we had 25,000 cases and 307 deaths but as of Saturday we had 121,000 cases and 2,000 deaths. What does that tell you about the nature of this virus? And where are we in its course, it's spread, here in the United States?"
+    },
+    {
+      "speaker": "DR. THOMAS INGLESBY, DIRECTOR OF THE CENTER FOR HEALTH SECURITY AT JOHNS HOPKINS UNIVERSITY",
+      "utterance": "Well it tells us that this virus is able to spread pretty efficiently and quickly. We've seen that around the world in the last few months and we should expect that to keep happening in the United States. I think unfortunately we are still at the very beginning of this outbreak and we should expect that to continue for some time and really focus on social distancing as one of our main interventions of trying to slow it."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to pick up on that because I want to ask you about President Trump's evolving policy on how to handle the virus. As you know his initial 15 days to stop the spread of the virus guidelines run out tomorrow, the 15 days end tomorrow. And he is now talking about the possibility in certain, what he calls low risk, parts of the country where there's a low incidence of the virus re-opening those areas by Easter. Here he is this week."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "utterance": "There are a lot (ph) of sections of our country probably can go back much sooner than other sections."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Will that work? And what about the president's discussing the idea that you could have some areas of the country where you could begin to open in two weeks?"
+    },
+    {
+      "speaker": "INGLESBY",
+      "utterance": "Yes, at this point we're seeing numbers go up around the country pretty consistently. There isn't really any place in the country where we've seen numbers go down. And we wouldn't expect to have had enough time for social distancing to change the numbers so I don't think we have had nearly enough time for these measures to take full effect. I do think in the future it's possible that parts of the country, once they get control of this virus, that maybe states or regions could begin to relax social distancing measures a little sooner than other parts of the country. But as long as the numbers continue to go up as they are around the country I think we really need to hold steady with the social distancing until we have a number of different conditions in place."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But -- I want to put up a map because if you look at the situation there are broad parts of the country, well you can see in the Northeast, in the New York general areas, some cities -- big cities in the Midwest and on the West Coast, where there are serious hot spots and then there are broad areas where there are very few cases. So why can't we, as the president is suggesting, treat different parts of the country where the virus is at a very different state, treat those different parts of the country differently?"
+    },
+    {
+      "speaker": "INGLESBY",
+      "utterance": "Well I think the first reason is that I don't really have confidence -- I don't think many in public health have confidence that we really know where all the cases are. We've begun to do much more diagnostic testing around the country, especially in places where there is a lot of illness, but in some parts of the country we don't have enough coverage of diagnostic testing. We're seeing what we see but there could be twice as many, three times as many, four times as many cases in a particular area of the country that aren't yet recognized. So we need to get to a point in the country where we have such extensive diagnostic testing that we can test people who have mild symptoms. Right now many -- in many places in the country if you have mild symptoms you can't get a test. But those people can spread the disease just as well as the people who are sick in the hospital. So we need to get to a point where we have -- go ahead."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "No, I got -- I didn't mean to interrupt. But the president talks about in these certain areas of the country that people could actually go back to work, go back to offices, as long as they practice the guidelines for these last 15 days in the office social distancing, in the office good hygiene, washing your hands a lot. Take a look at what the president said."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We can socially distance ourselves and go to work and you'll have to work a little bit harder. You can clean your hands five times more than you used to."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Dr. Inglesby, will that work?"
+    },
+    {
+      "speaker": "INGLESBY",
+      "utterance": "I don't think so. I think if we -- we've seen in Italy, for example, which is a number of weeks ahead of the United States in terms of it's epidemic, that even with very serious, very aggressive social distancing measures where people have been kept at home, schools have been closed, everyone is recommended not to leave their homes, that this disease has continued to spread and is causing national crisis. So at this point, I think, what we need to do is really stick with what other countries that have had more success have done, which is -- they've largely been in Asia, Singapore, Hong Kong, South Korea, China, Taiwan. They have put in place social distancing measures until they've gotten control of the epidemic convincingly and at that point begun to try experiments with loosening it. And I do think we will get to that point. Obviously we need to as a country get to a point where people can go back to work. But if we go back to work too quickly this epidemic is going to spread widely and aggressively and we won't have a normal economy in that case anyway. So I really do think that while this epidemic continues to be on the rise in many places in the country and we don't know enough about diagnostics in many other parts of the country, we really should hold the course."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So if Easter, as the president has suggested, is too soon to begin to loosen the reigns in the quote low risk areas, when would you say -- this is the kind of question reporters ask and I'm sure epidemiologists like you hate. Two questions. One, what is the earliest that you think that we could begin to loosen the reigns in some of the less affected areas? And then the question I'm sure you're getting over and over, how long is this going to last before we really go back to normal?"
+    },
+    {
+      "speaker": "INGLESBY",
+      "utterance": "So I think dates are hard to predict because everyday the numbers continue to go up in many parts of the country. I think we should really have this more like a conditions based decision so when we see a state or a region have numbers that go down over time and when we have diagnostics in place and when we have masks available for all of our doctors and nurses who are putting their lives at risk to take care of sick patients and hospitals are well prepared and when we can get our public health systems in place to start tracing -- or identifying individuals and tracing their contracts, again like they do in Asia, I think those five major conditions then I think it's a time to begin to think about how we might experiment with lightening social distancing perhaps one step at a time. It's not clear to me when that's going to happen. I think we'll have to see where we are in two more weeks. In other countries where they've put social distancing measures in place aggressively it's taken about four weeks for those measures to begin to have an effect. But at that point I think we could begin to look for the conditions that might make it safe to begin to lowering our social distancing, but not until then."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Dr. Inglesby, thank you. Thanks for providing your expert --"
+    },
+    {
+      "speaker": "INGLESBY",
+      "utterance": "Thanks for having me on, Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "-- analysis, and please come back sir. Up next, increasing cooperation and some tension between the president and the nation's governors who are on the front lines of fighting the coronavirus. We'll talk with Maryland's Larry Hogan, head of the National Governors Association. That's next."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Coming up, President Trump's timeline to reopen the country puts him at odds with some governors."
+    },
+    {
+      "speaker": "HOGAN",
+      "utterance": "We simply don't yet know how bad it's going to get or how long it's going to last."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll ask Maryland Governor Larry Hogan how he feels about relaxing the restrictions, next."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "The coronavirus pandemic is putting the nation's governors in the spotlight and setting some in the hardest hit states at odds with the White House. In Maryland, there are now a thousand confirmed cases, an increase of more than just 250 yesterday, including 66 residents of a nursing home and 10 people have died in Maryland. Joining us now, that state's governor, Larry Hogan, who's also chair of the National Governors Association. Governor, Maryland was one of the first states to shut down all the schools, then all the restaurants, then all non-essential businesses. And you just extended school closures for another four weeks until April 24th. If the president and his task force start saying this week that certain low risk areas of the country, including some perhaps in Maryland, can reopen, do you follow that guidance or do you just ignore it?"
+    },
+    {
+      "speaker": "GOV. LARRY HOGAN (R-MD)",
+      "utterance": "Look, I think the virus is going to dictate the timeframe and it -- we're going to follow the advice of the scientists and doctor like Dr. Inglesby (ph), who you just had on a moment ago. He's on our task force. But, no, we don't see any way that we're going to be opening back up in a couple of weeks. The Washington metropolitan area has Maryland, D.C., and Virginia quadrupled in the past week and we see that continuing to grow exponentially. And we think in two weeks, around Easter, we're going to be looking a lot more like New York."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So you think two weeks from now it's going to be getting worse in Maryland, not better?"
+    },
+    {
+      "speaker": "HOGAN",
+      "utterance": "There's no question about that. I mean in spite of the fact that we've taken some of the most aggressive steps in the country on social distancing and we were out front ahead of nearly every state on some of these things, we've been taking unprecedented actions every day for the past three weeks. It's continuing to grow at really kind of frightening paces. And we think it's going to be worse in two weeks, not better."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Do you worry that this talk -- and it got a little tempered as the week went on -- about reopening, about we don't want the cure to be worse than the problem, it may be giving some people, not just in Maryland but around the country a false sense of confidence that, you know, maybe I don't have to do all the social distancing and I don't have to do all of those precautions?"
+    },
+    {
+      "speaker": "HOGAN",
+      "utterance": "It is -- the messaging isn't helpful because as we're -- as the governor's out there on the front lines, they're trying to get people to stay in their homes for everything but very essential things like going out to get food or prescriptions or things that are basic needs for their -- you know, for them to survive and then we've got messaging coming out saying that things are OK and -- and, you know, you shouldn't -- you should get back to normal. It does conflict and it hurts with the messaging. But, look, I think the president's just trying to be hopeful, which is good. We want -- we don't want people to be scared. But we do want them to take it seriously and we want, you know, the facts to be out there. So we're going to follow the doctors and the scientists. I think most governors are going to do what they think is right in their own states to - - to save lives."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We have been hearing a lot about a shortage of ventilators, a shortage of personal protective equipment for health care workers, especially in New York City and state. How are you doing in Maryland, and are you getting all the help you would like from the federal government?"
+    },
+    {
+      "speaker": "HOGAN",
+      "utterance": "well, you know, we -- the federal government has done a great job of communicating with us. We've had five calls with all of the governors, with the president and -- and/or vice president and many of the top leaders. We've -- we had a request for about ten different things, most of which they've tried to address. But the big pinch point that everybody is dealing with, both at the federal and all the states, is this lack of -- of the equipment that we need. It's a lack of tests, a lack of ventilators, a lack of masks and swabs and protective equipment. You know, this is -- this is a serious issue across the country that we're all grappling with. And so while they've made efforts in FEMA is now in charge, it's not enough."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You, as we've said, are not only the governor of Maryland, you're also the head of the National Governors Association. And some of your Democratic governors have been complaining and getting into some verbal spats with the president. He was asked about that this week. Here he is."
+    },
+    {
+      "speaker": "QUESTION",
+      "utterance": "What more specifically do you want the governor of Washington, the governor of Michigan, --"
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "All I want them to do, very simple, I want them to be appreciative. I don't want them to say things that aren't true. I want them to be appreciative."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Governor Hogan, does President Trump have a point?"
+    },
+    {
+      "speaker": "HOGAN",
+      "utterance": "Well, look, I do appreciate the efforts. I said a minute ago that of the -- of the ten things that we've been asking for, you know, they have tried to address about eight of them and some -- you know, half of them are already done. So we do appreciate the efforts of the federal government and I hate to just point fingers and talk about what hasn't been done or what didn't get done. We -- we -- we're all in this together and it's going to take the federal, state and locals working together to save lives. But there's also frustration out there, just that -- that we're all in the situation we're in and that the federal government is unable to -- to -- to solve some of these issues and neither -- you know, the states are -- are not -- also not able to. So there's frustration out there, but I think we should do less arguing, more working together."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Maryland just released information that seems to go against, I think, some of the prevailing narratives. One of them is that half your cases are people under 50 and that you have as many cases of infection of - - of people in their 20s as you do of people in their 60s. And you just postponed your state election primary from April until June. So -- so where -- what are you learning about the nature and spread and duration of this virus in your state of Maryland?"
+    },
+    {
+      "speaker": "HOGAN",
+      "utterance": "Well, Chris, the more -- the more data we gather from the smart folks like Dr. Inglesby at Johns Hopkins and the University of Maryland and all of our -- all of our smart folks that are collecting all the new cases, we're finding out that it's not -- it's not exactly the way it's been described for the past few months. And the more data we get, the more the numbers change. We have people in their 20s, 30s and 40s. The -- the biggest category is people in their 40s. But we've got young -- younger people. We have cases of four months old, ten months old. And 56 percent of all the people that have been hospitalized in Maryland are -- are under 60. They're not just folks from nursing homes that are in their 70s and 80s. So as we -- as we move on, I mean this -- this virus, some of the information, because we haven't done enough testing, we don't -- you know, we're getting new and conflicting data and we're just trying to understand exactly what's happening. But I've been warning people that -- younger people that felt they were bulletproof and that weren't listening to directives that you're endangering yourselves and your -- and your family and friends by not following these -- these orders to -- to stop, you know, going out and -- and -- and being in groups. It's why we've been so tough and trying to get people to stay at home."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Governor Hogan, thank you. Thanks for joining this weekend in the midst of your fight against the virus, and good luck, sir."
+    },
+    {
+      "speaker": "HOGAN",
+      "utterance": "Thank you, Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Up next, we will bring in our Sunday group to discuss efforts to balance addressing both the public health and economic crisis."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "America will again and soon be open for business. Very soon. A lot sooner than three or four months that somebody was suggesting."
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES",
+      "utterance": "I think people might get the misinterpretation, you're just going to lift everything up. And even somebody's going like that, your -- I mean that -- that's not going to happen."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Trump hoping to lift restrictions on parts of the country by Easter, while Dr. Anthony Fauci, a key member of his task force, urges caution. And it's time now for a Sunday group. \"Washington Post\" columnist Marc Thiessen, Fox News political analyst Juan Williams, and posterior Kristen Soltis Anderson, who's a Fox News contributor. Marc, you wrote a column on Friday in which you said this continuing lockdown is unsustainable. So when the president talks about the possibility in the less affected areas where you're not seeing -- like the hot spots, you're seeing very few cases, relatively speaking. When he says that you might conceivably be able to reopen some of them by Easter, do you agree with him?"
+    },
+    {
+      "speaker": "MARC THIESSEN, FOX NEWS CONTRIBUTOR",
+      "utterance": "No. I think Easter is too optimistic. But I think the president is absolutely right that we need to see a light at the end of the tunnel and that we need to have a sustainable strategy to defeat the virus because right now what we're doing is unsustainable. We just had 3.28 million Americans apply for unemployment benefits last -- last week. That's a record. We are talking, as you mentioned earlier, between 25 and even some estimates 30 percent reduction in GDP. That can't go on forever. At the start of an epidemic -- a pandemic like this you accept very high economic costs because we don't know what we're dealing with. We're flying blind. But, over time, as we get -- as we -- as the medical professionals get a handle on this and we start to contain the virus and we have to start transitioning. Dr. Scott Gottlieb, who is my colleague at the American Enterprise Institute, former FDA commissioner, has released this morning a road map towards reopening. And what he's saying is that April's going to be a very tough month because we're going to see -- continue to see a spike. But if we keep the mitigation efforts in place, by May we should be able to start opening on a state-by-state basis. And the way you decide state-by-state how you do it is, has there been a sustained reduction in cases for 14 days? In states where you're seeing that happen and they have the medical capability to take care of the -- the hospital capability to take care of people, they can test people, then you can start lifting the restrictions in those states. So it might be some states that happens sooner and other places like New York where it's been hardest hit, the hot spots, it's going to take longer to get there, but we have to start moving in that direction."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Juan, Marc points out in his column that some countries, like South Korea, have been able to contain the virus without locking down most of their population for months. What are your thoughts about loosening the reins, how soon we do it, how do we decide whether and when to do it?"
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS POLITICAL ANALYST",
+      "utterance": "Well, I just want to, I guess, you know, refrain what Dr. Inglesby said to you earlier, Chris, which is that the virus does not respect county lines or state lines. Alabama, for example, has had a very low register so far in terms of the virus, but now they're spiking. And what you heard from Dr. Inglesby is, we're short on testing in lots of areas of the country. You look at a place like South Korea, they did much in terms of limiting this, but they had a tremendous advantage in terms of being prepared with the testing and with the medical supplies. And so they employed social distancing on top of that preparation. Even at this point, I think it's the case -- they're a country that's about 50 million, we're six times bigger, 300 plus million. And what you see is that they're -- they have tested, in terms of one of every 150 people in their population, but we, here in the U.S., it's still about one in every 900. That's a huge differential and it gives you an indication of how someone -- another country handle it versus what we've done. The other element here is, you know, the kind of talk that we've heard. Obviously the president has tried to be very positive, uplifting. But when you talk about, you know, this is going to disappear like a miracle or we've got it under control, it led a lot of people to have a perspective that said, maybe this is being overhyped, maybe there's alarmism here and not take the proper precautions. I think we're still in that fight."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Kristen, that brings me to what I wanted to talk to you about. Where is public opinion at this point? How are people balancing the public health threat here versus the economic threat? And how inpatient are they getting with the current guidelines, the -- the staying in place, closed schools, businesses shut down? Are -- are people still think that's the right thing to do or are you beginning to see a little bit of restlessness about that?"
+    },
+    {
+      "speaker": "KRISTEN SOLTIS ANDERSON, FOX NEWS CONTRIBUTOR",
+      "utterance": "By and large the public opinion data we've got says that people are making big sacrifices, both economically in terms of making changes to their own personal lives, but that they, at the moment, are believing that though sacrifices are justified. We have medical professionals on the frontlines of this who need folks who are not medical professionals to follow these guidelines and to stay home and to make these sacrifices. And these sacrifices will all be for not if the economy is reopened too early, if the virus then suddenly surges. If we go through the next couple of weeks of incredible pain, and as we've seen in Fox News' own polling data you've got over -- over 80 percent of Americans say that they are making big changes to their daily lives. They're doing things like washing their hands more. They're not going out of public as much. But you've also got, you know, small business owners who don't know if they're going to be able to open their small business when this is all done. You've got parents who are suddenly in a position where they have to homeschool their children. Something that they were not equipped or prepared for. That was not how they were planning to spend their April. You've got kids who are going to miss their graduations and enter an economy where -- where are they going to get a job? Who is hiring right now? But all of these sacrifices will be for not if the economy is reopened too early, if people are told, go out of your homes and this virus then spikes again. And I think that's when you begin to see things like what the president is enjoying right now, which is a relatively good job approval rating that has increased very slightly over the course of this crisis. You still have Americans who are apprehensive about the way this is handled at first. About 53 percent in Fox's polling say that they felt this was not taken seriously enough at the beginning. We didn't do enough at the start. They're giving good marks to what we're doing now. And I think that needs to, therefore, continue. If it's released to early, you could definitely wind up in a situation where people are really frustrated that they made all of these sacrifices, and it feels like it was for nothing."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Marc, we had an interesting narrative this week at the White House because Monday, and we played some clips from it, President Trump came out and basically said, we got to reopen this country. The country can't stay shut and we can't have a cure that's worse than the problem. And as the week went on, you could see him begin to soften that as you got more of a pushback from the public health experts saying, well, that's aspirational and it's good to provide hope. But the numbers, and particularly the testing, to find out really what is the incidence of this virus, may not be there. Your sense, as somebody who reports on it and talks to people in this administration, how much of a struggle is there between the political and the economic advisors on the one hand, who may be wanting to put the pedal on the gas a little bit more, and public health experts who may be saying, not so fast?"
+    },
+    {
+      "speaker": "THIESSEN",
+      "utterance": "I don't -- I think that tension is a little bit overblown. I think what the president is trying to do is provide a light at the end of the tunnel for the American people. When he sets a target date of Easter, he was -- even the very same day that he did it, he said that, you know, we're going to follow the data and we're going to -- and the advice of health experts. So I think he's trying to provide a light at the end of the tunnel. I think that's what's so important about what Dr. Gottlieb has done is because he's laid out a road map. So we're -- right now we're in phase one, where we're in the lockdown and we're doing population-based mitigation efforts, in part because we didn't have testing capability and there's a whole story behind that, whereas, as you pointed out in South Korea, they were able to test very quickly. But we want to transition to phase two over time where we can go state-by- state and start lifting some of these restrictions, with still people, you know, social distancing, teleworking when they can, washing their hands more, and do that in areas of the country where you can. And then phase three will be when we can lift all the restrictions, and that's when there's a therapeutic. That's when the doctors have a -- and, even better, a vaccine where you can treat it. But people need to see that road map. People need to understand that we're not going to be in this lockdown forever. That this is -- we bought ourselves some time with the emergency bill, which is great, but at a cost of $2 trillion, tripling the deficit. You know, we can't keep going back to the well. We have to come up with a strategy that is a long-term, sustainable strategy to deal with this -- with this pandemic."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But, Juan, and I've only got 30 seconds for you here, in terms of that road map, we don't know. I mean the virus has a mind of its own. So when we talk about phase two by May, that may hold, it may not hold."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "We don't know! Chris, we don't know. I think, just initially, you know, I think the president should retract that Easter deadline. Just make it clear to everyone, that's not realistic. If you're only listening to the experts when it suits you, you're not really listening to the experts or the facts on the ground. And what we've heard from Dr. Fauci, Dr. -- everybody, Dr. Inglesby this morning on your show, is that you have to be responsive to the realities. You have to look for that curve to start to come down hopefully for 14 days before you would even have that discussion."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Thank you, Juan. Thank you, panel. See you all next Sunday. Up next, we're going to visit with Pastor Joel Osteen and discussed his thoughts on how to get through these tough times."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Churches across the country will be empty again today as clergy live stream services for their socially-distanced congregations. Pastor Joel Osteen leads one of the largest mega-churches in the country and last Sunday he preached to thousands of empty seats, but four and a half million people watched online."
+    },
+    {
+      "speaker": "PASTOR JOEL OSTEEN",
+      "utterance": "You're not close to your miracle only when everything is calm and peaceful. Sometimes it's the opposite, when it's chaotic, when you're tempted to panic, live afraid. That means your miracle is on the way."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And Pastor Joel joins us now from his Lakewood Church in Houston. Pastor, there's an awful lot for people to be worried about right now. Their physical health, their economic security. So what's your advice as to how to deal with these tough times?"
+    },
+    {
+      "speaker": "PASTOR JOEL OSTEEN, LAKEWOOD CHURCH SENIOR PASTOR",
+      "utterance": "You know, Chris, there is a lot of negativity and reason to worry and be afraid, but I think that's when we have to make that choice to live from a place of peace and not a place of fear. You know, you take it one day at a time. You know, it's just as energy -- I've learned, it's just as easy to worry as it is to believe. That God, you've got me in the palm your hand. You've got us through in the past and you'll get us through again."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We talked a couple of years ago, and it's funny because you mentioned the negative conversation that we all have going on in our minds all the time. Am I good enough? Can I handle this? And you say that the way to -- to break through that negative conversation right now is to seek peace, and that peace is a place of power. Explain that."
+    },
+    {
+      "speaker": "OSTEEN",
+      "utterance": "Yes, it really is, Chris, because, you know, when you -- when you live worried, when you live negative and just, you know, thinking about all that could happen, all that could go wrong, we're drawn into negative. Our life follows our thoughts. And I'm not saying it's easy and I'm not saying to deny the facts, but I believe there's a -- there's a -- when you live from that place of peace, a grateful place, you draw in peace, you draw in your faith. And that's what helps you get through these tough times. Not that, you know, we're denying it all, but you can just choose to live from that place of peace. And that's what gives you the strength and the power to make it through."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You say, and you just mentioned it here, find something to be grateful for. But when you're worried about your health, maybe you've got a relative who's got the virus, when you're worried about your 401(k), you see those numbers ticking down all the time, what do you find to be grateful for?"
+    },
+    {
+      "speaker": "OSTEEN",
+      "utterance": "Well, Chris, you've got to find something. And I believe we all have some reason. Maybe we do have our health. Well, you know what, we can thank God for what we have. Or we have a place to live. Or we're in a great country. I just think you have to make that shift that, hey, this is another day that God's given me. It's a gift. I can choose to live it negative, bitter, discouraged, or I can say I'm going to make the most of this day. Maybe I'm going to spend a little more time with my family or I'm going to be, you know, maybe it helps me get things more in perspective. I'm going to find something maybe I wouldn't normally be grateful for, just the fact that I'm alive and healthy or, you know, something like that, just to start the day off in faith."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Everyone, Pastor Joel, is asking, and I asked Dr. Inglesby that -- this question, how long will this virus last. Can I hang on for another two weeks? Might I have to hang on for another two months because we really don't know how long this is going to go on, this isolation, this lockdown? You say don't be thinking two weeks ahead, don't be thinking two months ahead."
+    },
+    {
+      "speaker": "OSTEEN",
+      "utterance": "I think that's right, Chris, because it is. That can get us all frustrated and worried and depressed and can we make it. But God gives you grace for every day. His mercy is new every morning. So we don't have grace for tomorrow. So if we're thinking about tomorrow or can I do this a month or six months, it is going to discourage us. But I think you have to get up and say, can I make it through this day with a good attitude, with a smile, being good to somebody else? And you can because you have the grace for this day. So don't go way out into the future, well, what if I don't have the money, what if my relatives get sick? Why don't you stay in today, be grateful for today. When you get to tomorrow, you're going to have grace for that day."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You say that -- that one way to deal with the isolation, the fact that we can't hug our family, we can't sit down and have dinner with our friends, is to help someone else. Now, I know that you have a blood drive at your Lakewood Church in Houston, but what can one person sitting at home and not even able to get out of their home necessarily, what can they do to help other people right now?"
+    },
+    {
+      "speaker": "OSTEEN",
+      "utterance": "Yes, it's more difficult now, Chris, but maybe, you know, simple things, picking up the phone and calling a friend and encouraging them, letting the people in your life you love know that you love them. I believe it's just -- it's -- it's the way we were made to be when we help somebody else get better, God helps us get better. If we'll make their day, God will make our day. And it's easy to live ingrown, hey, I've got my problems, I've got this virus, I've got -- worried about my future. But if you'll get outside of yourself and go be a blessing or at least by your voice, by phone, right, somebody send somebody a text, well, that's a seed your sewing that God can bless you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Pastor Joel, thank you. Thanks for sharing your wisdom with us at a time when we all need some. And I'm sure you never thought you were going to be in a situation where you were going to be preaching to an absolutely empty church. The probably is your nightmare, sir."
+    },
+    {
+      "speaker": "OSTEEN",
+      "utterance": "Yes, it was very unusual to not have any response. And I just had to kind of tune out the empty seats. But we are blessed to have the technology and, you know, see so many turning to their faith."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Pastor, thanks so much. Now this program note. Tune in tonight for a one-hour special you can see on this Fox station or any Fox platform as Fox presents the \"iHeart Living Room Concert for America\" hosted by Elton John. Musicians like Alicia Keys and Tim McGraw and -- 9:00 p.m. tonight. That's it for today. Have a great week and we'll see you right back here next FOX NEWS SUNDAY. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

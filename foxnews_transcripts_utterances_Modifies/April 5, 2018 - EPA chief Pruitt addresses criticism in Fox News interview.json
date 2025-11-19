@@ -1,0 +1,2089 @@
+{
+  "date": "April 5, 2018",
+  "headline": "EPA chief Pruitt addresses criticism in Fox News interview",
+  "subHeadline": "EPA Administrator Scott Pruitt spoke out about controversial pay raises for his staff members and more in a wide-ranging interview with Fox News' Ed Henry; details on 'The Story with Martha MacCallum.'",
+  "url": "https://www.foxnews.com/transcript/epa-chief-pruitt-addresses-criticism-in-fox-news-interview",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS CHANNEL HOST",
+      "sentences": "And that's SPECIAL REPORT for tonight, I'm Chris Wallace in Washington. 'The Story' with Martha MacCallum is next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, FOX NEWS CHANNE HOST",
+      "sentences": "That's great. I love that story. Thank you very much, Chris, good to see you tonight. Breaking tonight on 'The Story': President Trump getting positive news on the Russian front. Jonathan Turley here in a moment with his column entitled: 'When Will the Media Accept That Trump Is Not A Criminal Target?' And the Trump administration's marching orders on ramping up the crackdown on our southern border. Just a short time ago, Attorney General Jeff Sessions saying that he won't accept the 'lawlessness of the caravan migrants heading toward the United States border.' His department announcing brand new steps to protect that border and homeland security is sending the National Guard.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRSTJEN NIELSEN, SECRETARY OF HOMELAND SECURITY",
+      "sentences": "The president has directed that the Department of Defense and Department of Homeland Security work together with our governors to deploy the National Guard to our southwest border to assist the border patrol. The president will be signing a proclamation to that effect today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "The deploying troop seems to be just one component of the president's overall strategy here. The other is leveraging this story of the caravan to get what the president wants on NAFTA, an agreement that he says Mexico makes a killing off of on the backs of Americans. Country by country, the president is methodically reworking trade deals from South Korea to China to Mexico. This should come as a surprise to nobody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "We're going to be guarding our border with the military. That's a big step. We really haven't done that before, certainly not very much before. But we be will doing things with Mexico and they have to do it. Otherwise, I'm not going to do the NAFTA deal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, will the president get what he wants? We just have word breaking moments ago that the president has signed the proclamation that will authorize sending the National Guard to the border. So, that's now in motion. James Jones helped pass NAFTA as a former ambassador to Mexico under President Clinton. And he is our exclusive guest tonight only on 'The Story.' Sir, good to see you tonight. I'm curious what you think about the president's plan here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JAMES JONES, FORMER AMBASSADOR TO MEXICO UNDER PRESIDENT CLINTON",
+      "sentences": "Well, it depends on what the plan is. As far as the troops, every nation has the right to guard their borders. The Obama administration and the Bush administration, both put the U.S. troops on the border for a short-lived period of time. So, that is not a particular problem. I think we need to know what the plan is, though.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "In terms of NAFTA, you hope to craft it and pass it. He has said some very unflattering things about NAFTA, including taking aim at some of the people who were behind it. Questioning, you know, how you could've come up with such a deal. He talks about the fact that when it was crafted there was a very small trade surplus with Mexico, now you've a 63 billion dollars trade deficit with Mexico, and also points to the loss of 850,000 U.S. jobs since its signing. Is it time to scrap or redo NAFTA?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONES",
+      "sentences": "Well, of course, it's time to modernize NAFTA. There's no question about it. It's a 25-year-old treaty. We didn't even have cellphones in the days when NAFTA was passed. So, a lot of things need to be modernized and upgraded. That's not the issue. As far as the jobs lost by NAFTA or any trade agreement, it's been shown very clearly that most of those of jobs, 87 percent of the jobs have been lost by technology improvements. And I don't think we want to stop technology to -- in order to save certain jobs. So, I think there's a lot of bad information being distributed on both the trade agreements and our relationship with Mexico -- which, it needs to be corrected. Whatever the staff is feeding that information needs to get it right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, it's interesting when you listen to what we're hearing from Mexican officials with regard to this. And it feels like they are recognizing their role in some of what has port across our border to some extent. Here's the Mexican Ambassador, Geronimo Gutierrez, on 'Special Report.' Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GERONIMO GUTIERREZ, MEXICAN AMBASSADOR",
+      "sentences": "In 2016, Mexico repatriated -- respecting the rights of people, repatriated around 153,000 Central Americans.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS CHANNEL HOST",
+      "sentences": "That's a lot of people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTIERREZ",
+      "sentences": "In 2017, that number was around 100,000. And the figures so far for these years are around 40,000. So, we do work to assure that migration is legal, safe, and ordered.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Ambassador Jones, it sounds like, in many ways, Mexico has tougher laws at their borders than we do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONES",
+      "sentences": "Well, I don't know if they have tougher laws at their border but they have different laws. One of the things that need to be clarified is Mexico and the United States working together to solve these border problems whether it's immigration or whether it's drugs and guns and things like that. And the fact is, I've been on the Secretary of Homeland Security advisory council for about six or seven years under three different secretaries including the current one. And I asked our law enforcement people at DHS: how are we working together? And the word I get from our own U.S. law enforcement people is the relationship and the cooperation has never been better. Mexico is apprehending a lot more people than they ever have. We're working together on exchanging information, et cetera. So, I think that needs to be clarified.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, that's not what we're hearing from Vicente Fox, but it does seem like the people who are in charge now have a very different feeling about the relationship overall. Thank you very much, Ambassador Jones.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONES",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Good to have you with us tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONES",
+      "sentences": "Thank you. Good to be here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Joining me now here in New York: Mike Huckabee, Former Governor of Arkansas and a Fox News Contributor. You know, one things, governor that we heard last night from a gentleman named Juan Hernandez is that Americans need to be more compassionate when it comes to what's pouring across the border. Let's listen to that and get your thoughts.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN HERNANDEZ, AMERICAN POLITICAL ADVISOR AND EXPERT IN MEXICO-UNITED STATES RELATIONS",
+      "sentences": "I was expecting that President Trump, after Easter Sunday, would have a little bit more of a humanitarian Christian attitude. I mean, we're talking about a few hundred people -- some say it's up to 1200 people from Central America, mostly from Honduras -- they're looking for some type of help, asylum in the United States.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "We need to be nicer and more Christian, governor.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE HUCKABEE, FOX NEWS CONTRIBUTOR AND FORMER GOVERNOR OF ARKANSAS",
+      "sentences": "Well, it's his presumption that if you're a Christian, you're a chump, and people can walk all over you. We have borders. Every country has borders. I travel a lot internationally, Martha. I never go to a country where they say, forget your passport, come on in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Come on in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUCKABEE",
+      "sentences": "I never see that, ever. I don't care what country it is, including Mexico, where I was just a couple of months ago. This is absurd for us to think that somehow America ought to be open borders. In fact, the question would be: why on earth would we send the military anywhere on earth to try to fight for freedom or to fight for some type of human rights if in our own country, we just say: we have no idea who's coming in and we don't care? That's really insane. The American people elected Donald Trump largely because he was tough on this idea of our borders. It's not that he's lacking compassion. But I'll tell you something, the president of the United States needs to have his most compassion for the citizens of this country. And those are the ones who have a right to be protected by their government rather than be exposed and exploited by their own government.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, in terms of NAFTA, and the president, we watched him in South Korea with China, with Mexico, he clearly laid out, as I said in the introduction here that he wanted to do these bilateral agreements, and now we're seeing them. It's interesting that he has some interesting (INAUDIBLE), shall we say, on this issue. Here's Chuck Schumer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER, D-N.Y., SENATE MINORITY LEADER",
+      "sentences": "I am much closer to President Trump on China than I was to President Bush, Republican; President Obama, Democrat. Because they let China get away with everything.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUCKABEE",
+      "sentences": "That's kind of refreshing to hear Chuck Schumer say anything nice about Donald Trump. I want to commend James Jones, who I thought made a very good point -- NAFTA is 25-years-old, it's time to update it. I thought that was an extraordinarily insightful statement from someone who could've just been defensive and said, no, I helped craft it, it's perfect. But nothing government does is perfect, nothing government does is without the need to be updated. This isn't some deal that came down on two tablets of stone with a post mark of Mount Sinai, for heaven's sake. So, when people say, we're surprised at what the president is doing, you know what they're surprise by? Here's somebody who got elected who's doing exactly what he said he was going to do. That surprises people in Washington.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And quickly. I mean, he just keeps plowing through all of these agenda items, he doesn't get everything he wants, and, you know, dealing with a lot on the sidelines as we all know, but it's fascinating to see these, you know, sort of moving forward with these agreements and we'll see where it goes. Governor, thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUCKABEE",
+      "sentences": "Thank you, Martha. Good to be here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Thanks for coming in tonight. Coming up, Ed Henry's full exclusive interview with the embattled EPA Chief, Scott Pruitt.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHANNEL CHIEF NATIONAL CORRESPONDENT",
+      "sentences": "President Trump said he would drain the swamp. Is draining the swamp renting an apartment from the wife of a Washington lobbyist?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Is it? The answer to that, plus what Pruitt says about the other scandals surrounding his time in office so far. And Robert Mueller now says that President Trump is not a target -- a criminal target of the Russian investigation. So, where is this going next? Constitutional law attorney Jonathan Turley, says the media needs to wake up to the reality of what is happening here. He joins me next. And move over Sister Jean; there is a priest at Villanova who is shining light on the NCAA tournament. We will introduce you to Father Rob Hagan, his message: faith and the good fortune of the Wildcats, coming up next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Breaking news. Just moments ago, President Trump has signed the proclamation that allows national guards to be deployed. And under the terms of that proclamation, that could happen as early as tonight at the southern border and it is on the basis of the request of the governors along those borders. So, we will keep you posted as that movement gets underway. Also, tonight a big development in the Russia probe as news breaks that the president is not the target of a criminal investigation. Sources telling Fox News that Robert Mueller told President Trump's attorneys he will issue a report on the president's actions and that obstruction is still in the scope. Trace Gallagher live in our West Coast Newsroom to explain the story tonight. Hey, Trace.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS CHANNEL HOST",
+      "sentences": "Hey, Martha, we now know that President Trump is a subject of the special counsel probe. The definition of subject being that the president is under investigation but there is not sufficient evidence to bring charges. The Washington Post is reporting that Robert Mueller's description of the president's status has 'sparked friction' within Trump's inner circle between those who believe Trump's risk of criminal jeopardy is low and those who think that subjects can become targets and that Mueller is baiting Trump into an interview that could land him in legal trouble. Here's Harvard Law Professor Alan Dershowitz weighing both sides. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALAN DERSHOWITZ, HARVARD LAW PROFESSOR",
+      "sentences": "I would say it's good news for the president, but I would say that he has to be cautious because targets sometimes evolve from subjects particularly if they testify in a way that the prosecution thinks is false.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "Other legal experts think we're missing the point here and that the real news is that Robert Mueller is planning to write a report. Remember, unlike an independent counsel, special counsel works for the Department of Justice and is required to report conclusions confidentially to Deputy Attorney General Rod Rosenstein. It's then up to the deputy A.G. to decide whether to release the report publicly. A Harvard Law Professor Lawrence Tribe writes: 'The key isn't that Trump is not yet a target, but that he is a subject of Mueller's investigation and that Mueller will write a report on what Trump did, why, and what it adds up to. That is huge.' Unless, of course, it's not huge because as if it appears now, the special counsel has little evidence of collusion, Robert Mueller would then work to understand whether the president intended to obstruct the Russia investigation. And if the answer there is no, then Democrats and mainstream media outlets who had collusion as plan-A and obstruction as plan-B would need a quick pivot to plan-c. Martha,",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Very interesting. Trace, thank you very much. So, despite these reports, many are having a hard time wrapping their head around the idea that perhaps the president may not be indicted by Robert Mueller. In a new piece, constitutional law attorney and George Washington University law professor, writes: 'when will the media accept that Trump is not a criminal target'. Professor Turley, joins me now. Good to see you tonight, Professor Turley. So, you've been saying all along that you think that the interpretation of this by many in the media has been far too broad and too, you know, sort of amped up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONATHAN TURLEY, CONSTITUTIONAL LAW ATTORNEY AND LAW PROFESSOR AT GEORGE WASHINGTON UNIVERSITY",
+      "sentences": "Yes. You know, we went through a long period where people talk about collusion as if there was some federal crime called collusion. And then that morphed into obstruction, and then it morphed into things, like, you know, campaign finance violations or other issues. All these crimes have element. They have case precedent. You have to satisfy those. And where -- you and I talked that there are areas that should be of a great concern for President Trump. These crimes have not strengthened over time. You know, when Comey -- before Comey was fired, he said, he told Trump that he was not a target of that investigation. It appears that nothing has changed after over a year. That's a significant fact to reveal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, do you think that -- I thought it was interesting what Alan Dershowitz said that this is sort of an attempt to lure the president into a sit down by saying, don't worry, you're not a target of a criminal investigation. We are going to write a report and there is still a question of obstruction of justice, and what do you recommend to the president?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Well, I think it may be difficult for the president to avoid a sit down. There is a history of presidents yielding when there's such a great public demand for information. I think that he could thread this needle, you know. Besides the fact that we haven't seen any direct nexus in any of the past indictments to either Trump -- and really very little related to the campaign. Mueller has given four categories to the White House that should be good news. These are areas where the president has very strong defenses to make. In my view, probably insurmountable defenses, unless he's got some new evidence to present. So, could he thread that needle? Yes. Is it a dangerous process? Yes. So, he just needs to listen to his counsel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You're talking about how, you know, the media might be shocked to learn, you know, sort of the reality of where this is legally at this point. I think that Tom Friedman will have to put himself down as shocked because he is calling for -- he says President Obama and President Bush are waiting in the wings for the constitutional crisis, so that they can come in and save the country as soon as that gets underway. Watch this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "THOMAS FRIEDMAN, COLUMNIST, NEW YORK TIMES",
+      "sentences": "Barack Obama and George W. Bush have both been staying out of the political fray, despite all of the attacks on them from Trump is because they understand they are going to have to come together in the face of this constitutional crisis that's in our future and stand up for the constitution. It's going to have to be done in a bipartisan way by two ex-presidents, I think who still have a lot of credibility. And my guess is, they are saving their powder for that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "There's a panic coming and two former presidents will sweep in to fix it, Jonathan?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "It must be awkward when people are planning your wake. You know, I find it rather odd. I have a lot of respect for both of these presidents in the level of restraint that they have shown. I think it's presidential. But if they're waiting for a constitutional crisis, there's very few objectives signs that that's going to come to pass. If anything, the criminal case against President Trump has weakened over time. Now, could there be a false statement made in the interview, could there be additional evidence? Yes. But I think we have to deal with this objectively and to that he is still just a subject after over a year. Hundreds of thousands of documents and a myriad of cooperating witnesses and he still, his status has not changed. The problem is that very few people can get themselves to say that there isn't a clear-cut criminal case against the president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yes, the whole thing kind of reminds me, we'll talk about it more next time. You know, when you talk about issuing this report, you have to wonder if it could it be verbal? And you think about James Comey standing up there, basically, and issuing a report on Hillary Clinton but not finding her guilty of anything. But, you know, going through a litany of things with regard to her behavior, and I just wonder if we're going to see, you know, a similar moment when all of this wraps up. We will see. Thank you, Professor Turley. Always good to see you, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURLEY",
+      "sentences": "Thank you, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, the EPA chief is not having a great week. His job is coming under fire from environmentalists. That happened right when he took the job, but now he's on the hot seat for his conduct in office. Ed Henry pressed him strongly today. Here's some of it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHANNEL CHIEF NATIONAL CORRESPONDENT",
+      "sentences": "Mistakes you made in there Washington?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That was just a little tiny bit of it, but you're going to see the whole thing. Ed Henry next with the story that will be making a lot of news tonight. Stick around for that. And 50 years since Reverend King was killed on the balcony in Memphis. So, what would Dr. King think about where we are now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REVEREND KING, PREACHER",
+      "sentences": "We love the 50th anniversary with the challenges that we have a president that has made this kind of racial divide and intolerance become vogue again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "EPA Chief Scott Pruitt is the latest Trump cabinet member under fire for what appeared to be some conflict of interest issues with a lobbyist and questionable raises given to friends from Oklahoma who now work in his department. Now, in an exclusive and explosive interview with Chief National Correspondent Ed Henry, Pruitt is firing back at critics and defending himself. Here now, Ed Henry who sat down exclusively with the embattled EPA chief earlier today. Good evening, Ed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Martha, good to see you. Well, look, the bottom line is Scott Pruitt is fighting back. He's telling me, look, people on the left are trying to destroy him because they're so angry that he's been enacting President Trump's agenda in terms of rolling back environmental regulations, he says that's helping the economy, that is saving taxpayer, in his estimation, about a billion dollars. And he is right that the left is out to get him. They this have a 'drop Pruitt' website that trying to take him out. But it can also be true that he's giving the left and now the right some fodder. There were some House Republicans calling on him to be fired or to resign because he's been spending taxpayer money a lot -- pricey trips. Looking the potential to lease a private jet for $100,000 a month. All of this is adding up to the point that now the president is trying to decide whether or not to keep him in the cabinet or not. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "If you're committed to the Trump agenda, why did you go around the president and the White House and give pay raises to two staffers?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCOTT PRUITT, ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY",
+      "sentences": "I did not. My staff did, and I found about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Was somebody, you mean, fired for that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "That should not have been done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "So, who did it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "There will be accountability.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "A career person or political person.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "I don't know.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "You don't know? You don't know who did it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "I found out about this yesterday. And I corrected the action. And we are in the process of finding out how it took place and correct it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "So, hang on, both of these staffers who got these large pay raises are friends of yours, I believe from Oklahoma, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "They are staffers here in the agency.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "They're friends of yours?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUUITT",
+      "sentences": "Well, they serve a very important person.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "And you didn't know that they got these larges pay raises?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "I did not know that they got the pay raises until yesterday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "OK. One of them got a pay raise of, let's see, 28,000; the other was $56,000. Do you what the median income in this country is",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "No, what?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "$57,000 a year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "So, one of your friends from Oklahoma got a pay raise that's the median income --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "They did not get a pay raise. They did not get pay raise.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "They did.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "They did not. They did not; I stopped that yesterday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "So, you stopped it. Are you embarrassed that --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "It should not have happened. And the officials that were involved in that process should not have done what they did.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "President Trump said he would drain the swamp. Is that renting an apartment from the wife of a Washington lobbyist?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "I don't think that that's even remotely fair to ask that question.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "OK. So, why did you then accept $50 a night to rent a condo from the wife of a Washington lobbyist?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Let's talk about that. That is something that again, has been reviewed by ethics officials here. They've said that it's market --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "You're renting it from a wife lobbyist.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Who has not business before this --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Hold on a second. Williams and Jensen, major lobbying firm -- ExxonMobil is a client. ExxonMobil have business before --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Mr. Hardt has no client that has business before this agency.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "ExxonMobil has no firm --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "He's a member of a law firm. To take his relationship --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "You're not answering the question.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "It was like an Airbnb situation. When I was not there, the landlord may have access to the entirety of the facility. When I was there, I only had access to a room. That were common areas. They used the facility the same time when I was there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "So, you only lease for the night, you rent, when you're there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "That's exactly right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "But that's kind of a sweetheart deal, because --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "No, it's not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "-- your house in Oklahoma, you pay a mortgage on that. And when you don't sleep there --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yeah. When you don't sleep there, you still pay the mortgage, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Not when I'm not using -- I mean yes. But this is such a tremendous difference. I wasn't using the facility, Ed, when I wasn't there. And that was --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "But if I pay rent in Washington, over $2,000 a month for a one- bedroom apartment, that's the average according to various websites. And it's just commonsense --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "There were comps, Ed. There were comps done by ethics officials here. There were comps done. If you can go on craigslist today, it's been done in the last week --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "But the cabinet sector is going to --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "-- shows rentals for one-bedroom of less than $1,000. So, on Capitol Hill near.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "I've never heard of an apartment like that. I've lived in Washington over 25 years.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Well, that is something that, again, has been reviewed by ethics officials here. They've said that it's market rate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "These are career ethics --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Right. And they said that in March of this year, after you moved out, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "I moved out of this place last summer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Right. But you got the ethics letter this year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Because there was a question made about whether it's ethical or not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Let me ask you this, why does it matter when the ethics officials look at the lease, terms of the lease, to determine whether it's ethical or not?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "The president has given you a lot of credit for cutting regulations. But you've also gotten into a lot of trouble. And you said, yesterday, this is a toxic environment. But do you take responsibility for any mistakes you've made here in Washington?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "Well, I think, you know, first, let me talk about the regulatory reform. I mean the purpose of the regulatory reform effort is to provide certainty to those that we regulate. And what we've seen in the last several years among several sectors of our economy is tremendous uncertainty, and almost a weaponization of the agency against certain sections of our economy, which has caused low growth. And the president came in and said, 'We're going to deal with regulation. We're going to pass a tax cut package.' And what happened? Extraordinary growth. This agency contributed to a billion dollars in saving last year on regulation. And it's regulation that hasn't gone away. It's regulation provided certainty.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "So, it's protecting the environment, but also providing cost savings. Now, another issue, look, I do believe as we do our work, Ed, is we're focus on these types of things. They're transformational. And anytime you do transformational things --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yeah.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "-- there are critics and there are people are against you in that regard. Because this place have been -- look, it's been a place for years that has been used by the left, environment left, to advance an agenda of picking winners and losers in the marketplace.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Sure. But you've said some pretty tough stuff. You said about the president, quote, 'It isn't 2016, I think he's an empty vessel when it comes to things like the constitution and rule of law.' You've said that about Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "In February of 2016. And I will tell you, as I sit here today, as I've walked with him and served him, I didn't know the president at that time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "So why did you say something like that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "I've not served him at that time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "You've said he was an empty vessel?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "And I will tell you the changes that we've seen take place, his commitment to rule of law, his commitment to process, the regulatory changes we've seen are his leadership making it happen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "You also said --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "That was -- I was misinformed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Have you made mistakes?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "I think this is something that needs to be corrected.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "And do you take responsibility?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "It was a mistake by my team.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Do you take responsibility for it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "I'm fixing it. I'm fixing it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Do you take responsibility?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRUITT",
+      "sentences": "I'm fixing the problem.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Martha, when he says there, it's a mistake by my team. Essentially, throwing his staff under the bus about these pay raises. At one point, I asked him about the median income in this country. It's about $58,000-$59,000. One of the pay raises for one of his (friends) in Oklahoma was $57,000, the raise, not the salary. Think about what that means for our viewers all around the country because it's their tax money that he and his team is handing out. The White House told them weeks ago, this is a bad use of taxpayer money, Martha. Don't do this. And the allegation is that he and his staff went around the White House, and the President of the United States, to get these pay raises through. He's now saying he was in the dark. His staff did it. But you can see, I asked him about, another 10 times, do you take responsibility? He refused to.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. I mean, it's a great interview, very compelling, back and forth, honest questions, straightforward questions that are on the minds of a lot of people when it comes to Scott Pruitt. So, how safe is he in the big white building behind you, Ed?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Well, I can tell you that it was pretty ominous this afternoon when Sarah Sanders was asked some of similar questions about the lobbyist arrangement with the housing and other things. And she said, the president, people here around the White House are reviewing that. We're doing a deep dive. And when we know more about that, we'll let you know about the review. That is a tepid endorsement at best.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, I mean, it's no secret that the long knives were out for Scott Pruitt when he took the job, because he was an enemy of the EPA. He did not like, as he said, the weaponization of it in the prior administration. So, you know, it stands to reason that when you're in that position, you're going to have to be beyond reproach when it comes to all the other things in your life. And that's a question that's raised here. Ed, great job.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "And the drain the swamp issue too. And to say, look, it's not a fair question about an arrangement with a lobbyist. It's the kind of thing they railed about -- about the Democrats.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Great point. Great interview. Thank you so much, Ed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Good to see you tonight. So coming up, in a tense political era, where is the legacy of Dr. Martin Luther King Jr.? Jeremy Hunt and Juan Williams joins me next. And a nun and a priest leading the cheering during this year's March Madness. Is the good Lord tipping the scales in college basketball? LeBron says there's just something about Villanova.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LEBRON JAMES, NBA PLAYER",
+      "sentences": "Listen, (at the end the day), I mean Villanova was the best team in college basketball this year. And when the national player of the year is on the sideline with four fouls for the majority of the second half and you're still winning, that lets you know how great of a team you are.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. MARTIN LUTHER KING JR.",
+      "sentences": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Fifty years ago today in 1968, Reverend Martin Luther King Jr. walked out on the balcony of the Lorraine Hotel in Memphis, on his way to a local minister's home for dinner. The civil right icon was shot and killed by an assassin bullet. His death set off outcry and riots in a hundred cities across the country. The smoke so dense in Washington, D.C., they say you could not see the Capital Building. Now, the divisive battle over the future of race relations in this country continues. Today, Reverend Jesse Jackson taking aim at President Trump in an op-ed that he wrote writing this, \"Five decades ago, a segregationist governor, George Wallace, peddled hate and division in reaction to the civil right movement. Today, it is the president himself who is exciting anguish, bigotry and fear.\" While on the Wall Street Journal, a conservative black voice, Jason Riley, says change needs to be begin at home and points to failure of leadership, writing, quote, even the election of a black president twice failed to close the divide in many key measures. Black-white differences in poverty, homeownership and incomes all grew wider under President Obama. Joining me now on where we are in terms of Dr. King's dream of national unity, Jeremy Hunt, an active duty army officer and conservative commentator, and Juan Williams, co-host of The Five, Fox News political analyst and author of Eyes on the Prize, America's Civil Rights Years. Gentlemen, welcome. Good to have both of you with us today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JEREMY HUNT, ACTIVE DUTY ARMY OFFICER",
+      "sentences": "Nice to be with you. Good to be on with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, obviously -- thank you very much, Jeremy. Juan, let me start with you. You know, when you look at those two very different statements, what's your take away?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, THE FIVE CO-HOST",
+      "sentences": "Well, I think we live in a very divided society when it comes to arguments about President Trump, and race, and white nationalism, and it appeals to white voters and all that. But I just would ask everyone to stop for a second and apply some context. Even as we have this very unhelpful words, in terms of pointing fingers at each other, and most Americans in polls say that we are highly divided. If you just look back 50 years when Dr. King was in the shot that you've just showed, Martha, my goodness, that we have come so far in terms of everything from income to education to homeownership. There was no Civil Rights Act. There was no Voting Rights Act. There was no Fair Housing Act. We have so much work to do. But, to me, Dr. King's vision, wow, I think he would be thrilled to know that we have had, for example, Jeremy is in the military, that we've had a Colin Powell as chairman of the Joint Chief of Staff. Not to mention, Secretary of State Condi Rice as a Secretary of State. President Obama, a black president, unthinkable back in 1968.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, Jason Riley points out, Jeremy, in another part of that piece, he said more marches won't address out of wedlock child bearing, more sit-ins won't lower black crime rates and narrow the school achievement gaps. So, you know, it's a question, I think, between these two voices of, you know, where the improvement needs to happen. And are we open and honest enough about some of the issues that, in some cases, holdback, still, African-Americans in the country?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUNT",
+      "sentences": "Absolutely. First off, everything I said to Eric Horst was my personal views. And I agree with Juan that we have made some incredible progress just in the last 50 years. And it is incredible that the great men whose steps I walked in today. But I will say, though, that a few things about the piece, specifically in the Wall Street Journal. First off, I do think that -- I agree, in some capacity, that if racism was eradicated in the United States immediately. If everyone was zapped with enlightened views on race magically, Blacks would still suffer in several parts of our country today. And so, a lot of these issues are policy issues and not necessarily just issues with race in particular. So, I do think it's important to talk about that. However, I do think there are still major issues with race in our country today, and it would be behoove us to discuss it instead of trying to paper over it as some have tried to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. You know, it feels like our identity politics, Juan, have become deeper in recent years. I feel like this is an issue that was in much better shape when I was growing up than it is now in many ways. You know, how do you speak to that when you have so much division on college campuses happening? You think about Martin Luther King statement about being judged by the content of our character. That means everybody across the board, regardless of which identity group you put yourself in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Right. So, this is really interesting to me because, you know, the fact is, is that when we were growing up, and Martha, you're younger than I am, but when we were growing up, you know, my father lived in a segregated neighborhood. He couldn't get certain jobs. And I'm sitting here as, you know, not only a Fox News employee but a published writer and author. So, I think we have made tremendous progress. But when you give people voice, people who previously felt like they couldn't speak up, that they've really had to act in a way that was traditionally subserving or second class, and you let those people speak up, then there's going to be a lot of hubbub and disconcerting kind of rhetoric used. But I think, in fact, there's so much to be proud of in terms of America's journey here. I just think, you know, sometimes you hear some of these civil rights leaders speak in draconian terms, not only about what's going on today or President Trump, but about America. And I just think that's wrong headed. I think we have to appeal to our better angels.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Quick final thoughts, Jeremy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUNT",
+      "sentences": "I completely agree. Dr. King, he saw us all -- he took the Christian view that many of us were all capable of hate, and only love can drown out hate. And it is time, as Juan said, to appeal to the better part of us, the unifying part of us, that we are all Americans and we're all in this together.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Great message. Jeremy Hunt, thank you very much. Juan Williams, always a pleasure. Thank you, gentlemen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, to basketball now for a moment. Sister Jean got her own bobble-head doll, and a lot of love for her Loyola-Chicago basketball team. But on Monday night, it was Father Rob who was given the honor of cutting down a piece of spring from the net. Game star, Donte DiVincenzo, says simply, Father Rob is everything. The man who inspires the Wildcats coming up next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "To be a good basketball player, you have to have a clear mind. And that's something we've work on all the time, talking to them all the time about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, as we all saw, Sister Jean won hearts across the country cheering on her beloved Loyola-Chicago team. But it was Father Rob Hagan of Villanova who've got to ride home from Texas with the trophy. The Villanova grad and former attorney, then followed his life's devotion to St. Augustine, ultimately, to the priesthood, travels everywhere with the team. And is the person that they turn to when they needed someone to just listen to them. Rarely, in the high octane world of college basketball have the chaplains of the team been so much a part of the story. In fact, 8 of the 64 teams to make it to the dance were catholic schools, and two in the final four, which led to this piece in the New York Times, 'Why Catholic colleges excel at basketball?' They write about how these colleges cater to inner-city, working class kids and immigrants, and that tradition continues. They say that several decades ago, many American Catholics were working class urbanites clustered in some of the same cities, New York, Philadelphia, Chicago, San Francisco, New Orleans, in which those schools rose up. In basketball, with its inexpensive overhead, compact field of play, and small number of participants, they found a sport that suited them. And that is certainly true. Here now, Father Rob Hagan, Villanova's associate athletic director and team chaplain. Father Rob, thank you, good to have you here tonight. Congratulations to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REV. ROBERT HAGAN, VILLANOVA ASSOCIATE ATHLETIC DIRECTOR",
+      "sentences": "Great to be here. We're thrilled. Very excited.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What's so special about this team? What is the secret to their success? You've watched them day in, day out, at practice, on the road, everywhere?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HAGAN",
+      "sentences": "You know, a lot of people have been asking that and, obviously, they're very talented. They're really are gifted. They know how to play. But what they really have is togetherness. They really are together bunch. They talked a lot among themselves about being a band of brothers. There really is a brotherhood, a spirit that kind of unites them all. Not just the starters, but the walks on and the managers. And so, it's just they had kind of collective strength that they wouldn't have as individuals.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, they do. And I've watched them play a lot. Not as much as you have, and a lot of it on TV. But sometimes I have the pleasure of being there in person, which is just so magmatic. It's really magical. But, you know, when you watch them they do have -- like, somebody always seems to take the lead, or somebody has a really hot night. And on D-night, on Monday, that was clearly Donte DiVincenzo, who had an amazing night. I know that you have a strong relationship with him. And the quote I read before was that he says about you, Father Rob is everything. Tell me about your relationship with Donte?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HAGAN",
+      "sentences": "You know, a lot of these student athletes they come here and they're incredibly gifted, they're incredibly talented. And then they get here and they're surrounded by talent all around them. And there's only one ball, and there's only so many minutes, and there's so many opportunities to take shots. And so, often, you have somebody that hasn't sat on the bench since third grade who has to learn to fit in to the biggest picture. In Donte's case, his first year here, he got injured, he hurt his foot, so he wasn't been able to play. And to focus on some other things and find his role as part of the team without making any shots. And then, when he finally does get an opportunity to play, he's relegated to, kind of, a 6th man or a nonstarter role. And so, a lot of this was kind of his journey through humility and accepting, you know, being a part of something bigger than just himself. And so, I had an opportunity to walk with him during that journey, to talk about things that we all don't always like to talk about, like patience, and waiting our turn, and being ready when our number is called. And I couldn't be happier for him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, what do you tell him now? You've got LeBron James, you know, talking about you on TV. It's a heady time for these young men.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HAGAN",
+      "sentences": "It is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And we all know that, you know, some of them make it to the NBA, but most of them, the great majority of them don't. So, how do you prepare them for that experience?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HAGAN",
+      "sentences": "Coach Wright has a wonderful way of reminding them not just about the basketball, but life after basketball. And we infuse the spirit, what we like to talk about, about being hungry and humble. And so, let's hope that this isn't the greatest thing that Donte ever does with his life. He's got more living to do. He's got more people lives to affect. St. Augustine has a wonderful line where he says, do not be content with what you are. If you want to become what you are not yet. Where you've grown pleased with yourself, there you shall remain. And so, we've got more mountains to climb, and we've got more work to do, and I know Donte feels that way. And that's kind of a fire that burns within him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. Well, it's a great team, Jalen Brunson, Mikal Bridges, all of those guys, just an amazing group. You know, there's a lot of talk about the fact that these players should be paid. Obviously, you know, this is a big money business. Million dollars go to the universities when they get as far as Villanova has. What do you think about that, Father Rob?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HAGAN",
+      "sentences": "You know I can definitely see both sides to that. I don't think people realize what a \"full-time job\" this really is in terms of the travel, and the preparation, and the study, and the practice and the film. But at the same time, you know, we are looking for student athletes that want to be a part of something bigger than just themselves, that value a Villanova education as to what it's going to means for them, you know, long after their four years is over. The faculty, the resources, the people that care for them, the network they are part of. And so, in a lot of ways it's a win-win.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Father Rob, thank you so much. As you know, my family has a big commitment to Villanova, and it's a pleasure to you have here tonight. Congratulations again. Go Cats. Thank you, Father Rob.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HAGAN",
+      "sentences": "Thank you, Martha. God bless.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "We'll be right back. God bless.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "One last quote tonight from Reverend Martin Luther King Jr., which picks a bit on what Father Rob just said, he said the ultimate measure of a man is not where he stand in moments of comfort and convenience, but where he stands in times of challenge and controversy. More story tomorrow night. Tucker is up next. Copy: Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS CHANNEL HOST",
+      "utterance": "And that's SPECIAL REPORT for tonight, I'm Chris Wallace in Washington. 'The Story' with Martha MacCallum is next."
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, FOX NEWS CHANNE HOST",
+      "utterance": "That's great. I love that story. Thank you very much, Chris, good to see you tonight. Breaking tonight on 'The Story': President Trump getting positive news on the Russian front. Jonathan Turley here in a moment with his column entitled: 'When Will the Media Accept That Trump Is Not A Criminal Target?' And the Trump administration's marching orders on ramping up the crackdown on our southern border. Just a short time ago, Attorney General Jeff Sessions saying that he won't accept the 'lawlessness of the caravan migrants heading toward the United States border.' His department announcing brand new steps to protect that border and homeland security is sending the National Guard."
+    },
+    {
+      "speaker": "KIRSTJEN NIELSEN, SECRETARY OF HOMELAND SECURITY",
+      "utterance": "The president has directed that the Department of Defense and Department of Homeland Security work together with our governors to deploy the National Guard to our southwest border to assist the border patrol. The president will be signing a proclamation to that effect today."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "The deploying troop seems to be just one component of the president's overall strategy here. The other is leveraging this story of the caravan to get what the president wants on NAFTA, an agreement that he says Mexico makes a killing off of on the backs of Americans. Country by country, the president is methodically reworking trade deals from South Korea to China to Mexico. This should come as a surprise to nobody."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "We're going to be guarding our border with the military. That's a big step. We really haven't done that before, certainly not very much before. But we be will doing things with Mexico and they have to do it. Otherwise, I'm not going to do the NAFTA deal."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, will the president get what he wants? We just have word breaking moments ago that the president has signed the proclamation that will authorize sending the National Guard to the border. So, that's now in motion. James Jones helped pass NAFTA as a former ambassador to Mexico under President Clinton. And he is our exclusive guest tonight only on 'The Story.' Sir, good to see you tonight. I'm curious what you think about the president's plan here."
+    },
+    {
+      "speaker": "JAMES JONES, FORMER AMBASSADOR TO MEXICO UNDER PRESIDENT CLINTON",
+      "utterance": "Well, it depends on what the plan is. As far as the troops, every nation has the right to guard their borders. The Obama administration and the Bush administration, both put the U.S. troops on the border for a short-lived period of time. So, that is not a particular problem. I think we need to know what the plan is, though."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "In terms of NAFTA, you hope to craft it and pass it. He has said some very unflattering things about NAFTA, including taking aim at some of the people who were behind it. Questioning, you know, how you could've come up with such a deal. He talks about the fact that when it was crafted there was a very small trade surplus with Mexico, now you've a 63 billion dollars trade deficit with Mexico, and also points to the loss of 850,000 U.S. jobs since its signing. Is it time to scrap or redo NAFTA?"
+    },
+    {
+      "speaker": "JONES",
+      "utterance": "Well, of course, it's time to modernize NAFTA. There's no question about it. It's a 25-year-old treaty. We didn't even have cellphones in the days when NAFTA was passed. So, a lot of things need to be modernized and upgraded. That's not the issue. As far as the jobs lost by NAFTA or any trade agreement, it's been shown very clearly that most of those of jobs, 87 percent of the jobs have been lost by technology improvements. And I don't think we want to stop technology to -- in order to save certain jobs. So, I think there's a lot of bad information being distributed on both the trade agreements and our relationship with Mexico -- which, it needs to be corrected. Whatever the staff is feeding that information needs to get it right."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, it's interesting when you listen to what we're hearing from Mexican officials with regard to this. And it feels like they are recognizing their role in some of what has port across our border to some extent. Here's the Mexican Ambassador, Geronimo Gutierrez, on 'Special Report.' Watch."
+    },
+    {
+      "speaker": "GERONIMO GUTIERREZ, MEXICAN AMBASSADOR",
+      "utterance": "In 2016, Mexico repatriated -- respecting the rights of people, repatriated around 153,000 Central Americans."
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS CHANNEL HOST",
+      "utterance": "That's a lot of people."
+    },
+    {
+      "speaker": "GUTIERREZ",
+      "utterance": "In 2017, that number was around 100,000. And the figures so far for these years are around 40,000. So, we do work to assure that migration is legal, safe, and ordered."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Ambassador Jones, it sounds like, in many ways, Mexico has tougher laws at their borders than we do."
+    },
+    {
+      "speaker": "JONES",
+      "utterance": "Well, I don't know if they have tougher laws at their border but they have different laws. One of the things that need to be clarified is Mexico and the United States working together to solve these border problems whether it's immigration or whether it's drugs and guns and things like that. And the fact is, I've been on the Secretary of Homeland Security advisory council for about six or seven years under three different secretaries including the current one. And I asked our law enforcement people at DHS: how are we working together? And the word I get from our own U.S. law enforcement people is the relationship and the cooperation has never been better. Mexico is apprehending a lot more people than they ever have. We're working together on exchanging information, et cetera. So, I think that needs to be clarified."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, that's not what we're hearing from Vicente Fox, but it does seem like the people who are in charge now have a very different feeling about the relationship overall. Thank you very much, Ambassador Jones."
+    },
+    {
+      "speaker": "JONES",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Good to have you with us tonight."
+    },
+    {
+      "speaker": "JONES",
+      "utterance": "Thank you. Good to be here."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Joining me now here in New York: Mike Huckabee, Former Governor of Arkansas and a Fox News Contributor. You know, one things, governor that we heard last night from a gentleman named Juan Hernandez is that Americans need to be more compassionate when it comes to what's pouring across the border. Let's listen to that and get your thoughts."
+    },
+    {
+      "speaker": "JUAN HERNANDEZ, AMERICAN POLITICAL ADVISOR AND EXPERT IN MEXICO-UNITED STATES RELATIONS",
+      "utterance": "I was expecting that President Trump, after Easter Sunday, would have a little bit more of a humanitarian Christian attitude. I mean, we're talking about a few hundred people -- some say it's up to 1200 people from Central America, mostly from Honduras -- they're looking for some type of help, asylum in the United States."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "We need to be nicer and more Christian, governor."
+    },
+    {
+      "speaker": "MIKE HUCKABEE, FOX NEWS CONTRIBUTOR AND FORMER GOVERNOR OF ARKANSAS",
+      "utterance": "Well, it's his presumption that if you're a Christian, you're a chump, and people can walk all over you. We have borders. Every country has borders. I travel a lot internationally, Martha. I never go to a country where they say, forget your passport, come on in."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Come on in."
+    },
+    {
+      "speaker": "HUCKABEE",
+      "utterance": "I never see that, ever. I don't care what country it is, including Mexico, where I was just a couple of months ago. This is absurd for us to think that somehow America ought to be open borders. In fact, the question would be: why on earth would we send the military anywhere on earth to try to fight for freedom or to fight for some type of human rights if in our own country, we just say: we have no idea who's coming in and we don't care? That's really insane. The American people elected Donald Trump largely because he was tough on this idea of our borders. It's not that he's lacking compassion. But I'll tell you something, the president of the United States needs to have his most compassion for the citizens of this country. And those are the ones who have a right to be protected by their government rather than be exposed and exploited by their own government."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, in terms of NAFTA, and the president, we watched him in South Korea with China, with Mexico, he clearly laid out, as I said in the introduction here that he wanted to do these bilateral agreements, and now we're seeing them. It's interesting that he has some interesting (INAUDIBLE), shall we say, on this issue. Here's Chuck Schumer."
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER, D-N.Y., SENATE MINORITY LEADER",
+      "utterance": "I am much closer to President Trump on China than I was to President Bush, Republican; President Obama, Democrat. Because they let China get away with everything."
+    },
+    {
+      "speaker": "HUCKABEE",
+      "utterance": "That's kind of refreshing to hear Chuck Schumer say anything nice about Donald Trump. I want to commend James Jones, who I thought made a very good point -- NAFTA is 25-years-old, it's time to update it. I thought that was an extraordinarily insightful statement from someone who could've just been defensive and said, no, I helped craft it, it's perfect. But nothing government does is perfect, nothing government does is without the need to be updated. This isn't some deal that came down on two tablets of stone with a post mark of Mount Sinai, for heaven's sake. So, when people say, we're surprised at what the president is doing, you know what they're surprise by? Here's somebody who got elected who's doing exactly what he said he was going to do. That surprises people in Washington."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And quickly. I mean, he just keeps plowing through all of these agenda items, he doesn't get everything he wants, and, you know, dealing with a lot on the sidelines as we all know, but it's fascinating to see these, you know, sort of moving forward with these agreements and we'll see where it goes. Governor, thank you."
+    },
+    {
+      "speaker": "HUCKABEE",
+      "utterance": "Thank you, Martha. Good to be here."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Thanks for coming in tonight. Coming up, Ed Henry's full exclusive interview with the embattled EPA Chief, Scott Pruitt."
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHANNEL CHIEF NATIONAL CORRESPONDENT",
+      "utterance": "President Trump said he would drain the swamp. Is draining the swamp renting an apartment from the wife of a Washington lobbyist?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Is it? The answer to that, plus what Pruitt says about the other scandals surrounding his time in office so far. And Robert Mueller now says that President Trump is not a target -- a criminal target of the Russian investigation. So, where is this going next? Constitutional law attorney Jonathan Turley, says the media needs to wake up to the reality of what is happening here. He joins me next. And move over Sister Jean; there is a priest at Villanova who is shining light on the NCAA tournament. We will introduce you to Father Rob Hagan, his message: faith and the good fortune of the Wildcats, coming up next."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Breaking news. Just moments ago, President Trump has signed the proclamation that allows national guards to be deployed. And under the terms of that proclamation, that could happen as early as tonight at the southern border and it is on the basis of the request of the governors along those borders. So, we will keep you posted as that movement gets underway. Also, tonight a big development in the Russia probe as news breaks that the president is not the target of a criminal investigation. Sources telling Fox News that Robert Mueller told President Trump's attorneys he will issue a report on the president's actions and that obstruction is still in the scope. Trace Gallagher live in our West Coast Newsroom to explain the story tonight. Hey, Trace."
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS CHANNEL HOST",
+      "utterance": "Hey, Martha, we now know that President Trump is a subject of the special counsel probe. The definition of subject being that the president is under investigation but there is not sufficient evidence to bring charges. The Washington Post is reporting that Robert Mueller's description of the president's status has 'sparked friction' within Trump's inner circle between those who believe Trump's risk of criminal jeopardy is low and those who think that subjects can become targets and that Mueller is baiting Trump into an interview that could land him in legal trouble. Here's Harvard Law Professor Alan Dershowitz weighing both sides. Watch."
+    },
+    {
+      "speaker": "ALAN DERSHOWITZ, HARVARD LAW PROFESSOR",
+      "utterance": "I would say it's good news for the president, but I would say that he has to be cautious because targets sometimes evolve from subjects particularly if they testify in a way that the prosecution thinks is false."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "Other legal experts think we're missing the point here and that the real news is that Robert Mueller is planning to write a report. Remember, unlike an independent counsel, special counsel works for the Department of Justice and is required to report conclusions confidentially to Deputy Attorney General Rod Rosenstein. It's then up to the deputy A.G. to decide whether to release the report publicly. A Harvard Law Professor Lawrence Tribe writes: 'The key isn't that Trump is not yet a target, but that he is a subject of Mueller's investigation and that Mueller will write a report on what Trump did, why, and what it adds up to. That is huge.' Unless, of course, it's not huge because as if it appears now, the special counsel has little evidence of collusion, Robert Mueller would then work to understand whether the president intended to obstruct the Russia investigation. And if the answer there is no, then Democrats and mainstream media outlets who had collusion as plan-A and obstruction as plan-B would need a quick pivot to plan-c. Martha,"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Very interesting. Trace, thank you very much. So, despite these reports, many are having a hard time wrapping their head around the idea that perhaps the president may not be indicted by Robert Mueller. In a new piece, constitutional law attorney and George Washington University law professor, writes: 'when will the media accept that Trump is not a criminal target'. Professor Turley, joins me now. Good to see you tonight, Professor Turley. So, you've been saying all along that you think that the interpretation of this by many in the media has been far too broad and too, you know, sort of amped up."
+    },
+    {
+      "speaker": "JONATHAN TURLEY, CONSTITUTIONAL LAW ATTORNEY AND LAW PROFESSOR AT GEORGE WASHINGTON UNIVERSITY",
+      "utterance": "Yes. You know, we went through a long period where people talk about collusion as if there was some federal crime called collusion. And then that morphed into obstruction, and then it morphed into things, like, you know, campaign finance violations or other issues. All these crimes have element. They have case precedent. You have to satisfy those. And where -- you and I talked that there are areas that should be of a great concern for President Trump. These crimes have not strengthened over time. You know, when Comey -- before Comey was fired, he said, he told Trump that he was not a target of that investigation. It appears that nothing has changed after over a year. That's a significant fact to reveal."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, do you think that -- I thought it was interesting what Alan Dershowitz said that this is sort of an attempt to lure the president into a sit down by saying, don't worry, you're not a target of a criminal investigation. We are going to write a report and there is still a question of obstruction of justice, and what do you recommend to the president?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Well, I think it may be difficult for the president to avoid a sit down. There is a history of presidents yielding when there's such a great public demand for information. I think that he could thread this needle, you know. Besides the fact that we haven't seen any direct nexus in any of the past indictments to either Trump -- and really very little related to the campaign. Mueller has given four categories to the White House that should be good news. These are areas where the president has very strong defenses to make. In my view, probably insurmountable defenses, unless he's got some new evidence to present. So, could he thread that needle? Yes. Is it a dangerous process? Yes. So, he just needs to listen to his counsel."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You're talking about how, you know, the media might be shocked to learn, you know, sort of the reality of where this is legally at this point. I think that Tom Friedman will have to put himself down as shocked because he is calling for -- he says President Obama and President Bush are waiting in the wings for the constitutional crisis, so that they can come in and save the country as soon as that gets underway. Watch this."
+    },
+    {
+      "speaker": "THOMAS FRIEDMAN, COLUMNIST, NEW YORK TIMES",
+      "utterance": "Barack Obama and George W. Bush have both been staying out of the political fray, despite all of the attacks on them from Trump is because they understand they are going to have to come together in the face of this constitutional crisis that's in our future and stand up for the constitution. It's going to have to be done in a bipartisan way by two ex-presidents, I think who still have a lot of credibility. And my guess is, they are saving their powder for that."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "There's a panic coming and two former presidents will sweep in to fix it, Jonathan?"
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "It must be awkward when people are planning your wake. You know, I find it rather odd. I have a lot of respect for both of these presidents in the level of restraint that they have shown. I think it's presidential. But if they're waiting for a constitutional crisis, there's very few objectives signs that that's going to come to pass. If anything, the criminal case against President Trump has weakened over time. Now, could there be a false statement made in the interview, could there be additional evidence? Yes. But I think we have to deal with this objectively and to that he is still just a subject after over a year. Hundreds of thousands of documents and a myriad of cooperating witnesses and he still, his status has not changed. The problem is that very few people can get themselves to say that there isn't a clear-cut criminal case against the president."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yes, the whole thing kind of reminds me, we'll talk about it more next time. You know, when you talk about issuing this report, you have to wonder if it could it be verbal? And you think about James Comey standing up there, basically, and issuing a report on Hillary Clinton but not finding her guilty of anything. But, you know, going through a litany of things with regard to her behavior, and I just wonder if we're going to see, you know, a similar moment when all of this wraps up. We will see. Thank you, Professor Turley. Always good to see you, sir."
+    },
+    {
+      "speaker": "TURLEY",
+      "utterance": "Thank you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, the EPA chief is not having a great week. His job is coming under fire from environmentalists. That happened right when he took the job, but now he's on the hot seat for his conduct in office. Ed Henry pressed him strongly today. Here's some of it."
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHANNEL CHIEF NATIONAL CORRESPONDENT",
+      "utterance": "Mistakes you made in there Washington?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That was just a little tiny bit of it, but you're going to see the whole thing. Ed Henry next with the story that will be making a lot of news tonight. Stick around for that. And 50 years since Reverend King was killed on the balcony in Memphis. So, what would Dr. King think about where we are now?"
+    },
+    {
+      "speaker": "REVEREND KING, PREACHER",
+      "utterance": "We love the 50th anniversary with the challenges that we have a president that has made this kind of racial divide and intolerance become vogue again."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "EPA Chief Scott Pruitt is the latest Trump cabinet member under fire for what appeared to be some conflict of interest issues with a lobbyist and questionable raises given to friends from Oklahoma who now work in his department. Now, in an exclusive and explosive interview with Chief National Correspondent Ed Henry, Pruitt is firing back at critics and defending himself. Here now, Ed Henry who sat down exclusively with the embattled EPA chief earlier today. Good evening, Ed."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Martha, good to see you. Well, look, the bottom line is Scott Pruitt is fighting back. He's telling me, look, people on the left are trying to destroy him because they're so angry that he's been enacting President Trump's agenda in terms of rolling back environmental regulations, he says that's helping the economy, that is saving taxpayer, in his estimation, about a billion dollars. And he is right that the left is out to get him. They this have a 'drop Pruitt' website that trying to take him out. But it can also be true that he's giving the left and now the right some fodder. There were some House Republicans calling on him to be fired or to resign because he's been spending taxpayer money a lot -- pricey trips. Looking the potential to lease a private jet for $100,000 a month. All of this is adding up to the point that now the president is trying to decide whether or not to keep him in the cabinet or not. Watch."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "If you're committed to the Trump agenda, why did you go around the president and the White House and give pay raises to two staffers?"
+    },
+    {
+      "speaker": "SCOTT PRUITT, ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY",
+      "utterance": "I did not. My staff did, and I found about it."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Was somebody, you mean, fired for that?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "That should not have been done."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "So, who did it?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "There will be accountability."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "A career person or political person."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "I don't know."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "You don't know? You don't know who did it?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "I found out about this yesterday. And I corrected the action. And we are in the process of finding out how it took place and correct it."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "So, hang on, both of these staffers who got these large pay raises are friends of yours, I believe from Oklahoma, right?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "They are staffers here in the agency."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "They're friends of yours?"
+    },
+    {
+      "speaker": "PRUUITT",
+      "utterance": "Well, they serve a very important person."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "And you didn't know that they got these larges pay raises?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "I did not know that they got the pay raises until yesterday."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "OK. One of them got a pay raise of, let's see, 28,000; the other was $56,000. Do you what the median income in this country is"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "No, what?"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "$57,000 a year."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "So, one of your friends from Oklahoma got a pay raise that's the median income --"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "They did not get a pay raise. They did not get pay raise."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "They did."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "They did not. They did not; I stopped that yesterday."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "So, you stopped it. Are you embarrassed that --"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "It should not have happened. And the officials that were involved in that process should not have done what they did."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "President Trump said he would drain the swamp. Is that renting an apartment from the wife of a Washington lobbyist?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "I don't think that that's even remotely fair to ask that question."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "OK. So, why did you then accept $50 a night to rent a condo from the wife of a Washington lobbyist?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Let's talk about that. That is something that again, has been reviewed by ethics officials here. They've said that it's market --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "You're renting it from a wife lobbyist."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Who has not business before this --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Hold on a second. Williams and Jensen, major lobbying firm -- ExxonMobil is a client. ExxonMobil have business before --"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Mr. Hardt has no client that has business before this agency."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "ExxonMobil has no firm --"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "He's a member of a law firm. To take his relationship --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "You're not answering the question."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "It was like an Airbnb situation. When I was not there, the landlord may have access to the entirety of the facility. When I was there, I only had access to a room. That were common areas. They used the facility the same time when I was there."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "So, you only lease for the night, you rent, when you're there."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "That's exactly right."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "But that's kind of a sweetheart deal, because --"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "No, it's not."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "-- your house in Oklahoma, you pay a mortgage on that. And when you don't sleep there --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yeah. When you don't sleep there, you still pay the mortgage, right?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Not when I'm not using -- I mean yes. But this is such a tremendous difference. I wasn't using the facility, Ed, when I wasn't there. And that was --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "But if I pay rent in Washington, over $2,000 a month for a one- bedroom apartment, that's the average according to various websites. And it's just commonsense --"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "There were comps, Ed. There were comps done by ethics officials here. There were comps done. If you can go on craigslist today, it's been done in the last week --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "But the cabinet sector is going to --"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "-- shows rentals for one-bedroom of less than $1,000. So, on Capitol Hill near."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "I've never heard of an apartment like that. I've lived in Washington over 25 years."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Well, that is something that, again, has been reviewed by ethics officials here. They've said that it's market rate."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "These are career ethics --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Right. And they said that in March of this year, after you moved out, right?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "I moved out of this place last summer."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Right. But you got the ethics letter this year."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Because there was a question made about whether it's ethical or not."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Let me ask you this, why does it matter when the ethics officials look at the lease, terms of the lease, to determine whether it's ethical or not?"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "The president has given you a lot of credit for cutting regulations. But you've also gotten into a lot of trouble. And you said, yesterday, this is a toxic environment. But do you take responsibility for any mistakes you've made here in Washington?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "Well, I think, you know, first, let me talk about the regulatory reform. I mean the purpose of the regulatory reform effort is to provide certainty to those that we regulate. And what we've seen in the last several years among several sectors of our economy is tremendous uncertainty, and almost a weaponization of the agency against certain sections of our economy, which has caused low growth. And the president came in and said, 'We're going to deal with regulation. We're going to pass a tax cut package.' And what happened? Extraordinary growth. This agency contributed to a billion dollars in saving last year on regulation. And it's regulation that hasn't gone away. It's regulation provided certainty."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "So, it's protecting the environment, but also providing cost savings. Now, another issue, look, I do believe as we do our work, Ed, is we're focus on these types of things. They're transformational. And anytime you do transformational things --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yeah."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "-- there are critics and there are people are against you in that regard. Because this place have been -- look, it's been a place for years that has been used by the left, environment left, to advance an agenda of picking winners and losers in the marketplace."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Sure. But you've said some pretty tough stuff. You said about the president, quote, 'It isn't 2016, I think he's an empty vessel when it comes to things like the constitution and rule of law.' You've said that about Donald Trump."
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "In February of 2016. And I will tell you, as I sit here today, as I've walked with him and served him, I didn't know the president at that time."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "So why did you say something like that?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "I've not served him at that time."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "You've said he was an empty vessel?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "And I will tell you the changes that we've seen take place, his commitment to rule of law, his commitment to process, the regulatory changes we've seen are his leadership making it happen."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "You also said --"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "That was -- I was misinformed."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Have you made mistakes?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "I think this is something that needs to be corrected."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "And do you take responsibility?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "It was a mistake by my team."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Do you take responsibility for it?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "I'm fixing it. I'm fixing it."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Do you take responsibility?"
+    },
+    {
+      "speaker": "PRUITT",
+      "utterance": "I'm fixing the problem."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Martha, when he says there, it's a mistake by my team. Essentially, throwing his staff under the bus about these pay raises. At one point, I asked him about the median income in this country. It's about $58,000-$59,000. One of the pay raises for one of his (friends) in Oklahoma was $57,000, the raise, not the salary. Think about what that means for our viewers all around the country because it's their tax money that he and his team is handing out. The White House told them weeks ago, this is a bad use of taxpayer money, Martha. Don't do this. And the allegation is that he and his staff went around the White House, and the President of the United States, to get these pay raises through. He's now saying he was in the dark. His staff did it. But you can see, I asked him about, another 10 times, do you take responsibility? He refused to."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. I mean, it's a great interview, very compelling, back and forth, honest questions, straightforward questions that are on the minds of a lot of people when it comes to Scott Pruitt. So, how safe is he in the big white building behind you, Ed?"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Well, I can tell you that it was pretty ominous this afternoon when Sarah Sanders was asked some of similar questions about the lobbyist arrangement with the housing and other things. And she said, the president, people here around the White House are reviewing that. We're doing a deep dive. And when we know more about that, we'll let you know about the review. That is a tepid endorsement at best."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, I mean, it's no secret that the long knives were out for Scott Pruitt when he took the job, because he was an enemy of the EPA. He did not like, as he said, the weaponization of it in the prior administration. So, you know, it stands to reason that when you're in that position, you're going to have to be beyond reproach when it comes to all the other things in your life. And that's a question that's raised here. Ed, great job."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "And the drain the swamp issue too. And to say, look, it's not a fair question about an arrangement with a lobbyist. It's the kind of thing they railed about -- about the Democrats."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Great point. Great interview. Thank you so much, Ed."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Good to see you tonight. So coming up, in a tense political era, where is the legacy of Dr. Martin Luther King Jr.? Jeremy Hunt and Juan Williams joins me next. And a nun and a priest leading the cheering during this year's March Madness. Is the good Lord tipping the scales in college basketball? LeBron says there's just something about Villanova."
+    },
+    {
+      "speaker": "LEBRON JAMES, NBA PLAYER",
+      "utterance": "Listen, (at the end the day), I mean Villanova was the best team in college basketball this year. And when the national player of the year is on the sideline with four fouls for the majority of the second half and you're still winning, that lets you know how great of a team you are."
+    },
+    {
+      "speaker": "DR. MARTIN LUTHER KING JR.",
+      "utterance": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character. I have a dream today."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Fifty years ago today in 1968, Reverend Martin Luther King Jr. walked out on the balcony of the Lorraine Hotel in Memphis, on his way to a local minister's home for dinner. The civil right icon was shot and killed by an assassin bullet. His death set off outcry and riots in a hundred cities across the country. The smoke so dense in Washington, D.C., they say you could not see the Capital Building. Now, the divisive battle over the future of race relations in this country continues. Today, Reverend Jesse Jackson taking aim at President Trump in an op-ed that he wrote writing this, \"Five decades ago, a segregationist governor, George Wallace, peddled hate and division in reaction to the civil right movement. Today, it is the president himself who is exciting anguish, bigotry and fear.\" While on the Wall Street Journal, a conservative black voice, Jason Riley, says change needs to be begin at home and points to failure of leadership, writing, quote, even the election of a black president twice failed to close the divide in many key measures. Black-white differences in poverty, homeownership and incomes all grew wider under President Obama. Joining me now on where we are in terms of Dr. King's dream of national unity, Jeremy Hunt, an active duty army officer and conservative commentator, and Juan Williams, co-host of The Five, Fox News political analyst and author of Eyes on the Prize, America's Civil Rights Years. Gentlemen, welcome. Good to have both of you with us today."
+    },
+    {
+      "speaker": "JEREMY HUNT, ACTIVE DUTY ARMY OFFICER",
+      "utterance": "Nice to be with you. Good to be on with you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, obviously -- thank you very much, Jeremy. Juan, let me start with you. You know, when you look at those two very different statements, what's your take away?"
+    },
+    {
+      "speaker": "JUAN WILLIAMS, THE FIVE CO-HOST",
+      "utterance": "Well, I think we live in a very divided society when it comes to arguments about President Trump, and race, and white nationalism, and it appeals to white voters and all that. But I just would ask everyone to stop for a second and apply some context. Even as we have this very unhelpful words, in terms of pointing fingers at each other, and most Americans in polls say that we are highly divided. If you just look back 50 years when Dr. King was in the shot that you've just showed, Martha, my goodness, that we have come so far in terms of everything from income to education to homeownership. There was no Civil Rights Act. There was no Voting Rights Act. There was no Fair Housing Act. We have so much work to do. But, to me, Dr. King's vision, wow, I think he would be thrilled to know that we have had, for example, Jeremy is in the military, that we've had a Colin Powell as chairman of the Joint Chief of Staff. Not to mention, Secretary of State Condi Rice as a Secretary of State. President Obama, a black president, unthinkable back in 1968."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, Jason Riley points out, Jeremy, in another part of that piece, he said more marches won't address out of wedlock child bearing, more sit-ins won't lower black crime rates and narrow the school achievement gaps. So, you know, it's a question, I think, between these two voices of, you know, where the improvement needs to happen. And are we open and honest enough about some of the issues that, in some cases, holdback, still, African-Americans in the country?"
+    },
+    {
+      "speaker": "HUNT",
+      "utterance": "Absolutely. First off, everything I said to Eric Horst was my personal views. And I agree with Juan that we have made some incredible progress just in the last 50 years. And it is incredible that the great men whose steps I walked in today. But I will say, though, that a few things about the piece, specifically in the Wall Street Journal. First off, I do think that -- I agree, in some capacity, that if racism was eradicated in the United States immediately. If everyone was zapped with enlightened views on race magically, Blacks would still suffer in several parts of our country today. And so, a lot of these issues are policy issues and not necessarily just issues with race in particular. So, I do think it's important to talk about that. However, I do think there are still major issues with race in our country today, and it would be behoove us to discuss it instead of trying to paper over it as some have tried to do."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. You know, it feels like our identity politics, Juan, have become deeper in recent years. I feel like this is an issue that was in much better shape when I was growing up than it is now in many ways. You know, how do you speak to that when you have so much division on college campuses happening? You think about Martin Luther King statement about being judged by the content of our character. That means everybody across the board, regardless of which identity group you put yourself in."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Right. So, this is really interesting to me because, you know, the fact is, is that when we were growing up, and Martha, you're younger than I am, but when we were growing up, you know, my father lived in a segregated neighborhood. He couldn't get certain jobs. And I'm sitting here as, you know, not only a Fox News employee but a published writer and author. So, I think we have made tremendous progress. But when you give people voice, people who previously felt like they couldn't speak up, that they've really had to act in a way that was traditionally subserving or second class, and you let those people speak up, then there's going to be a lot of hubbub and disconcerting kind of rhetoric used. But I think, in fact, there's so much to be proud of in terms of America's journey here. I just think, you know, sometimes you hear some of these civil rights leaders speak in draconian terms, not only about what's going on today or President Trump, but about America. And I just think that's wrong headed. I think we have to appeal to our better angels."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Quick final thoughts, Jeremy?"
+    },
+    {
+      "speaker": "HUNT",
+      "utterance": "I completely agree. Dr. King, he saw us all -- he took the Christian view that many of us were all capable of hate, and only love can drown out hate. And it is time, as Juan said, to appeal to the better part of us, the unifying part of us, that we are all Americans and we're all in this together."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Great message. Jeremy Hunt, thank you very much. Juan Williams, always a pleasure. Thank you, gentlemen."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, to basketball now for a moment. Sister Jean got her own bobble-head doll, and a lot of love for her Loyola-Chicago basketball team. But on Monday night, it was Father Rob who was given the honor of cutting down a piece of spring from the net. Game star, Donte DiVincenzo, says simply, Father Rob is everything. The man who inspires the Wildcats coming up next."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "To be a good basketball player, you have to have a clear mind. And that's something we've work on all the time, talking to them all the time about it."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, as we all saw, Sister Jean won hearts across the country cheering on her beloved Loyola-Chicago team. But it was Father Rob Hagan of Villanova who've got to ride home from Texas with the trophy. The Villanova grad and former attorney, then followed his life's devotion to St. Augustine, ultimately, to the priesthood, travels everywhere with the team. And is the person that they turn to when they needed someone to just listen to them. Rarely, in the high octane world of college basketball have the chaplains of the team been so much a part of the story. In fact, 8 of the 64 teams to make it to the dance were catholic schools, and two in the final four, which led to this piece in the New York Times, 'Why Catholic colleges excel at basketball?' They write about how these colleges cater to inner-city, working class kids and immigrants, and that tradition continues. They say that several decades ago, many American Catholics were working class urbanites clustered in some of the same cities, New York, Philadelphia, Chicago, San Francisco, New Orleans, in which those schools rose up. In basketball, with its inexpensive overhead, compact field of play, and small number of participants, they found a sport that suited them. And that is certainly true. Here now, Father Rob Hagan, Villanova's associate athletic director and team chaplain. Father Rob, thank you, good to have you here tonight. Congratulations to you."
+    },
+    {
+      "speaker": "REV. ROBERT HAGAN, VILLANOVA ASSOCIATE ATHLETIC DIRECTOR",
+      "utterance": "Great to be here. We're thrilled. Very excited."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What's so special about this team? What is the secret to their success? You've watched them day in, day out, at practice, on the road, everywhere?"
+    },
+    {
+      "speaker": "HAGAN",
+      "utterance": "You know, a lot of people have been asking that and, obviously, they're very talented. They're really are gifted. They know how to play. But what they really have is togetherness. They really are together bunch. They talked a lot among themselves about being a band of brothers. There really is a brotherhood, a spirit that kind of unites them all. Not just the starters, but the walks on and the managers. And so, it's just they had kind of collective strength that they wouldn't have as individuals."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, they do. And I've watched them play a lot. Not as much as you have, and a lot of it on TV. But sometimes I have the pleasure of being there in person, which is just so magmatic. It's really magical. But, you know, when you watch them they do have -- like, somebody always seems to take the lead, or somebody has a really hot night. And on D-night, on Monday, that was clearly Donte DiVincenzo, who had an amazing night. I know that you have a strong relationship with him. And the quote I read before was that he says about you, Father Rob is everything. Tell me about your relationship with Donte?"
+    },
+    {
+      "speaker": "HAGAN",
+      "utterance": "You know, a lot of these student athletes they come here and they're incredibly gifted, they're incredibly talented. And then they get here and they're surrounded by talent all around them. And there's only one ball, and there's only so many minutes, and there's so many opportunities to take shots. And so, often, you have somebody that hasn't sat on the bench since third grade who has to learn to fit in to the biggest picture. In Donte's case, his first year here, he got injured, he hurt his foot, so he wasn't been able to play. And to focus on some other things and find his role as part of the team without making any shots. And then, when he finally does get an opportunity to play, he's relegated to, kind of, a 6th man or a nonstarter role. And so, a lot of this was kind of his journey through humility and accepting, you know, being a part of something bigger than just himself. And so, I had an opportunity to walk with him during that journey, to talk about things that we all don't always like to talk about, like patience, and waiting our turn, and being ready when our number is called. And I couldn't be happier for him."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, what do you tell him now? You've got LeBron James, you know, talking about you on TV. It's a heady time for these young men."
+    },
+    {
+      "speaker": "HAGAN",
+      "utterance": "It is."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And we all know that, you know, some of them make it to the NBA, but most of them, the great majority of them don't. So, how do you prepare them for that experience?"
+    },
+    {
+      "speaker": "HAGAN",
+      "utterance": "Coach Wright has a wonderful way of reminding them not just about the basketball, but life after basketball. And we infuse the spirit, what we like to talk about, about being hungry and humble. And so, let's hope that this isn't the greatest thing that Donte ever does with his life. He's got more living to do. He's got more people lives to affect. St. Augustine has a wonderful line where he says, do not be content with what you are. If you want to become what you are not yet. Where you've grown pleased with yourself, there you shall remain. And so, we've got more mountains to climb, and we've got more work to do, and I know Donte feels that way. And that's kind of a fire that burns within him."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. Well, it's a great team, Jalen Brunson, Mikal Bridges, all of those guys, just an amazing group. You know, there's a lot of talk about the fact that these players should be paid. Obviously, you know, this is a big money business. Million dollars go to the universities when they get as far as Villanova has. What do you think about that, Father Rob?"
+    },
+    {
+      "speaker": "HAGAN",
+      "utterance": "You know I can definitely see both sides to that. I don't think people realize what a \"full-time job\" this really is in terms of the travel, and the preparation, and the study, and the practice and the film. But at the same time, you know, we are looking for student athletes that want to be a part of something bigger than just themselves, that value a Villanova education as to what it's going to means for them, you know, long after their four years is over. The faculty, the resources, the people that care for them, the network they are part of. And so, in a lot of ways it's a win-win."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Father Rob, thank you so much. As you know, my family has a big commitment to Villanova, and it's a pleasure to you have here tonight. Congratulations again. Go Cats. Thank you, Father Rob."
+    },
+    {
+      "speaker": "HAGAN",
+      "utterance": "Thank you, Martha. God bless."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "We'll be right back. God bless."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "One last quote tonight from Reverend Martin Luther King Jr., which picks a bit on what Father Rob just said, he said the ultimate measure of a man is not where he stand in moments of comfort and convenience, but where he stands in times of challenge and controversy. More story tomorrow night. Tucker is up next."
+    },
+    {
+      "speaker": "Copy",
+      "utterance": "Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

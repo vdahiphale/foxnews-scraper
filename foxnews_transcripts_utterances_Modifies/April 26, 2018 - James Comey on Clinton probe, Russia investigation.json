@@ -1,0 +1,3069 @@
+{
+  "date": "April 26, 2018",
+  "headline": "James Comey on Clinton probe, Russia investigation",
+  "subHeadline": "Former FBI Director James Comey on decision-making process in the Hillary Clinton email investigation, origins of the anti-Trump dossier, memos of conversations with President Trump and new book 'A Higher Loyalty.'",
+  "url": "https://www.foxnews.com/transcript/james-comey-on-clinton-probe-russia-investigation",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "BRET BAIER, ANCHOR",
+      "sentences": "Welcome back to Special Report. Joining me live in studio, former FBI Director James Comey. A little tougher to get across this town without a motorcade.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JAMES COMEY, FORMER FBI DIRECTOR",
+      "sentences": "Tough for everybody today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I understand you have a new book out?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I've heard that, yeah.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Yea. Thanks for being here. The book is \"A Higher Loyalty: Truth, Lies, and Leadership\". Big sales in its first week. I've read the book. I've seen or read every interview that you've done on this media tour. A lot of people have focused on President Trump and your interactions. I wanna get to that, but I wanna start chronologically with the Hilary Clinton e-mail probe and the decisions you made there. Is it true that you and your FBI colleagues made the decision to exonerate Secretary Clinton well before she was interviewed?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So, why wait till the end and why write up the memo that you eventually bring forward?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yeah, it's a good question. Come May, after we've been doing it for about 10 months, I started to, as part of our regular briefing from the investigators, see that their view was, it was unlikely to end in a case that the prosecutors at DOJ would bring.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Before the interview?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Sure. Yeah, because they'd spent 10 months digging around, reading all her e-mails, putting everything together, interviewing everybody who set up her system. They weren't certain of that result but they said, \"Look, boss, on the current course and speed, it looks like it's not going to get to a place where the prosecutors will bring it.\" So then, in May, I started thinking, \"Okay, if it continues that way, and it may not, but if it continues that way, so, how do we end this thing in a credible way.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But what, if anything, could she of said in that interview that would of changed your mind and somehow changed what you eventually decided to do?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Well, two ways. First, by lying in a way that we could prove, in the interview or -- or giving us a hook to continue the investigation to see if we could prove a lie or admitting something that would surprise us about her intent. Now a lot of folks have asked, good question, about why to do the interview at the end, that's fairly typical for a subject interview in a white collar investigation. I think you see Special Counsel Mueller taking, exactly, that approach with the president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But you already knew that she had been telling whatever you want to say, lies, mistruths about this investigation, and what -- and how she handled those e-mails. Take a listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. TREY GOWDY, R-S.C.",
+      "sentences": "Secretary Clinton said there was nothing marked classified on her e-mails either sent or received. Was that true?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "That's not true.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOWDY",
+      "sentences": "Secretary Clinton said, \"I did not e-mail any classified material to anyone on my e-mail. There is no classified material.\" Was that true?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No. There was classified material e-mailed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOWDY",
+      "sentences": "Secretary Clinton said, \"All work related e-mails were returned to the state department.\" Was that true?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No. We found work related e-mails, thousands that were not returned.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So it went on. I mean, there were clearly a pattern there and you had already made your decision.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No. I had not made my decision, but I could see what the investigators saw after 10 months. If you don't have general sense of where you're headed after 10 months of that kind of work, you're not competent, they could see was unlikely, although not certain (ph), unlikely to get us to a place where they would prosecute it at the Justice Department. And the question was, would she lie to us? What people say in the public forum, in a debate, or in a, you know, a political campaign, is not our business. Our business is, are you going to lie to us and if you are and we can prove it then we're going to prosecute you for it (ph).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You go back to intent, a lot, but actually, the statue as it's written, handling classified information, grossly negligent doesn't deal with intent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Well, grossly negligent is an expression of a, kind of, intent. What -- how were you acting? What was your mental state at the time?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You were careful to call it extremely careless, not grossly negligent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Right. I was struggling with the fact that we thought it was not mere sloppiness, but didn't rise to the level of criminal misconduct that the Justice Department prosecutes. How do describe that? I probably should of said, \"really sloppy\" (ph), but I wanted to be honest and say, \"It's above sloppy.\" It doesn't add up to what the 1917 statute meant when it said, \"grossly negligent\" (ph) is a felony",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So, why did you allow Cheryl Mills, Secretary Clinton's Chief of Staff, to sit in on that interview? She was a -- potentially a subject or target in the investigation. She was a government employee. She wasn't Clinton's attorney, but yet, she sits in there and talks with her throughout the interview.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yea. My -- my understanding was, at that time, she was one of Clinton's attorneys. She was no longer a subject in our investigation. The agents had scrubbed her conduct very carefully by that point and she was no longer a subject. But that again, that's a reasonable question but the facts are, not a subject, one of Clinton's lawyers. She's entitled to be in an interview.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All right. We asked people to tweet in or write in. We have one from Jay Harper Wilson (ph). \"I am a retired FBI agent, serving almost 25 years, retired in 1995 as a Senior Executive Special Agent. Please (ph) ask, Thursday, why a grand jury was not used in the Hilary Clinton investigation, as would be normally, and why was it run out of HQ, the book did not address (ph)?\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yea, this second one, I'll take first. It was run out of HQ because it was a case of intense interests outside to the media and so, to keep it tight, it was worked in the counterintelligence division at headquarters.  You can reasonably disagree with that if your FBI person. You could have put it in Washington Field Office, could have put it in New York but the decision that Counter Intelligence made was it'll be kept tighter and leak proof which it was in the Counter Intelligence Division.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And no Grand Jury?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I'm not allowed to comment on the way in which the Grand Jury was used. I can say this though, she was not interviewed in front of a Grand Jury which is another judgment call that prosecutors and investigators make all the time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You thought Attorney General, Loretta Lynch, was compromised, that you had to do something different because of that Tarmac meeting with former President Clinton and because she had wanted to call it a matter. Correct?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yes. And other things.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And other things in this classified thing that ends up leaking to the New York Times. But she denies this. She writes, if he had any concerns regarding email investigation, classified or not, he had ample opportunities to raise them with me both privately and in meetings. He never did. So someone's not telling the truth here. Is it the former Attorney General or your?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No, actually I think we're both telling the truth. I never went to her and said Loretta I think you should recuse yourself. My problem was she had already announced it publically that she wouldn't and that she would accept my recommendation. And so at that point, what do I do? And I decided at that point, I got to step away from her.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All right. Fast forward. A lot of people are upset about how it comes out. How you take control. It actually leads to Rod Rosenstein, he cites this in what you did as a reason for recommending your firing. You go on after that recommendation; you write a letter to congress to announce the case is reopened because more classified emails have been found on Anthony Weiner's computer.  You said it was, last night, a tough choice between concealing or coming forward. A really tough choice. But there are authorities in New York who are saying that eight (ph) FBI HQ was slow walking that case and weeks went by without any action. Did you know that Andrew McCabe, your deputy, had sat on that revelation about the emails?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yes. I don't know that -- I don't know that to be the case. I do know that New York and FBI headquarters became aware that there may be some connection between Weiner's laptop and the Clinton investigation weeks before it was brought to me for decision. And as I write in the book, I don't know whether they could have moved faster and why the delay.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So was it the threat that the New York agents were going to leak, that it existed really what drove you to the not conceal part?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I don't think so. I think actually what drove it was the prosecutors in New York who were working the criminal case against Weiner, called down to Headquarters and said are we getting a search warrant or not for this. That caused -- I'm sorry. Justice Department Headquarters, to then call across the street to the FBI and poke the organization and they started to move much more quickly. I don't know why there was -- if there was slow activity, why it was slow for those first couple of weeks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I want to move onto the Trump investigation. We're told after this Australian Diplomat reports his conversation with George Papadopoulos, talking about plans to get Russia information or emails about Hillary Clinton that the FBI has notified through the State Department about this in early May. True?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "When were they notified?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "First of all, I'm not confirming what the source was from it. The FBI learned the information about Papadopoulos in late July and opened a counter intelligence investigation at that point. The meeting that you're talking about occurred in the spring.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "April.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Before there were any public revelations of Russian hacked emails. But the FBI didn't learn about it until late July.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK. So what is the crime or the collusion that launches the investigation?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yes. Collusion's not a word that I'm familiar with. I've seen it in the media though.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "What is the crime? What is the evidence basically that launches --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "The question is, you open a counter intelligence investigation to understand are any Americans in cahoots with the foreign intelligence activities of an adversary nation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "When -- the Steele dossier comes out sometime early July, when did you personally learn about the memos and the dossier.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Sometime in the fall. I don't remember exactly when.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You're talking fall of -- fall of",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I'm sorry. Fall of 2016.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Right. So who told you about them?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I don't remember. Someone on my senior staff.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You don't remember how they were described.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I remember they briefed me about it. Explained that it came from a reliable source, former allied intelligence officer. I remember being given a copy of it. I don't know whether it was September, October, sometime in that period of time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "When did you learn that the DNC and Hilary Clinton campaign had funded Christopher Steele's work?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yes. I still don't know that for a fact.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "What do you mean?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I've only seen it in the media. I never knew exactly which Democrats had funded -- I knew it was funded first by Republicans --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But that's not true.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I'm sorry?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "That's not true that the dossier the Christopher Steele worked on was funded by Republicans.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "My understanding was his work started funded by -- as oppo research funded by Republicans.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So Free Beacon and -- said that they had Glen Simpson and Fusion GPS on account of a retainer but they did not fund the Christopher Steele memo or the dossier. That was initiated by Democrats.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "OK. My understanding was the activity was begun that Steele was hired to look into was first funded by Republicans then picked up -- the important thing was picked up by Democrats opposed to Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So is that why -- did you tell President Obama that the dossier was -- who it was funded by?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No, not to my recollection.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Did you want to know who it was funded by?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I wanted to know what I knew which was it was funded by people politically opposed to Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK. Which, particular, opponents wasn't that important to me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But when did you -- So you, still, to this day, don't know that it was funded by the DNC or the (inaudible)?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I've read that in the media, but I don't know for a fact and didn't know, while I was at the FBI, who -- which exact opponent of the president's funded that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Okay. How many times did you and from (ph) extent did you brief President Obama on the dossier?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I didn't ever brief President Obama on the dossier. I was present during a conversation where director of national intelligence briefed it to him as we did to the gang of eight and to the president elect, the first week of January.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You called the dossier, \"unverified, salacious (ph).\" Why did you use that to the FISA court to ask for surveillance for Carter Page? Not only use it, but you led with it. A bulk of that FISA application deals with that dossier, why?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "You know, that's not my recollection, Brett, and I don't know that the FISA application's been released. My recollection was, it was part of a broader mosaic of facts that were laid before the FISA judge to obtain a FISA warrant.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "There was a lot more than the dossier and the FISA application?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "My recollection was, there was a significant amount of additional material about Page and why there was probable cause to believe he was an agent of a foreign power, and the dossier was part of that but was not all of it or a critical part of it, to my recollection.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Now I heard (ph) this intel briefing at Trump Tower. You briefed the president elect on -- on kind of the sliver of the dossier, the, really -- the salacious part about the prostitutes in Moscow and that allegation. Didn't include anything broader than that, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Correct. My -- my -- my mission in my private briefing was, just, to tell him about that slice of it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And who suggested you brief that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I think the director of National Intelligence did, and explained the logic of why it made sense for me to do it, which I agreed with",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So, that briefing was, just, oral? It was just talking to the president?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Correct. Just the two of us talking to each other.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And CNN reported (ph) the time that you handed a two page executive summary of the dossier over to him?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I did not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Did not. Speaking of CNN, you write in the memos of that meeting. You write, \"I said to President Elect Trump. Media like CNN had the dossier and were looking for a news hook. I said it was inflammatory stuff.\" So they story of that briefing leaks out, almost immediately, after you do it. CNN and others run the story of this unverified dossier. Did you or your subordinates leak that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Did James Clapper?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No. Not to my knowledge, no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And John Brennan?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I don't -- I don't know who leaked it. I had no part in any leaking of it. It was about four or days later that it leaked, but I remember because president elect called me about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Did you ever try to find out?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Who leaked an unclassified public document? No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Did you inform the president elect, at the time, what you knew about how it was funded and who was behind it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No. I did not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Did you inform, on that, Christopher Steele had been fired by the FBI?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Or that he has lied?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No, and I didn't know those things at that time anyway.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Or that had been used, at least in part, to -- to get this FISA application to spy on somebody in his campaign?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No, didn't come up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Is it fair to say that President Obama, his --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I know (ph) that Carter Page was in his campaign --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "(inaudible).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "At one point.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Okay. Is it fair to say that President Obama and his undercircle (ph) knew a lot more about the dossier and the scope (ph) of the investigation than President Elect Trump and his team?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No. I don't think that's fair at all.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Do you think that they equal on -- as far as the briefing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "As far as I know. They knew -- they knew the same set of facts, as did the leaders of congress.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "There was difference between what the FBI told the FISA court and what the Trump -- about the Trump/Russia investigation and what you told the new President of the United States?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "What, the FBI and FISA application said in October of 2016? I don't remember, clearly enough, all that's in the FISA application, but we sure didn't lay that out for anybody, President Obama, President Elect Trump, or the leaders of congress.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Okay. A lot of questions about the interactions with President Trump and your memos memorializing that. After you're fired on Capitol Hill, we learned this. This is a, '17 (ph)",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I asked a friend of mine to share the content of the memo with a reporter. Didn't do it myself for a variety of reasons, but I asked him to because I thought that might prompt the appointment of the Special Counsel. And so, I asked a close friend of mine to do it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Who was that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "A good friend of mine, who's a professor at Colombia Law School.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So what specifically did you leak to Mr. Richmond (ph)?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I sent Mr. Richmond (ph) a copy of a two page unclassified memo and asked him to get the substance of it out to the media.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You call him a good friend and a professor, but you didn't reveal that you had hired him as a special government employee for the FBI to work on special projects. Why?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Because it wasn't relevant. He was a FBI special government employee until February of 2017.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Did you have other special advisors like that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Nope.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So what exactly was his job?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Two things, his primary focus was on our Going Dark challenge. Helping us think though, and articulate, and fight for access to encrypted communications. And then law enforcement data was a big part of his responsibilities.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So, did you leak other things through Mr. Richman?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yes. Like, I -- I really shouldn't (ph) be smiling. But I just -- I don't consider what I did with Mr. Richman a leak. I told him about an unclassified conversation with the president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK, but the FBI protocol --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I gave -- let me answer your question -- let me answer your question. I gave him --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "-- You went -- you -- you went through this with Anderson (ph) last night (ph)--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "-- I gave him nothing else, ever --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "-- OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "-- to share with the media.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "The FBI protocol says your own employment agreement with the FBI prohibits, quote, \"The unauthorized disclosure of any information or material from or related to FBI files, or any information acquired by virtue of my official employment without prior written permission from the FBI.\" Did you have written permission?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No, and I didn't consider it part of an FBI file, all the things that I talk about with Anderson (ph).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You wrote it as an FBI director. It was a work product.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No, it was not. It was my personal aide de memoire (ph).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You were talking to the president?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Sure. I created two copies of it, one to keep in my personal safe at home and I left another one with the FBI so the bureau could always have access to it. But I always thought of it as mine, like a diary.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Who else did you give, leak, whatever you want to call it --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Give is what I prefer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "-- the memos to -- yes -- the memos to?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I gave the memos to my legal team after I gave them to Dan Richman, after I asked him to get out to the media. Gave three --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And they --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "-- sorry, gave four memos to my legal team.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Which included Patrick Fitzgerald?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Patrick Fitzgerald, (inaudible) --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "He was a (ph) legal team at that time?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Correct, sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And Dan --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "David Kelly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "-- David Kelly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "And Dan Richman.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK. You said in the memos, \"I -- I said, I don't do sneaky things. I don't leak. I don't do weasel moves.\" But, I mean, we can argue what I leak is, but that's a leak --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I think we're going to.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "-- isn't it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "It's not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK. Here's what you told Chuck Grassley about leaking.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK GRASSLEY, R-IA",
+      "sentences": "Director Comey, have you ever been an anonymous source in news reports about matters relating to the Trump investigation or the Clinton investigation?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Never.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GRASSLEY",
+      "sentences": "Has any classified information relating to President Trump or his associations -- associates been declassified or -- and shared with the media?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Not to my knowledge.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So, at what point were you made aware that some of the information was classified by the FBI?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Which information?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Of -- in the memos.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Oh, yes. I don't know, sometime after I was fired the FBI apparently made a decision that there was some words in at least two of the memos -- maybe one, I think two -- that were diplomatically sensitive. And so, my lawyers returned them to the FBI. But in -- that testimony was truthful and I stand by it. I was hoping you were going to ask me that --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I -- I am, I was.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "-- Yes, it's -- it's truthful.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But I want to play what the president said today, about you, on this channel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "sentences": "Look, Comey is a leaker and he's a liar; and, not only on this stuff. He's been leaking for years. He's probably been using his friend, the so-called professor who now turns out to have FBI -- he had clearance, which he never said. He even lied about that because he never said that in Congress. He said he gave it to a friend. And he gave it to a friend to leak classified information. It's all classified. It was totally classified. So he illegally -- he did an illegal act and he said it himself, in order to get a special counsel against me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Reaction to that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "He's just wrong, facts really do matter which is why I'm on this show to answer your questions. That memo was unclassified then, it's still unclassified. It's in my book. The FBI cleared that book before it could be published. That's a false statement.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "What about not telling Congress that he was a agent for you, or had worked at the FBI or somehow is some employee that -- you 35,000 FBI employees?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "But none of that was true at the -- I mean, I described in my hope in a good way, as a good friend, to expose. There might be a bias in my connection to the guy. He had left his FBI job months earlier. And so, there's lots of other connections. I know him because we were prosecutors together. He didn't mention that. I taught with him at Columbia, he didn't mention that. I think I offered the Congress a fair picture of my connection to the guy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK. Director Comey, standby if you would. More with the former FBI director after a quick break, including the reaction to Andrew McCabe -- those infamous text messages, we'll be learning more about them today, and the future of the FBI.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Welcome back with former FBI Director, James Comey. Since you're firing, have you met with former C.I. Director John Vernon?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yes. Once I think.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And former National Intelligence Director Jim Clapper?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yes. Saw him the night before last, I think.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Together?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No, no. Actually, I had dinner with the two of them together and our spouses.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You talk Trump cases or?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No, we did not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All right. After your handpicked Deputy Andrew McCabe was fired you tweeted this, you said Special Agent McCabe stood tall over the last eight months when small people were trying to tear down an institution we all depend on. He served with distinction for two decades. I wish Andy well. I also wish continued strength for the rest of the FBI. America needs you. You know the Inspector General found that McCabe lied four times. Three of the under oath. Kimberly Strassel from the Wall Street Journal tweeted a lot of possible questions for you but here's one. Please discuss Andrew McCabe in the I.G. report that finds he lied repeatedly both to you and about you. Do you still believe he stood tall as you tweeted in January or is he one of the small people helping to tear down an institution?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yes. I still believe he stood tall. He represented himself under any organization under tremendous stress during that period after I was fired. But I read the I.G. report as you did. It concluded that Andy had not been candid. This is what accountability looks like the Justice Department.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Should he be prosecuted (ph)?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "That's not for me to say. I -- I --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Well wait; you said it in the Clinton case.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Well I was then the Director of the FBI.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Which was not your role at that moment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Private citizen should not be calling for the prosecution of people in a case that they're not involved in. But I do believe as it routinely happens, the I.G. will likely referred or has referred it to a U.S. Attorney's office to look at it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So did you -- you see the disparity here where people look at how the Clinton case was handled and how the Trump case is handled. Did you tell law makers --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I don't. I don't see disparity there (ph).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Did you tell law makers that FBI agents didn't believe former National Security Advisor Michael Flynn was lying intentionally to investigators.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You did not --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "And I saw that in the media. I don't know what -- maybe someone misunderstood something I said. I didn't believe that and didn't say that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "About the controversial text messages, we just received a lot more up on Capitol Hill today. If you knew back then, when you were in charge of the investigation and you saw those text between Peter Strzok and Lisa Page, the level of animist they had against President Trump, what would you have done?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I'd have removed both of them from any contact with significant investigations.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So shouldn't their work --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Including -- including those involving anybody connected to President Trump but beyond that because it's just such poor judgment --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Products then be questioned?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Sure. It's a reasonable question to ask.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "They were bad mouthing everybody including candidate Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So Peter Strzok interviews Hilary Clinton, deals with the BleachBit and the server and Cheryl Mills, all of that. Interviews Michael Flynn and is entrical in this whole case.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "But he's one of many other people involved and all the things you just ticked off. It's a reasonable question to ask and I can tell you this, when I saw the -- the text I was deeply disappointed in them but I never saw any bias, any reflection of any kind animist towards anybody including me. I'm sure I'm bad mouthing those text; I'm just not going to read them all. Never saw it. But that's why we have such a big team of people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But you were in charge --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "To bang on each other.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So buck stops with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Of course.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Of course.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Jonathan tweeted in, what was the insurance policy Deputy Director McCabe struck and paid for discussing in his office?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I have no idea.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Any clue?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "The problem I had reading the text, I'm sure you had the same challenge is, if anybody pulled any of your listeners texts or viewers text and there's not context, it's hard to figure out what they're talking about so I don't --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "There's a lot of text. There's a lot of context with those guys.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Well the one's I've looked at I've had a hard time figuring out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "This morning the President also said this on FOX and Friends.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "You look at the corruption at the top of the FBI, it's a disgrace and our Justice Department which I try and stay away from but at some point I won't.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "What do you think he meant there?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I don't know. I hope he didn't mean that he's going to decide by executive fiat to direct the actions of what is supposed to be an impartial law enforcement function. Lady Justice has a blindfold, it should stay on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Did the Inspector General interview you about your handling of the memos?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Sure. Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Has?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Has. Has already and I expect a report from them not on the handling of classified information because that's frivolous but on did I comply with policy? Did I comply with my employment agreement?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You said you didn't leave but there's a New York Time story in April 2017 that first reported the Lynch email. You didn't write about it here in this book because you said it's classified. The New York Times wrote a lot about it. Did the FBI Public Affairs coordinate that story?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Not to my knowledge and I'm not going to comment on any stories because I'm not allowed to confirm or deny classified information.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All right. In the infamous Oval Office meeting with President Trump when he asked you to stay behind one on one, you write in the book that you felt awkward. You didn't like it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Correct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You had been one on one with President Obama in the Oval Office?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Correct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But this was different?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yes because he booted the Attorney General of the United States who was lingering trying to stay.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "As opposed to the Presidential photographer who President Obama boots out?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK. So you say you didn't push when he said he hoped you could see your way clear of letting Flynn go, that he was a good guy. Hope you can let it go. You said you didn't push back and that he should have known that he couldn't do that. All right. So let's assume that that's true that he should have known that. Is it possible there was another reason why you didn't push back and that is that you wanted to keep your job?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "It's possible but it's not the case. At least I don't remember thinking about that at the time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You told CNN last night that you didn't you'd be fired that you know had you not been fired, you would still be working as FBI Director of tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Yes. In fact, that was my intention. To serve another six years.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So despite the fact that now, you say that this President is morally unfit that you say impeachment is too good of a remedy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "That's not what I said. I said in a way I hope not because I think the voters need to speak.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Exactly. And on the media tour in the Blitz you basically are encouraging voters to vote Trump out of office because he doesn't line up with your values.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I'm asking them to vote their values and what I believe your viewers would agree are America's values.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK. And -- but as of tonight had you not been fired, you'd still be working for this guy that you say is like a crime boss who's morally unfit, who you just don't agree with on principal and values. You'd still have that job tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Absolutely. Be protect -- my goal would be to protect the FBI and serve the President of the United States.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So when you say --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "I respect that office tremendously.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "When you say to Republicans why do you work with this President and then sit and say you would still have this job tonight. Isn't there a disconnect there?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "No, because elected officials in Congress have a public platform and are responsible for communicating with the voters in a way they FBI Directors not. My job would be to protect the independence of the institution. Their job should be to represent the people who elected them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Mr. Comey, the book \"Higher Loyalty\" has been very successful. We appreciate your time, traffic and all sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COMEY",
+      "sentences": "Thank you for your patience and your good questions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Thank you. Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRET BAIER, ANCHOR",
+      "utterance": "Welcome back to Special Report. Joining me live in studio, former FBI Director James Comey. A little tougher to get across this town without a motorcade."
+    },
+    {
+      "speaker": "JAMES COMEY, FORMER FBI DIRECTOR",
+      "utterance": "Tough for everybody today."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I understand you have a new book out?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I've heard that, yeah."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Yea. Thanks for being here. The book is \"A Higher Loyalty: Truth, Lies, and Leadership\". Big sales in its first week. I've read the book. I've seen or read every interview that you've done on this media tour. A lot of people have focused on President Trump and your interactions. I wanna get to that, but I wanna start chronologically with the Hilary Clinton e-mail probe and the decisions you made there. Is it true that you and your FBI colleagues made the decision to exonerate Secretary Clinton well before she was interviewed?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So, why wait till the end and why write up the memo that you eventually bring forward?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yeah, it's a good question. Come May, after we've been doing it for about 10 months, I started to, as part of our regular briefing from the investigators, see that their view was, it was unlikely to end in a case that the prosecutors at DOJ would bring."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Before the interview?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Sure. Yeah, because they'd spent 10 months digging around, reading all her e-mails, putting everything together, interviewing everybody who set up her system. They weren't certain of that result but they said, \"Look, boss, on the current course and speed, it looks like it's not going to get to a place where the prosecutors will bring it.\" So then, in May, I started thinking, \"Okay, if it continues that way, and it may not, but if it continues that way, so, how do we end this thing in a credible way.\""
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But what, if anything, could she of said in that interview that would of changed your mind and somehow changed what you eventually decided to do?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Well, two ways. First, by lying in a way that we could prove, in the interview or -- or giving us a hook to continue the investigation to see if we could prove a lie or admitting something that would surprise us about her intent. Now a lot of folks have asked, good question, about why to do the interview at the end, that's fairly typical for a subject interview in a white collar investigation. I think you see Special Counsel Mueller taking, exactly, that approach with the president."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But you already knew that she had been telling whatever you want to say, lies, mistruths about this investigation, and what -- and how she handled those e-mails. Take a listen."
+    },
+    {
+      "speaker": "REP. TREY GOWDY, R-S.C.",
+      "utterance": "Secretary Clinton said there was nothing marked classified on her e-mails either sent or received. Was that true?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "That's not true."
+    },
+    {
+      "speaker": "GOWDY",
+      "utterance": "Secretary Clinton said, \"I did not e-mail any classified material to anyone on my e-mail. There is no classified material.\" Was that true?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No. There was classified material e-mailed."
+    },
+    {
+      "speaker": "GOWDY",
+      "utterance": "Secretary Clinton said, \"All work related e-mails were returned to the state department.\" Was that true?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No. We found work related e-mails, thousands that were not returned."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So it went on. I mean, there were clearly a pattern there and you had already made your decision."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No. I had not made my decision, but I could see what the investigators saw after 10 months. If you don't have general sense of where you're headed after 10 months of that kind of work, you're not competent, they could see was unlikely, although not certain (ph), unlikely to get us to a place where they would prosecute it at the Justice Department. And the question was, would she lie to us? What people say in the public forum, in a debate, or in a, you know, a political campaign, is not our business. Our business is, are you going to lie to us and if you are and we can prove it then we're going to prosecute you for it (ph)."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You go back to intent, a lot, but actually, the statue as it's written, handling classified information, grossly negligent doesn't deal with intent."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Well, grossly negligent is an expression of a, kind of, intent. What -- how were you acting? What was your mental state at the time?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You were careful to call it extremely careless, not grossly negligent."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Right. I was struggling with the fact that we thought it was not mere sloppiness, but didn't rise to the level of criminal misconduct that the Justice Department prosecutes. How do describe that? I probably should of said, \"really sloppy\" (ph), but I wanted to be honest and say, \"It's above sloppy.\" It doesn't add up to what the 1917 statute meant when it said, \"grossly negligent\" (ph) is a felony"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So, why did you allow Cheryl Mills, Secretary Clinton's Chief of Staff, to sit in on that interview? She was a -- potentially a subject or target in the investigation. She was a government employee. She wasn't Clinton's attorney, but yet, she sits in there and talks with her throughout the interview."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yea. My -- my understanding was, at that time, she was one of Clinton's attorneys. She was no longer a subject in our investigation. The agents had scrubbed her conduct very carefully by that point and she was no longer a subject. But that again, that's a reasonable question but the facts are, not a subject, one of Clinton's lawyers. She's entitled to be in an interview."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All right. We asked people to tweet in or write in. We have one from Jay Harper Wilson (ph). \"I am a retired FBI agent, serving almost 25 years, retired in 1995 as a Senior Executive Special Agent. Please (ph) ask, Thursday, why a grand jury was not used in the Hilary Clinton investigation, as would be normally, and why was it run out of HQ, the book did not address (ph)?\""
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yea, this second one, I'll take first. It was run out of HQ because it was a case of intense interests outside to the media and so, to keep it tight, it was worked in the counterintelligence division at headquarters. You can reasonably disagree with that if your FBI person. You could have put it in Washington Field Office, could have put it in New York but the decision that Counter Intelligence made was it'll be kept tighter and leak proof which it was in the Counter Intelligence Division."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And no Grand Jury?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I'm not allowed to comment on the way in which the Grand Jury was used. I can say this though, she was not interviewed in front of a Grand Jury which is another judgment call that prosecutors and investigators make all the time."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You thought Attorney General, Loretta Lynch, was compromised, that you had to do something different because of that Tarmac meeting with former President Clinton and because she had wanted to call it a matter. Correct?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yes. And other things."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And other things in this classified thing that ends up leaking to the New York Times. But she denies this. She writes, if he had any concerns regarding email investigation, classified or not, he had ample opportunities to raise them with me both privately and in meetings. He never did. So someone's not telling the truth here. Is it the former Attorney General or your?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No, actually I think we're both telling the truth. I never went to her and said Loretta I think you should recuse yourself. My problem was she had already announced it publically that she wouldn't and that she would accept my recommendation. And so at that point, what do I do? And I decided at that point, I got to step away from her."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All right. Fast forward. A lot of people are upset about how it comes out. How you take control. It actually leads to Rod Rosenstein, he cites this in what you did as a reason for recommending your firing. You go on after that recommendation; you write a letter to congress to announce the case is reopened because more classified emails have been found on Anthony Weiner's computer. You said it was, last night, a tough choice between concealing or coming forward. A really tough choice. But there are authorities in New York who are saying that eight (ph) FBI HQ was slow walking that case and weeks went by without any action. Did you know that Andrew McCabe, your deputy, had sat on that revelation about the emails?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yes. I don't know that -- I don't know that to be the case. I do know that New York and FBI headquarters became aware that there may be some connection between Weiner's laptop and the Clinton investigation weeks before it was brought to me for decision. And as I write in the book, I don't know whether they could have moved faster and why the delay."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So was it the threat that the New York agents were going to leak, that it existed really what drove you to the not conceal part?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I don't think so. I think actually what drove it was the prosecutors in New York who were working the criminal case against Weiner, called down to Headquarters and said are we getting a search warrant or not for this. That caused -- I'm sorry. Justice Department Headquarters, to then call across the street to the FBI and poke the organization and they started to move much more quickly. I don't know why there was -- if there was slow activity, why it was slow for those first couple of weeks."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I want to move onto the Trump investigation. We're told after this Australian Diplomat reports his conversation with George Papadopoulos, talking about plans to get Russia information or emails about Hillary Clinton that the FBI has notified through the State Department about this in early May. True?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "When were they notified?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "First of all, I'm not confirming what the source was from it. The FBI learned the information about Papadopoulos in late July and opened a counter intelligence investigation at that point. The meeting that you're talking about occurred in the spring."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "April."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Before there were any public revelations of Russian hacked emails. But the FBI didn't learn about it until late July."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK. So what is the crime or the collusion that launches the investigation?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yes. Collusion's not a word that I'm familiar with. I've seen it in the media though."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "What is the crime? What is the evidence basically that launches --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "The question is, you open a counter intelligence investigation to understand are any Americans in cahoots with the foreign intelligence activities of an adversary nation."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "When -- the Steele dossier comes out sometime early July, when did you personally learn about the memos and the dossier."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Sometime in the fall. I don't remember exactly when."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You're talking fall of -- fall of"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I'm sorry. Fall of 2016."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Right. So who told you about them?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I don't remember. Someone on my senior staff."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You don't remember how they were described."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I remember they briefed me about it. Explained that it came from a reliable source, former allied intelligence officer. I remember being given a copy of it. I don't know whether it was September, October, sometime in that period of time."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "When did you learn that the DNC and Hilary Clinton campaign had funded Christopher Steele's work?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yes. I still don't know that for a fact."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "What do you mean?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I've only seen it in the media. I never knew exactly which Democrats had funded -- I knew it was funded first by Republicans --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But that's not true."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I'm sorry?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "That's not true that the dossier the Christopher Steele worked on was funded by Republicans."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "My understanding was his work started funded by -- as oppo research funded by Republicans."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So Free Beacon and -- said that they had Glen Simpson and Fusion GPS on account of a retainer but they did not fund the Christopher Steele memo or the dossier. That was initiated by Democrats."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "OK. My understanding was the activity was begun that Steele was hired to look into was first funded by Republicans then picked up -- the important thing was picked up by Democrats opposed to Donald Trump."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So is that why -- did you tell President Obama that the dossier was -- who it was funded by?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No, not to my recollection."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Did you want to know who it was funded by?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I wanted to know what I knew which was it was funded by people politically opposed to Donald Trump."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK. Which, particular, opponents wasn't that important to me."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But when did you -- So you, still, to this day, don't know that it was funded by the DNC or the (inaudible)?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I've read that in the media, but I don't know for a fact and didn't know, while I was at the FBI, who -- which exact opponent of the president's funded that."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Okay. How many times did you and from (ph) extent did you brief President Obama on the dossier?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I didn't ever brief President Obama on the dossier. I was present during a conversation where director of national intelligence briefed it to him as we did to the gang of eight and to the president elect, the first week of January."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You called the dossier, \"unverified, salacious (ph).\" Why did you use that to the FISA court to ask for surveillance for Carter Page? Not only use it, but you led with it. A bulk of that FISA application deals with that dossier, why?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "You know, that's not my recollection, Brett, and I don't know that the FISA application's been released. My recollection was, it was part of a broader mosaic of facts that were laid before the FISA judge to obtain a FISA warrant."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "There was a lot more than the dossier and the FISA application?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "My recollection was, there was a significant amount of additional material about Page and why there was probable cause to believe he was an agent of a foreign power, and the dossier was part of that but was not all of it or a critical part of it, to my recollection."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Now I heard (ph) this intel briefing at Trump Tower. You briefed the president elect on -- on kind of the sliver of the dossier, the, really -- the salacious part about the prostitutes in Moscow and that allegation. Didn't include anything broader than that, right?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Correct. My -- my -- my mission in my private briefing was, just, to tell him about that slice of it."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And who suggested you brief that?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I think the director of National Intelligence did, and explained the logic of why it made sense for me to do it, which I agreed with"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So, that briefing was, just, oral? It was just talking to the president?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Correct. Just the two of us talking to each other."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And CNN reported (ph) the time that you handed a two page executive summary of the dossier over to him?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I did not."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Did not. Speaking of CNN, you write in the memos of that meeting. You write, \"I said to President Elect Trump. Media like CNN had the dossier and were looking for a news hook. I said it was inflammatory stuff.\" So they story of that briefing leaks out, almost immediately, after you do it. CNN and others run the story of this unverified dossier. Did you or your subordinates leak that?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Did James Clapper?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No. Not to my knowledge, no."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And John Brennan?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I don't -- I don't know who leaked it. I had no part in any leaking of it. It was about four or days later that it leaked, but I remember because president elect called me about it."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Did you ever try to find out?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Who leaked an unclassified public document? No."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Did you inform the president elect, at the time, what you knew about how it was funded and who was behind it?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No. I did not."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Did you inform, on that, Christopher Steele had been fired by the FBI?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Or that he has lied?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No, and I didn't know those things at that time anyway."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Or that had been used, at least in part, to -- to get this FISA application to spy on somebody in his campaign?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No, didn't come up."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Is it fair to say that President Obama, his --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I know (ph) that Carter Page was in his campaign --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "(inaudible)."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "At one point."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Okay. Is it fair to say that President Obama and his undercircle (ph) knew a lot more about the dossier and the scope (ph) of the investigation than President Elect Trump and his team?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No. I don't think that's fair at all."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Do you think that they equal on -- as far as the briefing?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "As far as I know. They knew -- they knew the same set of facts, as did the leaders of congress."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "There was difference between what the FBI told the FISA court and what the Trump -- about the Trump/Russia investigation and what you told the new President of the United States?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "What, the FBI and FISA application said in October of 2016? I don't remember, clearly enough, all that's in the FISA application, but we sure didn't lay that out for anybody, President Obama, President Elect Trump, or the leaders of congress."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Okay. A lot of questions about the interactions with President Trump and your memos memorializing that. After you're fired on Capitol Hill, we learned this. This is a, '17 (ph)"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I asked a friend of mine to share the content of the memo with a reporter. Didn't do it myself for a variety of reasons, but I asked him to because I thought that might prompt the appointment of the Special Counsel. And so, I asked a close friend of mine to do it."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Who was that?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "A good friend of mine, who's a professor at Colombia Law School."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So what specifically did you leak to Mr. Richmond (ph)?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I sent Mr. Richmond (ph) a copy of a two page unclassified memo and asked him to get the substance of it out to the media."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You call him a good friend and a professor, but you didn't reveal that you had hired him as a special government employee for the FBI to work on special projects. Why?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Because it wasn't relevant. He was a FBI special government employee until February of 2017."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Did you have other special advisors like that?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Nope."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So what exactly was his job?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Two things, his primary focus was on our Going Dark challenge. Helping us think though, and articulate, and fight for access to encrypted communications. And then law enforcement data was a big part of his responsibilities."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So, did you leak other things through Mr. Richman?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yes. Like, I -- I really shouldn't (ph) be smiling. But I just -- I don't consider what I did with Mr. Richman a leak. I told him about an unclassified conversation with the president."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK, but the FBI protocol --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I gave -- let me answer your question -- let me answer your question. I gave him --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "-- You went -- you -- you went through this with Anderson (ph) last night (ph)--"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "-- I gave him nothing else, ever --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "-- OK."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "-- to share with the media."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "The FBI protocol says your own employment agreement with the FBI prohibits, quote, \"The unauthorized disclosure of any information or material from or related to FBI files, or any information acquired by virtue of my official employment without prior written permission from the FBI.\" Did you have written permission?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No, and I didn't consider it part of an FBI file, all the things that I talk about with Anderson (ph)."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You wrote it as an FBI director. It was a work product."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No, it was not. It was my personal aide de memoire (ph)."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You were talking to the president?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Sure. I created two copies of it, one to keep in my personal safe at home and I left another one with the FBI so the bureau could always have access to it. But I always thought of it as mine, like a diary."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Who else did you give, leak, whatever you want to call it --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Give is what I prefer."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "-- the memos to -- yes -- the memos to?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I gave the memos to my legal team after I gave them to Dan Richman, after I asked him to get out to the media. Gave three --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And they --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "-- sorry, gave four memos to my legal team."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Which included Patrick Fitzgerald?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Patrick Fitzgerald, (inaudible) --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "He was a (ph) legal team at that time?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Correct, sure."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And Dan --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "David Kelly."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "-- David Kelly."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "And Dan Richman."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK. You said in the memos, \"I -- I said, I don't do sneaky things. I don't leak. I don't do weasel moves.\" But, I mean, we can argue what I leak is, but that's a leak --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I think we're going to."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "-- isn't it?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "It's not."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK. Here's what you told Chuck Grassley about leaking."
+    },
+    {
+      "speaker": "SEN. CHUCK GRASSLEY, R-IA",
+      "utterance": "Director Comey, have you ever been an anonymous source in news reports about matters relating to the Trump investigation or the Clinton investigation?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Never."
+    },
+    {
+      "speaker": "GRASSLEY",
+      "utterance": "Has any classified information relating to President Trump or his associations -- associates been declassified or -- and shared with the media?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Not to my knowledge."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So, at what point were you made aware that some of the information was classified by the FBI?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Which information?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Of -- in the memos."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Oh, yes. I don't know, sometime after I was fired the FBI apparently made a decision that there was some words in at least two of the memos -- maybe one, I think two -- that were diplomatically sensitive. And so, my lawyers returned them to the FBI. But in -- that testimony was truthful and I stand by it. I was hoping you were going to ask me that --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I -- I am, I was."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "-- Yes, it's -- it's truthful."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But I want to play what the president said today, about you, on this channel."
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "utterance": "Look, Comey is a leaker and he's a liar; and, not only on this stuff. He's been leaking for years. He's probably been using his friend, the so-called professor who now turns out to have FBI -- he had clearance, which he never said. He even lied about that because he never said that in Congress. He said he gave it to a friend. And he gave it to a friend to leak classified information. It's all classified. It was totally classified. So he illegally -- he did an illegal act and he said it himself, in order to get a special counsel against me."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Reaction to that?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "He's just wrong, facts really do matter which is why I'm on this show to answer your questions. That memo was unclassified then, it's still unclassified. It's in my book. The FBI cleared that book before it could be published. That's a false statement."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "What about not telling Congress that he was a agent for you, or had worked at the FBI or somehow is some employee that -- you 35,000 FBI employees?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "But none of that was true at the -- I mean, I described in my hope in a good way, as a good friend, to expose. There might be a bias in my connection to the guy. He had left his FBI job months earlier. And so, there's lots of other connections. I know him because we were prosecutors together. He didn't mention that. I taught with him at Columbia, he didn't mention that. I think I offered the Congress a fair picture of my connection to the guy."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK. Director Comey, standby if you would. More with the former FBI director after a quick break, including the reaction to Andrew McCabe -- those infamous text messages, we'll be learning more about them today, and the future of the FBI."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Welcome back with former FBI Director, James Comey. Since you're firing, have you met with former C.I. Director John Vernon?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yes. Once I think."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And former National Intelligence Director Jim Clapper?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yes. Saw him the night before last, I think."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Together?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No, no. Actually, I had dinner with the two of them together and our spouses."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You talk Trump cases or?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No, we did not."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All right. After your handpicked Deputy Andrew McCabe was fired you tweeted this, you said Special Agent McCabe stood tall over the last eight months when small people were trying to tear down an institution we all depend on. He served with distinction for two decades. I wish Andy well. I also wish continued strength for the rest of the FBI. America needs you. You know the Inspector General found that McCabe lied four times. Three of the under oath. Kimberly Strassel from the Wall Street Journal tweeted a lot of possible questions for you but here's one. Please discuss Andrew McCabe in the I.G. report that finds he lied repeatedly both to you and about you. Do you still believe he stood tall as you tweeted in January or is he one of the small people helping to tear down an institution?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yes. I still believe he stood tall. He represented himself under any organization under tremendous stress during that period after I was fired. But I read the I.G. report as you did. It concluded that Andy had not been candid. This is what accountability looks like the Justice Department."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Should he be prosecuted (ph)?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "That's not for me to say. I -- I --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Well wait; you said it in the Clinton case."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Well I was then the Director of the FBI."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Which was not your role at that moment."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Private citizen should not be calling for the prosecution of people in a case that they're not involved in. But I do believe as it routinely happens, the I.G. will likely referred or has referred it to a U.S. Attorney's office to look at it."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So did you -- you see the disparity here where people look at how the Clinton case was handled and how the Trump case is handled. Did you tell law makers --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I don't. I don't see disparity there (ph)."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Did you tell law makers that FBI agents didn't believe former National Security Advisor Michael Flynn was lying intentionally to investigators."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You did not --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "And I saw that in the media. I don't know what -- maybe someone misunderstood something I said. I didn't believe that and didn't say that."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "About the controversial text messages, we just received a lot more up on Capitol Hill today. If you knew back then, when you were in charge of the investigation and you saw those text between Peter Strzok and Lisa Page, the level of animist they had against President Trump, what would you have done?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I'd have removed both of them from any contact with significant investigations."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So shouldn't their work --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Including -- including those involving anybody connected to President Trump but beyond that because it's just such poor judgment --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Products then be questioned?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Sure. It's a reasonable question to ask."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "They were bad mouthing everybody including candidate Trump."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So Peter Strzok interviews Hilary Clinton, deals with the BleachBit and the server and Cheryl Mills, all of that. Interviews Michael Flynn and is entrical in this whole case."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "But he's one of many other people involved and all the things you just ticked off. It's a reasonable question to ask and I can tell you this, when I saw the -- the text I was deeply disappointed in them but I never saw any bias, any reflection of any kind animist towards anybody including me. I'm sure I'm bad mouthing those text; I'm just not going to read them all. Never saw it. But that's why we have such a big team of people."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But you were in charge --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "To bang on each other."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So buck stops with you."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Of course."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Of course."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Jonathan tweeted in, what was the insurance policy Deputy Director McCabe struck and paid for discussing in his office?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I have no idea."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Any clue?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "The problem I had reading the text, I'm sure you had the same challenge is, if anybody pulled any of your listeners texts or viewers text and there's not context, it's hard to figure out what they're talking about so I don't --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "There's a lot of text. There's a lot of context with those guys."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Well the one's I've looked at I've had a hard time figuring out."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "This morning the President also said this on FOX and Friends."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "You look at the corruption at the top of the FBI, it's a disgrace and our Justice Department which I try and stay away from but at some point I won't."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "What do you think he meant there?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I don't know. I hope he didn't mean that he's going to decide by executive fiat to direct the actions of what is supposed to be an impartial law enforcement function. Lady Justice has a blindfold, it should stay on."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Did the Inspector General interview you about your handling of the memos?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Sure. Yes."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Has?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Has. Has already and I expect a report from them not on the handling of classified information because that's frivolous but on did I comply with policy? Did I comply with my employment agreement?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You said you didn't leave but there's a New York Time story in April 2017 that first reported the Lynch email. You didn't write about it here in this book because you said it's classified. The New York Times wrote a lot about it. Did the FBI Public Affairs coordinate that story?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Not to my knowledge and I'm not going to comment on any stories because I'm not allowed to confirm or deny classified information."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All right. In the infamous Oval Office meeting with President Trump when he asked you to stay behind one on one, you write in the book that you felt awkward. You didn't like it."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Correct."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You had been one on one with President Obama in the Oval Office?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Correct."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But this was different?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yes because he booted the Attorney General of the United States who was lingering trying to stay."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "As opposed to the Presidential photographer who President Obama boots out?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK. So you say you didn't push when he said he hoped you could see your way clear of letting Flynn go, that he was a good guy. Hope you can let it go. You said you didn't push back and that he should have known that he couldn't do that. All right. So let's assume that that's true that he should have known that. Is it possible there was another reason why you didn't push back and that is that you wanted to keep your job?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "It's possible but it's not the case. At least I don't remember thinking about that at the time."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You told CNN last night that you didn't you'd be fired that you know had you not been fired, you would still be working as FBI Director of tonight."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Yes. In fact, that was my intention. To serve another six years."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So despite the fact that now, you say that this President is morally unfit that you say impeachment is too good of a remedy."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "That's not what I said. I said in a way I hope not because I think the voters need to speak."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Exactly. And on the media tour in the Blitz you basically are encouraging voters to vote Trump out of office because he doesn't line up with your values."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I'm asking them to vote their values and what I believe your viewers would agree are America's values."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK. And -- but as of tonight had you not been fired, you'd still be working for this guy that you say is like a crime boss who's morally unfit, who you just don't agree with on principal and values. You'd still have that job tonight."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Absolutely. Be protect -- my goal would be to protect the FBI and serve the President of the United States."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So when you say --"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "I respect that office tremendously."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "When you say to Republicans why do you work with this President and then sit and say you would still have this job tonight. Isn't there a disconnect there?"
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "No, because elected officials in Congress have a public platform and are responsible for communicating with the voters in a way they FBI Directors not. My job would be to protect the independence of the institution. Their job should be to represent the people who elected them."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Mr. Comey, the book \"Higher Loyalty\" has been very successful. We appreciate your time, traffic and all sir."
+    },
+    {
+      "speaker": "COMEY",
+      "utterance": "Thank you for your patience and your good questions."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Thank you. Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

@@ -1,0 +1,1581 @@
+{
+  "date": "December 7, 2017",
+  "headline": "Gohmert talks political bias allegations against the FBI",
+  "subHeadline": "Texas congressman reacts on \"The Story\" to the FBI director's testimony.",
+  "url": "https://www.foxnews.com/transcript/gohmert-talks-political-bias-allegations-against-the-fbi",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MARTHA MACCALLUM, HOST",
+      "sentences": "So, as you know, a firestorm began here last night in my interview with Ambassador Nikki Haley about whether U.S. athletes will absolutely compete in the Olympics which will take place in the shadow of North Korea. Sarah Sanders was asked to follow-up on it today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SARAH SANDERS, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "No official decision has been made on that, and we'll keep you guys posted as those decisions are made.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And here's a question on a lot of people flips today: did Al Franken have to go? Newt Gingrich says \"no,\" as the senator promises that he will resign in a few weeks -- more on those in a bit. But first, tonight, both of these men used to work at the highest levels of the Russian investigation, both of them no longer do. The reason for that is where our story begins tonight. Bruce Ohr was demoted this week from his position as Associate Deputy Attorney General. That happened just as Fox News learned and inquired about Ohr's just discovered meetings during and after the election with both Christopher Steele whose oppo-research is known as the Trump dossier; and Glenn Simpson, of Fusion GPS, who hired Steele. Chief Washington correspondent, James Rosen, broke this story tonight and he's here with this exclusive. Good evening, James.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JAMES ROSEN, FOX NEWS CHANNEL CHIEF WASHINGTON CORRESPONDENT",
+      "sentences": "Martha, good evening. When Fox News first queried the Justice Department about Associate Deputy Attorney General, Bruce Ohr, a top official just four doors down from Deputy A.G. Rod Rosenstein. We were told that Ohr had been stripped of his title in office a few hours before our inquiry. Later, DOJ told us that Orh had lost that job because he is also and remains Director of DOJ's Organized Crime Drug Enforcement Tax Force and that his wearing of two hats was \"unusual.\" Finally, this afternoon, DOJ officials acknowledged the real reason for Ohr's stunning demotion yesterday, namely that he withheld from superiors his meetings last year with two controversial figures.  Investigators for the House Intelligence Committee uncovered that Ohr met with Christopher Steele, the former British spy who authored that infamous anti-Trump dossier with input from Russian sources. And with Glenn Simpson, the Founder of Fusion GPS, the opposition research firm that paid Steele with funding from the Clinton campaign and the Democratic National Committee.   The dossier was given to the FBI in July 2016 around the same time that Donald Trump accepted the GOP nomination. Former FBI Director James Comey has described the dossier as a compendium of \"salacious and unverified material of Trump and his associates.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. RICHARD BURR, R-N.C.",
+      "sentences": "I'm not sure when the FBI first took possession of it, but the media had it before you had it and we had it. At the time of your departure from the FBI, was the FBI able to confirm any criminal allegations contained in the Steele document?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JAMES COMEY, FORMER DIRECTOR OF FBI",
+      "sentences": "Mr. Chairman, I don't think that's a question I can answer in an open setting because it goes into the details of the investigation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROSEN",
+      "sentences": "Republican investigators from the House Intelligence Committee issued a fresh subpoena on DOJ today for information on Bruce Ohr, looking to determine whether the Democratic-funded dossier was used to obtain FISA surveillance on Trump Campaign Advisor named Carter Page. Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "James, thank you. We're going to talk more about this and just a moment. But in terms of some other news that broke this evening and it's related, Chairman Devin Nunes who was under house ethics inquiry has now been released from that, correct?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROSEN",
+      "sentences": "That's right. Devin is the Chair of the House Intelligence Committee which has been looking into the dossier and how it was used by our top law enforcement agencies. He was referred to the ethics committee in April for allegedly disclosing classified information in an unauthorized setting -- namely the White House stakeout during a news conference there. But the committee does not have the ability to determine what is classified and what's not, most of the members of the House Ethics Committee don't even have a classified clearance to do so. So, they said they brought it experts on classification from the intelligence community, they determined that there was no disclosure of classified information by Mr. Nunes. He is now free to return to the helm of the Russia investigation for the House Intelligence Committee, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That's a huge development. James, thank you very much. So, today on the Hill, the House Republicans grilled FBI Director Christopher Wray over concerns that top officials in his agency may be tainted by their political bias. Watch this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. JIM JORDAN, R-OHIO",
+      "sentences": "If you kicked everybody off Mueller's team who is anti-Trump, I don't think there'd be anybody left. The Democrat National Committee and the Clinton campaign paid the law firm who paid Fusion GPS, who paid Christopher Steele, who then paid Russians.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. TREY GOWDY, R-S.C.",
+      "sentences": "And now, we have a Special Agent Strzok, and that same agent is the one who reportedly interviewed Secretary Clinton in an interview that you and I have never seen conducted that way before.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. RON DESANTIS, R-FLA.",
+      "sentences": "Whether Strzok was involved in this, that needs to be disclosed to Congress, whether the dossier was used to generate surveillance with the FISA court on a Trump associate, that needs to be disclosed to Congress.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. TED DEUTCH, D-FLA.",
+      "sentences": "We have sat here for almost two hours and have heard nary a word from my Republican colleagues about Russian interference in our election.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, you get the idea of what it was like in there today. Congressman Louie Gohmert, during these hearings this afternoon, he asked about specific names at the FBI with regard to the Russia investigation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRISTOPHER WRAY, FBI DIRECTOR",
+      "sentences": "A political and (INAUDIBLE).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. LOUIE GOHMERT, R-TEXAS",
+      "sentences": "And you heard him open (INAUDIBLE) himself with a political bias against the Trump administration?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WRAY",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOHMERT",
+      "sentences": "Mike McGarity?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WRAY",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOHMERT",
+      "sentences": "Josh Guhl?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WRAY",
+      "sentences": "No",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOHMERT",
+      "sentences": "Ryan Parman?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WRAY",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Here now, Texas Congressman Louie Gohmert. Good to see you this evening, sir. Thank you very much for being here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOHMERT",
+      "sentences": "Glad to see you. Those are the scene, by the after my colleague across the aisle said that he admitted her nary word about Russian influence. I went ahead and said, I'm glad he brought it up basically because we need to talk about the Russian collusion in try to get uranium and the killing of that story. So, we brought up the Russian collusion with the Clinton State Department. So, anyway --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "While I'm a student, that is usual in these environments. There were two different agendas that were in deeply at work today in the hearing room. But I'm --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOHMERT",
+      "sentences": "Well, Martha, we really wanted to get to the truth.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, want to know why you asked for those specific names. Do you believe that the people that you named in that hearing today need to be removed from the investigation or from the FBI? Why did you pick their names?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOHMERT",
+      "sentences": "Well, this is the only place I have to ask the FBI director if he knows of anything like that. There are indications that there will be other issues dropped in the future and I wanted to know his position. So, all I can say is stay tuned.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, you have reason to believe that the individuals that you named in there today may be added to the list of Peter Strzok and Bruce Ohr? They maybe removed?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOHMERT",
+      "sentences": "Martha, you know, before I was a judge and a chief justice, I tried lawsuits and this is the opening stage of where you gather information and that's the way I took it. I wanted to know what McCabe knew before we take any other steps. So, I'll be glad to talk to you when we have other information.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, we'll look forward to that. You know, the underlying umbrella question here, though, is whether or not the FBI and the DOJ were involved in perpetuating the initial -- the initiation, I should say of this dossier. And that's the big question about why Bruce Ohr was meeting with Christopher Steele and was also meeting with Fusion GPS Glenn Simpson?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOHMERT",
+      "sentences": "Oh, it's outrageous. And we still need to know, and I know Ron Desantis did a great job, you know, in pointing out, we need to know, if you took a politically contrived and paid for dossier that ended up being totally false, and you use that as a basis to go to the foreign intelligence surveillance court and get a warrant to survey all members of the opposition presidential election team. If that's the case, then the FBI has been co-opted and corrupted beyond perhaps even the sorriest days of the FBI's time when J. Edgar Hoover was wiretapping Martin Luther King.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Congressman Louie Gohmert, thank you very much, sir. Good to see you tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOHMERT",
+      "sentences": "Thank you, Martha, more to come.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "OK. We'll stay tuned. So, here now with more: David Wohl, Attorney and Conservative Commentator; and Juan Williams, Co-Host of \"THE FIVE\" and a Fox News Political Analyst. Juan, let me start with you. You know, it seems that the answer to the question, to the FBI, and Christopher Wray was pressed on this today and he passed on it several times: did the FBI or the Department of Justice have anything to do with initiating this research on Donald Trump when he was the candidate? There's an -- there is an answer to that question, whether or not it was paid for, initiated, and discussed in the halls of the FBI or the DOJ? And Congress wants to know the answer to that and they're being stonewalled.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS POLITICAL ANALYST AND HOST",
+      "sentences": "Well, I think the answer is pretty obvious. We know, that initially, a Republican group related to a newspaper in Washington was the first to engage in hiring Fusion for this negative research -- opposition research -- on Donald Trump in the primaries. Then, in the Clinton campaign comes in after that and starts paying -- that's when Steele and that whole group comes into play. But I think that what we saw today, Martha was an attempt to somehow undercut all the news that we have seen flooding in. Everything from the request for information from Deutsche Bank on people who are associated with the Trump White House, to the idea that Donald Jr. was saying, you know, there's attorney-client privilege, he can't testify before Congress, and, of course, the Flynn admission to lying. Now, we have an orchestrated effort -- that's what I think we that's what we saw there by the White House trying to undercut the FBI, Department of Justice in order to distract the American people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, Juan, you're not interested in knowing -- you're not interested in knowing whether or not the DOJ or the FBI. Because, now, we know that this gentleman who worked in the Department of Justice was meeting with Christopher Steele. Doesn't that raise some questions for you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No, wait, that was after --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "No, that was before. That was before the election, and then the meeting with Glenn Simpson was the election. The one was before they bookend and one was after.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Right. But in neither case, is the government paying. And apparently, what you've got is a situation where you've got opposition research -- which is not illegal -- being gathered by --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, it's not illegal but you don't want the FBI and the DOJ doing it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Nobody -- the campaign doing it is one thing. The questions that are being served -- that served now is whether or not the DOJ or the FBI had any involvement in that. David, let me have you -- let you have your say. Go ahead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAVID WOHL, ATTORNEY AND CONSERVATIVE COMMENTATOR",
+      "sentences": "And Martha, this (INAUDIBLE) Louie Gohmert. This process is so irreparably corrupted at this point, that the only solution is to disband this panel of investigators, remove Mr. Mueller. And perhaps, in a panel on (INAUDIBLE), bunch of investigators to look into this panel. I mean, what -- from the beginning to this point, we have Peter Strzok who changed the language in the Comey memo that allowed essentially Comey to let Hillary Clinton off the hook last summer -- changed it from \"gross negligence\" to \"carelessness.\" If there was no evidence supporting that, Martha, if that was done solely for the purpose of refusing to file charges on her, that is a textbook corruption of justice.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "But David Wohl, let me ask you -- let me ask you, Juan Williams, a question that he brought up: is all this smokescreen so that, you know, people don't talk as much about the Deutsche Bank investigation of the finances or Donald Jr.'s decision to say that he could not discuss some things yesterday in light of attorney-client privilege.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WOHL",
+      "sentences": "I don't think it's a smokescreen. Mueller himself is turning these things over. I mean, you want him to fire people because of their overwhelming bias against Mr. Trump? The text messages to people they're having affairs with? I mean, it's extraordinary -- and that this is what people worried about in the beginning. He was hiring people that had donated to Hillary Clinton's campaign. I understand people are allowed to have political biases, but this has been an extraordinary point where we've reached now the point that there's no credibility to Mr. Mueller's panel. It's got to be dealt with, and any conclusion they come to will lack credibility as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "David Wohl and others have been concerned about this all along. And Juan, it is of interest that we know that two people have been removed from this investigation. One definitely for anti-Trump bias, the other one we're not sure yet.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, no, I think one guy was removed because he was tweeting during the course of the presidential debates -- things that were perceived as anti-Trump. And I think Robert Mueller rightly said this could be politically -- to his lover",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "He was texting with his girlfriend.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Martha, but that --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "People are allowed political opinions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And I think it's very important to point out that he was removed from this investigation. So, I'm curious to see exactly what he was saying because you are allowed to have your opinions. So, it must've - -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "But here's the point there --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WOHL",
+      "sentences": "If the government turned over immediately --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "-- that David weighs just a moment ago that this is all about getting rid of Robert Mueller. The question is: is the president going to say, Mueller, you're fired.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "The question is, do we have an honest and aboveboard investigation going? That is the bottom line.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I think there's no question.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WOHL",
+      "sentences": "Do we allow this fishing expedition to go forward with no evidence of collusion -- zero?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "David and Juan, thanks, you guys. I've to go. Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WOHL",
+      "sentences": "Thank you, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, here's the Fox News Alert for you tonight, there will be no government shutdown for now. Just a short time ago, the Senate overwhelmingly approved the spending bill that will keep the government opens for, guess what, two weeks. That's what they were telling. Oh, a big sigh of relief, right? Two more weeks, the government will stay open. Plus, there new developments on this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "We all have athletes, United States athletes, heading to South Korea soon, do you think that it is safe for them to go there in this environment?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NIKKI HALEY, U.S. AMBASSADOR TO THE UNITED NATIONS",
+      "sentences": "I think those are conversations that we're going to have to have.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, that answer got a lot of reaction; it sparked a bit of a firestorm today. And the White House's Press Secretary, Sarah Sanders, was asked about it. We're breaking down the fact from fiction herein whether or not the Olympics is going to be on for the U.S. team. And Senator Al Franken bents to pressure, he says he will resign. But even some Republicans say that he should not have had to step down. A.B. Stoddard and Emily Tisch Sussman up next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. AL FRANKEN, D-MINN.",
+      "sentences": "Today, I am announcing that in the coming weeks, I will be resigning as a member of the United States Senate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Senator Al Franken, bowing to growing pressure and announced that he will step down, he said, in a few weeks. It comes as congressman John Conyers also forced to retire. The Democrats leading the calls for both men to step who now seemed to be seeking moral high ground as harassment scandals rocked Capitol Hill as \"USA Today\" put it: \"With their unified condemnation of Franken, Democrats are also seeking to draw a contrast with Republicans who may soon be joined in the Senate by Moore,\" Roy Moore. Trace Gallagher in our West Coast Newsroom with that part of the story tonight. Hi, Trace.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS CHANNEL",
+      "sentences": "Hi, Martha, eight women accused Al Franken of sexual misconduct and that appeared to be enough for him to step aside. It's not accurate to say Franken took a parting shot at Republicans because, as you made clear, for now, we don't not know when he plans to leave office. But Franken certainly took a swipe at both President Trump and Alabama Senate Candidate Roy Moore. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRANKEN",
+      "sentences": "I, of all people, am aware that there is some irony in the fact that I am leaving, well a man who has bragged on tape about his history of sexual assault sits in the oval office, and a man who has repeatedly preyed on young girls, campaigns for the Senate with the full support of his party.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "Franken's resignation speech comes just days after Michigan Congressman John Conyers resigned under pressure from his own sexual misconduct allegations. And some political analyst believes that if Roy Moore wins his Senate race in Alabama next week, which he's expected to, that Democrats can take the moral high ground on issues of sexual harassment. But others are quick to remind Democrats they didn't exactly push Franken or Conyers out the door. In fact, top Democrats initially were willing to wait for a lengthy Senate ethics probe to look into the Franken accusations. And as for John Conyers, just ten days ago, South Carolina Democratic Congressman James Clyburn cast doubt on Conyers' accusers.  Telling The New York Times, \"All of this could be made up and tell.\" And House Democratic Leader Nancy Pelosi went on \"Meet the Press\" and called Conyers an icon. Both have since changed their position. In fact, within days, dozens of Democrats went from silence to what Newt Gingrich calls a \"lynch mob\". The former house speaker tweeted: \"1,053,205 Minnesotans picked him for Senate in 2014. 30 self-appointed 'pure' senators want him out. What happened to a popular vote?\" Al Franken's staff will only say that he'll step aside within weeks. And we should note, conservative Arizona Congressman Trent Franks is also resigning amid an ethics investigation that he made two female staffers uncomfortable by discussing surrogacy. Franks says he's getting out before he is tried in the media. Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. Trace, thank you very much. Here now with more: A.B. Stoddard, Associate Editor and Columnist at Real Clear Politics; Emily Tisch Sussman, Democratic Strategist and Campaign Director at the Center for American Progress Action Fund. Welcome to both of you. Good to see you tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMILY TISCH SUSSMAN, DEMOCRATIC STRATEGIST AND CAMPAIGN DIRECTOR AT THE CENTER FOR AMERICAN PROGRESS ACTION FUND",
+      "sentences": "Hi, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Emily, do you think Al Franken should have had to resign?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SUSSMAN",
+      "sentences": "I do. I think there were mountain claims against him. I think it was becoming impossible for him to do his job. And I think that we need to err on the side of believing women. Look, what he did was we don't know, but he admits that there was some element of what was there was an appropriate conduct. We do hear that there are women in his office that always felt safe. Nevertheless, it was time for him to resign. And I do think it was perfectly fair for him to draw a contrast with the potential incoming senator from Alabama, Roy Moore. The fact that the Republicans have not called for the same kind of thing for him. And in fact, the RNC has gone back into that race regardless of the fact that he has mounting claims against him, the fact that he was going after teenage girls. I think it's totally fair to draw that contrast.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, anyone who gets accused, and I read there was a discussion among some of the women on the Democratic side senators, who said, you know, while there's seven, if there is eight, then we're all going to get together and say that he must go. A.B., there is sort of a, you know, kind of, crowd mentality, and pushing out an elected official, that does raise questions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "A.B. STODDARD, ASSOCIATE EDITOR AND COLUMNIST AT REAL CLEAR POLITICS",
+      "sentences": "Well, I think it's kind of hilarious to hear Republicans get so concerned about the career and standing of Senator Al Franken. Look, Democrats are very late to this. As Trace pointed out, they were late on Conyers, they were late on Franken, they tolerated what likely in some scenarios could constitute as a sexual assault from Senator Ted Kennedy, from President Bill Clinton. They're late to this game. But the point is, Senator Franken resigned. He decided and he said it on the floor to the Senate today that it was really about his constituents in Minnesota. That, even though President Trump after 12 allegations or more of assault of harassment from women, and the same with the allegations against Roy Moore, also denied, if they're elected by the voters anyway, they get to say they have the support of their voters. Once you're in office, if these were revealed, that's a stain on your service. And that's why you can say it's the fault of the Democratic Party, it put up with us for a pretty long time, I think probably too long. And Senator Franken decided it was really his constituents who were going to suffer as a result of this stain on his service.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I don't know. I mean, did he decide? You know, I mean, you've got 34 Senators saying --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STODDARD",
+      "sentences": "Well, he was resentful and defiant, but not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "-- I mean, I think he would've -- he probably would've pushed to hang on if it weren't for the questions that were raised about why John Conyers had to go and he didn't. But, you know, Emily, it's clear that the Democrats want to make this, you know, sort of a war on women too. We remember the first round at the Democratic convention, and they're going to point fingers that Republicans, and say, you know, basically, we cleaned our house, but you didn't clean yours, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SUSSMAN",
+      "sentences": "Well, that's actually what's happening. I don't think it's a press play, I don't think it's a messaging play. Look, an investigation started just moments ago by the House Ethics Committee into Republican Blake Farenthold for sexual misconduct and the fact that he used taxpayer dollars to settle $84,000. I have heard almost a zero from Republican Party saying, hey, let's look into this that maybe he should be resigning. We haven't heard anything at all. And the fact that we're now going to be OK with the fact that we're going to, I guess periodically, elect sexual assaulters into office just because they may have the same political leaning, that is so partisan. That's what people hate about Washington.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I mean, I think you're right. You know, I think, you know, on both sides, you have people who are denying the claims, who are saying, you know, Al Franken said some of these things I deny, some of them I remember very differently. And I just wonder, at one point do you draw the line on some of these situations? It's a sticky wicket, to say the least. All right. Thank you, guys! I got to leave it there. A.B. Stoddard and Emily Tisch Sussman, good to see you both tonight. Thanks for being here. So, still, to come this evening, my debate last night, my discussion with Nikki Haley, the U.S. Ambassador to the U.N., raised a lot of questions about our posture in terms of the U.S. Olympics and whether or not Americans will participate in the 2018 Winter Games in South Korea. We're going to fact-check all of this with critics who have some doomsday predictions about that. And also, we will talk about the big decision that was made to name Jerusalem the capital of the United States to that and to move our embassy there eventually. We'll talk to some experts on why he is the first president -- others have said they would do it, but President Trump is following through. We're going to talk about that coming up next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Starting plans to move the embassy to Jerusalem. No one else on earth h and embassy there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Some significant development tonight. The Chairman of the House Intelligence Committee who was under a House ethics investigation, Devin Nunes has now been cleared by the Ethics Committee and he was asked by Chard Pergram, our Capitol Hill Producer, whether or not that meant that he was back in charge of this Russia investigation. And he said, made their bones about it, he said I'm in charge, I was always in charge. So we look forward to hearing more from Chairman Devin Nunes as he moves back into the center spot on the Russia investigation as far as the house intelligence committee goes. No doubt he will want to pursue the questions of the dossier and whether or not there was any connection between the FBI, the DOJ, all of the questions that have been raised that we discussed earlier on the show tonight. So that's the latest on Devin Nunes.  And the Middle East is on edge this evening. Palestinians clash with Israeli troops over the news that President Trump intends to relocate the U.S. embassy in Israel as a way of recognizing Jerusalem as the capital of Israel. The State Department issuing a travel warning for the region. Leland Vitter, live at the White House tonight with this story. Leland?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LELAND VITTER, FOX NEWS CORRESPONDENT",
+      "sentences": "Good evening, Martha. The reaction to this continues to be as split as the Middle East. The White House really reveling in their supporters happiness at this decision calling it courageous. On the other hand, you've got the State Department reportedly telling the Israelis to not gloat too much over this decision. The White House at the same time really unfazed though that reportedly President Abbas of the Palestinian will not meet with Vice President Mike Pence when he's in the Middle East about 10 days for now. The White House and the vice president's office saying they'll wait to hear directly from President Abbas. At least, so far, the promises and warnings by Arab leaders of unending war and fire that can't be extinguished have not materialized. As we've reported last night, the rain kept people off the streets in Jerusalem, but today, a little bit better weather, and the end of the Arab work week led to clashes at some of the usual flash points. There were a couple of thousand Palestinians that gathered to burn tires and throw rocks at the Israeli checkpoints, the Israeli troops then came out with tear gas and rubber bullets. Palestinian leaders and some of the more violent Iranian- backed militant groups have called for a third uprising by the Palestinians. We haven't seen anything that remotely resembles that kind of violence yet. Protests also around the Middle East, in Jordan at the U.S. embassy, protesters gathered there to express their displeasure. The embassy there and among other places in the Middle East has been beefed up by marine antiterrorism teams to prevent any significant violence. None reported so far at U.S. embassies around the region. The embassy in Amman though has warned all Americans to maintain a low profile. And they've also said that tomorrow, the children of U.S. diplomats will not be going to school. And tomorrow is the key, Friday noon prayers is often times the flash point for significant protests. It's the Amman time to whip up the most angry of his followers and then push them out into the streets. Martha, Friday prayers let out about 1:00 PM local time in the Middle East. That's 6:00 AM here tomorrow morning in Washington. The White House will be watching then. Back to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "No doubt. Leland, thank you very much. So the mainstream media dire prediction about the impact of this decision perhaps went a little bit over the top. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "President Trump tonight made the biggest mistake of his life.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED FEMALE",
+      "sentences": "Outside of Israeli support, there has been condemnation of President Trump's move across the globe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "If we move that embassy to Jerusalem, we could spark a full on Intifada.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "People are going to die now because of what was said today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, I mean, it's only been a day, but we have not seen that as Leland just reported so far. And they're watching tomorrow very closely. But for decades, President Trump's predecessors declared essentially the same thing, their support for Jerusalem as the capital of Israel as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BILL CLINTON, FORMER U.S. PRESIDENT",
+      "sentences": "As stated in our Democratic platform, Jerusalem is still the capital of Israel and must remain an undivided city assessable to all.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEORGE W. BUSH, FORMER U.S. PRESIDENT",
+      "sentences": "As soon as I take office, I will begin the process of moving the United States ambassador to the city of Israel as chosen at its capital.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARACK OBAMA, FORMER U.S. PRESIDENT",
+      "sentences": "Jerusalem will remain the capital of Israel and must remain undivided.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So clearly that has been the policy and the desire of U.S. presidents for decades. Marc Thiessen joins us now, American Enterprises chief scholar, Marie Harf, former Obama State Department spokesperson, both are Fox News contributors. Marie, let me start with you. I think when people watch that at home, they say, well, Republicans and Democrats alike in the presidency have wanted this very much, so why would they be complaining that President Trump is doing it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARIE HARF, FOX NEWS CONTRIBUTOR",
+      "sentences": "Well, there's a reason that none of those other presidents took the steps that President Trump took this week, because in doing so it would make it much more difficult for the U.S. to play a role in negotiating peace between the Israelis and the Palestinians. By taking this step, Republicans and Democrats have always judged that would really make it difficult for us to try to achieve a lasting peace, which all these administration.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I mean, one of the point that President Trump made was, you know, we tried to get away for a long time and that didn't work, so let's try it this way, Marc.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARC THIESSEN, FOX NEWS CONTRIBUTOR",
+      "sentences": "Well, that's a lot of what's happening with the Trump presidency. I mean, look, Marie's boss promise to do it and he didn't do it. My boss promise to do it, and he didn't do it. Donald Trump did it. And this is why Americans elected Donald Trump. He's not a politician. He actually does what he says he's going to do for better or for worse, sometimes for worse, in this case, for better. Because I've got a Fox News alert, Martha, Jerusalem is the capital of Israel. It's a fact. Countries get to choose their own capitals. We don't get to dictate what their capital is. This fiction that we've been having that Jerusalem is not the capital of Israel is ridiculous. And it's not going to stop Middle East peace because there is no Middle East peace. We've been trying this for seven decades to get Middle East peace and it's not happening. If anything, it might actually make it easier to get Middle East peace because the president of the United States has shown he's willing to break conventions and do things differently and he's shown strength.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And very interesting in the announcement, he said we're going to do this because we promised to do it for a long time, and because he promised to do it on the campaign trail as well, of course. But he said at the same time, we are going to renew our commitment. We want the status quo to stay the same in terms of any lines that are drawn in the region, and they insisted upon that. And Prime Minister Benjamin Netanyahu said they're also are on board with doing that in a separate statement. So if they push hard now to have talks, will it be difficult for those not to begin in this environment, Marie?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "I think it's going to be much more difficult. Look, Marc is right. Middle East peace have been elusive for many, many years, decades as well know. But why would President Trump give away such an important thing moving the capital to Jerusalem without getting anything in return? This isn't a negotiating tactic. This is something they could have held and used to get something in peace talks. By just giving it away, not demanding anything in return is a terrible negotiating tactic. And the Palestinians, you know, I heard Leland report that President Abbas might not meet with Vice President Pence when he goes there, that's a problem.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. That's the strongest form of protest that we've seen yet in reaction. I've got to leave it there, you guys. Thank you very much. We're short on time tonight. Thanks for being here. So thousands of homes are in jeopardy as wildfires continue to rage out of control in California tonight, the winds could be a huge factor in fighting those flames. They have died down. They're back. An update straight ahead. On the heels of North Korea's provocations, folks around the world voicing concerns about security in the upcoming Winter Olympics in South Korea. Yesterday, I spoke with Ambassador Nikki Haley, I asked her about it and there has been quite a bit of response to what she said here on The Story. Ed Henry joins us next on the fallout.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, is the United States recommending that our team goes or is that still an open question because of this environment?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, is the United States recommending that our team goes or is that still an open question because of this environment?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "There's an open question I have not heard anything about that. But I do know in the talks that we have, whether it's Jerusalem, whether it's North Korea, it's always about how do we protect the U.S. citizens in the area?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That was part of my interview last night with U.S. ambassador to the U.N., Nikki Haley, and it triggered a tidal wave of response and questions at the White House today. We have seen reaction from the White House, from NBC, from the U.S. Olympic committee, the South Korea Olympic organizer and media. Everyone, obviously, is understandably nervous about this situation with North Korea. South Korea at the shadow of North Korea. Chief national correspondent Ed Henry picks up the story for us from there tonight, with some back stories for us. Hi, Ed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHIEF NATIONAL CORRESPONDENT",
+      "sentences": "Martha, good to see you. No real surprise you're making waves and breaking news and the reverberations that interview cause around the globe. May explain why top White House officials tonight are trying to, well, massage what the U.S. ambassador told you. The U.S. Olympic Committee is busy training our athletes to qualify at those winter games. Well, it is not a government agency, the USOC works closely with the State Department and others to coordinate. And there's spokesman, Mark Jones, contradicted the Trump administration today saying, we have not had any discussions either internally or with our government partners about the possibility of not taking teams to the 2018 Olympic and Paralympic Winter Games. We plan on supporting two full delegations in Pyeongchang. USA Today columnist, Nancy Armour, actually went further with an attack on President Trump, that -- wait for it, try to somehow make this about Vladimir Putin and all the talk about Russia, Russia, Russia. Armour writing, quote, why members of the Trump administration decided to weight in now isn't clear, though their comments did happen to come a day after the IOC band Russia for Pyeongchang because of a widespread state-sponsored doping program. Russian athletes can still compete as independent athletes, but the Russian flag will not be seen and the Russian anthem will not be played at medal ceremonies. Armour's broader point, the final call is with the USOC not the government. But when White House spokeswoman, Sarah Sanders, tried to calm us down by suggesting Ambassador Haley was misquoted, she added more confusion perhaps by suggesting this is an open question still to be decided.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "Is it an open question? Is that now in doubt?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SARAH HUCKABEE SANDERS, DEPUTY PRESS SECRETARY",
+      "sentences": "Look, that wasn't exactly what the ambassador said. No official decision has been made on that. And we'll keep you guys posted as those decisions are made.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Sanders also said the goal is to send American athletes so she had to clarify on twitter, the U.S. looks forward to participating in the winter Olympics in South Korea. The protection of Americans is our top priority and we are engaged with the South Koreans and other partner nations to secure the venues. By the way, that USA Today columnist also charged the Trump administration as, quote, fearmongering, because security is not really a big issue at the games, but that's actually not true. NBC, which has the rights to broadcast the games, recently ran a story saying athletes and their families are worried about what the trouble in the Korean peninsula means for them. And key allies, Austria, France and Germany have all said they'll sit out the games if safety cannot be guaranteed. Martha?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. You know, it's interesting in my discussion with the U.N. ambassador last night, I asked her, you know, when you send a family member or a friend, and that was the second part of the context after she said it was an open question. She said, you know, it depends of what the situation is at the time. So I don't think you can in one moment say that we are inching potentially closer to war as she had said, and Henry McMaster had said. And then, you know, sort of address the issue like it's nothing, like there aren't tensions there. I think she was just acknowledging that there are indeed tensions there. But as you point out, we have thousands of troops there every day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yeah. I remember being in South Korea with then President Obama when he was addressing U.S. troops there, and we were on a base where it's not just the troops, there's spouses, there's children, there's friends and relatives. There are thousands of Americans in between diplomats and troops in South Korea. So if the administration is concerned about potentially sending some athletes over, if you're an American in South Korea, right now, not down the road, you have to be wondering about how safe you are.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And of course, you know, we have terrible memories of what happened in Munich to the Israeli athletes which was devastating. There's always been terror concern. And in 1980, the United States did not go under President Carter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yeah. Did not go to the Russian Olympics, basically, Soviet Olympics if you will, because the Soviets had invaded Afghanistan, and that split the country as well because there were some saying, yes, send the message to the Soviets, but then there were others who felt like the American athletes got caught in a political struggle, and after all this training, didn't actually get to compete in Moscow. So, you know, and then the Russians, remember the Soviets responded and boycotted the U.S. Olympics in Los Angeles in '84, as I recall. So, look, this is not the first time that politics and security concerns have been at play, but the most important thing you said is what happened in Munich in the early '70s, when Israeli athletes were murdered. This is what the fear is, and I suspect that's what Ambassador Haley was thinking about because beyond just nuclear threats and the potential for war, there's terror threat all the time around these kinds of events.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So true. I looked back at Jim McCabe coverage today, and some moments when he looked to the camera and said they're all gone. It's just awful. And that's the kind of concern that everyone has. But I hope they go off without a hitch because it means so much for these young athletes. They work so hard and they should have the opportunity to compete. Ed, thank you so much, great to see you tonight as always. Thank you. So Fox News alert for you this evening, as five major fires are now burning in Southern California. Thousands of people have evacuated, hundreds of homes have been destroyed. We're going to continue to keep an eye on this. And also this today, Pope Francis wants to change the Lord's Prayer. Many people have memorized it all over the world, so are we going to have to learn some new lines. Father Jonathan Morris joins me in just a moment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So there some controversy today from Pope Francis that has people sort of turning their heads a little bit on this one. The leader of the Catholic Church suggesting that the Lord's Prayer, the best-known prayer in Christianity, which is prayed by not thousands as I've said earlier, but 2.2 billion people around the world may undergo a little bit of an edit. He says the phrase, lead us not into temptation, suggests that God induces temptation in his followers, and do not let us fall into temptation would be more acceptable and closer to the original meaning of the prayer. So who better to sort this out for us than our good friend Father Jonathan Morris, Fox News religion correspondent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONATHAN MORRIS, FOX NEWS RELIGION CORRESPONDENT",
+      "sentences": "Thank you, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Good to see you, Father Jonathan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MORRIS",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So I still have a hard time with consubstantial, so I'm a little bit reluctant to change. What's the meaning here?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MORRIS",
+      "sentences": "What he's saying is not, I'm going to change the words of Jesus, nobody can change the words of Jesus. Jesus existed. Jesus was a historical figure. He said the words of the Our Father not in English, but Aramaic. And the best translation we have of Our Father is the Greek. And then that Greek was translated to so many different languages. And those translations are very different. In English, it says lead us not into temptation, but guess what, Jesus didn't speak English, and it's really kind of bad theology, as well even in the Italian. But for example in the Spanish it says (FOREIGN LANGUANGE) in other words, don't let us fall into temptation. That makes sense. He's saying that the translation isn't very good because God never make us fall or never leads us into temptation, he actually allows us to be tempted but we have to make a choice. Is that makes sense?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I think so. The pope is obviously from Argentina, so in his experience, it didn't sound the way it sounds now that he, you know, is dealing with the English language more. I guess my question is, why did it take so long? If this is wrong, if this isn't line up with theology, why did it take.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MORRIS",
+      "sentences": "Well, think of it, we pray this all the time, 2.2 billion Christians prayed this all the time, and we don't think that God is the one forcing us to temptation, we understand that he allows us to be tempted. But I think all Evangelicals, Catholics, mainline Protestants, Christians would say God does not lead us into temptation. It's a bad translation, honestly. Go back to the Greek. We don't know exactly what he said in Aramaic in this case, but go back to the Greek and it's much closer to a lot of translations that is, don't let us fall into temptation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "But what about the argument the everything comes from God, right? So whatever comes into your life in different ways was, you know, sort of put there for you to learn a lesson.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MORRIS",
+      "sentences": "God never does evil. God never does evil. So God doesn't create evil. Evil is the absence of good, actually, OK? So God creates everything that's good, and he never leads us into temptation. Like you now be tempted, no. He allows us to experience life.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "When is the change happening? When do I have to start changing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MORRIS",
+      "sentences": "You know what? It's already changing in so many languages. In other words, our experience is like, oh, my gosh, that's such a big deal. But in so many languages that's much closer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I think (INAUDIBLE) consubstantial. I think I can make this change more easily.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MORRIS",
+      "sentences": "Well, very few people know consubstantial. You do, Martha. Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Thank you so much. Still ahead, we know who the buyer of the $450 million painting is, and it is not Father Jonathan. When we come back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Here is a great story. We now know who bought the $450 million da Vinci in New York last month. It was a Saudi Arabia's crown prince, Mohammad Bin Salman, who had put down nearly a half billion dollars for the portrait of Jesus Christ. There's a bit of competition, apparently, in the Middle East to buy up the world's great works of art. But apparently, even he has to pay it in installments, $58 million is six monthly installments. Here is $58 million, next month, ah, your payment due. All right. So that is \"The Story\" for tonight. Thanks for being here on a Thursday this evening, everybody. And I remember it's a Pearl Harbor this evening as well. Tucker Carlson, coming up next from D.C. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, HOST",
+      "utterance": "So, as you know, a firestorm began here last night in my interview with Ambassador Nikki Haley about whether U.S. athletes will absolutely compete in the Olympics which will take place in the shadow of North Korea. Sarah Sanders was asked to follow-up on it today."
+    },
+    {
+      "speaker": "SARAH SANDERS, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "No official decision has been made on that, and we'll keep you guys posted as those decisions are made."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And here's a question on a lot of people flips today: did Al Franken have to go? Newt Gingrich says \"no,\" as the senator promises that he will resign in a few weeks -- more on those in a bit. But first, tonight, both of these men used to work at the highest levels of the Russian investigation, both of them no longer do. The reason for that is where our story begins tonight. Bruce Ohr was demoted this week from his position as Associate Deputy Attorney General. That happened just as Fox News learned and inquired about Ohr's just discovered meetings during and after the election with both Christopher Steele whose oppo-research is known as the Trump dossier; and Glenn Simpson, of Fusion GPS, who hired Steele. Chief Washington correspondent, James Rosen, broke this story tonight and he's here with this exclusive. Good evening, James."
+    },
+    {
+      "speaker": "JAMES ROSEN, FOX NEWS CHANNEL CHIEF WASHINGTON CORRESPONDENT",
+      "utterance": "Martha, good evening. When Fox News first queried the Justice Department about Associate Deputy Attorney General, Bruce Ohr, a top official just four doors down from Deputy A.G. Rod Rosenstein. We were told that Ohr had been stripped of his title in office a few hours before our inquiry. Later, DOJ told us that Orh had lost that job because he is also and remains Director of DOJ's Organized Crime Drug Enforcement Tax Force and that his wearing of two hats was \"unusual.\" Finally, this afternoon, DOJ officials acknowledged the real reason for Ohr's stunning demotion yesterday, namely that he withheld from superiors his meetings last year with two controversial figures. Investigators for the House Intelligence Committee uncovered that Ohr met with Christopher Steele, the former British spy who authored that infamous anti-Trump dossier with input from Russian sources. And with Glenn Simpson, the Founder of Fusion GPS, the opposition research firm that paid Steele with funding from the Clinton campaign and the Democratic National Committee. The dossier was given to the FBI in July 2016 around the same time that Donald Trump accepted the GOP nomination. Former FBI Director James Comey has described the dossier as a compendium of \"salacious and unverified material of Trump and his associates.\""
+    },
+    {
+      "speaker": "SEN. RICHARD BURR, R-N.C.",
+      "utterance": "I'm not sure when the FBI first took possession of it, but the media had it before you had it and we had it. At the time of your departure from the FBI, was the FBI able to confirm any criminal allegations contained in the Steele document?"
+    },
+    {
+      "speaker": "JAMES COMEY, FORMER DIRECTOR OF FBI",
+      "utterance": "Mr. Chairman, I don't think that's a question I can answer in an open setting because it goes into the details of the investigation."
+    },
+    {
+      "speaker": "ROSEN",
+      "utterance": "Republican investigators from the House Intelligence Committee issued a fresh subpoena on DOJ today for information on Bruce Ohr, looking to determine whether the Democratic-funded dossier was used to obtain FISA surveillance on Trump Campaign Advisor named Carter Page. Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "James, thank you. We're going to talk more about this and just a moment. But in terms of some other news that broke this evening and it's related, Chairman Devin Nunes who was under house ethics inquiry has now been released from that, correct?"
+    },
+    {
+      "speaker": "ROSEN",
+      "utterance": "That's right. Devin is the Chair of the House Intelligence Committee which has been looking into the dossier and how it was used by our top law enforcement agencies. He was referred to the ethics committee in April for allegedly disclosing classified information in an unauthorized setting -- namely the White House stakeout during a news conference there. But the committee does not have the ability to determine what is classified and what's not, most of the members of the House Ethics Committee don't even have a classified clearance to do so. So, they said they brought it experts on classification from the intelligence community, they determined that there was no disclosure of classified information by Mr. Nunes. He is now free to return to the helm of the Russia investigation for the House Intelligence Committee, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That's a huge development. James, thank you very much. So, today on the Hill, the House Republicans grilled FBI Director Christopher Wray over concerns that top officials in his agency may be tainted by their political bias. Watch this."
+    },
+    {
+      "speaker": "REP. JIM JORDAN, R-OHIO",
+      "utterance": "If you kicked everybody off Mueller's team who is anti-Trump, I don't think there'd be anybody left. The Democrat National Committee and the Clinton campaign paid the law firm who paid Fusion GPS, who paid Christopher Steele, who then paid Russians."
+    },
+    {
+      "speaker": "REP. TREY GOWDY, R-S.C.",
+      "utterance": "And now, we have a Special Agent Strzok, and that same agent is the one who reportedly interviewed Secretary Clinton in an interview that you and I have never seen conducted that way before."
+    },
+    {
+      "speaker": "REP. RON DESANTIS, R-FLA.",
+      "utterance": "Whether Strzok was involved in this, that needs to be disclosed to Congress, whether the dossier was used to generate surveillance with the FISA court on a Trump associate, that needs to be disclosed to Congress."
+    },
+    {
+      "speaker": "REP. TED DEUTCH, D-FLA.",
+      "utterance": "We have sat here for almost two hours and have heard nary a word from my Republican colleagues about Russian interference in our election."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, you get the idea of what it was like in there today. Congressman Louie Gohmert, during these hearings this afternoon, he asked about specific names at the FBI with regard to the Russia investigation."
+    },
+    {
+      "speaker": "CHRISTOPHER WRAY, FBI DIRECTOR",
+      "utterance": "A political and (INAUDIBLE)."
+    },
+    {
+      "speaker": "REP. LOUIE GOHMERT, R-TEXAS",
+      "utterance": "And you heard him open (INAUDIBLE) himself with a political bias against the Trump administration?"
+    },
+    {
+      "speaker": "WRAY",
+      "utterance": "No."
+    },
+    {
+      "speaker": "GOHMERT",
+      "utterance": "Mike McGarity?"
+    },
+    {
+      "speaker": "WRAY",
+      "utterance": "No."
+    },
+    {
+      "speaker": "GOHMERT",
+      "utterance": "Josh Guhl?"
+    },
+    {
+      "speaker": "WRAY",
+      "utterance": "No"
+    },
+    {
+      "speaker": "GOHMERT",
+      "utterance": "Ryan Parman?"
+    },
+    {
+      "speaker": "WRAY",
+      "utterance": "No."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Here now, Texas Congressman Louie Gohmert. Good to see you this evening, sir. Thank you very much for being here."
+    },
+    {
+      "speaker": "GOHMERT",
+      "utterance": "Glad to see you. Those are the scene, by the after my colleague across the aisle said that he admitted her nary word about Russian influence. I went ahead and said, I'm glad he brought it up basically because we need to talk about the Russian collusion in try to get uranium and the killing of that story. So, we brought up the Russian collusion with the Clinton State Department. So, anyway --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "While I'm a student, that is usual in these environments. There were two different agendas that were in deeply at work today in the hearing room. But I'm --"
+    },
+    {
+      "speaker": "GOHMERT",
+      "utterance": "Well, Martha, we really wanted to get to the truth."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, want to know why you asked for those specific names. Do you believe that the people that you named in that hearing today need to be removed from the investigation or from the FBI? Why did you pick their names?"
+    },
+    {
+      "speaker": "GOHMERT",
+      "utterance": "Well, this is the only place I have to ask the FBI director if he knows of anything like that. There are indications that there will be other issues dropped in the future and I wanted to know his position. So, all I can say is stay tuned."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, you have reason to believe that the individuals that you named in there today may be added to the list of Peter Strzok and Bruce Ohr? They maybe removed?"
+    },
+    {
+      "speaker": "GOHMERT",
+      "utterance": "Martha, you know, before I was a judge and a chief justice, I tried lawsuits and this is the opening stage of where you gather information and that's the way I took it. I wanted to know what McCabe knew before we take any other steps. So, I'll be glad to talk to you when we have other information."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, we'll look forward to that. You know, the underlying umbrella question here, though, is whether or not the FBI and the DOJ were involved in perpetuating the initial -- the initiation, I should say of this dossier. And that's the big question about why Bruce Ohr was meeting with Christopher Steele and was also meeting with Fusion GPS Glenn Simpson?"
+    },
+    {
+      "speaker": "GOHMERT",
+      "utterance": "Oh, it's outrageous. And we still need to know, and I know Ron Desantis did a great job, you know, in pointing out, we need to know, if you took a politically contrived and paid for dossier that ended up being totally false, and you use that as a basis to go to the foreign intelligence surveillance court and get a warrant to survey all members of the opposition presidential election team. If that's the case, then the FBI has been co-opted and corrupted beyond perhaps even the sorriest days of the FBI's time when J. Edgar Hoover was wiretapping Martin Luther King."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Congressman Louie Gohmert, thank you very much, sir. Good to see you tonight."
+    },
+    {
+      "speaker": "GOHMERT",
+      "utterance": "Thank you, Martha, more to come."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "OK. We'll stay tuned. So, here now with more: David Wohl, Attorney and Conservative Commentator; and Juan Williams, Co-Host of \"THE FIVE\" and a Fox News Political Analyst. Juan, let me start with you. You know, it seems that the answer to the question, to the FBI, and Christopher Wray was pressed on this today and he passed on it several times: did the FBI or the Department of Justice have anything to do with initiating this research on Donald Trump when he was the candidate? There's an -- there is an answer to that question, whether or not it was paid for, initiated, and discussed in the halls of the FBI or the DOJ? And Congress wants to know the answer to that and they're being stonewalled."
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS POLITICAL ANALYST AND HOST",
+      "utterance": "Well, I think the answer is pretty obvious. We know, that initially, a Republican group related to a newspaper in Washington was the first to engage in hiring Fusion for this negative research -- opposition research -- on Donald Trump in the primaries. Then, in the Clinton campaign comes in after that and starts paying -- that's when Steele and that whole group comes into play. But I think that what we saw today, Martha was an attempt to somehow undercut all the news that we have seen flooding in. Everything from the request for information from Deutsche Bank on people who are associated with the Trump White House, to the idea that Donald Jr. was saying, you know, there's attorney-client privilege, he can't testify before Congress, and, of course, the Flynn admission to lying. Now, we have an orchestrated effort -- that's what I think we that's what we saw there by the White House trying to undercut the FBI, Department of Justice in order to distract the American people."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, Juan, you're not interested in knowing -- you're not interested in knowing whether or not the DOJ or the FBI. Because, now, we know that this gentleman who worked in the Department of Justice was meeting with Christopher Steele. Doesn't that raise some questions for you?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No, wait, that was after --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "No, that was before. That was before the election, and then the meeting with Glenn Simpson was the election. The one was before they bookend and one was after."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Right. But in neither case, is the government paying. And apparently, what you've got is a situation where you've got opposition research -- which is not illegal -- being gathered by --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, it's not illegal but you don't want the FBI and the DOJ doing it?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Nobody -- the campaign doing it is one thing. The questions that are being served -- that served now is whether or not the DOJ or the FBI had any involvement in that. David, let me have you -- let you have your say. Go ahead."
+    },
+    {
+      "speaker": "DAVID WOHL, ATTORNEY AND CONSERVATIVE COMMENTATOR",
+      "utterance": "And Martha, this (INAUDIBLE) Louie Gohmert. This process is so irreparably corrupted at this point, that the only solution is to disband this panel of investigators, remove Mr. Mueller. And perhaps, in a panel on (INAUDIBLE), bunch of investigators to look into this panel. I mean, what -- from the beginning to this point, we have Peter Strzok who changed the language in the Comey memo that allowed essentially Comey to let Hillary Clinton off the hook last summer -- changed it from \"gross negligence\" to \"carelessness.\" If there was no evidence supporting that, Martha, if that was done solely for the purpose of refusing to file charges on her, that is a textbook corruption of justice."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "But David Wohl, let me ask you -- let me ask you, Juan Williams, a question that he brought up: is all this smokescreen so that, you know, people don't talk as much about the Deutsche Bank investigation of the finances or Donald Jr.'s decision to say that he could not discuss some things yesterday in light of attorney-client privilege."
+    },
+    {
+      "speaker": "WOHL",
+      "utterance": "I don't think it's a smokescreen. Mueller himself is turning these things over. I mean, you want him to fire people because of their overwhelming bias against Mr. Trump? The text messages to people they're having affairs with? I mean, it's extraordinary -- and that this is what people worried about in the beginning. He was hiring people that had donated to Hillary Clinton's campaign. I understand people are allowed to have political biases, but this has been an extraordinary point where we've reached now the point that there's no credibility to Mr. Mueller's panel. It's got to be dealt with, and any conclusion they come to will lack credibility as well."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "David Wohl and others have been concerned about this all along. And Juan, it is of interest that we know that two people have been removed from this investigation. One definitely for anti-Trump bias, the other one we're not sure yet."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, no, I think one guy was removed because he was tweeting during the course of the presidential debates -- things that were perceived as anti-Trump. And I think Robert Mueller rightly said this could be politically -- to his lover"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "He was texting with his girlfriend."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Martha, but that --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "People are allowed political opinions."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And I think it's very important to point out that he was removed from this investigation. So, I'm curious to see exactly what he was saying because you are allowed to have your opinions. So, it must've - -"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "But here's the point there --"
+    },
+    {
+      "speaker": "WOHL",
+      "utterance": "If the government turned over immediately --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "-- that David weighs just a moment ago that this is all about getting rid of Robert Mueller. The question is: is the president going to say, Mueller, you're fired."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "The question is, do we have an honest and aboveboard investigation going? That is the bottom line."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I think there's no question."
+    },
+    {
+      "speaker": "WOHL",
+      "utterance": "Do we allow this fishing expedition to go forward with no evidence of collusion -- zero?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "David and Juan, thanks, you guys. I've to go. Thank you."
+    },
+    {
+      "speaker": "WOHL",
+      "utterance": "Thank you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, here's the Fox News Alert for you tonight, there will be no government shutdown for now. Just a short time ago, the Senate overwhelmingly approved the spending bill that will keep the government opens for, guess what, two weeks. That's what they were telling. Oh, a big sigh of relief, right? Two more weeks, the government will stay open. Plus, there new developments on this."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "We all have athletes, United States athletes, heading to South Korea soon, do you think that it is safe for them to go there in this environment?"
+    },
+    {
+      "speaker": "NIKKI HALEY, U.S. AMBASSADOR TO THE UNITED NATIONS",
+      "utterance": "I think those are conversations that we're going to have to have."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, that answer got a lot of reaction; it sparked a bit of a firestorm today. And the White House's Press Secretary, Sarah Sanders, was asked about it. We're breaking down the fact from fiction herein whether or not the Olympics is going to be on for the U.S. team. And Senator Al Franken bents to pressure, he says he will resign. But even some Republicans say that he should not have had to step down. A.B. Stoddard and Emily Tisch Sussman up next."
+    },
+    {
+      "speaker": "SEN. AL FRANKEN, D-MINN.",
+      "utterance": "Today, I am announcing that in the coming weeks, I will be resigning as a member of the United States Senate."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Senator Al Franken, bowing to growing pressure and announced that he will step down, he said, in a few weeks. It comes as congressman John Conyers also forced to retire. The Democrats leading the calls for both men to step who now seemed to be seeking moral high ground as harassment scandals rocked Capitol Hill as \"USA Today\" put it: \"With their unified condemnation of Franken, Democrats are also seeking to draw a contrast with Republicans who may soon be joined in the Senate by Moore,\" Roy Moore. Trace Gallagher in our West Coast Newsroom with that part of the story tonight. Hi, Trace."
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS CHANNEL",
+      "utterance": "Hi, Martha, eight women accused Al Franken of sexual misconduct and that appeared to be enough for him to step aside. It's not accurate to say Franken took a parting shot at Republicans because, as you made clear, for now, we don't not know when he plans to leave office. But Franken certainly took a swipe at both President Trump and Alabama Senate Candidate Roy Moore. Watch."
+    },
+    {
+      "speaker": "FRANKEN",
+      "utterance": "I, of all people, am aware that there is some irony in the fact that I am leaving, well a man who has bragged on tape about his history of sexual assault sits in the oval office, and a man who has repeatedly preyed on young girls, campaigns for the Senate with the full support of his party."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "Franken's resignation speech comes just days after Michigan Congressman John Conyers resigned under pressure from his own sexual misconduct allegations. And some political analyst believes that if Roy Moore wins his Senate race in Alabama next week, which he's expected to, that Democrats can take the moral high ground on issues of sexual harassment. But others are quick to remind Democrats they didn't exactly push Franken or Conyers out the door. In fact, top Democrats initially were willing to wait for a lengthy Senate ethics probe to look into the Franken accusations. And as for John Conyers, just ten days ago, South Carolina Democratic Congressman James Clyburn cast doubt on Conyers' accusers. Telling The New York Times, \"All of this could be made up and tell.\" And House Democratic Leader Nancy Pelosi went on \"Meet the Press\" and called Conyers an icon. Both have since changed their position. In fact, within days, dozens of Democrats went from silence to what Newt Gingrich calls a \"lynch mob\". The former house speaker tweeted: \"1,053,205 Minnesotans picked him for Senate in 2014. 30 self-appointed 'pure' senators want him out. What happened to a popular vote?\" Al Franken's staff will only say that he'll step aside within weeks. And we should note, conservative Arizona Congressman Trent Franks is also resigning amid an ethics investigation that he made two female staffers uncomfortable by discussing surrogacy. Franks says he's getting out before he is tried in the media. Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. Trace, thank you very much. Here now with more: A.B. Stoddard, Associate Editor and Columnist at Real Clear Politics; Emily Tisch Sussman, Democratic Strategist and Campaign Director at the Center for American Progress Action Fund. Welcome to both of you. Good to see you tonight."
+    },
+    {
+      "speaker": "EMILY TISCH SUSSMAN, DEMOCRATIC STRATEGIST AND CAMPAIGN DIRECTOR AT THE CENTER FOR AMERICAN PROGRESS ACTION FUND",
+      "utterance": "Hi, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Emily, do you think Al Franken should have had to resign?"
+    },
+    {
+      "speaker": "SUSSMAN",
+      "utterance": "I do. I think there were mountain claims against him. I think it was becoming impossible for him to do his job. And I think that we need to err on the side of believing women. Look, what he did was we don't know, but he admits that there was some element of what was there was an appropriate conduct. We do hear that there are women in his office that always felt safe. Nevertheless, it was time for him to resign. And I do think it was perfectly fair for him to draw a contrast with the potential incoming senator from Alabama, Roy Moore. The fact that the Republicans have not called for the same kind of thing for him. And in fact, the RNC has gone back into that race regardless of the fact that he has mounting claims against him, the fact that he was going after teenage girls. I think it's totally fair to draw that contrast."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, anyone who gets accused, and I read there was a discussion among some of the women on the Democratic side senators, who said, you know, while there's seven, if there is eight, then we're all going to get together and say that he must go. A.B., there is sort of a, you know, kind of, crowd mentality, and pushing out an elected official, that does raise questions."
+    },
+    {
+      "speaker": "A.B. STODDARD, ASSOCIATE EDITOR AND COLUMNIST AT REAL CLEAR POLITICS",
+      "utterance": "Well, I think it's kind of hilarious to hear Republicans get so concerned about the career and standing of Senator Al Franken. Look, Democrats are very late to this. As Trace pointed out, they were late on Conyers, they were late on Franken, they tolerated what likely in some scenarios could constitute as a sexual assault from Senator Ted Kennedy, from President Bill Clinton. They're late to this game. But the point is, Senator Franken resigned. He decided and he said it on the floor to the Senate today that it was really about his constituents in Minnesota. That, even though President Trump after 12 allegations or more of assault of harassment from women, and the same with the allegations against Roy Moore, also denied, if they're elected by the voters anyway, they get to say they have the support of their voters. Once you're in office, if these were revealed, that's a stain on your service. And that's why you can say it's the fault of the Democratic Party, it put up with us for a pretty long time, I think probably too long. And Senator Franken decided it was really his constituents who were going to suffer as a result of this stain on his service."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I don't know. I mean, did he decide? You know, I mean, you've got 34 Senators saying --"
+    },
+    {
+      "speaker": "STODDARD",
+      "utterance": "Well, he was resentful and defiant, but not."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "-- I mean, I think he would've -- he probably would've pushed to hang on if it weren't for the questions that were raised about why John Conyers had to go and he didn't. But, you know, Emily, it's clear that the Democrats want to make this, you know, sort of a war on women too. We remember the first round at the Democratic convention, and they're going to point fingers that Republicans, and say, you know, basically, we cleaned our house, but you didn't clean yours, right?"
+    },
+    {
+      "speaker": "SUSSMAN",
+      "utterance": "Well, that's actually what's happening. I don't think it's a press play, I don't think it's a messaging play. Look, an investigation started just moments ago by the House Ethics Committee into Republican Blake Farenthold for sexual misconduct and the fact that he used taxpayer dollars to settle $84,000. I have heard almost a zero from Republican Party saying, hey, let's look into this that maybe he should be resigning. We haven't heard anything at all. And the fact that we're now going to be OK with the fact that we're going to, I guess periodically, elect sexual assaulters into office just because they may have the same political leaning, that is so partisan. That's what people hate about Washington."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I mean, I think you're right. You know, I think, you know, on both sides, you have people who are denying the claims, who are saying, you know, Al Franken said some of these things I deny, some of them I remember very differently. And I just wonder, at one point do you draw the line on some of these situations? It's a sticky wicket, to say the least. All right. Thank you, guys! I got to leave it there. A.B. Stoddard and Emily Tisch Sussman, good to see you both tonight. Thanks for being here. So, still, to come this evening, my debate last night, my discussion with Nikki Haley, the U.S. Ambassador to the U.N., raised a lot of questions about our posture in terms of the U.S. Olympics and whether or not Americans will participate in the 2018 Winter Games in South Korea. We're going to fact-check all of this with critics who have some doomsday predictions about that. And also, we will talk about the big decision that was made to name Jerusalem the capital of the United States to that and to move our embassy there eventually. We'll talk to some experts on why he is the first president -- others have said they would do it, but President Trump is following through. We're going to talk about that coming up next."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Starting plans to move the embassy to Jerusalem. No one else on earth h and embassy there."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Some significant development tonight. The Chairman of the House Intelligence Committee who was under a House ethics investigation, Devin Nunes has now been cleared by the Ethics Committee and he was asked by Chard Pergram, our Capitol Hill Producer, whether or not that meant that he was back in charge of this Russia investigation. And he said, made their bones about it, he said I'm in charge, I was always in charge. So we look forward to hearing more from Chairman Devin Nunes as he moves back into the center spot on the Russia investigation as far as the house intelligence committee goes. No doubt he will want to pursue the questions of the dossier and whether or not there was any connection between the FBI, the DOJ, all of the questions that have been raised that we discussed earlier on the show tonight. So that's the latest on Devin Nunes. And the Middle East is on edge this evening. Palestinians clash with Israeli troops over the news that President Trump intends to relocate the U.S. embassy in Israel as a way of recognizing Jerusalem as the capital of Israel. The State Department issuing a travel warning for the region. Leland Vitter, live at the White House tonight with this story. Leland?"
+    },
+    {
+      "speaker": "LELAND VITTER, FOX NEWS CORRESPONDENT",
+      "utterance": "Good evening, Martha. The reaction to this continues to be as split as the Middle East. The White House really reveling in their supporters happiness at this decision calling it courageous. On the other hand, you've got the State Department reportedly telling the Israelis to not gloat too much over this decision. The White House at the same time really unfazed though that reportedly President Abbas of the Palestinian will not meet with Vice President Mike Pence when he's in the Middle East about 10 days for now. The White House and the vice president's office saying they'll wait to hear directly from President Abbas. At least, so far, the promises and warnings by Arab leaders of unending war and fire that can't be extinguished have not materialized. As we've reported last night, the rain kept people off the streets in Jerusalem, but today, a little bit better weather, and the end of the Arab work week led to clashes at some of the usual flash points. There were a couple of thousand Palestinians that gathered to burn tires and throw rocks at the Israeli checkpoints, the Israeli troops then came out with tear gas and rubber bullets. Palestinian leaders and some of the more violent Iranian- backed militant groups have called for a third uprising by the Palestinians. We haven't seen anything that remotely resembles that kind of violence yet. Protests also around the Middle East, in Jordan at the U.S. embassy, protesters gathered there to express their displeasure. The embassy there and among other places in the Middle East has been beefed up by marine antiterrorism teams to prevent any significant violence. None reported so far at U.S. embassies around the region. The embassy in Amman though has warned all Americans to maintain a low profile. And they've also said that tomorrow, the children of U.S. diplomats will not be going to school. And tomorrow is the key, Friday noon prayers is often times the flash point for significant protests. It's the Amman time to whip up the most angry of his followers and then push them out into the streets. Martha, Friday prayers let out about 1:00 PM local time in the Middle East. That's 6:00 AM here tomorrow morning in Washington. The White House will be watching then. Back to you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "No doubt. Leland, thank you very much. So the mainstream media dire prediction about the impact of this decision perhaps went a little bit over the top. Watch."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "President Trump tonight made the biggest mistake of his life."
+    },
+    {
+      "speaker": "UNINDENTIFIED FEMALE",
+      "utterance": "Outside of Israeli support, there has been condemnation of President Trump's move across the globe."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "If we move that embassy to Jerusalem, we could spark a full on Intifada."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "People are going to die now because of what was said today."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, I mean, it's only been a day, but we have not seen that as Leland just reported so far. And they're watching tomorrow very closely. But for decades, President Trump's predecessors declared essentially the same thing, their support for Jerusalem as the capital of Israel as well."
+    },
+    {
+      "speaker": "BILL CLINTON, FORMER U.S. PRESIDENT",
+      "utterance": "As stated in our Democratic platform, Jerusalem is still the capital of Israel and must remain an undivided city assessable to all."
+    },
+    {
+      "speaker": "GEORGE W. BUSH, FORMER U.S. PRESIDENT",
+      "utterance": "As soon as I take office, I will begin the process of moving the United States ambassador to the city of Israel as chosen at its capital."
+    },
+    {
+      "speaker": "BARACK OBAMA, FORMER U.S. PRESIDENT",
+      "utterance": "Jerusalem will remain the capital of Israel and must remain undivided."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So clearly that has been the policy and the desire of U.S. presidents for decades. Marc Thiessen joins us now, American Enterprises chief scholar, Marie Harf, former Obama State Department spokesperson, both are Fox News contributors. Marie, let me start with you. I think when people watch that at home, they say, well, Republicans and Democrats alike in the presidency have wanted this very much, so why would they be complaining that President Trump is doing it?"
+    },
+    {
+      "speaker": "MARIE HARF, FOX NEWS CONTRIBUTOR",
+      "utterance": "Well, there's a reason that none of those other presidents took the steps that President Trump took this week, because in doing so it would make it much more difficult for the U.S. to play a role in negotiating peace between the Israelis and the Palestinians. By taking this step, Republicans and Democrats have always judged that would really make it difficult for us to try to achieve a lasting peace, which all these administration."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I mean, one of the point that President Trump made was, you know, we tried to get away for a long time and that didn't work, so let's try it this way, Marc."
+    },
+    {
+      "speaker": "MARC THIESSEN, FOX NEWS CONTRIBUTOR",
+      "utterance": "Well, that's a lot of what's happening with the Trump presidency. I mean, look, Marie's boss promise to do it and he didn't do it. My boss promise to do it, and he didn't do it. Donald Trump did it. And this is why Americans elected Donald Trump. He's not a politician. He actually does what he says he's going to do for better or for worse, sometimes for worse, in this case, for better. Because I've got a Fox News alert, Martha, Jerusalem is the capital of Israel. It's a fact. Countries get to choose their own capitals. We don't get to dictate what their capital is. This fiction that we've been having that Jerusalem is not the capital of Israel is ridiculous. And it's not going to stop Middle East peace because there is no Middle East peace. We've been trying this for seven decades to get Middle East peace and it's not happening. If anything, it might actually make it easier to get Middle East peace because the president of the United States has shown he's willing to break conventions and do things differently and he's shown strength."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And very interesting in the announcement, he said we're going to do this because we promised to do it for a long time, and because he promised to do it on the campaign trail as well, of course. But he said at the same time, we are going to renew our commitment. We want the status quo to stay the same in terms of any lines that are drawn in the region, and they insisted upon that. And Prime Minister Benjamin Netanyahu said they're also are on board with doing that in a separate statement. So if they push hard now to have talks, will it be difficult for those not to begin in this environment, Marie?"
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "I think it's going to be much more difficult. Look, Marc is right. Middle East peace have been elusive for many, many years, decades as well know. But why would President Trump give away such an important thing moving the capital to Jerusalem without getting anything in return? This isn't a negotiating tactic. This is something they could have held and used to get something in peace talks. By just giving it away, not demanding anything in return is a terrible negotiating tactic. And the Palestinians, you know, I heard Leland report that President Abbas might not meet with Vice President Pence when he goes there, that's a problem."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. That's the strongest form of protest that we've seen yet in reaction. I've got to leave it there, you guys. Thank you very much. We're short on time tonight. Thanks for being here. So thousands of homes are in jeopardy as wildfires continue to rage out of control in California tonight, the winds could be a huge factor in fighting those flames. They have died down. They're back. An update straight ahead. On the heels of North Korea's provocations, folks around the world voicing concerns about security in the upcoming Winter Olympics in South Korea. Yesterday, I spoke with Ambassador Nikki Haley, I asked her about it and there has been quite a bit of response to what she said here on The Story. Ed Henry joins us next on the fallout."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, is the United States recommending that our team goes or is that still an open question because of this environment?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, is the United States recommending that our team goes or is that still an open question because of this environment?"
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "There's an open question I have not heard anything about that. But I do know in the talks that we have, whether it's Jerusalem, whether it's North Korea, it's always about how do we protect the U.S. citizens in the area?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That was part of my interview last night with U.S. ambassador to the U.N., Nikki Haley, and it triggered a tidal wave of response and questions at the White House today. We have seen reaction from the White House, from NBC, from the U.S. Olympic committee, the South Korea Olympic organizer and media. Everyone, obviously, is understandably nervous about this situation with North Korea. South Korea at the shadow of North Korea. Chief national correspondent Ed Henry picks up the story for us from there tonight, with some back stories for us. Hi, Ed."
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHIEF NATIONAL CORRESPONDENT",
+      "utterance": "Martha, good to see you. No real surprise you're making waves and breaking news and the reverberations that interview cause around the globe. May explain why top White House officials tonight are trying to, well, massage what the U.S. ambassador told you. The U.S. Olympic Committee is busy training our athletes to qualify at those winter games. Well, it is not a government agency, the USOC works closely with the State Department and others to coordinate. And there's spokesman, Mark Jones, contradicted the Trump administration today saying, we have not had any discussions either internally or with our government partners about the possibility of not taking teams to the 2018 Olympic and Paralympic Winter Games. We plan on supporting two full delegations in Pyeongchang. USA Today columnist, Nancy Armour, actually went further with an attack on President Trump, that -- wait for it, try to somehow make this about Vladimir Putin and all the talk about Russia, Russia, Russia. Armour writing, quote, why members of the Trump administration decided to weight in now isn't clear, though their comments did happen to come a day after the IOC band Russia for Pyeongchang because of a widespread state-sponsored doping program. Russian athletes can still compete as independent athletes, but the Russian flag will not be seen and the Russian anthem will not be played at medal ceremonies. Armour's broader point, the final call is with the USOC not the government. But when White House spokeswoman, Sarah Sanders, tried to calm us down by suggesting Ambassador Haley was misquoted, she added more confusion perhaps by suggesting this is an open question still to be decided."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "Is it an open question? Is that now in doubt?"
+    },
+    {
+      "speaker": "SARAH HUCKABEE SANDERS, DEPUTY PRESS SECRETARY",
+      "utterance": "Look, that wasn't exactly what the ambassador said. No official decision has been made on that. And we'll keep you guys posted as those decisions are made."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Sanders also said the goal is to send American athletes so she had to clarify on twitter, the U.S. looks forward to participating in the winter Olympics in South Korea. The protection of Americans is our top priority and we are engaged with the South Koreans and other partner nations to secure the venues. By the way, that USA Today columnist also charged the Trump administration as, quote, fearmongering, because security is not really a big issue at the games, but that's actually not true. NBC, which has the rights to broadcast the games, recently ran a story saying athletes and their families are worried about what the trouble in the Korean peninsula means for them. And key allies, Austria, France and Germany have all said they'll sit out the games if safety cannot be guaranteed. Martha?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. You know, it's interesting in my discussion with the U.N. ambassador last night, I asked her, you know, when you send a family member or a friend, and that was the second part of the context after she said it was an open question. She said, you know, it depends of what the situation is at the time. So I don't think you can in one moment say that we are inching potentially closer to war as she had said, and Henry McMaster had said. And then, you know, sort of address the issue like it's nothing, like there aren't tensions there. I think she was just acknowledging that there are indeed tensions there. But as you point out, we have thousands of troops there every day."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yeah. I remember being in South Korea with then President Obama when he was addressing U.S. troops there, and we were on a base where it's not just the troops, there's spouses, there's children, there's friends and relatives. There are thousands of Americans in between diplomats and troops in South Korea. So if the administration is concerned about potentially sending some athletes over, if you're an American in South Korea, right now, not down the road, you have to be wondering about how safe you are."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And of course, you know, we have terrible memories of what happened in Munich to the Israeli athletes which was devastating. There's always been terror concern. And in 1980, the United States did not go under President Carter."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yeah. Did not go to the Russian Olympics, basically, Soviet Olympics if you will, because the Soviets had invaded Afghanistan, and that split the country as well because there were some saying, yes, send the message to the Soviets, but then there were others who felt like the American athletes got caught in a political struggle, and after all this training, didn't actually get to compete in Moscow. So, you know, and then the Russians, remember the Soviets responded and boycotted the U.S. Olympics in Los Angeles in '84, as I recall. So, look, this is not the first time that politics and security concerns have been at play, but the most important thing you said is what happened in Munich in the early '70s, when Israeli athletes were murdered. This is what the fear is, and I suspect that's what Ambassador Haley was thinking about because beyond just nuclear threats and the potential for war, there's terror threat all the time around these kinds of events."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So true. I looked back at Jim McCabe coverage today, and some moments when he looked to the camera and said they're all gone. It's just awful. And that's the kind of concern that everyone has. But I hope they go off without a hitch because it means so much for these young athletes. They work so hard and they should have the opportunity to compete. Ed, thank you so much, great to see you tonight as always. Thank you. So Fox News alert for you this evening, as five major fires are now burning in Southern California. Thousands of people have evacuated, hundreds of homes have been destroyed. We're going to continue to keep an eye on this. And also this today, Pope Francis wants to change the Lord's Prayer. Many people have memorized it all over the world, so are we going to have to learn some new lines. Father Jonathan Morris joins me in just a moment."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So there some controversy today from Pope Francis that has people sort of turning their heads a little bit on this one. The leader of the Catholic Church suggesting that the Lord's Prayer, the best-known prayer in Christianity, which is prayed by not thousands as I've said earlier, but 2.2 billion people around the world may undergo a little bit of an edit. He says the phrase, lead us not into temptation, suggests that God induces temptation in his followers, and do not let us fall into temptation would be more acceptable and closer to the original meaning of the prayer. So who better to sort this out for us than our good friend Father Jonathan Morris, Fox News religion correspondent."
+    },
+    {
+      "speaker": "JONATHAN MORRIS, FOX NEWS RELIGION CORRESPONDENT",
+      "utterance": "Thank you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Good to see you, Father Jonathan."
+    },
+    {
+      "speaker": "MORRIS",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So I still have a hard time with consubstantial, so I'm a little bit reluctant to change. What's the meaning here?"
+    },
+    {
+      "speaker": "MORRIS",
+      "utterance": "What he's saying is not, I'm going to change the words of Jesus, nobody can change the words of Jesus. Jesus existed. Jesus was a historical figure. He said the words of the Our Father not in English, but Aramaic. And the best translation we have of Our Father is the Greek. And then that Greek was translated to so many different languages. And those translations are very different. In English, it says lead us not into temptation, but guess what, Jesus didn't speak English, and it's really kind of bad theology, as well even in the Italian. But for example in the Spanish it says (FOREIGN LANGUANGE) in other words, don't let us fall into temptation. That makes sense. He's saying that the translation isn't very good because God never make us fall or never leads us into temptation, he actually allows us to be tempted but we have to make a choice. Is that makes sense?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I think so. The pope is obviously from Argentina, so in his experience, it didn't sound the way it sounds now that he, you know, is dealing with the English language more. I guess my question is, why did it take so long? If this is wrong, if this isn't line up with theology, why did it take."
+    },
+    {
+      "speaker": "MORRIS",
+      "utterance": "Well, think of it, we pray this all the time, 2.2 billion Christians prayed this all the time, and we don't think that God is the one forcing us to temptation, we understand that he allows us to be tempted. But I think all Evangelicals, Catholics, mainline Protestants, Christians would say God does not lead us into temptation. It's a bad translation, honestly. Go back to the Greek. We don't know exactly what he said in Aramaic in this case, but go back to the Greek and it's much closer to a lot of translations that is, don't let us fall into temptation."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "But what about the argument the everything comes from God, right? So whatever comes into your life in different ways was, you know, sort of put there for you to learn a lesson."
+    },
+    {
+      "speaker": "MORRIS",
+      "utterance": "God never does evil. God never does evil. So God doesn't create evil. Evil is the absence of good, actually, OK? So God creates everything that's good, and he never leads us into temptation. Like you now be tempted, no. He allows us to experience life."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "When is the change happening? When do I have to start changing?"
+    },
+    {
+      "speaker": "MORRIS",
+      "utterance": "You know what? It's already changing in so many languages. In other words, our experience is like, oh, my gosh, that's such a big deal. But in so many languages that's much closer."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I think (INAUDIBLE) consubstantial. I think I can make this change more easily."
+    },
+    {
+      "speaker": "MORRIS",
+      "utterance": "Well, very few people know consubstantial. You do, Martha. Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Thank you so much. Still ahead, we know who the buyer of the $450 million painting is, and it is not Father Jonathan. When we come back."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Here is a great story. We now know who bought the $450 million da Vinci in New York last month. It was a Saudi Arabia's crown prince, Mohammad Bin Salman, who had put down nearly a half billion dollars for the portrait of Jesus Christ. There's a bit of competition, apparently, in the Middle East to buy up the world's great works of art. But apparently, even he has to pay it in installments, $58 million is six monthly installments. Here is $58 million, next month, ah, your payment due. All right. So that is \"The Story\" for tonight. Thanks for being here on a Thursday this evening, everybody. And I remember it's a Pearl Harbor this evening as well. Tucker Carlson, coming up next from D.C. Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 CQ-Roll Call, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of CQ-Roll Call. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

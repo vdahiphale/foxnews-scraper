@@ -1,0 +1,1641 @@
+{
+  "date": "June 19, 2020",
+  "headline": "Demonstrations held across the country to commemorate Juneteenth",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/demonstrations-held-across-the-country-to-commemorate-juneteenth",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS HOST",
+      "sentences": "Thanks for watching \"Special Report.\" I'm Mike Emanuel in Washington. Just a reminder, my colleague Bret Baier will interview John Bolton on Tuesday, the same day Bolton's controversial book is released. The Story, guest hosted by my buddy Ed Henry, starts right now. Happy Father's Day to Ed, your dad, and all the great dads out there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS HOST",
+      "sentences": "Mike, same to you and your brothers. Have a great weekend.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "President Trump's return to the rally state will go ahead as scheduled just about 24 hours from now in Tulsa, Oklahoma despite reported warnings from his coronavirus task force and uptick in confirmed cases in that city and a legal challenge to the rally that just hours ago failed.  In moments, the attorney who spearheaded that lawsuit, he will join us live. He calls tomorrow a, quote-unquote, \"perfect storm\" of over-the-top disease transmission. The President, for his part, took to Twitter a short time ago to build momentum ahead of the rally and take a jab at Joe Biden, comparing tomorrow's rally with an expected 19,000 inside, tens of thousands more in the outside to Biden's latest foray outside the basement, which as you can see is not exactly packed. Good evening, everybody. I'm Ed Henry in for Martha MacCallum, and this is The Story. So with about 100,000 people, in all, expected to convene on Tulsa tomorrow to both attend the rally and protest against it, today the country saw some other mass gatherings in the form of Juneteenth rallies and marches all across America.  The White House calling today a celebration of our nation's ability to triumph over darkness. While Press Secretary Kayleigh McEnany told reporters they need some internal consistency in the way they cover large crowds.   But let's begin on the ground in Tulsa with Correspondent Casey Stegall.   Casey, good evening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CASEY STEGALL, FOX NEWS CORRESPONDENT",
+      "sentences": "Ed, good evening. Yes, we're about 24 hours or so until everything gets underway, and there has been a lot going on right here in downtown Tulsa, all around the box center where this is going to be happening. Right here, these giant barricades have gone up to close off a lot of streets. They're trying to seal off a big perimeter. And if you keep following me over this way, look at that Arby's restaurant there, it is all boarded up. A number of businesses and shops have decided to do that, not taking any chances in the event that there could be unrest here tonight - hopefully, that is not the case - or unrest tomorrow. But the city says that it does expect about 100,000 people to descend on this very area.  Trump supporters and counter-protesters, people celebrating Juneteenth. The curfew that the city had implemented has since been rescinded, but multiple local and federal law enforcement groups are on the ground, including the National Guard. Everyone telling us that safety is the number one priority.   From the outer perimeter, there'll only be a few ways to get in, so you can get into the event.  Meantime, health concerns here as well, as Oklahoma and Tulsa have seen recent record spikes in new COVID cases. The venues manager had asked the Trump campaign for a health plan. Masks and hand sanitizers are going to be given outgoing - for anyone going inside the BOK Center. Trump's team also says that each person will have their temperature checked upon entry.  And then earlier today, Ed, as you know, the Oklahoma Supreme Court striking down a measure. It was a lawsuit that was filed on behalf of some of the residents and businesses here trying to get this thing at least postponed or canceled altogether. The Supreme Court striking that down tonight. Back to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Casey Stegall, thank you. Joining me now is one of the attorneys who filed that lawsuit against the President's rally in Tulsa (inaudible) attorney, Paul DeMuro.  Paul, good evening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PAUL DEMURO, ATTORNEY WHO FILED SUIT OVER RALLY",
+      "sentences": "Good evening, Ed. How are you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Fantastic. And my understanding, just to be clear, is that you were trying - the lawsuit wanted to require certain COVID-19 measures fall in line with the CDC measures, not necessarily cancel the rally altogether, but you wanted it brought into line. You did not succeed, and I heard you say the virus won. What do you mean, sir?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "Well, let me see if I can reframe the discussion a little bit, Ed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "First, Happy Juneteenth.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Same to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "As you said at the top of the hour, it's a day of deep celebration. What really concerns me most about what this lawsuit has surfaced and what's going on in our country today is that there is a lack of love and tolerance for people whose views we don't agree with. Let me give you an example. If I were to say that I'm grateful for President Trump for passing the criminal justice reform that he did, and all practitioners like me in the criminal justice system should be appreciative of the significant legislation, if I were to say that, which I just did, people on the far-left would maybe call me a racist or a Trump- lover. And if were to say that I think it's a good idea not to have this rally right now because of the pandemic concerns, people on the far-right are going to call me and have called me anti-American and I should go to hell.  I'm neither. Both of those things - being a racist and being anti-American are so far, far away from my heart. And let me give you a more personal example. You have talked a lot about your sister and wrote a book about you giving a piece of your liver to your sister.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "I had a liver transplant. 13 years ago, I had a liver transplant. You talked about the prayer army that lifted you up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Absolutely.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "I had a prayer army - I had a prayer army. Ed, I don't need to even meet you to know that I love you already and respect you--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "--because no man can do what you did. And--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Well, I appreciate that. But what--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "--without being--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "I hear everything you just said, and I appreciate that. But let's bring it to the issue at hand, having said all that--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "--with great respect. And I totally framed exactly what your lawsuit said. I don't want to take it out of context. Here's my question. What I think the Trump campaign is looking for is some consistency. I went to https://urldefense.proofpoint.com/v2/url?u=http-3A__tulsapeople.com&d=DwICAg&c=cnx1hdOQtepEQkpermZGwQ&r=tgDLkJy54PfJyWJwul3dKe54qGxqO7b7d5vjo7RcZds&m=qskJ5ImLrjRaXjnJbIiiXGaqG8hdFktNR2PX_WtaC7A&s=3mjsC-vTGIovJIf-D1GwZOrwakLYtTR5SeWYhjg3Kag&e= before the show. It's one of the news organizations. I'm sure you can find others.  And they had all kinds of photos of protests in your city of Tulsa after George Floyd's death. And some people were wearing masks, other people were not wearing masks. There were some social distancing. Elsewhere, there were hundreds, maybe thousands of people together. Did you file a lawsuit there in dealing with the protest?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "No. No, Ed. That's a false narrative and a false comparison, but--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "No, that's not false. If your concern--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "For example--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "If the concern - pardon me, sir - is public health with the Trump rally, do you have the same concerns - it's a fair question - about the peaceful protests?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "That's a different - Ed, you be fair. That's a different question. You asked me first, did I file a lawsuit. I said no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "You asked me next, am I concerned? Am I concerned? You bet I'm concerned about any mass gathering, including protesters who aren't maintaining social distancing. The reason you can't file a lawsuit against protesters is because they're disorganized, they are sporadic. I can't get my arms around who I would sue. This event was scheduled for two weeks or a week-and-a-half. It's a known date. It's a known event. 19,000 people in a big box. If I was trying to design a system for mass delivery of the virus--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "--during this pandemic, this would be it. So, yes, I'm concerned about the protesters. But the legal analogy falls apart because it's a completely different standard--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "So--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "--completely different--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "--answer this, we've only got a minute to go. The Trump campaign, as you just heard, they say, look, they're handing out hand sanitizers, they're handing out masks. They're going to have - encourage people to social distance where they can on the outside. The inside is obviously going to be packed. I didn't hear a lot of mayors in a lot of big cities handing out masks, handing out hand sanitizers. Why are the measures that they are going to take not enough for you, sir?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "All you got to do is look at the CDC, Ed. All you got to do is talk to doctors. If they're not socially distant inside the arena, spacing three or four feet, this is going to be a disaster. Two blocks away from the BOK Center is the Tulsa County courthouse. We can't have jury trials at the Tulsa County courthouse--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "--because 12 people can't assemble safely in a jury box. But two blocks away, 19,000 people can assemble. If anyone thinks that those boisterous Trump supporters are going to be distancing themselves from each other--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "--and I'd like to know what medication you're taking because that's not happening. And you know it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "You made your case. I'm going to press the Republican Senator on this. And I genuinely hope your health is good. I didn't know about your transplant, and I wish you well in the days out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "Ed, I've got the same prayer army as you. F",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Good.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEMURO",
+      "sentences": "And I'm praying for your sister.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "All right. We'll join together. I appreciate that. Also, here tonight, as I said, Republican Senator James Lankford from Oklahoma. Senator, welcome. Good evening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. JAMES LANKFORD (R-OK)",
+      "sentences": "Thank you. Good to see you again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Please answer Paul's question there, sir. He's a lawyer. He's got a position on this. We gave him a fair hearing. You're going to be at this rally tonight. You're standing there in Oklahoma tonight. Answer his question. Is this really going to be safe? Do you have concerns when even local health officials have said they're worried?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANKFORD",
+      "sentences": "Every single person in America, quite frankly, around the world, is all managing their own health with COVID-19 right now. We have told people - the Trump campaign has told people, if you are a high-risk individual, if you have other medical conditions, don't come, watch it on TV. If you want to come to be a part of it and be able to socially distance, there's an outdoor space that I'm standing in right now--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANKFORD",
+      "sentences": "--an enormous gathering with a giant screen here where people can see it or there is the indoor in this facility if you want to be able to come to it. So there's a lots of options here. As you mentioned before, all they have and (ph) hand sanitizers, masks that have been given out, all those things.  In addition, the state actually set up 80 different testing spots and encouraged folks in the week leading up to this to say, if you're planning to attend, here's 80 different places you can go - you can get at COVID-19 test to be able to verify if you're going to pass this on to other people while you're there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "But does it--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANKFORD",
+      "sentences": "So--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Pardon me--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANKFORD",
+      "sentences": "--a lot has been done to be able to pull this together.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Does it send the right signal, though - when Paul says, look, the CDC has advised against large gatherings, states are still opening up in phases, does it send the right signal - let's forget about the President. You are a senator. Does it send the right signal to your people to say, we're going to have a large gathering?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANKFORD",
+      "sentences": "I think we lost you. OK. I think we lost the Senator's mike. I hope we can get it back in a second or so. Doesn't appear that we have it. Why don't we take a break and see if we can get the Senator on the other side, with thousands already lining up for the President's rally, another round of Fox polls giving fresh insight into whether voters think the virus is under control or not. Charlie Kirk and Jessica Tarlov will be back. We hope to get the Senator as well. Senator Lankford is standing by. There are some really bad storms there in Oklahoma. We see him there now. We've got him back. He'll be back in a minute.  But joining me now, Charlie Kirk, Founder and President of Turning Point USA, author of \"MAGA Doctrine: The Only Ideas That Will Win the Future;\" and Jessica Tarlov, Senior Director of Research at https://urldefense.proofpoint.com/v2/url?u=http-3A__Bustle.com&d=DwICAg&c=cnx1hdOQtepEQkpermZGwQ&r=tgDLkJy54PfJyWJwul3dKe54qGxqO7b7d5vjo7RcZds&m=qskJ5ImLrjRaXjnJbIiiXGaqG8hdFktNR2PX_WtaC7A&s=I-A1akJZJ-bS0WyKO6oRkN7JZ9HAdmb-ZOSKlzMpxqk&e= and a Fox News contributor. Good evening to both of you. CHARLIE KIRK, FOUNDER & PRESIDENT OF TURNING POINT USA: Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JESSICA TARLOV, FOX NEWS CONTRIBUTOR",
+      "sentences": "Hey, Ed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Charlie, how can you - what's your thought about this rally? There's another poll number here about presidential candidates having large events and rallies right now. Good idea in this Fox poll, 23 percent; Bad idea, 59 percent; 16 percent saying it depends on all the details. We know the details. They're handing out the masks, they're handing out the hand sanitizer. But 59 percent of the public right now says it's a bad idea, Charlie.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "Look, I think your evidence, though, by saying 1 million ticket requests for this rally in Tulsa, I think it's time to have a conversation about freedom and responsibility. No one is forcing anyone to go to these rallies. The Trump campaign has gone above and beyond to make sure that they do this responsibly. At Turning Point Action in Phoenix, Arizona, we're actually hosting the President of the United States, President Trump, at an event to address young people. And I could tell you that there's huge enthusiasm to hear from the President. But America has been locked down for almost 100 days, different variations of lockdowns.  And I think that now we know more about the virus than we did even a month ago. I think that informed citizens should be able to make decisions to be able to go see the President of the United States. And you can see the campaign. They've gone above and beyond. They're doing so responsibly. And I think that now that we're in this election season--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "--I think it's well past time to be able to offer that platform for citizens to interact civically (ph).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Jessica, what about that? With the proper measures, with adults making their own - they have the freedom to choose here. And as Senator Lankford said a moment ago, if you are elderly, if you've got an underlying condition, you've been encouraged not to go.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Yes, absolutely. And I'm thrilled that they'll be passing out masks and hand sanitizer, but I've been hearing this talking point over and over again. A million people want to see President Trump. Guess what? 10, 20, 30 million people probably want to go see Beyonce, but she's not having a concert right now because it's irresponsible. The fact that the Trump campaign isn't mandating that people wear masks, when you see that astonishing number, that 80 percent, including a large majority of Republicans, are in favor of that protocol, shows how reckless this administration is being with this. Tulsa has seen almost a 60 percent spike in COVID cases. This is not the time to do it. Also, the President is going to win Oklahoma.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "He should be in another state at this point, maybe somewhere else that isn't having a spike.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Jessica, I'm going to bring in Charlie back for a second, but real quick, when you compare it to Beyonce, we've got election in a few months. And as Charlie says, we've been in lockdown. At some point, both sides are going to have to get out there and see the voters, no? Jessica?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Yes, they absolutely will. And you're seeing Joe Biden on the campaign trail more and more. But I use the Beyonce example to say that people are making choices, people in leadership positions, that benefit the American public to keep them safe. And yes, people can make their own personal choices. But if a voter feels like this is their only chance to see President Trump--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "--and then they're going to go and endanger themselves, there is responsibility that the leader of the free world needs to take upon himself to say, you know what, let's \"Zoom\" for a little while longer. That's what the health experts are saying.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Charlie, Jessica is claiming that Joe Biden is getting out of the basement. Now, we've only seen him a couple of times.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "Well - yes. I'm a little perplexed by that because I don't think Joe Biden could do a rally like President Trump. I could tell you, the 3,000 students we're going to have in a room this coming Tuesday in Phoenix, Arizona, I don't think Joe Biden could draw that kind of crowd.  But I'll say this. For the last couple of weeks, a lot of people express their First Amendment rights in Brooklyn, New York and Philadelphia. And you saw aerial footage of tens of thousands, if not hundreds of thousands, of people very close to each other not wearing masks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "Look, political speech should not be one-side and not the other side. And I completely agree that President Trump now, with the media giving a free pass to all those protests in the streets, now listen, he can't do a rally and they were just quiet about that? I think this is adequate time to allow people and trust people. That's what it's about.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "And Jessica, I take except (ph) with you saying it's irresponsible. Well, no. The people going, they have to be able to weigh risk and responsibility. That's what a mature society does--",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRK",
+      "sentences": "--especially after being locked down for over 100 days.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Charlie, Jessica, we'll have to leave it there. I want to get back to the Senator. Thanks for coming on. Have a great weekend. Let's get back to Republican Senator James Lankford from Oklahoma. As I mentioned, there are some storms there. I think it knocked out your audio. Senator, thank you for your patience. You heard that debate there. You heard me with the lawyer at the top who filed this suit. I think part of what people are frustrated about is what they see as a double-standard. With the protests, the media and others were not calling people out quite as much and demanding masks and social distancing and the rest.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANKFORD",
+      "sentences": "Yes. I think that's part of the issue that they're focusing on, but quite frankly, that's on the conservative side they're focused on the double-standard. On the left-wing side of all the media, they are focused on doing whatever they can to distract from policy issues, from the economy starting to bounce back, to distract from the fact that Joe Biden is still in his basement while the President is drawing a million people trying to line up. This is distract, distract, distract. Everyone gets the whole issue about COVID-19 and how important it is to be able to watch your own health and to be as responsible as you can. But everyone is losing track. In Oklahoma, we've been through all three phases already. Our restaurants, our retail is open. We're done on all those three phases on it. Now we're trying to be able to manage this as we go forward.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Senator, the President tweeted something today that caught my eye about the rally. It wasn't about the COVID issue. It was more just about the campaign itself and sort of restarting it. He basically said, the campaign hasn't even started for me, it starts Saturday. Given some of the tough poll numbers for him, given the fact that we've got 40 million people unemployed, maybe some people say it's not his fault, because of COVID, maybe others will hold him accountable, he's going to find that out from the voters. But do you think that tomorrow night is bigger picture, more about restarting this campaign?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANKFORD",
+      "sentences": "I do, actually. And I think this is reframing where we are and where we've been while we just walk through as a country. I literally think there'll be people all around the world that will pause to be able to watch this speech from the President. This is his moment on the world stage and certainly on the national stage to be able to talk about race relations obviously in this city, in this community, on this weekend. This is his moment to be able to talk about the economy, about trade, about what's happening with China, about what we're going to do for the future. So it's a big deal and it's a big speech, but it recaptures again the nation's attention to say, this November, we're going to decide as a country in which direction we're going to go. And so it's a good anchor moment for the President to be able to launch this, and the whole world is watching.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "I've got about 30 seconds. But something else happened this week, which is that the President's team came out and said they want more than the traditional three presidential debates. They want four, maybe even more. And we're already seeing resistance from the Biden campaign. Do you think that's beyond restarting the rallies, the President wants to get out there mano a mano and have a more direct battle?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANKFORD",
+      "sentences": "I do. I think the President wants to get out there in a conversation side-by-side with Joe Biden, where he doesn't have a script, where he doesn't have a teleprompter, and he has to be able to recall those things and to be able to talk about things on his feet. I think the President longs for that kind of moment to be able to have a side-by-side, allow the American people to choose with no teleprompters, no script, no structured audience on it, actually having to make their case.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Senator James Lankford, we certainly appreciate your patience. We hope you and everyone else at the rally will be safe tomorrow night, and thanks for coming on tonight. Thank you, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANKFORD",
+      "sentences": "We do. Thanks, Ed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "We are now awaiting a judge's ruling on the DOJ's request to halt the release of John Bolton's tell-all book. Byron York on whether a delay will do any good or whether the horse is already out of the barn.  Byron York joins me now. He is Chief Political Correspondent for the Washington Examiner, of course, and a Fox News contributor. Good evening, Byron. All right. It appears that we might have lost Byron. It's one of those nights where the gremlins are out there in the technology. You want to take a look at something else, folks? While we wait for - all right. While we try to get Byron, it's a live look right now in Brooklyn, New York, one of the many cities across America where massive gatherings are taking place to commemorate Juneteenth. A live report is coming up on that. Plus, officers in Atlanta calling out sick for the second night in a row to protest charges against the former officers involved in Rayshard Brooks' death. The latest from Atlanta, coming up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We are not answering 911 calls right now due to personnel issues. If you can reach out to other zones, or I will to have them assist with our pending.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Received. They are strapped for units also.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "That from Atlanta police radio after officers called out sick in response to charges against two former officers involved in Rayshard Brooks deaths. Prompting this from the police chief.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RODNEY BRYANT, INTERIM ATLANTA POLICE CHIEF",
+      "sentences": "What we are seeing is an increase in officers taking off, we don't believe that it's a coordinated effort. We've been in this space for about three weeks now where officers are working 12 and a half and -- 12 and a half hour shifts. And sometimes even more. Being out on the front line, being yelled at, spit upon and items being thrown at them, so at some point people get tired.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Now after a second night of call, the Georgia Sheriff's Association has issued a new statement condemning the charges from District Attorney Paul Howard. Saying, quote, \"Howard has trampled on the rights of Officer Garrett Rolfe and Officer Devin Brosnan and has allowed this tragic incident to be more about his reelection than justice for the officers involved, the Atlanta Police Department and the citizens of our state.\" Joining me now is Vincent Champion. He is southeast regional director of the International Brotherhood of Police Officers. Vincent, good evening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "VINCENT CHAMPION, REGIONAL DIRECTOR, INTERNATIONAL BROTHERHOOD OF POLICE OFFICERS",
+      "sentences": "Good evening, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Tell me about your frustration. What angered you most about the D.A. moving forward with these charges?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAMPION",
+      "sentences": "No due process, that has been our argument since day one. You know, the officers have, they don't give up their right because they are police officers, they have the right as every other citizen to due process. Just follow the guidelines that have been in in place for years now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "The -- it's interesting because the mayor is calling out men and women in blue saying obviously there was an oath that was taken and that oath applies to good days and to bad days, and it applies in the best of times and the toughest of times. I asked that they remember that oath. She is calling out the officers, why is this sick out happening?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAMPION",
+      "sentences": "I don't disagree with the chief's phrases of the, you know, they've been working long hours and stuff but -- then that is true. And officers are tired. But the biggest part of it is, they are afraid that if they do their job, if they do their job the way they were trained, if they do it within the laws that are required, that they too could be the next people who are arrested, you know, best-case scenario terminated, but other than that, charged with murder and put in jail. That's hard to work under.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "And given what the D.A. did and you're frustrated about, and given these efforts to not just defund the police but we've heard some in the left say, it's not just defunding, they want to abolish the police, do these officers feel like they don't have any backup?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAMPION",
+      "sentences": "Exactly, that's how they feel, not only no back up, they feel betrayed by the people that they've actually raised a hand and made the oath to protect. You know, from the mayor down to the D.A. Again, you know, we have a job. It's not always pretty and if you're just going to look at a video and say you don't like the way it looks and that's what you're going to use to fire and to possibly arrest us, that's a -- I think that's a slippery slope you don't want to go down.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "I want to play a clip from Kamala Harris, she's a senator as you know on the short-list to potentially be the vice-presidential running mate for Joe Biden. Here's what she said about the police. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS (D-CA)",
+      "sentences": "We do need to reimagine how we are doing public safety. For too long, the status quo thinking has been to suggest that by putting more police officers on the street you will have more safety. That's just wrong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "She says it's wrong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAMPION",
+      "sentences": "Well, maybe we will ask the citizens of Atlanta at the rate this is going. I disagree with her 100 percent. You know, the more officers, everybody talks about the presence, to see the police car up and driving --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAMPION",
+      "sentences": "-- driving up and down their neighborhood, how much they feel safer when that happens. So, it's her idea to take those cars away, then ask your citizens, I would ask her neighbors, are you better behind the gated community you're in when a police officer drives through or are you best when you don't have a police officer? I guess she feels one way but we totally disagree with her.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes. Well, in Seattle where they have that autonomous zone, we now see private security being hired because the police are not in there and real quick, the businesses are saying, we need protection.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAMPION",
+      "sentences": "Absolutely. And the private security -- I mean, they have no real rules to follow, they are not trained like police officers are, they don't know the statutes like police officers, they don't know what probable cause is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAMPION",
+      "sentences": "They just don't like what somebody is doing, they're going to make a decision at that point, could be a life or death decision just based on the way they feel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Vincent Champion, we appreciate your insights, thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAMPION",
+      "sentences": "Thank you, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "At this hour, Juneteenth commemorations underway across America, as we said, made especially poignant this year after the death of George Floyd in Minneapolis sparked this national conversation about race. Jack Brewer says this day marks an opportunity for the nation to rely on the word of God to heal and unify. He's here next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Fox News alert now, a live look at demonstrations underway across America to mark Juneteenth, the end of slavery in the United States. What we're seeing play out in the cities across the country culminating after weeks of protest and outcry over the death of George Floyd. Of course, he was killed by a white police officer in Minneapolis 25 days ago. Rich Edson is standing by in Washington. But first, let's get to correspondent Matt Finn, he's live in Chicago where there are celebrations, marchers, and rallies all across the city. Matt, good evening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MATT FINN, FOX NEWS NATIONAL CORRESPONDENT",
+      "sentences": "Good evening, Ed. And the governor here declared today as Juneteenth day in Illinois and also says he's going now going to work with state lawmakers to officially mark Juneteenth as a state holiday here in Illinois. And there were many celebrations and marches here in the city of Chicago for Juneteenth. Governor Pritzker and Senator Dick Durbin led a faith-based march in the heart of the city, lots of prayers and music. Two very large Juneteenth marches today, had fans and dancing, they were joyous and celebratory. There were also some anti-police sentiment and defund the police signs. And several Chicago-based corporations also tell us they gave thousands of employees the day off today including Grubhub, Lyft, and Kraft Heinz. And back live, we also want to briefly show you some of the businesses that are still recovering from the recent riots and looting. The city of Chicago is allowing takeout and outdoor dining, but some businesses really don't have that option as their storefronts are still boarded up. So, you can only imagine the hit these businesses continue to take from the pandemic and the recent riots and looting. Ed?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "They've been dealing with a lot. Matt Finn, thank you. Juneteenth demonstrations also underway in our nation's capital as we noted. Our correspondent Rich Edson live near Lafayette Park. Obviously, there was a lot of action there just a couple of weeks ago. Rich, good evening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICH EDSON, FOX NEWS WASHINGTON CORRESPONDENT",
+      "sentences": "Yes, good evening, Ed. And this is part block party, part celebration, part protest, all happening here at the center of what is the Juneteenth celebration here in Washington, D.C. In fact, this is the yellow paint on the street that makes up black lives matter, the gigantic mural that's painted on the street here in !6th Street in Washington, D.C., that the mayor of D.C. authorized be put on. And again, you know, you said it, this is also the center of the protests. If you look here, this is 16th Street, we are just north of Lafayette Park which is just north of the White House. And so, the mood here has changed considerably in just the past week. There's events and celebrations and protests going on throughout Washington, D.C., today. Many of them have ended up winding through here but what you get is a, is a number of different celebrations that, you know, whether they be vigils for George Floyd in a number of different churches throughout the city, whether they be a go-go truck that's been driving around the city. A protest that's also been looking more to defund the police and to redirect a lot of money to social services. So, there's been a number of dish and different issues and protests and celebrations going on throughout D.C. here today. Now if you look, this is a pretty familiar spot, this is where just a few weeks ago, is the center of protest in Washington, D.C., this is where a number of different businesses, St. John's Church here to the left received a lot of damage. Over the last few weeks, you've had businesses and buildings that have all been boarded up, just the famous Hay-Adams Hotel, that's still boarded up. But over the last few weeks you've had a number of these businesses and a lot of these buildings begin to shed the plywood that they've had in front of them, you've had a number of these businesses they've removed the graffiti and slowly get back to life. This street itself, where it had been the center of very passionate protests and violence ongoing it turned more into a day long, a weeks' long celebration and protests ongoing throughout here. So, the vibe here has changed. You can walk through here through pretty much any time a day, people hanging out here, they're selling different black lives matter merchandise, they're writing notes and political messages all throughout here. You had celebration, you had music, people with different messages, different vibes ongoing here. And that's really what this area of Washington, D.C., in this area of the country has become, this sort of living protest but something that has a much more relaxed mood to it than we saw about a month ago. And any time of day you come here this is really the vibe that you got here. They've closed down 8th Street which is what we are crossing right now. Throughout the day, any time of day you come here the street is closed to traffic. And then you've got Lafayette Park and the White House which is right behind it. So that's really what's going on, Ed, for Washington, D.C., Juneteenth celebrations. There are different neighborhoods throughout Washington that are having their own individual celebrations and this is really the center of it with things evolving as the day goes on. So, Juneteenth in D.C., Ed. Back to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "All right. Rich Edson, back to you. Jack Brewer is standing by, he's key ally of the president, he'd like to see Juneteenth be a national holiday. Why it is so personal to Jack, on the other side of the break.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Fox News alert. Live look now in Brooklyn, New York. You can see a lot of demonstrators out there commemorating Juneteenth. They're walking across the Brooklyn Bridge chanting Breonna Taylor and George Floyd. This day 155 years after the last slaves were freed in America. gaining more attention of course than ever in the wake of the black lives matter protest that's been sweeping the nation along with heightened awareness and massive rallies all across America. Companies across the U.S. are now honoring Juneteenth as an annual holiday. Here now with more insights is Jack Brewer. He is CEO and executive producer of the Brewer Group, a former NFL player for the Minnesota Vikings. Jack, welcome, and happy Juneteenth.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JACK BREWER, CEO, THE BREWER GROUP INC.",
+      "sentences": "Thanks for having me, Ed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "I really appreciate it. You know, as I read your story, you grew up in Texas, this has deep meaning for you, tell us about your personal experience.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREWER",
+      "sentences": "I got to tell you, man, this is a joyous day. You know, all my life we celebrated Juneteenth and, you know, usually when I talk to African- Americans across the country a lot of people don't even understand or didn't before now understand the significance of this day. You know, my great-grandfather was a sharecropper. He was the first black man actually to come into my town, Grapevine, Texas, sharecropping. And so, this day always reminds me of that, it reminds me of my history. And so, you know, for a long time I've always hoped and dreamed that this would actually be a national holiday. And so, I'm pushing for that and it's just -- you know, it's a time that all Americans can reflect, right, not just reflect on the horrible institution of slavery --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREWER",
+      "sentences": "-- but reflect on how far we've come. I mean, this is truly a day we should all be celebrating. I still remember those barbecues at home in Texas and it really was a meaningful day. And so, I'm just excited to see that the nation is finally getting around this holiday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Well, and the president said something similar in his statement today about the horrors of slavery but how far we have come. I know you're friends with the president, you just mentioned that you'd like to see Juneteenth be a federal holiday. What's your case to the president, why do you think this may help bring the country together?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREWER",
+      "sentences": "We need it, we need it right now, no more talking about it. This president has done so many amazing things for the African-American community with his policies, whether it's criminal justice reform, going against what everyone else did in the past. The same thing you just saw him do with police reform, the first president to actually use his executive powers to come in and reform the police departments. Now it's time to actually make this a national holiday. I remember growing up when MLK day, finally schools across the nation started being let out. It's time to do that same thing now. This holiday is meaningful for all Americans, we all know the horrible, horrific stories about slavery. But this a time to rejoice. It's the time to show the world where America stands, how America stands up against racism, against slavery, against oppression and really shows us where we're going for the future and that's celebrating the freedoms of all Americans, all colors, all shapes, sizes and colors.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "So, you are in Tulsa already, you're going to be at the president's rally tomorrow night, and as you know, there are some African-Americans who are having a protest tonight. I heard Al Sharpton was going to be giving a speech. They don't want the president in Tulsa. They are upset that he chose Tulsa as the location of this rally, as you know, because of that racial massacre in 1921. What's your pushback to other African-Americans who are saying the president shouldn't do this, and what do you think the president should say tomorrow night, maybe more important than that, to try to bring people together?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREWER",
+      "sentences": "This is the time for reconciliation, we shouldn't be avoiding the things of our past, we should be talking about them and actually healing from them. This is the time to be joining hands as Christians, as believers, as a nation and given this to God. We're mean, all men make mistakes, all men do bad things and we are all sinners. But this is not a time to have more divisiveness. And so, having protests against people and standing up against men, that's not what this is about. It's not about identity. It's not about race. It's actually bringing us all together. You know, 99.9 percent of our DNA is all the same anyway and our bible teaches us that, and Jesus gave us direction in John 15 and 12 and he said that we must love each other like he loves us. And I think as a nation that's what we need to focus on right now, not trying to win political points. You cannot politicize oppression. It's just not right. Choose a different subject other than race and evilness --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREWER",
+      "sentences": "-- and divisiveness, choose other subjects to politicize.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "You've talked about on the subject putting together a council on reconciliation in terms of race. There are others like Bob Johnson who started BET, the first black billionaire who wants to see reparations in the trillions of dollars. What do you think about all that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREWER",
+      "sentences": "You know what? I always say reparations through education. We need to reform our education system so it doesn't leave these poor black kids out to dry. You know, 71 percent of our kids that drop out of high school are fatherless. We need to go in and systematically change our institutions that are pushing fathers out of their homes. We can go in and take care of these deeply-rooted racial disparities if we're willing to do it and put our politics aside. You know, we can't keep standing up for unions, we've got to stand up our people. We can't keep standing and talking about standing up --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREWER",
+      "sentences": "-- against oppression but voting for policies that actually continue the systematic oppression that we claim to be against. So, you know, we can't fight against those that agree with us and we have to keep our eye on the prize and that is going in and bringing God back into our country, bringing the -- bringing faith back into our institutions, not pushing them out. That's what's happening to the core of our kids. Our kids are losing the fear of God and we're watching it on our TV screens right before our eyes. And the way we get back to that is getting the faith groups like we're doing with this council for racial reconciliation. We're bringing faith groups together because the folks of faith have to have to fix ourselves first. We have to come together as one people and not be divided and show this nation that we are one nation under God.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Jack Brewer, you're going to be there at the rally, you've got a very strong, positive message about bringing people together. It's a great way to end another very long week in America, we wish you well and we wish you a happy Juneteenth as I mentioned. Thanks for coming on tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREWER",
+      "sentences": "Thanks so much, Ed. God bless you, man. God bless this country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HENRY",
+      "sentences": "Same to you, sir. All right. I agree. That is The Story for Friday, June 19, 2020. A special shout out to Martha for letting me sit in and to her husband dan. Because I hope he has a great Father's Day. And to my dad and mom. My mom's birthday happens to fall on Father's Day this year. They gave me the strength to help my sister Colleen. The proof just came in for the book, that they are first guest mentioned, by the way, \"Saving Colleen.\" I just finished. It's out September 15. You can preorder it today at Amazon, Check it out. It's a love story to my sister. I'll see you Monday morning from nine to noon on America's Newsroom with Sandra Smith. In the meantime, happy Father's Day to all the dads out there, and for everybody else, have a wonderful weekend. Thanks. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS HOST",
+      "utterance": "Thanks for watching \"Special Report.\" I'm Mike Emanuel in Washington. Just a reminder, my colleague Bret Baier will interview John Bolton on Tuesday, the same day Bolton's controversial book is released. The Story, guest hosted by my buddy Ed Henry, starts right now. Happy Father's Day to Ed, your dad, and all the great dads out there."
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS HOST",
+      "utterance": "Mike, same to you and your brothers. Have a great weekend."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "President Trump's return to the rally state will go ahead as scheduled just about 24 hours from now in Tulsa, Oklahoma despite reported warnings from his coronavirus task force and uptick in confirmed cases in that city and a legal challenge to the rally that just hours ago failed. In moments, the attorney who spearheaded that lawsuit, he will join us live. He calls tomorrow a, quote-unquote, \"perfect storm\" of over-the-top disease transmission. The President, for his part, took to Twitter a short time ago to build momentum ahead of the rally and take a jab at Joe Biden, comparing tomorrow's rally with an expected 19,000 inside, tens of thousands more in the outside to Biden's latest foray outside the basement, which as you can see is not exactly packed. Good evening, everybody. I'm Ed Henry in for Martha MacCallum, and this is The Story. So with about 100,000 people, in all, expected to convene on Tulsa tomorrow to both attend the rally and protest against it, today the country saw some other mass gatherings in the form of Juneteenth rallies and marches all across America. The White House calling today a celebration of our nation's ability to triumph over darkness. While Press Secretary Kayleigh McEnany told reporters they need some internal consistency in the way they cover large crowds. But let's begin on the ground in Tulsa with Correspondent Casey Stegall. Casey, good evening."
+    },
+    {
+      "speaker": "CASEY STEGALL, FOX NEWS CORRESPONDENT",
+      "utterance": "Ed, good evening. Yes, we're about 24 hours or so until everything gets underway, and there has been a lot going on right here in downtown Tulsa, all around the box center where this is going to be happening. Right here, these giant barricades have gone up to close off a lot of streets. They're trying to seal off a big perimeter. And if you keep following me over this way, look at that Arby's restaurant there, it is all boarded up. A number of businesses and shops have decided to do that, not taking any chances in the event that there could be unrest here tonight - hopefully, that is not the case - or unrest tomorrow. But the city says that it does expect about 100,000 people to descend on this very area. Trump supporters and counter-protesters, people celebrating Juneteenth. The curfew that the city had implemented has since been rescinded, but multiple local and federal law enforcement groups are on the ground, including the National Guard. Everyone telling us that safety is the number one priority. From the outer perimeter, there'll only be a few ways to get in, so you can get into the event. Meantime, health concerns here as well, as Oklahoma and Tulsa have seen recent record spikes in new COVID cases. The venues manager had asked the Trump campaign for a health plan. Masks and hand sanitizers are going to be given outgoing - for anyone going inside the BOK Center. Trump's team also says that each person will have their temperature checked upon entry. And then earlier today, Ed, as you know, the Oklahoma Supreme Court striking down a measure. It was a lawsuit that was filed on behalf of some of the residents and businesses here trying to get this thing at least postponed or canceled altogether. The Supreme Court striking that down tonight. Back to you."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Casey Stegall, thank you. Joining me now is one of the attorneys who filed that lawsuit against the President's rally in Tulsa (inaudible) attorney, Paul DeMuro. Paul, good evening."
+    },
+    {
+      "speaker": "PAUL DEMURO, ATTORNEY WHO FILED SUIT OVER RALLY",
+      "utterance": "Good evening, Ed. How are you?"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Fantastic. And my understanding, just to be clear, is that you were trying - the lawsuit wanted to require certain COVID-19 measures fall in line with the CDC measures, not necessarily cancel the rally altogether, but you wanted it brought into line. You did not succeed, and I heard you say the virus won. What do you mean, sir?"
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "Well, let me see if I can reframe the discussion a little bit, Ed."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "First, Happy Juneteenth."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Same to you."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "As you said at the top of the hour, it's a day of deep celebration. What really concerns me most about what this lawsuit has surfaced and what's going on in our country today is that there is a lack of love and tolerance for people whose views we don't agree with. Let me give you an example. If I were to say that I'm grateful for President Trump for passing the criminal justice reform that he did, and all practitioners like me in the criminal justice system should be appreciative of the significant legislation, if I were to say that, which I just did, people on the far-left would maybe call me a racist or a Trump- lover. And if were to say that I think it's a good idea not to have this rally right now because of the pandemic concerns, people on the far-right are going to call me and have called me anti-American and I should go to hell. I'm neither. Both of those things - being a racist and being anti-American are so far, far away from my heart. And let me give you a more personal example. You have talked a lot about your sister and wrote a book about you giving a piece of your liver to your sister."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "I had a liver transplant. 13 years ago, I had a liver transplant. You talked about the prayer army that lifted you up."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Absolutely."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "I had a prayer army - I had a prayer army. Ed, I don't need to even meet you to know that I love you already and respect you--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "--because no man can do what you did. And--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Well, I appreciate that. But what--"
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "--without being--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "I hear everything you just said, and I appreciate that. But let's bring it to the issue at hand, having said all that--"
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "--with great respect. And I totally framed exactly what your lawsuit said. I don't want to take it out of context. Here's my question. What I think the Trump campaign is looking for is some consistency. I went to https://urldefense.proofpoint.com/v2/url?u=http-3A__tulsapeople.com&d=DwICAg&c=cnx1hdOQtepEQkpermZGwQ&r=tgDLkJy54PfJyWJwul3dKe54qGxqO7b7d5vjo7RcZds&m=qskJ5ImLrjRaXjnJbIiiXGaqG8hdFktNR2PX_WtaC7A&s=3mjsC-vTGIovJIf-D1GwZOrwakLYtTR5SeWYhjg3Kag&e= before the show. It's one of the news organizations. I'm sure you can find others. And they had all kinds of photos of protests in your city of Tulsa after George Floyd's death. And some people were wearing masks, other people were not wearing masks. There were some social distancing. Elsewhere, there were hundreds, maybe thousands of people together. Did you file a lawsuit there in dealing with the protest?"
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "No. No, Ed. That's a false narrative and a false comparison, but--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "No, that's not false. If your concern--"
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "For example--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "If the concern - pardon me, sir - is public health with the Trump rally, do you have the same concerns - it's a fair question - about the peaceful protests?"
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "That's a different - Ed, you be fair. That's a different question. You asked me first, did I file a lawsuit. I said no."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "You asked me next, am I concerned? Am I concerned? You bet I'm concerned about any mass gathering, including protesters who aren't maintaining social distancing. The reason you can't file a lawsuit against protesters is because they're disorganized, they are sporadic. I can't get my arms around who I would sue. This event was scheduled for two weeks or a week-and-a-half. It's a known date. It's a known event. 19,000 people in a big box. If I was trying to design a system for mass delivery of the virus--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "--during this pandemic, this would be it. So, yes, I'm concerned about the protesters. But the legal analogy falls apart because it's a completely different standard--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "So--"
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "--completely different--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "--answer this, we've only got a minute to go. The Trump campaign, as you just heard, they say, look, they're handing out hand sanitizers, they're handing out masks. They're going to have - encourage people to social distance where they can on the outside. The inside is obviously going to be packed. I didn't hear a lot of mayors in a lot of big cities handing out masks, handing out hand sanitizers. Why are the measures that they are going to take not enough for you, sir?"
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "All you got to do is look at the CDC, Ed. All you got to do is talk to doctors. If they're not socially distant inside the arena, spacing three or four feet, this is going to be a disaster. Two blocks away from the BOK Center is the Tulsa County courthouse. We can't have jury trials at the Tulsa County courthouse--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "--because 12 people can't assemble safely in a jury box. But two blocks away, 19,000 people can assemble. If anyone thinks that those boisterous Trump supporters are going to be distancing themselves from each other--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "--and I'd like to know what medication you're taking because that's not happening. And you know it."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "You made your case. I'm going to press the Republican Senator on this. And I genuinely hope your health is good. I didn't know about your transplant, and I wish you well in the days out."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "Ed, I've got the same prayer army as you. F"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Good."
+    },
+    {
+      "speaker": "DEMURO",
+      "utterance": "And I'm praying for your sister."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "All right. We'll join together. I appreciate that. Also, here tonight, as I said, Republican Senator James Lankford from Oklahoma. Senator, welcome. Good evening."
+    },
+    {
+      "speaker": "SEN. JAMES LANKFORD (R-OK)",
+      "utterance": "Thank you. Good to see you again."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Please answer Paul's question there, sir. He's a lawyer. He's got a position on this. We gave him a fair hearing. You're going to be at this rally tonight. You're standing there in Oklahoma tonight. Answer his question. Is this really going to be safe? Do you have concerns when even local health officials have said they're worried?"
+    },
+    {
+      "speaker": "LANKFORD",
+      "utterance": "Every single person in America, quite frankly, around the world, is all managing their own health with COVID-19 right now. We have told people - the Trump campaign has told people, if you are a high-risk individual, if you have other medical conditions, don't come, watch it on TV. If you want to come to be a part of it and be able to socially distance, there's an outdoor space that I'm standing in right now--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "LANKFORD",
+      "utterance": "--an enormous gathering with a giant screen here where people can see it or there is the indoor in this facility if you want to be able to come to it. So there's a lots of options here. As you mentioned before, all they have and (ph) hand sanitizers, masks that have been given out, all those things. In addition, the state actually set up 80 different testing spots and encouraged folks in the week leading up to this to say, if you're planning to attend, here's 80 different places you can go - you can get at COVID-19 test to be able to verify if you're going to pass this on to other people while you're there."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "But does it--"
+    },
+    {
+      "speaker": "LANKFORD",
+      "utterance": "So--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Pardon me--"
+    },
+    {
+      "speaker": "LANKFORD",
+      "utterance": "--a lot has been done to be able to pull this together."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Does it send the right signal, though - when Paul says, look, the CDC has advised against large gatherings, states are still opening up in phases, does it send the right signal - let's forget about the President. You are a senator. Does it send the right signal to your people to say, we're going to have a large gathering?"
+    },
+    {
+      "speaker": "LANKFORD",
+      "utterance": "I think we lost you. OK. I think we lost the Senator's mike. I hope we can get it back in a second or so. Doesn't appear that we have it. Why don't we take a break and see if we can get the Senator on the other side, with thousands already lining up for the President's rally, another round of Fox polls giving fresh insight into whether voters think the virus is under control or not. Charlie Kirk and Jessica Tarlov will be back. We hope to get the Senator as well. Senator Lankford is standing by. There are some really bad storms there in Oklahoma. We see him there now. We've got him back. He'll be back in a minute. But joining me now, Charlie Kirk, Founder and President of Turning Point USA, author of \"MAGA Doctrine: The Only Ideas That Will Win the Future;\" and Jessica Tarlov, Senior Director of Research at https://urldefense.proofpoint.com/v2/url?u=http-3A__Bustle.com&d=DwICAg&c=cnx1hdOQtepEQkpermZGwQ&r=tgDLkJy54PfJyWJwul3dKe54qGxqO7b7d5vjo7RcZds&m=qskJ5ImLrjRaXjnJbIiiXGaqG8hdFktNR2PX_WtaC7A&s=I-A1akJZJ-bS0WyKO6oRkN7JZ9HAdmb-ZOSKlzMpxqk&e= and a Fox News contributor. Good evening to both of you. CHARLIE KIRK, FOUNDER & PRESIDENT OF TURNING POINT USA: Thank you."
+    },
+    {
+      "speaker": "JESSICA TARLOV, FOX NEWS CONTRIBUTOR",
+      "utterance": "Hey, Ed."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Charlie, how can you - what's your thought about this rally? There's another poll number here about presidential candidates having large events and rallies right now. Good idea in this Fox poll, 23 percent; Bad idea, 59 percent; 16 percent saying it depends on all the details. We know the details. They're handing out the masks, they're handing out the hand sanitizer. But 59 percent of the public right now says it's a bad idea, Charlie."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "Look, I think your evidence, though, by saying 1 million ticket requests for this rally in Tulsa, I think it's time to have a conversation about freedom and responsibility. No one is forcing anyone to go to these rallies. The Trump campaign has gone above and beyond to make sure that they do this responsibly. At Turning Point Action in Phoenix, Arizona, we're actually hosting the President of the United States, President Trump, at an event to address young people. And I could tell you that there's huge enthusiasm to hear from the President. But America has been locked down for almost 100 days, different variations of lockdowns. And I think that now we know more about the virus than we did even a month ago. I think that informed citizens should be able to make decisions to be able to go see the President of the United States. And you can see the campaign. They've gone above and beyond. They're doing so responsibly. And I think that now that we're in this election season--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "--I think it's well past time to be able to offer that platform for citizens to interact civically (ph)."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Jessica, what about that? With the proper measures, with adults making their own - they have the freedom to choose here. And as Senator Lankford said a moment ago, if you are elderly, if you've got an underlying condition, you've been encouraged not to go."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Yes, absolutely. And I'm thrilled that they'll be passing out masks and hand sanitizer, but I've been hearing this talking point over and over again. A million people want to see President Trump. Guess what? 10, 20, 30 million people probably want to go see Beyonce, but she's not having a concert right now because it's irresponsible. The fact that the Trump campaign isn't mandating that people wear masks, when you see that astonishing number, that 80 percent, including a large majority of Republicans, are in favor of that protocol, shows how reckless this administration is being with this. Tulsa has seen almost a 60 percent spike in COVID cases. This is not the time to do it. Also, the President is going to win Oklahoma."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "He should be in another state at this point, maybe somewhere else that isn't having a spike."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Jessica, I'm going to bring in Charlie back for a second, but real quick, when you compare it to Beyonce, we've got election in a few months. And as Charlie says, we've been in lockdown. At some point, both sides are going to have to get out there and see the voters, no? Jessica?"
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Yes, they absolutely will. And you're seeing Joe Biden on the campaign trail more and more. But I use the Beyonce example to say that people are making choices, people in leadership positions, that benefit the American public to keep them safe. And yes, people can make their own personal choices. But if a voter feels like this is their only chance to see President Trump--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "--and then they're going to go and endanger themselves, there is responsibility that the leader of the free world needs to take upon himself to say, you know what, let's \"Zoom\" for a little while longer. That's what the health experts are saying."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Charlie, Jessica is claiming that Joe Biden is getting out of the basement. Now, we've only seen him a couple of times."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "Well - yes. I'm a little perplexed by that because I don't think Joe Biden could do a rally like President Trump. I could tell you, the 3,000 students we're going to have in a room this coming Tuesday in Phoenix, Arizona, I don't think Joe Biden could draw that kind of crowd. But I'll say this. For the last couple of weeks, a lot of people express their First Amendment rights in Brooklyn, New York and Philadelphia. And you saw aerial footage of tens of thousands, if not hundreds of thousands, of people very close to each other not wearing masks."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "Look, political speech should not be one-side and not the other side. And I completely agree that President Trump now, with the media giving a free pass to all those protests in the streets, now listen, he can't do a rally and they were just quiet about that? I think this is adequate time to allow people and trust people. That's what it's about."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "And Jessica, I take except (ph) with you saying it's irresponsible. Well, no. The people going, they have to be able to weigh risk and responsibility. That's what a mature society does--"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "KIRK",
+      "utterance": "--especially after being locked down for over 100 days."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Charlie, Jessica, we'll have to leave it there. I want to get back to the Senator. Thanks for coming on. Have a great weekend. Let's get back to Republican Senator James Lankford from Oklahoma. As I mentioned, there are some storms there. I think it knocked out your audio. Senator, thank you for your patience. You heard that debate there. You heard me with the lawyer at the top who filed this suit. I think part of what people are frustrated about is what they see as a double-standard. With the protests, the media and others were not calling people out quite as much and demanding masks and social distancing and the rest."
+    },
+    {
+      "speaker": "LANKFORD",
+      "utterance": "Yes. I think that's part of the issue that they're focusing on, but quite frankly, that's on the conservative side they're focused on the double-standard. On the left-wing side of all the media, they are focused on doing whatever they can to distract from policy issues, from the economy starting to bounce back, to distract from the fact that Joe Biden is still in his basement while the President is drawing a million people trying to line up. This is distract, distract, distract. Everyone gets the whole issue about COVID-19 and how important it is to be able to watch your own health and to be as responsible as you can. But everyone is losing track. In Oklahoma, we've been through all three phases already. Our restaurants, our retail is open. We're done on all those three phases on it. Now we're trying to be able to manage this as we go forward."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Senator, the President tweeted something today that caught my eye about the rally. It wasn't about the COVID issue. It was more just about the campaign itself and sort of restarting it. He basically said, the campaign hasn't even started for me, it starts Saturday. Given some of the tough poll numbers for him, given the fact that we've got 40 million people unemployed, maybe some people say it's not his fault, because of COVID, maybe others will hold him accountable, he's going to find that out from the voters. But do you think that tomorrow night is bigger picture, more about restarting this campaign?"
+    },
+    {
+      "speaker": "LANKFORD",
+      "utterance": "I do, actually. And I think this is reframing where we are and where we've been while we just walk through as a country. I literally think there'll be people all around the world that will pause to be able to watch this speech from the President. This is his moment on the world stage and certainly on the national stage to be able to talk about race relations obviously in this city, in this community, on this weekend. This is his moment to be able to talk about the economy, about trade, about what's happening with China, about what we're going to do for the future. So it's a big deal and it's a big speech, but it recaptures again the nation's attention to say, this November, we're going to decide as a country in which direction we're going to go. And so it's a good anchor moment for the President to be able to launch this, and the whole world is watching."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "I've got about 30 seconds. But something else happened this week, which is that the President's team came out and said they want more than the traditional three presidential debates. They want four, maybe even more. And we're already seeing resistance from the Biden campaign. Do you think that's beyond restarting the rallies, the President wants to get out there mano a mano and have a more direct battle?"
+    },
+    {
+      "speaker": "LANKFORD",
+      "utterance": "I do. I think the President wants to get out there in a conversation side-by-side with Joe Biden, where he doesn't have a script, where he doesn't have a teleprompter, and he has to be able to recall those things and to be able to talk about things on his feet. I think the President longs for that kind of moment to be able to have a side-by-side, allow the American people to choose with no teleprompters, no script, no structured audience on it, actually having to make their case."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Senator James Lankford, we certainly appreciate your patience. We hope you and everyone else at the rally will be safe tomorrow night, and thanks for coming on tonight. Thank you, sir."
+    },
+    {
+      "speaker": "LANKFORD",
+      "utterance": "We do. Thanks, Ed."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "We are now awaiting a judge's ruling on the DOJ's request to halt the release of John Bolton's tell-all book. Byron York on whether a delay will do any good or whether the horse is already out of the barn. Byron York joins me now. He is Chief Political Correspondent for the Washington Examiner, of course, and a Fox News contributor. Good evening, Byron. All right. It appears that we might have lost Byron. It's one of those nights where the gremlins are out there in the technology. You want to take a look at something else, folks? While we wait for - all right. While we try to get Byron, it's a live look right now in Brooklyn, New York, one of the many cities across America where massive gatherings are taking place to commemorate Juneteenth. A live report is coming up on that. Plus, officers in Atlanta calling out sick for the second night in a row to protest charges against the former officers involved in Rayshard Brooks' death. The latest from Atlanta, coming up."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "We are not answering 911 calls right now due to personnel issues. If you can reach out to other zones, or I will to have them assist with our pending."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Received. They are strapped for units also."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "That from Atlanta police radio after officers called out sick in response to charges against two former officers involved in Rayshard Brooks deaths. Prompting this from the police chief."
+    },
+    {
+      "speaker": "RODNEY BRYANT, INTERIM ATLANTA POLICE CHIEF",
+      "utterance": "What we are seeing is an increase in officers taking off, we don't believe that it's a coordinated effort. We've been in this space for about three weeks now where officers are working 12 and a half and -- 12 and a half hour shifts. And sometimes even more. Being out on the front line, being yelled at, spit upon and items being thrown at them, so at some point people get tired."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Now after a second night of call, the Georgia Sheriff's Association has issued a new statement condemning the charges from District Attorney Paul Howard. Saying, quote, \"Howard has trampled on the rights of Officer Garrett Rolfe and Officer Devin Brosnan and has allowed this tragic incident to be more about his reelection than justice for the officers involved, the Atlanta Police Department and the citizens of our state.\" Joining me now is Vincent Champion. He is southeast regional director of the International Brotherhood of Police Officers. Vincent, good evening."
+    },
+    {
+      "speaker": "VINCENT CHAMPION, REGIONAL DIRECTOR, INTERNATIONAL BROTHERHOOD OF POLICE OFFICERS",
+      "utterance": "Good evening, sir."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Tell me about your frustration. What angered you most about the D.A. moving forward with these charges?"
+    },
+    {
+      "speaker": "CHAMPION",
+      "utterance": "No due process, that has been our argument since day one. You know, the officers have, they don't give up their right because they are police officers, they have the right as every other citizen to due process. Just follow the guidelines that have been in in place for years now."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "The -- it's interesting because the mayor is calling out men and women in blue saying obviously there was an oath that was taken and that oath applies to good days and to bad days, and it applies in the best of times and the toughest of times. I asked that they remember that oath. She is calling out the officers, why is this sick out happening?"
+    },
+    {
+      "speaker": "CHAMPION",
+      "utterance": "I don't disagree with the chief's phrases of the, you know, they've been working long hours and stuff but -- then that is true. And officers are tired. But the biggest part of it is, they are afraid that if they do their job, if they do their job the way they were trained, if they do it within the laws that are required, that they too could be the next people who are arrested, you know, best-case scenario terminated, but other than that, charged with murder and put in jail. That's hard to work under."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "And given what the D.A. did and you're frustrated about, and given these efforts to not just defund the police but we've heard some in the left say, it's not just defunding, they want to abolish the police, do these officers feel like they don't have any backup?"
+    },
+    {
+      "speaker": "CHAMPION",
+      "utterance": "Exactly, that's how they feel, not only no back up, they feel betrayed by the people that they've actually raised a hand and made the oath to protect. You know, from the mayor down to the D.A. Again, you know, we have a job. It's not always pretty and if you're just going to look at a video and say you don't like the way it looks and that's what you're going to use to fire and to possibly arrest us, that's a -- I think that's a slippery slope you don't want to go down."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "I want to play a clip from Kamala Harris, she's a senator as you know on the short-list to potentially be the vice-presidential running mate for Joe Biden. Here's what she said about the police. Watch."
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS (D-CA)",
+      "utterance": "We do need to reimagine how we are doing public safety. For too long, the status quo thinking has been to suggest that by putting more police officers on the street you will have more safety. That's just wrong."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "She says it's wrong."
+    },
+    {
+      "speaker": "CHAMPION",
+      "utterance": "Well, maybe we will ask the citizens of Atlanta at the rate this is going. I disagree with her 100 percent. You know, the more officers, everybody talks about the presence, to see the police car up and driving --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CHAMPION",
+      "utterance": "-- driving up and down their neighborhood, how much they feel safer when that happens. So, it's her idea to take those cars away, then ask your citizens, I would ask her neighbors, are you better behind the gated community you're in when a police officer drives through or are you best when you don't have a police officer? I guess she feels one way but we totally disagree with her."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes. Well, in Seattle where they have that autonomous zone, we now see private security being hired because the police are not in there and real quick, the businesses are saying, we need protection."
+    },
+    {
+      "speaker": "CHAMPION",
+      "utterance": "Absolutely. And the private security -- I mean, they have no real rules to follow, they are not trained like police officers are, they don't know the statutes like police officers, they don't know what probable cause is."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "CHAMPION",
+      "utterance": "They just don't like what somebody is doing, they're going to make a decision at that point, could be a life or death decision just based on the way they feel."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Vincent Champion, we appreciate your insights, thank you."
+    },
+    {
+      "speaker": "CHAMPION",
+      "utterance": "Thank you, sir."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "At this hour, Juneteenth commemorations underway across America, as we said, made especially poignant this year after the death of George Floyd in Minneapolis sparked this national conversation about race. Jack Brewer says this day marks an opportunity for the nation to rely on the word of God to heal and unify. He's here next."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Fox News alert now, a live look at demonstrations underway across America to mark Juneteenth, the end of slavery in the United States. What we're seeing play out in the cities across the country culminating after weeks of protest and outcry over the death of George Floyd. Of course, he was killed by a white police officer in Minneapolis 25 days ago. Rich Edson is standing by in Washington. But first, let's get to correspondent Matt Finn, he's live in Chicago where there are celebrations, marchers, and rallies all across the city. Matt, good evening."
+    },
+    {
+      "speaker": "MATT FINN, FOX NEWS NATIONAL CORRESPONDENT",
+      "utterance": "Good evening, Ed. And the governor here declared today as Juneteenth day in Illinois and also says he's going now going to work with state lawmakers to officially mark Juneteenth as a state holiday here in Illinois. And there were many celebrations and marches here in the city of Chicago for Juneteenth. Governor Pritzker and Senator Dick Durbin led a faith-based march in the heart of the city, lots of prayers and music. Two very large Juneteenth marches today, had fans and dancing, they were joyous and celebratory. There were also some anti-police sentiment and defund the police signs. And several Chicago-based corporations also tell us they gave thousands of employees the day off today including Grubhub, Lyft, and Kraft Heinz. And back live, we also want to briefly show you some of the businesses that are still recovering from the recent riots and looting. The city of Chicago is allowing takeout and outdoor dining, but some businesses really don't have that option as their storefronts are still boarded up. So, you can only imagine the hit these businesses continue to take from the pandemic and the recent riots and looting. Ed?"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "They've been dealing with a lot. Matt Finn, thank you. Juneteenth demonstrations also underway in our nation's capital as we noted. Our correspondent Rich Edson live near Lafayette Park. Obviously, there was a lot of action there just a couple of weeks ago. Rich, good evening."
+    },
+    {
+      "speaker": "RICH EDSON, FOX NEWS WASHINGTON CORRESPONDENT",
+      "utterance": "Yes, good evening, Ed. And this is part block party, part celebration, part protest, all happening here at the center of what is the Juneteenth celebration here in Washington, D.C. In fact, this is the yellow paint on the street that makes up black lives matter, the gigantic mural that's painted on the street here in !6th Street in Washington, D.C., that the mayor of D.C. authorized be put on. And again, you know, you said it, this is also the center of the protests. If you look here, this is 16th Street, we are just north of Lafayette Park which is just north of the White House. And so, the mood here has changed considerably in just the past week. There's events and celebrations and protests going on throughout Washington, D.C., today. Many of them have ended up winding through here but what you get is a, is a number of different celebrations that, you know, whether they be vigils for George Floyd in a number of different churches throughout the city, whether they be a go-go truck that's been driving around the city. A protest that's also been looking more to defund the police and to redirect a lot of money to social services. So, there's been a number of dish and different issues and protests and celebrations going on throughout D.C. here today. Now if you look, this is a pretty familiar spot, this is where just a few weeks ago, is the center of protest in Washington, D.C., this is where a number of different businesses, St. John's Church here to the left received a lot of damage. Over the last few weeks, you've had businesses and buildings that have all been boarded up, just the famous Hay-Adams Hotel, that's still boarded up. But over the last few weeks you've had a number of these businesses and a lot of these buildings begin to shed the plywood that they've had in front of them, you've had a number of these businesses they've removed the graffiti and slowly get back to life. This street itself, where it had been the center of very passionate protests and violence ongoing it turned more into a day long, a weeks' long celebration and protests ongoing throughout here. So, the vibe here has changed. You can walk through here through pretty much any time a day, people hanging out here, they're selling different black lives matter merchandise, they're writing notes and political messages all throughout here. You had celebration, you had music, people with different messages, different vibes ongoing here. And that's really what this area of Washington, D.C., in this area of the country has become, this sort of living protest but something that has a much more relaxed mood to it than we saw about a month ago. And any time of day you come here this is really the vibe that you got here. They've closed down 8th Street which is what we are crossing right now. Throughout the day, any time of day you come here the street is closed to traffic. And then you've got Lafayette Park and the White House which is right behind it. So that's really what's going on, Ed, for Washington, D.C., Juneteenth celebrations. There are different neighborhoods throughout Washington that are having their own individual celebrations and this is really the center of it with things evolving as the day goes on. So, Juneteenth in D.C., Ed. Back to you."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "All right. Rich Edson, back to you. Jack Brewer is standing by, he's key ally of the president, he'd like to see Juneteenth be a national holiday. Why it is so personal to Jack, on the other side of the break."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Fox News alert. Live look now in Brooklyn, New York. You can see a lot of demonstrators out there commemorating Juneteenth. They're walking across the Brooklyn Bridge chanting Breonna Taylor and George Floyd. This day 155 years after the last slaves were freed in America. gaining more attention of course than ever in the wake of the black lives matter protest that's been sweeping the nation along with heightened awareness and massive rallies all across America. Companies across the U.S. are now honoring Juneteenth as an annual holiday. Here now with more insights is Jack Brewer. He is CEO and executive producer of the Brewer Group, a former NFL player for the Minnesota Vikings. Jack, welcome, and happy Juneteenth."
+    },
+    {
+      "speaker": "JACK BREWER, CEO, THE BREWER GROUP INC.",
+      "utterance": "Thanks for having me, Ed."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "I really appreciate it. You know, as I read your story, you grew up in Texas, this has deep meaning for you, tell us about your personal experience."
+    },
+    {
+      "speaker": "BREWER",
+      "utterance": "I got to tell you, man, this is a joyous day. You know, all my life we celebrated Juneteenth and, you know, usually when I talk to African- Americans across the country a lot of people don't even understand or didn't before now understand the significance of this day. You know, my great-grandfather was a sharecropper. He was the first black man actually to come into my town, Grapevine, Texas, sharecropping. And so, this day always reminds me of that, it reminds me of my history. And so, you know, for a long time I've always hoped and dreamed that this would actually be a national holiday. And so, I'm pushing for that and it's just -- you know, it's a time that all Americans can reflect, right, not just reflect on the horrible institution of slavery --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BREWER",
+      "utterance": "-- but reflect on how far we've come. I mean, this is truly a day we should all be celebrating. I still remember those barbecues at home in Texas and it really was a meaningful day. And so, I'm just excited to see that the nation is finally getting around this holiday."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Well, and the president said something similar in his statement today about the horrors of slavery but how far we have come. I know you're friends with the president, you just mentioned that you'd like to see Juneteenth be a federal holiday. What's your case to the president, why do you think this may help bring the country together?"
+    },
+    {
+      "speaker": "BREWER",
+      "utterance": "We need it, we need it right now, no more talking about it. This president has done so many amazing things for the African-American community with his policies, whether it's criminal justice reform, going against what everyone else did in the past. The same thing you just saw him do with police reform, the first president to actually use his executive powers to come in and reform the police departments. Now it's time to actually make this a national holiday. I remember growing up when MLK day, finally schools across the nation started being let out. It's time to do that same thing now. This holiday is meaningful for all Americans, we all know the horrible, horrific stories about slavery. But this a time to rejoice. It's the time to show the world where America stands, how America stands up against racism, against slavery, against oppression and really shows us where we're going for the future and that's celebrating the freedoms of all Americans, all colors, all shapes, sizes and colors."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "So, you are in Tulsa already, you're going to be at the president's rally tomorrow night, and as you know, there are some African-Americans who are having a protest tonight. I heard Al Sharpton was going to be giving a speech. They don't want the president in Tulsa. They are upset that he chose Tulsa as the location of this rally, as you know, because of that racial massacre in 1921. What's your pushback to other African-Americans who are saying the president shouldn't do this, and what do you think the president should say tomorrow night, maybe more important than that, to try to bring people together?"
+    },
+    {
+      "speaker": "BREWER",
+      "utterance": "This is the time for reconciliation, we shouldn't be avoiding the things of our past, we should be talking about them and actually healing from them. This is the time to be joining hands as Christians, as believers, as a nation and given this to God. We're mean, all men make mistakes, all men do bad things and we are all sinners. But this is not a time to have more divisiveness. And so, having protests against people and standing up against men, that's not what this is about. It's not about identity. It's not about race. It's actually bringing us all together. You know, 99.9 percent of our DNA is all the same anyway and our bible teaches us that, and Jesus gave us direction in John 15 and 12 and he said that we must love each other like he loves us. And I think as a nation that's what we need to focus on right now, not trying to win political points. You cannot politicize oppression. It's just not right. Choose a different subject other than race and evilness --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BREWER",
+      "utterance": "-- and divisiveness, choose other subjects to politicize."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "You've talked about on the subject putting together a council on reconciliation in terms of race. There are others like Bob Johnson who started BET, the first black billionaire who wants to see reparations in the trillions of dollars. What do you think about all that?"
+    },
+    {
+      "speaker": "BREWER",
+      "utterance": "You know what? I always say reparations through education. We need to reform our education system so it doesn't leave these poor black kids out to dry. You know, 71 percent of our kids that drop out of high school are fatherless. We need to go in and systematically change our institutions that are pushing fathers out of their homes. We can go in and take care of these deeply-rooted racial disparities if we're willing to do it and put our politics aside. You know, we can't keep standing up for unions, we've got to stand up our people. We can't keep standing and talking about standing up --"
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BREWER",
+      "utterance": "-- against oppression but voting for policies that actually continue the systematic oppression that we claim to be against. So, you know, we can't fight against those that agree with us and we have to keep our eye on the prize and that is going in and bringing God back into our country, bringing the -- bringing faith back into our institutions, not pushing them out. That's what's happening to the core of our kids. Our kids are losing the fear of God and we're watching it on our TV screens right before our eyes. And the way we get back to that is getting the faith groups like we're doing with this council for racial reconciliation. We're bringing faith groups together because the folks of faith have to have to fix ourselves first. We have to come together as one people and not be divided and show this nation that we are one nation under God."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Jack Brewer, you're going to be there at the rally, you've got a very strong, positive message about bringing people together. It's a great way to end another very long week in America, we wish you well and we wish you a happy Juneteenth as I mentioned. Thanks for coming on tonight."
+    },
+    {
+      "speaker": "BREWER",
+      "utterance": "Thanks so much, Ed. God bless you, man. God bless this country."
+    },
+    {
+      "speaker": "HENRY",
+      "utterance": "Same to you, sir. All right. I agree. That is The Story for Friday, June 19, 2020. A special shout out to Martha for letting me sit in and to her husband dan. Because I hope he has a great Father's Day. And to my dad and mom. My mom's birthday happens to fall on Father's Day this year. They gave me the strength to help my sister Colleen. The proof just came in for the book, that they are first guest mentioned, by the way, \"Saving Colleen.\" I just finished. It's out September 15. You can preorder it today at Amazon, Check it out. It's a love story to my sister. I'll see you Monday morning from nine to noon on America's Newsroom with Sandra Smith. In the meantime, happy Father's Day to all the dads out there, and for everybody else, have a wonderful weekend. Thanks. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

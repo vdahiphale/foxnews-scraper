@@ -1,0 +1,1677 @@
+{
+  "date": "October 9, 2020",
+  "headline": "Biden, Harris again refuse to answer court packing questions",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/biden-harris-again-refuse-to-answer-court-packing-questions",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "BRET BAIER, FOX NEWS ANCHOR",
+      "sentences": "Good evening. Welcome to Washington. I'm Bret Baier. Breaking tonight we are following the storm track of Hurricane Delta as it closes in on the Louisiana Coast. We will have live team coverage from there shortly. First, President Trump says he's feeling great and is eager to get back on the road following his bout with COVID-19. His campaign says he will appear at a rally in Miami Monday. President also expected to show up at a White House event tomorrow. He participated in what was billed as the largest virtual rally in history on the radio this afternoon with Rush Limbaugh. It came his House Speaker Nancy Pelosi begins what could be a constitutional challenge to the President's authority. Correspondent Kevin Corke reports tonight from the north lawn of the White House. Good evening, Kevin.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEVIN CORKE, FOX NEWS WHITE HOUSE CORRESPONDENT",
+      "sentences": "Good evening, Bret. You're right. Now we're looking forward to that rally on Monday, the first chance for most Americans so you get a chance to see the president since his  COVID-19 diagnosis. And as you mentioned, not just that rally coming up on Monday. There's that event at the White House tomorrow. And with the election now just a few days away it is clear he is eager to get back out on the campaign trail.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "For a president who's held rallies at airports and arenas and has been the subject of supporter rallies on land and see this was a first, a radio rally attended by millions of listeners on the Rush Limbaugh program.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RUSH LIMBAUGH, AMERICAN RADIO PERSONALITY",
+      "sentences": "This, sir, is a mega, mega rally. Well,",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Well, I want to thank you, Rush. You're a fantastic man and it keeps us all in the game.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "The conversation, just the latest indication, the President is awfully eager to get back out on the campaign trail.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Now I'm free. I'm, you know, I feel perfect. I have no -- I'm not taking anything. You know, I'm off any regimen that they gave me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "His enthusiasm notwithstanding the President's doctors will have the final say on his travel availability. They've made it clear at least for now. He's got the green light to hit the road. Writing in a statement yesterday since returning home his physical exam has remained stable and devoid of any indications to suggest progression of illness. The President's health also the subject of two major stories unfolding tonight. On Capitol Hill, House Speaker Nancy Pelosi through her support behind legislation that would establish a panel of experts to determine whether a president lacks the mental or physical capacity to carry out the job. That move coming just days after the President's COVID diagnosis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "sentences": "This is not about President Trump. He will face the judgment of voters. But he shows the need for us to create a process for future presidents.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "The Commission for presidential debates, meanwhile, continues to insist that the upcoming debates slated for October 15th be conducted virtually because they say they simply haven't been given enough information about the President's recent diagnosis. Trump campaign is balked at the change promising a rally instead on the Biden camp is now planning a town hall events. This as the debates moderator, C-SPAN Steve Scully insist his Twitter account was hacked. That's his explanation for a tweet to former Trump staffer turned critic Anthony Scaramucci, asking about whether to respond to the President.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "Also tonight, Bret, we have learned that the White House has upped its COVID relief package offer to Congressional Democrats $1.8 trillion from Treasury Secretary Steven Mnuchin. You may remember the House Speaker Nancy Pelosi was looking for $2.2 trillion. No word on her response to the latest bid by the White House, Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "More on that with the panel. Kevin Cork live in the north lawn.  Kevin, thanks. As Kevin just reported the C-SPAN host who was supposed to moderate the second presidential debate says his Twitter account was hacked. the Trump campaign is expressing skepticism today. Correspondent Rich Edson is digging into that tweet controversy, raising more questions about impartiality. Good evening, Rich.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICH EDSON, FOX NEWS WASHINGTON CORRESPONDENT",
+      "sentences": "Good evening, Bret. And there is an investigation into this now. C-SPAN Steve Scully claims that Twitter -- his Twitter account was hacked. Scully is scheduled to moderate the second presidential debate that was originally set for next week, though that now appears to be cancelled. The Commission on Presidential Debate says \"Steve Scully notified us that his Twitter account was hacked.\"  CPD reported the apparent hack to the FBI and Twitter. And we understand that the Federal authorities and Twitter are looking into the issue.  Twitter declined to comment on the investigation whether it had confirmed the hack or if it's even looking into the incident. U.S. officials have been warning for months of attempts by foreign governments with sophisticated hacking operations that are attempting to interfere in this year's election. This is also at least the third time Scully has claimed his Twitter account was hacked. Journalist Yasser Ali unearth to tweet from May 2012 where Scully apologizes and says his account was hacked. The following March he says he was hacked again. Those tweets were still up this afternoon. There is also a reported tweet from 2016 where Scully shares in New York Times opinion piece titled Not Trump, Not Ever.  The President and his allies are using this episode to paint the debates is unfair. Many others including the first debate, moderator say Scully is impartial.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "sentences": "Steve Scully is an honorable man. He's a fair reporter, he says, and the Commission says that he was hacked and until it's contradicted, I'm going to believe Steve Scully. He's has a very good reputation in this business, and I find it hard to believe that he would be lying about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDSON",
+      "sentences": "Scully's account was deleted this afternoon. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Let's confirm it. Rich, thank you. Joe Biden is hosting campaign events in Las Vegas today. But he is being dogged by and has yet to answer continued questions about what he'll do when it comes to pack in the Supreme Court if he's elected. Correspondent Peter Doocy is in Las Vegas tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS CORRESPONDENT",
+      "sentences": "In a sign of the times today, Joe Biden was greeted by a masked mariachi band.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL NOMINEE",
+      "sentences": "If I win, you're getting an invitation to Washington.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "On the second day of a West Coast swing, the Democratic nominee tailored his pitch to Latinos.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "One in three Latino businesses have closed and the deep racial and justices that Trump continues to fan the flames of is just wrong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "And he's hoping people here are still thinking about him next week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "Early voting right here, right at this spot. So, come back next weekend, bring your family and bring five friends.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "For weeks, Biden and Harris have avoided answering questions about expanding the Supreme Court and filling new seats with liberals.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Senator Harris, should Democrats try to pack the court next year?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "(INAUDIBLE) court packing when the election is over.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS (D-CA), VICE PRESIDENTIAL NOMINEE",
+      "sentences": "Let's talk about packing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT OF THE UNITED STATES",
+      "sentences": "Once again (INAUDIBLE) non-answer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Harris' answer has been located in a 2019 clip circulated by the RNC.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIS",
+      "sentences": "And I'm open to this conversation about extending the number of people in the United States Supreme Court about increasing the number of people in the United States Supreme Court.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "That's likely not something Biden will be asked about at a town hall debate in Miami next week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Mr. Vice President, is the second debate totally dead?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "His answer through the mask and add a distance appeared to be I think so. It was much easier to hear him joke about wrangling up political opponents.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "I got a couple people I'd like you to last though. Are you ready to",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Well, just a few minutes ago, we found out that second debate is totally dead. The Wall Street Journal is reporting the commission just straight up canceled the October 15th showdown. And that means we might see a lot more events like what you see behind us. The tail-end of a Democratic drive through. Joe Biden just exited the stage where he addressed about 200 cars full of people. And today's attendees could do something when they liked what they see that they could never do at a show on the strip 20 minutes away. Honk a horn.   Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Peter Doocy in Las Vegas. Peter, thanks. We have reached out to both the Biden and Trump campaigns and offered to host town halls on Fox News. We're awaiting responses. We should also continue to mention that our requests for one on one interviews with former Vice President Biden, Senator Harris and President Trump continue week by week on \"SPECIAL REPORT.\"  Secretary of State Mike Pompeo says he is working as fast as he can to release e-mails from former Secretary of State Hillary Clinton's use of a private server. President Trump has been critical of Pompeo over that delay.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE POMPEO, UNITED STATES SECRETARY OF STATE",
+      "sentences": "Was classified information on a private server should have never been there. Hillary Clinton should never have done that. I was unacceptable behavior. I certainly think there'll be more to see before the election.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "President Trump has also criticized the Attorney General William Barr for not announcing prosecutions related to the ongoing investigation into the origins of the 2016 probe of then candidate Trump's alleged ties to Russia. We're learning new information tonight about the alleged insurrection plot in Michigan that featured a plan to kidnap Democrat governor Gretchen Whitmer. Here's correspondent Garrett Tenney.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. GRETCHEN WHITMER (D-MI)",
+      "sentences": "There is ongoing rhetoric, and I think that it's creating a very dangerous situation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GARRETT TENNEY, FOX NEWS NATIONAL CORRESPONDENT",
+      "sentences": "Michigan governor Gretchen Whitmer says the threats against her haven't stopped after the arrest of 13 suspects accused of trying to instigate a civil war with plans to storm the state capitol building target police officers in their homes and kidnap Governor Whitmer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHTMER",
+      "sentences": "These are the types of things you hear from groups like ISIS. This is not a militia. It is a domestic terror organization. We need to call it out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TENNEY",
+      "sentences": "Today, Whitmer doubled down on blaming President Trump and his administration. saying they encourage this kind of plot.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WHITMER",
+      "sentences": "Well, anyone who give safe harbor to or encouragement to is complicit. And that's precisely what he did on the national stage in the middle of a presidential debate when he said, stand by.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "He's complaining but it was our justice department that arrested the people that he was complaining about. It was my justice department that arrested them. But instead, she goes and does her little political act and she keeps her state close.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TENNEY",
+      "sentences": "The 15-page criminal complaint filed by Federal prosecutors makes no reference to or mention of President Trump, the Republican Party or the Democratic Party. What's clear though, is that the suspects behind the failed plot to overthrow Michigan's government have ties to an antigovernment militia group.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS SWECKER, FORMER FBI ASSISTANT DIRECTOR",
+      "sentences": "We've been chasing these people around for the last 25 years.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TENNEY",
+      "sentences": "Chris Swecker, a former assistant director of the FBI says these kinds of antigovernment groups have been around for decades.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SWECKER",
+      "sentences": "They're are not Republican or Democratic. These are people that live by their own rules and they are just all about antigovernment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TENNEY",
+      "sentences": "Tonight, Delaware's Democratic governor John Carney is under fire after confirming reports that last year he pardoned one of the ringleaders of the failed kidnapping plot, 44-year old Barry Croft. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Garrett Tenney in Chicago. Garrett, thanks. Two ISIS militants named The Beatles for their British accents are pleading not guilty to terrorism charges. They are requesting a jury trial. A Federal grand jury issued an eight-count indictment earlier this week, accusing them of leading a brutal hostage taking scheme that resulted in the deaths of Western hostages. As mentioned at the top of the show, Hurricane Delta is making landfall right now on the Louisiana Gulf Coast. It has been downgraded to a category two storm but is still packing fierce winds and is headed for the same area that suffered damage from Hurricane Laura in late August. We have Fox team coverage, chief meteorologist Rick Reichmuth shows us where the storm is going, where it's headed. We begin with Steve Harrigan in Lafayette, Louisiana tonight. Good evening, Steve.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEVE HARRIGAN, FOX NEWS CORRESPONDENT",
+      "sentences": "Good evening, Bret. The rain is here, the wind is on the way. Already 35,000 people in Louisiana have lost electric power even before landfall.  Weeks after being hit by Hurricane Laura, Southwest Louisiana is now being pummeled by Hurricane Delta.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "It feels like it's every other week. I'm just ready for it to be over.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Just get ready. Hope for the best. Hunker down is all you can do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "Within 10,000 people in Louisiana are still in hotels from the last storm. Debris still lines the roads. Blue tarps still cover the roofs and traffic on the main escape route out slowed to a crawl.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This one has me concerned. For some reason I'll feel -- I have a feeling of doom about my house.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "In remote areas like Cameron Parish, more than 100 people plan to ride out the storm despite the fact that roads are likely to be flooded, making rescues impossible.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We can't say for exactly sure we know what this storm is going to do. We know that this is going to exacerbate what is already a bad situation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "More than 300 workers from Duke Energy are in place to respond to power outages. More than 500 Urban Search and Rescue team members are also ready to respond. They are trained to save people in collapsed structures and trapped by water. National Guard assets are also being mobilized including more than 100 high water vehicles along with watercraft and helicopters. Over the past two days we've seen a lot of people, some elderly, other people with pets, some mothers with small children, just trying to get out of here to safety. It could be a rough 48 hours. Bret, back to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Steve Harrigan live in Lafayette, Louisiana. Steve, thanks. Let's find out where Delta is heading. Chief Meteorologist Rick Reichmuth joins us now. Hey, Rick.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICK REICHMUTH, FOX NEWS CHIEF METEOROLOGIST",
+      "sentences": "Hey, Bret. Yes, getting very close to the Louisiana coastline, probably making landfall maybe 10 to 15 miles away from where Hurricane Laura did just about six weeks ago. One good piece of news here is the water temperatures right along the go -- along the coast have really cooled significantly over the last couple of weeks. When you have these water temperatures here that you see into the 70s. It's not really enough to be able to sustain a significant storm. That's what we've seen some of the weakening today. Earlier today was a category three storm now down to a category two unlikely weakening pretty quickly here. You can even see that on the satellite representation here really not nearly as organized as it was. All of these things are good news for the folks in Louisiana. Now, that doesn't mean that that energy goes away anytime. Very quickly we're still going to see that storm surge, we're still going to see the moisture. But I think the worst of the winds probably not as bad. Certainly, like we saw earlier in the day to day. Bret, this is the 10th storm. 10th storm this hurricane season making landfall in the continental U.S. It could be the fifth Hurricane, the other fiber tropical storms. This incredibly active 2020 hurricane season is almost done, we have to get through this. Behind the storm, nothing that we're watching right now. And we'll also tell you, we're heading towards the end of hurricane season which is good. Right now, winds into the 40-50 mile an hour range. Probably, it's a little bit stronger as the eye wall is coming on the shore. Center of that storm should be here in a couple of hours. Then we just had a very rainy night and windy night ahead for the folks in Louisiana. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "2020 stinks so far, Rick.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REICHMUTH",
+      "sentences": "Yes, I think -- it does.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Up next, the controversy and legal fallout over a film on Netflix. First, here is what some of our Fox affiliates around the country are covering tonight. Fox 32 in Chicago, as attorneys for a 17-year-old accused of killing two protesters days after Jacob Blake was shot by police in Kenosha, Wisconsin, fight extradition from his home state of Illinois. Kyle Rittenhouse appeared on streaming video and wear a face mask during a brief court hearing today. Fox 5 in New York with the death of Hall of Fame pitcher Whitey Ford, he had the best winning percentage of any pitcher in the 20th century. Ford was on six World Series winners with the Yankees. Whitey Ford was 91. And this is a live look at Tampa from Fox 13. One of the big stories there tonight. A gaping hole in the New Port Richey continues to expand. That hole opened up on Monday. The latest estimate is that it is 38 feet across, 70 feet deep. That is tonight's live look \"OUTSIDE THE BELTWAY\" from SPECIAL REPORT, we'll be right back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "The World Health Organization reports a record one day increase in global coronavirus cases, Thursday. It says that total rose by almost 339,000 in 24 hours, led by a surge of infections in Europe. The U.S., meantime, reported 56,000 new cases yesterday, the largest in nearly two months. 28 states showing increases, 20 holding steady, two states are reporting declines. A top U.S. health official says the government expects to have access to more than 1 million doses of Regeneron Pharmaceutical and Eli Lilly's antibody treatments for COVID-19 this year. The plan is to distribute the drug at no charge to patients and to states based on need. The Dow gained 161 today, the S&P 500 finished ahead 30. The NASDAQ jumped 159. The Dow had its best week since early August, picking up about 3-1/4 percentage points. The S&P 500 gained almost four. The NASDAQ was up 4-1/2. Tonight, we look at the fallout from a movie that has drawn both condemnation and critical praise over its subject matter. And now, it's drawing criminal charges against the streaming service where it still being shown. Correspondent Anita Vogel, explains tonight from Los Angeles.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANITA VOGEL, FOX NEWS CORRESPONDENT",
+      "sentences": "It's a movie that sparked controversy and conversation around the world. Now, Netflix is facing criminal charges over the French film Cuties.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. TED CRUZ (R-TX)",
+      "sentences": "This movie, Cuties, that it sexualizes 11-year-old girls, has them dancing like strippers, has them in very suggestive sexual roles, and it's frankly disgusting.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "VOGEL",
+      "sentences": "After its September debut, Texas Senator Ted Cruz and other Republican lawmakers called out Netflix for releasing the movie, which focuses on the story of an 11-year-old Senegalese immigrant who joins a dance group. The State of Texas filed a lawsuit, and a grand jury there indicted the media giant, saying, Cuties, \"depicts the lewd exhibition of the genitals or pubic area of a clothed or partially clothed child. And has no serious literary, artistic, political, or scientific value.\" Netflix initially apologize for inappropriate artwork for the promotional poster before it was released, but is defending the content of the film. Saying in a statement, \"Cuties is a social commentary against the sexualization of young children. This charge is without merit and we stand by the film.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "VOGEL",
+      "sentences": "Attorney Brian Claypool, who specializes in civil rights and child sexual abuse cases, says one of the biggest challenges Texas prosecutors face is that people have to pay or subscribe to Netflix in order to watch the film. He says prosecutors must prove the sole purpose of the movie is for sexual interest.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRIAN CLAYPOOL, CIVIL RIGHTS AND CHILD SEXUAL ABUSE ATTORNEY",
+      "sentences": "If Netflix loses here, this could be perceived as government intervention, censorship, and that could very well define what type of material, platforms can post both through television and any form of social media.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "VOGEL",
+      "sentences": "Netflix did reportedly see some cancellations after releasing Cuties. The film's director-writer says people are missing the point. She says it's a critique of the hyper sexualization of young girls. As for the charges and arraignment date has yet to be set. Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Anita Vogel in Los Angeles. Anita, thanks. Up next, why one of the most powerful Republicans in the Senate is fighting hard to hold onto his job?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "One of the most surprising Senate races this fall is in South Carolina, where long-time Republican incumbent, Lindsey Graham, is trying to hold off Democrat Jaime Harrison. Chief congressional correspondent Mike Emanuel takes a look tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS CHIEF CONGRESSIONAL CORRESPONDENT",
+      "sentences": "South Carolina Senator Lindsey Graham is in the fight of his political life, as he's about to lead the confirmation process for Judge Amy Coney Barrett. A recent Quinnipiac survey suggests it's a dead heat with both Graham and Democrat Jaime Harrison with 48 percent support. Harrison has a money edge and is receiving national attention.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JAIME HARRISON (D), SENATORIAL CANDIDATE",
+      "sentences": "Lindsey Graham has gone all Washington, D.C. He cares more about his political relevance and power in Washington than doing the job that the people in South Carolina send him to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "A debate scheduled for tonight is now off after the two sides could not reach an agreement over COVID testing. Harrison demanded Graham be tested, while Graham declined, saying, he'll take medical direction from a doctor. Graham is trying to link Harrison to Hillary Clinton and House Speaker Nancy Pelosi, hoping that won't play well in South Carolina.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. LINDSEY GRAHAM (R-SC)",
+      "sentences": "This is a big choice election between me and Mr. Harrison. Capitalism versus socialism. Conservative judges versus liberal judges.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Experts say, Graham leading the Barrett confirmation process plays well with the Republican base. So, Harrison isn't directly attacking that. He's saying Graham is not a man of his word on the issue of confirming a Supreme Court nominee in an election year. As for Graham's very close relationship with President Trump, one South Carolina analyst says there could be coattails, but it's not going to be easy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOSEPH STEWART JR., PROFESSOR, CLEMSON UNIVERSITY",
+      "sentences": "The difference now is he's got a very capable and well-funded Democratic opponent. The Harrison campaign has been very professionally run.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Typically, the big fight in South Carolina is during the Republican primary but not this cycle, and a grand loss would go a long way toward Democrats push to be in the majority, and be a huge prize for the progressive left. Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Mike Emanuel, thanks.  About 50,000 voters in Franklin County, Ohio have reportedly received inaccurate absentee ballots. Election officials there say replacement ballots will be mailed-out within 72 hours. A federal judge has denied a motion to extend voter registration in Florida even though a computer meltdown might have invented thousands of potential voters from taking part in November's presidential election. The Florida election officials say 50,000 people registered during extra time Tuesday, but that 20,000 more could have signed up to vote if the system had not crashed. In tonight's Focus on Faith, the president's Supreme Court nominee Amy Coney Barrett has taken fire from Democrats over her Catholicism and how it might influence her rulings. Religion correspondent Lauren Green has their story from New York.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAUREN GREEN, FOX NEWS RELIGION CORRESPONDENT",
+      "sentences": "She's a devout Catholic, pro-life, and associated with a conservative religious group called People of Praise, a tight-knit Christian community believing in traditional gender roles, with husbands as head of the household. The media has been intensely focused on the connection.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALEX MCFARLAND, SOUTHERN EVANGELICAL SEMINARY",
+      "sentences": "They want to hone in on this and say, well, this is clearly a group with deeply held Christian convictions, therefore this will invariably skew her decision-making process, and therefore she is unfit.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GREEN",
+      "sentences": "The scrutiny is a continuance from Barrett's 2017 confirmation hearing as an appellate judge in which Senator Dianne Feinstein asserted --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. DIANNE FEINSTEIN (D-CA)",
+      "sentences": "The dogma lives loudly within you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GREEN",
+      "sentences": "The focus on Barrett's faith prompted Senator Mitch McConnell to issue a simmering press release, saying \"The ongoing attacks by Senate Democrats and the media on Judge Barrett's faith are a disgrace. They demean the confirmation process, disrespect the Constitution, and insult millions of American believers.\" Pundits say the greatest concern is whether Barrett's religious beliefs put Roe v Wade in jeopardy, the 1973 decision that legalized abortion. Senator Richard Blumenthal of Connecticut, who sits on the judicial committee, told \"The Guardian\" newspaper he had no plans to ask Barrett about her religious beliefs, but that \"the arguments against her are so powerful and persuasive on the merits that we should focus on them.\" The Constitution's Article Six states there should be no religious test to hold public office.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PATRICK HORNBECK, FORDHAM UNIVERSITY PROFESSOR",
+      "sentences": "The no-religious test clause was designed originally to stop litmus tests that would say a Roman Catholic or an atheist or a Jewish person couldn't serve in a particular office. But I think the American people deserve to know and have the right to know the ways in which any public servant will balance their political, their religious, and their philosophical commitment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GREEN",
+      "sentences": "Barrett said she would rule according to law, not personal convictions. The confirmation hearings begin Monday morning. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And we'll have full coverage. Lauren, thank you. Next up, the panel on the president's radio rally with Rush Limbaugh, and the reported hacking of a debate moderator's Twitter account, now the canceling of that debate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "The other one is from C-SPAN, and he's a never Trumper, and I think somebody said he worked for Biden at one point. These are the people I get. And that's OK, because I've had some bad ones over the years, and I've got an unblemished record, I think, in the debating world.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRANK FAHRENKOPF, PRESIDENTIAL DEBATE CO-CHAIRMAN",
+      "sentences": "I don't know about this question of whether he tweeted something out. I do know, and you probably pick up on it in a minute, that he was hacked. There is apparently something now that's been on television and the radio saying he talked to Scara -- the guy who was in the White House --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Scaramucci.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAHRENKOPF",
+      "sentences": "Scaramucci, and that he's been talking to Scaramucci. He was hacked. It didn't happen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Talking there about Steve Scully from C-SPAN. C-SPAN put out a statement saying \"Last night a tweet from Steve Scully, C-SPAN's political editor, appeared on his timeline communicating with Anthony Scaramucci. Steve Scully did not originate the tweet, believes his account has been hacked. The Commission on Presidential Debates stated publicly that the tweet was not sent by Scully himself and is investigating with the help of authorities.\" All that aside, now we're getting news that this debate is officially canceled, not even virtual. It's just off, as the hope is that the debate in Nashville will stay on. Let's bring in our panel, Charles Lane, opinion writer for \"The Washington Post,\" Republican strategist Lisa Boothe, and Bill McGurn, columnist for \"The Wall Street Journal.\" Lisa, your thoughts on this as we get news that this it's just done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LISA BOOTHE, FOX NEWS CONTRIBUTOR",
+      "sentences": "I think first and foremost, I think the Commission on Presidential Debates as well as C-SPAN are potentially doing reputational harm to themselves by claiming this was hacking, because if you look at the exchange with Anthony Scaramucci, it certainly looks like this was a part of a broader conversation. So I think they need to be honest with the public about that. But I think there's also questions of why Steve Scully, given the fact that he interned for Joe Biden, given the fact that he was a staffer for Ted Kennedy, given the fact that he's previously tweeted out, no, not Trump, never, in 2016, all raise questions about his impartiality, period, and why he was ever chosen as a debate moderator. So I think at a time where there are a lot of people in the country that view the media negatively, that have distrust in the media, rightfully so, this was an unwise choice, and also perhaps an unwise response as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK, Chuck, but we're not saying that this is cancelled because of the choice of the moderator. It seems like all kinds of factors are going into this decision. But politically, how does that play at this point in the race? CHARLES LANE, OPINION WRITER, \"WASHINGTON POST\": Wow, that's a hard one, because in some ways you could almost see this as a benefit for Trump because his performance in the first debate was so bad. On the other hand, he needs another shot at Biden to somehow remedy the damage of the first one and restore his standing in the polls. Watching Joe Biden and his team deal with this information and this news, you get the impression that they are just throwing up their hands and figuring, look, we're ahead. We seem to be increasing our lead, we don't need to fight for more debates. We can live with doing away with this one. You would think the president would not want to appear like he is shrinking from this fight, but I think on balance, that's kind of the way it looks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Bill, he's obviously doing a lot of interviews, the president is, for long periods of time, obviously friendly territory in Rush Limbaugh, but almost two hours, answering questions, all kinds of questions. Your thoughts on this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BILL MCGURN, FOX NEWS CONTRIBUTOR",
+      "sentences": "It's not either-or. Any time I think a candidate can have access to Rush Limbaugh's audience, it's a huge audience, I think that he ought to take it. I personally would think that he would benefit by having a debate, but I think he also has legitimate complaints. We have an editorial today in \"The Journal\" saying we should get rid of the Commission on Presidential Debates and the moderators. Let the parties control -- let them negotiate themselves. I think it's absurd to have a commission announce who is going to go, when, and under what format rather than the parties negotiate themselves and come to some agreement. So I think the president is drawing attention to that, has some legitimate complaints, and he's probably calculated that he's better off going off on his own. He's certainly proving as disruptive as he was in 2016 by not agreeing to the conventions that other people just agreed to.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "The commission says -- they were formed more than 30 years ago because the parties could get together, they could never agree. But your point is taken, Bill. Lisa, let's talk about congressional negotiations and the White House negotiations on possible additional stimulus. Take a listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PELOSI",
+      "sentences": "The president, with no notice to Congress, completely just -- I think he'd been bewildering some of his own people that made his tweet saying that talks are over because I want the focus strictly to be on confirming my Supreme Court nominee. He started to come back little by little, and now a bigger package. So we'll and see what they have to offer today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I would like to see a bigger stimulus package, frankly, than either the Democrats or the Republicans are offering. I'm going the exact opposite now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Lisa, now it's at $1.8 trillion, the Democrats were at $2.2 trillion, that's the bill that they passed, but there are other things in that bill. The president did stop negotiations. Where is this politically?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOOTHE",
+      "sentences": "We'll see. There are a lot of political tensions. I think the president probably would like to see a deal get done, maybe more so than Democrats because then they can make the argument that he has denied the American people, particularly given the fact that he has tweeted out that he was in fact the one stepping away. But simultaneously, I think Republicans really need to dig in on what Nancy Pelosi has been saying this week regarding the coronavirus, and also invoking the 25th Amendment and putting that bill forward, because you have Nancy Pelosi saying that President Trump is somehow now altered because of the therapeutics that he received to fight the coronavirus. So what does that do to the American people? It draws into question the efficacy of therapeutics that have been saving lives in the country, and if you look at since March alone, have been largely responsible for a 90 plus reduction in mortality. So you have Democrats that are actually acting recklessly in undermining American confidence in those therapeutics, which really is the same thing that Kamala Harris has been doing on the vaccine as well. So I actually think that gives President Trump and Republicans an opening on coronavirus to go after Democrats on that very issue.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Not only that, but Chuck, you're essentially negotiating with somebody that says you're hopped up on steroids. So this is not going to get done in 25 days.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "I hate to say it, Bret, but sometimes his negotiating position makes me think he might be not thinking all that clearly, because just in this tape you just played he said I want something bigger than either the Republicans or the Democrats, frankly. If he's serious about that, then he needs something even bigger than the $3 trillion plus bill Nancy Pelosi put through the House back in May. And that hasn't even been close to the position that Steve Mnuchin has been talking about when he's been dealing with Pelosi up till now. He has really scrambled these talks to no apparent purpose over the last week. And I think we have seen, this has rattling a lot of Republicans, especially House Republican candidates who are in the country trying to run on something constructive about the situation in the economy, and he is leaving the table, coming back to the table.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Bill, quickly, it is the Republicans in the Senate and the House that are saying, listen, we can't go any higher than we're going.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "Yes, I think these are both distractions. One, the 25th Amendment commission is a joke. It would be approved by Mitch McConnell's Senate, much less signed by President Trump. So it's going nowhere. It's a stunt. I think at this point even a coronavirus aid bill, I understand why politicians want to have it. I think Donald Trump would be better emphasizing the difference between the two campaigns. He belongs to the party, leads the party that is in favor of getting the economy back up and running, and Joe Biden is the guy that said if a scientific advisor told him to shut it all down, he'd shut it all down. I think that's what people have to be voting on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Up next, a quick Friday Lightning Round. Keep it here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SARA GIDEON (D), MAINE SENATE CANDIDATE",
+      "sentences": "If it were in the Senate, I would want to make sure that someone, first of all, met that low bar of being qualified, but additionally I'd want to make sure that they had the temperament. I'd want to make sure that they have respect for precedent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. SUSAN COLLINS, (R-ME)",
+      "sentences": "The judicial appointment process has become far too political. A perfect example of that is members of the Senate announcing their opposition to President Trump's nominees before the nominees' names were known. That is not what senators are supposed to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Maine Senator Susan Collins there. I asked each of the panelists to pick a Senate race they are following. Chuck, let's start with you. This is Maine. The incumbent, Susan Collins, is trailing Sara Gideon, the Democrat there. But recent polls, this is the average of polls, about 3.7, recent polls say it's getting pretty tight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "The drama in Maine is, is there still room in American politics for a true middle-of-the-roader, which is what Susan Collins has been throughout her career. Her unfavorable rating is now 49 in a state where she has always won election and reelection very easily. I think she may be in trouble. And this is one if the Republicans lose it, their chances of controlling the Senate are dim.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Lisa, you chose North Carolina. Take a listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. THOM TILLIS (R-NC)",
+      "sentences": "The truth does matter. Cal Cunningham said that. He's founded an entire campaign on it, and now we know that these affairs were going on with the wife of a combat veteran while he was in the midst of this campaign. It's a hypocrisy that I think the North Carolina voters will reject.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Senator Thom Tillis there. The polls have Cunningham up, but the latest polls really didn't start coming out with this affair that Cunningham is having a hard time dealing with. Lisa?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOOTHE",
+      "sentences": "And he had a press conference today and refused to answer questions if there were additional women, which the implication would be that there might. And why this matters is what Senator Thom Tillis was saying, the fact that he has ran as a candidate of honor, integrity, a family man. So this directly undercuts the narrative that he has presented about himself and calls into question his authenticity. So I think that's where it matters. And you see groups like the Senate Leadership Fund up on air with attack ads against him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK, let's go to Bill's pick which is Michigan. Take a listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. GARY PETERS, (D-MI)",
+      "sentences": "Michigan, as you know, is a battleground state, absolutely essential to the presidential race, and we have a very real shot to take the majority in the Senate, but we have to hold my seat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "That's incumbent Gary Peters up by roughly five points in the Real Clear Politics average. Bill, why do you like this race?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCGURN",
+      "sentences": "It's interesting, because John James, the Republican candidate, very attractive individual. He would be the first black senator from Michigan. He's a West Pointer, an Iraq vet. The race is -- he's behind. This is an uphill struggle, but it's still tight, and there's still lots of undecideds. So this is one to watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK, guys, I wanted to focus on the Senate races and I wanted to give that time, so we don't have time for Winners and Losers, so I'm the loser on timing out of this panel. But thank you very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And we'll see you next week. When we come back, \"Notable Quotables.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BOOTHE",
+      "sentences": "Can we be winners?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Yes, you are all winners.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All right, I'll give you the panel's winners, how about that. Chuck choose the FBI for thwarting the attack against Governor Whitmer in Michigan. Lisa chose COVID therapeutics for all the success there has been. And Bill chose Mike Pence for a great debate. There you go. At least I got the winners in. Finally tonight, it's Friday, that means \"Notable Quotables.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Hi, perhaps, you recognize me. It's your favorite president. I think this was a blessing from God that I caught it. I'm back because I'm a perfect physical specimen, and I'm extremely young.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PELOSI",
+      "sentences": "I think he was medicated. DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTES OF ALLERGY AND INFECTIOUS",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DISEASES",
+      "sentences": "He certainly looks good.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Our motto is, knock us down seven times, we'll stand up eight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "There are a lot of folks that look like me that are tired of the comments and the derogatory remarks that are made because of our political philosophy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This was not a peaceful transition of power. They went after candidate Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "And I want to see these beautiful young ladies. I want to see them dancing when their four years old, too.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Please vote.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Take your clothes off and vote.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Raccoons, man. Get!",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "The only responsible response to that would be to pass legislation making Roe the law of the land.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Hatred, bigotry, and violence have no place in the great state of Michigan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIS",
+      "sentences": "The American people have witnessed what is the greatest failure of any presidential administration in the history of our country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PENCE",
+      "sentences": "They'd like to know if you and Joe Biden are going to pack the Supreme Court if you don't get your way in this nomination. I just want the record to reflect she never answered the question.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIS",
+      "sentences": "Mr. Vice president, I'm speaking, I'm speaking.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "The fly seen round the world. Listen, this weekend on FOX News Sunday, Chris Wallace will speak with two members of the Senate Judiciary Committee ahead of the start of confirmation hearings for Judge Amy Coney Barrett, Republican Ben Sasse and Democrat Chris Coons. Check your local listings for air times. We'll have complete coverage on Monday for the start of those hearings. Thanks for inviting us into your home tonight. That's it for this SPECIAL REPORT, fair, balanced, and still unafraid. \"The Story\" hosted by Martha MacCallum with a few extra seconds on a Friday starts right now. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC.  All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS ANCHOR",
+      "utterance": "Good evening. Welcome to Washington. I'm Bret Baier. Breaking tonight we are following the storm track of Hurricane Delta as it closes in on the Louisiana Coast. We will have live team coverage from there shortly. First, President Trump says he's feeling great and is eager to get back on the road following his bout with COVID-19. His campaign says he will appear at a rally in Miami Monday. President also expected to show up at a White House event tomorrow. He participated in what was billed as the largest virtual rally in history on the radio this afternoon with Rush Limbaugh. It came his House Speaker Nancy Pelosi begins what could be a constitutional challenge to the President's authority. Correspondent Kevin Corke reports tonight from the north lawn of the White House. Good evening, Kevin."
+    },
+    {
+      "speaker": "KEVIN CORKE, FOX NEWS WHITE HOUSE CORRESPONDENT",
+      "utterance": "Good evening, Bret. You're right. Now we're looking forward to that rally on Monday, the first chance for most Americans so you get a chance to see the president since his COVID-19 diagnosis. And as you mentioned, not just that rally coming up on Monday. There's that event at the White House tomorrow. And with the election now just a few days away it is clear he is eager to get back out on the campaign trail."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "For a president who's held rallies at airports and arenas and has been the subject of supporter rallies on land and see this was a first, a radio rally attended by millions of listeners on the Rush Limbaugh program."
+    },
+    {
+      "speaker": "RUSH LIMBAUGH, AMERICAN RADIO PERSONALITY",
+      "utterance": "This, sir, is a mega, mega rally. Well,"
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Well, I want to thank you, Rush. You're a fantastic man and it keeps us all in the game."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "The conversation, just the latest indication, the President is awfully eager to get back out on the campaign trail."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Now I'm free. I'm, you know, I feel perfect. I have no -- I'm not taking anything. You know, I'm off any regimen that they gave me."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "His enthusiasm notwithstanding the President's doctors will have the final say on his travel availability. They've made it clear at least for now. He's got the green light to hit the road. Writing in a statement yesterday since returning home his physical exam has remained stable and devoid of any indications to suggest progression of illness. The President's health also the subject of two major stories unfolding tonight. On Capitol Hill, House Speaker Nancy Pelosi through her support behind legislation that would establish a panel of experts to determine whether a president lacks the mental or physical capacity to carry out the job. That move coming just days after the President's COVID diagnosis."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "utterance": "This is not about President Trump. He will face the judgment of voters. But he shows the need for us to create a process for future presidents."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "The Commission for presidential debates, meanwhile, continues to insist that the upcoming debates slated for October 15th be conducted virtually because they say they simply haven't been given enough information about the President's recent diagnosis. Trump campaign is balked at the change promising a rally instead on the Biden camp is now planning a town hall events. This as the debates moderator, C-SPAN Steve Scully insist his Twitter account was hacked. That's his explanation for a tweet to former Trump staffer turned critic Anthony Scaramucci, asking about whether to respond to the President."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "Also tonight, Bret, we have learned that the White House has upped its COVID relief package offer to Congressional Democrats $1.8 trillion from Treasury Secretary Steven Mnuchin. You may remember the House Speaker Nancy Pelosi was looking for $2.2 trillion. No word on her response to the latest bid by the White House, Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "More on that with the panel. Kevin Cork live in the north lawn. Kevin, thanks. As Kevin just reported the C-SPAN host who was supposed to moderate the second presidential debate says his Twitter account was hacked. the Trump campaign is expressing skepticism today. Correspondent Rich Edson is digging into that tweet controversy, raising more questions about impartiality. Good evening, Rich."
+    },
+    {
+      "speaker": "RICH EDSON, FOX NEWS WASHINGTON CORRESPONDENT",
+      "utterance": "Good evening, Bret. And there is an investigation into this now. C-SPAN Steve Scully claims that Twitter -- his Twitter account was hacked. Scully is scheduled to moderate the second presidential debate that was originally set for next week, though that now appears to be cancelled. The Commission on Presidential Debate says \"Steve Scully notified us that his Twitter account was hacked.\" CPD reported the apparent hack to the FBI and Twitter. And we understand that the Federal authorities and Twitter are looking into the issue. Twitter declined to comment on the investigation whether it had confirmed the hack or if it's even looking into the incident. U.S. officials have been warning for months of attempts by foreign governments with sophisticated hacking operations that are attempting to interfere in this year's election. This is also at least the third time Scully has claimed his Twitter account was hacked. Journalist Yasser Ali unearth to tweet from May 2012 where Scully apologizes and says his account was hacked. The following March he says he was hacked again. Those tweets were still up this afternoon. There is also a reported tweet from 2016 where Scully shares in New York Times opinion piece titled Not Trump, Not Ever. The President and his allies are using this episode to paint the debates is unfair. Many others including the first debate, moderator say Scully is impartial."
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "utterance": "Steve Scully is an honorable man. He's a fair reporter, he says, and the Commission says that he was hacked and until it's contradicted, I'm going to believe Steve Scully. He's has a very good reputation in this business, and I find it hard to believe that he would be lying about it."
+    },
+    {
+      "speaker": "EDSON",
+      "utterance": "Scully's account was deleted this afternoon. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Let's confirm it. Rich, thank you. Joe Biden is hosting campaign events in Las Vegas today. But he is being dogged by and has yet to answer continued questions about what he'll do when it comes to pack in the Supreme Court if he's elected. Correspondent Peter Doocy is in Las Vegas tonight."
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS CORRESPONDENT",
+      "utterance": "In a sign of the times today, Joe Biden was greeted by a masked mariachi band."
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL NOMINEE",
+      "utterance": "If I win, you're getting an invitation to Washington."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "On the second day of a West Coast swing, the Democratic nominee tailored his pitch to Latinos."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "One in three Latino businesses have closed and the deep racial and justices that Trump continues to fan the flames of is just wrong."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "And he's hoping people here are still thinking about him next week."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "Early voting right here, right at this spot. So, come back next weekend, bring your family and bring five friends."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "For weeks, Biden and Harris have avoided answering questions about expanding the Supreme Court and filling new seats with liberals."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Senator Harris, should Democrats try to pack the court next year?"
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "(INAUDIBLE) court packing when the election is over."
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS (D-CA), VICE PRESIDENTIAL NOMINEE",
+      "utterance": "Let's talk about packing."
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT OF THE UNITED STATES",
+      "utterance": "Once again (INAUDIBLE) non-answer."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Harris' answer has been located in a 2019 clip circulated by the RNC."
+    },
+    {
+      "speaker": "HARRIS",
+      "utterance": "And I'm open to this conversation about extending the number of people in the United States Supreme Court about increasing the number of people in the United States Supreme Court."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "That's likely not something Biden will be asked about at a town hall debate in Miami next week."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Mr. Vice President, is the second debate totally dead?"
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "His answer through the mask and add a distance appeared to be I think so. It was much easier to hear him joke about wrangling up political opponents."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "I got a couple people I'd like you to last though. Are you ready to"
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Well, just a few minutes ago, we found out that second debate is totally dead. The Wall Street Journal is reporting the commission just straight up canceled the October 15th showdown. And that means we might see a lot more events like what you see behind us. The tail-end of a Democratic drive through. Joe Biden just exited the stage where he addressed about 200 cars full of people. And today's attendees could do something when they liked what they see that they could never do at a show on the strip 20 minutes away. Honk a horn. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Peter Doocy in Las Vegas. Peter, thanks. We have reached out to both the Biden and Trump campaigns and offered to host town halls on Fox News. We're awaiting responses. We should also continue to mention that our requests for one on one interviews with former Vice President Biden, Senator Harris and President Trump continue week by week on \"SPECIAL REPORT.\" Secretary of State Mike Pompeo says he is working as fast as he can to release e-mails from former Secretary of State Hillary Clinton's use of a private server. President Trump has been critical of Pompeo over that delay."
+    },
+    {
+      "speaker": "MIKE POMPEO, UNITED STATES SECRETARY OF STATE",
+      "utterance": "Was classified information on a private server should have never been there. Hillary Clinton should never have done that. I was unacceptable behavior. I certainly think there'll be more to see before the election."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "President Trump has also criticized the Attorney General William Barr for not announcing prosecutions related to the ongoing investigation into the origins of the 2016 probe of then candidate Trump's alleged ties to Russia. We're learning new information tonight about the alleged insurrection plot in Michigan that featured a plan to kidnap Democrat governor Gretchen Whitmer. Here's correspondent Garrett Tenney."
+    },
+    {
+      "speaker": "GOV. GRETCHEN WHITMER (D-MI)",
+      "utterance": "There is ongoing rhetoric, and I think that it's creating a very dangerous situation."
+    },
+    {
+      "speaker": "GARRETT TENNEY, FOX NEWS NATIONAL CORRESPONDENT",
+      "utterance": "Michigan governor Gretchen Whitmer says the threats against her haven't stopped after the arrest of 13 suspects accused of trying to instigate a civil war with plans to storm the state capitol building target police officers in their homes and kidnap Governor Whitmer."
+    },
+    {
+      "speaker": "WHTMER",
+      "utterance": "These are the types of things you hear from groups like ISIS. This is not a militia. It is a domestic terror organization. We need to call it out."
+    },
+    {
+      "speaker": "TENNEY",
+      "utterance": "Today, Whitmer doubled down on blaming President Trump and his administration. saying they encourage this kind of plot."
+    },
+    {
+      "speaker": "WHITMER",
+      "utterance": "Well, anyone who give safe harbor to or encouragement to is complicit. And that's precisely what he did on the national stage in the middle of a presidential debate when he said, stand by."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "He's complaining but it was our justice department that arrested the people that he was complaining about. It was my justice department that arrested them. But instead, she goes and does her little political act and she keeps her state close."
+    },
+    {
+      "speaker": "TENNEY",
+      "utterance": "The 15-page criminal complaint filed by Federal prosecutors makes no reference to or mention of President Trump, the Republican Party or the Democratic Party. What's clear though, is that the suspects behind the failed plot to overthrow Michigan's government have ties to an antigovernment militia group."
+    },
+    {
+      "speaker": "CHRIS SWECKER, FORMER FBI ASSISTANT DIRECTOR",
+      "utterance": "We've been chasing these people around for the last 25 years."
+    },
+    {
+      "speaker": "TENNEY",
+      "utterance": "Chris Swecker, a former assistant director of the FBI says these kinds of antigovernment groups have been around for decades."
+    },
+    {
+      "speaker": "SWECKER",
+      "utterance": "They're are not Republican or Democratic. These are people that live by their own rules and they are just all about antigovernment."
+    },
+    {
+      "speaker": "TENNEY",
+      "utterance": "Tonight, Delaware's Democratic governor John Carney is under fire after confirming reports that last year he pardoned one of the ringleaders of the failed kidnapping plot, 44-year old Barry Croft. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Garrett Tenney in Chicago. Garrett, thanks. Two ISIS militants named The Beatles for their British accents are pleading not guilty to terrorism charges. They are requesting a jury trial. A Federal grand jury issued an eight-count indictment earlier this week, accusing them of leading a brutal hostage taking scheme that resulted in the deaths of Western hostages. As mentioned at the top of the show, Hurricane Delta is making landfall right now on the Louisiana Gulf Coast. It has been downgraded to a category two storm but is still packing fierce winds and is headed for the same area that suffered damage from Hurricane Laura in late August. We have Fox team coverage, chief meteorologist Rick Reichmuth shows us where the storm is going, where it's headed. We begin with Steve Harrigan in Lafayette, Louisiana tonight. Good evening, Steve."
+    },
+    {
+      "speaker": "STEVE HARRIGAN, FOX NEWS CORRESPONDENT",
+      "utterance": "Good evening, Bret. The rain is here, the wind is on the way. Already 35,000 people in Louisiana have lost electric power even before landfall. Weeks after being hit by Hurricane Laura, Southwest Louisiana is now being pummeled by Hurricane Delta."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "It feels like it's every other week. I'm just ready for it to be over."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Just get ready. Hope for the best. Hunker down is all you can do."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "Within 10,000 people in Louisiana are still in hotels from the last storm. Debris still lines the roads. Blue tarps still cover the roofs and traffic on the main escape route out slowed to a crawl."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "This one has me concerned. For some reason I'll feel -- I have a feeling of doom about my house."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "In remote areas like Cameron Parish, more than 100 people plan to ride out the storm despite the fact that roads are likely to be flooded, making rescues impossible."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "We can't say for exactly sure we know what this storm is going to do. We know that this is going to exacerbate what is already a bad situation."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "More than 300 workers from Duke Energy are in place to respond to power outages. More than 500 Urban Search and Rescue team members are also ready to respond. They are trained to save people in collapsed structures and trapped by water. National Guard assets are also being mobilized including more than 100 high water vehicles along with watercraft and helicopters. Over the past two days we've seen a lot of people, some elderly, other people with pets, some mothers with small children, just trying to get out of here to safety. It could be a rough 48 hours. Bret, back to you."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Steve Harrigan live in Lafayette, Louisiana. Steve, thanks. Let's find out where Delta is heading. Chief Meteorologist Rick Reichmuth joins us now. Hey, Rick."
+    },
+    {
+      "speaker": "RICK REICHMUTH, FOX NEWS CHIEF METEOROLOGIST",
+      "utterance": "Hey, Bret. Yes, getting very close to the Louisiana coastline, probably making landfall maybe 10 to 15 miles away from where Hurricane Laura did just about six weeks ago. One good piece of news here is the water temperatures right along the go -- along the coast have really cooled significantly over the last couple of weeks. When you have these water temperatures here that you see into the 70s. It's not really enough to be able to sustain a significant storm. That's what we've seen some of the weakening today. Earlier today was a category three storm now down to a category two unlikely weakening pretty quickly here. You can even see that on the satellite representation here really not nearly as organized as it was. All of these things are good news for the folks in Louisiana. Now, that doesn't mean that that energy goes away anytime. Very quickly we're still going to see that storm surge, we're still going to see the moisture. But I think the worst of the winds probably not as bad. Certainly, like we saw earlier in the day to day. Bret, this is the 10th storm. 10th storm this hurricane season making landfall in the continental U.S. It could be the fifth Hurricane, the other fiber tropical storms. This incredibly active 2020 hurricane season is almost done, we have to get through this. Behind the storm, nothing that we're watching right now. And we'll also tell you, we're heading towards the end of hurricane season which is good. Right now, winds into the 40-50 mile an hour range. Probably, it's a little bit stronger as the eye wall is coming on the shore. Center of that storm should be here in a couple of hours. Then we just had a very rainy night and windy night ahead for the folks in Louisiana. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "2020 stinks so far, Rick."
+    },
+    {
+      "speaker": "REICHMUTH",
+      "utterance": "Yes, I think -- it does."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Up next, the controversy and legal fallout over a film on Netflix. First, here is what some of our Fox affiliates around the country are covering tonight. Fox 32 in Chicago, as attorneys for a 17-year-old accused of killing two protesters days after Jacob Blake was shot by police in Kenosha, Wisconsin, fight extradition from his home state of Illinois. Kyle Rittenhouse appeared on streaming video and wear a face mask during a brief court hearing today. Fox 5 in New York with the death of Hall of Fame pitcher Whitey Ford, he had the best winning percentage of any pitcher in the 20th century. Ford was on six World Series winners with the Yankees. Whitey Ford was 91. And this is a live look at Tampa from Fox 13. One of the big stories there tonight. A gaping hole in the New Port Richey continues to expand. That hole opened up on Monday. The latest estimate is that it is 38 feet across, 70 feet deep. That is tonight's live look \"OUTSIDE THE BELTWAY\" from SPECIAL REPORT, we'll be right back."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "The World Health Organization reports a record one day increase in global coronavirus cases, Thursday. It says that total rose by almost 339,000 in 24 hours, led by a surge of infections in Europe. The U.S., meantime, reported 56,000 new cases yesterday, the largest in nearly two months. 28 states showing increases, 20 holding steady, two states are reporting declines. A top U.S. health official says the government expects to have access to more than 1 million doses of Regeneron Pharmaceutical and Eli Lilly's antibody treatments for COVID-19 this year. The plan is to distribute the drug at no charge to patients and to states based on need. The Dow gained 161 today, the S&P 500 finished ahead 30. The NASDAQ jumped 159. The Dow had its best week since early August, picking up about 3-1/4 percentage points. The S&P 500 gained almost four. The NASDAQ was up 4-1/2. Tonight, we look at the fallout from a movie that has drawn both condemnation and critical praise over its subject matter. And now, it's drawing criminal charges against the streaming service where it still being shown. Correspondent Anita Vogel, explains tonight from Los Angeles."
+    },
+    {
+      "speaker": "ANITA VOGEL, FOX NEWS CORRESPONDENT",
+      "utterance": "It's a movie that sparked controversy and conversation around the world. Now, Netflix is facing criminal charges over the French film Cuties."
+    },
+    {
+      "speaker": "SEN. TED CRUZ (R-TX)",
+      "utterance": "This movie, Cuties, that it sexualizes 11-year-old girls, has them dancing like strippers, has them in very suggestive sexual roles, and it's frankly disgusting."
+    },
+    {
+      "speaker": "VOGEL",
+      "utterance": "After its September debut, Texas Senator Ted Cruz and other Republican lawmakers called out Netflix for releasing the movie, which focuses on the story of an 11-year-old Senegalese immigrant who joins a dance group. The State of Texas filed a lawsuit, and a grand jury there indicted the media giant, saying, Cuties, \"depicts the lewd exhibition of the genitals or pubic area of a clothed or partially clothed child. And has no serious literary, artistic, political, or scientific value.\" Netflix initially apologize for inappropriate artwork for the promotional poster before it was released, but is defending the content of the film. Saying in a statement, \"Cuties is a social commentary against the sexualization of young children. This charge is without merit and we stand by the film.\""
+    },
+    {
+      "speaker": "VOGEL",
+      "utterance": "Attorney Brian Claypool, who specializes in civil rights and child sexual abuse cases, says one of the biggest challenges Texas prosecutors face is that people have to pay or subscribe to Netflix in order to watch the film. He says prosecutors must prove the sole purpose of the movie is for sexual interest."
+    },
+    {
+      "speaker": "BRIAN CLAYPOOL, CIVIL RIGHTS AND CHILD SEXUAL ABUSE ATTORNEY",
+      "utterance": "If Netflix loses here, this could be perceived as government intervention, censorship, and that could very well define what type of material, platforms can post both through television and any form of social media."
+    },
+    {
+      "speaker": "VOGEL",
+      "utterance": "Netflix did reportedly see some cancellations after releasing Cuties. The film's director-writer says people are missing the point. She says it's a critique of the hyper sexualization of young girls. As for the charges and arraignment date has yet to be set. Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Anita Vogel in Los Angeles. Anita, thanks. Up next, why one of the most powerful Republicans in the Senate is fighting hard to hold onto his job?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "One of the most surprising Senate races this fall is in South Carolina, where long-time Republican incumbent, Lindsey Graham, is trying to hold off Democrat Jaime Harrison. Chief congressional correspondent Mike Emanuel takes a look tonight."
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS CHIEF CONGRESSIONAL CORRESPONDENT",
+      "utterance": "South Carolina Senator Lindsey Graham is in the fight of his political life, as he's about to lead the confirmation process for Judge Amy Coney Barrett. A recent Quinnipiac survey suggests it's a dead heat with both Graham and Democrat Jaime Harrison with 48 percent support. Harrison has a money edge and is receiving national attention."
+    },
+    {
+      "speaker": "JAIME HARRISON (D), SENATORIAL CANDIDATE",
+      "utterance": "Lindsey Graham has gone all Washington, D.C. He cares more about his political relevance and power in Washington than doing the job that the people in South Carolina send him to do."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "A debate scheduled for tonight is now off after the two sides could not reach an agreement over COVID testing. Harrison demanded Graham be tested, while Graham declined, saying, he'll take medical direction from a doctor. Graham is trying to link Harrison to Hillary Clinton and House Speaker Nancy Pelosi, hoping that won't play well in South Carolina."
+    },
+    {
+      "speaker": "SEN. LINDSEY GRAHAM (R-SC)",
+      "utterance": "This is a big choice election between me and Mr. Harrison. Capitalism versus socialism. Conservative judges versus liberal judges."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Experts say, Graham leading the Barrett confirmation process plays well with the Republican base. So, Harrison isn't directly attacking that. He's saying Graham is not a man of his word on the issue of confirming a Supreme Court nominee in an election year. As for Graham's very close relationship with President Trump, one South Carolina analyst says there could be coattails, but it's not going to be easy."
+    },
+    {
+      "speaker": "JOSEPH STEWART JR., PROFESSOR, CLEMSON UNIVERSITY",
+      "utterance": "The difference now is he's got a very capable and well-funded Democratic opponent. The Harrison campaign has been very professionally run."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Typically, the big fight in South Carolina is during the Republican primary but not this cycle, and a grand loss would go a long way toward Democrats push to be in the majority, and be a huge prize for the progressive left. Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Mike Emanuel, thanks. About 50,000 voters in Franklin County, Ohio have reportedly received inaccurate absentee ballots. Election officials there say replacement ballots will be mailed-out within 72 hours. A federal judge has denied a motion to extend voter registration in Florida even though a computer meltdown might have invented thousands of potential voters from taking part in November's presidential election. The Florida election officials say 50,000 people registered during extra time Tuesday, but that 20,000 more could have signed up to vote if the system had not crashed. In tonight's Focus on Faith, the president's Supreme Court nominee Amy Coney Barrett has taken fire from Democrats over her Catholicism and how it might influence her rulings. Religion correspondent Lauren Green has their story from New York."
+    },
+    {
+      "speaker": "LAUREN GREEN, FOX NEWS RELIGION CORRESPONDENT",
+      "utterance": "She's a devout Catholic, pro-life, and associated with a conservative religious group called People of Praise, a tight-knit Christian community believing in traditional gender roles, with husbands as head of the household. The media has been intensely focused on the connection."
+    },
+    {
+      "speaker": "ALEX MCFARLAND, SOUTHERN EVANGELICAL SEMINARY",
+      "utterance": "They want to hone in on this and say, well, this is clearly a group with deeply held Christian convictions, therefore this will invariably skew her decision-making process, and therefore she is unfit."
+    },
+    {
+      "speaker": "GREEN",
+      "utterance": "The scrutiny is a continuance from Barrett's 2017 confirmation hearing as an appellate judge in which Senator Dianne Feinstein asserted --"
+    },
+    {
+      "speaker": "SEN. DIANNE FEINSTEIN (D-CA)",
+      "utterance": "The dogma lives loudly within you."
+    },
+    {
+      "speaker": "GREEN",
+      "utterance": "The focus on Barrett's faith prompted Senator Mitch McConnell to issue a simmering press release, saying \"The ongoing attacks by Senate Democrats and the media on Judge Barrett's faith are a disgrace. They demean the confirmation process, disrespect the Constitution, and insult millions of American believers.\" Pundits say the greatest concern is whether Barrett's religious beliefs put Roe v Wade in jeopardy, the 1973 decision that legalized abortion. Senator Richard Blumenthal of Connecticut, who sits on the judicial committee, told \"The Guardian\" newspaper he had no plans to ask Barrett about her religious beliefs, but that \"the arguments against her are so powerful and persuasive on the merits that we should focus on them.\" The Constitution's Article Six states there should be no religious test to hold public office."
+    },
+    {
+      "speaker": "PATRICK HORNBECK, FORDHAM UNIVERSITY PROFESSOR",
+      "utterance": "The no-religious test clause was designed originally to stop litmus tests that would say a Roman Catholic or an atheist or a Jewish person couldn't serve in a particular office. But I think the American people deserve to know and have the right to know the ways in which any public servant will balance their political, their religious, and their philosophical commitment."
+    },
+    {
+      "speaker": "GREEN",
+      "utterance": "Barrett said she would rule according to law, not personal convictions. The confirmation hearings begin Monday morning. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And we'll have full coverage. Lauren, thank you. Next up, the panel on the president's radio rally with Rush Limbaugh, and the reported hacking of a debate moderator's Twitter account, now the canceling of that debate."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "The other one is from C-SPAN, and he's a never Trumper, and I think somebody said he worked for Biden at one point. These are the people I get. And that's OK, because I've had some bad ones over the years, and I've got an unblemished record, I think, in the debating world."
+    },
+    {
+      "speaker": "FRANK FAHRENKOPF, PRESIDENTIAL DEBATE CO-CHAIRMAN",
+      "utterance": "I don't know about this question of whether he tweeted something out. I do know, and you probably pick up on it in a minute, that he was hacked. There is apparently something now that's been on television and the radio saying he talked to Scara -- the guy who was in the White House --"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Scaramucci."
+    },
+    {
+      "speaker": "FAHRENKOPF",
+      "utterance": "Scaramucci, and that he's been talking to Scaramucci. He was hacked. It didn't happen."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Talking there about Steve Scully from C-SPAN. C-SPAN put out a statement saying \"Last night a tweet from Steve Scully, C-SPAN's political editor, appeared on his timeline communicating with Anthony Scaramucci. Steve Scully did not originate the tweet, believes his account has been hacked. The Commission on Presidential Debates stated publicly that the tweet was not sent by Scully himself and is investigating with the help of authorities.\" All that aside, now we're getting news that this debate is officially canceled, not even virtual. It's just off, as the hope is that the debate in Nashville will stay on. Let's bring in our panel, Charles Lane, opinion writer for \"The Washington Post,\" Republican strategist Lisa Boothe, and Bill McGurn, columnist for \"The Wall Street Journal.\" Lisa, your thoughts on this as we get news that this it's just done."
+    },
+    {
+      "speaker": "LISA BOOTHE, FOX NEWS CONTRIBUTOR",
+      "utterance": "I think first and foremost, I think the Commission on Presidential Debates as well as C-SPAN are potentially doing reputational harm to themselves by claiming this was hacking, because if you look at the exchange with Anthony Scaramucci, it certainly looks like this was a part of a broader conversation. So I think they need to be honest with the public about that. But I think there's also questions of why Steve Scully, given the fact that he interned for Joe Biden, given the fact that he was a staffer for Ted Kennedy, given the fact that he's previously tweeted out, no, not Trump, never, in 2016, all raise questions about his impartiality, period, and why he was ever chosen as a debate moderator. So I think at a time where there are a lot of people in the country that view the media negatively, that have distrust in the media, rightfully so, this was an unwise choice, and also perhaps an unwise response as well."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK, Chuck, but we're not saying that this is cancelled because of the choice of the moderator. It seems like all kinds of factors are going into this decision. But politically, how does that play at this point in the race? CHARLES LANE, OPINION WRITER, \"WASHINGTON POST\": Wow, that's a hard one, because in some ways you could almost see this as a benefit for Trump because his performance in the first debate was so bad. On the other hand, he needs another shot at Biden to somehow remedy the damage of the first one and restore his standing in the polls. Watching Joe Biden and his team deal with this information and this news, you get the impression that they are just throwing up their hands and figuring, look, we're ahead. We seem to be increasing our lead, we don't need to fight for more debates. We can live with doing away with this one. You would think the president would not want to appear like he is shrinking from this fight, but I think on balance, that's kind of the way it looks."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Bill, he's obviously doing a lot of interviews, the president is, for long periods of time, obviously friendly territory in Rush Limbaugh, but almost two hours, answering questions, all kinds of questions. Your thoughts on this?"
+    },
+    {
+      "speaker": "BILL MCGURN, FOX NEWS CONTRIBUTOR",
+      "utterance": "It's not either-or. Any time I think a candidate can have access to Rush Limbaugh's audience, it's a huge audience, I think that he ought to take it. I personally would think that he would benefit by having a debate, but I think he also has legitimate complaints. We have an editorial today in \"The Journal\" saying we should get rid of the Commission on Presidential Debates and the moderators. Let the parties control -- let them negotiate themselves. I think it's absurd to have a commission announce who is going to go, when, and under what format rather than the parties negotiate themselves and come to some agreement. So I think the president is drawing attention to that, has some legitimate complaints, and he's probably calculated that he's better off going off on his own. He's certainly proving as disruptive as he was in 2016 by not agreeing to the conventions that other people just agreed to."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "The commission says -- they were formed more than 30 years ago because the parties could get together, they could never agree. But your point is taken, Bill. Lisa, let's talk about congressional negotiations and the White House negotiations on possible additional stimulus. Take a listen."
+    },
+    {
+      "speaker": "PELOSI",
+      "utterance": "The president, with no notice to Congress, completely just -- I think he'd been bewildering some of his own people that made his tweet saying that talks are over because I want the focus strictly to be on confirming my Supreme Court nominee. He started to come back little by little, and now a bigger package. So we'll and see what they have to offer today."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I would like to see a bigger stimulus package, frankly, than either the Democrats or the Republicans are offering. I'm going the exact opposite now."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Lisa, now it's at $1.8 trillion, the Democrats were at $2.2 trillion, that's the bill that they passed, but there are other things in that bill. The president did stop negotiations. Where is this politically?"
+    },
+    {
+      "speaker": "BOOTHE",
+      "utterance": "We'll see. There are a lot of political tensions. I think the president probably would like to see a deal get done, maybe more so than Democrats because then they can make the argument that he has denied the American people, particularly given the fact that he has tweeted out that he was in fact the one stepping away. But simultaneously, I think Republicans really need to dig in on what Nancy Pelosi has been saying this week regarding the coronavirus, and also invoking the 25th Amendment and putting that bill forward, because you have Nancy Pelosi saying that President Trump is somehow now altered because of the therapeutics that he received to fight the coronavirus. So what does that do to the American people? It draws into question the efficacy of therapeutics that have been saving lives in the country, and if you look at since March alone, have been largely responsible for a 90 plus reduction in mortality. So you have Democrats that are actually acting recklessly in undermining American confidence in those therapeutics, which really is the same thing that Kamala Harris has been doing on the vaccine as well. So I actually think that gives President Trump and Republicans an opening on coronavirus to go after Democrats on that very issue."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Not only that, but Chuck, you're essentially negotiating with somebody that says you're hopped up on steroids. So this is not going to get done in 25 days."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "I hate to say it, Bret, but sometimes his negotiating position makes me think he might be not thinking all that clearly, because just in this tape you just played he said I want something bigger than either the Republicans or the Democrats, frankly. If he's serious about that, then he needs something even bigger than the $3 trillion plus bill Nancy Pelosi put through the House back in May. And that hasn't even been close to the position that Steve Mnuchin has been talking about when he's been dealing with Pelosi up till now. He has really scrambled these talks to no apparent purpose over the last week. And I think we have seen, this has rattling a lot of Republicans, especially House Republican candidates who are in the country trying to run on something constructive about the situation in the economy, and he is leaving the table, coming back to the table."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Bill, quickly, it is the Republicans in the Senate and the House that are saying, listen, we can't go any higher than we're going."
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "Yes, I think these are both distractions. One, the 25th Amendment commission is a joke. It would be approved by Mitch McConnell's Senate, much less signed by President Trump. So it's going nowhere. It's a stunt. I think at this point even a coronavirus aid bill, I understand why politicians want to have it. I think Donald Trump would be better emphasizing the difference between the two campaigns. He belongs to the party, leads the party that is in favor of getting the economy back up and running, and Joe Biden is the guy that said if a scientific advisor told him to shut it all down, he'd shut it all down. I think that's what people have to be voting on."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Up next, a quick Friday Lightning Round. Keep it here."
+    },
+    {
+      "speaker": "SARA GIDEON (D), MAINE SENATE CANDIDATE",
+      "utterance": "If it were in the Senate, I would want to make sure that someone, first of all, met that low bar of being qualified, but additionally I'd want to make sure that they had the temperament. I'd want to make sure that they have respect for precedent."
+    },
+    {
+      "speaker": "SEN. SUSAN COLLINS, (R-ME)",
+      "utterance": "The judicial appointment process has become far too political. A perfect example of that is members of the Senate announcing their opposition to President Trump's nominees before the nominees' names were known. That is not what senators are supposed to do."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Maine Senator Susan Collins there. I asked each of the panelists to pick a Senate race they are following. Chuck, let's start with you. This is Maine. The incumbent, Susan Collins, is trailing Sara Gideon, the Democrat there. But recent polls, this is the average of polls, about 3.7, recent polls say it's getting pretty tight."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "The drama in Maine is, is there still room in American politics for a true middle-of-the-roader, which is what Susan Collins has been throughout her career. Her unfavorable rating is now 49 in a state where she has always won election and reelection very easily. I think she may be in trouble. And this is one if the Republicans lose it, their chances of controlling the Senate are dim."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Lisa, you chose North Carolina. Take a listen."
+    },
+    {
+      "speaker": "SEN. THOM TILLIS (R-NC)",
+      "utterance": "The truth does matter. Cal Cunningham said that. He's founded an entire campaign on it, and now we know that these affairs were going on with the wife of a combat veteran while he was in the midst of this campaign. It's a hypocrisy that I think the North Carolina voters will reject."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Senator Thom Tillis there. The polls have Cunningham up, but the latest polls really didn't start coming out with this affair that Cunningham is having a hard time dealing with. Lisa?"
+    },
+    {
+      "speaker": "BOOTHE",
+      "utterance": "And he had a press conference today and refused to answer questions if there were additional women, which the implication would be that there might. And why this matters is what Senator Thom Tillis was saying, the fact that he has ran as a candidate of honor, integrity, a family man. So this directly undercuts the narrative that he has presented about himself and calls into question his authenticity. So I think that's where it matters. And you see groups like the Senate Leadership Fund up on air with attack ads against him."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK, let's go to Bill's pick which is Michigan. Take a listen."
+    },
+    {
+      "speaker": "SEN. GARY PETERS, (D-MI)",
+      "utterance": "Michigan, as you know, is a battleground state, absolutely essential to the presidential race, and we have a very real shot to take the majority in the Senate, but we have to hold my seat."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "That's incumbent Gary Peters up by roughly five points in the Real Clear Politics average. Bill, why do you like this race?"
+    },
+    {
+      "speaker": "MCGURN",
+      "utterance": "It's interesting, because John James, the Republican candidate, very attractive individual. He would be the first black senator from Michigan. He's a West Pointer, an Iraq vet. The race is -- he's behind. This is an uphill struggle, but it's still tight, and there's still lots of undecideds. So this is one to watch."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK, guys, I wanted to focus on the Senate races and I wanted to give that time, so we don't have time for Winners and Losers, so I'm the loser on timing out of this panel. But thank you very much."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And we'll see you next week. When we come back, \"Notable Quotables.\""
+    },
+    {
+      "speaker": "BOOTHE",
+      "utterance": "Can we be winners?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Yes, you are all winners."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All right, I'll give you the panel's winners, how about that. Chuck choose the FBI for thwarting the attack against Governor Whitmer in Michigan. Lisa chose COVID therapeutics for all the success there has been. And Bill chose Mike Pence for a great debate. There you go. At least I got the winners in. Finally tonight, it's Friday, that means \"Notable Quotables.\""
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Hi, perhaps, you recognize me. It's your favorite president. I think this was a blessing from God that I caught it. I'm back because I'm a perfect physical specimen, and I'm extremely young."
+    },
+    {
+      "speaker": "PELOSI",
+      "utterance": "I think he was medicated. DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTES OF ALLERGY AND INFECTIOUS"
+    },
+    {
+      "speaker": "DISEASES",
+      "utterance": "He certainly looks good."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Our motto is, knock us down seven times, we'll stand up eight."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "There are a lot of folks that look like me that are tired of the comments and the derogatory remarks that are made because of our political philosophy."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "This was not a peaceful transition of power. They went after candidate Trump."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "And I want to see these beautiful young ladies. I want to see them dancing when their four years old, too."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Please vote."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Take your clothes off and vote."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Raccoons, man. Get!"
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "The only responsible response to that would be to pass legislation making Roe the law of the land."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Hatred, bigotry, and violence have no place in the great state of Michigan."
+    },
+    {
+      "speaker": "HARRIS",
+      "utterance": "The American people have witnessed what is the greatest failure of any presidential administration in the history of our country."
+    },
+    {
+      "speaker": "PENCE",
+      "utterance": "They'd like to know if you and Joe Biden are going to pack the Supreme Court if you don't get your way in this nomination. I just want the record to reflect she never answered the question."
+    },
+    {
+      "speaker": "HARRIS",
+      "utterance": "Mr. Vice president, I'm speaking, I'm speaking."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "The fly seen round the world. Listen, this weekend on FOX News Sunday, Chris Wallace will speak with two members of the Senate Judiciary Committee ahead of the start of confirmation hearings for Judge Amy Coney Barrett, Republican Ben Sasse and Democrat Chris Coons. Check your local listings for air times. We'll have complete coverage on Monday for the start of those hearings. Thanks for inviting us into your home tonight. That's it for this SPECIAL REPORT, fair, balanced, and still unafraid. \"The Story\" hosted by Martha MacCallum with a few extra seconds on a Friday starts right now. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC.  All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

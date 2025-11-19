@@ -1,0 +1,1529 @@
+{
+  "date": "August 8, 2019",
+  "headline": "Lawmakers propose 'red flag' laws after deadly shootings",
+  "subHeadline": "Guests: Brandon Judd, Kelly Jane Torrance, Danielle Shay, George Seay, Tim Anderson, Madison Gesiotto, Jeanne Zaino, Caitlin Owens",
+  "url": "https://www.foxnews.com/transcript/lawmakers-propose-red-flag-laws-after-deadly-shootings",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "NEIL CAVUTO, ANCHOR",
+      "sentences": "All right, Shepard. And, indeed, the Dow Jones industrial storming back today, up about 376 points. Interest rates kind of stabilized today. Tech shares were back. Even Disney, which was getting hammered yesterday, reversing course and moving forward.  So all good at the corner Wall and Broad. We're going to have a lot more on that momentarily.  In the meantime, big story of the day is the Democratic presidential candidate Kamala Harris rolling out her first campaign ad.  Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS, D-CALIF., PRESIDENTIAL CANDIDATE",
+      "sentences": "The biggest middle- class tax cut in a generation, another $500 in your pocket every month, paid for by repealing Donald Trump's tax breaks for the top 1 percent and the richest corporations in America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, but can rescinding those tax cuts pay for it all?   Welcome, everybody. I'm Neil Cavuto, and this is \"Your World.\" To FOX Business' Hillary Vaughn in Des Moines, Iowa, where we're hearing more about the Harris plan -- Hillary.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HILLARY VAUGHN, CORRESPONDENT",
+      "sentences": "Hey, Neil.   Well, this ad buy is rolling out through airwaves in Iowa just in time for the Iowa State Fair, where over 20 Democratic candidates hoping to get the presidential nomination have been making their pitch to Iowa voters. We kicked it off this morning with Montana Governor Steve Bullock. And we also heard from former Vice President Joe Biden. But Senator Kamala Harris is definitely at least on people's TV screens now here in Iowa with this ad buy. And she is pitching her basic income plan, which would give Americans 500 bucks every month in a basic income.  This is not the first candidate that has floated this idea. We also heard businessman Andrew Yang campaign on this idea from the very beginning, but offering twice as much money to voters.   Now, Harris says she will pay for it by rolling back President Trump's tax cuts to businesses that she thinks didn't hit the middle class enough. But a new Monmouth poll shows that not only is Biden still in the lead in Iowa, or among Iowa Democrats and independents, but there is someone gaining on him. Senator Elizabeth Warren is polling at 19 percent from where she was at 7 percent in April. Now, Elizabeth Warren and Harris and Sanders are all pitching progressive policies. We talked to Montana Governor Steve Bullock in a one-on-one before he took to the soapbox today.  And he told me that he thinks these progressive policies will not play well here in Iowa or the rest of Middle America. He says his edge is because he's in a state where everyday Americans want solutions, not progressive promises.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. STEVE BULLOCK, D-MONT., PRESIDENTIAL CANDIDATE",
+      "sentences": "Getting out of the Twitterverse and actually talk to people. I'm not sure some of these folks out there have even spoken to those Obama, Obama/Trump voters.  What I see is, people don't want free everything. They just want a fair shot in this economy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "VAUGHN",
+      "sentences": "Neil, so we're going to be hearing from a whole roster of candidates over the next several days really making their pitch to caucus- goers here in Iowa -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, thank you very much, Hillary Vaughn in Iowa. And then there is the New York City mayor, Bill de Blasio, who, well, sparred with our own Sean Hannity on just how high he thinks taxes should go for the wealthy. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MAYOR BILL DE BLASIO, D-NYC, PRESIDENTIAL CANDIDATE",
+      "sentences": "Regular folks who make over $2 million in income...  SEAN HANNITY, HOST, \"HANNITY\": Seventy percent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DE BLASIO",
+      "sentences": "Seventy percent, when you combine everything.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HANNITY",
+      "sentences": "That means they get to keep 30 percent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DE BLASIO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HANNITY",
+      "sentences": "OK, you take 70 cents out of every dollar.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DE BLASIO",
+      "sentences": "Again, how long did we have in this country? For decades. Dwight Eisenhower, John F. Kennedy, that was the tax rate then.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HANNITY",
+      "sentences": "Seventy cents out of every dollar.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "John F. Kennedy had lowered that tax rate. It came to fruition sadly after his death, but 70 percent just for starters.  Let's get the read from Axios reporter Caitlin Owens, Iona College political Professor Jeanne Zaino, and the former White House Press Secretary Ari Fleischer.  Ari, end it with you. Let me get your take on this, then. The quickest way to endear yourself to the base of the party, at least given some of these progressives' view, tax the rich. What do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARI FLEISCHER, CONTRIBUTOR",
+      "sentences": "Yes, didn't we see a lot of that during the Obama era?   And what did we have? We had low growth and flat wages. I mean, you can't hurt working-class people more when your policies target those who give you your jobs, and they stop you from getting a pay increase.  But, look, Neil, there is one intriguing idea, and I think it's Andrew Yang's. I'm not sure if Harris is calling for a $500 tax cut for people with families or is it a half-a-Yang, where -- giving them $500 a month instead of $1,000 a month. I find the universal income intriguing. I really think, in exchange for abolishing all welfare programs, other than disability and Medicaid, it's an idea we ought to think about. What happens now is, you get things from the government if you behave in a certain way. I'm in favor of abolishing all those welfare programs. I want to discuss abolishing all those welfare programs in exchange possibly for a $500-$1,000-a-month payment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, we will talk about that another time. But, Caitlin, one other thing that's come through here is this notion that -- very creative when it comes to ways of getting revenue, not necessarily ways of controlling the spending of that revenue. I could fault Republicans just as much on that. They're the ones who are piling up these trillion-dollar deficits for the next couple of years as part of this budget deal. So neither party is that gung-ho on this, but what do you make of it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAITLIN OWENS, AXIOS",
+      "sentences": "You know, it's interesting.  I think you're right. The one thing that strikes me about Democrats this cycle is there's very much this message, as you pointed out, of redistributing money from the wealthy back to the poor and the working class. You're seeing these tax plans, even just that trickles into the health care plans that we're seeing with Medicare for all and whatnot. But the interesting thing here is, this is kind of -- some of it is the same language that Trump used, this idea of hitting back against the establishment that is screwing you over, kind of power to the little guy thing.  And I think Democrats are really trying to kind of take that narrative and make it theirs and point out, OK, hey, these tax cuts, Trump campaigned as your friend, but these tax cuts went to the top 1 percent. So I think part of it, when we're talking about appealing to the Obama- Trump voter, I think that that's part of the strategy here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You know, I'm just wondering where this goes though, Jeanne, because, obviously, it's appealing to say, all right, whatever we're doing, we're not going to hit you. We're going to hit the top 1 percent. We're going to hit corporations.  I think Joe Biden is a fan of reversing some of the corporate tax cuts, not all of them, but bringing it up to 28 percent from the 21 percent it's at now, and but still not the 35 percent it was, but that that soothes voters, because, OK, at least it's not going to be on me.  What do you think of that? rMD-BO_JEANNE ZAINO, IONA COLLEGE: Yes.  And I think that's exactly the message the Democrats are trying to send. Lookit, Democrats have a problem. The party, particularly in the primaries season, has moved very far to the left. And they are going out with a number of very expensive proposals, from health care for all that is government-paid, to things like free education and all kinds of expensive proposals. Well, those have to be paid for. And so they are struggling to find a way to pay for those. And I think one of the big difficulties...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "I don't think they're struggling too hard, though, neither side, right? No one seems to really care about the price tag or how they can justify it. Right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ZAINO",
+      "sentences": "Well, I think the price tag is important.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Oh, I agree with you. I fully agree with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ZAINO",
+      "sentences": "They have to be able to pay for these programs. And the problem for them is, tax cuts are not incredibly popular. You look at polls, and it's not the most important issue. Sure, people want their own taxes cut. But when you ask them what they care about, tax cuts are not very high on the list. So Democrats are going to have to walk this fine line. We want these expensive programs. How are we going to pay for those? We're going to pay for those on the back of the rich. And they're going to be really fighting a war that the Democrats and Republicans were fighting before Ronald Reagan was elected, quite frankly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, they're gunning for rich guys like Ari, I guess.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But, Ari, one thing that I found interesting in this whole battle is that that will go a long way to evening things out, and the unevenness of society, this dichotomy between the very rich and the very poor will be addressed by forcibly sticking it to the rich. It's a popular theme. How do you think it's going to fare?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FLEISCHER",
+      "sentences": "Democrats have historically had the advantage when it comes to sounding compassionate, but then, when you look at their policies, and particularly, again, go back to the eight years of the Obama era, poverty went up, food stamps spending went up. Unemployment, despite coming down, didn't benefit working blue-collar people, because, as I said earlier, wages were flat for 10 years. You get the Trump economy, and what you have here is tax cuts for job creators, and the economy is revving to the point now where wage growth, salaries, hourly wages for middle-income, lower-income people are going far faster than white-collar workers, 5 and 6 percent growth. We haven't seen that since the '90s. This is the type of thing that delivers results for people, as opposed to Democrats sounding compassionate, but all they end up doing is raising everybody's taxes and putting more people into poverty.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Boy, you got me out of left field. I didn't think you were going to criticize the Democrats on that one, Ari.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But no, seriously, guys, thank you all very, very much. I appreciate it.  The battle is on how to pay for a lot of this. In the meantime, a question from conservatives in general: Would you put down that pint of Ben and Jerry's Chunky Monkey, knowing that Ben and Jerry's give to liberal causes? Now a question for liberals: Would you stop working out at a fancy- schmancy gym owned by someone who supports President Trump? Well, get ready for a boycott that, well, is kind of over the top.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, follow the money and follow the customers right out the door. The billionaire owner of the Equinox and SoulCycle gym chains really could find out the hard way how supporting President Trump just might cost him. To FOX's Jonathan Hunt with the latest on that.  Hey, Jonathan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONATHAN HUNT, CORRESPONDENT",
+      "sentences": "Good afternoon, Neil. Stephen Ross is reportedly worth some $7 billion. He owns the Miami Dolphins and is chairman of the Related Companies, a global real estate development firm. But in the age of consumer boycotts, it's his in there in the fitness chains SoulCycle and Equinox that is attracting the most attention in the wake of the news that Ross is to hold a fund-raiser for President Trump in the Hamptons tomorrow. Equinox and SoulCycle both responded on Twitter to the boycott calls, Equinox saying -- quote -- \"Equinox and SoulCycle have nothing to do with the event and do not support it,\" while SoulCycle says the company believes in -- quote -- \"diversity, inclusion and equality.\" While Stephen Ross issued a statement saying in part -- quote -- \"I have known Donald Trump for 40 years. And while we agree on some issues, we strongly disagree on many others, and I have never been bashful about expressing my opinions.\" And he added: \"I have and will continue to support leaders on both sides of the aisle.\" On the subject of political donors, President Trump went after Democratic Congressman Joaquin Castro for releasing names of GOP donors in his San Antonio, Texas, district.  The president tweeted -- quote -- \"I don't know who Joaquin Castro is, other than the lesser brother of a failed presidential candidate (1 percent), who makes a fool of himself every time he opens his mouth. Joaquin is not the man that his brother is, but his brother, according to most, is not much. Keep fighting Joaquin. \" Congressman Castro has pointed out, by the way, that the names of all the donors are public information, freely available from the Federal Elections Commission -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, Jonathan, thank you very, very much, Jonathan Hunt on all of that. So, picture if you're a conservative and you don't like someone who gives to a liberal cause, but you love the product they make, i.e., Ben and Jerry's , right, or if you are of a liberal bent and you don't like an establishment whose biggest investor gives to Donald Trump. Is it worth boycotting? Or is it just worth saying, on your own part, well, I'm not too keen on that, and leave it at that? Trump 2020 Advisory Board member Madison Gesiotto. We have also got Fox News contributor Jessica Tarlov. Jessica, I think it's obnoxious either way. You don't like it, you don't like it, fine. But to urge economic impact here or ruin is going a little too far.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JESSICA TARLOV, DEMOCRATIC STRATEGIST",
+      "sentences": "I don't think Stephen Ross is heading for economic ruin on the basis of this. People are expressing their First Amendment rights to say, we're not cool with this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "I'm not talking about him. I'm talking about people who work for him. What if people and facilities are shut down, or what have you? What does that prove?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Absolutely. And I personally, I'm an avid SoulCycler, and I was there this morning.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You and me are, like, separated, yes, exactly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Yes, I know. We always find our inner peace together, Neil. The class was demonstrably less crowded than it usually is. I asked the people at the front desk if this was due to the boycott. They said: \"No, it was a substitute teacher. I'm not sure about that.\" There have been stories about how many people have frozen their Equinox memberships or canceled them. It's obviously a real situation here. The problem is that, in the instance of Stephen Ross, he is going to continue to make the argument that you can support the tax cuts, which I imagine is why he was voting for Donald Trump in this instance -- that's what Republican presidents do provide to people -- and continue to support equality. You will see from his players it will continue to be an issue. Kenny Stills is the most outspoken on the Miami Dolphins. He was one of the first to kneel after Colin Kaepernick. And Ross was actually incredibly supportive of him doing it, as well as two of his teammates, I believe. So this will continue being a back and forth. But I imagine it'll fade away pretty quickly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, I don't know.  I mean, what I see, Madison Gesiotto, is just sort of like, we take this route if we don't like what they're doing. And I -- there are a lot of people, as I say, love to go to Chick-fil-A, great, great sandwiches and everything. There are some who don't like the religious thing pounded on them or the fact that stores are closed on Sunday. But the sandwiches are great, so they put that aside, and they go to Chick- fil-A and eat, they don't care what the bosses are doing or to whom they're giving or their causes they're espousing. The same with Ben and Jerry's. Whatever they want to do with it, or they like Bernie Sanders, good for you. However you feel about that, the Chunky Monkey outstanding.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So why are we getting so nuts about this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MADISON GESIOTTO, CONSERVATIVE COMMENTATOR",
+      "sentences": "Well, and, Neil, it's not just these things that you're referencing, but we saw it with Nike. We have seen it with many companies. And for every single person that ends up boycotting, we end up seeing just as many sometimes that end up coming over and putting an extra support behind these companies. And so, ultimately, it ends up evening out,.  I don't think there will be a significant economic impact. But, at the same time, I don't think it's right, I don't think it's appropriate to target people in this way. And at the same time they do this, it doesn't change the fact that we have a roaring economy. It doesn't change the fact that the average American family of four and last year, in 2018, saved $2000 in their taxes, that their child care tax credit doubled. And so there are a lot of great things that this president has done that is benefiting families.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, I'm even going beyond whether -- whether that was happening or not. And, Jess, one of the things that I see that gets kind of slippery here is, you're using a cause that you might feel very passionate about, and hurting the wrong people. As you said, this investor, he's not going to feel this is. He's a multibillionaire.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "The founder of Chick-fil-A, he's not going to feel this. The Ben and Jerry's, whatever you think about them, they're going to still give to liberal causes and whatever. That's fine. But people realize, I can separate that from the product that they make or the things that they do, because, in the end, if it was to be successful, you damage the workers there much more than the chief operating or executive officer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "That's absolutely true. I do wonder,though, how people can successfully communicate their issues with President Trump, for instance, or their aversion to Stephen Ross holding a $250,000 couple or whatever it is fund-raiser for him tomorrow in the Hamptons.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But did you see anything like this, Jessica, going after those who were giving money to Barack Obama or big causes, corporate or otherwise, in the entertainment community and beyond?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "No, of course not, because we have gotten into silly season now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "No. Well, that -- just because it's liberal doesn't mean that it is silly season.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "No, no, no, no, no. No, I'm just saying, it is derangement. It is derangement, where you take it to the next level.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "Well...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And you want to economically hurt someone. So, Madison, I'm looking at that and saying, everyone's got to calm down here. If you don't like what's happening on the other side, which is fine -- everyone's entitled to their views -- fine. Then leave it at that. But to then economically target them, much like we do with personalities on various news networks, you don't like what they're saying, we're going to boycott them. We're going to go after their advertisers. You can also do something else, turn off the TV.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GESIOTTO",
+      "sentences": "Right. There's no doubt we need to see more political civility in this country. We need people reaching across the aisle, working together to get things done on the local, state and national level. And that starts with us in our communities and encouraging that, and not only within our communities, but within our elected officials. We want to make sure that we're seeing respect on both sides of the aisle to both sides of the aisle. And when it comes to Castro, he didn't even bother to look at the fact that some of these were his own donors too. And so I think it's super disappointing that we're seeing people's disrespect and dislike of President Trump, I think, cause a lot of harm, more than President Trump is causing, that's for sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, we will see. We will sort it out. No boycotts. If you have a problem with me, anybody who has a problem with me, do not take it out, for example, on Chunky Monkey. That's a separate argument.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TARLOV",
+      "sentences": "We will hit another SoulCycle class together, and everything will be repaired.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Yes. I will see you tonight. All right, in the meantime, you are making more money on Wall Street, at least today. Is that because our government is making more money from China? We will explain.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, first Peter Strzok, and now the former FBI Deputy Director Andrew McCabe suing the FBI and the Department of Justice, arguing that his firing, like Strzok's, was politically motivated. And here we go. In the meantime, Monday's big sell-off could be all washed away by tomorrow, so a lot of bulls are hoping and praying and finger-crossing. That is because we made up a good deal of the ground today that was lost. And remember the big comeback we had yesterday, when we were down 600 points or so, and we recouped most of those losses. All of this with the new report that the government is collecting a lot of money from tariffs over the past 12 months. Try about $63 billion. American entities are paying that, of course, distributors who deal in China, trying to buttress you from having to pay that. Regardless, for the administration, that might offer some flexibility in this going forward? That's what they say. What do our panelists say? Market watchers Danielle Shay. We have got Tim Anderson and George Seay. Danielle, to you on whether this buffets the blow enough, because, technically, American entities pay that, whether they pass that along to consumers. They try to absorb as much as they can. Debates about whether they really will be able to do that come September 1, when a lot of consumer items come up for these 10 percent tariffs. But what do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DANIELLE SHAY, SIMPLER TRADING",
+      "sentences": "Well, it's correct when the president says that he's collecting billions of dollars. And that's absolutely true. But this money is going to the Treasury Department. It's not going to the companies that are losing their margins. And so what's happening is that these companies are having to either, A, shrink their margins -- and that's going to impact their corporate profits and their earnings -- or they have to pass the costs along to consumers. And at the end of the day, public -- public companies like this, they have to pass the costs along. So that's what's going to end up happening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, that would slow things down a little bit here. And then, for those companies, George, exposed to China, that could be a big hit. So far, so good, or maybe I should say so fair, but where do you see it happening?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEORGE SEAY, ANNANDALE CAPITAL",
+      "sentences": "I think that if anybody thinks that the federal government is the answer to every problem, this is wonderful news. And for those of us who are conservatives in the private sector, and think the private sector is the strength of America, it's bad news. It's a friction cost on the economy. And it doesn't do anything, unless the federal government cuts its spending, which it hasn't done since the second term of George W. Bush. So I don't think it's any good. And I wish it wasn't around. But we have got to go to war with China. And the president's waging that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You know, Tim Anderson, a lot of this money, they take and give to farmers to help cushion the blow that they're feeling from China stopping buying their goods and all the rest. What do you think of that? Because, eventually, others affected are going to probably demand the same thing, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TIM ANDERSON, TJM INVESTMENTS",
+      "sentences": "Well, I think you stated it perfectly, I think you have to look at these tariffs as almost going into a rainy day fund, where it will be given out as, A, to those people that are being most seriously affected by the trade dispute with China. And, clearly, the independent farmers are probably at the top of that list. Now, if you want to talk about the economy overall, we're a $20 trillion economy. If you're talking 100 billion in tariffs, that's 1/200th of the entire economy. It might affect GDP by one-tenth maybe two-tenths of a percent. I just think that the consumer is strong enough and earnings are growing fast enough and the jobs market is vibrant enough to withstand that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And then there's the Fed in this, right, Danielle, that if it keeps cutting rates, that could cushion the blow a little bit. Do you still see that happening?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHAY",
+      "sentences": "Yes, that's correct. And that could help. And it's going to have to be what the Fed is going to have to do to try to take away some of this impact from tariffs. But,at the same time, you're -- these are two different things. Yes, the Fed can cut rates, and that can help stimulate the economy, cause consumers to borrow more. But that's not going to help them if they're going to Costco and they have to pay much higher prices for things that they buy every single week. So it's just a little bit different.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "George, there are a number of people who are now saying it's possible this is never resolved in the near future. In fact, I think Goldman Sachs, S&P, some of these other firms have said it won't be stopped before the presidential election. Then what?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEAY",
+      "sentences": "Then we just march further onwards. I think that people are looking at this myopically. You have got to look at it holistically. China is a tremendous competitor of ours now, and we compete against them in all sorts of fronts, trade, national defense, global influence, especially in Asia. And this is part of a big picture. And it's going to be going on for the next several decades. It's just one part of the story. And it's not going to end any time soon. It's going to go through at least 2020 election and perhaps beyond that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "If it does, Tim, then what? What do you tell clients?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANDERSON",
+      "sentences": "I just think that the -- that the market will have a very positive response long term for the idea that we are trying to change egregious behavior from China that's probably been going on for 20 years. They have never really lived by the World Trade organization rules. And there are other behaviors that most other countries that we trade with adhere to that they just ignore.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, and then on and on. We wait and wait, right? Guys, thank you all very, very much. Again, the Dow up about 371 points, so these concerns dissipating today, because both sides do plan to talk next month. We will see. Meanwhile, an outpouring of bipartisan support for new gun control laws following those terrible shootings in Dayton, Ohio, and El Paso, Texas. But our Judge Andrew Napolitano says the success of those laws come down to doing one thing, maybe breaking the Constitution -- after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "An uh-oh for Uber, its stock falling 11 percent in after-hours trading. The share-riding company saying that bookings surged more than 30 percent last quarter, but investors battling because Uber's revenue and losses, well, they were more than expected. More after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. PAT TOOMEY, R-PA",
+      "sentences": "I know I have Republican colleagues who voted no on the Manchin-Toomey bill in the past and are now rethinking that. I know the president...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Have you talked to Mitch McConnell, Senator, whether he's open for revisiting this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOOMEY",
+      "sentences": "So I have spoken with the president repeatedly. And the president definitely has an interest. He has not made a commitment to a specific bill, but he's definitely interested in doing something in the background check space. I have spoken with Senator McConnell. And, as usual, Mitch McConnell is about getting a successful outcome.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right. Well, if he's right there, then Mitch McConnell would consider getting some sort of legislation going and maybe giving it consideration in the Senate, because, right now, we're not hearing that. Anyway, Pennsylvania Republican Senator Pat Toomey telling me earlier on FOX Business that a lot of his Republican colleagues are indeed now rethinking some of their previous no-votes on gun control legislation and the like. But our Judge Andrew Napolitano says a lot of those proposed laws won't hold up to constitutional muster. He joins us right now. Judge, what do you mean?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANDREW NAPOLITANO, JUDICIAL ANALYST",
+      "sentences": "Well, Neil, and good afternoon. And it's always a pleasure to be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Same here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "sentences": "The proposal that the president offered the other day is called a red flag law. That's a law by which the federal government would pay the states to change their state laws, so that anybody who wants to raise a red flag -- my next- door neighbor's a little crazy, but he has a gun, I think you should come and take it away from him -- can cause the gun owner to be dragged into court. In some states, the gun is taken away before there's a hearing. And then the hearing decides whether or not the gun owner might abuse it in the future. That's the serious constitutional problem, Neil, because, in this country - - it's been this way for 230 years now -- the presumption of innocence and the due process requirements mean you can only be punished for something you have done in the past, not something you might do in the future. When the old...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But you did say, though, that -- and it was a brilliant column looking at this. You said, you can't do it on the basis of a fear of what a person might do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "sentences": "Correct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But what if relatives or friends are telegraphing authorities, hey, we're worried, we don't like what we're seeing, it concerns us greatly? That was the case of the mother of the shooter in El Paso telegraphing to local officials, should he own a gun? I mean, what's the deal?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "sentences": "You know, when these tragedies happen, there's a natural instinct -- I myself have this instinct -- for the government to want to do something to keep us safe. God forbid something like this should happen again. And now we see that there were red flags.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "sentences": "There were warning signs for both Dayton, Ohio, and El Paso. But the supreme law of the land is the Constitution. And the Constitution simply doesn't permit taking a right away because somebody fears it might be abused in the future. When the Supreme Court last looked at the right to keep and bear arms, it called that a fundamental individual liberty. That's in the same category as speech and privacy and religion. That is the highest category of rights. It can't be taken away because the government fears you might abuse it. It can only be taken away if you have committed a crime in the past.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But would this apply today if our founders knew what would go on today? Now, I know you allude to the fact that a lot of this was meant to address the abuses of governments, of the British government, more to the point, and the right to bear arms to challenge that, not just some inconvenience or hunting issues. But now society has morphed into all of these kind of events where such shootings have gotten increasingly common. Does the government then have an obligation to address what has changed mightily in the 200-plus years since these guys came together?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "sentences": "The short answer to your question is, yes, the government does have an obligation. But the obligation must comply with the Constitution. The government could actually make it easier for people to carry weapons and have them trained in carrying the weapons, so when these things start, or maybe they wouldn't start because the creeps that are about to start them know, hey, the guy next door to me, the guy right there standing next to me in the Walmart is armed, and he's going to shoot me as soon as he sees me take my weapon out. But to take a fundamental liberty away from someone, where will that slippery slope stop? Will the government next week be taking away the freedom of speech because of a fear that you might abuse it, you might arouse a crowd by an incendiary speech? We're not in that business. And we have never been in that business. And that's why we have the Constitution, the purpose of which is to preserve human liberty, even when that liberty is unpopular, especially when that liberty is unpopular.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, very interesting. Judge, good seeing you, my friend, in Washington, D.C., Andrew Napolitano. Nancy Pelosi is leading a lot of lawmakers to the border right now, but should they really be headed to D.C. simply to get something done?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "House Speaker Nancy Pelosi leading a delegation to Central America and McAllen, Texas, as they continue to slam the conditions at these detention centers. According to my next guest, they might be better using their time coming back to D.C. to fix all of that. The National Border Patrol Council president, Brandon Judd, with me right now. Brandon, good to have you back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRANDON JUDD, PRESIDENT, NATIONAL BORDER PATROL COUNCIL",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "They're saying it's still out of control, we have got to do something about it. You would prefer they be back in Washington doing just that. That's the gist of it. Right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUDD",
+      "sentences": "Oh, of course I would. It's great that she's going down to the border to look at the conditions. But the fact that we have overcrowding, that's -- that's an issue that we have already dealt with. We know that there's overcrowding. If she was going down to the border to look at the conditions in order to go -- immediately go back to Washington, D.C., and make appropriate changes, I would welcome that. But the fact is, she already knows that we're overrun, that we're overwhelmed, and that she needs to make the changes. But she's not in D.C. where she needs to be to make those changes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, I always talk to experts like you, Brandon, and others on the other side critical of the work you're doing. In other words, you know drill. And I always hear this talk: On a lot of key issues, we have common ground. So, what is the common ground that both parties share?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUDD",
+      "sentences": "Frankly, I really don't know that there is common ground, except to try to make this a political issue and score political points with their bases. If there was, in fact, common ground, what we would look at is, we would say, we need more funding for better facilities in order to hold these people in humane conditions, if you will. If we don't get that, and they're not giving us the funding, then we're going to continue to hold people in conditions that are less than ideal. And we're going to continue to have the complaints that we get.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But they say that funding was provided, Brandon, they say, and it will address some of that. Is that true?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUDD",
+      "sentences": "It is true. But these facilities don't get built overnight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUDD",
+      "sentences": "These facilities take time. We have got to look at where the failings were to begin with. We knew back in 2014 that we had an issue. We knew that our facilities weren't up to speed. These facilities were built under the Obama administration. But they did nothing to address a future crisis. So, where Speaker Pelosi needs to be is back in Washington, D.C., speaking with her caucus and saying, we have got to actually do something, instead of trying to score these political points that they're trying to do by going down to the border. They don't need to be down at the border anymore. They need to be in Washington, D.C., enacting laws or giving us the money that's necessary for us to have the proper facilities.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, when Nancy Pelosi wrote to the president to bring Mitch McConnell and some of these others to work not only on this, and then separately to deal with gun legislation and all the rest, everyone seems to be in the mood, all right, we will all get to Washington to do this stuff. But that never happens. Now, on this issue, I'm curious as to whether you think the money that's been provided and the help from Mexico to deal with this problem at their southern border is doing it for you, or improving that for you, so that no matter what happens with legislators here, progress is being made on that front, thanks, weirdly, to Mexico.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUDD",
+      "sentences": "And if -- all you have to do is look at the numbers right now, Neil. We have gone down by 50 percent over our high water mark, which was two months ago, in the month of May. So there is actual progress that's being made. I just wish that that progress would be coming from our legislators, instead of the requisite pressure being put on Mexico to do their job. If we had our legislators stepping up and doing what they need to do, this border security issue would go away. But, instead, we're trying to rely on another country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUDD",
+      "sentences": "And, to be honest with you, that country is doing a good job right now. Whether they continue to do a good job into the future, that remains to be seen. But, right now, as we speak, the numbers are going down, and we're getting a better hold of the border security issue.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, thank you, Brandon, very, very much. We should stress too that a lot of these facilities they're talking about were built during the Obama administration. That's not to cast aspersions on either side. But that was then, when it looked like they had enough room for the facilities that were there, and obviously now just the opposite. All right, some of you might remember the 2004 presidential race. Democrats had a choice between someone deemed a moderate, someone deemed a little bit more on the left. Sound familiar? Let's just say, these days, it's enough to make you scream.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOWARD DEAN, FORMER PRESIDENTIAL CANDIDATE",
+      "sentences": "We're going to Washington, D.C., to take back the White House! Yeah!",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DEAN",
+      "sentences": "We're going to California and Texas and New York! And we're going to South Dakota and Oregon and Washington and Michigan! And then we're going to Washington, D.C., to take back the White House! Yeah!",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, Howard Dean didn't go on to take back the White House. Instead, Democrats made what they consider at the time a safer pick in Senator John Kerry. They still lost in 2004. It was close, though. So, how should they play it this time around? Kelly Jane Torrance is a senior editor for The Washington Examiner. They seem to view Joe Biden, Kelly Jane, as that more, I wouldn't say centrist, but more appealing to voters, and more likely to beat Donald Trump than almost any of the other alternatives, just as they felt that way about John Kerry back in 2004. Is that the gist of it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KELLY JANE TORRANCE, THE WASHINGTON EXAMINER",
+      "sentences": "I think you're right, Neil. And I have to say talking to moderate Democrats, the ones I know around town, and even the ones I meet here in the Fox green room, they tell me that they're very glad that Biden is in the race, and they are hoping he can actually moderate the discussion. I don't think he's been very successful on that so far, as we have seen in the debates, with lots of ideas about giving free health care to illegal immigrants, cutting off people's private insurance, open borders. He hasn't been very successful in changing the terms. But he is the guy that looks like a moderate compared with everyone else. And it's a relative moderate, right? Here's a guy who keeps talking about how great Obamacare is. This is the moderate this time. This was -- there was a time when somebody who wanted the government involved in health care, which is a huge part of American industry, wouldn't have been considered the moderate. But...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But maybe they have learned from their past, too. Some of them remember what happened in 1972, when Ed Muskie, then a very prominent and up-and-coming Maine senator, acceptable to the vast majority of the party establishment, moderates, what have you, ended up losing the passionate base. George McGovern emerged as the nominee. Of course, Richard Nixon was reelected in a landslide. So, the searing lesson from that apparently was, we can't go that route again. What do you think of that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TORRANCE",
+      "sentences": "I think a lot of people do think of 1972 this year, and they are worried. And let's face it, there is already a brash, unpredictable, anti- establishment, anti-war candidate in the race. And that's President Trump, of course. He actually is -- has been talking for years about some of the things that Howard Dean, for example, who really made the anti-Iraq War platform a big part of his campaign. So, yes, I do think Democrats are thinking about that. And especially with open borders, these things do not poll well. When you talk -- ask voters about Medicare for all, they think it sounds like a not-bad idea. Then if you ask them, well, what do you think about an idea that would get rid of private health insurance, very few people like the idea.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, on that notion, Biden is not quite in that camp. So maybe, back to your point, that a more moderate figure will win. It's still early, but you can see the dilemma they're having dealing with that. Kelly Jane, thank you very, very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TORRANCE",
+      "sentences": "Thanks, Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "In the meantime, what is old is new again. \"Home Alone\" could be getting a reboot from Disney. Really?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, news of a \"Home Alone\" reboot, as some fans screaming too. Disney says it is re-imagining that and other classics for its streaming service. It's not the only one. The \"Beverly Hills, 90210\" reboot debuted to a pretty solid reception. So are we running out of ideas, that we just go back to those old moneymakers? Fox News senior vice president of marketing and entertainment maestro Michael Tammero on all that. Michael, what's going on? Where's the originality in any of this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MICHAEL TAMMERO, SENIOR VICE PRESIDENT OF MARKETING AND ENTERTAINMENT",
+      "sentences": "Well, look, Neil, thank you for having me, first of all. Look, this idea of reboots is not new in Hollywood.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "I know.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TAMMERO",
+      "sentences": "In 1957, when \"I Love Lucy\" signed off in May of that year, six months later, it was back with the Lucy and Desi show in the same network. But what we are seeing is this idea happening more and more and a greater frequency of it. And part of the thing that's driving it is the competition for eyeballs is so fierce, between movies and cable and broadcast and streaming, that you announce a \"90210\" reboot, you get a ton of free media and attention, which broadcast networks are starving for these days.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TAMMERO",
+      "sentences": "And, look, last night, \"90210\" powered Fox to a Wednesday night win.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You know, sometimes, you have formulas at work, others, when they try to reinvent it or get it going, not so much. So what makes them click?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TAMMERO",
+      "sentences": "You know, attention and care. When \"Will & Grace\" rebooted a couple of years ago, that -- that was a show that, after eight seasons, really limped off the air. And who knew they had more to say? But it was sort of the perfect fit in this political climate that we're living in for a lot of viewers. \"90210,\" they were very, very smart in terms of how they approached the show. They're not playing their old characters. They're playing themselves fictionalized, if that sort of makes sense.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Oh, I got it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TAMMERO",
+      "sentences": "So, they're coming at it from a different way. So, a little tender loving care and attention and focus can really make the difference. We saw that with \"Mad Max,\" when that was rebooted a couple of years ago. It was a critical hit and an audience favorite. And I think it won even a few awards that season.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, but Macaulay Culkin, he's a lot older now. He's no longer a kid. I mean, would they recruit him? What are they going to do?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TAMMERO",
+      "sentences": "Well, nostalgia plays into this in a great amount of way, in a big way. And it would sort of make sense to sort of bring him back on board, maybe as a parent or another character or something.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Now, he's tweeted and kidding about this, but I noticed he has a little snow pillow next to him and all that. So he must be watching this closely. So I guess we have to see. But what are the odds you give this succeeding?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TAMMERO",
+      "sentences": "I don't know. A lot of people are sort of upset. I'm not even sure how this concept would work in this day and age of smartphones and ride-shares.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Oh, please.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TAMMERO",
+      "sentences": "I mean, how can you let a kid -- leave a kid home these days?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You can think about it. You can think about it. All right, Michael, always a pleasure, my friend. Thank you very, very much, Michael, in La La Land, L.A. He has a lot of connections there. Thank you very, very much for joining us. By the way, on Fox Business Network tomorrow, we're going to be exploring the phenomenon with these markets now OK with no China deal. Can you believe that, OK with no deal? Here's \"The Five.\" Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NEIL CAVUTO, ANCHOR",
+      "utterance": "All right, Shepard. And, indeed, the Dow Jones industrial storming back today, up about 376 points. Interest rates kind of stabilized today. Tech shares were back. Even Disney, which was getting hammered yesterday, reversing course and moving forward. So all good at the corner Wall and Broad. We're going to have a lot more on that momentarily. In the meantime, big story of the day is the Democratic presidential candidate Kamala Harris rolling out her first campaign ad. Take a look."
+    },
+    {
+      "speaker": "SEN. KAMALA HARRIS, D-CALIF., PRESIDENTIAL CANDIDATE",
+      "utterance": "The biggest middle- class tax cut in a generation, another $500 in your pocket every month, paid for by repealing Donald Trump's tax breaks for the top 1 percent and the richest corporations in America."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, but can rescinding those tax cuts pay for it all? Welcome, everybody. I'm Neil Cavuto, and this is \"Your World.\" To FOX Business' Hillary Vaughn in Des Moines, Iowa, where we're hearing more about the Harris plan -- Hillary."
+    },
+    {
+      "speaker": "HILLARY VAUGHN, CORRESPONDENT",
+      "utterance": "Hey, Neil. Well, this ad buy is rolling out through airwaves in Iowa just in time for the Iowa State Fair, where over 20 Democratic candidates hoping to get the presidential nomination have been making their pitch to Iowa voters. We kicked it off this morning with Montana Governor Steve Bullock. And we also heard from former Vice President Joe Biden. But Senator Kamala Harris is definitely at least on people's TV screens now here in Iowa with this ad buy. And she is pitching her basic income plan, which would give Americans 500 bucks every month in a basic income. This is not the first candidate that has floated this idea. We also heard businessman Andrew Yang campaign on this idea from the very beginning, but offering twice as much money to voters. Now, Harris says she will pay for it by rolling back President Trump's tax cuts to businesses that she thinks didn't hit the middle class enough. But a new Monmouth poll shows that not only is Biden still in the lead in Iowa, or among Iowa Democrats and independents, but there is someone gaining on him. Senator Elizabeth Warren is polling at 19 percent from where she was at 7 percent in April. Now, Elizabeth Warren and Harris and Sanders are all pitching progressive policies. We talked to Montana Governor Steve Bullock in a one-on-one before he took to the soapbox today. And he told me that he thinks these progressive policies will not play well here in Iowa or the rest of Middle America. He says his edge is because he's in a state where everyday Americans want solutions, not progressive promises."
+    },
+    {
+      "speaker": "GOV. STEVE BULLOCK, D-MONT., PRESIDENTIAL CANDIDATE",
+      "utterance": "Getting out of the Twitterverse and actually talk to people. I'm not sure some of these folks out there have even spoken to those Obama, Obama/Trump voters. What I see is, people don't want free everything. They just want a fair shot in this economy."
+    },
+    {
+      "speaker": "VAUGHN",
+      "utterance": "Neil, so we're going to be hearing from a whole roster of candidates over the next several days really making their pitch to caucus- goers here in Iowa -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, thank you very much, Hillary Vaughn in Iowa. And then there is the New York City mayor, Bill de Blasio, who, well, sparred with our own Sean Hannity on just how high he thinks taxes should go for the wealthy. Take a look."
+    },
+    {
+      "speaker": "MAYOR BILL DE BLASIO, D-NYC, PRESIDENTIAL CANDIDATE",
+      "utterance": "Regular folks who make over $2 million in income... SEAN HANNITY, HOST, \"HANNITY\": Seventy percent."
+    },
+    {
+      "speaker": "DE BLASIO",
+      "utterance": "Seventy percent, when you combine everything."
+    },
+    {
+      "speaker": "HANNITY",
+      "utterance": "That means they get to keep 30 percent."
+    },
+    {
+      "speaker": "DE BLASIO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "HANNITY",
+      "utterance": "OK, you take 70 cents out of every dollar."
+    },
+    {
+      "speaker": "DE BLASIO",
+      "utterance": "Again, how long did we have in this country? For decades. Dwight Eisenhower, John F. Kennedy, that was the tax rate then."
+    },
+    {
+      "speaker": "HANNITY",
+      "utterance": "Seventy cents out of every dollar."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "John F. Kennedy had lowered that tax rate. It came to fruition sadly after his death, but 70 percent just for starters. Let's get the read from Axios reporter Caitlin Owens, Iona College political Professor Jeanne Zaino, and the former White House Press Secretary Ari Fleischer. Ari, end it with you. Let me get your take on this, then. The quickest way to endear yourself to the base of the party, at least given some of these progressives' view, tax the rich. What do you think?"
+    },
+    {
+      "speaker": "ARI FLEISCHER, CONTRIBUTOR",
+      "utterance": "Yes, didn't we see a lot of that during the Obama era? And what did we have? We had low growth and flat wages. I mean, you can't hurt working-class people more when your policies target those who give you your jobs, and they stop you from getting a pay increase. But, look, Neil, there is one intriguing idea, and I think it's Andrew Yang's. I'm not sure if Harris is calling for a $500 tax cut for people with families or is it a half-a-Yang, where -- giving them $500 a month instead of $1,000 a month. I find the universal income intriguing. I really think, in exchange for abolishing all welfare programs, other than disability and Medicaid, it's an idea we ought to think about. What happens now is, you get things from the government if you behave in a certain way. I'm in favor of abolishing all those welfare programs. I want to discuss abolishing all those welfare programs in exchange possibly for a $500-$1,000-a-month payment."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, we will talk about that another time. But, Caitlin, one other thing that's come through here is this notion that -- very creative when it comes to ways of getting revenue, not necessarily ways of controlling the spending of that revenue. I could fault Republicans just as much on that. They're the ones who are piling up these trillion-dollar deficits for the next couple of years as part of this budget deal. So neither party is that gung-ho on this, but what do you make of it?"
+    },
+    {
+      "speaker": "CAITLIN OWENS, AXIOS",
+      "utterance": "You know, it's interesting. I think you're right. The one thing that strikes me about Democrats this cycle is there's very much this message, as you pointed out, of redistributing money from the wealthy back to the poor and the working class. You're seeing these tax plans, even just that trickles into the health care plans that we're seeing with Medicare for all and whatnot. But the interesting thing here is, this is kind of -- some of it is the same language that Trump used, this idea of hitting back against the establishment that is screwing you over, kind of power to the little guy thing. And I think Democrats are really trying to kind of take that narrative and make it theirs and point out, OK, hey, these tax cuts, Trump campaigned as your friend, but these tax cuts went to the top 1 percent. So I think part of it, when we're talking about appealing to the Obama- Trump voter, I think that that's part of the strategy here."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You know, I'm just wondering where this goes though, Jeanne, because, obviously, it's appealing to say, all right, whatever we're doing, we're not going to hit you. We're going to hit the top 1 percent. We're going to hit corporations. I think Joe Biden is a fan of reversing some of the corporate tax cuts, not all of them, but bringing it up to 28 percent from the 21 percent it's at now, and but still not the 35 percent it was, but that that soothes voters, because, OK, at least it's not going to be on me. What do you think of that? rMD-BO_JEANNE ZAINO, IONA COLLEGE: Yes. And I think that's exactly the message the Democrats are trying to send. Lookit, Democrats have a problem. The party, particularly in the primaries season, has moved very far to the left. And they are going out with a number of very expensive proposals, from health care for all that is government-paid, to things like free education and all kinds of expensive proposals. Well, those have to be paid for. And so they are struggling to find a way to pay for those. And I think one of the big difficulties..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "I don't think they're struggling too hard, though, neither side, right? No one seems to really care about the price tag or how they can justify it. Right?"
+    },
+    {
+      "speaker": "ZAINO",
+      "utterance": "Well, I think the price tag is important."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Oh, I agree with you. I fully agree with you."
+    },
+    {
+      "speaker": "ZAINO",
+      "utterance": "They have to be able to pay for these programs. And the problem for them is, tax cuts are not incredibly popular. You look at polls, and it's not the most important issue. Sure, people want their own taxes cut. But when you ask them what they care about, tax cuts are not very high on the list. So Democrats are going to have to walk this fine line. We want these expensive programs. How are we going to pay for those? We're going to pay for those on the back of the rich. And they're going to be really fighting a war that the Democrats and Republicans were fighting before Ronald Reagan was elected, quite frankly."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, they're gunning for rich guys like Ari, I guess."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But, Ari, one thing that I found interesting in this whole battle is that that will go a long way to evening things out, and the unevenness of society, this dichotomy between the very rich and the very poor will be addressed by forcibly sticking it to the rich. It's a popular theme. How do you think it's going to fare?"
+    },
+    {
+      "speaker": "FLEISCHER",
+      "utterance": "Democrats have historically had the advantage when it comes to sounding compassionate, but then, when you look at their policies, and particularly, again, go back to the eight years of the Obama era, poverty went up, food stamps spending went up. Unemployment, despite coming down, didn't benefit working blue-collar people, because, as I said earlier, wages were flat for 10 years. You get the Trump economy, and what you have here is tax cuts for job creators, and the economy is revving to the point now where wage growth, salaries, hourly wages for middle-income, lower-income people are going far faster than white-collar workers, 5 and 6 percent growth. We haven't seen that since the '90s. This is the type of thing that delivers results for people, as opposed to Democrats sounding compassionate, but all they end up doing is raising everybody's taxes and putting more people into poverty."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Boy, you got me out of left field. I didn't think you were going to criticize the Democrats on that one, Ari."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But no, seriously, guys, thank you all very, very much. I appreciate it. The battle is on how to pay for a lot of this."
+    },
+    {
+      "speaker": "In the meantime, a question from conservatives in general",
+      "utterance": "Would you put down that pint of Ben and Jerry's Chunky Monkey, knowing that Ben and Jerry's give to liberal causes?"
+    },
+    {
+      "speaker": "Now a question for liberals",
+      "utterance": "Would you stop working out at a fancy- schmancy gym owned by someone who supports President Trump? Well, get ready for a boycott that, well, is kind of over the top."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, follow the money and follow the customers right out the door. The billionaire owner of the Equinox and SoulCycle gym chains really could find out the hard way how supporting President Trump just might cost him. To FOX's Jonathan Hunt with the latest on that. Hey, Jonathan."
+    },
+    {
+      "speaker": "JONATHAN HUNT, CORRESPONDENT",
+      "utterance": "Good afternoon, Neil. Stephen Ross is reportedly worth some $7 billion. He owns the Miami Dolphins and is chairman of the Related Companies, a global real estate development firm. But in the age of consumer boycotts, it's his in there in the fitness chains SoulCycle and Equinox that is attracting the most attention in the wake of the news that Ross is to hold a fund-raiser for President Trump in the Hamptons tomorrow. Equinox and SoulCycle both responded on Twitter to the boycott calls, Equinox saying -- quote -- \"Equinox and SoulCycle have nothing to do with the event and do not support it,\" while SoulCycle says the company believes in -- quote -- \"diversity, inclusion and equality.\" While Stephen Ross issued a statement saying in part -- quote -- \"I have known Donald Trump for 40 years. And while we agree on some issues, we strongly disagree on many others, and I have never been bashful about expressing my opinions.\""
+    },
+    {
+      "speaker": "And he added",
+      "utterance": "\"I have and will continue to support leaders on both sides of the aisle.\" On the subject of political donors, President Trump went after Democratic Congressman Joaquin Castro for releasing names of GOP donors in his San Antonio, Texas, district. The president tweeted -- quote -- \"I don't know who Joaquin Castro is, other than the lesser brother of a failed presidential candidate (1 percent), who makes a fool of himself every time he opens his mouth. Joaquin is not the man that his brother is, but his brother, according to most, is not much. Keep fighting Joaquin. \" Congressman Castro has pointed out, by the way, that the names of all the donors are public information, freely available from the Federal Elections Commission -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, Jonathan, thank you very, very much, Jonathan Hunt on all of that. So, picture if you're a conservative and you don't like someone who gives to a liberal cause, but you love the product they make, i.e., Ben and Jerry's , right, or if you are of a liberal bent and you don't like an establishment whose biggest investor gives to Donald Trump. Is it worth boycotting? Or is it just worth saying, on your own part, well, I'm not too keen on that, and leave it at that? Trump 2020 Advisory Board member Madison Gesiotto. We have also got Fox News contributor Jessica Tarlov. Jessica, I think it's obnoxious either way. You don't like it, you don't like it, fine. But to urge economic impact here or ruin is going a little too far."
+    },
+    {
+      "speaker": "JESSICA TARLOV, DEMOCRATIC STRATEGIST",
+      "utterance": "I don't think Stephen Ross is heading for economic ruin on the basis of this. People are expressing their First Amendment rights to say, we're not cool with this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "I'm not talking about him. I'm talking about people who work for him. What if people and facilities are shut down, or what have you? What does that prove?"
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Absolutely. And I personally, I'm an avid SoulCycler, and I was there this morning."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You and me are, like, separated, yes, exactly."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Yes, I know. We always find our inner peace together, Neil."
+    },
+    {
+      "speaker": "The class was demonstrably less crowded than it usually is. I asked the people at the front desk if this was due to the boycott. They said",
+      "utterance": "\"No, it was a substitute teacher. I'm not sure about that.\" There have been stories about how many people have frozen their Equinox memberships or canceled them. It's obviously a real situation here. The problem is that, in the instance of Stephen Ross, he is going to continue to make the argument that you can support the tax cuts, which I imagine is why he was voting for Donald Trump in this instance -- that's what Republican presidents do provide to people -- and continue to support equality. You will see from his players it will continue to be an issue. Kenny Stills is the most outspoken on the Miami Dolphins. He was one of the first to kneel after Colin Kaepernick. And Ross was actually incredibly supportive of him doing it, as well as two of his teammates, I believe. So this will continue being a back and forth. But I imagine it'll fade away pretty quickly."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, I don't know. I mean, what I see, Madison Gesiotto, is just sort of like, we take this route if we don't like what they're doing. And I -- there are a lot of people, as I say, love to go to Chick-fil-A, great, great sandwiches and everything. There are some who don't like the religious thing pounded on them or the fact that stores are closed on Sunday. But the sandwiches are great, so they put that aside, and they go to Chick- fil-A and eat, they don't care what the bosses are doing or to whom they're giving or their causes they're espousing. The same with Ben and Jerry's. Whatever they want to do with it, or they like Bernie Sanders, good for you. However you feel about that, the Chunky Monkey outstanding."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So why are we getting so nuts about this?"
+    },
+    {
+      "speaker": "MADISON GESIOTTO, CONSERVATIVE COMMENTATOR",
+      "utterance": "Well, and, Neil, it's not just these things that you're referencing, but we saw it with Nike. We have seen it with many companies. And for every single person that ends up boycotting, we end up seeing just as many sometimes that end up coming over and putting an extra support behind these companies. And so, ultimately, it ends up evening out,. I don't think there will be a significant economic impact. But, at the same time, I don't think it's right, I don't think it's appropriate to target people in this way. And at the same time they do this, it doesn't change the fact that we have a roaring economy. It doesn't change the fact that the average American family of four and last year, in 2018, saved $2000 in their taxes, that their child care tax credit doubled. And so there are a lot of great things that this president has done that is benefiting families."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, I'm even going beyond whether -- whether that was happening or not. And, Jess, one of the things that I see that gets kind of slippery here is, you're using a cause that you might feel very passionate about, and hurting the wrong people. As you said, this investor, he's not going to feel this is. He's a multibillionaire."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "The founder of Chick-fil-A, he's not going to feel this. The Ben and Jerry's, whatever you think about them, they're going to still give to liberal causes and whatever. That's fine. But people realize, I can separate that from the product that they make or the things that they do, because, in the end, if it was to be successful, you damage the workers there much more than the chief operating or executive officer."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "That's absolutely true. I do wonder,though, how people can successfully communicate their issues with President Trump, for instance, or their aversion to Stephen Ross holding a $250,000 couple or whatever it is fund-raiser for him tomorrow in the Hamptons."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But did you see anything like this, Jessica, going after those who were giving money to Barack Obama or big causes, corporate or otherwise, in the entertainment community and beyond?"
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "No."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "No, of course not, because we have gotten into silly season now."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "No. Well, that -- just because it's liberal doesn't mean that it is silly season."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "No, no, no, no, no. No, I'm just saying, it is derangement. It is derangement, where you take it to the next level."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "Well..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And you want to economically hurt someone. So, Madison, I'm looking at that and saying, everyone's got to calm down here. If you don't like what's happening on the other side, which is fine -- everyone's entitled to their views -- fine. Then leave it at that. But to then economically target them, much like we do with personalities on various news networks, you don't like what they're saying, we're going to boycott them. We're going to go after their advertisers. You can also do something else, turn off the TV."
+    },
+    {
+      "speaker": "GESIOTTO",
+      "utterance": "Right. There's no doubt we need to see more political civility in this country. We need people reaching across the aisle, working together to get things done on the local, state and national level. And that starts with us in our communities and encouraging that, and not only within our communities, but within our elected officials. We want to make sure that we're seeing respect on both sides of the aisle to both sides of the aisle. And when it comes to Castro, he didn't even bother to look at the fact that some of these were his own donors too. And so I think it's super disappointing that we're seeing people's disrespect and dislike of President Trump, I think, cause a lot of harm, more than President Trump is causing, that's for sure."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, we will see. We will sort it out. No boycotts. If you have a problem with me, anybody who has a problem with me, do not take it out, for example, on Chunky Monkey. That's a separate argument."
+    },
+    {
+      "speaker": "TARLOV",
+      "utterance": "We will hit another SoulCycle class together, and everything will be repaired."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Yes. I will see you tonight. All right, in the meantime, you are making more money on Wall Street, at least today. Is that because our government is making more money from China? We will explain."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, first Peter Strzok, and now the former FBI Deputy Director Andrew McCabe suing the FBI and the Department of Justice, arguing that his firing, like Strzok's, was politically motivated. And here we go. In the meantime, Monday's big sell-off could be all washed away by tomorrow, so a lot of bulls are hoping and praying and finger-crossing. That is because we made up a good deal of the ground today that was lost. And remember the big comeback we had yesterday, when we were down 600 points or so, and we recouped most of those losses. All of this with the new report that the government is collecting a lot of money from tariffs over the past 12 months. Try about $63 billion. American entities are paying that, of course, distributors who deal in China, trying to buttress you from having to pay that. Regardless, for the administration, that might offer some flexibility in this going forward? That's what they say. What do our panelists say? Market watchers Danielle Shay. We have got Tim Anderson and George Seay. Danielle, to you on whether this buffets the blow enough, because, technically, American entities pay that, whether they pass that along to consumers. They try to absorb as much as they can. Debates about whether they really will be able to do that come September 1, when a lot of consumer items come up for these 10 percent tariffs. But what do you think?"
+    },
+    {
+      "speaker": "DANIELLE SHAY, SIMPLER TRADING",
+      "utterance": "Well, it's correct when the president says that he's collecting billions of dollars. And that's absolutely true. But this money is going to the Treasury Department. It's not going to the companies that are losing their margins. And so what's happening is that these companies are having to either, A, shrink their margins -- and that's going to impact their corporate profits and their earnings -- or they have to pass the costs along to consumers. And at the end of the day, public -- public companies like this, they have to pass the costs along. So that's what's going to end up happening."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, that would slow things down a little bit here. And then, for those companies, George, exposed to China, that could be a big hit. So far, so good, or maybe I should say so fair, but where do you see it happening?"
+    },
+    {
+      "speaker": "GEORGE SEAY, ANNANDALE CAPITAL",
+      "utterance": "I think that if anybody thinks that the federal government is the answer to every problem, this is wonderful news. And for those of us who are conservatives in the private sector, and think the private sector is the strength of America, it's bad news. It's a friction cost on the economy. And it doesn't do anything, unless the federal government cuts its spending, which it hasn't done since the second term of George W. Bush. So I don't think it's any good. And I wish it wasn't around. But we have got to go to war with China. And the president's waging that."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You know, Tim Anderson, a lot of this money, they take and give to farmers to help cushion the blow that they're feeling from China stopping buying their goods and all the rest. What do you think of that? Because, eventually, others affected are going to probably demand the same thing, right?"
+    },
+    {
+      "speaker": "TIM ANDERSON, TJM INVESTMENTS",
+      "utterance": "Well, I think you stated it perfectly, I think you have to look at these tariffs as almost going into a rainy day fund, where it will be given out as, A, to those people that are being most seriously affected by the trade dispute with China. And, clearly, the independent farmers are probably at the top of that list. Now, if you want to talk about the economy overall, we're a $20 trillion economy. If you're talking 100 billion in tariffs, that's 1/200th of the entire economy. It might affect GDP by one-tenth maybe two-tenths of a percent. I just think that the consumer is strong enough and earnings are growing fast enough and the jobs market is vibrant enough to withstand that."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And then there's the Fed in this, right, Danielle, that if it keeps cutting rates, that could cushion the blow a little bit. Do you still see that happening?"
+    },
+    {
+      "speaker": "SHAY",
+      "utterance": "Yes, that's correct. And that could help. And it's going to have to be what the Fed is going to have to do to try to take away some of this impact from tariffs. But,at the same time, you're -- these are two different things. Yes, the Fed can cut rates, and that can help stimulate the economy, cause consumers to borrow more. But that's not going to help them if they're going to Costco and they have to pay much higher prices for things that they buy every single week. So it's just a little bit different."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "George, there are a number of people who are now saying it's possible this is never resolved in the near future. In fact, I think Goldman Sachs, S&P, some of these other firms have said it won't be stopped before the presidential election. Then what?"
+    },
+    {
+      "speaker": "SEAY",
+      "utterance": "Then we just march further onwards. I think that people are looking at this myopically. You have got to look at it holistically. China is a tremendous competitor of ours now, and we compete against them in all sorts of fronts, trade, national defense, global influence, especially in Asia. And this is part of a big picture. And it's going to be going on for the next several decades. It's just one part of the story. And it's not going to end any time soon. It's going to go through at least 2020 election and perhaps beyond that."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "If it does, Tim, then what? What do you tell clients?"
+    },
+    {
+      "speaker": "ANDERSON",
+      "utterance": "I just think that the -- that the market will have a very positive response long term for the idea that we are trying to change egregious behavior from China that's probably been going on for 20 years. They have never really lived by the World Trade organization rules. And there are other behaviors that most other countries that we trade with adhere to that they just ignore."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, and then on and on. We wait and wait, right? Guys, thank you all very, very much. Again, the Dow up about 371 points, so these concerns dissipating today, because both sides do plan to talk next month. We will see. Meanwhile, an outpouring of bipartisan support for new gun control laws following those terrible shootings in Dayton, Ohio, and El Paso, Texas. But our Judge Andrew Napolitano says the success of those laws come down to doing one thing, maybe breaking the Constitution -- after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "An uh-oh for Uber, its stock falling 11 percent in after-hours trading. The share-riding company saying that bookings surged more than 30 percent last quarter, but investors battling because Uber's revenue and losses, well, they were more than expected. More after this."
+    },
+    {
+      "speaker": "SEN. PAT TOOMEY, R-PA",
+      "utterance": "I know I have Republican colleagues who voted no on the Manchin-Toomey bill in the past and are now rethinking that. I know the president..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Have you talked to Mitch McConnell, Senator, whether he's open for revisiting this?"
+    },
+    {
+      "speaker": "TOOMEY",
+      "utterance": "So I have spoken with the president repeatedly. And the president definitely has an interest. He has not made a commitment to a specific bill, but he's definitely interested in doing something in the background check space. I have spoken with Senator McConnell. And, as usual, Mitch McConnell is about getting a successful outcome."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right. Well, if he's right there, then Mitch McConnell would consider getting some sort of legislation going and maybe giving it consideration in the Senate, because, right now, we're not hearing that. Anyway, Pennsylvania Republican Senator Pat Toomey telling me earlier on FOX Business that a lot of his Republican colleagues are indeed now rethinking some of their previous no-votes on gun control legislation and the like. But our Judge Andrew Napolitano says a lot of those proposed laws won't hold up to constitutional muster. He joins us right now. Judge, what do you mean?"
+    },
+    {
+      "speaker": "ANDREW NAPOLITANO, JUDICIAL ANALYST",
+      "utterance": "Well, Neil, and good afternoon. And it's always a pleasure to be with you."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Same here."
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "utterance": "The proposal that the president offered the other day is called a red flag law. That's a law by which the federal government would pay the states to change their state laws, so that anybody who wants to raise a red flag -- my next- door neighbor's a little crazy, but he has a gun, I think you should come and take it away from him -- can cause the gun owner to be dragged into court. In some states, the gun is taken away before there's a hearing. And then the hearing decides whether or not the gun owner might abuse it in the future. That's the serious constitutional problem, Neil, because, in this country - - it's been this way for 230 years now -- the presumption of innocence and the due process requirements mean you can only be punished for something you have done in the past, not something you might do in the future. When the old..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But you did say, though, that -- and it was a brilliant column looking at this. You said, you can't do it on the basis of a fear of what a person might do."
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "utterance": "Correct."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But what if relatives or friends are telegraphing authorities, hey, we're worried, we don't like what we're seeing, it concerns us greatly? That was the case of the mother of the shooter in El Paso telegraphing to local officials, should he own a gun? I mean, what's the deal?"
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "utterance": "You know, when these tragedies happen, there's a natural instinct -- I myself have this instinct -- for the government to want to do something to keep us safe. God forbid something like this should happen again. And now we see that there were red flags."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "utterance": "There were warning signs for both Dayton, Ohio, and El Paso. But the supreme law of the land is the Constitution. And the Constitution simply doesn't permit taking a right away because somebody fears it might be abused in the future. When the Supreme Court last looked at the right to keep and bear arms, it called that a fundamental individual liberty. That's in the same category as speech and privacy and religion. That is the highest category of rights. It can't be taken away because the government fears you might abuse it. It can only be taken away if you have committed a crime in the past."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But would this apply today if our founders knew what would go on today? Now, I know you allude to the fact that a lot of this was meant to address the abuses of governments, of the British government, more to the point, and the right to bear arms to challenge that, not just some inconvenience or hunting issues. But now society has morphed into all of these kind of events where such shootings have gotten increasingly common. Does the government then have an obligation to address what has changed mightily in the 200-plus years since these guys came together?"
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "utterance": "The short answer to your question is, yes, the government does have an obligation. But the obligation must comply with the Constitution. The government could actually make it easier for people to carry weapons and have them trained in carrying the weapons, so when these things start, or maybe they wouldn't start because the creeps that are about to start them know, hey, the guy next door to me, the guy right there standing next to me in the Walmart is armed, and he's going to shoot me as soon as he sees me take my weapon out. But to take a fundamental liberty away from someone, where will that slippery slope stop? Will the government next week be taking away the freedom of speech because of a fear that you might abuse it, you might arouse a crowd by an incendiary speech? We're not in that business. And we have never been in that business. And that's why we have the Constitution, the purpose of which is to preserve human liberty, even when that liberty is unpopular, especially when that liberty is unpopular."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, very interesting. Judge, good seeing you, my friend, in Washington, D.C., Andrew Napolitano. Nancy Pelosi is leading a lot of lawmakers to the border right now, but should they really be headed to D.C. simply to get something done?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "House Speaker Nancy Pelosi leading a delegation to Central America and McAllen, Texas, as they continue to slam the conditions at these detention centers. According to my next guest, they might be better using their time coming back to D.C. to fix all of that. The National Border Patrol Council president, Brandon Judd, with me right now. Brandon, good to have you back."
+    },
+    {
+      "speaker": "BRANDON JUDD, PRESIDENT, NATIONAL BORDER PATROL COUNCIL",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "They're saying it's still out of control, we have got to do something about it. You would prefer they be back in Washington doing just that. That's the gist of it. Right?"
+    },
+    {
+      "speaker": "JUDD",
+      "utterance": "Oh, of course I would. It's great that she's going down to the border to look at the conditions. But the fact that we have overcrowding, that's -- that's an issue that we have already dealt with. We know that there's overcrowding. If she was going down to the border to look at the conditions in order to go -- immediately go back to Washington, D.C., and make appropriate changes, I would welcome that. But the fact is, she already knows that we're overrun, that we're overwhelmed, and that she needs to make the changes. But she's not in D.C. where she needs to be to make those changes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, I always talk to experts like you, Brandon, and others on the other side critical of the work you're doing. In other words, you know drill."
+    },
+    {
+      "speaker": "And I always hear this talk",
+      "utterance": "On a lot of key issues, we have common ground. So, what is the common ground that both parties share?"
+    },
+    {
+      "speaker": "JUDD",
+      "utterance": "Frankly, I really don't know that there is common ground, except to try to make this a political issue and score political points with their bases. If there was, in fact, common ground, what we would look at is, we would say, we need more funding for better facilities in order to hold these people in humane conditions, if you will. If we don't get that, and they're not giving us the funding, then we're going to continue to hold people in conditions that are less than ideal. And we're going to continue to have the complaints that we get."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But they say that funding was provided, Brandon, they say, and it will address some of that. Is that true?"
+    },
+    {
+      "speaker": "JUDD",
+      "utterance": "It is true. But these facilities don't get built overnight."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "JUDD",
+      "utterance": "These facilities take time. We have got to look at where the failings were to begin with. We knew back in 2014 that we had an issue. We knew that our facilities weren't up to speed. These facilities were built under the Obama administration. But they did nothing to address a future crisis. So, where Speaker Pelosi needs to be is back in Washington, D.C., speaking with her caucus and saying, we have got to actually do something, instead of trying to score these political points that they're trying to do by going down to the border. They don't need to be down at the border anymore. They need to be in Washington, D.C., enacting laws or giving us the money that's necessary for us to have the proper facilities."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, when Nancy Pelosi wrote to the president to bring Mitch McConnell and some of these others to work not only on this, and then separately to deal with gun legislation and all the rest, everyone seems to be in the mood, all right, we will all get to Washington to do this stuff. But that never happens. Now, on this issue, I'm curious as to whether you think the money that's been provided and the help from Mexico to deal with this problem at their southern border is doing it for you, or improving that for you, so that no matter what happens with legislators here, progress is being made on that front, thanks, weirdly, to Mexico."
+    },
+    {
+      "speaker": "JUDD",
+      "utterance": "And if -- all you have to do is look at the numbers right now, Neil. We have gone down by 50 percent over our high water mark, which was two months ago, in the month of May. So there is actual progress that's being made. I just wish that that progress would be coming from our legislators, instead of the requisite pressure being put on Mexico to do their job. If we had our legislators stepping up and doing what they need to do, this border security issue would go away. But, instead, we're trying to rely on another country."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right."
+    },
+    {
+      "speaker": "JUDD",
+      "utterance": "And, to be honest with you, that country is doing a good job right now. Whether they continue to do a good job into the future, that remains to be seen. But, right now, as we speak, the numbers are going down, and we're getting a better hold of the border security issue."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, thank you, Brandon, very, very much. We should stress too that a lot of these facilities they're talking about were built during the Obama administration. That's not to cast aspersions on either side. But that was then, when it looked like they had enough room for the facilities that were there, and obviously now just the opposite. All right, some of you might remember the 2004 presidential race. Democrats had a choice between someone deemed a moderate, someone deemed a little bit more on the left. Sound familiar? Let's just say, these days, it's enough to make you scream."
+    },
+    {
+      "speaker": "HOWARD DEAN, FORMER PRESIDENTIAL CANDIDATE",
+      "utterance": "We're going to Washington, D.C., to take back the White House! Yeah!"
+    },
+    {
+      "speaker": "DEAN",
+      "utterance": "We're going to California and Texas and New York! And we're going to South Dakota and Oregon and Washington and Michigan! And then we're going to Washington, D.C., to take back the White House! Yeah!"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, Howard Dean didn't go on to take back the White House. Instead, Democrats made what they consider at the time a safer pick in Senator John Kerry. They still lost in 2004. It was close, though. So, how should they play it this time around? Kelly Jane Torrance is a senior editor for The Washington Examiner. They seem to view Joe Biden, Kelly Jane, as that more, I wouldn't say centrist, but more appealing to voters, and more likely to beat Donald Trump than almost any of the other alternatives, just as they felt that way about John Kerry back in 2004. Is that the gist of it?"
+    },
+    {
+      "speaker": "KELLY JANE TORRANCE, THE WASHINGTON EXAMINER",
+      "utterance": "I think you're right, Neil. And I have to say talking to moderate Democrats, the ones I know around town, and even the ones I meet here in the Fox green room, they tell me that they're very glad that Biden is in the race, and they are hoping he can actually moderate the discussion. I don't think he's been very successful on that so far, as we have seen in the debates, with lots of ideas about giving free health care to illegal immigrants, cutting off people's private insurance, open borders. He hasn't been very successful in changing the terms. But he is the guy that looks like a moderate compared with everyone else. And it's a relative moderate, right? Here's a guy who keeps talking about how great Obamacare is. This is the moderate this time. This was -- there was a time when somebody who wanted the government involved in health care, which is a huge part of American industry, wouldn't have been considered the moderate. But..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But maybe they have learned from their past, too. Some of them remember what happened in 1972, when Ed Muskie, then a very prominent and up-and-coming Maine senator, acceptable to the vast majority of the party establishment, moderates, what have you, ended up losing the passionate base. George McGovern emerged as the nominee. Of course, Richard Nixon was reelected in a landslide. So, the searing lesson from that apparently was, we can't go that route again. What do you think of that?"
+    },
+    {
+      "speaker": "TORRANCE",
+      "utterance": "I think a lot of people do think of 1972 this year, and they are worried. And let's face it, there is already a brash, unpredictable, anti- establishment, anti-war candidate in the race. And that's President Trump, of course. He actually is -- has been talking for years about some of the things that Howard Dean, for example, who really made the anti-Iraq War platform a big part of his campaign. So, yes, I do think Democrats are thinking about that. And especially with open borders, these things do not poll well. When you talk -- ask voters about Medicare for all, they think it sounds like a not-bad idea. Then if you ask them, well, what do you think about an idea that would get rid of private health insurance, very few people like the idea."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, on that notion, Biden is not quite in that camp. So maybe, back to your point, that a more moderate figure will win. It's still early, but you can see the dilemma they're having dealing with that. Kelly Jane, thank you very, very much."
+    },
+    {
+      "speaker": "TORRANCE",
+      "utterance": "Thanks, Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "In the meantime, what is old is new again. \"Home Alone\" could be getting a reboot from Disney. Really?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, news of a \"Home Alone\" reboot, as some fans screaming too. Disney says it is re-imagining that and other classics for its streaming service. It's not the only one. The \"Beverly Hills, 90210\" reboot debuted to a pretty solid reception. So are we running out of ideas, that we just go back to those old moneymakers? Fox News senior vice president of marketing and entertainment maestro Michael Tammero on all that. Michael, what's going on? Where's the originality in any of this?"
+    },
+    {
+      "speaker": "MICHAEL TAMMERO, SENIOR VICE PRESIDENT OF MARKETING AND ENTERTAINMENT",
+      "utterance": "Well, look, Neil, thank you for having me, first of all. Look, this idea of reboots is not new in Hollywood."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "I know."
+    },
+    {
+      "speaker": "TAMMERO",
+      "utterance": "In 1957, when \"I Love Lucy\" signed off in May of that year, six months later, it was back with the Lucy and Desi show in the same network. But what we are seeing is this idea happening more and more and a greater frequency of it. And part of the thing that's driving it is the competition for eyeballs is so fierce, between movies and cable and broadcast and streaming, that you announce a \"90210\" reboot, you get a ton of free media and attention, which broadcast networks are starving for these days."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "TAMMERO",
+      "utterance": "And, look, last night, \"90210\" powered Fox to a Wednesday night win."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You know, sometimes, you have formulas at work, others, when they try to reinvent it or get it going, not so much. So what makes them click?"
+    },
+    {
+      "speaker": "TAMMERO",
+      "utterance": "You know, attention and care. When \"Will & Grace\" rebooted a couple of years ago, that -- that was a show that, after eight seasons, really limped off the air. And who knew they had more to say? But it was sort of the perfect fit in this political climate that we're living in for a lot of viewers. \"90210,\" they were very, very smart in terms of how they approached the show. They're not playing their old characters. They're playing themselves fictionalized, if that sort of makes sense."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Oh, I got it."
+    },
+    {
+      "speaker": "TAMMERO",
+      "utterance": "So, they're coming at it from a different way. So, a little tender loving care and attention and focus can really make the difference. We saw that with \"Mad Max,\" when that was rebooted a couple of years ago. It was a critical hit and an audience favorite. And I think it won even a few awards that season."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, but Macaulay Culkin, he's a lot older now. He's no longer a kid. I mean, would they recruit him? What are they going to do?"
+    },
+    {
+      "speaker": "TAMMERO",
+      "utterance": "Well, nostalgia plays into this in a great amount of way, in a big way. And it would sort of make sense to sort of bring him back on board, maybe as a parent or another character or something."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Now, he's tweeted and kidding about this, but I noticed he has a little snow pillow next to him and all that. So he must be watching this closely. So I guess we have to see. But what are the odds you give this succeeding?"
+    },
+    {
+      "speaker": "TAMMERO",
+      "utterance": "I don't know. A lot of people are sort of upset. I'm not even sure how this concept would work in this day and age of smartphones and ride-shares."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Oh, please."
+    },
+    {
+      "speaker": "TAMMERO",
+      "utterance": "I mean, how can you let a kid -- leave a kid home these days?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You can think about it. You can think about it. All right, Michael, always a pleasure, my friend. Thank you very, very much, Michael, in La La Land, L.A. He has a lot of connections there. Thank you very, very much for joining us. By the way, on Fox Business Network tomorrow, we're going to be exploring the phenomenon with these markets now OK with no China deal. Can you believe that, OK with no deal? Here's \"The Five.\" Content and Programming Copyright 2019 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2019 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

@@ -1,0 +1,5397 @@
+{
+  "date": "January 17, 2020",
+  "headline": "Justice Department reportedly investigating whether James Comey leaked classified information to the media",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/justice-department-reportedly-investigating-whether-james-comey-leaked-classified-information-to-the-media",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "NEIL CAVUTO, FOX NEWS ANCHOR",
+      "sentences": "And one of the key players in that trade deal with China and how he sees things sorting out, Peter Navarro.  All coming up at 10 a.m. Eastern right here on Fox News. Here's \"The Five.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JESSE WATTERS, FOX NEWS HOST",
+      "sentences": "Hello. I'm Jesse Watters along with Kennedy, Juan Williams, Dana Perino and Greg. It's five o'clock in New York City and this is The Five.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "You take pictures behind the Resolute desk. It's been there a long time. A lot of presidents, some good, some not so good. But you got a good one now even though they're trying to impeach the son of a b****. Can you believe that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "President Trump joking in confident about impeachment while Democrats and the media attempt to Hail Mary. They've been pumping up their new star witness Rudy Giuliani associate Lev Parnas. The guy has some serious credibility issues, but Democrats and the media are more than happy to overlook all of that. Take a look at some of the reaction.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER (D-NY), SENATE MINORITY LEADER",
+      "sentences": "Last night Lev Parnas gave an astonishing interview on national television.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The revelations he talked really are blockbusters.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "More on the bomb shell.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "For this explosive material.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN BERMAN, HOST, CNN",
+      "sentences": "It's explosive new interview.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Absolutely explosive interview.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE SCARBOROUGH, HOST, MSNBC",
+      "sentences": "It was breathtaking.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "The fawning is so bad Jake Tapper at CNN was forced to call them out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JAKE TAPPER, HOST, CNN",
+      "sentences": "We can't ignore Parnas has a serious credibility problem.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NIA-MALIKA HENDERSON, CNN SENIOR POLITICAL REPORTER",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TAPPER",
+      "sentences": "He's under indictment for campaign finance charges. The foreign minister of Ukraine told CNN's Christiane Amanpour that he doesn't trust a word Parnas is saying. And yet, I see people out there in social media Democrats are acting as if this guy is the second coming of Theodore Roosevelt or something.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "And while Democrats desperately try to save their failed impeachment push, President Trump just put together a legal dream team by adding Ken Starr, Robert Ray, and other top-notch lawyers, and Alan Dershowitz says he will make a constitutional argument against impeachment. OK, Greg Gutfeld, star witness. Lev Parnas.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GREG GUTFELD, FOX NEWS HOST",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "A lot of blockbuster revelations.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes. He has the stench of Avenatti mix with -- who's that other dude that they thought was going to be the next big thing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KENNEDY MONTGOMERY, FOX NEWS HOST",
+      "sentences": "Michael Cohen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Michael Cohen. Anyway. Because this is Friday. I'm starting a new thing it's called good news Greg.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Would you like to see good news Greg? Because everybody says I'm being too negative so I'm really going to be really positive. So, I'm going to start with this one point. For the media and half the government to indulge this farce, things have to be pretty good for this country, right? It's not like America is missing these clowns at the Capitol or at CNN. Why is that? And this is the irony, is that the successful state of the country has enabled this farce to continue. It's like -- it's like a peacock with his feathers. He can like, it's something that he can just carry along because he can. So, it's actually a good sign. And you know who I haven't quoted in a while?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Who? Scott?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes, Scott Adams.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DANA PERINO, FOX NEWS HOST",
+      "sentences": "Drink.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Here -- everybody drink. OK. Trump has had the best month probably in his administration. He's got two trade deals, he killed the terrorist, he got the stock market breaking new records. So, what is, what could be behind this? According to Adams, Trump thrives on competition. And the fact is, impeachment is actually making him a better president because he's counter programming with achievements against their constant attacks on him. It's kind of like The Five. The Five only does great when there's a little spark of combat between us. If we all sit around here and agree, the audience gets bored and nobody watches. So that's what he is actually counter programming. And the more they impeach him, the better he does. That's great news. They should keep impeaching him. If they keep impeaching him, he will be the greatest president in the history of the universe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes, Juan, I mean, can't you argue with that? I mean, that's air tight logic right there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOERY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS HOST",
+      "sentences": "You know sometimes you think it's Friday. You know, just give him a break.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Friday is high day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Why is that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "What do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "High day? I don't know what he's talking about. All right. All right. All right. You're going to have a drink after the show. Let's put it that way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "After? What?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "He already started. It's five o'clock somewhere. I think Lev Parnas there's lots of reason to doubt lev Parnas. The guy is indictment, right? The guy looks like he's a criminal. So, I think yes, you should be doubting him and he may be trying to get himself a better deal. Although I can't understand why his lawyers would have him out on TV given that he's under indictment and he should be talking to the prosecutors. But I will say that this is an opportunity given what he's saying for people to try to corroborate, to look into exactly is there any basis for the kinds of things that he is alleging took place about, especially about the president's involvement, the president lying stands out, the possible attack on -- led by the president against a U.S. ambassador --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Would you, though, see Greg's point that it's been a spectacular month for the president in terms of accomplishment --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "God.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "-- on trade and on terror and on the economic side of the thing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "He's had some legitimate accomplishments.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes. I'd say that it's pretty good, Juan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "But this whole business, Greg keeps telling, America is doing fine, America is doing great. Look, life always gets better, but the fact that we have a person --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Under a Republican.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes. Look at Bill Clinton's economy. Barack Obama, what a lovely president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "And we were able to endure Clinton's escapades in the Oval Office.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "If not like this. This is something that I think speaks to who we are as an American people. I think this is chaotic, I think it's at times bullying and bad examples for us all and I think it's racist at times.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "It's an emotional argument.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Sorry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I don't know. A lot of people think it's just entertaining fun. Kennedy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Is that the best you can do?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes. I got -- a lot more where that came from.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "OK. Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Kennedy, what did you -- what did you think about the media saying that this guy is going to be the silver bullet and this is the guy that's going to finally take down Trump? Just like we had Avenatti and Michael Cohen and James Comey and Robert Mueller. This guy, Lev is going to be the guy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "And he's, Parnas is already eating his words at least to the New York Times. They said that he corrected the record and said I actually didn't meet with the president at that White House dinner. My bad. But I know the news cycle is very, very quick. And I know we go through these stories so quickly. In fact, that we have completely forgotten about World War III --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "That's right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Two weeks ago.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "-- that we're supposed to be right smacked up in the middle of.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "He has t avoid World War III.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Yes. And now, you know, we are talking about phase one of the China deal. We're talking about signing USMCA. We're not talking this dire impending global instability. We're talking about this guy. And if the news cycle is so quick your memory has to be a little bit longer than that especially if you were an objective reporter and you have to remember that people like -- there with pundits and anchors on MSNBC and CNN who were laughably pushing Michael Avenatti as a potential Democrat nominee for president. And he was just rearrested for violating --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "He is behind bars now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Harder on for president like that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "So, I don't know why they would think -- if the president of a corrupt country like Ukraine is saying this Parnas guy, I believe a word that comes out of his mouth.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "If he's saying that, then I would just exercise a little more skepticism.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "So, wouldn't you say though this might be a reason to call witnesses?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Yes. Because that way, that way, Juan --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Where is Hunter? Let's call him. All right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "-- you can keep Bernie and Nancy and Amy off the campaign trail until Nevada 2024.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, no. But you say hey, if this Lev Parnas is such a terrible guy --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Hold on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I'll see you Lev Parnas and I'll raise you the whistleblower and Hunter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "OK. Can we go to MSNBC it seems like now they're just trying to shame Republicans into doing what they want? Here's Joe Scarborough.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCARBOROUGH",
+      "sentences": "We all know why Lindsey saying he doesn't want a fair trial. he's not going to provide a fair trial. History is going to treat these politicians very badly. And if you're retiring, you can actually -- you have the luxury or if you're Mitt Romney, you have the luxury of saying hey, I'm going to do what's right and the American people want to hear all the evidence.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Like the Brady bunch up there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "An unattractive --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Though they don't get along as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Right. Right. So, what do you think about the shame game?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "So, one of the games as impeachment got started was to go back to any of the politicians that were in office during the Clinton impeachment and play the things that they said then and the things that they're saying now and how you can basically switch them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And the reason for that is that it is a political exercise. And both sides do it. Think of the people today who are all about me too and but they were the ones defending Bill Clinton back then.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And now with Trump. You have people who might have said something different in 1999 who are saying something now. Lindsey Graham is one of those people. But here's the reason. This is not about a jury trial. This is an impeachment and we all know impeachment is a political exercise. So, each, the media wants the Republicans and back in the Clinton impeachment it was the same what the Republicans saying how could you possibly -- like this is disgusting. How could you deal -- this is horrible. And they tried to shame them into thinking that. And now the Democrats are trying to do that to Republicans and to Evangelicals. Right? How dare you. You say you're for all of these things.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And they seem to seem so indignant. But in eight years from now if we're covering an impeachment of a Democrat which we might because now they're just basically lowering the bar for impeachment so much, you'll see the same switch-a-roo.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "And it's hard to shame politicians because they have no shame.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "It's going to be hard to impeach president West, though.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Is that Adam --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Kanye.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Kanye. Kanye West.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I was looking for Batman.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "All right. Coming up, disgraced former FBI director James Comey could be in some serious trouble. We'll tell you why next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "More trouble could be coming for James Comey. Federal prosecutors reportedly investigating whether the former FBI director leaked classified information to the media. Again, the New York Times reporting prosecutors are scrutinizing at least two news articles about the FBI and Comey that published back in 2017. They mentioned a secret Russian intelligence document, paid to have -- said to have played a key role in Comey's unilateral announcement to close the Clinton private server investigation. So, what a tangled web we continue to weave. And there seems to be, Juan, James Comey keeps coming up over and over again.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes. You think this is payback?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Maybe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "You think a little back stabbing going on? Yu know what's the tail here is, like a poke. The tail here is they had to go back to 2017. This is nothing contemporary. They're looking to get James Comey. They've also got --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "But he wasn't an FBI director after 2017.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes. What? No, he wasn't.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "He was fired in 2017.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "But that's -- if there was something done wrong then, you'd do it in line with the timing, Kennedy. So, they're also after --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "That's what I say about Elizabeth Warren and Bernie Sanders.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "They're also now going against Andrew McCabe. That's another tale in this. This is about, you know, Bill Barr -- and Dana and I have argued about this. I thought Bill Barr look, he had a pretty good record under President Bush. Bring him back. He's a guy wo's seen as highly credible. But he has become President Trump's thuggish attorney general.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Thuggish?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I remember when Eric Holder said he was Obama's wingman. And that didn't get any flak. I just think Bill Bar is a straight shooter. But here's what happened with Comey. He gets duped by fake Russia news, then leaks the fake Russia news he got duped by and now he is being investigated for it. This was with the Clinton e-mail investigation, which he botched. And then he goes and botches the Trump Russia investigation the same way, by getting duped by fake news, a.k.a. the dossier. He puts together this team of rogue FBI agents that doctor e-mails and lie to the courts so they could spy on the Trump campaign. And that's why people hate McCabe and James Comey.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Also, that's what's going on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Because they crumple on (Inaudible) and then they get multimillion book deal with fat contracts at CNN. And if you look back on what happened Trump was right, Comey was wrong. There was no collusion.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "So, this is the reason --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "And he had every reason to fire James Comey. I'm just putting a little context.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "And here's the context. He's a dangerous dude. He mishandled two highly sensitive FBI investigations. First the Clinton investigation. She deleted 30,000 e-mails under subpoena. If he had actually done his job, Bernie would have been the nominee. Then he frames Trump for collusion. Basically, cost the Republicans the mid-term elections. He's interfered in our elections more than the Russians if you look at it honestly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Do you think the Democrats have an issue with that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I think James -- the Dems hate him more than Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, I'm just so --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "So, the guy has got bad instincts. And every time you call him out on it, he puts out on this boy scout routine.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "OK. All right. So, he's not --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "He's a dirty cop.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I don't know about a dirty cop.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "He's not a cop.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That's wrong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "That's -- OK. But that's actually law enforcement officers do not like James Comey because he doesn't understand their culture or the world. They come from it. It is always all about him. It's never about the people in the FBI.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "It is always about him. You're right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "And unfortunately, under him, federal law enforcement has really suffered.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "And their reputation has suffered. And he allowed that and Andrew McCabe allowed that. And the fact that he was, you know, like a dirty lawyer nefariously leaking stuff to the New York Times and the Washington Post through an intermediary, that he admitted. He said that was the impetus for the Mueller investigation for launching that. He knew that would happen --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "But that's not what this is about.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "-- upon his firing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "This is a witch hunt. You both of you just --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Witch hunt.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "OK. But --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "You don't like James Comey.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "I know --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I may not like James Comey.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Juan said with hunt.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Why are you going back in time to go after this guy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "He --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Because those are the facts that happen to bolster the case --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That what?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "-- that he had a screw loose and he's a bad person.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Fine?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "He's a bad person with so much power, he could use the entire apparatus at his disposal to spy on a political campaign.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And the FBI they are trying to rehabilitate their reputation of the FBI. And a state bureau chief -- a state level bureau chief would have been fired for the same thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I'd like to go back and use a little of history to help everybody out here. Remember back in the 90s there was a TV show called \"Friends.\" A very popular show. Remember how disappointed you were when you sit down to watch \"Friends\" and the episode would be about Phoebe?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes. And you're like I don't really care about Phoebe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Well Comey is the Phoebe of American politics. I mean, he's always there in the background but I really don't want to hear about him anymore.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "You want to hear about Ross.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I think I want to hear about Ross or Joey.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And Rachel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "They were funny people. But it's like I feel like when he comes on, I feel like I'm watching episode two of series three. I've already gone through it. We know they all die at the end of \"Friends,\" by the way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Very sad.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That's in the last season. They all die.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I didn't know that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "yes. Yes. But Comey, Comey got famous and he enjoyed being famous. He should be a spokesman for a product, I was thinking something like depends. And you know, when you really need to stop a leak and he could just be sitting there and he's like very comfortable. Anyway.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "The Flex Seal that would be a good one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That Flex Seal that's a great one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Why not?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Why not?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I would like to do Lactaid or Sequel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Or the other one we're talking about in the commercial break.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes. We're not going to talk about that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "The other one. The other one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I think Trump could do those new light bulbs for the --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "All right. Coming up, CNN furious with Republican Senator Martha McSally over what she said to a reporter. We're going to show you next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "It's a media uproar over this exchange between a CNN reporter and Republican Senator Martha McSally.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANU RAJU, SENIOR CONGRESSIONAL CORRESPONDENT, CNN",
+      "sentences": "Senator McSally, should the Senate consider new evidence as part of the impeachment trial?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. MARTHA MCSALLY (R-AZ)",
+      "sentences": "Manu, you're a liberal hack. I'm not talking to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RAJU",
+      "sentences": "You're not going to comment, Senator?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCSALLY",
+      "sentences": "You're a liberal hack.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Wow. After McSally said that, CNN hosts raced to defend their colleague. Look at this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WOLF BLITZER, HOST, CNN",
+      "sentences": "It was disgusting, it was awful. She should know better. She or her staff no one has reached out to apologize to you, have they?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RAJU",
+      "sentences": "I have not heard from them at all, Wolf.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS CUMO, HOST, CNN",
+      "sentences": "This question was obvious. So was her dodge, so was the disrespect. It's all textbook Trump. She really acted like a punk.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Whoa! And here's Senator McSally responding.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCSALLY",
+      "sentences": "I'm a fighter pilot. You know? I called it like it is. And that's what we see out of the mainstream media and especially CNN every single day. So obviously I'm going to -- I'm going to tell the truth. The Democrat senators walk by and they say hi, how are you today and then they chase after the Republicans.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAURA INGLE, FOX NEWS CORRESPONDENT",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCSALLY",
+      "sentences": "I mean, it's honestly ridiculous.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "All right. She can have a problem with CNN but I don't think that reporter's opinion -- that's not Joe Scarborough. So, I just thought it was over the top. But they certainly responded. You have to have thick skin if you're a reporter, powerful people are not going to like you if you're reporting the news. Dana, you have a lot of experience with news and being on either side of that fence. Do did you find that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "You should have seen what I used to call reporters behind their backs.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "I'm kidding. I'm kidding. I'm kidding. So, OK. A couple of things. Manu Raju I think is actually a very good reporter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I agree.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And you see him he works -- you see him he's always there along with our Chad Pergram, our Mike Emanuel walking the halls. He's working --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I hate those guys.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "-- he's trying to do his job. I just think that for reporters it never works out if you become the story. Do you remember a few years ago when John McCormack got pushed in a scuffle?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And he got pushed down and he didn't want to be part of the story and everyone tried to make it into this whole thing how he was pushed by the Democratic candidates' guy. So, I wouldn't have done the whole thing at CNN. Like ignore it. Let -- he's going to have to go back to the Capitol every single day and do his job. So why blow it up into a big thing and say it's disgusting and demand apologies? That I didn't think was right. Now, however, I think the United States senators who are paid by the taxpayers who are answerable to their constituents and through the press, I don't think -- it didn't seem like her to me. Now she's -- maybe she's had it. And I get it. She's a fighter pilot but she's also in a very tough race in Arizona. And she got a lot of Atta girls from people from the right and I think that's one of the things that she was thinking.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Jesse?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Well, you know, Juan, I don't engage in name-calling. I don't like to bash the media.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I think they do a great job. So, I'm not going to -- no. I think you're right. I think all of these senators talk trash about reporters. They just don't do it to their face. She did it to his face and all hell broke loose. And then I thought to myself, how many times have senators and congressmen on the left said nasty stuff about us at Fox News? They have called us lunatics, hacks, conspiracy theorists. Things a lot worse.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "And there's there --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Like a lot of people did.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "And then there's the inaccurate stuff.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "You know, we don't go around and cry and put out press releases.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And go on Hannity shows.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "We would never act like the victim. When you're called names like that. But listen, he's not a hack but he's a liberal. He goes around and asks questions from a liberal perspective. He doesn't ask Chuck Schumer where is Hunter. He asks McSally, do you think we should call witnesses? That's fine. That's his job.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But everybody is being asked, they are going to have to answer on Tuesday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes, but they're answering questions from the Democratic perspective.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Maybe -- maybe they have beef. Maybe they have an issue. Maybe he tweeted something about her or said something and she just continued to carry it. But he knows and every reporter who works in that gaggle knows that you have to have an explosive bite in order to get on. Because they do that all day long. They chase people around and every single interaction is not going to get on. But something like that is. And it's lonely and it's tough especially when other people gang up on you. It's a win-win for everyone.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Do you think this is good for Manu?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "I think -- I think it's good for him because all of his friends at CNN get to cry and they're like, how dare they. And they act so offended. And then people in Arizona are like I didn't know she had it in her. Good for her.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Hey, Greg.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Because they probably have the same level of frustration. And you know, I've seen Joe Biden be so disrespectful to Peter Doocy. I think sometimes Peter Doocy asks some questions and he knows that the vice president is going to get very upset with him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes. If sleepy Joe puts one finger on one hair of Peter Doocy's beautiful head, he's going to have to answer to me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Really?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "What about his father? His dad -- OK. But let's look at Laura Ingraham asks Senator McSally the same question.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "What about Manu Raju's questions? Do you want witnesses?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCSALLY",
+      "sentences": "Well, I want a fair trial. Do it again in the House.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "OK. You're not going to play the game --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCSALLY",
+      "sentences": "No, no, no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "INGRAHAM",
+      "sentences": "You can call me a conservative hack. But do you want witnesses, yes or no? Why aren't you telling us?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCSALLY",
+      "sentences": "Because we're going to vote on Tuesday to start the trial and let them present --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Wow. So, Laura Ingraham says, I guess she is a conservative hack if Manu is a liberal hack.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "No because we -- let's avoiding the obvious here. The beef is about the network. This is a network that has pushed a three-year hoax. OK?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "So, everybody on the other side is like I'm tired of this crap. They also push the most anti-law enforcement narrative I've ever seen on TV before Trump was in office. So, there's an inherent bias about dividing America. I do hope that Manu gets the medical help that he needs for this grievous, grievous injury. Do they have a therapy llama in your bio or a therapy fairy that can keep him company? I just hope he's all right. I think that the word hack is not a good word. I think it's a lazy word. I don't think he's a hack. I think there are better words to come up with. But I think it's incredibly healthy for people in this world to view the press the same way that they look at pyramid schemes. That the only way the press can maintain power is to get you to believe in their story. And the sooner you realize that, the healthier you are. So the more antagonism towards the media there is, the better I feel. And I'm saying that as somebody who is in the media, but I loathe the media.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes, I noticed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Self-loathing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "All right, there's another media controversy brewing. It's over this New York Times op-ed headline, Megan McCain has a problem -- The View has a problem with Megan McCain. The piece goes on to say, \"for some viewers, Miss McCain is the privilege product of conservative nepotism, capitalism, and the American military-industrial complex.\" Miss McCain responding on Twitter, \"If the New York Times wants to understand the country, maybe they should try having one woman in the room who doesn't accept their groupthink on guns, abortion, and religion. Apparently, that's too much for them.\" Ladies?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Megan --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Are you referring to me?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "You know I wouldn't do that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Megan works really hard. And she's worked hard for a long time. She's worked in media for a long time. And she's definitely put her time in. And the reason people talk about her is because she researches her topics and challenges people that otherwise conservative journalists wouldn't have access to. And, you know, I think there are disloyal people who work at her show, who have personal agendas, and they're servicing their own careers and the media by planting these stories. And I think it's a bad look, not only for The View but for ABC, and they need to clean up their culture.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But has any show ever had this sustained amount of disarray and disgruntlement for years way before even Megan McCain got this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "What about this show?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Well, we don't get in it -- but I think it's different because we laugh about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "We love each other. We laugh and we love. Look, you know what kills me about this story is that they published this article. It was like a crank letter. You know when somebody writes to Fox? Those girls on T.V. at THE FIVE, their skirts are too short, and Greg Gutfeld uses bad language. I heard him use \"damn\" the other day. I'm turning off the set unless Juan apologizes. It's a crank letter. The New York Times published a crank letter because friends in high places, right? There's somebody at ABC who's friends with somebody at the Times, because there's no way that would have been published if it wasn't --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But also, how many of these people -- like I'm surprised at how many reporters watch The View and then write about it every day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Well, because they're home then.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes, I guess.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "They're home. What?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "They're also being -- they're also being (INAUDIBLE) that stuff. And again, like lock it up, you guys. Have some loyalty for where you work, the organization, and the show.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I wrote a big piece on Jessie anonymously and that's coming out next week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Jesse, give me your take. Because some people are Abby Huntsman, all the things that have been checked. Is that conservative versus conservative?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I think she does a good job on that show. She's outnumbered. She's like the Juan Williams of The View. She gets paid very well to be the lone voice and she gets paid well to take a beating. And yes, you know, her name is McCain so that opens doors. Just like Hunter Biden's name opens doors in Ukraine. One person is very talented without the last name an one's not. And one gets everything, Hunter, because of who he is. She can stand on her own.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "You think you got a thing going for Hunter today?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Where is he, Juan?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "All right, all right, here we go. Stay right there folks, the \"FASTEST SEVEN,\" a whole lot of Friday fun coming up for you next on THE FIVE.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Bet you. We just betted. All right, welcome back. It's time for the \"FASTEST SEVEN.\" First up the LSU Tigers were at the White House today, but it's what happened right after at the big football game that's getting all the attention. There is an arrest warrant out for NFL star OBJ Odell Beckham Jr. after he did this in the locker room. He spanked his bottom. The cop apparently wanted to punch back him in the face, but kept his cool then saw the video and later press charges. Jesse, what do you make of this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "He shouldn't have been slapping the cop around like that. But the cop doesn't need to be in the locker room trying to crack down on champions smoking cigars. Why are they in the locker room? They're trying to celebrate? Get the cops out of there. Let them celebrate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "He what's -- he wasn't a cop. That was actually a stripper. They hired a stripper.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "You know, that should be Odell's defense.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes. I thought he was -- I thought he was --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I thought he was taking his clothes off.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Don't strippers dress up as cops.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "It happens to me every time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "We did that once to one of our executives at the MTV Beach House because the cops kept showing up with noise complaints. And so one showed up and she started crying because she thought the cops are there to arrest her. And then he's like -- but you know, can't you celebrate. You win the national championship. And then another police officer came in, it's like, smoke your cigars, boys.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes. So there's plenty of other things that are happening in New Orleans where you would need officers' attention, smoking cigars, although I can't really imagine how much smoke was in there. I probably would have had to leave myself.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes, that's my feeling. I think a lot of things going on locker rooms, a lot of ass smacking, a lot of --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "What? That's right, Juan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "-- profanity, and lot of crazy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "He's taking us back to the 80s.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "But I must say, I must say, if you are in a locker room in this era, you should be aware of cameras, you should be aware of cell phones. And I guess you have to be aware, Jesse, of police, because I've never been in a locker room where they've been police but I don't think this is working. So he smacks the guy. He didn't smack him in the face. He touched -- in the locker room, how many guys are whipping towels.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes, he was saying good game.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "That should be his defense.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Up next, we've seen standing desks and treadmill desks, Bret Baier has one, and those weird ball chairs that people still sit on, but could this be the next big office trend. Behold, the lie-down desk. It lets you work while flat on your back. You just lie down. Not cheap. It costs over $7,000. Do you already have one, Greg?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Working horizontally? Isn't that what the Mustang Ranch is for? You kids don't understand. I am sick and tired of people making light of just normal sitting. We are made to sit OK. I'm tired -- I don't -- when I walk by my coworkers that are standing, I kick their legs out. I kick their legs out. They fall down and they ride in pain. And I say, get a damn chair because you're hurting the chair business. They're putting big chair out of business.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "You have a lot of money tied up in big chairs?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I got all my stocks. My 401(k) is all big chair. High chair as they call it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "So Dana, is it -- is it a placebo effect because some of the reviews online like I'm so creative and productive now that I'm lying down.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "It's like the -- it's like the weighted blanket craze and everyone thought they needed a weighted blanket so they could go to sleep. Like you don't really need one. You don't need it. I got a balance board to be standing on at my standing desk.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Balance board?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Oh my god.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "My 10-year-old has a hoverboard. And she just hovers around the apartment with her laptop open.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I sit in a bath of hot oil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "That might explain your mood.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "You said -- you said Bret Baier has what?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Treadmill desk.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "So he runs while he --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "No, he walks. He said he can -- he can clock like six miles a day on that thing. It's very impressive.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Really.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I tell you what's impressive, the cost of this thing. So in other words --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "$7,000.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "This is like you could get a peloton. I think some people here have done it for -- I think you goodbye like almost three pelotons for this thing. So what is this about? This is like an indulgence?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "It's not about --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Do you -- do you remember the movie Wally where people are so fat in the future, they just like, glide around in these chairs because they can't stand up and they eat out of cups. That's it. We're turning into Wally like we're so stupidly lazy that we can't even be bothered to sit up and work. I Must recline.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But it might help your back a little bit, or your front.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Finally, have you been sick with the flu this season? It turns out our booming economy may be to blame -- seriously. Researchers say job growth is bringing more people into the workplace, and that could increase the spread of the virus. Greg, you've always said you like to be the infected monkey.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "You like to be the person --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "You know, it's kind of -- I have the same philosophy about zombies. It's like, why are you scared of zombies? Just become one and then people are scared of you, right? This study is wrong. It's because of the holidays. The holidays cause the flu because people are on planes. And with a good economy, they're flying more, so everybody spread it. Like my wife and I, we got the flu coming back from your damn wedding. I was in bed for six days because of you, Jesse.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Yes, but you lost weight. You look great.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "You were late to the wedding, Greg.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Well, yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "And I still haven't gotten a gift, by the way. Was my gift your presence at the wedding?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes, that was the present.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "You know, I think the bigger problem is people don't get the flu shot. The vaccine thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That is true.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "This is like, all right, people going to get the flu, but why we have the sense in America -- and I run to so many people, oh, I don't get the flu shot. I think I get sick if I get the flu shot. Get the flu shot, will you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "It's true though. Like the economy is good so people -- the planes are packed, people are traveling either for business but -- or for fun, and that's -- it does spread so you have to just be careful. You know, take care of yourself.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Dana, they're blaming Trump for the flu. That's what this is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "No, actually -- no, no, no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "The economy is so good --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Turn it around, Jesse. Turn it around and say it is a great sign that there's the flu because President Trump has given us the greatest economy so now we can have more flu. It's fabulous.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "That's right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "That's how you turn it around.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Don't go anywhere. \"FAN MAIL FRIDAY\" is up next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I love sticks. All right, it's \"FAN MAIL FRIDAY,\" answering your questions. First question from Kristine S. If you film your own commercial for the Super Bowl, what item would it be for, Jesse?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Probably that lay down chair.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I'd probably have a sponsorship with the laydown chair. And you can just fake like you're sleeping when you're supposed to be working. That's what that's about.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "First of all, price tag of $7,000.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Dana?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Healthy dog food.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Oh, interesting.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Then you have -- like I could have Jasper in the commercial.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Of course.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And I could get some promote -- some like free dog food.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Oh, there you go. Always working the angle. That's what they say, the Dana angle, working the Dana angle, Juan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That's what they said?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That's what they say.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Wait a second. So I got -- I can think of three categories. So beer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Beer has got to be big, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Then snack food. Snack foods is got to be big, and cars.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "So I think I would pick snack food.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I like the toes as my kids call the Doritos, Fritos.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "And human toes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "They're not bad, either.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I have a whole jar of them in the basement.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Grose.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "What was that era when I used to pick up drifters? Kennedy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "I think I would like -- I would like to sell hot freedom.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Hot freedom.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "I'm not sure what it is, but I think it's a full-body rub.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "You just rub it all over your body and all of a sudden, you love the Constitution in these United States of America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I would sell a combination, my pillow, Tommy John underwear. It's underwear that you can use as a pillow or a pillow that you can wear as underwear.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "That's brilliant.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "And make it gold.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "And make gold, exactly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No, no, no, silver.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Silver.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Sorry, silver.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "And you can keep -- and you can keep it in your safe. All right, what's in your safe? All right, what is the one thing you are embarrassingly bad at, Dana?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "I don't know.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Oh, good, pretend like you can't think of something. Come on, Dana.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "No, I mean, I'm bad at all sorts of things. I don't know. I probably have to say a sport, probably.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "OK, sports.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Jesse.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I'm a really bad singer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "I'm a terrible singer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "You can't have mine. Like in church, like I'm so meek and church. The minute I say one thing, people start looking around. That's why I don't go to church.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That's true. I did stop going to church because I don't like the singing part.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I'm just bad singer. I don't like to sing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I also -- I also don't like the handshaking thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Because I don't want -- I don't want --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But the economy is great so you could get the flu.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Kennedy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "I'm bad at acting.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Oh, yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Really, really bad. And so the creator of CSI New York was like I wrote a part for you and it is yours. All you have to do is come read it. And they're like, oh, you're really bad at acting. I'm sorry, we can't go with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Juan?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "You know, when I go to the beach, all the guys go out in the ocean. We try to do handstands and I will try and try and flip and flop and the wave comes and knocks me down and try again. I'm just -- I'm --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "You flipflop all the time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That's it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Is you family trying to kill you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "I'm bad at saying no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "It's like hold him underwater.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "You're bad at saying no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That's like the title of a -- like a cautionary tale for teenage girls, bad at saying no. The story of little Dora or whatever. I didn't even think about it. I can't act. I can't act because you know you can't -- you can't -- I can't --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I've seen -- I've seen the GG show.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "But that's not acting. I can't --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "That's not acting?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "I cannot write fiction. I tried to write fiction but I don't take myself seriously.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Scott Adams writes fiction.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That is true.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "But do we have to drink when she's -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes. All right, \"ONE MORE THING\" next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "It's time now for \"ONE MORE THING.\" Has anybody here had a hole on one?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Never.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Maybe in mini-golf, right, but not really. OK. American Express classic, this year, a guy with one arm does it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Awesome.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "One-armed golfer, his name's Laurent Hurtubise. He's an amateur. Hole in one from 151 feet.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Awesome.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "In the cup. Unbelievable. 500 par after the first round. We're going to follow it over the weekend. Also, this weekend \"WATTERS WORLD\" 8:00 p.m. Eastern time. We have Eric Trump. He's the son of the President. He's one of the sons. What they call first family member. He'll be on \"WATTERS WORLD.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "What was that about?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "No, for people that don't know who he is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Do you think we don't know --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I'm trying to explain it, Juan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "He has a last name.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes, Trump. I mean, he did -- not every Trump is related to the president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "OK. All right, all right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I'm just trying to explain it, Juan. Who knows who's watching? Greg.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That was a hole in one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "All right, tomorrow, the \"GREG GUTFELD SHOW\" 10:00 p.m. I got Lawrence Jones, I got comedian David Angelo, Kat Timpf, and Tyrus. That's Saturday, January 18, 10:00 p.m. Watch it or I will hate you. Let's do one of these.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Animals are great. Animals are great. Animals are great.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "They're laying off the animals. Hey, you know what, I hate the ocean and you should hate the ocean too. The ocean is evil. Everything in it is evil and wet. You know what I hate about the ocean? It's hard to stand on a boat. Unless you have seen this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "This is great.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Check out Maggie the Welsh Terrier has the most impressive sea legs you'll ever see.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Nice lean.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Look at that. That's like me walking home from the bar. Just kidding, I never walk home.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "You have a driver on standby.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes. I have a driver on standby. He takes me to every bar. Vito, he's a great guy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "All right, Dana.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "RIP Vito.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "All right, so we have a friend Jillian Cardarelli. We've talked about her before. She's a country music star out in Nashville. And she has a new song out called Cool Girl. Check it out here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JILLIAN CARDARELLI, SINGER",
+      "sentences": "We can dance around and around this thing. Baby here's the thing. I'm not trying to be the cool girl.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "That song came out to at midnight and it's available at Spotify, Apple Music, Google Play, and anywhere else you get your music from. It's Cool Girl by Jillian Cardarelli.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That's a big cat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "It's a good song.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes, she's a big cat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That's a big cat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "Yes, it's a big cat. Juan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I don't do this very often but you know what, it's Friday. Happy Birthday Betty White. The famous actress turns 98 today. Born 1922, Oak Park, Illinois. Got her start on radio, but you know to all of us, she's known for TV. She's been a TV star since the late 40s appearing on game shows and sitcoms. You know our best though from the Golden Girls.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You're not going to believe this, but I have said all the story about this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "I don't --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes. Do you know that she won a Daytime Emmy for hosting game shows? Pat Sajak is watching this. I mentioning that. And so happy birthday to Betty White who is one of Hollywood's best-known animal rights activists. So we look forward to celebrating your 100th, Betty.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "She knows that animals are great. You and Betty have a lot in common.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "Yes, we dated for a while in the 90s, her 90s.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "All right, Kennedy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Thank you for being a friend, Juan. That was very sweet. Well, today marks the 100th anniversary of the beginning of prohibition. So I went to an authentic original speakeasy that operated during Prohibition right here in New York City. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "The interesting thing about the prohibition time, people think now with the mixology was all about taste, and that's where recipes came from. No. Recipes came from the fact to discolor a drink --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Get out. Really?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "So something like a slow Gin Fizz or Brandy Alexander which is a cream-based brandy cognac drink with a little bit of chocolate liquor, that was -- so they would think that you're just having some chocolate milk.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Throw off the feds. You know, desperate times, desperate measures.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "You can see the full video on Twitter @KennedyNation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "What's your head coat?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "I always wear -- when have you see me without a hat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "That is true.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "In civilian attire, I always wear hat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUTFELD",
+      "sentences": "You're a hat person.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I don't think we should celebrate prohibition. I don't think we should have anniversaries commemorating it. That's like Nancy handing out the articles of impeachment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "sentences": "Oh, you know what, Jesse?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "All right. That's all for us. Have a great weekend, everybody. See you back here on Monday. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NEIL CAVUTO, FOX NEWS ANCHOR",
+      "utterance": "And one of the key players in that trade deal with China and how he sees things sorting out, Peter Navarro.  All coming up at 10 a.m. Eastern right here on Fox News. Here's \"The Five.\""
+    },
+    {
+      "speaker": "JESSE WATTERS, FOX NEWS HOST",
+      "utterance": "Hello. I'm Jesse Watters along with Kennedy, Juan Williams, Dana Perino and Greg. It's five o'clock in New York City and this is The Five."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "You take pictures behind the Resolute desk. It's been there a long time. A lot of presidents, some good, some not so good. But you got a good one now even though they're trying to impeach the son of a b****. Can you believe that?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "President Trump joking in confident about impeachment while Democrats and the media attempt to Hail Mary. They've been pumping up their new star witness Rudy Giuliani associate Lev Parnas. The guy has some serious credibility issues, but Democrats and the media are more than happy to overlook all of that. Take a look at some of the reaction."
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER (D-NY), SENATE MINORITY LEADER",
+      "utterance": "Last night Lev Parnas gave an astonishing interview on national television."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "The revelations he talked really are blockbusters."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "More on the bomb shell."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "For this explosive material."
+    },
+    {
+      "speaker": "JOHN BERMAN, HOST, CNN",
+      "utterance": "It's explosive new interview."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Absolutely explosive interview."
+    },
+    {
+      "speaker": "JOE SCARBOROUGH, HOST, MSNBC",
+      "utterance": "It was breathtaking."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "The fawning is so bad Jake Tapper at CNN was forced to call them out."
+    },
+    {
+      "speaker": "JAKE TAPPER, HOST, CNN",
+      "utterance": "We can't ignore Parnas has a serious credibility problem."
+    },
+    {
+      "speaker": "NIA-MALIKA HENDERSON, CNN SENIOR POLITICAL REPORTER",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "TAPPER",
+      "utterance": "He's under indictment for campaign finance charges. The foreign minister of Ukraine told CNN's Christiane Amanpour that he doesn't trust a word Parnas is saying. And yet, I see people out there in social media Democrats are acting as if this guy is the second coming of Theodore Roosevelt or something."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "And while Democrats desperately try to save their failed impeachment push, President Trump just put together a legal dream team by adding Ken Starr, Robert Ray, and other top-notch lawyers, and Alan Dershowitz says he will make a constitutional argument against impeachment. OK, Greg Gutfeld, star witness. Lev Parnas."
+    },
+    {
+      "speaker": "GREG GUTFELD, FOX NEWS HOST",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "A lot of blockbuster revelations."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes. He has the stench of Avenatti mix with -- who's that other dude that they thought was going to be the next big thing?"
+    },
+    {
+      "speaker": "KENNEDY MONTGOMERY, FOX NEWS HOST",
+      "utterance": "Michael Cohen."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Michael Cohen. Anyway. Because this is Friday. I'm starting a new thing it's called good news Greg."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Would you like to see good news Greg? Because everybody says I'm being too negative so I'm really going to be really positive. So, I'm going to start with this one point. For the media and half the government to indulge this farce, things have to be pretty good for this country, right? It's not like America is missing these clowns at the Capitol or at CNN. Why is that? And this is the irony, is that the successful state of the country has enabled this farce to continue. It's like -- it's like a peacock with his feathers. He can like, it's something that he can just carry along because he can. So, it's actually a good sign. And you know who I haven't quoted in a while?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Who? Scott?"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes, Scott Adams."
+    },
+    {
+      "speaker": "DANA PERINO, FOX NEWS HOST",
+      "utterance": "Drink."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Here -- everybody drink. OK. Trump has had the best month probably in his administration. He's got two trade deals, he killed the terrorist, he got the stock market breaking new records. So, what is, what could be behind this? According to Adams, Trump thrives on competition. And the fact is, impeachment is actually making him a better president because he's counter programming with achievements against their constant attacks on him. It's kind of like The Five. The Five only does great when there's a little spark of combat between us. If we all sit around here and agree, the audience gets bored and nobody watches. So that's what he is actually counter programming. And the more they impeach him, the better he does. That's great news. They should keep impeaching him. If they keep impeaching him, he will be the greatest president in the history of the universe."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes, Juan, I mean, can't you argue with that? I mean, that's air tight logic right there."
+    },
+    {
+      "speaker": "MONTGOERY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS HOST",
+      "utterance": "You know sometimes you think it's Friday. You know, just give him a break."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Friday is high day."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Why is that?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "What do you think?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "High day? I don't know what he's talking about. All right. All right. All right. You're going to have a drink after the show. Let's put it that way."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "After? What?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "He already started. It's five o'clock somewhere. I think Lev Parnas there's lots of reason to doubt lev Parnas. The guy is indictment, right? The guy looks like he's a criminal. So, I think yes, you should be doubting him and he may be trying to get himself a better deal. Although I can't understand why his lawyers would have him out on TV given that he's under indictment and he should be talking to the prosecutors. But I will say that this is an opportunity given what he's saying for people to try to corroborate, to look into exactly is there any basis for the kinds of things that he is alleging took place about, especially about the president's involvement, the president lying stands out, the possible attack on -- led by the president against a U.S. ambassador --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Would you, though, see Greg's point that it's been a spectacular month for the president in terms of accomplishment --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "God."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "-- on trade and on terror and on the economic side of the thing?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "He's had some legitimate accomplishments."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes. I'd say that it's pretty good, Juan."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "But this whole business, Greg keeps telling, America is doing fine, America is doing great. Look, life always gets better, but the fact that we have a person --"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Under a Republican."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes. Look at Bill Clinton's economy. Barack Obama, what a lovely president."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "And we were able to endure Clinton's escapades in the Oval Office."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "If not like this. This is something that I think speaks to who we are as an American people. I think this is chaotic, I think it's at times bullying and bad examples for us all and I think it's racist at times."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "It's an emotional argument."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Sorry."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I don't know. A lot of people think it's just entertaining fun. Kennedy?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Is that the best you can do?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes. I got -- a lot more where that came from."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "OK. Yes."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Kennedy, what did you -- what did you think about the media saying that this guy is going to be the silver bullet and this is the guy that's going to finally take down Trump? Just like we had Avenatti and Michael Cohen and James Comey and Robert Mueller. This guy, Lev is going to be the guy."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "And he's, Parnas is already eating his words at least to the New York Times. They said that he corrected the record and said I actually didn't meet with the president at that White House dinner. My bad. But I know the news cycle is very, very quick. And I know we go through these stories so quickly. In fact, that we have completely forgotten about World War III --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "That's right."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Two weeks ago."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "-- that we're supposed to be right smacked up in the middle of."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "He has t avoid World War III."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Yes. And now, you know, we are talking about phase one of the China deal. We're talking about signing USMCA. We're not talking this dire impending global instability. We're talking about this guy. And if the news cycle is so quick your memory has to be a little bit longer than that especially if you were an objective reporter and you have to remember that people like -- there with pundits and anchors on MSNBC and CNN who were laughably pushing Michael Avenatti as a potential Democrat nominee for president. And he was just rearrested for violating --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "He is behind bars now."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Harder on for president like that."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "So, I don't know why they would think -- if the president of a corrupt country like Ukraine is saying this Parnas guy, I believe a word that comes out of his mouth."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "If he's saying that, then I would just exercise a little more skepticism."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "So, wouldn't you say though this might be a reason to call witnesses?"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Yes. Because that way, that way, Juan --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Where is Hunter? Let's call him. All right."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "-- you can keep Bernie and Nancy and Amy off the campaign trail until Nevada 2024."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, no. But you say hey, if this Lev Parnas is such a terrible guy --"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Hold on."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I'll see you Lev Parnas and I'll raise you the whistleblower and Hunter."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "OK. Can we go to MSNBC it seems like now they're just trying to shame Republicans into doing what they want? Here's Joe Scarborough."
+    },
+    {
+      "speaker": "SCARBOROUGH",
+      "utterance": "We all know why Lindsey saying he doesn't want a fair trial. he's not going to provide a fair trial. History is going to treat these politicians very badly. And if you're retiring, you can actually -- you have the luxury or if you're Mitt Romney, you have the luxury of saying hey, I'm going to do what's right and the American people want to hear all the evidence."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Like the Brady bunch up there."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "An unattractive --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Though they don't get along as well."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Right. Right. So, what do you think about the shame game?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "So, one of the games as impeachment got started was to go back to any of the politicians that were in office during the Clinton impeachment and play the things that they said then and the things that they're saying now and how you can basically switch them."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And the reason for that is that it is a political exercise. And both sides do it. Think of the people today who are all about me too and but they were the ones defending Bill Clinton back then."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And now with Trump. You have people who might have said something different in 1999 who are saying something now. Lindsey Graham is one of those people. But here's the reason. This is not about a jury trial. This is an impeachment and we all know impeachment is a political exercise. So, each, the media wants the Republicans and back in the Clinton impeachment it was the same what the Republicans saying how could you possibly -- like this is disgusting. How could you deal -- this is horrible. And they tried to shame them into thinking that. And now the Democrats are trying to do that to Republicans and to Evangelicals. Right? How dare you. You say you're for all of these things."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And they seem to seem so indignant. But in eight years from now if we're covering an impeachment of a Democrat which we might because now they're just basically lowering the bar for impeachment so much, you'll see the same switch-a-roo."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "And it's hard to shame politicians because they have no shame."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "It's going to be hard to impeach president West, though."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Is that Adam --"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Kanye."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Kanye. Kanye West."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I was looking for Batman."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "All right. Coming up, disgraced former FBI director James Comey could be in some serious trouble. We'll tell you why next."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "More trouble could be coming for James Comey. Federal prosecutors reportedly investigating whether the former FBI director leaked classified information to the media. Again, the New York Times reporting prosecutors are scrutinizing at least two news articles about the FBI and Comey that published back in 2017. They mentioned a secret Russian intelligence document, paid to have -- said to have played a key role in Comey's unilateral announcement to close the Clinton private server investigation. So, what a tangled web we continue to weave. And there seems to be, Juan, James Comey keeps coming up over and over again."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes. You think this is payback?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Maybe."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "You think a little back stabbing going on? Yu know what's the tail here is, like a poke. The tail here is they had to go back to 2017. This is nothing contemporary. They're looking to get James Comey. They've also got --"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "But he wasn't an FBI director after 2017."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes. What? No, he wasn't."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "He was fired in 2017."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "But that's -- if there was something done wrong then, you'd do it in line with the timing, Kennedy. So, they're also after --"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "That's what I say about Elizabeth Warren and Bernie Sanders."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "They're also now going against Andrew McCabe. That's another tale in this. This is about, you know, Bill Barr -- and Dana and I have argued about this. I thought Bill Barr look, he had a pretty good record under President Bush. Bring him back. He's a guy wo's seen as highly credible. But he has become President Trump's thuggish attorney general."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Thuggish?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I remember when Eric Holder said he was Obama's wingman. And that didn't get any flak. I just think Bill Bar is a straight shooter. But here's what happened with Comey. He gets duped by fake Russia news, then leaks the fake Russia news he got duped by and now he is being investigated for it. This was with the Clinton e-mail investigation, which he botched. And then he goes and botches the Trump Russia investigation the same way, by getting duped by fake news, a.k.a. the dossier. He puts together this team of rogue FBI agents that doctor e-mails and lie to the courts so they could spy on the Trump campaign. And that's why people hate McCabe and James Comey."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Also, that's what's going on."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Because they crumple on (Inaudible) and then they get multimillion book deal with fat contracts at CNN. And if you look back on what happened Trump was right, Comey was wrong. There was no collusion."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "So, this is the reason --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "And he had every reason to fire James Comey. I'm just putting a little context."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "And here's the context. He's a dangerous dude. He mishandled two highly sensitive FBI investigations. First the Clinton investigation. She deleted 30,000 e-mails under subpoena. If he had actually done his job, Bernie would have been the nominee. Then he frames Trump for collusion. Basically, cost the Republicans the mid-term elections. He's interfered in our elections more than the Russians if you look at it honestly."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Do you think the Democrats have an issue with that?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I think James -- the Dems hate him more than Trump."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, I'm just so --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "So, the guy has got bad instincts. And every time you call him out on it, he puts out on this boy scout routine."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "OK. All right. So, he's not --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "He's a dirty cop."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I don't know about a dirty cop."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "He's not a cop."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That's wrong."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "That's -- OK. But that's actually law enforcement officers do not like James Comey because he doesn't understand their culture or the world. They come from it. It is always all about him. It's never about the people in the FBI."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "It is always about him. You're right."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "And unfortunately, under him, federal law enforcement has really suffered."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "And their reputation has suffered. And he allowed that and Andrew McCabe allowed that. And the fact that he was, you know, like a dirty lawyer nefariously leaking stuff to the New York Times and the Washington Post through an intermediary, that he admitted. He said that was the impetus for the Mueller investigation for launching that. He knew that would happen --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "But that's not what this is about."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "-- upon his firing."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "This is a witch hunt. You both of you just --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Witch hunt."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "OK. But --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "You don't like James Comey."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "I know --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I may not like James Comey."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Juan said with hunt."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Why are you going back in time to go after this guy?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "He --"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Because those are the facts that happen to bolster the case --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That what?"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "-- that he had a screw loose and he's a bad person."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Fine?"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "He's a bad person with so much power, he could use the entire apparatus at his disposal to spy on a political campaign."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And the FBI they are trying to rehabilitate their reputation of the FBI. And a state bureau chief -- a state level bureau chief would have been fired for the same thing."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I'd like to go back and use a little of history to help everybody out here. Remember back in the 90s there was a TV show called \"Friends.\" A very popular show. Remember how disappointed you were when you sit down to watch \"Friends\" and the episode would be about Phoebe?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes. And you're like I don't really care about Phoebe."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Well Comey is the Phoebe of American politics. I mean, he's always there in the background but I really don't want to hear about him anymore."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "You want to hear about Ross."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I think I want to hear about Ross or Joey."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And Rachel."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "They were funny people. But it's like I feel like when he comes on, I feel like I'm watching episode two of series three. I've already gone through it. We know they all die at the end of \"Friends,\" by the way."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Very sad."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That's in the last season. They all die."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I didn't know that."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "yes. Yes. But Comey, Comey got famous and he enjoyed being famous. He should be a spokesman for a product, I was thinking something like depends. And you know, when you really need to stop a leak and he could just be sitting there and he's like very comfortable. Anyway."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "The Flex Seal that would be a good one."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That Flex Seal that's a great one."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Why not?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Why not?"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I would like to do Lactaid or Sequel."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Or the other one we're talking about in the commercial break."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes. We're not going to talk about that."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "The other one. The other one."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I think Trump could do those new light bulbs for the --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "All right. Coming up, CNN furious with Republican Senator Martha McSally over what she said to a reporter. We're going to show you next."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "It's a media uproar over this exchange between a CNN reporter and Republican Senator Martha McSally."
+    },
+    {
+      "speaker": "MANU RAJU, SENIOR CONGRESSIONAL CORRESPONDENT, CNN",
+      "utterance": "Senator McSally, should the Senate consider new evidence as part of the impeachment trial?"
+    },
+    {
+      "speaker": "SEN. MARTHA MCSALLY (R-AZ)",
+      "utterance": "Manu, you're a liberal hack. I'm not talking to you."
+    },
+    {
+      "speaker": "RAJU",
+      "utterance": "You're not going to comment, Senator?"
+    },
+    {
+      "speaker": "MCSALLY",
+      "utterance": "You're a liberal hack."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Wow. After McSally said that, CNN hosts raced to defend their colleague. Look at this."
+    },
+    {
+      "speaker": "WOLF BLITZER, HOST, CNN",
+      "utterance": "It was disgusting, it was awful. She should know better. She or her staff no one has reached out to apologize to you, have they?"
+    },
+    {
+      "speaker": "RAJU",
+      "utterance": "I have not heard from them at all, Wolf."
+    },
+    {
+      "speaker": "CHRIS CUMO, HOST, CNN",
+      "utterance": "This question was obvious. So was her dodge, so was the disrespect. It's all textbook Trump. She really acted like a punk."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Whoa! And here's Senator McSally responding."
+    },
+    {
+      "speaker": "MCSALLY",
+      "utterance": "I'm a fighter pilot. You know? I called it like it is. And that's what we see out of the mainstream media and especially CNN every single day. So obviously I'm going to -- I'm going to tell the truth. The Democrat senators walk by and they say hi, how are you today and then they chase after the Republicans."
+    },
+    {
+      "speaker": "LAURA INGLE, FOX NEWS CORRESPONDENT",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MCSALLY",
+      "utterance": "I mean, it's honestly ridiculous."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "All right. She can have a problem with CNN but I don't think that reporter's opinion -- that's not Joe Scarborough. So, I just thought it was over the top. But they certainly responded. You have to have thick skin if you're a reporter, powerful people are not going to like you if you're reporting the news. Dana, you have a lot of experience with news and being on either side of that fence. Do did you find that?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "You should have seen what I used to call reporters behind their backs."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "I'm kidding. I'm kidding. I'm kidding. So, OK. A couple of things. Manu Raju I think is actually a very good reporter."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I agree."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And you see him he works -- you see him he's always there along with our Chad Pergram, our Mike Emanuel walking the halls. He's working --"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I hate those guys."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "-- he's trying to do his job. I just think that for reporters it never works out if you become the story. Do you remember a few years ago when John McCormack got pushed in a scuffle?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And he got pushed down and he didn't want to be part of the story and everyone tried to make it into this whole thing how he was pushed by the Democratic candidates' guy. So, I wouldn't have done the whole thing at CNN. Like ignore it. Let -- he's going to have to go back to the Capitol every single day and do his job. So why blow it up into a big thing and say it's disgusting and demand apologies? That I didn't think was right. Now, however, I think the United States senators who are paid by the taxpayers who are answerable to their constituents and through the press, I don't think -- it didn't seem like her to me. Now she's -- maybe she's had it. And I get it. She's a fighter pilot but she's also in a very tough race in Arizona. And she got a lot of Atta girls from people from the right and I think that's one of the things that she was thinking."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Jesse?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Well, you know, Juan, I don't engage in name-calling. I don't like to bash the media."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I think they do a great job. So, I'm not going to -- no. I think you're right. I think all of these senators talk trash about reporters. They just don't do it to their face. She did it to his face and all hell broke loose. And then I thought to myself, how many times have senators and congressmen on the left said nasty stuff about us at Fox News? They have called us lunatics, hacks, conspiracy theorists. Things a lot worse."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "And there's there --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Like a lot of people did."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "And then there's the inaccurate stuff."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "You know, we don't go around and cry and put out press releases."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And go on Hannity shows."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "We would never act like the victim. When you're called names like that. But listen, he's not a hack but he's a liberal. He goes around and asks questions from a liberal perspective. He doesn't ask Chuck Schumer where is Hunter. He asks McSally, do you think we should call witnesses? That's fine. That's his job."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But everybody is being asked, they are going to have to answer on Tuesday."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes, but they're answering questions from the Democratic perspective."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Maybe -- maybe they have beef. Maybe they have an issue. Maybe he tweeted something about her or said something and she just continued to carry it. But he knows and every reporter who works in that gaggle knows that you have to have an explosive bite in order to get on. Because they do that all day long. They chase people around and every single interaction is not going to get on. But something like that is. And it's lonely and it's tough especially when other people gang up on you. It's a win-win for everyone."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Do you think this is good for Manu?"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "I think -- I think it's good for him because all of his friends at CNN get to cry and they're like, how dare they. And they act so offended. And then people in Arizona are like I didn't know she had it in her. Good for her."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Hey, Greg."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Because they probably have the same level of frustration. And you know, I've seen Joe Biden be so disrespectful to Peter Doocy. I think sometimes Peter Doocy asks some questions and he knows that the vice president is going to get very upset with him."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes. If sleepy Joe puts one finger on one hair of Peter Doocy's beautiful head, he's going to have to answer to me."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Really?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "What about his father? His dad -- OK. But let's look at Laura Ingraham asks Senator McSally the same question."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "What about Manu Raju's questions? Do you want witnesses?"
+    },
+    {
+      "speaker": "MCSALLY",
+      "utterance": "Well, I want a fair trial. Do it again in the House."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "OK. You're not going to play the game --"
+    },
+    {
+      "speaker": "MCSALLY",
+      "utterance": "No, no, no."
+    },
+    {
+      "speaker": "INGRAHAM",
+      "utterance": "You can call me a conservative hack. But do you want witnesses, yes or no? Why aren't you telling us?"
+    },
+    {
+      "speaker": "MCSALLY",
+      "utterance": "Because we're going to vote on Tuesday to start the trial and let them present --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Wow. So, Laura Ingraham says, I guess she is a conservative hack if Manu is a liberal hack."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "No because we -- let's avoiding the obvious here. The beef is about the network. This is a network that has pushed a three-year hoax. OK?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "So, everybody on the other side is like I'm tired of this crap. They also push the most anti-law enforcement narrative I've ever seen on TV before Trump was in office. So, there's an inherent bias about dividing America. I do hope that Manu gets the medical help that he needs for this grievous, grievous injury. Do they have a therapy llama in your bio or a therapy fairy that can keep him company? I just hope he's all right. I think that the word hack is not a good word. I think it's a lazy word. I don't think he's a hack. I think there are better words to come up with. But I think it's incredibly healthy for people in this world to view the press the same way that they look at pyramid schemes. That the only way the press can maintain power is to get you to believe in their story. And the sooner you realize that, the healthier you are. So the more antagonism towards the media there is, the better I feel. And I'm saying that as somebody who is in the media, but I loathe the media."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes, I noticed."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Self-loathing."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "All right, there's another media controversy brewing. It's over this New York Times op-ed headline, Megan McCain has a problem -- The View has a problem with Megan McCain. The piece goes on to say, \"for some viewers, Miss McCain is the privilege product of conservative nepotism, capitalism, and the American military-industrial complex.\" Miss McCain responding on Twitter, \"If the New York Times wants to understand the country, maybe they should try having one woman in the room who doesn't accept their groupthink on guns, abortion, and religion. Apparently, that's too much for them.\" Ladies?"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Megan --"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Are you referring to me?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "You know I wouldn't do that."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Megan works really hard. And she's worked hard for a long time. She's worked in media for a long time. And she's definitely put her time in. And the reason people talk about her is because she researches her topics and challenges people that otherwise conservative journalists wouldn't have access to. And, you know, I think there are disloyal people who work at her show, who have personal agendas, and they're servicing their own careers and the media by planting these stories. And I think it's a bad look, not only for The View but for ABC, and they need to clean up their culture."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But has any show ever had this sustained amount of disarray and disgruntlement for years way before even Megan McCain got this?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "What about this show?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Well, we don't get in it -- but I think it's different because we laugh about it."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "We love each other. We laugh and we love. Look, you know what kills me about this story is that they published this article. It was like a crank letter. You know when somebody writes to Fox? Those girls on T.V. at THE FIVE, their skirts are too short, and Greg Gutfeld uses bad language. I heard him use \"damn\" the other day. I'm turning off the set unless Juan apologizes. It's a crank letter. The New York Times published a crank letter because friends in high places, right? There's somebody at ABC who's friends with somebody at the Times, because there's no way that would have been published if it wasn't --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But also, how many of these people -- like I'm surprised at how many reporters watch The View and then write about it every day."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Well, because they're home then."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes, I guess."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "They're home. What?"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "They're also being -- they're also being (INAUDIBLE) that stuff. And again, like lock it up, you guys. Have some loyalty for where you work, the organization, and the show."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I wrote a big piece on Jessie anonymously and that's coming out next week."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Jesse, give me your take. Because some people are Abby Huntsman, all the things that have been checked. Is that conservative versus conservative?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I think she does a good job on that show. She's outnumbered. She's like the Juan Williams of The View. She gets paid very well to be the lone voice and she gets paid well to take a beating. And yes, you know, her name is McCain so that opens doors. Just like Hunter Biden's name opens doors in Ukraine. One person is very talented without the last name an one's not. And one gets everything, Hunter, because of who he is. She can stand on her own."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "You think you got a thing going for Hunter today?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Where is he, Juan?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "All right, all right, here we go. Stay right there folks, the \"FASTEST SEVEN,\" a whole lot of Friday fun coming up for you next on THE FIVE."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Bet you. We just betted. All right, welcome back. It's time for the \"FASTEST SEVEN.\" First up the LSU Tigers were at the White House today, but it's what happened right after at the big football game that's getting all the attention. There is an arrest warrant out for NFL star OBJ Odell Beckham Jr. after he did this in the locker room. He spanked his bottom. The cop apparently wanted to punch back him in the face, but kept his cool then saw the video and later press charges. Jesse, what do you make of this?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "He shouldn't have been slapping the cop around like that. But the cop doesn't need to be in the locker room trying to crack down on champions smoking cigars. Why are they in the locker room? They're trying to celebrate? Get the cops out of there. Let them celebrate."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "He what's -- he wasn't a cop. That was actually a stripper. They hired a stripper."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "You know, that should be Odell's defense."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes. I thought he was -- I thought he was --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I thought he was taking his clothes off."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Don't strippers dress up as cops."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "It happens to me every time."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "We did that once to one of our executives at the MTV Beach House because the cops kept showing up with noise complaints. And so one showed up and she started crying because she thought the cops are there to arrest her. And then he's like -- but you know, can't you celebrate. You win the national championship. And then another police officer came in, it's like, smoke your cigars, boys."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes. So there's plenty of other things that are happening in New Orleans where you would need officers' attention, smoking cigars, although I can't really imagine how much smoke was in there. I probably would have had to leave myself."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes, that's my feeling. I think a lot of things going on locker rooms, a lot of ass smacking, a lot of --"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "What? That's right, Juan."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "-- profanity, and lot of crazy."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "He's taking us back to the 80s."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "But I must say, I must say, if you are in a locker room in this era, you should be aware of cameras, you should be aware of cell phones. And I guess you have to be aware, Jesse, of police, because I've never been in a locker room where they've been police but I don't think this is working. So he smacks the guy. He didn't smack him in the face. He touched -- in the locker room, how many guys are whipping towels."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes, he was saying good game."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "That should be his defense."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Up next, we've seen standing desks and treadmill desks, Bret Baier has one, and those weird ball chairs that people still sit on, but could this be the next big office trend. Behold, the lie-down desk. It lets you work while flat on your back. You just lie down. Not cheap. It costs over $7,000. Do you already have one, Greg?"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Working horizontally? Isn't that what the Mustang Ranch is for? You kids don't understand. I am sick and tired of people making light of just normal sitting. We are made to sit OK. I'm tired -- I don't -- when I walk by my coworkers that are standing, I kick their legs out. I kick their legs out. They fall down and they ride in pain. And I say, get a damn chair because you're hurting the chair business. They're putting big chair out of business."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "You have a lot of money tied up in big chairs?"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I got all my stocks. My 401(k) is all big chair. High chair as they call it."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "So Dana, is it -- is it a placebo effect because some of the reviews online like I'm so creative and productive now that I'm lying down."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "It's like the -- it's like the weighted blanket craze and everyone thought they needed a weighted blanket so they could go to sleep. Like you don't really need one. You don't need it. I got a balance board to be standing on at my standing desk."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Balance board?"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Oh my god."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "My 10-year-old has a hoverboard. And she just hovers around the apartment with her laptop open."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I sit in a bath of hot oil."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "That might explain your mood."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "You said -- you said Bret Baier has what?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Treadmill desk."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "So he runs while he --"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "No, he walks. He said he can -- he can clock like six miles a day on that thing. It's very impressive."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Really."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I tell you what's impressive, the cost of this thing. So in other words --"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "$7,000."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "This is like you could get a peloton. I think some people here have done it for -- I think you goodbye like almost three pelotons for this thing. So what is this about? This is like an indulgence?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "It's not about --"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Do you -- do you remember the movie Wally where people are so fat in the future, they just like, glide around in these chairs because they can't stand up and they eat out of cups. That's it. We're turning into Wally like we're so stupidly lazy that we can't even be bothered to sit up and work. I Must recline."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But it might help your back a little bit, or your front."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Finally, have you been sick with the flu this season? It turns out our booming economy may be to blame -- seriously. Researchers say job growth is bringing more people into the workplace, and that could increase the spread of the virus. Greg, you've always said you like to be the infected monkey."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "You like to be the person --"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "You know, it's kind of -- I have the same philosophy about zombies. It's like, why are you scared of zombies? Just become one and then people are scared of you, right? This study is wrong. It's because of the holidays. The holidays cause the flu because people are on planes. And with a good economy, they're flying more, so everybody spread it. Like my wife and I, we got the flu coming back from your damn wedding. I was in bed for six days because of you, Jesse."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Yes, but you lost weight. You look great."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "You were late to the wedding, Greg."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Well, yes."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "And I still haven't gotten a gift, by the way. Was my gift your presence at the wedding?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes, that was the present."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "You know, I think the bigger problem is people don't get the flu shot. The vaccine thing."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That is true."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "This is like, all right, people going to get the flu, but why we have the sense in America -- and I run to so many people, oh, I don't get the flu shot. I think I get sick if I get the flu shot. Get the flu shot, will you?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "It's true though. Like the economy is good so people -- the planes are packed, people are traveling either for business but -- or for fun, and that's -- it does spread so you have to just be careful. You know, take care of yourself."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Dana, they're blaming Trump for the flu. That's what this is."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "No, actually -- no, no, no."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "The economy is so good --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Turn it around, Jesse. Turn it around and say it is a great sign that there's the flu because President Trump has given us the greatest economy so now we can have more flu. It's fabulous."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "That's right?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "That's how you turn it around."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Don't go anywhere. \"FAN MAIL FRIDAY\" is up next."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I love sticks. All right, it's \"FAN MAIL FRIDAY,\" answering your questions. First question from Kristine S. If you film your own commercial for the Super Bowl, what item would it be for, Jesse?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Probably that lay down chair."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I'd probably have a sponsorship with the laydown chair. And you can just fake like you're sleeping when you're supposed to be working. That's what that's about."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "First of all, price tag of $7,000."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Dana?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Healthy dog food."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Oh, interesting."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Then you have -- like I could have Jasper in the commercial."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Of course."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And I could get some promote -- some like free dog food."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Oh, there you go. Always working the angle. That's what they say, the Dana angle, working the Dana angle, Juan."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That's what they said?"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That's what they say."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Wait a second. So I got -- I can think of three categories. So beer."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Beer has got to be big, right?"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Then snack food. Snack foods is got to be big, and cars."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "So I think I would pick snack food."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I like the toes as my kids call the Doritos, Fritos."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "And human toes."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "They're not bad, either."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I have a whole jar of them in the basement."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Grose."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "What was that era when I used to pick up drifters? Kennedy."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "I think I would like -- I would like to sell hot freedom."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Hot freedom."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "I'm not sure what it is, but I think it's a full-body rub."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "You just rub it all over your body and all of a sudden, you love the Constitution in these United States of America."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I would sell a combination, my pillow, Tommy John underwear. It's underwear that you can use as a pillow or a pillow that you can wear as underwear."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "That's brilliant."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "And make it gold."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "And make gold, exactly."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No, no, no, silver."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Silver."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Sorry, silver."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "And you can keep -- and you can keep it in your safe. All right, what's in your safe? All right, what is the one thing you are embarrassingly bad at, Dana?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "I don't know."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Oh, good, pretend like you can't think of something. Come on, Dana."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "No, I mean, I'm bad at all sorts of things. I don't know. I probably have to say a sport, probably."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "OK, sports."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Jesse."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I'm a really bad singer."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "I'm a terrible singer."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "You can't have mine. Like in church, like I'm so meek and church. The minute I say one thing, people start looking around. That's why I don't go to church."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That's true. I did stop going to church because I don't like the singing part."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I'm just bad singer. I don't like to sing."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I also -- I also don't like the handshaking thing."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes?"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Because I don't want -- I don't want --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But the economy is great so you could get the flu."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Kennedy?"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "I'm bad at acting."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Oh, yes."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Really, really bad. And so the creator of CSI New York was like I wrote a part for you and it is yours. All you have to do is come read it. And they're like, oh, you're really bad at acting. I'm sorry, we can't go with you."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Juan?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "You know, when I go to the beach, all the guys go out in the ocean. We try to do handstands and I will try and try and flip and flop and the wave comes and knocks me down and try again. I'm just -- I'm --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "You flipflop all the time."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That's it."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Is you family trying to kill you?"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "I'm bad at saying no."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "It's like hold him underwater."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "You're bad at saying no."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That's like the title of a -- like a cautionary tale for teenage girls, bad at saying no. The story of little Dora or whatever. I didn't even think about it. I can't act. I can't act because you know you can't -- you can't -- I can't --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I've seen -- I've seen the GG show."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "But that's not acting. I can't --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "That's not acting?"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "I cannot write fiction. I tried to write fiction but I don't take myself seriously."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Scott Adams writes fiction."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That is true."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "But do we have to drink when she's -"
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes. All right, \"ONE MORE THING\" next."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "It's time now for \"ONE MORE THING.\" Has anybody here had a hole on one?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Never."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Maybe in mini-golf, right, but not really. OK. American Express classic, this year, a guy with one arm does it."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Awesome."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "One-armed golfer, his name's Laurent Hurtubise. He's an amateur. Hole in one from 151 feet."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Awesome."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "In the cup. Unbelievable. 500 par after the first round. We're going to follow it over the weekend. Also, this weekend \"WATTERS WORLD\" 8:00 p.m. Eastern time. We have Eric Trump. He's the son of the President. He's one of the sons. What they call first family member. He'll be on \"WATTERS WORLD.\""
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "What was that about?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "No, for people that don't know who he is."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Do you think we don't know --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I'm trying to explain it, Juan."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "He has a last name."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes, Trump. I mean, he did -- not every Trump is related to the president."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "OK. All right, all right."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I'm just trying to explain it, Juan. Who knows who's watching? Greg."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That was a hole in one."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "All right, tomorrow, the \"GREG GUTFELD SHOW\" 10:00 p.m. I got Lawrence Jones, I got comedian David Angelo, Kat Timpf, and Tyrus. That's Saturday, January 18, 10:00 p.m. Watch it or I will hate you. Let's do one of these."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Animals are great. Animals are great. Animals are great."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "They're laying off the animals. Hey, you know what, I hate the ocean and you should hate the ocean too. The ocean is evil. Everything in it is evil and wet. You know what I hate about the ocean? It's hard to stand on a boat. Unless you have seen this."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "This is great."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Check out Maggie the Welsh Terrier has the most impressive sea legs you'll ever see."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Nice lean."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Look at that. That's like me walking home from the bar. Just kidding, I never walk home."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "You have a driver on standby."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes. I have a driver on standby. He takes me to every bar. Vito, he's a great guy."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "All right, Dana."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "RIP Vito."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "All right, so we have a friend Jillian Cardarelli. We've talked about her before. She's a country music star out in Nashville. And she has a new song out called Cool Girl. Check it out here."
+    },
+    {
+      "speaker": "JILLIAN CARDARELLI, SINGER",
+      "utterance": "We can dance around and around this thing. Baby here's the thing. I'm not trying to be the cool girl."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "That song came out to at midnight and it's available at Spotify, Apple Music, Google Play, and anywhere else you get your music from. It's Cool Girl by Jillian Cardarelli."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That's a big cat."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "It's a good song."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes, she's a big cat."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That's a big cat."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "Yes, it's a big cat. Juan."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I don't do this very often but you know what, it's Friday. Happy Birthday Betty White. The famous actress turns 98 today. Born 1922, Oak Park, Illinois. Got her start on radio, but you know to all of us, she's known for TV. She's been a TV star since the late 40s appearing on game shows and sitcoms. You know our best though from the Golden Girls."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "You're not going to believe this, but I have said all the story about this."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "I don't --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes. Do you know that she won a Daytime Emmy for hosting game shows? Pat Sajak is watching this. I mentioning that. And so happy birthday to Betty White who is one of Hollywood's best-known animal rights activists. So we look forward to celebrating your 100th, Betty."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "She knows that animals are great. You and Betty have a lot in common."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "Yes, we dated for a while in the 90s, her 90s."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "All right, Kennedy."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Thank you for being a friend, Juan. That was very sweet. Well, today marks the 100th anniversary of the beginning of prohibition. So I went to an authentic original speakeasy that operated during Prohibition right here in New York City. Take a look."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "The interesting thing about the prohibition time, people think now with the mixology was all about taste, and that's where recipes came from. No. Recipes came from the fact to discolor a drink --"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Get out. Really?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "So something like a slow Gin Fizz or Brandy Alexander which is a cream-based brandy cognac drink with a little bit of chocolate liquor, that was -- so they would think that you're just having some chocolate milk."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Throw off the feds. You know, desperate times, desperate measures."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "You can see the full video on Twitter @KennedyNation."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "What's your head coat?"
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "I always wear -- when have you see me without a hat."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "That is true."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "In civilian attire, I always wear hat."
+    },
+    {
+      "speaker": "GUTFELD",
+      "utterance": "You're a hat person."
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I don't think we should celebrate prohibition. I don't think we should have anniversaries commemorating it. That's like Nancy handing out the articles of impeachment."
+    },
+    {
+      "speaker": "MONTGOMERY",
+      "utterance": "Oh, you know what, Jesse?"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "All right. That's all for us. Have a great weekend, everybody. See you back here on Monday. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

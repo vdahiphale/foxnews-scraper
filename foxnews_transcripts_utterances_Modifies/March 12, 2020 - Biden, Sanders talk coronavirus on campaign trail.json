@@ -1,0 +1,1917 @@
+{
+  "date": "March 12, 2020",
+  "headline": "Biden, Sanders talk coronavirus on campaign trail",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/biden-sanders-talk-coronavirus-on-campaign-trail",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "JESSE WATTERS, FOX NEWS HOST",
+      "sentences": "How did you come up with that book title?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. NICOLE SAPHIER, FOX NEWS MEDICAL CONTRIBUTOR",
+      "sentences": "That is a great -- that's a great question and --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "I don't know, it's incredible.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SAPHIER",
+      "sentences": "It was -- it was a group effort -- group effort and --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WATTERS",
+      "sentences": "What about keep America -- all right. Set your DVR's. Never miss an episode of THE FIVE. \"SPECIAL REPORT\", up next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS ANCHOR",
+      "sentences": "Good evening. Welcome to Washington. I'm Bret Baier. \"BREAKING TONIGHT\", America is changing. How it works? Goes to school or doesn't? How it plays or watches sports, or doesn't? The coronavirus is to blame.  But tonight, things are different even than just two days ago. President Trump, once again urging calm over the coronavirus. Emphasizing today that in his words, it is going to go away. A lot of your money is going away. Right now as massive sell-offs triggered another automatic trading shut down today on Wall Street. Life in the U.S. is undergoing some major changes affecting millions of people from students and workers to business owners and sports fans.  There are at least 37 confirmed deaths in the U.S. as of tonight. 29 of them are in Washington State. The number of confirmed infections in this country right now is at least, 1,444 that we know of.   Globally, according to Johns Hopkins University, more than 68,000 people have recovered from the virus 50,000 in China. We'll talk more about that in just a moment. In a few moments, we'll also talk live with New York Democratic Congresswoman Alexandria Ocasio-Cortez, about what Congress is doing. Right now, we have \"FOX TEAM COVERAGE\". Susan Li in New York with details on another market meltdown today. John Roberts at the White House with what else the president is saying and doing. But we begin with Jonathan Serrie in Atlanta, with the latest. Good evening, Jonathan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONATHAN SERRIE, FOX NEWS CORRESPONDENT",
+      "sentences": "Good evening, Bret. Georgia reported its first death today. The Georgia legislature announced a plans to suspend indefinitely after tomorrow. Maryland is closing all public schools statewide. In the name of public health, everyday life has about to change.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SERRIE",
+      "sentences": "As public health officials were offloading remaining passengers from the Grand Princess, the president of the cruise line announced a pause in operations.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JAN SWARTZ, PRESIDENT, PRINCESS CRUISES",
+      "sentences": "We will take our fleet of 18 ships out of service and reset the environmental conditions onboard. Incorporating all the great learnings from the world's public health experts.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SERRIE",
+      "sentences": "After Tom Hanks tweeted he and his wife Rita Wilson tested positive for the virus in Australia, where he's working on a film. Joel Osteen's Lakewood Church announced this weekend services will be held exclusively online. The nation's capital and Supreme Court are closing to visitors. NASCAR announced it will hold its next two races without fans in attendance, joining the NBA, NHL, NCAA, and other prominent sporting organizations that are either altering or canceling schedules.  Major League Baseball canceled spring training games and delayed its 2020 opening day for two weeks. Saying in a statement, \"Nothing is more important to us than the health and safety of our players, employees, and fans.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "It breaks my heart, really, but it did. I guess they have to do what they have to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I'm not surprised. I think that they needed to do it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SERRIE",
+      "sentences": "Just outside New York City, the National Guard is helping to clean public spaces and deliver food near a cluster of COVID-19 cases in the town of New Rochelle. New York's governor, announced his state is contracting with 28 private labs to make up for shortages and delays in federal tests.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. ANDREW CUOMO (D-NY)",
+      "sentences": "We can't just wait anymore. It's compounding the problem. And frankly, they can't put us in this situation because we're not able to do our job and our constitutional duty, which is to protect the public health.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SERRIE",
+      "sentences": "This afternoon, Ohio Governor Mike DeWine, announced the state will close all K-12 public, private, and charter schools from Tuesday of next week through April 3rd. He explained in the tweet, \"We have a responsibility to save lives. We could have waited to close schools, but based on advice from health experts, this is the time to do it.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SERRIE",
+      "sentences": "And Bret, the closings keep coming in late this afternoon Disneyland out in California announced that it will close Saturday through the rest of the month. Back to you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Jonathan Serrie in Atlanta. Jonathan, thank you.  President Trump, once again, trying to put the situation in perspective, contending that this situation in the U.S. is much better than in many other places around the world. Chief White House correspondent John Roberts tonight on a president still trying to keep calm and carry on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Thank you all very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN ROBERTS, FOX NEWS CHIEF WHITE HOUSE CORRESPONDENT",
+      "sentences": "In the Oval Office with the Irish Prime Minister today, President Trump making no apology for unilaterally and without consultation, pulling the plug on travel from Europe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We had to make a decision and I didn't want to take time. We had to move quickly. I mean, when they raise taxes on us, they don't consult us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "The decision to suspend travel sent the Dow off another 2,000 point cliff. Asked if he knew what the total impact on the economy would be, President Trump today said the health of Americans is his number.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Well, it will be a big impact, but it's a bigger impact, and it's also a human impact, which is more important, frankly, than the financial.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "On Capitol Hill, House Democrats move to provide billions more to respond to the spread of the virus and the financial impact on families. The senate minority leader, urging the Senate to move it right away.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER (D-NY)",
+      "sentences": "I plead with my Republican Senate colleagues to pass this bill now. It has been carefully thought out. Its programs are directly aimed at people, they're not ideological.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "The majority leader Senator Mitch McConnell, saying the Senate won't take it up until Monday. President Trump saying this morning, he didn't support the House bill.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "No, because there are things in there that have nothing to do with what we're talking about. So you know, it's not a -- it's not a way for them to get some of the goodies that they haven't been able to get for the last 25 years. He's doing a fantastic job.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "This afternoon, new concerns about President Trump's health after an aide to Brazilian President Jair Bolsonaro, who had dinner with the president at Mar-a-Lago last weekend, tested positive for the virus.  While the president came in contact with the aid, seen here standing beside him, and Bolsonaro has been tested and is being monitored, President Trump appeared unconcerned.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "The president was there. If he was there, he was there. But we did - - we did nothing very unusual. We sat next to each other for a period of time.  Senator Lindsey Graham, who was at Mar-a-Lago that night revealed today, he has been tested for coronavirus and his self-quarantining. In a statement, the press secretary Stephanie Grisham, saying, \"Both the president and vice president had almost no interactions with the individual who tested positive and do not require being tested at this time.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "It is still not known whether or not Bolsonaro, himself is tested positive or negative. We don't know the results of that viral test just yet.  And after weeks of President Trump saying that the coronavirus would not affect his campaign schedule. Today, he acknowledged that it is having an effect. The president was supposed to travel to Las Vegas tonight. That trip has been canceled. The president also saying today that a rally planned for Tampa on March the 25th likely will be postponed. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "John Roberts, live in the North Lawn. John, thanks. The carnage in the stock markets triggering another automatic shutdown today. The Dow plunging 10 percent, losing 2,353 points in its worst day since 1987. The S&P 500 fell 261, 9-1/2 percent down. The NASDAQ tumbled 750, almost 9- 1/2 percent.   Let's go to Susan Li of the Fox Business, joining us now from New York with the latest. Good evening, Susan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SUSAN LI, FOX BUSINESS NETWORK CORRESPONDENT",
+      "sentences": "Bret, it was one of the worst days in Wall Street history. Stocks plunging, trading halted again for a second time this week and only for the second time since 1997. So there's fear, there's anxiety that the coronavirus spread will disrupt businesses and daily lives that will drive the U.S. economy eventually into a recession. So, travel has been limited and that's hurting the airlines which virtually collapsed today. Playmaker Boeing, seeing its worst today drop in its history. Cruise lines, cratering Carnival, canceling princess cruise itineraries for the next two months. And all of this despite extraordinary steps being taken by the Federal Reserve of New York today. They were stepping in to provide $1-1/2 trillion worth of cash into the bond markets to make sure that the financial system doesn't seize up like it did during the financial crisis.   But it is important to keep things in perspective. We haven't seen any big companies like Bear Stearns or Lehman's collapse. And investment advisors that we speak to, say you really need to stay calm in these times.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAVID KELLY, CHIEF GLOBAL STRATEGIST, J.P. MORGAN",
+      "sentences": "I remember 11 years ago seeing the same thing where markets are crazy, people think it's Armageddon, but, you know, we will get past this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LI",
+      "sentences": "Now, we officially saw the end of the longest bull market in history yesterday with a Dow falling 20 percent from recent highs, what we call a bear market, fastest in history. Over the past 120 years, there have been 20 bear markets with 12 of them extending the losses by another 10 percent, including a two previous bear markets to this one. So, the losses may not be over just yet. Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "It gives you, you knew, it's like a roller coaster. What are the experts saying investors should do? I mean, there are obviously some buys, but five of the last six days had been down.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LI",
+      "sentences": "Well, the first piece of advice is don't panic. And a typical safety trades are the U.S. Treasuries, gold, and also the U.S. dollar. But he wants to buy stocks. They usually recommend these big companies, what they call blue chips that pay out dividends or money back to investors who hold the stock. But those aren't necessarily the ones that return the most over time.  Here's a list of some of the best performers over the past 11 years, and the longest bull market run in history that ended just yesterday. You see tech and consumer names, they make up a lot of the top 10 performers. So, those are some ideas for the brave if they feel they need to pick up some bargains in these uncertain times. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Susan, as always, thank you. The congressional response to the virus, much debate on Capitol Hill about the way forward. Joining us this evening, New York Democratic Congresswoman Alexandria Ocasio-Cortez. Congresswoman. Thanks for being here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. ALEXANDRIA OCASIO-CORTEZ (D-NY)",
+      "sentences": "Thank you for having me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "What's your concern? What do you think Congress will do?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Well, I think what we're seeing right now are a lot of dramatic developments this week in response to the coronavirus, both with our public health and in our economic response.  And so, what we need to do is act swiftly to not just concentrate on solutions for Wall Street, but we need to provide relief for working Americans, Americans who are living off of tips, who are getting laid off, who -- whose shifts are being canceled all of a sudden, and we need to make sure that we act very quickly. And that's why I think it's imperative that we pass the bill that's been presented today, which includes paid sick leave, which includes extended unemployment benefits, protections for Medicaid, and also making sure that we're taking action to protect doctors, and nurses, and hospital workers on the front line.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "There's been some negotiations between Speaker Pelosi and Treasury Secretary Mnuchin, apparently all day long. And obviously, there's a concern about what the Senate will do or won't do with the House Bill. The payroll tax holiday never really took off. Democrats, you weren't there at the time, but they were supportive of it under President Obama. Doesn't work this time?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "I think what we need to see is what tools we use for what responses? So, a payroll tax is one thing to be considered when there are certain economic indicator. But right now, we are dealing with is a pandemic. And so, what we need to make sure is that we're taking swift actions right now to protect doctors, to protect people on Medicaid, to make sure that people can see a doctor. And those are the things that we need to be focusing on right now. We can talk about a payroll tax later, you can talk about, you know, debate, all of these sorts of things at another time, but right now is the moment for swift action to make sure we're protecting our elders and our immunocompromised Americans.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I want to play what President Trump said yesterday about politics. Take a listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We have the best economy, the most advanced healthcare, and the most talented doctors, scientists, and researchers anywhere in the world. We are all in this together. We must put politics aside, stop the partisanship, and unify together as one nation and one family.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Agree with that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Well, I think one thing that we need to do is put politics aside. And that's exactly why Democrats have agreed with President Trump on his goals of paid sick leave and his goals of free coronavirus testing. And so, all of those things have been included in our package. We bumped it up a little bit more. But you know, in -- when you have a Democratic House and a Republican Senate, compromises the name of the game. I think the president is going to have to accept the fact that we're fighting for people who are going to be potentially unemployed. He's going to have to accept the fact that we're going to push on doctor and nurse protections.  But also when you look at the best -- you know, the best health care system in the world. That's something that's up for debate. South Korea, we're up to -- South Korea has up to 10,000 tests per day. They've been able to provide test to any single person that wants it. And here people are scrambling, and it almost seems like the more wealthy and powerful you are, the more able you're-- the more able you are to access a test. But the more -- you know, the rougher road you've got here, it's going to be a lot more difficult for you to access healthcare. That's exactly the recipe for disaster in a pandemic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Dr. Fauci testified that there is a failing on the testing up on Capitol Hill. But on the politics front, this is only two weeks ago, you tweeted out, Mike Pence literally does not believe in science. It is utterly irresponsible to put him in charge of U.S. coronavirus response as the world sits on the cusp of a pandemic. This decision could cost people their lives. Pence's past decisions already have.\" Obviously, Vice President Pence is the head of the coronavirus task force, but Dr. Anthony Fauci, the head of the CDC, all those other scientists, were also a part of it. Isn't that politics?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Well, you know, I disagree with the appointment of Vice President Pence. I have made that extraordinarily clear. But at the end of the day, he's there. So, we need to focus on the actions that need to be happening right now. And the actions that need to be happening is making sure that we're taking care of people who are going to be hurting as a result of this. Again, this is not just -- this is a public health crisis, but it's also an economic crisis. And on the public health front, we have a lot of people who are older and who are immunocompromised in this country. And the coronavirus is has been testified from the CDC director as 10 times more lethal than the flu.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Sure. And then that people point to the H1N1 virus, and it killed a lot of people in the U.S. And there is a wonder whether you know, where the perfect to response is? Whether we go too far or whether we don't go far enough. You're saying we should just not worry about that now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "I think we shouldn't worry about it right now. In fact, you know, one thing that I will agree with is that we should not be panicking, but we should be preparing. And if we are at a standstill here in Washington, and we aren't getting these things passed, and we are willing to compromise and negotiate for folks who are going to be unemployed, and for folks who need these helps in hospitals, folks who are on Medicaid, then there are going to be people who will get hurt by this. So, we need to take action right now. We have to depoliticize it. Right now we're hearing that some of the fights and some of the gridlock is because people are trying to put pro-life provisions into this. We can have that debate another time. We understand that we -- that we disagree on some of this --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Democrats tried to add stuff too. I mean, it's -- it becomes a Christmas tree up there when big bills are passed. But, to your point, I want to ask you a couple questions about the race -- presidential race. Your Bernie Sanders, most prominent surrogate, was it difficult to witness his kind of swift fall from frontrunner status? He's almost a protest candidate now. Your thoughts on that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Well, I think one of the things that we saw with Bernie Sanders's leadership, even today, is how transformative it is for the American people. Just today, he laid out a very strong plan and response for the coronavirus for everyday people, for Main Street, not just Wall Street.  He's talking about how do we make sure that everyone who needs access to Medicare can get it? And that, that Medicare is improved and expanded. How do we make sure that people aren't getting booted out of their homes, whether it's not being able to afford their mortgage payment this month, or not being able to afford their rent payment?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But it does seem that Joe Biden is on his way to the nomination. Are you worried that he's not going to be saying those things?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Well, you know, I think this part of our -- of our processes to make sure that we come together. I think there's going to be a real vigorous debate on I believe Sunday night if I'm not mistaken. And part of that process means that I think we will come together. And you know, I think Bernie Sanders has done a great job and is continuing to do a great job of pushing to make sure that we have a party agenda that fights for working people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Last thing, you did a campaign event at the University of Michigan. You had 10,000 people, it was like a rock star status. But those kids did not show up. At least, if you look at the numbers, just overall this, this race.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Yes. Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So, how can you say the progressive position is still prevailing nationwide when Joe Biden is winning so much?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Well, I think one thing that we -- that isn't being talked about is the rampant voter suppression in this country. Right there in Ann Arbor, where we had that rally, those kids were waiting three hours in line to vote in Michigan. And so, when we talk about who's turning out and who's not turning out, we absolutely --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But just to be clear, are you saying that you think voters didn't get to vote, who wanted to vote in Michigan?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Absolutely. You know, obviously, there's also more that we need to do in terms of turning out youth voters. It's we need to make sure that we're inspiring young people to turn out. But when you do turn out, you should not be waiting three, four, seven hours in order to vote. And that causes people to leave.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Last thing, you're working within the system now in this legislation. You've struck some conciliatory tones tonight and on Capitol Hill. At the same time, you're backing primary challenges for your leadership, Jerry Nadler, Steny Hoyer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Oh, that's not correct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "No?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "No, I'm not backing primary challengers for those two, but I have back primary challengers for --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "A growing list of primary challengers. Have you backed Steny Hoyer, Eliot Engel Jerry Nadler?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Richard Neal?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "No, but I have backed primary challengers to Dan Lipinski, and Henry Cuellar.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK. So, how do you square that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Well, I think that there are places where we can do better. And when we talk about not being partisan, I think just as Republicans can look in that -- in their own backyard, and say, this is what we can do better. I think that Democrats can look in our own backyard and say, there are places where we can do better too. And I think that if you are taking big money, and if you are relying on lobbyist funds, and you aren't answering to your constituents back home, you should be held accountable. And I don't think that incumbency should be a thing that's guaranteed. And I even apply that to myself, and I understand that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Congresswoman, we appreciate your time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Of course. Thank you for having me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Coming up, we will go live to the Pentagon. We're just getting breaking news that airstrikes are beginning in response to the latest attack on U.S. and coalition troops in Iraq.  Again, breaking from the Pentagon, we'll take you there next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "\"BREAKING TONIGHT\", the U.S. military is responding right now, it's underway, to yesterday's rocket attack in Iraq that left to U.S. personnel dead. Again, this is happening at this hour. National security correspondent Jennifer Griffin is at the Pentagon with the very latest. Good evening, Jennifer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JENNIFER GRIFFIN, FOX NEWS NATIONAL SECURITY CORRESPONDENT",
+      "sentences": "Good evening, Bret. U.S. military sources tell us that U.S.-led airstrikes are underway, currently as we speak, in response to the attack on the Taji Air Base that left two Americans and one British soldier dead yesterday. This is a response to the 30 rockets that were fired at the Taji base. We understand that there are airstrikes taking place as we speak in multiple locations. Where Iranian-backed Shia militias have both warehouses, as well as, this is an effort to basically disrupt their command and control. But it will be multiple locations we understand, it will be -- we're told a proportional response to the attack on the Taji base. Here is what the defense secretary said earlier today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GRIFFIN",
+      "sentences": "At the Pentagon today, the defense secretary warned there will be a response to an attack that killed two Americans and a British soldier in Iraq.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARK ESPER, UNITED STATES SECRETARY OF DEFENSE",
+      "sentences": "And I have spoken with the president. He's given me the authority to do what we need to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GRIFFIN",
+      "sentences": "The head of U.S. forces in the Middle East, says an Iranian-backed militia likely launched the attack that wounded an additional dozen coalition troops.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEN. KENNETH F. MCKENZIE JR., COMMANDER, UNITED STATES CENTRAL COMMAND",
+      "sentences": "That the Iranian proxy group, Kata'ib Hezbollah is the only group known to have previously conducted an indirect fire attack of this scale against U.S. and coalition forces in Iraq.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GRIFFIN",
+      "sentences": "The militia launched 30 Katyusha rockets at Camp Taji, located 17 miles north of Baghdad, more than a dozen struck the base. Among those killed, Lance Corporal Brodie Gillon, a 26-year-old British army medic. It was the largest attack on U.S. and coalition troops since Iran fired ballistic missiles in early January, days after a U.S. drone strike killed Iran's most powerful general, Qasem Soleimani at Baghdad's airport. Yesterday's attack coincided with what would have been Soleimani's 63rd birthday.  Iraqi forces help secure this truck found rigged with rocket-launching tubes a few miles from the base.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEN. MARK MILLEY, CHAIRMAN, JOINT CHIEFS OF STAFF",
+      "sentences": "We have good indication based on forensics, of where it was fired from, who did the firing, and so on and so forth. And the groups that were responsible will be held accountable.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GRIFFIN",
+      "sentences": "The U.S. has two aircraft carriers in the region, but we are told that Tomahawk missiles will not be used in the strikes tonight. These will be limited to airstrikes at multiple locations across Iraq and along the border with Syria, where groups like Kataeb Hezbollah, one of the Iranian- backed Shia militias believe but to be behind that rocket attack on Camp Taji, where they keep those Katyushas, where they keep those drones, where they keep the weapons that have been used to terrorize Americans and coalition forces at that base in Iraq and other bases. This is designed to be a proportional response and to deter future attacks. Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All right, Jennifer Griffin, live at the Pentagon. Jennifer, we'll head back with any other breaking details. Thank you. Coming up, the symptoms of coronavirus and what to do if you have it -- if you're ill. We have a doctor in the house with the latest. Plus, a presidential candidate's concern over coronavirus, seemingly at odds with how he chose to talk about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "In tonight's \"DEMOCRACY 2020\" report, the coronavirus is causing many adjustments to the Democratic presidential contest. Sunday's debate between Bernie Sanders and Joe Biden has been relocated, but many planned events are going on a schedule, at least, for now. Correspondent Peter Doocy shows us tonight from Wilmington, Delaware.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS CORRESPONDENT",
+      "sentences": "The campaign trail has gone cold as candidates confront coronavirus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, (D) PRESIDENTIAL CANDIDATE",
+      "sentences": "We must, all of us, follow the guidelines of health officials.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Still, there was no social distancing at a Delaware hotel today as dozens of reporters and photographers squeezed into a meeting room to hear Joe Biden's advice for avoiding coronavirus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "All are in the deeply ingrained habits in our country like handshakes and hugs, avoiding large public gatherings.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "But there are still primaries on Tuesday in Arizona, Illinois, Florida, and Ohio.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FRANK LAROSE (R) OHIO SECRETARY OF STATE",
+      "sentences": "I've ordered all 88 counties to relocate any polling locations from senior residential facilities to alternate locations.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "And don't expect Biden or Bernie Sanders to pull a John McCain during the financial crisis and suspend their campaigns. Tomorrow Biden will host a virtual town hall in Illinois.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "We are also reimagining the format for large crowd events we had planned.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "The DNC wants to minimize cross-country travel, so Sunday's Arizona debate has been moved to D.C. where Sanders will stay and work in the Senate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS, (D-VT) PRESIDENTIAL CANDIDATE",
+      "sentences": "We are dealing with a national emergency, and the president of the United States must understand that and declare that emergency.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Could coronavirus delay this summer's DNC convention the way hurricane Isaac disrupted the 2012 RNC? No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "If you have to, could you pull off an online convention?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOM PEREZ, DEMOCRATIC NATIONAL COMMITTEE CHAIR",
+      "sentences": "We'd have to change the rules. We're not contemplating rules changes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "President Trump is pushing pause on rallies in arenas too.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, (R) PRESIDENT OF THE UNITED STATES",
+      "sentences": "We need a little separation until such time as this goes away. It's going to go away.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Until then, both parties are powerless.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "If there ever was a time in the modern history of our country when we are all in this together, this is that moment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "I just heard from a Biden campaign official who confirmed that amid concerns about the coronavirus, their staff are going to start working from home within the next couple of days for two weeks. The Sanders team is also going to have their people teleworking as well, and in a statement that just went out to them, they are announcing no large rallies and no more canvassing door to door for a while. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Peter Doocy live in Wilmington, Delaware. Peter, thanks. Let's bring in Dr. Manny Alvarez from New York. He's a FOX News senior managing editor for Health News. Good evening, Manny. I wanted to talk a little bit about people who are ill, think they might have coronavirus and haven't been tested, or even if they've been tested. I wanted to listen to a couple of people who have recovered or are recovering from it. Take a listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JERRI JORGENSEN, RECOVERED CORONAVIRUS PATIENT",
+      "sentences": "I feel fantastic. I had about a three-hour fever of not even 100 degrees the night before, and that was it. I have not had one symptom since then.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CARL GOLDMAN, RECOVERED CORONAVIRUS PATIENT",
+      "sentences": "I had the same symptoms most people seem to be getting of feeling fine, and then the normal temperature zooms up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CLAY BENTLEY, CORONAVIRUS PATIENT",
+      "sentences": "I've got viral pneumonia in both lungs, so they've been giving me fluids for that. They've been giving me antibiotics. They are trying all kinds of stuff to get me feeling better. So I'm starting to come around.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And obviously, Dr. Manny, you've seen a number of these including one in your hospital, but coronavirus stats, Johns Hopkins University, total confirmed 127,000, total deaths, 4,718. But I wanted to focus on that 68,310 totally recovered, 50,000 of them from China. What do you tell somebody who's feeling ill, what do they need to do, what is the line they need to cross to get help?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. MANNY ALVAREZ, SENIOR MANAGING EDITOR, HEALTH NEWS",
+      "sentences": "Right. So looking at the numbers, we already have about three or four weeks of a lot of data that has come in from China, South Korea, you name it. Eighty percent of the population is going to recover, especially the young individuals, people who are healthy, 80 percent. You're going to have mild symptoms, maybe a cough, a fever ache. Go home, stay home, and you will recover. We want you home because we don't want you to contaminate anybody. And we can't test you right now because we don't have a lot of kits, so we are going to make you guilty until proven innocent, so stay home. Fifteen percent of the population may have severe respiratory problems like the gentleman you had before. In that case, call your health care provider, call your hospital. They will probably tell you to come to the emergency room, they have set up places for you, and then they will test you. And if indeed you have respiratory problems, that you can't catch your breath, there's oxygen issues, maybe there is pneumonia on the basis of an x-ray, you're going to get admitted, you're going to get hydrated, you're going to get treated with antibiotics, and the vast majority of people will recover if receiving proper treatment. If you look at the mortality rate, for instance, in South Korea, after they tested thousands of people it's about 0.7 percent's. So it's getting to be very close to the normal flu mortality. We don't know that yet in the United States because we haven't tested anybody. If you look at the mortality rate in Italy, 23 percent of the population of Italy is over the age of 65. So you expect people over the age of 65 to have more significant complications and therefore higher mortality. And that's why the numbers are different in some countries, but at the end of the day, if you put the basis of all these numbers around the world, I think, like the president said, this too shall go away, we are going to get a vaccine, and right now we need better screening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "The vaccine probably a year, 18 months away according to federal health officials. But the biggest health concern from your point of view, is it hospital beds, the ability to have these test kits out there, and the breathing apparatus, to make sure that everybody has it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALVAREZ",
+      "sentences": "Right now one of the problems we have in the health care system, and I was listening to Ocasio-Cortez talking about the federal government, New York state is one of the worst states report card in the disaster preparedness if you look at the latest data. But be that as it may, we don't need patients to go to the emergency room right now and overwhelm the health system. That's what we are telling folks. You can work from home, if you are concerned, and a lot of companies are doing that. If you have cold like symptoms, stay home. No big deal. You can take Tylenol. You can drink liquids. You can have your mom's chicken soup and rest there for at least 14 days so you don't contaminate because right now we are going to assume that you may be infectious. And that's what we want. We don't want folks to be running to the emergency room be tested because, a, we don't have that many kits right now and we need to utilize them for people who we do indeed suspect that have the disease. And we have to be careful with overrunning the beds and admissions and things like that. So we have to get organized. We don't have to panic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And I want you to take a look at this NBA player, Rudy Gobert. He was upset about the NBA, how they're handling the coronavirus. So he went and he touched all the microphones and the table and everything. It turns out he tests positive. And he put out a statement today, saying \"The first and most important thing is I would like to publicly apologize to the people that I may have endangered. At the time, I had no idea I was even infected. I was careless and make no excuse. I hope my story serves as a warning and causes everyone to take this seriously.\" Last thing, Dr. Manny, do we know how long this virus stays in the air, number one, and stays on tables or tabletops? Is it true it's three hours in the air in three days on a table?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALVAREZ",
+      "sentences": "That's out of one study that was published in \"The Hill\" from the research being done at Princeton University. It hasn't been vetted yet. But the assumption right now is that this virus as it behaves as a coronavirus, it's very infectious. You're going to get it by getting saliva, touching, liquids, that sort of thing, in your hands from one body to the next, maybe surfaces for a couple of hours or maybe a little bit more. I don't know if that three-hour idea that if you, let's say, are an empty room you cough, the virus is going to be embedded here for three hours and then somebody can come in and get infected. I think that is just one study. But the premise is, direct contact from an infected individual, symptomatic or asymptomatic, and that is why the separation, that sequestration, that quarantine becomes socially important.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Dr. Manny, as always, thanks for being on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALVAREZ",
+      "sentences": "Thank you, Bret, thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "When we come back, will Washington and the country pull together to fight the coronavirus? We'll examine all of it after the break with the panel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So far the response to the coronavirus has not been free of partisanship. We talked about that earlier with Alexandria Ocasio-Cortez despite President Trump's call for the nation to come together. Tonight, correspondent David Spunt looks at the politics of the pandemic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "My fellow Americans.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAVID SPUNT, FOX NEWS CORRESPONDENT",
+      "sentences": "President Trump in the Oval Office Wednesday night called for unity.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We are all in this together. We must put politics aside, stop the partisanship.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "Two weeks ago today, both sides of the aisle came together to throw out the political playbook.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "sentences": "Lives are at stake. This is not a time for name- calling or playing politics.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEVIN MCCARTHY (R-CA)",
+      "sentences": "Diseases don't know party lines.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "But politics quickly crept in, and the blame game ensued.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Now the Democrats are politicizing the coronavirus. This is their new hoax.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. ANDREW CUOMO (D-NY)",
+      "sentences": "I think this is going to be the public-health version of hurricane Katrina.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "Some governors complain they aren't getting help fast enough.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CUOMO",
+      "sentences": "What I'm saying to them is at least get out of the way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "What I'm most frustrated about is the federal government has completely mishandled the testing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "Others are pleased.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. JAY INSLEE (D-WA), PRESIDENTIAL CANDIDATE",
+      "sentences": "The U.S. Congress is sending Washington state much more than their thoughts and prayers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "The federal government controls the majority of the money, but local governments have significant power to close schools, cancel public events, set isolation rules, and state governments can even call in the National Guard. Four states -- Alabama, Alaska, Idaho, and West Virginia have no confirmed cases, but officials there are prepared for that to change. Washington State Governor Jay Inslee was the first to declare a state of emergency, opening up funding.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT OF THE UNITED STATES",
+      "sentences": "The people of Washington state should be proud of your state and local leadership.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SPUNT",
+      "sentences": "Twenty-two states plus D.C. have declared a state of emergency. The president is also weighing an emergency declaration that would open up the flow of money to fight the virus. Bret?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "David, thanks. Next up, the panel on the virus and the response.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. DEBBIE WASSERMAN SCHULTZ, (D-FL)",
+      "sentences": "Will you admit there is a serious problem in this country with individuals, even health care workers, obtaining access for testing for coronavirus?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I will look into that in detail and get back to your office as soon as I can.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHULTZ",
+      "sentences": "As soon as you can hopefully will be today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, NATIONAL INSTITUTES OF ALLERGY AND INFECTIOUS DISEASES",
+      "sentences": "The system is not really geared to what we need right now, what you are asking for. That is a failing. The idea of anybody getting it easily the way people in other countries are doing it, we're not set up for that. Do I think we should be? Yes. But we're not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCHULTZ",
+      "sentences": "OK, that is really disturbing, and I appreciate the information.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Some of the Q and A up on Capitol Hill as we look at the numbers of the coronavirus in the U.S., 46 states plus the District of Columbia, 1,444 cases, 37 deaths. There you see Washington, California, Florida, New Jersey, South Dakota, and Georgia, 29 of those deaths coming in the state of Washington. Let's bring in our panel, Josh Holmes, former top adviser to Mitch McConnell, now president of Cavalry Consultants, Mollie Hemingway, senior editor at \"The Federalist,\" and Charles Lane, opinion writer for \"The Washington Post.\" A lot has changed over the past couple of days in how the country has reacted, how this place, Washington, D.C., has reacted. Thoughts about this evolution that we have seen? MOLLIE HEMINGWAY, SENIOR EDITOR, \"THE FEDERALIST\": First off, I just want to say I love watching Anthony Fauci testify. He is really a calming voice. He'll tell you when things are going well. He'll tell you when things are not going well, and it makes you feel like you can trust him. Clearly people are very concerned about what's happening now. And I think it's good that people are concerned and that they are changing their behavior in a public health crisis that requires changed behavior. What is more concerning, I think, is that a lot of powers that be have not thought through the other issues with public health crises, which is a serious damage to the economy can cause serious damage that I don't think people are thinking through as well as they could. It would be nice to see people be concerned about public health while also being concerned about not inducing people toward panic that can really hurt people who are in jobs that rely on, in the service economy, waiters, retail workers, these types of people who through no fault of their own might be facing some serious economic hardships.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I've mentioned with Congresswoman Ocasio-Cortez about the H1N1 virus and how it was dealt with, I think it 17,000 people died. It is a compare and contrast a bit. That's the most recent, I guess, of the pandemics. CHARLES LANE, OPINION WRITER, \"WASHINGTON POST\": I don't know what it is about the number 11, but 3/11, March 11th yesterday when the WHO declared the pandemic will probably go down in history as the moment when our society kind of capitulated to this threat. All of a sudden, a lot of people were holding back on certain decisions made them. So we have all the school closings cascading now. We have the president go into the Oval Office and give the speech that he had not given. Congress this morning decides, you know what, maybe we won't go on recess. And the reason for that is that they have judged, I think at the advice of people like Mr. Fauci, that the downside risk here is substantially greater than it was with H1N1. And to be fair, we really don't know. We don't have the parameters, we don't have the solid data about the fatality rate --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And that's a fair criticism, right? For this administration, for the last, for this one, why we don't have the test kits, the testing ability?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "The testing. That's absolutely true is that the testing has been a flop here. But I think what Dr. Fauci was trying to point out is that our history of diagnostic testing in this country, our method, so to speak, is you go to your doctor's office, you get a test, they mail you the result as an individual. We're not set up to do it in parking lots like they were doing in South Korea. And that is a failing that we are going to have to correct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Josh, meantime, Capitol Hill, take a listen to the speaker and the House minority leader on this bill.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "sentences": "They are negotiating with Secretary Mnuchin. He had some suggestions, all very reasonable. I think that none of them would prevent us from moving forward with the bill.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEVIN MCCARTHY (R-CA)",
+      "sentences": "We are working with the White House, with Secretary Mnuchin, and with the speaker. We should not just take a rush just because there's a bill. We want to make sure it works.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So there is a little pumping of the brakes, but not too much. It seems like something like this is going to move.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOSH HOLMES, CAVALRY CONSULTANTS",
+      "sentences": "Absolutely. I think there's a lot of optimism tonight that Republicans and Democrats are going to get to the end of this with a solution by early next week, maybe as early as Monday. In fact, I heard as late as an hour or two ago that the differences at this point are pretty minimal. There is going to be a huge emphasis on the middle class here and making sure that we are protecting people who may be out of work, may have to work from home, people who require health care benefits, all of the things that you have to think through basically because of the slowdown of commerce is the result of all this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I want to play one soundbite from that AOC interview about politics and about Bernie Sanders and about Michigan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. ALEXANDRA OCASIO-CORTEZ, (D-NY)",
+      "sentences": "I think one thing that isn't being talked about is the rampant voter suppression in this country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "So just to be clear, you're saying that you think voters didn't get to vote that wanted to vote in Michigan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "sentences": "Absolutely.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Bernie Sanders lost big in Michigan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "Yes, I think he lost by 13, 14 percent. So if there was voter suppression, it would've had to of been substantial enough to account for that big a margin. Just one quick point on what Josh is saying. I think everybody on the Hill, and I think this was reflected in your interview with AOC, sees this as an opportunity to behave well and not as an opportunity to make mischief and look like the one obstructing this. People are really concerned, and you don't want to be the person who blocks the deal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HEMINGWAY",
+      "sentences": "Absolutely true. It's also true that people see this as an opportunity to just spend money or get credit for doing something, and it's important that we do things in a smart way. One of the things she said in her interview was that she didn't think that there should be a payroll tax holiday. It's a great way to cut costs and make sure that people don't get laid off.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "We'll follow it, we will probably have more tomorrow. Thanks, panel. When we come back, Nancy Pelosi and President Trump agree on something big.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Finally tonight, House Speaker Nancy Pelosi and President Trump rarely agree, but in times like these they do see eye to eye on one big thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PELOSI",
+      "sentences": "Forget any physical contact, greetings. Bow in an eastern style.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We didn't shake hands today. And we looked at each other, and we said, what are we going to do? It's sort of a weird feeling. We said at the same time, we did this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Even Dr. Fauci gave it the old chicken wing on Capitol Hill. Washington taking precautions. You should too. It's OK. It doesn't have to be weird. You can give a little something like that. Thanks for inviting us into your home tonight. That's it for this SPECIAL REPORT. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JESSE WATTERS, FOX NEWS HOST",
+      "utterance": "How did you come up with that book title?"
+    },
+    {
+      "speaker": "DR. NICOLE SAPHIER, FOX NEWS MEDICAL CONTRIBUTOR",
+      "utterance": "That is a great -- that's a great question and --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "I don't know, it's incredible."
+    },
+    {
+      "speaker": "SAPHIER",
+      "utterance": "It was -- it was a group effort -- group effort and --"
+    },
+    {
+      "speaker": "WATTERS",
+      "utterance": "What about keep America -- all right. Set your DVR's. Never miss an episode of THE FIVE. \"SPECIAL REPORT\", up next."
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS ANCHOR",
+      "utterance": "Good evening. Welcome to Washington. I'm Bret Baier. \"BREAKING TONIGHT\", America is changing. How it works? Goes to school or doesn't? How it plays or watches sports, or doesn't? The coronavirus is to blame. But tonight, things are different even than just two days ago. President Trump, once again urging calm over the coronavirus. Emphasizing today that in his words, it is going to go away. A lot of your money is going away. Right now as massive sell-offs triggered another automatic trading shut down today on Wall Street. Life in the U.S. is undergoing some major changes affecting millions of people from students and workers to business owners and sports fans. There are at least 37 confirmed deaths in the U.S. as of tonight. 29 of them are in Washington State. The number of confirmed infections in this country right now is at least, 1,444 that we know of. Globally, according to Johns Hopkins University, more than 68,000 people have recovered from the virus 50,000 in China. We'll talk more about that in just a moment. In a few moments, we'll also talk live with New York Democratic Congresswoman Alexandria Ocasio-Cortez, about what Congress is doing. Right now, we have \"FOX TEAM COVERAGE\". Susan Li in New York with details on another market meltdown today. John Roberts at the White House with what else the president is saying and doing. But we begin with Jonathan Serrie in Atlanta, with the latest. Good evening, Jonathan."
+    },
+    {
+      "speaker": "JONATHAN SERRIE, FOX NEWS CORRESPONDENT",
+      "utterance": "Good evening, Bret. Georgia reported its first death today. The Georgia legislature announced a plans to suspend indefinitely after tomorrow. Maryland is closing all public schools statewide. In the name of public health, everyday life has about to change."
+    },
+    {
+      "speaker": "SERRIE",
+      "utterance": "As public health officials were offloading remaining passengers from the Grand Princess, the president of the cruise line announced a pause in operations."
+    },
+    {
+      "speaker": "JAN SWARTZ, PRESIDENT, PRINCESS CRUISES",
+      "utterance": "We will take our fleet of 18 ships out of service and reset the environmental conditions onboard. Incorporating all the great learnings from the world's public health experts."
+    },
+    {
+      "speaker": "SERRIE",
+      "utterance": "After Tom Hanks tweeted he and his wife Rita Wilson tested positive for the virus in Australia, where he's working on a film. Joel Osteen's Lakewood Church announced this weekend services will be held exclusively online. The nation's capital and Supreme Court are closing to visitors. NASCAR announced it will hold its next two races without fans in attendance, joining the NBA, NHL, NCAA, and other prominent sporting organizations that are either altering or canceling schedules. Major League Baseball canceled spring training games and delayed its 2020 opening day for two weeks. Saying in a statement, \"Nothing is more important to us than the health and safety of our players, employees, and fans.\""
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "It breaks my heart, really, but it did. I guess they have to do what they have to do."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I'm not surprised. I think that they needed to do it."
+    },
+    {
+      "speaker": "SERRIE",
+      "utterance": "Just outside New York City, the National Guard is helping to clean public spaces and deliver food near a cluster of COVID-19 cases in the town of New Rochelle. New York's governor, announced his state is contracting with 28 private labs to make up for shortages and delays in federal tests."
+    },
+    {
+      "speaker": "GOV. ANDREW CUOMO (D-NY)",
+      "utterance": "We can't just wait anymore. It's compounding the problem. And frankly, they can't put us in this situation because we're not able to do our job and our constitutional duty, which is to protect the public health."
+    },
+    {
+      "speaker": "SERRIE",
+      "utterance": "This afternoon, Ohio Governor Mike DeWine, announced the state will close all K-12 public, private, and charter schools from Tuesday of next week through April 3rd. He explained in the tweet, \"We have a responsibility to save lives. We could have waited to close schools, but based on advice from health experts, this is the time to do it.\""
+    },
+    {
+      "speaker": "SERRIE",
+      "utterance": "And Bret, the closings keep coming in late this afternoon Disneyland out in California announced that it will close Saturday through the rest of the month. Back to you."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Jonathan Serrie in Atlanta. Jonathan, thank you. President Trump, once again, trying to put the situation in perspective, contending that this situation in the U.S. is much better than in many other places around the world. Chief White House correspondent John Roberts tonight on a president still trying to keep calm and carry on."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Thank you all very much."
+    },
+    {
+      "speaker": "JOHN ROBERTS, FOX NEWS CHIEF WHITE HOUSE CORRESPONDENT",
+      "utterance": "In the Oval Office with the Irish Prime Minister today, President Trump making no apology for unilaterally and without consultation, pulling the plug on travel from Europe."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We had to make a decision and I didn't want to take time. We had to move quickly. I mean, when they raise taxes on us, they don't consult us."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "The decision to suspend travel sent the Dow off another 2,000 point cliff. Asked if he knew what the total impact on the economy would be, President Trump today said the health of Americans is his number."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Well, it will be a big impact, but it's a bigger impact, and it's also a human impact, which is more important, frankly, than the financial."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "On Capitol Hill, House Democrats move to provide billions more to respond to the spread of the virus and the financial impact on families. The senate minority leader, urging the Senate to move it right away."
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER (D-NY)",
+      "utterance": "I plead with my Republican Senate colleagues to pass this bill now. It has been carefully thought out. Its programs are directly aimed at people, they're not ideological."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "The majority leader Senator Mitch McConnell, saying the Senate won't take it up until Monday. President Trump saying this morning, he didn't support the House bill."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "No, because there are things in there that have nothing to do with what we're talking about. So you know, it's not a -- it's not a way for them to get some of the goodies that they haven't been able to get for the last 25 years. He's doing a fantastic job."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "This afternoon, new concerns about President Trump's health after an aide to Brazilian President Jair Bolsonaro, who had dinner with the president at Mar-a-Lago last weekend, tested positive for the virus. While the president came in contact with the aid, seen here standing beside him, and Bolsonaro has been tested and is being monitored, President Trump appeared unconcerned."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "The president was there. If he was there, he was there. But we did - - we did nothing very unusual. We sat next to each other for a period of time. Senator Lindsey Graham, who was at Mar-a-Lago that night revealed today, he has been tested for coronavirus and his self-quarantining. In a statement, the press secretary Stephanie Grisham, saying, \"Both the president and vice president had almost no interactions with the individual who tested positive and do not require being tested at this time.\""
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "It is still not known whether or not Bolsonaro, himself is tested positive or negative. We don't know the results of that viral test just yet. And after weeks of President Trump saying that the coronavirus would not affect his campaign schedule. Today, he acknowledged that it is having an effect. The president was supposed to travel to Las Vegas tonight. That trip has been canceled. The president also saying today that a rally planned for Tampa on March the 25th likely will be postponed. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "John Roberts, live in the North Lawn. John, thanks. The carnage in the stock markets triggering another automatic shutdown today. The Dow plunging 10 percent, losing 2,353 points in its worst day since 1987. The S&P 500 fell 261, 9-1/2 percent down. The NASDAQ tumbled 750, almost 9- 1/2 percent. Let's go to Susan Li of the Fox Business, joining us now from New York with the latest. Good evening, Susan."
+    },
+    {
+      "speaker": "SUSAN LI, FOX BUSINESS NETWORK CORRESPONDENT",
+      "utterance": "Bret, it was one of the worst days in Wall Street history. Stocks plunging, trading halted again for a second time this week and only for the second time since 1997. So there's fear, there's anxiety that the coronavirus spread will disrupt businesses and daily lives that will drive the U.S. economy eventually into a recession. So, travel has been limited and that's hurting the airlines which virtually collapsed today. Playmaker Boeing, seeing its worst today drop in its history. Cruise lines, cratering Carnival, canceling princess cruise itineraries for the next two months. And all of this despite extraordinary steps being taken by the Federal Reserve of New York today. They were stepping in to provide $1-1/2 trillion worth of cash into the bond markets to make sure that the financial system doesn't seize up like it did during the financial crisis. But it is important to keep things in perspective. We haven't seen any big companies like Bear Stearns or Lehman's collapse. And investment advisors that we speak to, say you really need to stay calm in these times."
+    },
+    {
+      "speaker": "DAVID KELLY, CHIEF GLOBAL STRATEGIST, J.P. MORGAN",
+      "utterance": "I remember 11 years ago seeing the same thing where markets are crazy, people think it's Armageddon, but, you know, we will get past this."
+    },
+    {
+      "speaker": "LI",
+      "utterance": "Now, we officially saw the end of the longest bull market in history yesterday with a Dow falling 20 percent from recent highs, what we call a bear market, fastest in history. Over the past 120 years, there have been 20 bear markets with 12 of them extending the losses by another 10 percent, including a two previous bear markets to this one. So, the losses may not be over just yet. Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "It gives you, you knew, it's like a roller coaster. What are the experts saying investors should do? I mean, there are obviously some buys, but five of the last six days had been down."
+    },
+    {
+      "speaker": "LI",
+      "utterance": "Well, the first piece of advice is don't panic. And a typical safety trades are the U.S. Treasuries, gold, and also the U.S. dollar. But he wants to buy stocks. They usually recommend these big companies, what they call blue chips that pay out dividends or money back to investors who hold the stock. But those aren't necessarily the ones that return the most over time. Here's a list of some of the best performers over the past 11 years, and the longest bull market run in history that ended just yesterday. You see tech and consumer names, they make up a lot of the top 10 performers. So, those are some ideas for the brave if they feel they need to pick up some bargains in these uncertain times. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Susan, as always, thank you. The congressional response to the virus, much debate on Capitol Hill about the way forward. Joining us this evening, New York Democratic Congresswoman Alexandria Ocasio-Cortez. Congresswoman. Thanks for being here."
+    },
+    {
+      "speaker": "REP. ALEXANDRIA OCASIO-CORTEZ (D-NY)",
+      "utterance": "Thank you for having me."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "What's your concern? What do you think Congress will do?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Well, I think what we're seeing right now are a lot of dramatic developments this week in response to the coronavirus, both with our public health and in our economic response. And so, what we need to do is act swiftly to not just concentrate on solutions for Wall Street, but we need to provide relief for working Americans, Americans who are living off of tips, who are getting laid off, who -- whose shifts are being canceled all of a sudden, and we need to make sure that we act very quickly. And that's why I think it's imperative that we pass the bill that's been presented today, which includes paid sick leave, which includes extended unemployment benefits, protections for Medicaid, and also making sure that we're taking action to protect doctors, and nurses, and hospital workers on the front line."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "There's been some negotiations between Speaker Pelosi and Treasury Secretary Mnuchin, apparently all day long. And obviously, there's a concern about what the Senate will do or won't do with the House Bill. The payroll tax holiday never really took off. Democrats, you weren't there at the time, but they were supportive of it under President Obama. Doesn't work this time?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "I think what we need to see is what tools we use for what responses? So, a payroll tax is one thing to be considered when there are certain economic indicator. But right now, we are dealing with is a pandemic. And so, what we need to make sure is that we're taking swift actions right now to protect doctors, to protect people on Medicaid, to make sure that people can see a doctor. And those are the things that we need to be focusing on right now. We can talk about a payroll tax later, you can talk about, you know, debate, all of these sorts of things at another time, but right now is the moment for swift action to make sure we're protecting our elders and our immunocompromised Americans."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I want to play what President Trump said yesterday about politics. Take a listen."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We have the best economy, the most advanced healthcare, and the most talented doctors, scientists, and researchers anywhere in the world. We are all in this together. We must put politics aside, stop the partisanship, and unify together as one nation and one family."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Agree with that?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Well, I think one thing that we need to do is put politics aside. And that's exactly why Democrats have agreed with President Trump on his goals of paid sick leave and his goals of free coronavirus testing. And so, all of those things have been included in our package. We bumped it up a little bit more. But you know, in -- when you have a Democratic House and a Republican Senate, compromises the name of the game. I think the president is going to have to accept the fact that we're fighting for people who are going to be potentially unemployed. He's going to have to accept the fact that we're going to push on doctor and nurse protections. But also when you look at the best -- you know, the best health care system in the world. That's something that's up for debate. South Korea, we're up to -- South Korea has up to 10,000 tests per day. They've been able to provide test to any single person that wants it. And here people are scrambling, and it almost seems like the more wealthy and powerful you are, the more able you're-- the more able you are to access a test. But the more -- you know, the rougher road you've got here, it's going to be a lot more difficult for you to access healthcare. That's exactly the recipe for disaster in a pandemic."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Dr. Fauci testified that there is a failing on the testing up on Capitol Hill. But on the politics front, this is only two weeks ago, you tweeted out, Mike Pence literally does not believe in science. It is utterly irresponsible to put him in charge of U.S. coronavirus response as the world sits on the cusp of a pandemic. This decision could cost people their lives. Pence's past decisions already have.\" Obviously, Vice President Pence is the head of the coronavirus task force, but Dr. Anthony Fauci, the head of the CDC, all those other scientists, were also a part of it. Isn't that politics?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Well, you know, I disagree with the appointment of Vice President Pence. I have made that extraordinarily clear. But at the end of the day, he's there. So, we need to focus on the actions that need to be happening right now. And the actions that need to be happening is making sure that we're taking care of people who are going to be hurting as a result of this. Again, this is not just -- this is a public health crisis, but it's also an economic crisis. And on the public health front, we have a lot of people who are older and who are immunocompromised in this country. And the coronavirus is has been testified from the CDC director as 10 times more lethal than the flu."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Sure. And then that people point to the H1N1 virus, and it killed a lot of people in the U.S. And there is a wonder whether you know, where the perfect to response is? Whether we go too far or whether we don't go far enough. You're saying we should just not worry about that now."
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "I think we shouldn't worry about it right now. In fact, you know, one thing that I will agree with is that we should not be panicking, but we should be preparing. And if we are at a standstill here in Washington, and we aren't getting these things passed, and we are willing to compromise and negotiate for folks who are going to be unemployed, and for folks who need these helps in hospitals, folks who are on Medicaid, then there are going to be people who will get hurt by this. So, we need to take action right now. We have to depoliticize it. Right now we're hearing that some of the fights and some of the gridlock is because people are trying to put pro-life provisions into this. We can have that debate another time. We understand that we -- that we disagree on some of this --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Democrats tried to add stuff too. I mean, it's -- it becomes a Christmas tree up there when big bills are passed. But, to your point, I want to ask you a couple questions about the race -- presidential race. Your Bernie Sanders, most prominent surrogate, was it difficult to witness his kind of swift fall from frontrunner status? He's almost a protest candidate now. Your thoughts on that."
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Well, I think one of the things that we saw with Bernie Sanders's leadership, even today, is how transformative it is for the American people. Just today, he laid out a very strong plan and response for the coronavirus for everyday people, for Main Street, not just Wall Street. He's talking about how do we make sure that everyone who needs access to Medicare can get it? And that, that Medicare is improved and expanded. How do we make sure that people aren't getting booted out of their homes, whether it's not being able to afford their mortgage payment this month, or not being able to afford their rent payment?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But it does seem that Joe Biden is on his way to the nomination. Are you worried that he's not going to be saying those things?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Well, you know, I think this part of our -- of our processes to make sure that we come together. I think there's going to be a real vigorous debate on I believe Sunday night if I'm not mistaken. And part of that process means that I think we will come together. And you know, I think Bernie Sanders has done a great job and is continuing to do a great job of pushing to make sure that we have a party agenda that fights for working people."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Last thing, you did a campaign event at the University of Michigan. You had 10,000 people, it was like a rock star status. But those kids did not show up. At least, if you look at the numbers, just overall this, this race."
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Yes. Yes."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So, how can you say the progressive position is still prevailing nationwide when Joe Biden is winning so much?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Well, I think one thing that we -- that isn't being talked about is the rampant voter suppression in this country. Right there in Ann Arbor, where we had that rally, those kids were waiting three hours in line to vote in Michigan. And so, when we talk about who's turning out and who's not turning out, we absolutely --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But just to be clear, are you saying that you think voters didn't get to vote, who wanted to vote in Michigan?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Absolutely. You know, obviously, there's also more that we need to do in terms of turning out youth voters. It's we need to make sure that we're inspiring young people to turn out. But when you do turn out, you should not be waiting three, four, seven hours in order to vote. And that causes people to leave."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Last thing, you're working within the system now in this legislation. You've struck some conciliatory tones tonight and on Capitol Hill. At the same time, you're backing primary challenges for your leadership, Jerry Nadler, Steny Hoyer."
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Oh, that's not correct."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "No?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "No, I'm not backing primary challengers for those two, but I have back primary challengers for --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "A growing list of primary challengers. Have you backed Steny Hoyer, Eliot Engel Jerry Nadler?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "No."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Richard Neal?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "No, but I have backed primary challengers to Dan Lipinski, and Henry Cuellar."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK. So, how do you square that?"
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Well, I think that there are places where we can do better. And when we talk about not being partisan, I think just as Republicans can look in that -- in their own backyard, and say, this is what we can do better. I think that Democrats can look in our own backyard and say, there are places where we can do better too. And I think that if you are taking big money, and if you are relying on lobbyist funds, and you aren't answering to your constituents back home, you should be held accountable. And I don't think that incumbency should be a thing that's guaranteed. And I even apply that to myself, and I understand that."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Congresswoman, we appreciate your time."
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Of course. Thank you for having me."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Coming up, we will go live to the Pentagon. We're just getting breaking news that airstrikes are beginning in response to the latest attack on U.S. and coalition troops in Iraq. Again, breaking from the Pentagon, we'll take you there next."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "\"BREAKING TONIGHT\", the U.S. military is responding right now, it's underway, to yesterday's rocket attack in Iraq that left to U.S. personnel dead. Again, this is happening at this hour. National security correspondent Jennifer Griffin is at the Pentagon with the very latest. Good evening, Jennifer."
+    },
+    {
+      "speaker": "JENNIFER GRIFFIN, FOX NEWS NATIONAL SECURITY CORRESPONDENT",
+      "utterance": "Good evening, Bret. U.S. military sources tell us that U.S.-led airstrikes are underway, currently as we speak, in response to the attack on the Taji Air Base that left two Americans and one British soldier dead yesterday. This is a response to the 30 rockets that were fired at the Taji base. We understand that there are airstrikes taking place as we speak in multiple locations. Where Iranian-backed Shia militias have both warehouses, as well as, this is an effort to basically disrupt their command and control. But it will be multiple locations we understand, it will be -- we're told a proportional response to the attack on the Taji base. Here is what the defense secretary said earlier today."
+    },
+    {
+      "speaker": "GRIFFIN",
+      "utterance": "At the Pentagon today, the defense secretary warned there will be a response to an attack that killed two Americans and a British soldier in Iraq."
+    },
+    {
+      "speaker": "MARK ESPER, UNITED STATES SECRETARY OF DEFENSE",
+      "utterance": "And I have spoken with the president. He's given me the authority to do what we need to do."
+    },
+    {
+      "speaker": "GRIFFIN",
+      "utterance": "The head of U.S. forces in the Middle East, says an Iranian-backed militia likely launched the attack that wounded an additional dozen coalition troops."
+    },
+    {
+      "speaker": "GEN. KENNETH F. MCKENZIE JR., COMMANDER, UNITED STATES CENTRAL COMMAND",
+      "utterance": "That the Iranian proxy group, Kata'ib Hezbollah is the only group known to have previously conducted an indirect fire attack of this scale against U.S. and coalition forces in Iraq."
+    },
+    {
+      "speaker": "GRIFFIN",
+      "utterance": "The militia launched 30 Katyusha rockets at Camp Taji, located 17 miles north of Baghdad, more than a dozen struck the base. Among those killed, Lance Corporal Brodie Gillon, a 26-year-old British army medic. It was the largest attack on U.S. and coalition troops since Iran fired ballistic missiles in early January, days after a U.S. drone strike killed Iran's most powerful general, Qasem Soleimani at Baghdad's airport. Yesterday's attack coincided with what would have been Soleimani's 63rd birthday. Iraqi forces help secure this truck found rigged with rocket-launching tubes a few miles from the base."
+    },
+    {
+      "speaker": "GEN. MARK MILLEY, CHAIRMAN, JOINT CHIEFS OF STAFF",
+      "utterance": "We have good indication based on forensics, of where it was fired from, who did the firing, and so on and so forth. And the groups that were responsible will be held accountable."
+    },
+    {
+      "speaker": "GRIFFIN",
+      "utterance": "The U.S. has two aircraft carriers in the region, but we are told that Tomahawk missiles will not be used in the strikes tonight. These will be limited to airstrikes at multiple locations across Iraq and along the border with Syria, where groups like Kataeb Hezbollah, one of the Iranian- backed Shia militias believe but to be behind that rocket attack on Camp Taji, where they keep those Katyushas, where they keep those drones, where they keep the weapons that have been used to terrorize Americans and coalition forces at that base in Iraq and other bases. This is designed to be a proportional response and to deter future attacks. Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All right, Jennifer Griffin, live at the Pentagon. Jennifer, we'll head back with any other breaking details. Thank you. Coming up, the symptoms of coronavirus and what to do if you have it -- if you're ill. We have a doctor in the house with the latest. Plus, a presidential candidate's concern over coronavirus, seemingly at odds with how he chose to talk about it."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "In tonight's \"DEMOCRACY 2020\" report, the coronavirus is causing many adjustments to the Democratic presidential contest. Sunday's debate between Bernie Sanders and Joe Biden has been relocated, but many planned events are going on a schedule, at least, for now. Correspondent Peter Doocy shows us tonight from Wilmington, Delaware."
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS CORRESPONDENT",
+      "utterance": "The campaign trail has gone cold as candidates confront coronavirus."
+    },
+    {
+      "speaker": "JOE BIDEN, (D) PRESIDENTIAL CANDIDATE",
+      "utterance": "We must, all of us, follow the guidelines of health officials."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Still, there was no social distancing at a Delaware hotel today as dozens of reporters and photographers squeezed into a meeting room to hear Joe Biden's advice for avoiding coronavirus."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "All are in the deeply ingrained habits in our country like handshakes and hugs, avoiding large public gatherings."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "But there are still primaries on Tuesday in Arizona, Illinois, Florida, and Ohio."
+    },
+    {
+      "speaker": "FRANK LAROSE (R) OHIO SECRETARY OF STATE",
+      "utterance": "I've ordered all 88 counties to relocate any polling locations from senior residential facilities to alternate locations."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "And don't expect Biden or Bernie Sanders to pull a John McCain during the financial crisis and suspend their campaigns. Tomorrow Biden will host a virtual town hall in Illinois."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "We are also reimagining the format for large crowd events we had planned."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "The DNC wants to minimize cross-country travel, so Sunday's Arizona debate has been moved to D.C. where Sanders will stay and work in the Senate."
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS, (D-VT) PRESIDENTIAL CANDIDATE",
+      "utterance": "We are dealing with a national emergency, and the president of the United States must understand that and declare that emergency."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Could coronavirus delay this summer's DNC convention the way hurricane Isaac disrupted the 2012 RNC? No."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "If you have to, could you pull off an online convention?"
+    },
+    {
+      "speaker": "TOM PEREZ, DEMOCRATIC NATIONAL COMMITTEE CHAIR",
+      "utterance": "We'd have to change the rules. We're not contemplating rules changes."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "President Trump is pushing pause on rallies in arenas too."
+    },
+    {
+      "speaker": "DONALD TRUMP, (R) PRESIDENT OF THE UNITED STATES",
+      "utterance": "We need a little separation until such time as this goes away. It's going to go away."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Until then, both parties are powerless."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "If there ever was a time in the modern history of our country when we are all in this together, this is that moment."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "I just heard from a Biden campaign official who confirmed that amid concerns about the coronavirus, their staff are going to start working from home within the next couple of days for two weeks. The Sanders team is also going to have their people teleworking as well, and in a statement that just went out to them, they are announcing no large rallies and no more canvassing door to door for a while. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Peter Doocy live in Wilmington, Delaware. Peter, thanks. Let's bring in Dr. Manny Alvarez from New York. He's a FOX News senior managing editor for Health News. Good evening, Manny. I wanted to talk a little bit about people who are ill, think they might have coronavirus and haven't been tested, or even if they've been tested. I wanted to listen to a couple of people who have recovered or are recovering from it. Take a listen."
+    },
+    {
+      "speaker": "JERRI JORGENSEN, RECOVERED CORONAVIRUS PATIENT",
+      "utterance": "I feel fantastic. I had about a three-hour fever of not even 100 degrees the night before, and that was it. I have not had one symptom since then."
+    },
+    {
+      "speaker": "CARL GOLDMAN, RECOVERED CORONAVIRUS PATIENT",
+      "utterance": "I had the same symptoms most people seem to be getting of feeling fine, and then the normal temperature zooms up."
+    },
+    {
+      "speaker": "CLAY BENTLEY, CORONAVIRUS PATIENT",
+      "utterance": "I've got viral pneumonia in both lungs, so they've been giving me fluids for that. They've been giving me antibiotics. They are trying all kinds of stuff to get me feeling better. So I'm starting to come around."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And obviously, Dr. Manny, you've seen a number of these including one in your hospital, but coronavirus stats, Johns Hopkins University, total confirmed 127,000, total deaths, 4,718. But I wanted to focus on that 68,310 totally recovered, 50,000 of them from China. What do you tell somebody who's feeling ill, what do they need to do, what is the line they need to cross to get help?"
+    },
+    {
+      "speaker": "DR. MANNY ALVAREZ, SENIOR MANAGING EDITOR, HEALTH NEWS",
+      "utterance": "Right. So looking at the numbers, we already have about three or four weeks of a lot of data that has come in from China, South Korea, you name it. Eighty percent of the population is going to recover, especially the young individuals, people who are healthy, 80 percent. You're going to have mild symptoms, maybe a cough, a fever ache. Go home, stay home, and you will recover. We want you home because we don't want you to contaminate anybody. And we can't test you right now because we don't have a lot of kits, so we are going to make you guilty until proven innocent, so stay home. Fifteen percent of the population may have severe respiratory problems like the gentleman you had before. In that case, call your health care provider, call your hospital. They will probably tell you to come to the emergency room, they have set up places for you, and then they will test you. And if indeed you have respiratory problems, that you can't catch your breath, there's oxygen issues, maybe there is pneumonia on the basis of an x-ray, you're going to get admitted, you're going to get hydrated, you're going to get treated with antibiotics, and the vast majority of people will recover if receiving proper treatment. If you look at the mortality rate, for instance, in South Korea, after they tested thousands of people it's about 0.7 percent's. So it's getting to be very close to the normal flu mortality. We don't know that yet in the United States because we haven't tested anybody. If you look at the mortality rate in Italy, 23 percent of the population of Italy is over the age of 65. So you expect people over the age of 65 to have more significant complications and therefore higher mortality. And that's why the numbers are different in some countries, but at the end of the day, if you put the basis of all these numbers around the world, I think, like the president said, this too shall go away, we are going to get a vaccine, and right now we need better screening."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "The vaccine probably a year, 18 months away according to federal health officials. But the biggest health concern from your point of view, is it hospital beds, the ability to have these test kits out there, and the breathing apparatus, to make sure that everybody has it?"
+    },
+    {
+      "speaker": "ALVAREZ",
+      "utterance": "Right now one of the problems we have in the health care system, and I was listening to Ocasio-Cortez talking about the federal government, New York state is one of the worst states report card in the disaster preparedness if you look at the latest data. But be that as it may, we don't need patients to go to the emergency room right now and overwhelm the health system. That's what we are telling folks. You can work from home, if you are concerned, and a lot of companies are doing that. If you have cold like symptoms, stay home. No big deal. You can take Tylenol. You can drink liquids. You can have your mom's chicken soup and rest there for at least 14 days so you don't contaminate because right now we are going to assume that you may be infectious. And that's what we want. We don't want folks to be running to the emergency room be tested because, a, we don't have that many kits right now and we need to utilize them for people who we do indeed suspect that have the disease. And we have to be careful with overrunning the beds and admissions and things like that. So we have to get organized. We don't have to panic."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And I want you to take a look at this NBA player, Rudy Gobert. He was upset about the NBA, how they're handling the coronavirus. So he went and he touched all the microphones and the table and everything. It turns out he tests positive. And he put out a statement today, saying \"The first and most important thing is I would like to publicly apologize to the people that I may have endangered. At the time, I had no idea I was even infected. I was careless and make no excuse. I hope my story serves as a warning and causes everyone to take this seriously.\" Last thing, Dr. Manny, do we know how long this virus stays in the air, number one, and stays on tables or tabletops? Is it true it's three hours in the air in three days on a table?"
+    },
+    {
+      "speaker": "ALVAREZ",
+      "utterance": "That's out of one study that was published in \"The Hill\" from the research being done at Princeton University. It hasn't been vetted yet. But the assumption right now is that this virus as it behaves as a coronavirus, it's very infectious. You're going to get it by getting saliva, touching, liquids, that sort of thing, in your hands from one body to the next, maybe surfaces for a couple of hours or maybe a little bit more. I don't know if that three-hour idea that if you, let's say, are an empty room you cough, the virus is going to be embedded here for three hours and then somebody can come in and get infected. I think that is just one study. But the premise is, direct contact from an infected individual, symptomatic or asymptomatic, and that is why the separation, that sequestration, that quarantine becomes socially important."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Dr. Manny, as always, thanks for being on."
+    },
+    {
+      "speaker": "ALVAREZ",
+      "utterance": "Thank you, Bret, thank you."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "When we come back, will Washington and the country pull together to fight the coronavirus? We'll examine all of it after the break with the panel."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So far the response to the coronavirus has not been free of partisanship. We talked about that earlier with Alexandria Ocasio-Cortez despite President Trump's call for the nation to come together. Tonight, correspondent David Spunt looks at the politics of the pandemic."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "My fellow Americans."
+    },
+    {
+      "speaker": "DAVID SPUNT, FOX NEWS CORRESPONDENT",
+      "utterance": "President Trump in the Oval Office Wednesday night called for unity."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We are all in this together. We must put politics aside, stop the partisanship."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "Two weeks ago today, both sides of the aisle came together to throw out the political playbook."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "utterance": "Lives are at stake. This is not a time for name- calling or playing politics."
+    },
+    {
+      "speaker": "KEVIN MCCARTHY (R-CA)",
+      "utterance": "Diseases don't know party lines."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "But politics quickly crept in, and the blame game ensued."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Now the Democrats are politicizing the coronavirus. This is their new hoax."
+    },
+    {
+      "speaker": "GOV. ANDREW CUOMO (D-NY)",
+      "utterance": "I think this is going to be the public-health version of hurricane Katrina."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "Some governors complain they aren't getting help fast enough."
+    },
+    {
+      "speaker": "CUOMO",
+      "utterance": "What I'm saying to them is at least get out of the way."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "What I'm most frustrated about is the federal government has completely mishandled the testing."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "Others are pleased."
+    },
+    {
+      "speaker": "GOV. JAY INSLEE (D-WA), PRESIDENTIAL CANDIDATE",
+      "utterance": "The U.S. Congress is sending Washington state much more than their thoughts and prayers."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "The federal government controls the majority of the money, but local governments have significant power to close schools, cancel public events, set isolation rules, and state governments can even call in the National Guard. Four states -- Alabama, Alaska, Idaho, and West Virginia have no confirmed cases, but officials there are prepared for that to change. Washington State Governor Jay Inslee was the first to declare a state of emergency, opening up funding."
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT OF THE UNITED STATES",
+      "utterance": "The people of Washington state should be proud of your state and local leadership."
+    },
+    {
+      "speaker": "SPUNT",
+      "utterance": "Twenty-two states plus D.C. have declared a state of emergency. The president is also weighing an emergency declaration that would open up the flow of money to fight the virus. Bret?"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "David, thanks. Next up, the panel on the virus and the response."
+    },
+    {
+      "speaker": "REP. DEBBIE WASSERMAN SCHULTZ, (D-FL)",
+      "utterance": "Will you admit there is a serious problem in this country with individuals, even health care workers, obtaining access for testing for coronavirus?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I will look into that in detail and get back to your office as soon as I can."
+    },
+    {
+      "speaker": "SCHULTZ",
+      "utterance": "As soon as you can hopefully will be today."
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, NATIONAL INSTITUTES OF ALLERGY AND INFECTIOUS DISEASES",
+      "utterance": "The system is not really geared to what we need right now, what you are asking for. That is a failing. The idea of anybody getting it easily the way people in other countries are doing it, we're not set up for that. Do I think we should be? Yes. But we're not."
+    },
+    {
+      "speaker": "SCHULTZ",
+      "utterance": "OK, that is really disturbing, and I appreciate the information."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Some of the Q and A up on Capitol Hill as we look at the numbers of the coronavirus in the U.S., 46 states plus the District of Columbia, 1,444 cases, 37 deaths. There you see Washington, California, Florida, New Jersey, South Dakota, and Georgia, 29 of those deaths coming in the state of Washington. Let's bring in our panel, Josh Holmes, former top adviser to Mitch McConnell, now president of Cavalry Consultants, Mollie Hemingway, senior editor at \"The Federalist,\" and Charles Lane, opinion writer for \"The Washington Post.\" A lot has changed over the past couple of days in how the country has reacted, how this place, Washington, D.C., has reacted. Thoughts about this evolution that we have seen? MOLLIE HEMINGWAY, SENIOR EDITOR, \"THE FEDERALIST\": First off, I just want to say I love watching Anthony Fauci testify. He is really a calming voice. He'll tell you when things are going well. He'll tell you when things are not going well, and it makes you feel like you can trust him. Clearly people are very concerned about what's happening now. And I think it's good that people are concerned and that they are changing their behavior in a public health crisis that requires changed behavior. What is more concerning, I think, is that a lot of powers that be have not thought through the other issues with public health crises, which is a serious damage to the economy can cause serious damage that I don't think people are thinking through as well as they could. It would be nice to see people be concerned about public health while also being concerned about not inducing people toward panic that can really hurt people who are in jobs that rely on, in the service economy, waiters, retail workers, these types of people who through no fault of their own might be facing some serious economic hardships."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I've mentioned with Congresswoman Ocasio-Cortez about the H1N1 virus and how it was dealt with, I think it 17,000 people died. It is a compare and contrast a bit. That's the most recent, I guess, of the pandemics. CHARLES LANE, OPINION WRITER, \"WASHINGTON POST\": I don't know what it is about the number 11, but 3/11, March 11th yesterday when the WHO declared the pandemic will probably go down in history as the moment when our society kind of capitulated to this threat. All of a sudden, a lot of people were holding back on certain decisions made them. So we have all the school closings cascading now. We have the president go into the Oval Office and give the speech that he had not given. Congress this morning decides, you know what, maybe we won't go on recess. And the reason for that is that they have judged, I think at the advice of people like Mr. Fauci, that the downside risk here is substantially greater than it was with H1N1. And to be fair, we really don't know. We don't have the parameters, we don't have the solid data about the fatality rate --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And that's a fair criticism, right? For this administration, for the last, for this one, why we don't have the test kits, the testing ability?"
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "The testing. That's absolutely true is that the testing has been a flop here. But I think what Dr. Fauci was trying to point out is that our history of diagnostic testing in this country, our method, so to speak, is you go to your doctor's office, you get a test, they mail you the result as an individual. We're not set up to do it in parking lots like they were doing in South Korea. And that is a failing that we are going to have to correct."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Josh, meantime, Capitol Hill, take a listen to the speaker and the House minority leader on this bill."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "utterance": "They are negotiating with Secretary Mnuchin. He had some suggestions, all very reasonable. I think that none of them would prevent us from moving forward with the bill."
+    },
+    {
+      "speaker": "KEVIN MCCARTHY (R-CA)",
+      "utterance": "We are working with the White House, with Secretary Mnuchin, and with the speaker. We should not just take a rush just because there's a bill. We want to make sure it works."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So there is a little pumping of the brakes, but not too much. It seems like something like this is going to move."
+    },
+    {
+      "speaker": "JOSH HOLMES, CAVALRY CONSULTANTS",
+      "utterance": "Absolutely. I think there's a lot of optimism tonight that Republicans and Democrats are going to get to the end of this with a solution by early next week, maybe as early as Monday. In fact, I heard as late as an hour or two ago that the differences at this point are pretty minimal. There is going to be a huge emphasis on the middle class here and making sure that we are protecting people who may be out of work, may have to work from home, people who require health care benefits, all of the things that you have to think through basically because of the slowdown of commerce is the result of all this."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I want to play one soundbite from that AOC interview about politics and about Bernie Sanders and about Michigan."
+    },
+    {
+      "speaker": "REP. ALEXANDRA OCASIO-CORTEZ, (D-NY)",
+      "utterance": "I think one thing that isn't being talked about is the rampant voter suppression in this country."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "So just to be clear, you're saying that you think voters didn't get to vote that wanted to vote in Michigan."
+    },
+    {
+      "speaker": "OCASIO-CORTEZ",
+      "utterance": "Absolutely."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Bernie Sanders lost big in Michigan."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "Yes, I think he lost by 13, 14 percent. So if there was voter suppression, it would've had to of been substantial enough to account for that big a margin. Just one quick point on what Josh is saying. I think everybody on the Hill, and I think this was reflected in your interview with AOC, sees this as an opportunity to behave well and not as an opportunity to make mischief and look like the one obstructing this. People are really concerned, and you don't want to be the person who blocks the deal."
+    },
+    {
+      "speaker": "HEMINGWAY",
+      "utterance": "Absolutely true. It's also true that people see this as an opportunity to just spend money or get credit for doing something, and it's important that we do things in a smart way. One of the things she said in her interview was that she didn't think that there should be a payroll tax holiday. It's a great way to cut costs and make sure that people don't get laid off."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "We'll follow it, we will probably have more tomorrow. Thanks, panel. When we come back, Nancy Pelosi and President Trump agree on something big."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Finally tonight, House Speaker Nancy Pelosi and President Trump rarely agree, but in times like these they do see eye to eye on one big thing."
+    },
+    {
+      "speaker": "PELOSI",
+      "utterance": "Forget any physical contact, greetings. Bow in an eastern style."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We didn't shake hands today. And we looked at each other, and we said, what are we going to do? It's sort of a weird feeling. We said at the same time, we did this."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Even Dr. Fauci gave it the old chicken wing on Capitol Hill. Washington taking precautions. You should too. It's OK. It doesn't have to be weird. You can give a little something like that. Thanks for inviting us into your home tonight. That's it for this SPECIAL REPORT. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

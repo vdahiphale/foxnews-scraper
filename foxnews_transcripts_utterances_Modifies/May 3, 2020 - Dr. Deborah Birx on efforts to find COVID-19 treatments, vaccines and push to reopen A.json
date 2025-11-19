@@ -1,0 +1,1433 @@
+{
+  "date": "May 3, 2020",
+  "headline": "Dr. Deborah Birx on efforts to find COVID-19 treatments, vaccines and push to reopen America",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/dr-deborah-birx-on-efforts-to-find-covid-19-treatments-vaccines-and-push-to-reopen-america",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "sentences": "I'm Chris Wallace. A patchwork of states start reopening and the president announces approval of the first drug to treat people with the coronavirus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "That's been a hot thing also in the papers and the media, an important treatment for hospitalized coronavirus patients.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEPHEN HAHN, FDA COMMISSIONER",
+      "sentences": "This was lightning speed in terms of getting something approved.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "The FDA gives the emergency OK to use remdesivir to treat those severely sick with COVID-19. We'll discuss the breakthrough and the risks with Dr. Deborah Birx, coordinator of the White House Coronavirus Task Force. It's a \"FOX News Sunday\" exclusive.  Then, millions of Americans had back to stores, restaurants and movie theaters, while millions more remain under stay-at-home orders.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOVERNOR TATE REEVES (R), MISSISSIPPI",
+      "sentences": "Today, I was prepared to announce further reopenings. That was the plan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And one state backs off its plan to reopen after a spike in new cases.   We'll talk with the governor of Mississippi, Tate Reeves, and New Jersey Governor Phil Murphy, whose state has the second highest death toll in the nation. Then, Joe Biden breaks his silence on sexual assault allegations. We'll ask our Sunday panel whether his denial puts the issue to rest. And our \"Power Players of the Week\", teachers finding ways to connect with students from a distance.   All, right now, on \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And hello again from FOX News in Washington.  Two months into the coronavirus pandemic, some 30 states are now easing their lockdown measures, even as cases here pass the 1.1 million mark and health experts warn of a second wave. But there is a new medical breakthrough, the first drug that appears to help patients recover faster, now cleared for use by the FDA.   In a moment, we'll talk exclusively with Dr. Deborah Birx, coordinator of the White House coronavirus task force. But, first, let's bring in Mark Meredith with the latest on the patchwork reopening of this country -- Mark.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARK MEREDITH, FOX NEWS CORRESPONDENT",
+      "sentences": "Chris, protesters in several states continue to demand that governors loosen public health restrictions, but some fear easing now may lead to a worse outbreak down the road.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOVERNOR GRETCHEN WHITMER (D), MICHIGAN",
+      "sentences": "I know that people are itching to get back to work and I get it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "Michigan's governor is refusing to, even as governors and many other states say now the time is to reopen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOVERNOR RON DESANTIS (R), FLORIDA",
+      "sentences": "Opening the parks backup is consistent with my safe, smart, step-by-step plan to reopen Florida.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "Health officials had urged reopening only after reporting a 14- day decline in new cases. But with outrage growing and job losses piling up, many governors are charting their own path.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Cheers!",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "In Texas, malls and restaurants are reopening with limited capacity.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We're going to kind of slow down the operations a little bit and work with about 60 people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "In Pennsylvania, golf courses are back open, while in Washington, President Trump says he's considering economic retaliation against China.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We're not happy obviously with what happened. This is a bad situation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "An Australian newspaper reports the U.S. and its allies have intelligence China intentionally destroyed evidence tied to the outbreak and even silenced medical experts as the virus first began to spread.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MEREDITH",
+      "sentences": "On Friday, the Labor Department will release the April jobs report. White House officials say they expect the unemployment rate will skyrocket. It's something President Trump could talk about a little bit more when he gets back from Camp David. He's going to be coming back this afternoon for a FOX News town hall later tonight -- Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Mark Meredith, reporting from the White House -- Mark, thank you.  Joining us now, Dr. Deborah Birx, coordinator of the White House Coronavirus Task Force. Doctor, welcome to \"FOX News Sunday.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. DEBORAH BIRX, COORDINATOR, WHITE HOUSE CORONAVIRUS TASK FORCE",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Where are we with the virus? Are we past the peak? Are we on the downslope now?  And given that just a few days ago, the White House was projecting 60,000 fatalities and we are already up to 66,000, how many more fatalities should we expect in this country?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "Well, first, let me start with, our projections have always been between 100,000 and 240,000 American lives lost, and that's with full mitigation and us learning from each other of how to social distance.  Every single metro area and every single outbreak across the country is different. And so, whereas New Orleans and now Detroit and some of our other metros showing significant decline, others are just reaching steady state.  We are encouraged that the New York and New Jersey metro areas are starting to see a decline after a long, flat curve.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "As we said, about half the states -- more than half the states have started in some way, shape, or form, reopening. But we've crunched the numbers, Doctor, and not a single state has met the White House gating guidelines of two weeks of steady decline in new cases.  Are you concerned about this patchwork reopening, and why leave it up the governors? Why not set a firm, if not binding, a firm national policy on when states can reopen?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "Well, I think federal guidelines are a pretty firm policy of what we think is important from a public health standpoint. We also made it possible for states to open counties independently of the entire state, because again, some of these outbreaks are very local and have to be studied and understood that way. And so, as states reopen, we really want them to follow the gating criteria.   But we also made it very clear to the American people, this is what you need to continue to do to protect yourself. You need to continue to social distance. You need to continue to practice scrupulous hand-washing. You need to know where your hands and where they have been and what they have touched and make sure you don't touch your face.  And I think most importantly, if you have any pre-existing conditions, through phase one and phase two of any reopening, we have asked you to continue to shelter in place. We know who's a particular risk for a very difficult course with this virus and we cannot emphasize enough how strongly we feel if you have a coexisting condition to continue to shelter in place.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But, clearly, when you leave it up to individual governors and governors are not observing the two-week decline before they open, that sends a very mixed message to a lot of those individuals you're talking about appealing to.   I want to play something that Dr. Anthony Fauci, your colleague on the task force, said this week. Here it is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES",
+      "sentences": "We give the governors the opportunity to be very flexible, but you have to have the core principles of the guidelines. You can't just leap over things and get into a situation where you're really tempting a rebound.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Do you share Dr. Fauci's guidelines about this patchwork reopening that some governors, some states are jumping the guidelines and risk a rebound?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "We made it very clear that the guidelines are based on very strong evidence and data, and that is the way Dr. Fauci has also driven. We want to make sure that every individual, every employer, and every person knows how to keep themselves safe in this situation. We've made it clear what the gating criteria is. And we've asked every governor, because I know they're also concerned about every single person in their state. We've asked every governor to post on their website and on a dashboard where exactly they are in the gating criteria, but also to make all the information available to the public and to have sites -- sophisticated sites like Florida does that many other like Massachusetts does, so people can see where the viruses in their community, because an educated community can really take action to understand how to protect themselves.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, let's talk about how educated some of the communities are. I'm going to do a lightning round, quick questions, quick answers, about some of the activities that people are engaging in around the country.  First of all, California, where this past week thousands of people were massing on beaches in very close quarters. Simple question, is that safe?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "If it's done with social distancing, yes. If it's not done with social distancing, no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, I don't know that you can see the video, there was no social distancing, which was one of the reasons the governor shot those beaches.  All right. Let's talk about a different issue because we are seeing a lot of governors open up things like beauty salons and spas where people come into very close contact. You're getting a haircut, you're getting a massage with each other. Question, if both sides, both parties, are wearing masks, is that safe?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "It's safer, but we've made it clear that that is not a good phase one activity and I think the president has made that clear when he discussed the case in Georgia.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, you know that's happening all over the country right now.  Let me ask about one more activity. Big crowds of protesters that went into the Michigan state capitol without masks, massing together in close quarters. I'm not asking you about their First Amendment right to protest, that of course they have. But from a public health standpoint, is that safe?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "It's devastatingly worrisome to me personally because if they go home and infect their grandmother or their grandfather who has a comorbid condition and they have a serious or a very -- or an unfortunate outcome, they will feel guilty for the rest of our lives. So we need to protect each other at the same time we're voicing our discontent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let's talk about remdesivir. The FDA gave emergency approval to use of this drug to help people have the virus. Is it a silver bullet in terms of reducing lethality, keeping people from dying and also in terms of side effects?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "Well, first, it's only half the data and the Data Safety Monitoring Board, an independent group, thought that the improvement was compelling enough and significantly enough to actually say that they couldn't continue the trial as it was, and the placebo arm had to receive the effective drug. So, it's a first step forward.  In parallel, we have a whole series of therapeutics including plasma and also monoclonal antibodies being worked through. We are -- we are concentrating on vaccines as well as therapeutic bridges to ensure that the American people and do well with this virus eventually. We really want to ensure there's both therapeutic available and vaccines available rapidly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Then, there's Operation Warp Speed, which is the Trump administration's effort to try to develop a vaccine by next January. Now, you and Dr. Fauci have talked sort of the rule of thumb is 12 months to 18 months, that would be considerably shorter than that timetable. Next January, is that realistic?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "The way that it's possible is if you bring forward five or six different classes of candidates, which the Operation Warp Speed has done. And so it's not relying on a single vaccine platform. It's relying on several different candidates that are made differently and act differently.   And then it's about doing compressed phase one, phase two, phase three trials in an overlapping way, moving forward when you have a good safety and immunogenicity data, but not with the level of pauses that are often present in vaccine development. And so, on paper, it's possible. It's whether we can execute and execute around the globe, because you also, for phase three, have to have active viral transmission in the community in order to study its efficacy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Finally, Doctor, and I've got about a minute left, there is a new report out of Australia this weekend that five intelligence agencies, including the U.S., have put together a dossier that indicates that the Chinese government in the early stages either hid or covered up the fact of the coronavirus and its spread in Japan. I'm not going to ask you to comment in any way on intelligence. But from a public health standpoint, did the lack of transparency from China in the early days, in January, February, even into March -- did that slowed on the public health response in this country?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIRX",
+      "sentences": "Wherever that first jump occurs, whether it's from animal to human or lab to human, it doesn't really matter. Whoever, wherever that happens, you have to over communicate, because that's -- because that's when you get the first instance of how transmittable this virus is. What are the people that it's particularly susceptible to? That didn't happen and it didn't happen until late, and you know it didn't happen until mid-January that they even talked about human to human transmission. And that really -- and when you see how many countries now are infected, that did fan the virus across the globe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Dr. Birx, thank you. Thanks for your time during these very busy days, and, Doctor, please come back.  Up next, the White House social distance guidelines have now expired and most states are starting to lift their stay-at-home orders. We'll talk with two governors facing very different situations. That's next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Many states across the country are beginning to relax restrictions and get back to business, while others are more cautious about lifting stay-at-home orders. We want to discuss the patchwork of re-openings in hard-hit New Jersey, Governor Phil Murphy, but first to Mississippi and Governor Tate Reeves. Governor, you already have gone from a stay-at-home order to a safer-at- home order and you were going to lift that, lift up the restrictions even a little bit more on Friday, two days ago, until you saw a new spike in cases in your state. So, where are you now in Mississippi?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. TATE REEVES (R), MISSISSIPPI",
+      "sentences": "Well, thank you for having me on, Chris.  What I will tell you is we had a one day spike. We went up to 392 cases that reported early Friday morning. We didn't have time to analyze the data before we made the announcement, and we are trying to be very cautious and so we said, let's analyze the data over the weekend, and what we have found is that it was really a data dump. We got a large number of tests that came in from out-of-state private labs. But we found is yesterday we reported 220 new cases. This morning or later today, we'll report less than 110 new cases. So it was a one-day blip, but we wanted to make sure we investigate that data before we make a final decision, so we delayed it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to put up a number of new cases you've had over this past week, because that's what the White House guidelines say you should look at, and you'll see that you went from 281 cases a week ago Friday down to 183 and then back up pretty sharply, even before you hit that 397 figure two days ago, which raises the question, what I was asking Dr. Birx -- Governor, why are you reopening Mississippi at all when you haven't met the White House guidelines of a steady downward trajectory for two straight weeks?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REEVES",
+      "sentences": "Well, that's a great question, Chris, and it's a fair question. And what I would tell you is that you have to understand that Mississippi is different than New York and Mississippi is different than New Jersey. In those two instances -- by the way, my neighbor to the west was the same in Louisiana, they had a huge spike in cases over a very short period of time and then -- but Mississippi is not like that. What we have seen, for the last 35 to 40 days, we've been between 200 and 300 cases without a spike. Our hospital system is not stressed. We have less than 100 people in our state-owned ventilators. And so, as I talked to the president, the vice president in the coronavirus task force, I spoke personally with Dr. Birx, and we agree that sometimes the models are just different for different states, just like they're different for various counties, and we believe that that particular gating criteria just doesn't work in states like ours, who have never had more than 300 cases in any one day with the exception of Friday and that data dump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Governor, we think of protests as something happening in blue Democratic states, but in fact, last weekend, you had a demonstration outside the governor's mansion in Jackson, Mississippi. People are demanding a total reopening. As the Republican governor of a red state, what do you think of those protests and what do you say to those people?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REEVES",
+      "sentences": "Well, I think a fundamental right of our government is to be able to protest our leaders and you know, most of the people that were protesting voted for me last year. We had election in 2019 and most of them were for me. But you've got to understand, Chris, we have a public health crisis in this country, there's no doubt about it. But we also have an economic crisis. And so, when I look at those protesters, I know they were protesting for the 200,000 Mississippians that have lost their jobs in the last six weeks. We have an economic crisis in the short-term. We have a long-term economic crisis that's going to be very difficult for this country, and I understand and I feel their pain, and we're doing everything in our power to get our state back open as soon as possible.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You've also got a fight with your Republican state controlled legislature. I want to point out, same party as you are. The legislature which has voted to strip you of sole authority to spend the $1 billion plus in federal aid to your state that Congress voted. You have sole authority, they voted to strip you, they passed the bill. First of all, what are we to make of this controversy? And secondly, are you going to veto the bill and maintain sole authority?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REEVES",
+      "sentences": "It's an absolute terrible tragedy that they have tried to do this particular power grab in the middle of an emergency. We have had long- standing, 40-year laws in Mississippi which recognized that in an emergency, you've got to have an executive. You've got to have someone that makes decisions and gets things done. The monies in the CARES Act were sent to the states and sent to the governors so that we can get money out to our people. We don't have time for committee meetings. We don't have time for committee hearings. We don't have time for politicians to cut deals. What we need in Mississippi is to get that money in the pocket of the 200,000 Mississippians who have lost their jobs. I'm terribly disappointed in our legislative leadership. I think they made a huge mistake. That was round one in this battle, but we're going to continue fighting it because we're going to stand up for the people of this state.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But just briefly, are you going to veto the bill they passed?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REEVES",
+      "sentences": "We're deciding what we're going to do right now. We have a couple of days to do that and we'll make a decision in the coming days.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Governor Reeves, thank you. We wish you and the residents of your state of Mississippi the very best during these tough times -- thank you, Governor. Now let's turn to New Jersey and Governor Phil Murphy.  Governor, New Jersey is in a different situation, obviously, then Mississippi. You're under almost total lockdown. This weekend, you're reopening parks and some golf courses, but you're not reopening your state's famous beaches. Question, what are the chances that you're going to be in a very different state and largely reopen come Memorial Day on the start of summer?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. PHIL MURPHY (D), NEW JERSEY",
+      "sentences": "Listen, I'll be the happiest guy in New Jersey, if not America, if we are, Chris. I think it's too early to tell, for lots of reasons, including our neighbors, we're in a different place than we were. We -- we decided to open state and county parks this weekend, as you rightly pointed out. I have to say, yesterday, the reports in, compliance was very high in terms of social distancing and not congregating. That sort of behavior, as we -- as we flatten the curve's -- and, remember, we've been crushed, over 7,700 people have died in New Jersey from Covid-19. But as we -- as we push these curves down and folks continue to comply and -- and keep social distancing, that's the best weapon we've got to -- to get the best outcome by the time we do get to Memorial Day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You, as you've just pointed out, your state has the second- highest number of cases in the country to New York. You have the second- highest number of deaths. And just this past week, New Jersey, your state, has its single highest single -- single day number of deaths. Like other -- other governors, however, you have protesters, as Governor Reeves does in Mississippi, saying, hey, it's time to reopen. These protesters are out in the street. What do you say to them?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MURPHY",
+      "sentences": "Listen, I have no -- I don't begrudge their right to protest. I wish they would do it virtually and unsafely. My biggest issue is they were congregating without face masks. But the overwhelming amount of folks in our state believe that we're -- we're on the right path. And it's -- it's painful. I mean folks have been staying in now for weeks. The stay-at-home reality has been with us for -- for many, many weeks. And -- and partly the -- the state park step we took was partly for mental health reasons, for folks to get out and be able to get some fresh air and stay away from each other. So -- so I don't begrudge folks right to protest, but we've got to call -- we -- we've got to make our decisions based on the science, the data, the facts. And they all suggest, as you -- as you rightfully point out, we're not out of this yet. Now the -- the fatalities, bless their souls, we have to point out are folks who were infected some number of weeks ago. So, in the here and now, hospitalizations are down, ventilator use is down, the positive curve -- testing curve is flattening. So those are all good signs. But we're not in the end zone yet.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to pick up on this question of science because you set six principles for reopening. And the first of your six principles, the first principle, is that there has to be, as Dr. Birx had talked about, this steady decline in new cases for 14 days. You haven't reached it. As best we can tell, not a single state has reached it and get a number of your fellow governors have started to reopen their states. You said this week data drives dates. Are some of your fellow governors making a mistake not being driven by the data?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MURPHY",
+      "sentences": "Listen, Chris, my nose is pressed against the New Jersey glass, honestly, so I can't speak for what they're looking at. I do know, in our state, and as we coordinate with our regional partners, most notably our neighbors, New York, Pennsylvania, Delaware, we have to make the call based on data and science. We're the densest state in America and this region is the densest region in America.  In our northern counties, we're part of the -- of the New York City and remain so of the New York City metro flare-up of this whole virus. So we've got to be exceedingly careful. And as -- and as much as I want to open things back up tomorrow, we're just not there yet. And we've got to make these calls, particularly given our density based on the facts.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "A couple of more questions I want to get in with you, Governor. You met with President Trump this week and I think it's fair to say that you're getting along better with the president than almost any other Democratic governor. He announced this week he's sending New Jersey half a million new tests, 750,000 swabs. Do you think that your good, personal relationship with the president has made a difference in terms of what New Jersey has gotten?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MURPHY",
+      "sentences": "Listen, I -- we've been able to find common ground, Chris. Let there be no doubt about it. The president knows New Jersey. He and his team have been extremely responsive in our hour of need, whether it was ventilators, as you rightfully point out, we've got a huge amount of supplies to test. We're getting personal protective equipment just the other day, confirmed direct to our nursing homes. We just announced $1.7 billion into our hospital systems. Listen, I think we've been able to find common ground again based on the science, based on the facts and the reality and in our -- in our hour of need, I have to thank the president and his team. They have been there for us. And I appreciate that enormously.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "One area, however, Governor, where you haven't gotten help, either from the president or from Senate Republicans, is on the question is state aid, federal aid passed by Congress, signed by the president, to go to states like yours, to pay for first responders, teachers and all the services, where you -- the huge revenue hit that you've taken because of the coronavirus. You said this week, your word, that if you don't get state aid, it's going to be Armageddon.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MURPHY",
+      "sentences": "Yes, listen, we had a very good conversation about this, I have to say, with the president, but that's the facts. This isn't about the old legacy stuff. We're -- we've -- we've been taking care of that. This is about firefighters, police, EMS, teachers at the point of attack. We're already seeing some layoffs in New Jersey. We need a big slug of federal, direct cash assistance. And it's not -- not just New Jersey and it's not just blue states. And it - - and it would make a huge difference. It clearly would be a huge win for the residents who are being served. It would be a huge win for those first- line responders and their families, working families. I think, frankly, it's a huge win for the president to be able to say, you know what, with this cash assistance, we were able to keep serving folks across the country in both red and blue states, and we kept folks employed at a time where we desperately need to keep folks employed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Governor Murphy, thank you. Thanks for joining us today and good luck to you and the residents of your state of New Jersey. Thank you, sir. 930 GOVERNOR PHIL MURPHY (D-NJ): Keeps serving folks across the country in both red and blue states and we kept folks employed at a time we desperately need to keep folks employed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX ANCHOR",
+      "sentences": "Governor Murphy, thank you. Thanks for joining us today and good luck to you and the residents of your state of New Jersey. Thank you, sir.  Up next, we're going to bring in our Sunday group to discuss the debate over when and how to reopen and get back to something approaching normal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Have to have safety, but at the same time people want this country open. The people here want it open.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JARED KUSHNER, ADVISER TO THE PRESIDENT",
+      "sentences": "I think that we've achieved all the different milestones that are needed. So the government -- federal government rose to the challenge and this is a great success story.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Trump and his son-in-law and advisor, Jared Kushner, turning the page on the messaging coming from the White House these days. And it's time now for our Sunday group. Anchor of \"The Daily Briefing,\" Dana Perino, executive director of the Serve America PAC, Marie Harf, and Guy Benson of Fox News Radio. Dana, the president and his team are clearly now pushing this it's time to start reopening the country narrative, but, as we pointed out, not a single state has met -- even though a bunch of states are reopening, not a single state has met the White House gating guidelines of two weeks of steady decline in new cases before you're supposed to go to phase one. And recent polls show that -- that when people are asked to choose, they're more concerned about safety, even if it means staying sheltered for a while longer, than in reopening. At least that's what the public polls say. I guess my question is, how big a risk do you think the president is taking and pushing at this point as much as he is for reopening? DANA PERINO, ANCHOR, \"THE DAILY BRIEFING\": Well, that's a very interesting dance in a way that the president has to do from the very beginning, which was, how do you convince people to all work together to flatten the curve. And America really did respond quite well. And you saw that the curve is flattening in many places, but now there's a bit of a plateau of, what do we do if there's a plateau? And, in the meantime, you have all of these people -- you know, you said earlier, Chris, 66,000 people who have died. And one of the things that's really on the hearts of the people who lost loved one is that those people mostly had to die alone because of the social distancing guidelines. They couldn't be there to hold their loved ones hands when they died. So there is grief on that end. But, at the same time, there is no doubt the economy and the economic impacts of this are devastating. When you have car lines up to six miles in San Antonio for people to get food -- these are people who were working through no fault of their own. They find themselves in this position. They've probably never asked the government or a charity for help and they're looking at this saying there's no problems at my hospital. But doctors and nurses at our hospitals are being laid off because there's no elective surgeries. You just heard from Governor Murphy who said that they're seeing that firefighters, police officers are starting to be laid off in these states. So it's going to be very important for the president to figure out how to strike the balance. And I think there's one thing that they can do in terms of saying what a great job they've done so far, but they also need to be very clear-eyed with everyone in the country about the challenges that we face because they are enormous.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Marie, let -- let -- let's talk about it, though, because you do see Republican governors pushing, moving to reopen their states. You do see these growing protests in the street. So, I mean, there is a push to get the country going again and, obviously, the 66,000 people who have died, even the million with the new cases, but, you know, we're talking about 30 million people in the last six weeks who have lost their jobs.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARIE HARF, FOX NEWS CONTRIBUTOR",
+      "sentences": "It was so interesting hearing the governor of Mississippi talking about how when he got new data he changed his plans when he had scheduled to reopen parts of the economy. So we are about to embark on a situation where we will see if people can, on their own, social distance. If people with -- you know, independent of government regulations or stay at home orders can act responsibly. And if they can't, and if we see spikes in some of these places, will these governors be willing to change course in midstream? That's something we will all see together in real-time. But the bottom line is, we still need more testing, we still need more contact tracing, we still need more therapeutic treatments. You heard Dr. Birx. We've heard Dr. Fauci talk about that. And so the economy, even if we open nail salons, hair salons, Chris, the economy isn't really going to get going again until we can travel, until we can move around the country. It will not get going again in a real meaningful way by opening small businesses in certain places and so we have to get all of those things I just mentioned to eventually get to a place where the economy really can open back up. That is not happening anytime soon.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Here is one of the Republican governors, Florida Governor Ron DeSantis, talking this week as he was starting to reopen his state. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. RON DESANTIS (R-FL)",
+      "sentences": "What is our biggest obstacle? Fear. Fear of the unknown. Fear sparked by constant doom and gloom and hysteria that has permeated our culture for the last six weeks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Guy, you know, it's awfully interesting, as the virus begins to wane at least a little bit, we see and maybe it's because people feel free -- freer to do it, the politics starting to -- to resume and to grow. And you've got red state governors -- not all of them, and we just pointed out Tate Reeves, who -- who made a -- a -- a switch when he saw the data of a spike in cases in Mississippi, but, generally speaking, red state governors pushing more for reopening, blue state governors, Democrats, talking more about leaving the restrictions on longer. It -- I mean it's a -- it's a very interesting dichotomy and it's -- really follows a political breakdown.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GUY BENSON, FOX NEWS CONTRIBUTOR",
+      "sentences": "Although there have been governors, Chris, on the Democratic side who were part of this first round of reopening efforts as well. So it's not perfectly red and blue. I think some of it is regional. I think some of it is based on the data that we heard Dr. Birx talk about, which is different in these various states. But I think the clip from Governor DeSantis, if you watch that entire speech that he gave, he was really juxtaposing the predictions of the numbers in Florida, which were horrific, versus the numbers that we're actually seeing in Florida, which are still very sad. Every death is horrible, but nowhere near what the projections had shown. And so I think he was saying we have to keep our heads, we have to keep things in proper perspective. And, remember, we were told that x, y and z was going to happen. What we're seeing is a, b and c. Let's try to balance this properly. I mean it is awfully difficult, Chris, because you, of course, grieve for the 66 plus thousand Americans who have died. There are concerns that those numbers are still going up in certain areas more than others. But you talk to even small business owners who had thriving businesses, who did everything right and were doing everything well and now they're wondering, can we ever reopen? What's going to happen to my life? What's going to happen to my employees life? That is also a humanitarian crisis that is very acute for a lot of people who aren't sitting in studios like we are and who are looking every day very anxiously, when can this happen again? I think the biggest component is, when will the American people feel confident to reopen the economy, because some of these businesses reopened and had very few customers because people still aren't confident and this sort of juggling act continues and it's -- it's very painful.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, panel, we have to take a break here, but when we come back, Joe Biden denies a sexual assault allegation and calls on the National Archives to release his personnel records. We'll discuss the impact on the 2020 race, next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "sentences": "And the facts in this case do not exist. They never happened. And there's so many inconsistencies in what has been said in this case. So, yes, look at the facts. And I assure you it did not happen, period.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Presumptive Democratic Presidential Nominee Joe Biden on Friday flatly denying the allegation he sexually assaulted a staffer back in 1993. And we're back now with the panel. Guy, what did you think of Joe Biden's denial on Friday? Does it end this controversy? And given the fact that -- that several women have made similar allegations against Donald Trump, how big a role does it play in the 2020 election?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "I don't think that it's over because there are more questions, I think, that need to be asked and answered on this front. I just find it very interesting, Chris, that as we're having this discussion about Joe Biden -- look, I watched the interview. I think that he deserves the presumption of innocence. I think accused parties do in every case. That's how things work in this country. And I would say, on one hand, there is significantly more contemporaneous evidence against Biden, including five people who say that Tara Reade told them at the time that this had happened in the early to mid '90s, that phone call that her mother placed to \"Larry King Live,\" far more contemporaneous evidence against Biden than there ever was against Brett Kavanaugh. But I'm not sure it's decisive. And I think that for us to all pile on, and I see some people saying Biden should drop out of the race, a lot of people on the far left and some people on the right, I don't think that that's fair because I don't think we know what happened. There's a lot of murkiness and there are inconsistencies in Reade's story. But anyone who's rediscovering skepticism and the importance of evidence and looking at inconsistencies in stories, that's fine, but if they had a different standard for Brett Kavanaugh, many, many on the left did and in the media, they owe Kavanaugh an apology.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to pick up on that with you, Marie, because during the Brett Kavanaugh case there were a lot of Democrats, especially a lot of leading Democratic women in Congress, and -- and just in public life who were saying, women must be believed, women must be taken seriously and a lot of those same women said that they stood with Joe Biden on these allegations before Biden even denied the allegations on Friday. I mean isn't that hypocrisy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "Well, what many women on the Democratic side were saying with Brett Kavanaugh at the time was that they wanted a full FBI investigation and that believing women means taking their claims seriously and investigating them. And Joe Biden himself has come out and called for an investigation into Tara Reade's accusations. He has asked the Senate secretary, who would have any personnel records, any files like that, to comb through their records. That's a level of transparency that not many politicians have had when they've been accused of sexual assault. And so for someone who went through a very thorough vetting is the vice president did when he was running with President Obama, with candidate Obama, none of this ever came up, nothing like this has ever been rumored to be the case, certainly, for someone who's been this vetted. The vice president had said, look, investigate it. That's what believing women means, taking them seriously and investigating it. In this case, there is no concrete evidence at all of assault.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I'm going to call an audible here and let's move to another big story this week, and that's the case of General Michael Flynn, who was -- pled guilty for lying -- he pled guilty twice for lying to the FBI. This week new documents came out that indicated that before they interviewed Michael Flynn, the FBI talked about seeing if they could catch him in a lie. And here is new White House Press Secretary Kayleigh McEnany on his whole issue on Friday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KAYLEIGH MCENANY, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "I'm glad they kept such good documentation of their intent to slow-walk General Flynn into a trap, into essentially create, as I mentioned, a grave miscarriage of justice.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Dana, from what you see, is this a miscarriage of justice, what happen to Michael Flynn, and particularly given what we're now learning about the FBI? And what do you make of the president's talk that he would at least consider bringing Michael Flynn, whom he fired, because he had allegedly lied to the vice president, bringing him back into the White House?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Well, I think the -- I think that we might be over reading the president's answer on that a little bit. He never likes to close off possibilities for him in the future. So I don't think that he was saying, I'm definitely going to bring Michael Flynn back, but he has maintained, from the beginning, that this is a good man, a war hero, somebody who was treated unfairly by the Justice Department. And I think that everybody should be able to look at the attorney general, William Barr's decision here to ask a U.S. attorney to give this a fair review and release documents because there is question. So we have those documents so far. The investigation is ongoing. Now the judge also has some decisions to make in the case. What happened next? Do they throw out the case? Will the Justice Department try to re-prosecute? And I also think that there are still some questions about, how did this all happen in the first place? And, you know, there's political appointees at the Justice Department and the FBI from the previous administration who have been very quiet. And I think in this investigation, they're probably going to have to come out and explain a little bit more if they want to help all of us understand what in the world was going on back then.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Marie, what do you think of the -- of the FBI documents that were released this week and the claim by some people that they exonerate General Flynn and, as you just heard Kayleigh McEnany say, that this was a miscarriage of justice?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "Well, they certainly don't exonerate Michael Flynn and I think the documents show an FBI that was trying to figure out the best way to handle a very politically sensitive investigation with Michael Flynn. And the bottom line is that Michael Flynn lied, not just to the vice president, but to the FBI. He is a highly trained military intelligence officer, Chris. He is not someone who's taken for a ride or a rube. He is not stupid. He -- he decided, when he had the choice, when he was required to tell the truth under oath, he decided to lie. He pled guilty to it. And so whatever internal deliberations the FBI was having, that still remains the fact.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Do -- do -- are you troubled at all by these documents that we're seeing now in which people are discussing, you know, we're going to interview Flynn and, you know, should we try to catch him in a lie? Also, should we get him fired, which seems like an odd thing for a law enforcement agency to do? Is there nothing in those documents that troubles you, Marie?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "There's nothing in these documents that shows me that this is a politically motivated investigation. And they're asking questions about how to handle that. That happens all the time in FBI investigations. But Michael Flynn is the one who chose to lie about his contact with foreign governments, including the Russians. So, of course, I want more information about this, Chris. But nothing I've seen tells me that this wasn't a good investigation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Guy, your thoughts about -- about the overall investigation of Michael Flynn and what we learned or didn't learn this week about it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "I think a big question is why that interview took place at all. And if you read Kimberley Strassel's column in \"The Wall Street Journal,\" it is pretty devastating. I think it's totally possible to say he was railroaded and there was misconduct at the FBI. But also, to Marie's point, he didn't choose to lie to the vice president. He did have some very shady dealings, for example, with the government of Turkey. Maybe he shouldn't have been in that position in the first place, right? So you can maybe say, perhaps he wasn't the best pick for a national security advisor. That doesn't mean there wasn't abuse. And I think some of the documents we saw this week point to abuse.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "It -- well, we've got about 30 seconds. What -- what are you most troubled by? Where do you see possible abuse?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENSON",
+      "sentences": "Well, I think mostly it's the pretenses under which that interview was set up in the first place, right, where they were basically saying -- and Comey, the former FBI director admitted this, he sent the agents there, using sort of a chaotic, new White House to sort of get this -- this FBI investigation to come to the White House doorstep and it just -- the notes in the -- in the actual documents about saying -- trying to get him to lie, try to get him fired, it doesn't smell great.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, panel, thank you. The smell test, and it doesn't pass it. We'll see you next Sunday. Up next, our \"Power Players of the Week,\" teachers using tech and humor to reach out of their students who are now learning from their homes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Teacher Appreciation Week is normally a time to showcase all the teachers do for their students. Well, even this year that's no different, though, of course, the teaching has shifted to home and computers. Here are our \"Power Players of the Week.\" WALLACE (voice over): D.C. teacher Joe Martin (ph) hamming up for kindergarten students. Like teachers across the country, he's finding ways to connect outside the classroom.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE MARTIN, TEACHER",
+      "sentences": "That was something I really wanted to preserve was keeping that classroom environment and community and culture going.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "What do you want to be, x or o? O.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "This Massachusetts teacher meeting a student for a socially distanced tic-tac-toe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "March in (INAUDIBLE). So marching up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And this British gym teacher holding virtual P/E.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I'm trying to disrupt the day, giving you half an hour of activity to get a bit of clarity and know that everyone's in the same position.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Teachers are helping kids find the good in a tough time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "This morning, during our Zoom lesson, we all spoke about how excited we were and see this and something that brings us together as a class even though we can't be together.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And commiserating with each other. UNIDENTIFIED MALE (singing): I will survive. Oh, as long as I know how to Zoom, I know I'll be alive.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "This is one of my favorite bedtime stories. This is good night Zoom.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And comedians are memeing classic children's books.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Good night, Internet and unstable connection. And good night to tired parents screaming, seriously, I've had it, math time is over. I'm done. Daddy needs a drink.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And what about students learning at home?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Trying our best to learn. Trying to give our teachers respect.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We don't realize how awesome school is until we lose it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "OK, not all kids miss school.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Fun. And I don't have to go to school.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But it's clear teachers miss their students dearly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I got a little bit emotional when I first saw and heard my fifth graders on my computer screen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Just seeing them all together and hearing their voices.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "It is just not the same.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I miss them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "I miss them so, so much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "All right, good morning, green dragons. It's so nice to see you on this Wednesday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "A new study says parents with kids now learning from home have a newfound respect for teachers. Almost four out of five parents say teachers deserve a raise. Now, this program note. Tune in to Fox News Channel tonight at 7:00 p.m. Eastern for America Together, returning to work, a virtual town hall with President Trump. And that's it for today. Have a great week and we'll see you next FOX NEWS SUNDAY. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "utterance": "I'm Chris Wallace. A patchwork of states start reopening and the president announces approval of the first drug to treat people with the coronavirus."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "That's been a hot thing also in the papers and the media, an important treatment for hospitalized coronavirus patients."
+    },
+    {
+      "speaker": "STEPHEN HAHN, FDA COMMISSIONER",
+      "utterance": "This was lightning speed in terms of getting something approved."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "The FDA gives the emergency OK to use remdesivir to treat those severely sick with COVID-19. We'll discuss the breakthrough and the risks with Dr. Deborah Birx, coordinator of the White House Coronavirus Task Force. It's a \"FOX News Sunday\" exclusive. Then, millions of Americans had back to stores, restaurants and movie theaters, while millions more remain under stay-at-home orders."
+    },
+    {
+      "speaker": "GOVERNOR TATE REEVES (R), MISSISSIPPI",
+      "utterance": "Today, I was prepared to announce further reopenings. That was the plan."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And one state backs off its plan to reopen after a spike in new cases. We'll talk with the governor of Mississippi, Tate Reeves, and New Jersey Governor Phil Murphy, whose state has the second highest death toll in the nation. Then, Joe Biden breaks his silence on sexual assault allegations. We'll ask our Sunday panel whether his denial puts the issue to rest. And our \"Power Players of the Week\", teachers finding ways to connect with students from a distance. All, right now, on \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And hello again from FOX News in Washington. Two months into the coronavirus pandemic, some 30 states are now easing their lockdown measures, even as cases here pass the 1.1 million mark and health experts warn of a second wave. But there is a new medical breakthrough, the first drug that appears to help patients recover faster, now cleared for use by the FDA. In a moment, we'll talk exclusively with Dr. Deborah Birx, coordinator of the White House coronavirus task force. But, first, let's bring in Mark Meredith with the latest on the patchwork reopening of this country -- Mark."
+    },
+    {
+      "speaker": "MARK MEREDITH, FOX NEWS CORRESPONDENT",
+      "utterance": "Chris, protesters in several states continue to demand that governors loosen public health restrictions, but some fear easing now may lead to a worse outbreak down the road."
+    },
+    {
+      "speaker": "GOVERNOR GRETCHEN WHITMER (D), MICHIGAN",
+      "utterance": "I know that people are itching to get back to work and I get it."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "Michigan's governor is refusing to, even as governors and many other states say now the time is to reopen."
+    },
+    {
+      "speaker": "GOVERNOR RON DESANTIS (R), FLORIDA",
+      "utterance": "Opening the parks backup is consistent with my safe, smart, step-by-step plan to reopen Florida."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "Health officials had urged reopening only after reporting a 14- day decline in new cases. But with outrage growing and job losses piling up, many governors are charting their own path."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Cheers!"
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "In Texas, malls and restaurants are reopening with limited capacity."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "We're going to kind of slow down the operations a little bit and work with about 60 people."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "In Pennsylvania, golf courses are back open, while in Washington, President Trump says he's considering economic retaliation against China."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We're not happy obviously with what happened. This is a bad situation."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "An Australian newspaper reports the U.S. and its allies have intelligence China intentionally destroyed evidence tied to the outbreak and even silenced medical experts as the virus first began to spread."
+    },
+    {
+      "speaker": "MEREDITH",
+      "utterance": "On Friday, the Labor Department will release the April jobs report. White House officials say they expect the unemployment rate will skyrocket. It's something President Trump could talk about a little bit more when he gets back from Camp David. He's going to be coming back this afternoon for a FOX News town hall later tonight -- Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Mark Meredith, reporting from the White House -- Mark, thank you. Joining us now, Dr. Deborah Birx, coordinator of the White House Coronavirus Task Force. Doctor, welcome to \"FOX News Sunday.\""
+    },
+    {
+      "speaker": "DR. DEBORAH BIRX, COORDINATOR, WHITE HOUSE CORONAVIRUS TASK FORCE",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Where are we with the virus? Are we past the peak? Are we on the downslope now? And given that just a few days ago, the White House was projecting 60,000 fatalities and we are already up to 66,000, how many more fatalities should we expect in this country?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "Well, first, let me start with, our projections have always been between 100,000 and 240,000 American lives lost, and that's with full mitigation and us learning from each other of how to social distance. Every single metro area and every single outbreak across the country is different. And so, whereas New Orleans and now Detroit and some of our other metros showing significant decline, others are just reaching steady state. We are encouraged that the New York and New Jersey metro areas are starting to see a decline after a long, flat curve."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "As we said, about half the states -- more than half the states have started in some way, shape, or form, reopening. But we've crunched the numbers, Doctor, and not a single state has met the White House gating guidelines of two weeks of steady decline in new cases. Are you concerned about this patchwork reopening, and why leave it up the governors? Why not set a firm, if not binding, a firm national policy on when states can reopen?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "Well, I think federal guidelines are a pretty firm policy of what we think is important from a public health standpoint. We also made it possible for states to open counties independently of the entire state, because again, some of these outbreaks are very local and have to be studied and understood that way. And so, as states reopen, we really want them to follow the gating criteria. But we also made it very clear to the American people, this is what you need to continue to do to protect yourself. You need to continue to social distance. You need to continue to practice scrupulous hand-washing. You need to know where your hands and where they have been and what they have touched and make sure you don't touch your face. And I think most importantly, if you have any pre-existing conditions, through phase one and phase two of any reopening, we have asked you to continue to shelter in place. We know who's a particular risk for a very difficult course with this virus and we cannot emphasize enough how strongly we feel if you have a coexisting condition to continue to shelter in place."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But, clearly, when you leave it up to individual governors and governors are not observing the two-week decline before they open, that sends a very mixed message to a lot of those individuals you're talking about appealing to. I want to play something that Dr. Anthony Fauci, your colleague on the task force, said this week. Here it is."
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES",
+      "utterance": "We give the governors the opportunity to be very flexible, but you have to have the core principles of the guidelines. You can't just leap over things and get into a situation where you're really tempting a rebound."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Do you share Dr. Fauci's guidelines about this patchwork reopening that some governors, some states are jumping the guidelines and risk a rebound?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "We made it very clear that the guidelines are based on very strong evidence and data, and that is the way Dr. Fauci has also driven. We want to make sure that every individual, every employer, and every person knows how to keep themselves safe in this situation. We've made it clear what the gating criteria is. And we've asked every governor, because I know they're also concerned about every single person in their state. We've asked every governor to post on their website and on a dashboard where exactly they are in the gating criteria, but also to make all the information available to the public and to have sites -- sophisticated sites like Florida does that many other like Massachusetts does, so people can see where the viruses in their community, because an educated community can really take action to understand how to protect themselves."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, let's talk about how educated some of the communities are. I'm going to do a lightning round, quick questions, quick answers, about some of the activities that people are engaging in around the country. First of all, California, where this past week thousands of people were massing on beaches in very close quarters. Simple question, is that safe?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "If it's done with social distancing, yes. If it's not done with social distancing, no."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, I don't know that you can see the video, there was no social distancing, which was one of the reasons the governor shot those beaches. All right. Let's talk about a different issue because we are seeing a lot of governors open up things like beauty salons and spas where people come into very close contact. You're getting a haircut, you're getting a massage with each other. Question, if both sides, both parties, are wearing masks, is that safe?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "It's safer, but we've made it clear that that is not a good phase one activity and I think the president has made that clear when he discussed the case in Georgia."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, you know that's happening all over the country right now. Let me ask about one more activity. Big crowds of protesters that went into the Michigan state capitol without masks, massing together in close quarters. I'm not asking you about their First Amendment right to protest, that of course they have. But from a public health standpoint, is that safe?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "It's devastatingly worrisome to me personally because if they go home and infect their grandmother or their grandfather who has a comorbid condition and they have a serious or a very -- or an unfortunate outcome, they will feel guilty for the rest of our lives. So we need to protect each other at the same time we're voicing our discontent."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let's talk about remdesivir. The FDA gave emergency approval to use of this drug to help people have the virus. Is it a silver bullet in terms of reducing lethality, keeping people from dying and also in terms of side effects?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "Well, first, it's only half the data and the Data Safety Monitoring Board, an independent group, thought that the improvement was compelling enough and significantly enough to actually say that they couldn't continue the trial as it was, and the placebo arm had to receive the effective drug. So, it's a first step forward. In parallel, we have a whole series of therapeutics including plasma and also monoclonal antibodies being worked through. We are -- we are concentrating on vaccines as well as therapeutic bridges to ensure that the American people and do well with this virus eventually. We really want to ensure there's both therapeutic available and vaccines available rapidly."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Then, there's Operation Warp Speed, which is the Trump administration's effort to try to develop a vaccine by next January. Now, you and Dr. Fauci have talked sort of the rule of thumb is 12 months to 18 months, that would be considerably shorter than that timetable. Next January, is that realistic?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "The way that it's possible is if you bring forward five or six different classes of candidates, which the Operation Warp Speed has done. And so it's not relying on a single vaccine platform. It's relying on several different candidates that are made differently and act differently. And then it's about doing compressed phase one, phase two, phase three trials in an overlapping way, moving forward when you have a good safety and immunogenicity data, but not with the level of pauses that are often present in vaccine development. And so, on paper, it's possible. It's whether we can execute and execute around the globe, because you also, for phase three, have to have active viral transmission in the community in order to study its efficacy."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Finally, Doctor, and I've got about a minute left, there is a new report out of Australia this weekend that five intelligence agencies, including the U.S., have put together a dossier that indicates that the Chinese government in the early stages either hid or covered up the fact of the coronavirus and its spread in Japan. I'm not going to ask you to comment in any way on intelligence. But from a public health standpoint, did the lack of transparency from China in the early days, in January, February, even into March -- did that slowed on the public health response in this country?"
+    },
+    {
+      "speaker": "BIRX",
+      "utterance": "Wherever that first jump occurs, whether it's from animal to human or lab to human, it doesn't really matter. Whoever, wherever that happens, you have to over communicate, because that's -- because that's when you get the first instance of how transmittable this virus is. What are the people that it's particularly susceptible to? That didn't happen and it didn't happen until late, and you know it didn't happen until mid-January that they even talked about human to human transmission. And that really -- and when you see how many countries now are infected, that did fan the virus across the globe."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Dr. Birx, thank you. Thanks for your time during these very busy days, and, Doctor, please come back. Up next, the White House social distance guidelines have now expired and most states are starting to lift their stay-at-home orders. We'll talk with two governors facing very different situations. That's next."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Many states across the country are beginning to relax restrictions and get back to business, while others are more cautious about lifting stay-at-home orders. We want to discuss the patchwork of re-openings in hard-hit New Jersey, Governor Phil Murphy, but first to Mississippi and Governor Tate Reeves. Governor, you already have gone from a stay-at-home order to a safer-at- home order and you were going to lift that, lift up the restrictions even a little bit more on Friday, two days ago, until you saw a new spike in cases in your state. So, where are you now in Mississippi?"
+    },
+    {
+      "speaker": "GOV. TATE REEVES (R), MISSISSIPPI",
+      "utterance": "Well, thank you for having me on, Chris. What I will tell you is we had a one day spike. We went up to 392 cases that reported early Friday morning. We didn't have time to analyze the data before we made the announcement, and we are trying to be very cautious and so we said, let's analyze the data over the weekend, and what we have found is that it was really a data dump. We got a large number of tests that came in from out-of-state private labs. But we found is yesterday we reported 220 new cases. This morning or later today, we'll report less than 110 new cases. So it was a one-day blip, but we wanted to make sure we investigate that data before we make a final decision, so we delayed it."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to put up a number of new cases you've had over this past week, because that's what the White House guidelines say you should look at, and you'll see that you went from 281 cases a week ago Friday down to 183 and then back up pretty sharply, even before you hit that 397 figure two days ago, which raises the question, what I was asking Dr. Birx -- Governor, why are you reopening Mississippi at all when you haven't met the White House guidelines of a steady downward trajectory for two straight weeks?"
+    },
+    {
+      "speaker": "REEVES",
+      "utterance": "Well, that's a great question, Chris, and it's a fair question. And what I would tell you is that you have to understand that Mississippi is different than New York and Mississippi is different than New Jersey. In those two instances -- by the way, my neighbor to the west was the same in Louisiana, they had a huge spike in cases over a very short period of time and then -- but Mississippi is not like that. What we have seen, for the last 35 to 40 days, we've been between 200 and 300 cases without a spike. Our hospital system is not stressed. We have less than 100 people in our state-owned ventilators. And so, as I talked to the president, the vice president in the coronavirus task force, I spoke personally with Dr. Birx, and we agree that sometimes the models are just different for different states, just like they're different for various counties, and we believe that that particular gating criteria just doesn't work in states like ours, who have never had more than 300 cases in any one day with the exception of Friday and that data dump."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Governor, we think of protests as something happening in blue Democratic states, but in fact, last weekend, you had a demonstration outside the governor's mansion in Jackson, Mississippi. People are demanding a total reopening. As the Republican governor of a red state, what do you think of those protests and what do you say to those people?"
+    },
+    {
+      "speaker": "REEVES",
+      "utterance": "Well, I think a fundamental right of our government is to be able to protest our leaders and you know, most of the people that were protesting voted for me last year. We had election in 2019 and most of them were for me. But you've got to understand, Chris, we have a public health crisis in this country, there's no doubt about it. But we also have an economic crisis. And so, when I look at those protesters, I know they were protesting for the 200,000 Mississippians that have lost their jobs in the last six weeks. We have an economic crisis in the short-term. We have a long-term economic crisis that's going to be very difficult for this country, and I understand and I feel their pain, and we're doing everything in our power to get our state back open as soon as possible."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You've also got a fight with your Republican state controlled legislature. I want to point out, same party as you are. The legislature which has voted to strip you of sole authority to spend the $1 billion plus in federal aid to your state that Congress voted. You have sole authority, they voted to strip you, they passed the bill. First of all, what are we to make of this controversy? And secondly, are you going to veto the bill and maintain sole authority?"
+    },
+    {
+      "speaker": "REEVES",
+      "utterance": "It's an absolute terrible tragedy that they have tried to do this particular power grab in the middle of an emergency. We have had long- standing, 40-year laws in Mississippi which recognized that in an emergency, you've got to have an executive. You've got to have someone that makes decisions and gets things done. The monies in the CARES Act were sent to the states and sent to the governors so that we can get money out to our people. We don't have time for committee meetings. We don't have time for committee hearings. We don't have time for politicians to cut deals. What we need in Mississippi is to get that money in the pocket of the 200,000 Mississippians who have lost their jobs. I'm terribly disappointed in our legislative leadership. I think they made a huge mistake. That was round one in this battle, but we're going to continue fighting it because we're going to stand up for the people of this state."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But just briefly, are you going to veto the bill they passed?"
+    },
+    {
+      "speaker": "REEVES",
+      "utterance": "We're deciding what we're going to do right now. We have a couple of days to do that and we'll make a decision in the coming days."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Governor Reeves, thank you. We wish you and the residents of your state of Mississippi the very best during these tough times -- thank you, Governor. Now let's turn to New Jersey and Governor Phil Murphy. Governor, New Jersey is in a different situation, obviously, then Mississippi. You're under almost total lockdown. This weekend, you're reopening parks and some golf courses, but you're not reopening your state's famous beaches. Question, what are the chances that you're going to be in a very different state and largely reopen come Memorial Day on the start of summer?"
+    },
+    {
+      "speaker": "GOV. PHIL MURPHY (D), NEW JERSEY",
+      "utterance": "Listen, I'll be the happiest guy in New Jersey, if not America, if we are, Chris. I think it's too early to tell, for lots of reasons, including our neighbors, we're in a different place than we were. We -- we decided to open state and county parks this weekend, as you rightly pointed out. I have to say, yesterday, the reports in, compliance was very high in terms of social distancing and not congregating. That sort of behavior, as we -- as we flatten the curve's -- and, remember, we've been crushed, over 7,700 people have died in New Jersey from Covid-19. But as we -- as we push these curves down and folks continue to comply and -- and keep social distancing, that's the best weapon we've got to -- to get the best outcome by the time we do get to Memorial Day."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You, as you've just pointed out, your state has the second- highest number of cases in the country to New York. You have the second- highest number of deaths. And just this past week, New Jersey, your state, has its single highest single -- single day number of deaths. Like other -- other governors, however, you have protesters, as Governor Reeves does in Mississippi, saying, hey, it's time to reopen. These protesters are out in the street. What do you say to them?"
+    },
+    {
+      "speaker": "MURPHY",
+      "utterance": "Listen, I have no -- I don't begrudge their right to protest. I wish they would do it virtually and unsafely. My biggest issue is they were congregating without face masks. But the overwhelming amount of folks in our state believe that we're -- we're on the right path. And it's -- it's painful. I mean folks have been staying in now for weeks. The stay-at-home reality has been with us for -- for many, many weeks. And -- and partly the -- the state park step we took was partly for mental health reasons, for folks to get out and be able to get some fresh air and stay away from each other. So -- so I don't begrudge folks right to protest, but we've got to call -- we -- we've got to make our decisions based on the science, the data, the facts. And they all suggest, as you -- as you rightfully point out, we're not out of this yet. Now the -- the fatalities, bless their souls, we have to point out are folks who were infected some number of weeks ago. So, in the here and now, hospitalizations are down, ventilator use is down, the positive curve -- testing curve is flattening. So those are all good signs. But we're not in the end zone yet."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to pick up on this question of science because you set six principles for reopening. And the first of your six principles, the first principle, is that there has to be, as Dr. Birx had talked about, this steady decline in new cases for 14 days. You haven't reached it. As best we can tell, not a single state has reached it and get a number of your fellow governors have started to reopen their states. You said this week data drives dates. Are some of your fellow governors making a mistake not being driven by the data?"
+    },
+    {
+      "speaker": "MURPHY",
+      "utterance": "Listen, Chris, my nose is pressed against the New Jersey glass, honestly, so I can't speak for what they're looking at. I do know, in our state, and as we coordinate with our regional partners, most notably our neighbors, New York, Pennsylvania, Delaware, we have to make the call based on data and science. We're the densest state in America and this region is the densest region in America. In our northern counties, we're part of the -- of the New York City and remain so of the New York City metro flare-up of this whole virus. So we've got to be exceedingly careful. And as -- and as much as I want to open things back up tomorrow, we're just not there yet. And we've got to make these calls, particularly given our density based on the facts."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "A couple of more questions I want to get in with you, Governor. You met with President Trump this week and I think it's fair to say that you're getting along better with the president than almost any other Democratic governor. He announced this week he's sending New Jersey half a million new tests, 750,000 swabs. Do you think that your good, personal relationship with the president has made a difference in terms of what New Jersey has gotten?"
+    },
+    {
+      "speaker": "MURPHY",
+      "utterance": "Listen, I -- we've been able to find common ground, Chris. Let there be no doubt about it. The president knows New Jersey. He and his team have been extremely responsive in our hour of need, whether it was ventilators, as you rightfully point out, we've got a huge amount of supplies to test. We're getting personal protective equipment just the other day, confirmed direct to our nursing homes. We just announced $1.7 billion into our hospital systems. Listen, I think we've been able to find common ground again based on the science, based on the facts and the reality and in our -- in our hour of need, I have to thank the president and his team. They have been there for us. And I appreciate that enormously."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "One area, however, Governor, where you haven't gotten help, either from the president or from Senate Republicans, is on the question is state aid, federal aid passed by Congress, signed by the president, to go to states like yours, to pay for first responders, teachers and all the services, where you -- the huge revenue hit that you've taken because of the coronavirus. You said this week, your word, that if you don't get state aid, it's going to be Armageddon."
+    },
+    {
+      "speaker": "MURPHY",
+      "utterance": "Yes, listen, we had a very good conversation about this, I have to say, with the president, but that's the facts. This isn't about the old legacy stuff. We're -- we've -- we've been taking care of that. This is about firefighters, police, EMS, teachers at the point of attack. We're already seeing some layoffs in New Jersey. We need a big slug of federal, direct cash assistance. And it's not -- not just New Jersey and it's not just blue states. And it - - and it would make a huge difference. It clearly would be a huge win for the residents who are being served. It would be a huge win for those first- line responders and their families, working families. I think, frankly, it's a huge win for the president to be able to say, you know what, with this cash assistance, we were able to keep serving folks across the country in both red and blue states, and we kept folks employed at a time where we desperately need to keep folks employed."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Governor Murphy, thank you. Thanks for joining us today and good luck to you and the residents of your state of New Jersey. Thank you, sir. 930 GOVERNOR PHIL MURPHY (D-NJ): Keeps serving folks across the country in both red and blue states and we kept folks employed at a time we desperately need to keep folks employed."
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX ANCHOR",
+      "utterance": "Governor Murphy, thank you. Thanks for joining us today and good luck to you and the residents of your state of New Jersey. Thank you, sir. Up next, we're going to bring in our Sunday group to discuss the debate over when and how to reopen and get back to something approaching normal."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Have to have safety, but at the same time people want this country open. The people here want it open."
+    },
+    {
+      "speaker": "JARED KUSHNER, ADVISER TO THE PRESIDENT",
+      "utterance": "I think that we've achieved all the different milestones that are needed. So the government -- federal government rose to the challenge and this is a great success story."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Trump and his son-in-law and advisor, Jared Kushner, turning the page on the messaging coming from the White House these days. And it's time now for our Sunday group. Anchor of \"The Daily Briefing,\" Dana Perino, executive director of the Serve America PAC, Marie Harf, and Guy Benson of Fox News Radio. Dana, the president and his team are clearly now pushing this it's time to start reopening the country narrative, but, as we pointed out, not a single state has met -- even though a bunch of states are reopening, not a single state has met the White House gating guidelines of two weeks of steady decline in new cases before you're supposed to go to phase one. And recent polls show that -- that when people are asked to choose, they're more concerned about safety, even if it means staying sheltered for a while longer, than in reopening. At least that's what the public polls say. I guess my question is, how big a risk do you think the president is taking and pushing at this point as much as he is for reopening? DANA PERINO, ANCHOR, \"THE DAILY BRIEFING\": Well, that's a very interesting dance in a way that the president has to do from the very beginning, which was, how do you convince people to all work together to flatten the curve. And America really did respond quite well. And you saw that the curve is flattening in many places, but now there's a bit of a plateau of, what do we do if there's a plateau? And, in the meantime, you have all of these people -- you know, you said earlier, Chris, 66,000 people who have died. And one of the things that's really on the hearts of the people who lost loved one is that those people mostly had to die alone because of the social distancing guidelines. They couldn't be there to hold their loved ones hands when they died. So there is grief on that end. But, at the same time, there is no doubt the economy and the economic impacts of this are devastating. When you have car lines up to six miles in San Antonio for people to get food -- these are people who were working through no fault of their own. They find themselves in this position. They've probably never asked the government or a charity for help and they're looking at this saying there's no problems at my hospital. But doctors and nurses at our hospitals are being laid off because there's no elective surgeries. You just heard from Governor Murphy who said that they're seeing that firefighters, police officers are starting to be laid off in these states. So it's going to be very important for the president to figure out how to strike the balance. And I think there's one thing that they can do in terms of saying what a great job they've done so far, but they also need to be very clear-eyed with everyone in the country about the challenges that we face because they are enormous."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Marie, let -- let -- let's talk about it, though, because you do see Republican governors pushing, moving to reopen their states. You do see these growing protests in the street. So, I mean, there is a push to get the country going again and, obviously, the 66,000 people who have died, even the million with the new cases, but, you know, we're talking about 30 million people in the last six weeks who have lost their jobs."
+    },
+    {
+      "speaker": "MARIE HARF, FOX NEWS CONTRIBUTOR",
+      "utterance": "It was so interesting hearing the governor of Mississippi talking about how when he got new data he changed his plans when he had scheduled to reopen parts of the economy. So we are about to embark on a situation where we will see if people can, on their own, social distance. If people with -- you know, independent of government regulations or stay at home orders can act responsibly. And if they can't, and if we see spikes in some of these places, will these governors be willing to change course in midstream? That's something we will all see together in real-time. But the bottom line is, we still need more testing, we still need more contact tracing, we still need more therapeutic treatments. You heard Dr. Birx. We've heard Dr. Fauci talk about that. And so the economy, even if we open nail salons, hair salons, Chris, the economy isn't really going to get going again until we can travel, until we can move around the country. It will not get going again in a real meaningful way by opening small businesses in certain places and so we have to get all of those things I just mentioned to eventually get to a place where the economy really can open back up. That is not happening anytime soon."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Here is one of the Republican governors, Florida Governor Ron DeSantis, talking this week as he was starting to reopen his state. Take a look."
+    },
+    {
+      "speaker": "GOV. RON DESANTIS (R-FL)",
+      "utterance": "What is our biggest obstacle? Fear. Fear of the unknown. Fear sparked by constant doom and gloom and hysteria that has permeated our culture for the last six weeks."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Guy, you know, it's awfully interesting, as the virus begins to wane at least a little bit, we see and maybe it's because people feel free -- freer to do it, the politics starting to -- to resume and to grow. And you've got red state governors -- not all of them, and we just pointed out Tate Reeves, who -- who made a -- a -- a switch when he saw the data of a spike in cases in Mississippi, but, generally speaking, red state governors pushing more for reopening, blue state governors, Democrats, talking more about leaving the restrictions on longer. It -- I mean it's a -- it's a very interesting dichotomy and it's -- really follows a political breakdown."
+    },
+    {
+      "speaker": "GUY BENSON, FOX NEWS CONTRIBUTOR",
+      "utterance": "Although there have been governors, Chris, on the Democratic side who were part of this first round of reopening efforts as well. So it's not perfectly red and blue. I think some of it is regional. I think some of it is based on the data that we heard Dr. Birx talk about, which is different in these various states. But I think the clip from Governor DeSantis, if you watch that entire speech that he gave, he was really juxtaposing the predictions of the numbers in Florida, which were horrific, versus the numbers that we're actually seeing in Florida, which are still very sad. Every death is horrible, but nowhere near what the projections had shown. And so I think he was saying we have to keep our heads, we have to keep things in proper perspective. And, remember, we were told that x, y and z was going to happen. What we're seeing is a, b and c. Let's try to balance this properly. I mean it is awfully difficult, Chris, because you, of course, grieve for the 66 plus thousand Americans who have died. There are concerns that those numbers are still going up in certain areas more than others. But you talk to even small business owners who had thriving businesses, who did everything right and were doing everything well and now they're wondering, can we ever reopen? What's going to happen to my life? What's going to happen to my employees life? That is also a humanitarian crisis that is very acute for a lot of people who aren't sitting in studios like we are and who are looking every day very anxiously, when can this happen again? I think the biggest component is, when will the American people feel confident to reopen the economy, because some of these businesses reopened and had very few customers because people still aren't confident and this sort of juggling act continues and it's -- it's very painful."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, panel, we have to take a break here, but when we come back, Joe Biden denies a sexual assault allegation and calls on the National Archives to release his personnel records. We'll discuss the impact on the 2020 race, next."
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "utterance": "And the facts in this case do not exist. They never happened. And there's so many inconsistencies in what has been said in this case. So, yes, look at the facts. And I assure you it did not happen, period."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Presumptive Democratic Presidential Nominee Joe Biden on Friday flatly denying the allegation he sexually assaulted a staffer back in 1993. And we're back now with the panel. Guy, what did you think of Joe Biden's denial on Friday? Does it end this controversy? And given the fact that -- that several women have made similar allegations against Donald Trump, how big a role does it play in the 2020 election?"
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "I don't think that it's over because there are more questions, I think, that need to be asked and answered on this front. I just find it very interesting, Chris, that as we're having this discussion about Joe Biden -- look, I watched the interview. I think that he deserves the presumption of innocence. I think accused parties do in every case. That's how things work in this country. And I would say, on one hand, there is significantly more contemporaneous evidence against Biden, including five people who say that Tara Reade told them at the time that this had happened in the early to mid '90s, that phone call that her mother placed to \"Larry King Live,\" far more contemporaneous evidence against Biden than there ever was against Brett Kavanaugh. But I'm not sure it's decisive. And I think that for us to all pile on, and I see some people saying Biden should drop out of the race, a lot of people on the far left and some people on the right, I don't think that that's fair because I don't think we know what happened. There's a lot of murkiness and there are inconsistencies in Reade's story. But anyone who's rediscovering skepticism and the importance of evidence and looking at inconsistencies in stories, that's fine, but if they had a different standard for Brett Kavanaugh, many, many on the left did and in the media, they owe Kavanaugh an apology."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to pick up on that with you, Marie, because during the Brett Kavanaugh case there were a lot of Democrats, especially a lot of leading Democratic women in Congress, and -- and just in public life who were saying, women must be believed, women must be taken seriously and a lot of those same women said that they stood with Joe Biden on these allegations before Biden even denied the allegations on Friday. I mean isn't that hypocrisy?"
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "Well, what many women on the Democratic side were saying with Brett Kavanaugh at the time was that they wanted a full FBI investigation and that believing women means taking their claims seriously and investigating them. And Joe Biden himself has come out and called for an investigation into Tara Reade's accusations. He has asked the Senate secretary, who would have any personnel records, any files like that, to comb through their records. That's a level of transparency that not many politicians have had when they've been accused of sexual assault. And so for someone who went through a very thorough vetting is the vice president did when he was running with President Obama, with candidate Obama, none of this ever came up, nothing like this has ever been rumored to be the case, certainly, for someone who's been this vetted. The vice president had said, look, investigate it. That's what believing women means, taking them seriously and investigating it. In this case, there is no concrete evidence at all of assault."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I'm going to call an audible here and let's move to another big story this week, and that's the case of General Michael Flynn, who was -- pled guilty for lying -- he pled guilty twice for lying to the FBI. This week new documents came out that indicated that before they interviewed Michael Flynn, the FBI talked about seeing if they could catch him in a lie. And here is new White House Press Secretary Kayleigh McEnany on his whole issue on Friday."
+    },
+    {
+      "speaker": "KAYLEIGH MCENANY, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "I'm glad they kept such good documentation of their intent to slow-walk General Flynn into a trap, into essentially create, as I mentioned, a grave miscarriage of justice."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Dana, from what you see, is this a miscarriage of justice, what happen to Michael Flynn, and particularly given what we're now learning about the FBI? And what do you make of the president's talk that he would at least consider bringing Michael Flynn, whom he fired, because he had allegedly lied to the vice president, bringing him back into the White House?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Well, I think the -- I think that we might be over reading the president's answer on that a little bit. He never likes to close off possibilities for him in the future. So I don't think that he was saying, I'm definitely going to bring Michael Flynn back, but he has maintained, from the beginning, that this is a good man, a war hero, somebody who was treated unfairly by the Justice Department. And I think that everybody should be able to look at the attorney general, William Barr's decision here to ask a U.S. attorney to give this a fair review and release documents because there is question. So we have those documents so far. The investigation is ongoing. Now the judge also has some decisions to make in the case. What happened next? Do they throw out the case? Will the Justice Department try to re-prosecute? And I also think that there are still some questions about, how did this all happen in the first place? And, you know, there's political appointees at the Justice Department and the FBI from the previous administration who have been very quiet. And I think in this investigation, they're probably going to have to come out and explain a little bit more if they want to help all of us understand what in the world was going on back then."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Marie, what do you think of the -- of the FBI documents that were released this week and the claim by some people that they exonerate General Flynn and, as you just heard Kayleigh McEnany say, that this was a miscarriage of justice?"
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "Well, they certainly don't exonerate Michael Flynn and I think the documents show an FBI that was trying to figure out the best way to handle a very politically sensitive investigation with Michael Flynn. And the bottom line is that Michael Flynn lied, not just to the vice president, but to the FBI. He is a highly trained military intelligence officer, Chris. He is not someone who's taken for a ride or a rube. He is not stupid. He -- he decided, when he had the choice, when he was required to tell the truth under oath, he decided to lie. He pled guilty to it. And so whatever internal deliberations the FBI was having, that still remains the fact."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Do -- do -- are you troubled at all by these documents that we're seeing now in which people are discussing, you know, we're going to interview Flynn and, you know, should we try to catch him in a lie? Also, should we get him fired, which seems like an odd thing for a law enforcement agency to do? Is there nothing in those documents that troubles you, Marie?"
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "There's nothing in these documents that shows me that this is a politically motivated investigation. And they're asking questions about how to handle that. That happens all the time in FBI investigations. But Michael Flynn is the one who chose to lie about his contact with foreign governments, including the Russians. So, of course, I want more information about this, Chris. But nothing I've seen tells me that this wasn't a good investigation."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Guy, your thoughts about -- about the overall investigation of Michael Flynn and what we learned or didn't learn this week about it?"
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "I think a big question is why that interview took place at all. And if you read Kimberley Strassel's column in \"The Wall Street Journal,\" it is pretty devastating. I think it's totally possible to say he was railroaded and there was misconduct at the FBI. But also, to Marie's point, he didn't choose to lie to the vice president. He did have some very shady dealings, for example, with the government of Turkey. Maybe he shouldn't have been in that position in the first place, right? So you can maybe say, perhaps he wasn't the best pick for a national security advisor. That doesn't mean there wasn't abuse. And I think some of the documents we saw this week point to abuse."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "It -- well, we've got about 30 seconds. What -- what are you most troubled by? Where do you see possible abuse?"
+    },
+    {
+      "speaker": "BENSON",
+      "utterance": "Well, I think mostly it's the pretenses under which that interview was set up in the first place, right, where they were basically saying -- and Comey, the former FBI director admitted this, he sent the agents there, using sort of a chaotic, new White House to sort of get this -- this FBI investigation to come to the White House doorstep and it just -- the notes in the -- in the actual documents about saying -- trying to get him to lie, try to get him fired, it doesn't smell great."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, panel, thank you. The smell test, and it doesn't pass it. We'll see you next Sunday. Up next, our \"Power Players of the Week,\" teachers using tech and humor to reach out of their students who are now learning from their homes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Teacher Appreciation Week is normally a time to showcase all the teachers do for their students. Well, even this year that's no different, though, of course, the teaching has shifted to home and computers. Here are our \"Power Players of the Week.\""
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "D.C. teacher Joe Martin (ph) hamming up for kindergarten students. Like teachers across the country, he's finding ways to connect outside the classroom."
+    },
+    {
+      "speaker": "JOE MARTIN, TEACHER",
+      "utterance": "That was something I really wanted to preserve was keeping that classroom environment and community and culture going."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "What do you want to be, x or o? O."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "This Massachusetts teacher meeting a student for a socially distanced tic-tac-toe."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "March in (INAUDIBLE). So marching up."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And this British gym teacher holding virtual P/E."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I'm trying to disrupt the day, giving you half an hour of activity to get a bit of clarity and know that everyone's in the same position."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Teachers are helping kids find the good in a tough time."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "This morning, during our Zoom lesson, we all spoke about how excited we were and see this and something that brings us together as a class even though we can't be together."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And commiserating with each other."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE (singing)",
+      "utterance": "I will survive. Oh, as long as I know how to Zoom, I know I'll be alive."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "This is one of my favorite bedtime stories. This is good night Zoom."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And comedians are memeing classic children's books."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Good night, Internet and unstable connection. And good night to tired parents screaming, seriously, I've had it, math time is over. I'm done. Daddy needs a drink."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And what about students learning at home?"
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Trying our best to learn. Trying to give our teachers respect."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "We don't realize how awesome school is until we lose it."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "OK, not all kids miss school."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Fun. And I don't have to go to school."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But it's clear teachers miss their students dearly."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "I got a little bit emotional when I first saw and heard my fifth graders on my computer screen."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Just seeing them all together and hearing their voices."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "It is just not the same."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "I miss them."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "I miss them so, so much."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "All right, good morning, green dragons. It's so nice to see you on this Wednesday."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "A new study says parents with kids now learning from home have a newfound respect for teachers. Almost four out of five parents say teachers deserve a raise. Now, this program note. Tune in to Fox News Channel tonight at 7:00 p.m. Eastern for America Together, returning to work, a virtual town hall with President Trump. And that's it for today. Have a great week and we'll see you next FOX NEWS SUNDAY. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

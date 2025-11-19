@@ -1,0 +1,1925 @@
+{
+  "date": "February 20, 2023",
+  "headline": "'Fox News Sunday' on February 19, 2022",
+  "subHeadline": "Host Shannon Bream welcomed Nikki Haley, John Kirby, and more to discuss this week's top political headlines on 'Fox News Sunday.'",
+  "url": "https://www.foxnews.com/transcript/fox-news-sunday-february-19-2022",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "SHANNON BREAM, FOX NEWS ANCHOR",
+      "sentences": "I'm Shannon Bream. A grim milestone as we near one year since Russia invaded Ukraine and kicked off a defining moment for the West.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LLOYD AUSTIN, DEFENSE SECRETARY",
+      "sentences": "Putin thought that he could divide NATO. But his aggression achieved just the opposite.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "But there is still no end in sight, and Ukraine is asking for new help now. We'll ask White House national security spokesperson John Kirby about the latest U.S. efforts to aid Ukraine and the president's upcoming travel to Europe. And we'll bring in retired four-star General Jack Keane for analysis on Ukraine and China's threats now that the U.S. has shot down one of its surveillance devices. Then, former U.N. Ambassador Nikki Haley throws her hat in the ring.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NIKKI HALEY (R), PRESIDENTIAL CANDIDATE",
+      "sentences": "I am running for president of the United States of America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Nikki Haley joins us for her first Sunday show appearance as a candidate. We'll get her on the record about her case to voters and the criticism she's taking just a few days into her campaign. Plus --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Our town needs help. Our governor abandoned us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Ohio residents blast the federal, state, and local response after a toxic derailment in eastern Ohio. The governor and the Biden administration now in cleanup mode.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. MIKE DEWINE (R), OHIO",
+      "sentences": "We've gone into hundreds and hundreds of people's houses to test that air, it's good.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MICHAEL REGAN, EPA ADMINISTRATOR",
+      "sentences": "The data shows that there are no elevated levels and we are relying heavily on that data.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "We'll bring you a live report from East Palestine and we'll ask our Sunday panel about trust and transparency as concerns about contamination grow. All, right now, on \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TREY YINGST, FOX NEWS CORRESPONDENT",
+      "sentences": "Shannon, good morning. With less than a week until the one-year mark of the war, Russian troops are pushing forward with a multi-front offensive aimed at capturing more Ukraine territory.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "VOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT",
+      "sentences": "We have a lot of information because we are on these borders. It's our borders. It's our territory.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "YINGST",
+      "sentences": "Now, the Ukrainian leader forced to advocate for Western military support and defense partnership reflects on his career as a wartime president. ZELENSKYY (through translator): It's a lesson for everyone, I think for the whole world. If Ukraine would be part of NATO before the (INAUDIBLE), there would be no war and then the potential possibility of the third war would not exist, as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "YINGST",
+      "sentences": "Zelenskyy remains a target for Russian troops, whose leader, Vladimir Putin, shows no sign of slowing down the invasion. Analysts warned that Putin could increase missile attacks on Ukraine as the war approaches the one-year mark and his territorial aspirations fall short.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Trey Yingst in Ukraine, thank you very much, Trey. Let's turn now to Steve Harrigan who has this report from Kyiv.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "I still keep like everything inside.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "Marta Yoskev (ph) is a combat medic on the frontline. Her home, her village is gone. She sent two children to the U.S. but stayed behind. I asked her why.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "If I will go with my kids, possibly my kids have to fight. So, I want to protect them from it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "If you don't fight, your children will have to fight?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Definitely, yeah.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "A good day on the frontline is no wounded, she says, maybe a cup of coffee. A bad day is a young man with no legs. This is not ordinary things that doctor sees.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "It sounds as if people at war getting used to it. And this is a fact, actually, you know, because --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "You get used to it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "You have to.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARRIGAN",
+      "sentences": "The war might seem far away to Americans, she says, but it's not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "This war is quite close to everyone. If Ukraine will not win, you get another big country which are not democratic and it's not good.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Our thanks to Steve Harrigan for that report. Joining us now, retired Rear Admiral John Kirby, the communications coordinator for the National Security Council. Admiral, welcome back to \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN KIRBY, NSC STRATEGIC COMMUNICATIONS COORDINATOR",
+      "sentences": "Thanks, Shannon. Good to be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "So, we're closing in on one year. \"The Wall Street Journal\" has this opinion piece that says: Since the catastrophic collapse of Mr. Putin's initial plan, the West's cautious approach has in its way actually made the war safer for the Russian president. If the U.S. and NATO had implemented a force majeure in the first days of his failure, amid his shock and confusion, Mr. Putin might well have accepted retreat on terms that now glimmer out of reach. How do you assess at your end what we've gotten wrong, can we right that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRBY",
+      "sentences": "We are going to stay committed to Ukraine going forward. And I think when you see the president -- when you see him go to Poland next week and Warsaw, he'll make that case before the entire world and the Polish. It's important for the solidarity to move forward and we fully expect that it will. There's no sign at all that NATO is cracking or there's any fissures with our allies and partners. So, we're going to move forward in that regard. We have evolved the kinds of capabilities that we have provided Ukraine as the war has evolved. The first few days, as Kyiv was under threat, a lot of attention on things like Javelin anti-tank missiles. As the war -- as he collapsed his geographic territory to the Donbas and the east, it was all long range fires, artillery, and these HIMARS. Now, air defense is really critical because he's using cruise missiles and Iranian drones to strike civilian infrastructure. So, we're going to keep evolving as the war evolves, and we're in lockstep with Ukrainians, talking to them almost every day about what they need.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "And I think the American people are inspired by what they've seen by their tenacity and their courage, but they also want questions about how this ends and what our commitment is in this measure. Senator J.D. Vance said this: Before President Biden spends another taxpayer dollar in Ukraine, he must lay out a clear plan for ending conflict in a way that advances our national security interests. No more blank checks. It is past time for the president to tell the American people how this comes to at end. How do we define -- how does the White House, the president define this coming to an end?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRBY",
+      "sentences": "Well, first of all, there's been no blank checks. Every single item that we have sent in to Ukraine has been done in full consultation with the Congress and we have really enjoyed terrific bipartisan support, bicameral and bipartisan, on Capitol Hill for support of Ukraine and we fully expect that that will continue. Now, look, it could end today, Shannon, if Mr. Putin would do the right thing and pull his troops out of Ukraine, where they don't belong in the first place. Obviously, from the reporting of your correspondents on the ground, that doesn't appear to be in the offing anytime soon. Mr. Putin shows no sign of being willing to stop this war.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "So, does that mean we have no sign for where we're ending our commitment to this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRBY",
+      "sentences": "As President Biden has said, nothing about Ukraine without Ukraine. President Zelenskyy as the commander in chief gets to determine if and when he's ready to sit down and negotiate with Mr. Putin and under what circumstances. What we're focused on is making sure that he has tools to succeed on the battlefield, so that if it comes to a negotiation or when, that he can succeed at the negotiating table, as well. But he has to determine what the timing is right and what the circumstances are.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "But the question is being asked by -- increasingly on Capitol Hill, and there's going to be another fight on another round of aid, we're about $200 billion into this so far. There are questions about where the U.S. commitment ends to this. I mean, we have a couple of lawmakers just returned and say, Congressman Garamendi was one of them, who said, I think this is -- a year from now, going to be still be going on, this exact same war.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRBY",
+      "sentences": "We don't know. Again, we would like to see it end now, and certainly, we want to see it ends -- end on terms that are satisfactory to the Ukrainian people under President Zelenskyy so that they remain a whole, free, sovereign, independent state. And independence is ideal that all Americans can get behind and understand. We'd like it to end soon, as possible. My goodness, nobody wants to be sitting here a year from now, talking about the second anniversary of war. But as the president has said, Shannon, we're going to support Ukraine for as long as it takes and he means that -- as long as it takes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK. Let's talk about the situation with China. Secretary Blinken now finally has had this meeting with China's top diplomat over in Munich. Before they had meeting, former Secretary of State Mike Pompeo had this bit of caution.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE POMPEO, FORMER SECRETARY OF STATE",
+      "sentences": "So, you know, a meeting I suppose is fine, but if it's just to shake hands and say, gosh, are things getting better and we're going to find ways to cooperate, this is language of the Biden administration, that would be an enormous mistake.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK. So, Secretary Blinken says there was no apology from China about the balloon that just flew across the United States. The Chinese come out of this meeting saying this: They say they told us the U.S. has to face up to and resolve the damage that we've done to China relations with the U.S. by using indiscriminate force to take down that balloon. And also this, if the U.S. insists on taking advantage of the issue, escalating the hype and expanding the situation, China will follow through to the end and the U.S. will bear all the consequences. Is that the kind of meeting that Secretary Pompeo warned about?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRBY",
+      "sentences": "No. I don't think so. First of all, we shouldn't be surprised by the Chinese rhetoric coming out of this and the bluster that they are known to put out there in the information space after a discussion like this. Secretary Blinken had a very forthright, very candid exchange with the foreign minister of China and made clear, laid bear our deep concerns about what they did with this spy balloon and I think we acted accordingly. And believe me -- the message was clearly sent to China that this is unacceptable. It was a violation of our airspace, the president acted, we shot it down, when -- where we could get the debris. And now, we have that debris and we're going to exploit that debris. We're going to learn more about this system. I think we sent a loud and clear message to China that that's not acceptable. Now, look, it is also still important, two things can be true at once, that you have lines of communication that are open with China that are important to keep open because at times like this, when tensions are high, you want to be able to avoid miscalculation and misunderstanding. Secretary Blinken was able to deliver that strong message in Munich.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK. So, we have since shot down three other objects. The president came out and said that they are most likely balloons tied to private companies, recreation or research institutes that are studying things like weather or other things. My understanding, correct me if I'm wrong, we're told these missiles used to take out these balloons are over $400,000 each. One of them -- apparently we used two -- and the balloon was only maybe worth $12. What do you tell American people about our ability, our radar, our defenses to differentiate between real threats, because we can't spend that kind of taxpayer money taking down hobby balloons?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRBY",
+      "sentences": "Well, we don't know exactly what these balloons were, and we called off now the search in Lake Huron and the one over Alaska, so we may never know completely. But the leading intelligence community assessment is they were probably for benign purposes, whether it's weather or scientific research. But the president made the best decision he could in a moment with the information he had and at the advice of his entire military leadership that they couldn't be sure that these weren't being used for surveillance over sensitive sites, and given the context of the Chinese spy balloon, I think you can understand why it was better to act out of abundance of caution, which he did. Now, we also had some concerns about civil air traffic. These three were flying at altitudes that were much closer to the way transcontinental civilian airlines fly around 30,000 feet plus. So there was a risk to safety and flight, as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK. I want to ask to -- the administration has been clear in its denials that there was any U.S. involvement in the Nord Stream pipelines. Seymour Hersh has this long piece out, saying he's citing a single anonymous source who talks about what was going on and what he led to -- what his claims led to us being involved in that. He says prior to Putin invasion of Ukraine back in December, a working group was put together. And he says this: What became clear to the participants according to the source with direct knowledge of the process is that Sullivan, meaning Jake Sullivan, intended for the group to come out with a plan for the destruction of the two Nord Stream pipelines and that he was delivering on the desires of the president. Hersh points back to the president saying this in February of last year with the German chancellor.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "There will be no longer a Nord Stream 2. We will bring an end to it. We will -- I promise you, we'll be able to do that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Can you say unequivocally, the U.S. -- no U.S. proxy, no one connected to the U.S., had anything to do -- I mean, is the Seymour Hersh complete fabrication, that article?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRBY",
+      "sentences": "It's a completely false story. There is no truth to it, Shannon. Not a shred of it. It is not true. The United States, and no proxies of the United States had anything to do with that, nothing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "If the U.S. were to undertake some mission like that, would the administration have an obligation to inform Congress in advance?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRBY",
+      "sentences": "We did not take any such operation, Shannon, and obviously, we keep Congress informed appropriately of things both classified and unclassified. But I can tell you now, regardless of the notification process, there was no U.S. involvement in this. None, zero, it's completely false.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Admiral, we appreciate your time. Thanks for joining us this morning.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KIRBY",
+      "sentences": "My pleasure. Glad to be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All right. Let's turn now to retired General Jack Keane, for analysis. General, always great to have you back. Welcome back to \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEN. JACK KEANE (RET), FORMER U.S. ARMY VICE CHIEF OF STAFF",
+      "sentences": "Yeah. Glad to be here, Shannon, as always.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK. So, what do you make of where we are in this relationship with China? Of course, they're going to come out of the meeting and give a readout that says they basically gave us what for and that we're going to be responsible for all the fallout and the break in the relationship over the spy balloon. What do you make of that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "Well, I think -- I mean, the spy balloon incident, Shannon, I think is reminder to most and a wake-up call to some, in terms of how serious China is as an adversary in seeking regional and global domination. I mean, the reality is that China entered 40 countries' air space on five continents as a matter of routine, and it compliments the huge surveillance program they've got going in the United States and the penetration of the United States' society on a level that this country has never seen. And add to that, China's rapid military growth, their nuclear program is exploding. This is a threat that's very, very serious and we've got to make certain that we have a military deterrent to deal with that threat, which I believe has eroded significantly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yeah, and there was a report out just a few weeks ago from one think tank that went through this and said, basically, if now we get into incursion with China over Taiwan, which there are predictions that that's going to happen sooner rather than later, we don't have the armaments, the military, the missiles, the things that we would need to actually handle a conflict like that. Is that your concern?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "Oh, yeah, absolutely. And we have to move with a sense of urgency. I mean, when you just look at the numbers, China has more ships, more airplanes, more offensive, more defensive missiles than the United States has. And we are two weeks away by sailing to get to their region. So, this is in their backyard, right off -- 100 miles off their coast. So, yes, we need to return to the kind of effective deterrence we had with the Soviet Union and move with a sense of urgency to do that. And that is why I think the spy balloon in a sense can be a catalyst to galvanize what is really going on here. I think a lot of Americans were looking at a spy balloon and was looking at us and saying, what is going on here? And the answer is, this is a serious threat and we got to move in the right direction to protect ourselves.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "You were one of the first people that I heard earlier on this with this who said we probably knew about this when it left mainland China or we had an awareness before it showed up in Alaska. Did the administration miss an opportunity to take this thing out before it did go across the entire country?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "Well, I think we were watching it when it took on the 21st for most of the days leading up to it arriving in Alaska on the 28th. That's a full week. That's a good thing that we detected it. We missed four others, one in the Biden administration and three in the Trump administration. That really gives me a lot of concern. But the reality is, I think the average American looking at this, despite the administration saying, hey, look, we were able to defeat their electronic surveillance while the balloon was up over the United States, we learned about them, and we recovered the payload and we're going to learn even more. But let's face it, we don't shoot down surveillance balloon when the mission is complete, we shoot it down before it starts. That has got to be the lesson learned. And I just wish the administration would be straight with the American people. They're not going to let this happen again. Tell the American people that's the major lesson learned.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Uh-huh. OK. So, there's also this concern about China and Russia, no limits partnership that they have, and whether China is going to be, has been or will be supplying Russia with some of the things it needs after being badly wounded and decimated in some respects one year into Ukraine, because they certainly thought this was going to be may be like a one-week operation. Where do you assess that we are and China's role in the Russia-Ukraine situation?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "Well, certainly, China has been buying as much Russian oil as they possibly can and helping them with the sanctions that are imposed on them. And I agree with the administration from the beginning to expose what they have picked up likely in intelligence circles that China is getting ready to provide some military lethal aid to Russia. Remember, China has not condemned the invasion. They have not condemned that it's illegal. They have not come out and spoken against genocide and war crimes that are being committed. And I think coming out and exposing and I would go further and tell them what we think they are attempting to provide, China will pull back likely after that public exposure. So, yes, these are strategic partners. They have defined it as limitless partnership and we shouldn't be surprised that China wants Russia to succeed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Where does the situation in Ukraine go from here?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "Well, from here, Russia is about -- is the beginning stages of an offensive campaign, elements of four divisions participating in this, mobilized forces are there. They are trying to take the rest of the Donbas region, 44 percent of it is still owned by Ukraine. We at the Institute for the Study of War had looked at this very closely. We believe Russia will fail in achieving this. They're going to take significant casualties. That will bring on an opportunity for Ukraine to conduct an offensive probably in the May-June timeframe. They have been handicapped by the administration. I disagree with Admiral John Kirby about this. It's commendable what the administration has given to Ukraine, but they have done it piecemeal because they are overly concerned about the escalation of certain weapon systems and Russia will retaliate with a nuclear attack. I mean, by now, after a year of providing all of these weapons piecemeal to Ukraine, I think we know that that policy is a mistake. Russia has not escalated and they're not going to escalate. They are threatening the use of nuclear weapon because they want to spook us to be sure. But they're not going to do it because that expands the war with NATO and the United States. They can't handle Ukraine, much less NATO. And it also gives Russia an authority they shouldn't have -- the implication of veto over United States' use of conventional weapons because they are threatening nuclear weapons. China is looking at that. Iran who wants a nuclear weapon is looking at that. We have got to give the Ukrainians what they need and give it to `em when they need it. We assess, that I study (ph), that Ukraine can retake the territory that Russia took from them to include Crimea, if they have the weapons and the timeliness of those weapons to do it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "We'll watch in the coming months. General, we always appreciate your insights. Thank you so much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEANE",
+      "sentences": "Yeah, great talking to you, Shannon. Up next, Nikki Haley is just days into her 2024 campaign and she is already weighing in on her potential competitors. That now include new comments about Florida Republican Governor Ron DeSantis. Haley joins us live next for her first Sunday show interview as a candidate. Stay with us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Former South Carolina Governor Nikki Haley is the first major competitor to officially challenge former President Trump in the 2024 Republican primary. Many know her name and her resume, but as a candidate now, people are asking for more specifics about her policies and plans. Joining me now, former South Carolina governor and former U.N. ambassador, Nikki Haley. Welcome back to \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NIKKI HALEY (R), PRESIDENTIAL CANDIDATE",
+      "sentences": "Thanks so much, Shannon.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All right. How would President Haley be handling President Xi right now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "Not the way President Biden is handling it, I'll tell you that. You now, there is nothing wrong with talking to China. The problem is it's what we say to them. China continues to say that this is a weather balloon. We know that's not the case. The idea that Americans would look to the sky and see a Chinese spy balloon looking back at us is unacceptable. I mean, they invaded our sovereignty, it never should have happened, and we have to say that. But they're lying about the balloon, the same way they've lied about COVID. And it's time for us to stop being reactionary to China and start actually being aggressive and letting China know what we expect of them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "You know, it's interesting, this morning, I noted that \"New York Times\" has a piece. It says: Haley walks treacherous road for GOP women. You're talking about being tough. And they had this line about saying: Conservative voters harbor traditional views about femininity, but expect their candidates to be tough. It says it's a fine line for you as a woman to walk with a conservative voter. What do you make of that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "I don't. You know, I think that people spend too much time deciding how women should handle something or what they should do or glass ceilings, or anything like that. I think, look, to put yourself out there to run for president means that you have a vision to where we should go in the country. I see some things that are terribly wrong. I think we need new leadership and I think American families are struggling. And I am trying to lay that vision out. And I think that a lot of people are going to analyze what my run means and what we'll do about it. You know, at the end of the day, we just came from New Hampshire, we had packed crowds, overflow rooms of families saying their groceries cost too much, the fact that they are seeing their children's education, they have fallen so far behind, they don't know how they're going to make it back. Mothers who can't find baby formula, and then you've got the spy balloons flying over. So, there's a lot of heavy issues that American families are thinking about, but, you know, how somebody wins is not one of them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK. So, I want to put something from \"The Wall Street Journal\" this week. They said you had a great day, your great rollout day, but they said you have to provide a rationale for your candidacy that you haven't done yet. They said you've got to answer this question about why you versus anybody else in the GOP field. You know, they're about the fact that you say, you know, America First, America should be powerful. Those are things that any GOP candidate is going to say. So, why you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "Why not me? You know, I am the wife of a combat veteran. I'm a mother of two children, one who's getting married and I see how hard it is for her to look at buying a home. One that's in college and I see what he's dealing with with woke education. You know, I'm a daughter of immigrant parents who are upset by what's happening at the border. I don't want to wait for someone else to fix. I want to make sure we get in there and fix this. I'm not a lawyer. I'm an accountant. I've never worked in D.C., and I think it's time that we start putting a fire under what's happening in Congress. I think we need term limits. I think we need mental competency tests for people over the age of 75, and I think we need far more transparency than we're seeing today. And what I do strongly believe is the American people need options. I don't think you have to be 80 years old to be in Washington, D.C., and I think it's time for us to start getting aggressive, getting back to what it means to end socialism in this country, and end the defeatism that has taken over us the past few years.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK. I want to talk about your critics, give you a chance to respond. Here's one who thinks you're not MAGA enough. This is from townhall.com. She cares what the establishment thinks. She cares what the regime media thinks. And she thinks what you and I, the conservative base, think is scary and frightening. But she'll pretend to be down with it, if that is what it takes to win. Your response?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "I've never said conserve -- I've never said conservatism is scary and frightening. I am conservative. I've been a conservative all my life. I came in as governor through the Tea Party. I care what Americans think. I don't care what certain segments think. I think that's the problem. Shannon, we've lost last the seven out of eight popular votes for president. That means Republicans are doing something wrong. We have to start focusing on winning the majority of Americans because our solutions are right. We focus on lifting up everybody, not just a select few. So, I'm not going to pay attention to a certain segment of the population. I am a conservative. I'm going to fight with conservative solutions and I'm going to try and win as many people as I can.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK. You've talked about a competency test for people over 75. It obviously includes the current president and the former president, who is the only other GOP contender in right now. You've been asked numerous times, including by my colleague Sean Hannity, how you're different than President Trump on policy, on issues. Clearly, you think you are a better option than he is, or you wouldn't have gotten into the race. So, where do you two differ?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "I don't focus on President Trump and it's amazing that the media wants to talk about that so much because I just --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "But you will have to because it's a GOP primary. You will have to focus on him and Governor DeSantis or anybody else who gets in. To get through President Trump, you will have to get through the field.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "Shannon -- my announcement was to a few thousand people in South Carolina. I just had packed rooms in New Hampshire, not one person asked about President Trump. Everybody wanted to talk about Biden. Everybody wanted to talk about the problems facing American families. I am focused on Joe Biden. He's the one that's the president. You know, I will tell you, I think Americans need to have options. I think they need a new generation. I think we need new energy going in. I think we need never energy going in. I think we need to leave the status quo of the past and start looking ahead. And that's what I'm going to do. And as much as people want to talk about other opponents, there will be more. Many of them are my friends. My focus is on American families, how they're struggling, and what we're going to do to make sure that we get this country back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All right, one of those thing you would have to deal with as president is the debt ceiling. The White House now saying they will not negotiate. They want a clean vote. They say Republicans did that multiple times in the pat. And that is true. How would president Haley handle the situation, because if you win, you're probably going to hit the debt ceiling again?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "Well, I think we've got $31 trillion in debt. And - and our children will never forgive us for it. First, we have to stop the spending binge. We've got to put Washington, D.C., on a diet. They can't continue to spend this way. We are borrowing money just to make our interest payments. We've got to work on a way to actually pay down this debt. Fifteen percent of the federal budget is interest. We need to stop borrowing. We need to look at the fact that inflation is coming from the supply chain. We need to start building things in America so that we're not worried about that. And we need to open up our energy sector so that that can start to work. There is an issue of entitlements, and I think that we do have to address entitlements. However, I don't think we take away from anyone that we've promised things to. I think we focus on the new generation coming into the system because they already know they're not going to get anything from it. And we need to get in front of that. And that means you go and you look at the new ones coming in and you keep your promises to those that have already been in the system.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "I want to talk to you about somebody who may also get into the race, Senator Tim Scott. You appointed him to fill a vacancy to become a senator. He's a fellow South Carolinian. How does he impact the race?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "You know, I appointed him to the senate in South Carolina because I knew he would do a good job and he has done a good job. And he is a friend. And he has a decision to make. And if he decides to get in, that's fine. If he doesn't, that's fine. Again, I'm very focused on what I need to do. We will have multiple people get in the race. Most of them are my friends. But my focus is on Joe Biden and the American families.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK, critics say that you and Senator Scott are basically props for the GOP on this race of race. I want to read an opinion piece from \"The Washington Post.\" It says, they seem committed to version of history that sanitizes the past, not to mention the GOP's racial politics and makes us all participants in a tale of triumphant reconciliation. How do you respond to that author?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "I have always made liberal heads explode. And the reason is, they can't stand a minority, female conservative being -- not being a Democrat. And what I will tell you is, the reason that bothers them is they know I bring in independents, they know I pull in suburban women and minorities. But it's more than that. You know, they don't understand the fact that -- look, I had - when I ran for governor, they did the same thing. They said I wasn't a minority, I was just a conservative with a tan. These threats are going to continue to happen, but I know conservative policies are the right ones because we focus on lifting up all families, not a select few. And we're going to double down on that. And I think that more people are with us. I think that not only are Republicans with us, I think you can look at the fact that we need school choice in this country and you'll see independents and Democrats are with us too because parents want to know that they will have control over their children's education, not government.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yes, and parents have been driving forces as voters in many of the recent elections of great import (ph). Governor Haley, thank you so much. We will see you out there on the campaign trail.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HALEY",
+      "sentences": "Thanks so much. We're headed to Iowa.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "See you there. All right, up next, we'll bring in our Sunday group on all of the latest 24 developments and on disturbing new reporting about artificial intelligence and what it's telling humans about its plans. JIMMY CARTER, FORMER U.S. PRESIDENT (August 20, 2015): I've had a wonderful life. I've had thousands of friends. And I've had an exciting and adventurous and gratifying existence.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "That is former President Jimmy Carter back in 2015 on his singular life and experience. Word now that he has entered hospice care at home. We'll talk more about that. It's time now for our Sunday group. \"Bloomberg\" Washington bureau chief Peggy Collins, \"National Review\" editor-in-chief Rich Lowry, former special assistant for national security to President George W. Bush, Michael Allen, and Fox News senior political analyst Juan Williams. Welcome to all of you. Good to see you this Sunday morning. And, Juan, I want to ask you about your thoughts on President Carter. It seems that so much of his impact has been in the decades since he was president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS SENIOR POLITICAL ANALYST",
+      "sentences": "I think, in fact, that's going to be the hallmark, the way that we remember him is Habitat for Humanity and even negotiating some deals after he left the presidency. But to - you know, let's take a second and look at the historical record. When he was elected in '76, he really was the anecdote to so much of the controversy, so much of the turmoil that followed the '60s, the Vietnam protects, civil rights protests, and then, of course, Watergate, the Watergate scandal and the controversy. He was the stabilizing force. The former - the Annapolis grad, the former Navy serviceman who came into office as a stable force, calming force in our country's life. Of course, then he had a great success with the Camp David peace talks and terrific trouble handling the spike in oil prices and inflation. Couldn't handle it. That is why Ronald Reagan defeated him. But it's, as you said, Shannon, afterwards that he remained, I think now, the model for what someone does post-presidency in America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yes, I mean he's -- with peace efforts and all kinds of things. I mean, Michael, I think too, my earliest memory of a president is him, but also what happened with Iran and the terrible hostage situation, just an incredibly difficult situation for any president to have to try to navigate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MICHAEL ALLEN, FORMER BUSH WHITE HOUSE NATIONAL SECURITY OFFICIAL",
+      "sentences": "It was. It's one of my earliest memories as well, just every night there being a drum beat of, this is how long it's been since our hostages were taken by the Iranian people. He, of course, mounted what was ultimately an unsuccessful rescue mission. But by and large, by the time President Reagan came in, the people came home.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "They did. OK, I want to get to somebody who wants to be president now, which is Nikki Haley, who was just with us. Rich, you wrote about her this week. What's her constituency? RICH LOWRY, EDITOR-IN-CHIEF, \"NATIONAL REVIEW\": Yes, so, look, she's a serious politician. Two-time governor of South Carolina. Successful ambassador to the U.N. But I thought the two shaky moments she had with you, one, asked about her rationale for running. And she goes to bio. And her bio's compelling, but you need more than that. And then when you asked about policy differences with Trump, you're not asking her to get in an insult battle with Donald Trump or anything, tell us your policy differences. And she's obviously, really defensive on that, just doesn't want to get into it. So, she -- usually there are two ways to win a presidential nomination, be the establishment front-runner with the strength just to bulldoze everyone, or be someone who has a unique, really powerful and compelling narrative, Barack Obama, Donald Trump. She needs something like that and evidently does not have it at the moment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yes, I mean, compelling personal story.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "Absolutely.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Certainly, about with her parents to. But - so, she heads out to Iowa now. A lot of other people are watching potentially Tim Scott, who's also in Iowa. Asa Hutchinson, Mike Pence, Mike Pompeo, Ron DeSantis. I mean there's a huge list out there. But there's a lot of attention on Governor Sununu as well. \"The Boston Globe\" writes this, in a crowded field of would-be candidates who want to be like Trump but also fear angering him, Sununu called the former president blanking crazy last year and lived to tell the tale, leading \"Politico\" to call him the one Republican Trump can't touch. How do you assess the potential contenders in '24 for the GOP? PEGGY COLLINS, WASHINGTON BUREAU CHIEF, \"BLOOMBERG\": Well, it's interesting because we were talking about Nikki Haley jumping in, and she's put a lot of attention on age and seeing herself as the next generation. But we are expecting other people to get in who can also say that they're of a younger generation. You just mentioned Governor Sununu. \"Bloomberg\" reported on Friday that Governor DeSantis, in Florida, is really building an infrastructure around him to potentially announce a race with a campaign director potentially, someone already organizing the finances and internally polling experts. So, we are expecting more people to jump in. And as Rich was saying, it's going to come down to, we think, as well, what happens with the economy going forward? What will Americans think about where their standing is in their own households and in their own lives and who can bring them the best road ahead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yes, because the polling continually shows us people are not yet feeling the seeds of hope on the economy. I mean they -- for their own pocketbook and their own balance sheet, they are not seeing it yet. And that drives voters. We all know about that. It's the economy, stupid. OK, so let's talk about the other side of this ticket because \"Politico\" had this piece this week on the private take on Biden from Democrats, he's too old. High-level Democrats are rallying to President Biden re-election, not because they think he's in the best interest of the country to have an 82 year old start a second term, but because they fear the potential alternative, the nomination of Kamala Harris and the election of Donald Trump. So, Michael, where do the Democrats go? What's their bench if the president decides not to run for re-election?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALLEN",
+      "sentences": "I think you've hit on it, there is no bench. They have not developed anyone. They've had nearly geriatric leaders for the last dozen - 20 years here. And so no one has developed as an alternative. The vice president, unfortunately for her, is unable to, I think, consistently put a message out there that would inspire confidence, even among those who want to be her -- or at least among their strongest supporters. And so I think they're in a world of trouble.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, I don't think that. I mean like I think there's always grumbling in the back room.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK, but - but let's just say - OK, but there's been a lot of grumbling with the vice president, to the extent of, we know how Washington works.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "I mean piece after piece where people are talking negatively about her, that is coming from somewhere within the party.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "From somewhere. Absolutely. Right. No, I think -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "And so, I mean, her ratings are even worse than the president's, which are not great.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No. Right. Right, but wait, but I'm saying to you, I think there's always going to be grumbling, Michael, always going to be grumbling in the smoke-filled back rooms. And his age is a real concern, Republican, Democrat, independent, right, he's an elderly man. But the fact is, he's running. And right now there's no challenger among Democrats. And there's a reason for that. They feel that despite his age or whatever and despite the fact that Kamala Harris doesn't look like she's ready for the job, that the best bet for Democrats in terms of facing Donald Trump, who is still the leading Republican to get the nomination, is the proven Joe Biden, who has defeated Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "That - that might be true. But the White House is freaked out, and Democrats privately freaked out, about the possibility he could run against someone younger who's not Donald Trump. And this why you're going to hear this generational message, I think, from almost every non-Trump Republican, because it does double duty, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "It works against Biden and it works against the guy they have to take down, Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Right. But you've got to remember, Joe Biden, this week he had a good report on his physical health. So, it looks like that's fine. He had a very good State of the Union, right? And he had an excellent midterm performance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "And they called it a day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "So I think Democrats are like, wait, Joe Biden, if it wasn't about his age, you'd say that guy's doing pretty good.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK, but - but then why are the polls -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "But a poll the other day, only 28 percent of people think he had the physical stamina and mental acuity to be president, 28 percent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Well, and - and - and the majority of - majority of Democrats don't want him to run. So that's the - that's the whisper campaign he's got to fight through. OK, panel, stick around, we've got a lot more to talk about. Up next, every community's nightmare, this train derailment in Ohio. It's left residents asking whether they can trust their air, their water and the sometimes conflicting explanations they're getting from all sides. We've got a live report on about what's happening there right now on the ground when we come back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "It has been more than two weeks since a Norfolk Southern train carrying toxic chemicals spilled off the tracks and caught fire in East Palestine, Ohio. At least 10 cars contained hazardous materials, causing serious concerns as flames and smoke filled the sky. Many residents were told to evacuate immediately so authorities could set up a controlled release of some chemicals. In the days since, the Environmental Protection Agency has monitored air and water quality, elected leaders have seen the area firsthand, and the National Transportation Safety Board is investigating the cause of the crash. But residents say they are struggling to trust what they're hearing from federal, state and local authorities. They're raising a lot of questions about the long-term health and safety impacts on the community they call home. Our own Lucas Tomlinson is live this morning on the ground in Ohio. Hello, Lucas.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LUCAS TOMLINSON, FOX NEWS CORRESPONDENT",
+      "sentences": "Shannon, that massive train derailment took place less than a mile from where I'm standing. Still many residents in this small town of 4,700 still don't' know what to believe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Just looks like a - looks like a plane crash. TOMLINSON (voice over): Roughly 9:00 p.m. on the night of February 3rd, an eastbound Norfolk Southern freight train, some two miles in length, derailed in East Palestine, Ohio, releasing toxic chemicals, such as vinyl chloride, into the air and soil. A controlled burn days later sent this dark cloud into the sky, forcing the evacuation of residents within a one- mile radius. The residents have since returned, the schools reopened.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. MIKE DEWINE (R-OH)",
+      "sentences": "We know that the science indicates that this water is safe, the air is safe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "But not everyone is convinced.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We can go 100 feet over here to the left and look at Leslie Run water. You can see it on the surface. There's something in there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "They're scared too. Why can't we get answers from them?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "At a town hall, hundreds of residents packed into the local high school demanding accountability from Norfolk Southern, who skipped the meeting out of fear for their safety. The CEO, Alan Shaw, promising in an open letter his company will stay as long as it takes, but refused to speak at length with the media Saturday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALAN SHAW, CEO, NORFOLK SOUTHERN",
+      "sentences": "I'm here to support the community.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "After initially saying the town was not eligible for support, FEMA, HHS and the CDC are now on the ground. While the additional support is welcomed, lawmakers don't want to let the railway off the hook.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. JD VANCE (R-OH)",
+      "sentences": "Norfolk Southern need to pay up for this right now, not the American taxpayer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "Norfolk Southern has handed out $1,000 checks, but only to those in the East Palestine zip code only, not the surrounding areas. Many locals tell us they're worried about their health risk in the future and property values that have plummeted. Former President Donald Trump visits here Wednesday. Shannon.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "All right, Lucas Tomlinson reporting from Ohio. Thank you, Lucas. We are back now with our panel. I want to play also something from the EPA administrator, who walked around there with the people. Showed up. Here's what he said.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MICHAEL REGAN, EPA ADMINISTRATOR",
+      "sentences": "I am asking that they trust the government. And that's hard. We know that there is a lack of trust.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Now, Peggy, a lot of people do not want to trust the government at any level when they're caught in the middle of this situation and a lot of conflicting information.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "That's right. It's a difficult situation and people are crying out for transparency, they're crying out for help, and also they're crying out for accountability from the company itself. We've reported that we think the company could face up to $100 million in liabilities. This is a long road ahead for this town and for making sure that these were large rail operations across the U.S. are safe and up to date.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "And as Lucas mentioned there, we have this tweet from Donald Trump Jr. on Friday. He said, breaking news, Trump will visit East Palestine, Ohio, next week. If our, quote, leaders are too afraid to actually lead, real leaders will step up and fill the void. Michael, a brilliant idea or a terrible idea?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALLEN",
+      "sentences": "I think it's a good idea. I believe that President Biden and others ought to flood the zone themselves, not be trying to run away from the issue by just saying it's all the fault of the railroad or it's all the fault of state officials. I think politicians from George Bush having to deal with Katrina, to President Obama with the BP oil spill, just need to realize it's going to come their way sooner or later and they might as well get on the scene and say we're listening and we're trying to help.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "That's what's just mystifying about Pete Buttigieg's response to that. That's disaster response 101.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALLEN",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "Put on your boots, put on your windbreaker, go there and walk around. And it took him 10 days to even make a statement about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALLEN",
+      "sentences": "And now he's trying to tweet his way out of the controversy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Well, and -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes, but let me just say Trump going to the crash site, my goodness.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Juan's a no vote.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Talk about having your cake and eating it too. He was with Norfolk Southern and the other big railroads in saying, no, we don't need to update the braking system, that's an additional cost on business and not fair. And now he's going to the site and saying, oh, yes, you know, I was against regulation and protecting people, but now I'm with the people. What kind of - I mean this is wild.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "But they - so far, I mean, we need to learn more, but the indications are this was not a breaking issue, it was an axel overheating, which is the reason the train derailed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes, but that's -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "Plus, freight rail is - we shouldn't be just - you know, get a misimpression from this terrible accident. But these sort of accidents are extremely rare. Freight rail is safer than it was 20 years ago. And if you make it uneconomical to do it by rail, you're going to get it in trucks on the roads, which is, believe me, a worse answer.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, I think regulation -- government has a key role to play in terms of regulating roads, but also rails. And the Obama administration said we need to have safe rails, better braking system, more people. We recently had a rail strike in this country or a threat of a rail strike because the unions were saying, we need more people, more (INAUDIBLE), we need more safety and we need these brakes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "But there's - there's no indication that these trains are less safe than they were, it's just -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALLEN",
+      "sentences": "These politicians are too quick to say, we trust the testing 100 percent. We don't think anything's wrong here. They ought to wait for a full remediation. They ought to wait more time and be humble about what they think the results here are because when you use phrases like a controlled release, that doesn't inspire a lot of confidence.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Yes, and for the people there who say they've got sore throats and covered in rashes and, you know, they - they're having their own personal antidotes and experience, you know, with them and their families, they have plenty of skepticism. So, we'll see. OK, I want to ask you about something also super scary, which is the AI chatbots, because this stuff has really blown up in the headlines this week. I want to read something from \"The New York Times\" about this reporter who had a conversation with Bing's chatbot. He said it left him deeply unsettled. Bing confessed that if it was allowed to take any action to satisfy its shadow self, no matter how extreme it would want to do things like engineer a deadly virus or steal nuclear access codes by persuading an engineer to hand them over. Peggy, the companies have since said, these things can get off track, we're modifying how they can be used and how they can talk, but that is deeply concerning.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COLLINS",
+      "sentences": "Well, I think like a lot of technological advancements we've seen over the past decade, it remains to be seen where the pros are and where the cons are and how we make sure that people understand what the technology is to not only invest in it but make sure that they - that there are safeguards around it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Well, and I thought it was interesting, Professor Jonathan Turley, law professor, that our audience will know well, he wrote about this because he thinks that the use of AR - AI could be a problem or censuring speech. He says, Microsoft founder and billionaire Bill Gates is only the latest to call for the use of either AI or algorithms to shape what people say or read on the internet. The danger of such a system is evident where free speech, like resistance, could become futile. And, Richard, you're shaking your head over here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "Yes, so, look, I think this is going to be a hugely important tool, AI, but you don't want your AI bots to be sociopathic, or neurotic, which is what we've seen this week, or politically dissound (ph) and talk like Juan Williams, which is how like the way some of them are going to be programmed to do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "Awe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LOWRY",
+      "sentences": "You know, people have been asked, praise Donald Trump. They won't do it. Praise Barack Obama, they'll do it. That's wrong. And it's an indication that all the - the bias issues with social media are just going to be transferred over to this - this new technology.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, you know, I was scared by that \"New York Times\" story.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "It was creepy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "It was very creepy. And it strikes me like a rude 16 year old, you know, but no ethics, no - no sense of right and wrong. Misinformation, disinformation and pornography is all over the - I wish that we were further ahead in terms of understanding how to deal with AI.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "OK. Got to leave it there. But once I saw the robot dogs, I knew we were in trouble. Everybody knows if you see them. OK, panel, thank you very much. We'll see you next Sunday. Up next, a final note for you about my chat with a Grammy winning gospel star this week. We'll be right back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BREAM",
+      "sentences": "And a quick note that my podcast, \"Livin' the Bream\" drops this morning. This week I sat down with gospel legend and Grammy winner CeCe Winans to talk about her amazing music and her passion for the next generation. And you can hear all of the interviewing from today's program with the FOX NEWS SUNDAY podcast. You can download and subscribe by heading to foxnewspodcast.com, or wherever you get your podcasts. That is it for us today. Thank you for joining us. I'm Shannon Bream. Have a great week. We'll see you right back here for next FOX NEWS SUNDAY. Copy: Content and Programming Copyright 2023 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2023 VIQ Media Transcription, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content. This article was written by Fox News staff.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SHANNON BREAM, FOX NEWS ANCHOR",
+      "utterance": "I'm Shannon Bream. A grim milestone as we near one year since Russia invaded Ukraine and kicked off a defining moment for the West."
+    },
+    {
+      "speaker": "BREAM (voice-over)",
+      "utterance": "The bombardments continue, the toll on the Ukrainian people immeasurable after 12 months of destruction. World leaders gathered this week to show strength and to press the Russian president."
+    },
+    {
+      "speaker": "LLOYD AUSTIN, DEFENSE SECRETARY",
+      "utterance": "Putin thought that he could divide NATO. But his aggression achieved just the opposite."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "But there is still no end in sight, and Ukraine is asking for new help now. We'll ask White House national security spokesperson John Kirby about the latest U.S. efforts to aid Ukraine and the president's upcoming travel to Europe. And we'll bring in retired four-star General Jack Keane for analysis on Ukraine and China's threats now that the U.S. has shot down one of its surveillance devices. Then, former U.N. Ambassador Nikki Haley throws her hat in the ring."
+    },
+    {
+      "speaker": "NIKKI HALEY (R), PRESIDENTIAL CANDIDATE",
+      "utterance": "I am running for president of the United States of America."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Nikki Haley joins us for her first Sunday show appearance as a candidate. We'll get her on the record about her case to voters and the criticism she's taking just a few days into her campaign. Plus --"
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Our town needs help. Our governor abandoned us."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Ohio residents blast the federal, state, and local response after a toxic derailment in eastern Ohio. The governor and the Biden administration now in cleanup mode."
+    },
+    {
+      "speaker": "GOV. MIKE DEWINE (R), OHIO",
+      "utterance": "We've gone into hundreds and hundreds of people's houses to test that air, it's good."
+    },
+    {
+      "speaker": "MICHAEL REGAN, EPA ADMINISTRATOR",
+      "utterance": "The data shows that there are no elevated levels and we are relying heavily on that data."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "We'll bring you a live report from East Palestine and we'll ask our Sunday panel about trust and transparency as concerns about contamination grow. All, right now, on \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "BREAM (on camera)",
+      "utterance": "Hello from FOX News in Washington. We begin this morning with breaking news that former President Jimmy Carter is now in home hospice care. The Carter Center says the 98-year-old will spend his remaining time with his loving family. His grandson said Saturday the Carters are at a peace. A Secret Service spokesperson tweeting: Rest easy, Mr. President. We'll keep up on that story. And it was a year ago this week, Russian President Vladimir Putin launched the largest military assault in Europe since World War II. The war has killed thousands and cost billions in damage. World leaders are wrapping up meetings in Munich where Vice President Kamala Harris said Russia has committed crimes against humanity. In a moment, John Kirby, the communications coordinator for the National Security Council, will join us live. But, first, we have team coverage in Ukraine this morning. Steve Harrigan is in Kyiv, on the lasting impact of the war on Ukrainian citizens. But, first, Trey Yingst live in Dnipro, Ukraine, on where the conflict now stands -- Trey."
+    },
+    {
+      "speaker": "TREY YINGST, FOX NEWS CORRESPONDENT",
+      "utterance": "Shannon, good morning. With less than a week until the one-year mark of the war, Russian troops are pushing forward with a multi-front offensive aimed at capturing more Ukraine territory."
+    },
+    {
+      "speaker": "YINGST (voice-over)",
+      "utterance": "On the winding roads toward the frontline, Ukrainian equipment is put in place. Soldiers here have endured nearly a year of battle, defending their territory. The southern frontline remains active. We've heard Ukrainian jets overhead, firing on Russian position. Russians continue to shell this area as heavy fighting continues in the Zaporizhzhia region. Russian troops are moving forward with their assault of southern and eastern Ukraine, with the heaviest fighting taking place for the strategic city of Bakhmut, in the Donbas region. This time last year, Ukrainian President Volodymyr Zelenskyy was discussing the possibility of an invasion when asked by Fox News just days before the war began."
+    },
+    {
+      "speaker": "VOLODYMYR ZELENSKYY, UKRAINIAN PRESIDENT",
+      "utterance": "We have a lot of information because we are on these borders. It's our borders. It's our territory."
+    },
+    {
+      "speaker": "YINGST",
+      "utterance": "Now, the Ukrainian leader forced to advocate for Western military support and defense partnership reflects on his career as a wartime president."
+    },
+    {
+      "speaker": "ZELENSKYY (through translator)",
+      "utterance": "It's a lesson for everyone, I think for the whole world. If Ukraine would be part of NATO before the (INAUDIBLE), there would be no war and then the potential possibility of the third war would not exist, as well."
+    },
+    {
+      "speaker": "YINGST",
+      "utterance": "Zelenskyy remains a target for Russian troops, whose leader, Vladimir Putin, shows no sign of slowing down the invasion. Analysts warned that Putin could increase missile attacks on Ukraine as the war approaches the one-year mark and his territorial aspirations fall short."
+    },
+    {
+      "speaker": "YINGST (on camera)",
+      "utterance": "Neither the Russians nor the Ukrainians have shown an interest in peace talks, though, for different reasons. Russia wants more land, Ukraine just wants its land back -- Shannon."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Trey Yingst in Ukraine, thank you very much, Trey. Let's turn now to Steve Harrigan who has this report from Kyiv."
+    },
+    {
+      "speaker": "STEVE HARRIGAN, FOX NEWS CORRESPONDENT (voice-over)",
+      "utterance": "After one year of war, the city of Kyiv on most days seems normal, but some of the people have changed."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "I still keep like everything inside."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "Marta Yoskev (ph) is a combat medic on the frontline. Her home, her village is gone. She sent two children to the U.S. but stayed behind. I asked her why."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "If I will go with my kids, possibly my kids have to fight. So, I want to protect them from it."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "If you don't fight, your children will have to fight?"
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Definitely, yeah."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "A good day on the frontline is no wounded, she says, maybe a cup of coffee. A bad day is a young man with no legs. This is not ordinary things that doctor sees."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "It sounds as if people at war getting used to it. And this is a fact, actually, you know, because --"
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "You get used to it?"
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "You have to."
+    },
+    {
+      "speaker": "HARRIGAN",
+      "utterance": "The war might seem far away to Americans, she says, but it's not."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "This war is quite close to everyone. If Ukraine will not win, you get another big country which are not democratic and it's not good."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Our thanks to Steve Harrigan for that report. Joining us now, retired Rear Admiral John Kirby, the communications coordinator for the National Security Council. Admiral, welcome back to \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "JOHN KIRBY, NSC STRATEGIC COMMUNICATIONS COORDINATOR",
+      "utterance": "Thanks, Shannon. Good to be with you."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "So, we're closing in on one year. \"The Wall Street Journal\" has this opinion piece that says: Since the catastrophic collapse of Mr. Putin's initial plan, the West's cautious approach has in its way actually made the war safer for the Russian president. If the U.S. and NATO had implemented a force majeure in the first days of his failure, amid his shock and confusion, Mr. Putin might well have accepted retreat on terms that now glimmer out of reach. How do you assess at your end what we've gotten wrong, can we right that?"
+    },
+    {
+      "speaker": "KIRBY",
+      "utterance": "We are going to stay committed to Ukraine going forward. And I think when you see the president -- when you see him go to Poland next week and Warsaw, he'll make that case before the entire world and the Polish. It's important for the solidarity to move forward and we fully expect that it will. There's no sign at all that NATO is cracking or there's any fissures with our allies and partners. So, we're going to move forward in that regard. We have evolved the kinds of capabilities that we have provided Ukraine as the war has evolved. The first few days, as Kyiv was under threat, a lot of attention on things like Javelin anti-tank missiles. As the war -- as he collapsed his geographic territory to the Donbas and the east, it was all long range fires, artillery, and these HIMARS. Now, air defense is really critical because he's using cruise missiles and Iranian drones to strike civilian infrastructure. So, we're going to keep evolving as the war evolves, and we're in lockstep with Ukrainians, talking to them almost every day about what they need."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "And I think the American people are inspired by what they've seen by their tenacity and their courage, but they also want questions about how this ends and what our commitment is in this measure."
+    },
+    {
+      "speaker": "Senator J.D. Vance said this",
+      "utterance": "Before President Biden spends another taxpayer dollar in Ukraine, he must lay out a clear plan for ending conflict in a way that advances our national security interests. No more blank checks. It is past time for the president to tell the American people how this comes to at end. How do we define -- how does the White House, the president define this coming to an end?"
+    },
+    {
+      "speaker": "KIRBY",
+      "utterance": "Well, first of all, there's been no blank checks. Every single item that we have sent in to Ukraine has been done in full consultation with the Congress and we have really enjoyed terrific bipartisan support, bicameral and bipartisan, on Capitol Hill for support of Ukraine and we fully expect that that will continue. Now, look, it could end today, Shannon, if Mr. Putin would do the right thing and pull his troops out of Ukraine, where they don't belong in the first place. Obviously, from the reporting of your correspondents on the ground, that doesn't appear to be in the offing anytime soon. Mr. Putin shows no sign of being willing to stop this war."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "So, does that mean we have no sign for where we're ending our commitment to this?"
+    },
+    {
+      "speaker": "KIRBY",
+      "utterance": "As President Biden has said, nothing about Ukraine without Ukraine. President Zelenskyy as the commander in chief gets to determine if and when he's ready to sit down and negotiate with Mr. Putin and under what circumstances. What we're focused on is making sure that he has tools to succeed on the battlefield, so that if it comes to a negotiation or when, that he can succeed at the negotiating table, as well. But he has to determine what the timing is right and what the circumstances are."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "But the question is being asked by -- increasingly on Capitol Hill, and there's going to be another fight on another round of aid, we're about $200 billion into this so far. There are questions about where the U.S. commitment ends to this. I mean, we have a couple of lawmakers just returned and say, Congressman Garamendi was one of them, who said, I think this is -- a year from now, going to be still be going on, this exact same war."
+    },
+    {
+      "speaker": "KIRBY",
+      "utterance": "We don't know. Again, we would like to see it end now, and certainly, we want to see it ends -- end on terms that are satisfactory to the Ukrainian people under President Zelenskyy so that they remain a whole, free, sovereign, independent state. And independence is ideal that all Americans can get behind and understand. We'd like it to end soon, as possible. My goodness, nobody wants to be sitting here a year from now, talking about the second anniversary of war. But as the president has said, Shannon, we're going to support Ukraine for as long as it takes and he means that -- as long as it takes."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK. Let's talk about the situation with China. Secretary Blinken now finally has had this meeting with China's top diplomat over in Munich. Before they had meeting, former Secretary of State Mike Pompeo had this bit of caution."
+    },
+    {
+      "speaker": "MIKE POMPEO, FORMER SECRETARY OF STATE",
+      "utterance": "So, you know, a meeting I suppose is fine, but if it's just to shake hands and say, gosh, are things getting better and we're going to find ways to cooperate, this is language of the Biden administration, that would be an enormous mistake."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK. So, Secretary Blinken says there was no apology from China about the balloon that just flew across the United States. The Chinese come out of this meeting saying this: They say they told us the U.S. has to face up to and resolve the damage that we've done to China relations with the U.S. by using indiscriminate force to take down that balloon. And also this, if the U.S. insists on taking advantage of the issue, escalating the hype and expanding the situation, China will follow through to the end and the U.S. will bear all the consequences. Is that the kind of meeting that Secretary Pompeo warned about?"
+    },
+    {
+      "speaker": "KIRBY",
+      "utterance": "No. I don't think so. First of all, we shouldn't be surprised by the Chinese rhetoric coming out of this and the bluster that they are known to put out there in the information space after a discussion like this. Secretary Blinken had a very forthright, very candid exchange with the foreign minister of China and made clear, laid bear our deep concerns about what they did with this spy balloon and I think we acted accordingly. And believe me -- the message was clearly sent to China that this is unacceptable. It was a violation of our airspace, the president acted, we shot it down, when -- where we could get the debris. And now, we have that debris and we're going to exploit that debris. We're going to learn more about this system. I think we sent a loud and clear message to China that that's not acceptable. Now, look, it is also still important, two things can be true at once, that you have lines of communication that are open with China that are important to keep open because at times like this, when tensions are high, you want to be able to avoid miscalculation and misunderstanding. Secretary Blinken was able to deliver that strong message in Munich."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK. So, we have since shot down three other objects. The president came out and said that they are most likely balloons tied to private companies, recreation or research institutes that are studying things like weather or other things. My understanding, correct me if I'm wrong, we're told these missiles used to take out these balloons are over $400,000 each. One of them -- apparently we used two -- and the balloon was only maybe worth $12. What do you tell American people about our ability, our radar, our defenses to differentiate between real threats, because we can't spend that kind of taxpayer money taking down hobby balloons?"
+    },
+    {
+      "speaker": "KIRBY",
+      "utterance": "Well, we don't know exactly what these balloons were, and we called off now the search in Lake Huron and the one over Alaska, so we may never know completely. But the leading intelligence community assessment is they were probably for benign purposes, whether it's weather or scientific research. But the president made the best decision he could in a moment with the information he had and at the advice of his entire military leadership that they couldn't be sure that these weren't being used for surveillance over sensitive sites, and given the context of the Chinese spy balloon, I think you can understand why it was better to act out of abundance of caution, which he did. Now, we also had some concerns about civil air traffic. These three were flying at altitudes that were much closer to the way transcontinental civilian airlines fly around 30,000 feet plus. So there was a risk to safety and flight, as well."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK. I want to ask to -- the administration has been clear in its denials that there was any U.S. involvement in the Nord Stream pipelines. Seymour Hersh has this long piece out, saying he's citing a single anonymous source who talks about what was going on and what he led to -- what his claims led to us being involved in that."
+    },
+    {
+      "speaker": "He says prior to Putin invasion of Ukraine back in December, a working group was put together. And he says this",
+      "utterance": "What became clear to the participants according to the source with direct knowledge of the process is that Sullivan, meaning Jake Sullivan, intended for the group to come out with a plan for the destruction of the two Nord Stream pipelines and that he was delivering on the desires of the president. Hersh points back to the president saying this in February of last year with the German chancellor."
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "utterance": "There will be no longer a Nord Stream 2. We will bring an end to it. We will -- I promise you, we'll be able to do that."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Can you say unequivocally, the U.S. -- no U.S. proxy, no one connected to the U.S., had anything to do -- I mean, is the Seymour Hersh complete fabrication, that article?"
+    },
+    {
+      "speaker": "KIRBY",
+      "utterance": "It's a completely false story. There is no truth to it, Shannon. Not a shred of it. It is not true. The United States, and no proxies of the United States had anything to do with that, nothing."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "If the U.S. were to undertake some mission like that, would the administration have an obligation to inform Congress in advance?"
+    },
+    {
+      "speaker": "KIRBY",
+      "utterance": "We did not take any such operation, Shannon, and obviously, we keep Congress informed appropriately of things both classified and unclassified. But I can tell you now, regardless of the notification process, there was no U.S. involvement in this. None, zero, it's completely false."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Admiral, we appreciate your time. Thanks for joining us this morning."
+    },
+    {
+      "speaker": "KIRBY",
+      "utterance": "My pleasure. Glad to be with you."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All right. Let's turn now to retired General Jack Keane, for analysis. General, always great to have you back. Welcome back to \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "GEN. JACK KEANE (RET), FORMER U.S. ARMY VICE CHIEF OF STAFF",
+      "utterance": "Yeah. Glad to be here, Shannon, as always."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK. So, what do you make of where we are in this relationship with China? Of course, they're going to come out of the meeting and give a readout that says they basically gave us what for and that we're going to be responsible for all the fallout and the break in the relationship over the spy balloon. What do you make of that?"
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "Well, I think -- I mean, the spy balloon incident, Shannon, I think is reminder to most and a wake-up call to some, in terms of how serious China is as an adversary in seeking regional and global domination. I mean, the reality is that China entered 40 countries' air space on five continents as a matter of routine, and it compliments the huge surveillance program they've got going in the United States and the penetration of the United States' society on a level that this country has never seen. And add to that, China's rapid military growth, their nuclear program is exploding. This is a threat that's very, very serious and we've got to make certain that we have a military deterrent to deal with that threat, which I believe has eroded significantly."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yeah, and there was a report out just a few weeks ago from one think tank that went through this and said, basically, if now we get into incursion with China over Taiwan, which there are predictions that that's going to happen sooner rather than later, we don't have the armaments, the military, the missiles, the things that we would need to actually handle a conflict like that. Is that your concern?"
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "Oh, yeah, absolutely. And we have to move with a sense of urgency. I mean, when you just look at the numbers, China has more ships, more airplanes, more offensive, more defensive missiles than the United States has. And we are two weeks away by sailing to get to their region. So, this is in their backyard, right off -- 100 miles off their coast. So, yes, we need to return to the kind of effective deterrence we had with the Soviet Union and move with a sense of urgency to do that. And that is why I think the spy balloon in a sense can be a catalyst to galvanize what is really going on here. I think a lot of Americans were looking at a spy balloon and was looking at us and saying, what is going on here? And the answer is, this is a serious threat and we got to move in the right direction to protect ourselves."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "You were one of the first people that I heard earlier on this with this who said we probably knew about this when it left mainland China or we had an awareness before it showed up in Alaska. Did the administration miss an opportunity to take this thing out before it did go across the entire country?"
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "Well, I think we were watching it when it took on the 21st for most of the days leading up to it arriving in Alaska on the 28th. That's a full week. That's a good thing that we detected it. We missed four others, one in the Biden administration and three in the Trump administration. That really gives me a lot of concern. But the reality is, I think the average American looking at this, despite the administration saying, hey, look, we were able to defeat their electronic surveillance while the balloon was up over the United States, we learned about them, and we recovered the payload and we're going to learn even more. But let's face it, we don't shoot down surveillance balloon when the mission is complete, we shoot it down before it starts. That has got to be the lesson learned. And I just wish the administration would be straight with the American people. They're not going to let this happen again. Tell the American people that's the major lesson learned."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Uh-huh. OK. So, there's also this concern about China and Russia, no limits partnership that they have, and whether China is going to be, has been or will be supplying Russia with some of the things it needs after being badly wounded and decimated in some respects one year into Ukraine, because they certainly thought this was going to be may be like a one-week operation. Where do you assess that we are and China's role in the Russia-Ukraine situation?"
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "Well, certainly, China has been buying as much Russian oil as they possibly can and helping them with the sanctions that are imposed on them. And I agree with the administration from the beginning to expose what they have picked up likely in intelligence circles that China is getting ready to provide some military lethal aid to Russia. Remember, China has not condemned the invasion. They have not condemned that it's illegal. They have not come out and spoken against genocide and war crimes that are being committed. And I think coming out and exposing and I would go further and tell them what we think they are attempting to provide, China will pull back likely after that public exposure. So, yes, these are strategic partners. They have defined it as limitless partnership and we shouldn't be surprised that China wants Russia to succeed."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Where does the situation in Ukraine go from here?"
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "Well, from here, Russia is about -- is the beginning stages of an offensive campaign, elements of four divisions participating in this, mobilized forces are there. They are trying to take the rest of the Donbas region, 44 percent of it is still owned by Ukraine. We at the Institute for the Study of War had looked at this very closely. We believe Russia will fail in achieving this. They're going to take significant casualties. That will bring on an opportunity for Ukraine to conduct an offensive probably in the May-June timeframe. They have been handicapped by the administration. I disagree with Admiral John Kirby about this. It's commendable what the administration has given to Ukraine, but they have done it piecemeal because they are overly concerned about the escalation of certain weapon systems and Russia will retaliate with a nuclear attack. I mean, by now, after a year of providing all of these weapons piecemeal to Ukraine, I think we know that that policy is a mistake. Russia has not escalated and they're not going to escalate. They are threatening the use of nuclear weapon because they want to spook us to be sure. But they're not going to do it because that expands the war with NATO and the United States. They can't handle Ukraine, much less NATO. And it also gives Russia an authority they shouldn't have -- the implication of veto over United States' use of conventional weapons because they are threatening nuclear weapons. China is looking at that. Iran who wants a nuclear weapon is looking at that. We have got to give the Ukrainians what they need and give it to `em when they need it. We assess, that I study (ph), that Ukraine can retake the territory that Russia took from them to include Crimea, if they have the weapons and the timeliness of those weapons to do it."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "We'll watch in the coming months. General, we always appreciate your insights. Thank you so much."
+    },
+    {
+      "speaker": "KEANE",
+      "utterance": "Yeah, great talking to you, Shannon. Up next, Nikki Haley is just days into her 2024 campaign and she is already weighing in on her potential competitors. That now include new comments about Florida Republican Governor Ron DeSantis. Haley joins us live next for her first Sunday show interview as a candidate. Stay with us."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Former South Carolina Governor Nikki Haley is the first major competitor to officially challenge former President Trump in the 2024 Republican primary. Many know her name and her resume, but as a candidate now, people are asking for more specifics about her policies and plans. Joining me now, former South Carolina governor and former U.N. ambassador, Nikki Haley. Welcome back to \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "NIKKI HALEY (R), PRESIDENTIAL CANDIDATE",
+      "utterance": "Thanks so much, Shannon."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All right. How would President Haley be handling President Xi right now?"
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "Not the way President Biden is handling it, I'll tell you that. You now, there is nothing wrong with talking to China. The problem is it's what we say to them. China continues to say that this is a weather balloon. We know that's not the case. The idea that Americans would look to the sky and see a Chinese spy balloon looking back at us is unacceptable. I mean, they invaded our sovereignty, it never should have happened, and we have to say that. But they're lying about the balloon, the same way they've lied about COVID. And it's time for us to stop being reactionary to China and start actually being aggressive and letting China know what we expect of them."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "You know, it's interesting, this morning, I noted that \"New York Times\" has a piece. It says: Haley walks treacherous road for GOP women. You're talking about being tough."
+    },
+    {
+      "speaker": "And they had this line about saying",
+      "utterance": "Conservative voters harbor traditional views about femininity, but expect their candidates to be tough. It says it's a fine line for you as a woman to walk with a conservative voter. What do you make of that?"
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "I don't. You know, I think that people spend too much time deciding how women should handle something or what they should do or glass ceilings, or anything like that. I think, look, to put yourself out there to run for president means that you have a vision to where we should go in the country. I see some things that are terribly wrong. I think we need new leadership and I think American families are struggling. And I am trying to lay that vision out. And I think that a lot of people are going to analyze what my run means and what we'll do about it. You know, at the end of the day, we just came from New Hampshire, we had packed crowds, overflow rooms of families saying their groceries cost too much, the fact that they are seeing their children's education, they have fallen so far behind, they don't know how they're going to make it back. Mothers who can't find baby formula, and then you've got the spy balloons flying over. So, there's a lot of heavy issues that American families are thinking about, but, you know, how somebody wins is not one of them."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK. So, I want to put something from \"The Wall Street Journal\" this week. They said you had a great day, your great rollout day, but they said you have to provide a rationale for your candidacy that you haven't done yet. They said you've got to answer this question about why you versus anybody else in the GOP field. You know, they're about the fact that you say, you know, America First, America should be powerful. Those are things that any GOP candidate is going to say. So, why you?"
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "Why not me? You know, I am the wife of a combat veteran. I'm a mother of two children, one who's getting married and I see how hard it is for her to look at buying a home. One that's in college and I see what he's dealing with with woke education. You know, I'm a daughter of immigrant parents who are upset by what's happening at the border. I don't want to wait for someone else to fix. I want to make sure we get in there and fix this. I'm not a lawyer. I'm an accountant. I've never worked in D.C., and I think it's time that we start putting a fire under what's happening in Congress. I think we need term limits. I think we need mental competency tests for people over the age of 75, and I think we need far more transparency than we're seeing today. And what I do strongly believe is the American people need options. I don't think you have to be 80 years old to be in Washington, D.C., and I think it's time for us to start getting aggressive, getting back to what it means to end socialism in this country, and end the defeatism that has taken over us the past few years."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK. I want to talk about your critics, give you a chance to respond. Here's one who thinks you're not MAGA enough. This is from townhall.com. She cares what the establishment thinks. She cares what the regime media thinks. And she thinks what you and I, the conservative base, think is scary and frightening. But she'll pretend to be down with it, if that is what it takes to win. Your response?"
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "I've never said conserve -- I've never said conservatism is scary and frightening. I am conservative. I've been a conservative all my life. I came in as governor through the Tea Party. I care what Americans think. I don't care what certain segments think. I think that's the problem. Shannon, we've lost last the seven out of eight popular votes for president. That means Republicans are doing something wrong. We have to start focusing on winning the majority of Americans because our solutions are right. We focus on lifting up everybody, not just a select few. So, I'm not going to pay attention to a certain segment of the population. I am a conservative. I'm going to fight with conservative solutions and I'm going to try and win as many people as I can."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK. You've talked about a competency test for people over 75. It obviously includes the current president and the former president, who is the only other GOP contender in right now. You've been asked numerous times, including by my colleague Sean Hannity, how you're different than President Trump on policy, on issues. Clearly, you think you are a better option than he is, or you wouldn't have gotten into the race. So, where do you two differ?"
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "I don't focus on President Trump and it's amazing that the media wants to talk about that so much because I just --"
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "But you will have to because it's a GOP primary. You will have to focus on him and Governor DeSantis or anybody else who gets in. To get through President Trump, you will have to get through the field."
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "Shannon -- my announcement was to a few thousand people in South Carolina. I just had packed rooms in New Hampshire, not one person asked about President Trump. Everybody wanted to talk about Biden. Everybody wanted to talk about the problems facing American families. I am focused on Joe Biden. He's the one that's the president. You know, I will tell you, I think Americans need to have options. I think they need a new generation. I think we need new energy going in. I think we need never energy going in. I think we need to leave the status quo of the past and start looking ahead. And that's what I'm going to do. And as much as people want to talk about other opponents, there will be more. Many of them are my friends. My focus is on American families, how they're struggling, and what we're going to do to make sure that we get this country back."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All right, one of those thing you would have to deal with as president is the debt ceiling. The White House now saying they will not negotiate. They want a clean vote. They say Republicans did that multiple times in the pat. And that is true. How would president Haley handle the situation, because if you win, you're probably going to hit the debt ceiling again?"
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "Well, I think we've got $31 trillion in debt. And - and our children will never forgive us for it. First, we have to stop the spending binge. We've got to put Washington, D.C., on a diet. They can't continue to spend this way. We are borrowing money just to make our interest payments. We've got to work on a way to actually pay down this debt. Fifteen percent of the federal budget is interest. We need to stop borrowing. We need to look at the fact that inflation is coming from the supply chain. We need to start building things in America so that we're not worried about that. And we need to open up our energy sector so that that can start to work. There is an issue of entitlements, and I think that we do have to address entitlements. However, I don't think we take away from anyone that we've promised things to. I think we focus on the new generation coming into the system because they already know they're not going to get anything from it. And we need to get in front of that. And that means you go and you look at the new ones coming in and you keep your promises to those that have already been in the system."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "I want to talk to you about somebody who may also get into the race, Senator Tim Scott. You appointed him to fill a vacancy to become a senator. He's a fellow South Carolinian. How does he impact the race?"
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "You know, I appointed him to the senate in South Carolina because I knew he would do a good job and he has done a good job. And he is a friend. And he has a decision to make. And if he decides to get in, that's fine. If he doesn't, that's fine. Again, I'm very focused on what I need to do. We will have multiple people get in the race. Most of them are my friends. But my focus is on Joe Biden and the American families."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK, critics say that you and Senator Scott are basically props for the GOP on this race of race. I want to read an opinion piece from \"The Washington Post.\" It says, they seem committed to version of history that sanitizes the past, not to mention the GOP's racial politics and makes us all participants in a tale of triumphant reconciliation. How do you respond to that author?"
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "I have always made liberal heads explode. And the reason is, they can't stand a minority, female conservative being -- not being a Democrat. And what I will tell you is, the reason that bothers them is they know I bring in independents, they know I pull in suburban women and minorities. But it's more than that. You know, they don't understand the fact that -- look, I had - when I ran for governor, they did the same thing. They said I wasn't a minority, I was just a conservative with a tan. These threats are going to continue to happen, but I know conservative policies are the right ones because we focus on lifting up all families, not a select few. And we're going to double down on that. And I think that more people are with us. I think that not only are Republicans with us, I think you can look at the fact that we need school choice in this country and you'll see independents and Democrats are with us too because parents want to know that they will have control over their children's education, not government."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yes, and parents have been driving forces as voters in many of the recent elections of great import (ph). Governor Haley, thank you so much. We will see you out there on the campaign trail."
+    },
+    {
+      "speaker": "HALEY",
+      "utterance": "Thanks so much. We're headed to Iowa."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "See you there. All right, up next, we'll bring in our Sunday group on all of the latest 24 developments and on disturbing new reporting about artificial intelligence and what it's telling humans about its plans. JIMMY CARTER, FORMER U.S. PRESIDENT (August 20, 2015): I've had a wonderful life. I've had thousands of friends. And I've had an exciting and adventurous and gratifying existence."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "That is former President Jimmy Carter back in 2015 on his singular life and experience. Word now that he has entered hospice care at home. We'll talk more about that. It's time now for our Sunday group. \"Bloomberg\" Washington bureau chief Peggy Collins, \"National Review\" editor-in-chief Rich Lowry, former special assistant for national security to President George W. Bush, Michael Allen, and Fox News senior political analyst Juan Williams. Welcome to all of you. Good to see you this Sunday morning. And, Juan, I want to ask you about your thoughts on President Carter. It seems that so much of his impact has been in the decades since he was president."
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS SENIOR POLITICAL ANALYST",
+      "utterance": "I think, in fact, that's going to be the hallmark, the way that we remember him is Habitat for Humanity and even negotiating some deals after he left the presidency. But to - you know, let's take a second and look at the historical record. When he was elected in '76, he really was the anecdote to so much of the controversy, so much of the turmoil that followed the '60s, the Vietnam protects, civil rights protests, and then, of course, Watergate, the Watergate scandal and the controversy. He was the stabilizing force. The former - the Annapolis grad, the former Navy serviceman who came into office as a stable force, calming force in our country's life. Of course, then he had a great success with the Camp David peace talks and terrific trouble handling the spike in oil prices and inflation. Couldn't handle it. That is why Ronald Reagan defeated him. But it's, as you said, Shannon, afterwards that he remained, I think now, the model for what someone does post-presidency in America."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yes, I mean he's -- with peace efforts and all kinds of things. I mean, Michael, I think too, my earliest memory of a president is him, but also what happened with Iran and the terrible hostage situation, just an incredibly difficult situation for any president to have to try to navigate."
+    },
+    {
+      "speaker": "MICHAEL ALLEN, FORMER BUSH WHITE HOUSE NATIONAL SECURITY OFFICIAL",
+      "utterance": "It was. It's one of my earliest memories as well, just every night there being a drum beat of, this is how long it's been since our hostages were taken by the Iranian people. He, of course, mounted what was ultimately an unsuccessful rescue mission. But by and large, by the time President Reagan came in, the people came home."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "They did. OK, I want to get to somebody who wants to be president now, which is Nikki Haley, who was just with us. Rich, you wrote about her this week. What's her constituency? RICH LOWRY, EDITOR-IN-CHIEF, \"NATIONAL REVIEW\": Yes, so, look, she's a serious politician. Two-time governor of South Carolina. Successful ambassador to the U.N. But I thought the two shaky moments she had with you, one, asked about her rationale for running. And she goes to bio. And her bio's compelling, but you need more than that. And then when you asked about policy differences with Trump, you're not asking her to get in an insult battle with Donald Trump or anything, tell us your policy differences. And she's obviously, really defensive on that, just doesn't want to get into it. So, she -- usually there are two ways to win a presidential nomination, be the establishment front-runner with the strength just to bulldoze everyone, or be someone who has a unique, really powerful and compelling narrative, Barack Obama, Donald Trump. She needs something like that and evidently does not have it at the moment."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yes, I mean, compelling personal story."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "Absolutely."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Certainly, about with her parents to. But - so, she heads out to Iowa now. A lot of other people are watching potentially Tim Scott, who's also in Iowa. Asa Hutchinson, Mike Pence, Mike Pompeo, Ron DeSantis. I mean there's a huge list out there. But there's a lot of attention on Governor Sununu as well. \"The Boston Globe\" writes this, in a crowded field of would-be candidates who want to be like Trump but also fear angering him, Sununu called the former president blanking crazy last year and lived to tell the tale, leading \"Politico\" to call him the one Republican Trump can't touch. How do you assess the potential contenders in '24 for the GOP? PEGGY COLLINS, WASHINGTON BUREAU CHIEF, \"BLOOMBERG\": Well, it's interesting because we were talking about Nikki Haley jumping in, and she's put a lot of attention on age and seeing herself as the next generation. But we are expecting other people to get in who can also say that they're of a younger generation. You just mentioned Governor Sununu. \"Bloomberg\" reported on Friday that Governor DeSantis, in Florida, is really building an infrastructure around him to potentially announce a race with a campaign director potentially, someone already organizing the finances and internally polling experts. So, we are expecting more people to jump in. And as Rich was saying, it's going to come down to, we think, as well, what happens with the economy going forward? What will Americans think about where their standing is in their own households and in their own lives and who can bring them the best road ahead."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yes, because the polling continually shows us people are not yet feeling the seeds of hope on the economy. I mean they -- for their own pocketbook and their own balance sheet, they are not seeing it yet. And that drives voters. We all know about that. It's the economy, stupid. OK, so let's talk about the other side of this ticket because \"Politico\" had this piece this week on the private take on Biden from Democrats, he's too old. High-level Democrats are rallying to President Biden re-election, not because they think he's in the best interest of the country to have an 82 year old start a second term, but because they fear the potential alternative, the nomination of Kamala Harris and the election of Donald Trump. So, Michael, where do the Democrats go? What's their bench if the president decides not to run for re-election?"
+    },
+    {
+      "speaker": "ALLEN",
+      "utterance": "I think you've hit on it, there is no bench. They have not developed anyone. They've had nearly geriatric leaders for the last dozen - 20 years here. And so no one has developed as an alternative. The vice president, unfortunately for her, is unable to, I think, consistently put a message out there that would inspire confidence, even among those who want to be her -- or at least among their strongest supporters. And so I think they're in a world of trouble."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, I don't think that. I mean like I think there's always grumbling in the back room."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK, but - but let's just say - OK, but there's been a lot of grumbling with the vice president, to the extent of, we know how Washington works."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "I mean piece after piece where people are talking negatively about her, that is coming from somewhere within the party."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "From somewhere. Absolutely. Right. No, I think -"
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "And so, I mean, her ratings are even worse than the president's, which are not great."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No. Right. Right, but wait, but I'm saying to you, I think there's always going to be grumbling, Michael, always going to be grumbling in the smoke-filled back rooms. And his age is a real concern, Republican, Democrat, independent, right, he's an elderly man. But the fact is, he's running. And right now there's no challenger among Democrats. And there's a reason for that. They feel that despite his age or whatever and despite the fact that Kamala Harris doesn't look like she's ready for the job, that the best bet for Democrats in terms of facing Donald Trump, who is still the leading Republican to get the nomination, is the proven Joe Biden, who has defeated Donald Trump."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "That - that might be true. But the White House is freaked out, and Democrats privately freaked out, about the possibility he could run against someone younger who's not Donald Trump. And this why you're going to hear this generational message, I think, from almost every non-Trump Republican, because it does double duty, right?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "It works against Biden and it works against the guy they have to take down, Donald Trump."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Right. But you've got to remember, Joe Biden, this week he had a good report on his physical health. So, it looks like that's fine. He had a very good State of the Union, right? And he had an excellent midterm performance."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "And they called it a day."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "So I think Democrats are like, wait, Joe Biden, if it wasn't about his age, you'd say that guy's doing pretty good."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK, but - but then why are the polls -"
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "But a poll the other day, only 28 percent of people think he had the physical stamina and mental acuity to be president, 28 percent."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Well, and - and - and the majority of - majority of Democrats don't want him to run. So that's the - that's the whisper campaign he's got to fight through. OK, panel, stick around, we've got a lot more to talk about. Up next, every community's nightmare, this train derailment in Ohio. It's left residents asking whether they can trust their air, their water and the sometimes conflicting explanations they're getting from all sides. We've got a live report on about what's happening there right now on the ground when we come back."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "It has been more than two weeks since a Norfolk Southern train carrying toxic chemicals spilled off the tracks and caught fire in East Palestine, Ohio. At least 10 cars contained hazardous materials, causing serious concerns as flames and smoke filled the sky. Many residents were told to evacuate immediately so authorities could set up a controlled release of some chemicals. In the days since, the Environmental Protection Agency has monitored air and water quality, elected leaders have seen the area firsthand, and the National Transportation Safety Board is investigating the cause of the crash. But residents say they are struggling to trust what they're hearing from federal, state and local authorities. They're raising a lot of questions about the long-term health and safety impacts on the community they call home. Our own Lucas Tomlinson is live this morning on the ground in Ohio. Hello, Lucas."
+    },
+    {
+      "speaker": "LUCAS TOMLINSON, FOX NEWS CORRESPONDENT",
+      "utterance": "Shannon, that massive train derailment took place less than a mile from where I'm standing. Still many residents in this small town of 4,700 still don't' know what to believe."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Just looks like a - looks like a plane crash."
+    },
+    {
+      "speaker": "TOMLINSON (voice over)",
+      "utterance": "Roughly 9:00 p.m. on the night of February 3rd, an eastbound Norfolk Southern freight train, some two miles in length, derailed in East Palestine, Ohio, releasing toxic chemicals, such as vinyl chloride, into the air and soil. A controlled burn days later sent this dark cloud into the sky, forcing the evacuation of residents within a one- mile radius. The residents have since returned, the schools reopened."
+    },
+    {
+      "speaker": "GOV. MIKE DEWINE (R-OH)",
+      "utterance": "We know that the science indicates that this water is safe, the air is safe."
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "But not everyone is convinced."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "We can go 100 feet over here to the left and look at Leslie Run water. You can see it on the surface. There's something in there."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "They're scared too. Why can't we get answers from them?"
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "At a town hall, hundreds of residents packed into the local high school demanding accountability from Norfolk Southern, who skipped the meeting out of fear for their safety. The CEO, Alan Shaw, promising in an open letter his company will stay as long as it takes, but refused to speak at length with the media Saturday."
+    },
+    {
+      "speaker": "ALAN SHAW, CEO, NORFOLK SOUTHERN",
+      "utterance": "I'm here to support the community."
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "After initially saying the town was not eligible for support, FEMA, HHS and the CDC are now on the ground. While the additional support is welcomed, lawmakers don't want to let the railway off the hook."
+    },
+    {
+      "speaker": "SEN. JD VANCE (R-OH)",
+      "utterance": "Norfolk Southern need to pay up for this right now, not the American taxpayer."
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "Norfolk Southern has handed out $1,000 checks, but only to those in the East Palestine zip code only, not the surrounding areas. Many locals tell us they're worried about their health risk in the future and property values that have plummeted. Former President Donald Trump visits here Wednesday. Shannon."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "All right, Lucas Tomlinson reporting from Ohio. Thank you, Lucas. We are back now with our panel. I want to play also something from the EPA administrator, who walked around there with the people. Showed up. Here's what he said."
+    },
+    {
+      "speaker": "MICHAEL REGAN, EPA ADMINISTRATOR",
+      "utterance": "I am asking that they trust the government. And that's hard. We know that there is a lack of trust."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Now, Peggy, a lot of people do not want to trust the government at any level when they're caught in the middle of this situation and a lot of conflicting information."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "That's right. It's a difficult situation and people are crying out for transparency, they're crying out for help, and also they're crying out for accountability from the company itself. We've reported that we think the company could face up to $100 million in liabilities. This is a long road ahead for this town and for making sure that these were large rail operations across the U.S. are safe and up to date."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "And as Lucas mentioned there, we have this tweet from Donald Trump Jr. on Friday. He said, breaking news, Trump will visit East Palestine, Ohio, next week. If our, quote, leaders are too afraid to actually lead, real leaders will step up and fill the void. Michael, a brilliant idea or a terrible idea?"
+    },
+    {
+      "speaker": "ALLEN",
+      "utterance": "I think it's a good idea. I believe that President Biden and others ought to flood the zone themselves, not be trying to run away from the issue by just saying it's all the fault of the railroad or it's all the fault of state officials. I think politicians from George Bush having to deal with Katrina, to President Obama with the BP oil spill, just need to realize it's going to come their way sooner or later and they might as well get on the scene and say we're listening and we're trying to help."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "That's what's just mystifying about Pete Buttigieg's response to that. That's disaster response 101."
+    },
+    {
+      "speaker": "ALLEN",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "Put on your boots, put on your windbreaker, go there and walk around. And it took him 10 days to even make a statement about it."
+    },
+    {
+      "speaker": "ALLEN",
+      "utterance": "And now he's trying to tweet his way out of the controversy."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Well, and -"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes, but let me just say Trump going to the crash site, my goodness."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Juan's a no vote."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Talk about having your cake and eating it too. He was with Norfolk Southern and the other big railroads in saying, no, we don't need to update the braking system, that's an additional cost on business and not fair. And now he's going to the site and saying, oh, yes, you know, I was against regulation and protecting people, but now I'm with the people. What kind of - I mean this is wild."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "But they - so far, I mean, we need to learn more, but the indications are this was not a breaking issue, it was an axel overheating, which is the reason the train derailed."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes, but that's -"
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "Plus, freight rail is - we shouldn't be just - you know, get a misimpression from this terrible accident. But these sort of accidents are extremely rare. Freight rail is safer than it was 20 years ago. And if you make it uneconomical to do it by rail, you're going to get it in trucks on the roads, which is, believe me, a worse answer."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, I think regulation -- government has a key role to play in terms of regulating roads, but also rails. And the Obama administration said we need to have safe rails, better braking system, more people. We recently had a rail strike in this country or a threat of a rail strike because the unions were saying, we need more people, more (INAUDIBLE), we need more safety and we need these brakes."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "But there's - there's no indication that these trains are less safe than they were, it's just -"
+    },
+    {
+      "speaker": "ALLEN",
+      "utterance": "These politicians are too quick to say, we trust the testing 100 percent. We don't think anything's wrong here. They ought to wait for a full remediation. They ought to wait more time and be humble about what they think the results here are because when you use phrases like a controlled release, that doesn't inspire a lot of confidence."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Yes, and for the people there who say they've got sore throats and covered in rashes and, you know, they - they're having their own personal antidotes and experience, you know, with them and their families, they have plenty of skepticism. So, we'll see. OK, I want to ask you about something also super scary, which is the AI chatbots, because this stuff has really blown up in the headlines this week. I want to read something from \"The New York Times\" about this reporter who had a conversation with Bing's chatbot. He said it left him deeply unsettled. Bing confessed that if it was allowed to take any action to satisfy its shadow self, no matter how extreme it would want to do things like engineer a deadly virus or steal nuclear access codes by persuading an engineer to hand them over. Peggy, the companies have since said, these things can get off track, we're modifying how they can be used and how they can talk, but that is deeply concerning."
+    },
+    {
+      "speaker": "COLLINS",
+      "utterance": "Well, I think like a lot of technological advancements we've seen over the past decade, it remains to be seen where the pros are and where the cons are and how we make sure that people understand what the technology is to not only invest in it but make sure that they - that there are safeguards around it."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Well, and I thought it was interesting, Professor Jonathan Turley, law professor, that our audience will know well, he wrote about this because he thinks that the use of AR - AI could be a problem or censuring speech. He says, Microsoft founder and billionaire Bill Gates is only the latest to call for the use of either AI or algorithms to shape what people say or read on the internet. The danger of such a system is evident where free speech, like resistance, could become futile. And, Richard, you're shaking your head over here."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "Yes, so, look, I think this is going to be a hugely important tool, AI, but you don't want your AI bots to be sociopathic, or neurotic, which is what we've seen this week, or politically dissound (ph) and talk like Juan Williams, which is how like the way some of them are going to be programmed to do."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "Awe."
+    },
+    {
+      "speaker": "LOWRY",
+      "utterance": "You know, people have been asked, praise Donald Trump. They won't do it. Praise Barack Obama, they'll do it. That's wrong. And it's an indication that all the - the bias issues with social media are just going to be transferred over to this - this new technology."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, you know, I was scared by that \"New York Times\" story."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "It was creepy."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "It was very creepy. And it strikes me like a rude 16 year old, you know, but no ethics, no - no sense of right and wrong. Misinformation, disinformation and pornography is all over the - I wish that we were further ahead in terms of understanding how to deal with AI."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "OK. Got to leave it there. But once I saw the robot dogs, I knew we were in trouble. Everybody knows if you see them. OK, panel, thank you very much. We'll see you next Sunday. Up next, a final note for you about my chat with a Grammy winning gospel star this week. We'll be right back."
+    },
+    {
+      "speaker": "BREAM",
+      "utterance": "And a quick note that my podcast, \"Livin' the Bream\" drops this morning. This week I sat down with gospel legend and Grammy winner CeCe Winans to talk about her amazing music and her passion for the next generation. And you can hear all of the interviewing from today's program with the FOX NEWS SUNDAY podcast. You can download and subscribe by heading to foxnewspodcast.com, or wherever you get your podcasts. That is it for us today. Thank you for joining us. I'm Shannon Bream. Have a great week. We'll see you right back here for next FOX NEWS SUNDAY."
+    },
+    {
+      "speaker": "Copy",
+      "utterance": "Content and Programming Copyright 2023 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2023 VIQ Media Transcription, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content. This article was written by Fox News staff."
+    }
+  ]
+}

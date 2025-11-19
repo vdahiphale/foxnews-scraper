@@ -1,0 +1,3045 @@
+{
+  "date": "August 18, 2019",
+  "headline": "Master guitar maker Paul Reed Smith is also a high-tech guru",
+  "subHeadline": "Guests: Steve Bullock, Anne Gearan, Josh Holmes, Larry Kudlow",
+  "url": "https://www.foxnews.com/transcript/master-guitar-maker-paul-reed-smith-is-also-a-high-tech-guru",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "DANA PERINO, ANCHOR",
+      "sentences": "I'm Dana Perino in for Chris Wallace. President Trump delays tariffs on China amid concerns a drawn-out trade war could hit home.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "sentences": "We're doing this for Christmas season, just in case some of the tariffs would have an impact on U.S. customers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Markets are bouncing back after a plunge but investors are wary as China threatens to retaliate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I never said China was going to be easy, but it's not tough. And they want to make a deal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "We'll discuss the president's move and concerns we are headed for a recession with White House economic advisor Larry Kudlow. Then, Montana governor and Democratic presidential candidate Steve Bullock comes out swinging against the DNC. We'll ask the governor about his uphill climb to make the next debate stage. It's a \"FOX News Sunday\" exclusive.  Plus, new Fox News polls show Senator Elizabeth Warren surging. President Trump is taking notice.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I did the Pocahontas thing and it looked like she was down and out. But that was too long ago, I should have waited, but don't worry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "We'll ask our Sunday panel whether Biden's frontrunner status is in jeopardy. All, right now, on \"Fox News Sunday.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And hello again from Fox News in Washington. There are signs of calm after a turbulent week. President Trump announced he'll delay tariffs on Chinese goods in order to save holiday sales. Now, that's a seeming admission the U.S.-China trade war could hurt U.S. consumers. The Dow plunged 800 points Wednesday but recovered some losses.  Right now, the president is in Bedminster, New Jersey. In a moment, we'll speak live with White House economic adviser Larry Kudlow about reports the White House is trying to reassure key players that the economy is on firm footing.   But first, Kevin Corke is live with is now with the latest -- Kevin.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEVIN CORKE, CORRESPONDENT",
+      "sentences": "Dana, thanks to an inverted yield curve, fears of the dreaded \"R\" word, recession, are sweeping from Wall Street to Main Street. But the White House is doubling down on its economic policies, completely convinced the U.S. economy is not just the best in the world, it's the best bet for American voters in 2020.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "If the week that was on Wall Street earned a letter grade, it would get a V for volatility, with the Dow imitating a roller coaster, sliding 1.5 percent. A reaction, say experts, to a number of factors including the U.S.-China trade dispute, ongoing unrest in Hong Kong and the inverted yield curve, with longer notes like the 10-year offering less than shorter treasuries like the two-year period, even as a 30-year yield fell to an all-time record low.  And while they're all to are signs of optimism, for example, retail sales have jumped 3.4 percent from a year ago, consumer confidence has fallen, 6.4 percent from July.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I will never, ever let you down, that I can tell you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "Undaunted, President Trump took his message of economic evangelism on the road to New Hampshire this week, a key 2020 target for the GOP where unemployment is low and Democratic promises of an economic overhaul have been met with skepticism.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "You have no choice but to vote for me because your 401(k)s, down the tubes, everything is going to be down the tubes. So whether you love me or hate me, you've got to vote for me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "On Friday, the chairman of the Federal Reserve, Jerome Powell will make comments on the economy. Of course, he is a frequent target of the president's ire. They'll give us a chance to measure the impact on the markets and obviously gauge White House reaction as well -- Dana.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "All right. Kevin Corke is reporting live -- Kevin, thank you so much.  And joining me now, White House Economic Adviser Larry Kudlow. Welcome to \"FOX News Sunday,\" Larry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LARRY KUDLOW, WHITE HOUSE ECONOMIC ADVISER",
+      "sentences": "Thank you, Dana. Appreciate it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "So, Larry, there's been a mixed bag of economic numbers this week. We were talking just about it. Kevin showed that the Dow dropped, then it bounced back, retail sales are up, job growth continues, manufacturing is slowing down.  Is the administration considering any new legislative policies or executive action to stave off what some are saying could be a possible coming recession?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "Well, first of all I don't see a recession at all. Second of all, the Trump pro-growth program, which I believe has been succeeding lower tax rates, bid rollback of regulations, energy opening, trade reform, we're going to stay with that. We believe that's the heart of the free enterprise. We want an incentive-oriented supply-side economy, providing opportunities for everybody across the board. And as your report mentioned, look, we have blowout retail sales. Let me just pause there. Consumers, first of all, they're working. The employment numbers are terrific. Second of all, they are working at much higher wages. Third of all, they're spending. And fourth of all, interestingly, they are saving, even while their spending.   That's about as good as it gets and I notice, at the end of the week, a lot of the Wall Street firms have been marking up their economic growth forecasts. I think we're in pretty good shape and I want to just say you know, we should not be afraid of optimism. I don't know what it is, everybody wants to talk about pessimism, recession --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Is that why the president --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "There's no recession on the horizon.  What's wrong with a little optimism, Dana?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "I -- oh, you know me, I'm an optimist.  But I wonder is that why the president called some of the banks on that day on Wednesday when it went down. Is your message from the White House now, there is no recession coming and we're just calling to assure you that we think the economy is on firm footing and no additional measures are needed?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "I don't think additional measures are needed.   Now hang on. I want to talk about the ongoing China negotiations. We'll get to that in a moment, perhaps. We are looking at the USMCA, NAFTA 2.0 trade deal. That would be very important and would add a half a point of GDP and 180,000 new jobs per year if we get that through.  Again on the trade front, a good beef deal with the European Union, and finally, making great progress on Japan with respect to agriculture and various telecommunications. So, those -- those are new initiatives.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes, let me --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "Trade initiatives and we may be doing much better on -- China is a tough one, but we'll get to that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "We will get to China.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "But I'm just saying, that's -- that's the add-on. The add-ons are these potentially pro-growth trade deals with China -- with Japan and the EU and North America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And when you talk about beef and a trade deal with beef, you know me. I'm from Wyoming. I love talking about those kind of a deal -- deals. But I do wonder about an idea that President Trump mentioned late last year that would certainly help a lot of people. This is what he said in 2018. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "sentences": "We're going to be putting in a 10 percent tax cut for middle-income families. It's going to be put in next year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Is that still on the table?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "Well, we're looking at it. Tax cuts 2.0, we are looking at all that. By the way, Senator Rick Scott of Florida, very smart guy, made an interesting idea -- a proposal on another network last week. He said, look, why don't we take the tariffs from the China trade and turn those back to the taxpayers in the form of tax cuts? That's an idea.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "That's an idea, but right now, isn't all that money going to shore up our farmers?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "Well, we've got room to do that as well. I mean, look -- let's have -- let's let people keep more of what they earn.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "I'm for that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "Let's let them keep more of what they invest. That's the supply side of Laffer Curve. We believe in that.  I can't say definitively this morning. All I'm saying is there's a lot of good ideas to create more incentives to work, save and invest.  Look, President Trump is transforming and rebuilding this economy. We've done very well in our first two years, just short of 3 percent, which is kind of a miracle, Dana, because we face severe monetary restraint from the Fed. Seven rate hikes. I think they are reversing that now, but that was tough going. But no, I want an open economic freedom and opportunity economy for entrepreneurs, large businesses, small businesses. And as I said, again, look at the consumer. Consumers are working. The wages are rising. They are spending and they're saving.  A lot of Wall Street firms looked at the numbers last week and they raised their forecast.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "So, you --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "So, no, there is no recession in sight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "You said you wanted to talk about the trade war with China, I do too. It's giving some investors, I would say, heartburn. But China is also taking a hit, recording its slowest GDP in 27 years since 1992.   Here's what White House trade advisor Peter Navarro said this week about that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PETER NAVARRO, WHITE HOUSE TRADE ADVISOR",
+      "sentences": "The end game is clear, to have China stop engaging in these acts of economic aggression that cost us over 70,000 factories.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But China's threshold for pain seems to be pretty high and even President Trump acknowledged this week that tariffs could impact consumers and delay that announcement of additional trade, tariffs. How do you think that this ends? And can you assure us that any deal with China makes it possible for companies to believe that their intellectual and proprietary property won't be taken by them?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "Well, that's a key point right there. That's a very, very key point. We're in a kind of a technological war with China and we cannot let them steal our family jewels, which is the heart of the American economic growth miracle. We're the only economy growing in the rest of the world. Look, on China, the tariffs have hurt them enormously. And as I think you mentioned, you got a bunch of the numbers, stats, coming out of China last week, all of them down. I think the production number was the worst in 17 years. Business investment is falling, retail sales -- China is in some economic trouble.  President Trump is using tariffs in order to put more pressure on the Chinese economy. I think his strategy is, in fact, working. What we did, we gave some relief to big American consumer companies for Christmas because they had already locked in their orders in dollar terms and prices. So, we're going to give them some relief and exclude them, but on December 15th, the 10 percent tariff is likely -- and the rest of $300 billion -- to take place. One other point on China. Look, Kudlow axiom -- better to talk then not talk.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "All right? That's usually the case. So -- so, so -- we had successful teleconference call, Secretary Mnuchin and Ambassador Lighthizer, point number one. Point number two, in that conference call, they agreed with the Chinese team that their deputies will be meeting by teleconference in the next week or ten days. Point -- bullet three, if those deputies meetings pan out, as we hope they will, and we can have a substantive renewal of negotiations, then we are planning to have China come to the USA and meet with our principals to continue the negotiations and the talks. President Trump has said, he's willing to negotiate. He's willing to make a deal. It's got to be the right deal to protect American interests. I've said a million times. The president's goal here, Dana, is very simple. He wants to defend the American economy, and China, which has been stealing intellectual property and forcing technology transfers and cyber hacking, China has got to play by the rules.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "China has got to have lower barriers across the board. No more unlawful practices. Now, this can be done over a period of time if they are willing to do it, we are willing to talk.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Can I ask you --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "As I said, the phone calls last week actually produced a lot more positive news than has been reported in the media. And I'm hopeful --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "-- in the next week --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "A lot of those calls are in private. But let me --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "I beg your pardon?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Well, a lot of those calls are in private. So, I take your word that they go better --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "Right, right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Of course, we're not there listening, but there are a series of ongoing issues on parallel tracks during this trade war. So, the administration's reportedly going to grant another temporary reprieve for Huawei, and the president has walked a very careful line about the protests in Hong Kong. There's a peaceful one, you know, that took place yesterday. And the United States is poised to sell Taiwan $8 billion in fighter jets, so that surely is going to rankle China either further.  And whereas we might be able to separate all of those issues out, do the Chinese?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "Well, yes, the Chinese are very smart. They know quite well. Look, we have to defend the American interests -- not only our economic interests, but our security interests. That's very, very important. With respect to Hong Kong, you had another weekend, hundreds of thousands of people protesting for freedom --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "-- for voting rights, against arbitrary extradition. We are on the side of freedom and democracy. That's President Trump's view. That's what America does. That's part of our idea. We want to help Hong Kong.  The president has said he'd like talk to President Xi about a peaceful and humane solution to the Hong Kong story. Might Hong Kong interfere with the trade deal? Well, I don't really want to get there at this point. All I'll say is, we don't want violence in the United States, we want a humane ending. And if that can happen, of course, that might bolster the trade deal. So, I'll leave that there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Uh-huh.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "But the Chinese know full well that trade, security, Hong Kong, these things are all part of the general landscape. And by the by, we are protecting our consumer companies. You know, they got stuck. They made their deals with China suppliers months ago.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Uh-huh.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "Their supply chains, their prices. So, we've decided to give our companies -- this is just for the United States -- our companies, some extra time, so they won't have to jack up prices. Our goal here is very simple, we want to minimize any impact on the American consumers. So far, it's been virtually zero.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "I just saw a forecast, Professor Niall Ferguson of Harvard and now (inaudible). He resigned. He said, you know --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes, one of my favorites.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "-- China is paying for these tariffs by a ratio of about 4:1. That's what we expect to happen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Larry, I've enjoyed having you. I have one last question. If you get asked to go do a site survey about purchasing Greenland, can I go with you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "Well, maybe I'll run the central bank. Look, it's an interesting story. It's developing. We're looking at it. We don't know. Years ago, Harry Truman wanted to buy Greenland. Denmark owns Greenland. Denmark is an ally. Greenland is a strategic place up there and they've got a lot of valuable minerals. I don't want to predict it now. I'm just saying the president, who knows a thing or two about buying real estate, wants to take a look at a potential Greenland purchase.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And all I'm saying is that if you get asked -- all I'm saying is if you get asked to go and do a site survey, I'd love to accompany you on the trip and do an interview out there. Larry Kudlow, thank you for joining us. Happy Sunday.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "You know, I could make that happen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "OK, thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "I could make that happen. Thank you, Dana. Appreciate it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Bye-bye. And up next, we'll bring in our center group to discuss how shaky markets and the trade impact Republican plans to run on the economy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We're doing this for the Christmas season, just in case some of the tariffs would have an impact on U.S. customers. The tariffs have really bitten into China. They haven't bitten into us at all.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "President Trump this week on his handling of the U.S.-China trade war. And it's time now for our Sunday degree. Jason Chaffetz, former Republican congressman, Juan Williams, Fox News political analyst, Anne Gearan of \"The Washington Post.\" and Senator Mitch McConnell's former Chief of Staff, Josh Holmes. Anne, let's go to you how -- you heard Larry Kudlow just now, he doesn't think there's a recession coming. Is that the general view of people inside the White House?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANNE GEARAN, THE WASHINGTON POST",
+      "sentences": "Well, there's a division of opinion within the White House on the economic signs that really have been coming for a couple of months, but crystallized over the last couple of weeks. The inverted yield curve, which we all now know, a term I think none of us probably --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Four more times of someone expanding it to me. I heard inverted yield curve, and I kept thinking of credit default swaps of '08 but --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "Right, exactly. We all learned what that was back then and we're learning what this is. I mean, basically, it's just an indicator in the bond markets, which are often an early sign.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "We also know that other countries are not going as well. China is not doing as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "Exactly, exactly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And the point is that our economy is OK. But are they considering doing anything? I mean, I brought up that middle-class tax cut. Is that on the table?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "Right. I mean, you invited him to say what the additional steps might be and he responded with a series of existing proposals for trade deals and trade initiatives, and said they are considering a tax cut, but clearly, if they wanted to do that they could have moved on it already. There's -- that's still under consideration. He's right. Our sources tell us that the White House is looking at other ways they can juice the economy a little bit after the stimulus, but the Trump is running out of options to do that. He's really already used most of the things that are within his immediate executive (inaudible)",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "So, Jason, what do Republicans want the president to do in the economy? They wanted him to talk about it a lot leading into 2018. The economy is good in America. Unemployment is down. Wages are rising, especially for the lower level. So, what would Republicans want him to do now, if anything?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JASON CHAFFETZ, CONTRIBUTOR",
+      "sentences": "Well, I think the Republicans in the heartland are actually going after Nancy Pelosi and the Democrats for not passing out --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "The deal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "-- the USMCA. The deal with Mexico and Canada is moving. It is squarely in Nancy Pelosi's camp and I do think Republicans need to turn up the heat o her and say, look, this deal is here, it's ready to go, farmers want it, business interests want it, and it's really in her camp, not Donald Trump's camp. He's done everything he can to reduce regulation, cut taxes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Can they do anything more to put their -- you know, does the president need to put a shoulder behind his deal even more and say we got to get this done?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Oh, yes, yes. They need to ratchet it up. I mean, I've been watching what Joni Ernst and Kim Reynolds in Iowa have been doing. They've been doing it on the ground. Grassley is going around Iowa doing that, but --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But we all know what has to happen from the White House.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "But presidential candidates also need to be asked the question and somehow the media doesn't even ask them that question.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Juan, the president -- Larry Kudlow really wanted to talk about China. And the president's position is to be tough on China, and the Democrats position for a long time has been to be tough on China. So, can they draw a contrast between what the president is doing and what they would dutifully or should even try or just get behind him?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No, I mean, look, I think most Americans, including Democrats, want to confront China on their trade policies. Clearly, what they've done in terms of stealing intellectual property, the uneven playing field for our goods going into China. There's a need for this. But I think Trump's brutish approach is the problem. I mean, it's not just Democrats who say, hey, this guy is inartful. \"The Wall Street Journal\" has said that -- he's attack \"The Wall Street Journal\" at a rally this week. But I think that what you see here is that Trump's unpredictability, Dana, then risk global recession, and you can do that. I mean, clearly, unpredictability is something that really scares Wall Street, because it depresses the likelihood of capital investment, which is necessary for stock growth.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "So, Josh, is unpredictably an asset or a liability for the president, and also for the Democrats? You know, we recover this pretty closely, what is there compelling economic message as a contrast to that -- that President Trump is providing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOSH HOLMES, FORMER CHIEF OF STAFF TO SENATOR MITCH MCCONNELL",
+      "sentences": "Yes, well, I will start with that piece. I don't think they have one. As long as the economy is good, everything that Democrats in the 2020 stage are talking about are fundamentally opposed to where the American people are. I mean, you don't want to restructure an economy that's working for most people. On the first piece, unpredictability, I think the answer is both. It is extremely good for negotiation purposes and they've got China basically confused about how they get out of this because, of course, their economy needs a solution to this as much as ours does. But on the market side of things, if not great, right? You can see markets react to the sort of ongoing lack of clarity about where the off-ramp is to China. So, I think they've got to do that. The other thing, to Jason's point earlier, they have a multifaceted approach to what we are doing. Nancy Pelosi is not going to pass tax cuts for the American people, period, but she might under enough pressure, past something like USMCA, which will have a huge impact on American consumers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "But I think the trade war aspect to this, what I was getting at, is not helping. We are not winning, because, look, the president has had to delay even the tariffs. He firstly says, we're not paying for the tariffs, China is paying. Well, now, he says, I'm delaying the tariffs --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But I think they point --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "-- because, guess what, it's going to drive up consumer costs going into the holiday season. That's not good for Americans economy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Well, Juan, your premise to your initial comments were that everybody agrees that we got to confront China. Confronting China is not just a clean and easy thing to do, you've got to do it multifaceted --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I agree.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And there's also something else. So, I wanted to ask Jason and Anne on thoughts on this. I -- what I heard Larry Kudlow subtly saying to the Chinese is that we don't want to see violence in Hong Kong. We like -- this would -- we need this to be a peaceful resolution. The president said he's willing to sit down. I feel like the United States has been sending a message to China for the protesters saying don't do anything rash.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "No, the president is in a tight -- I think he's picked the perfect path so far, but that is not going away easily. That is not just going to suddenly everybody dispersed. That is a very tough thing. You couple that with selling $8 billion worth of weaponry to Taiwan -- yes, that gets under the skin of the Chinese leadership. But again, Donald Trump is -- I think he's doing the right thing. I think most people in the country think, all right, we're finally holding our own and taking it to the Chinese and putting pressure on them and I think that's a winning position in a political -- we're in right now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "What about, just inside baseball a little bit. So, I think when you read stories about divisions within the White House or different opinions, it can sound exaggerated or a little bit overwritten as having worked in one, I kind of remember that. But how real is it and is it a problem, or does it not matter because the president takes all these different points of view and make his own decision?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "I actually think that China and Hong Kong example is a good one on that. Because I heard Larry Kudlow say something there but the president has not, and it's not so much that it's a division of opinions. Kudlow said we are on the side of freedom and democracy. President Trump has actually not said. The State Department has. Anonymous administration spokespeople have said it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes, why does that have to be on background?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "Thank you. It shouldn't have to be on background. But the president actually hasn't. And he views saying much in support of the demonstrators as potentially weakening his hand in the China negotiations. And a number of people who work for him disagree with that. But they're not going to make a big federal case out of it. But I think that's the level of --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "That's the level of concern on the Hill about that, like human rights and democracy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Well, I mean, I think there's almost universal support for what's happening, with the protesters and Hong Kong. But I think people have differentiated this administration's approach to China with our support for human rights. I think we've been very clear about that, but the issue that we are dealing with on the economic front is incredibly complicated. And I -- there's a whole lot of these -- pieces to this negotiation that we frankly we don't know.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Last quick question for you, will Senator McConnell do a big push on the USMCA and try to get that trade deal done?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "I think all Republicans -- look, I don't speak for them, but I think all Republicans should, including the president. I think everybody at this point really put their shoulder to the wheel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Do you think the Democrats will vote for it, Juan?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes. I mean, look, the problem is, it's not that big a difference. I -- you know, from what previously existed. But just to quickly say her, I think that when it comes to the idea of protection is him and nationalism, on both the economic sign and terms of reaching out and spreading democratic ideals, I don't think it works very well and I think that we are seeing the consequences that kind of protectionism and the threat this week on the global economy, global recession.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "All right. We'll give you the last word on that, last word for Juan. We have to take a break. We'll be right back. When we come back, Montana governor and 2020 candidate Steve Bullock joins me for an exclusive interview after this his week taking on the DNC and a billionaire rival candidate and we don't mean President Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Coming up, a 2020 Democratic presidential candidate slams DNC debate qualifications, saying the party risks letting wealthier candidates buy their way onto the debate stage.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. STEVE BULLOCK, D-MONT., PRESIDENTIAL CANDIDATE",
+      "sentences": "We're getting to the point where we are spending money online as opposed to actually talking to voters.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Montana Governor Steve Bullock joins to discuss right after the break.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "He's the only Democrat presidential candidate who won statewide office in a Trump state in 2016, but that selling point still hasn't launched Montana Governor Steve Bullock into the top tier of the Democratic field, and Bullock is starting to question the DNC approach to this primary. And I have him here with me. Governor Bullock, thank you so much for being here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "It's great to be with you, Dana.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "You have this -- you have this lane all to yourself where you are the only one running that won statewide in 2016 and now, since Governor Hickenlooper decided to get out of the presidential race, you're the only western governor there. But even with those distinctions, you're having a difficult time breaking through. What do you think is going on?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Yes, I mean, I think we're still about six months from voters first --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Twenty-four weeks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Right. Twenty-four weeks?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Yes, and -- and really I did get in a little bit later than everyone, but what I've seen, both on the debate stage and out in the field -- just got back from New Hampshire, was in Iowa before is, people want to make sure that we can win back places we lost, the Michigans, the Wisconsins, the Pennsylvanians. It also governs with the majority Republican legislature. They want government to actually get stuff done. So some run from outside of the city, like I can't just give plans for press releases or just speeches. So someone that has to get things done off of the coasts. I think that I will break through.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "So some describe you as sort of the Biden understudy, more of the moderate that -- and if -- and there is speculative -- what if Biden doesn't go the distance, is that then a lane that you can move into?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Well, and I think that certainly that's the case. I also think, you know, I often say that the word progressive, at the core of that is progress. I've actually been able to make progress on health care, affordable college, investing in education, kicking dark money out of our elections. So I view myself as kind of in the actual get stuff done that actually matters to people's lives lane. And I think that's what we, as Democrats, need to be focused on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "So the RCP average has you, I think, at like 0.5 percent. But -- and then there's this question about what's going on with the DNC and the process. You've been critical of Tom Steyer. He's the billionaire. He's thrown his had in the ring. He's on the cusp of making that September debate. He's spent a lot of money in order to make that happen. Are you frustrated by that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Well, I am -- you know there's -- this week two different poles came out that had me at 2 percent. Still a long way to go. But the thought that you could spend $10 million to get on a debate stage, I don't think that that's really good for democracy. I think well intentioned the Democratic rules were to say, we need to show that we have small donor -- you know and small $1 donors.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Support.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "But what actually happened then, as more and more money gets shifted to FaceBook ads, Google. So anybody that says spending $10 million to get 130,000 donors demonstrates real grass roots support.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But that's not dark money.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Oh, no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Like, you are concerned about dark money.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "No, it's disclosed money, but we should be actually talking to voters, not spending money just trying to get individual donors.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Does it matter to you if you make it to that debate?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "You know, I'd love to be on it. All of your viewers go to SteveBullock.com. I will. But, either way, as you said, 24 weeks. And it's always the early states that start taking big fields a lot smaller. I have something to offer this field that no one else is in. And I think that we've got to focus on both beating Donald Trump, but also make this economy and things work for everyone.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Let's move on to the issues. This week two congresswoman found themselves in the middle of a lot of controversy over their planned visit to Israel. And one of your competitors, Senator Bernie Sanders, tweeted this about this whole controversy. If Israel doesn't want members of the United States Congress to visit their country, maybe they can respectfully decline the billions of dollars we give to Israel. And then Democratic strategist Aaron Kayak said this. The only person who won and got what they wanted was Trump. No one else was happy about it. He goes over the top in attacking them and Israel goes over the top in responding. And then you force even hawkish Democrats to jump to their defense. Are you frustrated, as a Democrat that finds themselves having to constantly respond of questions of taking something that has been a long time bipartisan issue --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Support of Israel, and now the Democrats are on the defense?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Well, I think a unfortunate part is -- and Israel is a trusted ally and has been a good friend, but I think that President Trump politicized this more by tweeting and saying there should be any elected member of Congress should have the ability to go to Israel. And Israel should welcome that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "You know those two congresswomen, they could have gone on the trip the week before. Fifty-one members of Congress went, I think it was 30 Republicans, 20 Democrat. They didn't want to go on that trip.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "And, either way, at the end of the day, Israel ought to be saying that we welcome members of Congress to come to their countries. I mean this is -- look, I don't agree with the things some of those members of Congress have said about Israel. I don't agree with the approach. But that's also, you know, as a trusted ally, we should -- Israel should be allowed to have that sort of dissension in the country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Let me move to immigration. The Trump administration made some news this week, although everything -- the news cycles are so fast --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Because there's a lot of news.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "It felt -- it was just last week, regarding a new rule addressing legal immigrants and welfare benefits. Watch Ken Cuccinelli, at the White House, in one of your competitors, Julian Castro. I'll get your reaction.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEN CUCCINELLI, ACTING USCIS DIRECTOR",
+      "sentences": "Through the Public Charge Rule, President Trump's administration is reinforcing the ideals of self- sufficiency and personal responsibility.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JULIAN CASTRO, D-PRESIDENTIAL CANDIDATE",
+      "sentences": "These are not undocumented. These are legal immigrants that have a visa, basically scaring them from taking part in any kind of government program, even though they're legal and they're paying taxes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Already the state of California has sued the Trump administration over the public -- it's called the Public Charge Rule. And that comes after California had already moved to allow people who are either illegal to get health care benefits. What kind of danger do Democrats face trying to win national elections by taking these positions?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Well, I think there's two different things, one of which -- and I even served with Ken Cuccinelli when he was attorney general. Like putting him in charge of immigration would be like putting Putin in charge of election security, right? This is not the best (inaudible).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "So you -- so you do you disagree with this Public Charge Rule?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "What I disagree with is we're using immigration to essentially divide this country. No, we need to -- like as a Democrat, I am for border security. I'm for figuring out competence of immigration reform. But I do think that this presidency on (ph) immigration to not only rip families apart, but this country apart.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But this particular rule on legal immigrants and trying to bring people here to this country but not having them be dependent on welfare benefits?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Yes. The idea, I think, behind it is to turn around and say that everyone that comes to this country with documentation wants to make sure that they can succeed and live that American dream. So I think this --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "That would probably poll at around 80 percent in the country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "What, living the American dream?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes. Yes. I think --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Well, hopefully, 100 percent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "You sure hope at this point.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But we have some -- we hope so. We have some skeptical. I want to talk about the economy. President Trump has a unique way of recognizing that not everyone loves him. He's at 53 percent approval on the economy. You can see that there. That's in the Gallup poll. His overall approval rating is a little bit lower. Listen to the case he made to voters this week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "You have no choice but to vote for me, because your 401(k), down the tubes. Everything's going to be down the tubes. So whether you love me or hate me, you've got to vote for me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "I mean I sort of -- he's up there. He's in New Hampshire. He only lost that state by 2,700 votes. He wants to win it this time around. What is the compelling Democratic argument --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "That they can keep the economy better -- growing better than he has?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Fewer manufacturing jobs created in Michigan in his first two years then Obama's last two.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "So how would you change that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Farmers have lost $200 million in profits. How would I change it? How I would change what he's doing with this economy is really it's America first has become America alone. When a farmer in (inaudible) says to me, every time the president tweets, we lose hundreds of thousands of dollars. Look, we need to be tough on China, especially when it comes to tech, but what he's doing is on the back of --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Do you think he's not made those farmers whole with, you know, the payments?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Absolutely not. Absolutely -- and I know that farmers in Montana aren't made hole, but they also -- the payments won't matter if ultimately we do leave -- lose market share. I mean for the president to say Japan doesn't even want to buy our wheat. Well, in Montana, we grow that wheat that goes to Japan. What farmers want is to make sure that they have a market. They want trade, they don't want aid.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But what about the possibility of, for you, and we've talked about this a little bit before, Senator Schumer really wants to take back the United States Senate. If you get to a point, we're 24 weeks out to Iowa, that it looks like this is not going to be possible for you, would you consider running and trying to help the Democrats win back the Senate?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "You know, I will do everything I can to get who we nominate for Montana elected. It won't be me. I also think as we are having this discussion, you know, we talk about Colorado and Texas. We should also be talking about states like North Dakota and Indiana and Missouri. Places that we lost last time. So if we really want to make sure that we can be competitive in red states, it might help to have somebody that's actually won in a red or purple state at the top of the ballot. And that's me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "You listen to the interview that we had with Larry Kudlow, the White House economic advisor. I asked if I could go on the site survey with him to go see if they're going to purchase Greenland. I mean is it that wild an idea?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Well, I'm guessing not since the Louisiana Purchase that bought the west. It is a wild idea and for him to say yes we're exploring it. I actually put up a website, isgreenlandforsale.com. Folks can look at it and find out. No, you're not -- you're --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And you know that it's not?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "You're not going to be purchasing Greenland.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "You know, as governor you didn't try to purchase anything in Canada?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "No, and it's -- another one of these things like, where did this come from?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Well, I -- well, Harry Truman. That's where he came from. He had the original idea. All right, Governor Steve Bullock, thanks so much for being here. We appreciate it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BULLOCK",
+      "sentences": "Thanks for having me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "All right, up next, \"The New York Times\" is reporting former President Obama told 2020 presidential hopeful Joe Biden, quote, you don't have to do this. Our panel's reaction, next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Sleepy Joe may be able to limp across the finish line. You've got Pocahontas is rising. I did the Pocahontas thing. I hit her really hard. And it looked like she was down and out. But that was too long ago. I should have waited. But, don't worry, we will revive it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "President from keeping up attacks on Democratic frontrunner Joe Biden and Elizabeth Warren, who is climbing in the polls. And we're back now with the panel. Jason, take a look at this. Or everybody take a look. This is the Fox News poll showing where the races is right now for Democrats, right, Biden still at the top at 31. I learned a new phrase this week I had never heard before, that Democratic strategists who talk to voters who are only concerned about electability, as in who can beat Donald Trump, they call those pundit voters. And electability has never really been a thing that has driven people to like passionately get out there to the polls. But has President Trump change that calculation for Democrats going into 2020?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JASON CHAFFETZ, CONTRIBUTOR",
+      "sentences": "Well, I remember during the Obama years that was the main theme for Republicans, who can actually beat Barack Obama. So I don't think if anything necessarily new. What's interesting is Biden, even in just the last 48 hours, has kind of reached his hand out again to Republicans. But, you know, you're trying to get these very progressive left-wing voters to vote for you. But I tell you, that center of the road, hey, I can get along with everybody, in part I think their strategy is to have a clash of personalities. One that is more -- a little bit more calm, cool, and collective, versus, you know, what Donald Trump represents. But I tell you, people like the fight. They like the energy in Donald Trump. It's contagious.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "I know, when you watch the rally, you can see it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And like their -- once he gets into campaign mode, he's -- that's like a different level of energy. Juan, weigh in here. We talk about Biden and being in that electability lane. But this week that \"New York Times\" story that said that President Obama has said, gosh, Joe, you know, he said, you don't have to do this. You really don't. Are the Obama folks thinking that Joe Biden doesn't have what it takes to take on President Trump?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, POLITICAL ANALYST",
+      "sentences": "Well, I think that's a little bit date (ph). I mean clearly everybody's had doubts about his age, about failed prior attempts to run for president. You know, going back to '16, President Obama clearly made it obvious he liked Hillary Clinton to run for the nomination. You know, Biden's son Beau had just died and the like. But what we've seen recently is that the president has met with Biden campaign aides and offered them advice, especially about social media and the like. He just had lunch with Joe Biden last month. So I think a lot of this boils down to sort of leaks, gossip, you know, news stuff. But it's predicated on something that's interesting to me, Dana. Biden is consistent as the frontrunner because of the black vote. And that's predicated on the idea of his ties and service with Barack Obama, the first black president. So now you get all these stories coming that says, well, is -- is Obama really onboard with Biden? Well, we have Elizabeth Warren pumping up, Bernie Sanders. A lot of people taking shots at the frontrunner, and I think that's what you're seeing here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "What do you know about that, Anne, in terms of the relationship between Obama and Biden's team? Not even about the two men, but even -- sometimes it matters what the teammates think. ANNE GEARAN, \"THE WASHINGTON POST\": Yes, it does -- it does matter. But in this case I really think that it's the relationship between the two men that is more important. That very deeply reported \"New York Times\" piece -- I urge everyone to read it. It's a really thoughtful look at a long relationship that has changed many -- a lot over many years, starting with a mutual distrust and even almost dislike between them when they were primary competitors. And up to now in which the article shows how Obama is on board and has tried to help, has been offering advice, and how his own view shifted from, you don't really have to do this, to being supportive.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Right, like if you're going to do this --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "Right. And the big question now is when -- when will he endorse? Will he endorse --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Think that will be -- I don't think that -- I don't think he will.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "I don't think he will before --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Because he only has one chance to be a kingmaker or a peacemaker, if it comes down to a --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "That -- that's a really good way of putting it. I mean it would -- certainly wouldn't be before Iowa and New Hampshire.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Josh, I have to ask you about Elizabeth Warren. Her numbers are going up but now you start to hear, there's a \"New York Times\" piece, you saw Josh Kraushaar's piece this morning, that Democrats are kind of nervous, like, well, what, what if we do nominate her, then does that actually help President Trump's re-election chances?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOSH HOLMES, FORMER CHIEF OF STAFF TO SENATOR MITCH MCCONNELL",
+      "sentences": "Yes, I mean, I think going back to our last discussion, electability is in the eyes of the beholder, right? I mean electability for Joe Biden is one thing, but electability for a more progressive left is another. And I think the bottom line, the one thing you have to conclude is that the heart of the Democratic primary electorate is not with Joe Biden, it's with Bernie Sanders. But you're starting to see voters, after a couple of debates, start to come --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "And she's super organized.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Start to come to the conclusion that perhaps there's a ceiling for Bernie Sanders. And the one candidate that has the absolute best case to make at taking his economic -- progressive economic agenda forward is Elizabeth Warren. I think she's getting a bump out of it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "What did you want to say, Anne.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "I was going to say that, you know, Bernie Sanders isn't doing as well at this point in the race this year as he did, you know --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "Last time out. So that ceiling --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "But he was -- he was sort of a unicorn --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "Well, the ceiling might be here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "He was a unicorn last time. And the problem for the Democrats is they all rushed and took over Bernie's policies.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GEARAN",
+      "sentences": "And now everybody's (inaudible).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "He's not even a registered Democrat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "I know. In some ways he should have just said, mission accomplished, I got it all done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "I did it. But they've -- they've lurched so far to the left, I don't know how they recover in a general election because they've got these crazy, nutty ideas.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "What about Steve Bullock? We just had Steve Bullock, the governor of Montana, on. Not being able to break through. I said he's at 0.5 percent in the RCP average. He put almost all of his eggs in the Iowa basket. He thinks that will bear some fruit if he can stick it out for a while. What did you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "I think he's an exceptionally nice guy, and I -- with all due respect, I think he's, you know, headed towards -- if the Democrat somehow miraculously won, being like the interior secretary. I don't see him going any further than that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "He -- he has said he won't run for the U.S. Senate. Josh, do you think that Schumer could pressure him?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Well, look, I mean I don't know exactly when the filing deadline is, but that full effort for both parties happens all the way to the very end. You see, you know, folks like Mike Pompeo on the Republican side, people going to work right up until June of 2020 to try to get him in. So I have no doubt that they'll try to do that. The problem is for these presidential candidates, what we've seen recently is it don't really translate well to them going back. You see people start to accumulate these massive liabilities. We -- you know, Hickenlooper is a good example of this. Somebody who could have walked into the Democratic nomination for Senate two months ago, now is going to have a real battle on his hands if he wants that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "After those two debates, probably not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Yes, absolutely.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "What about --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Can I --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Yes, please, go ahead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I just wanted to pop in on -- on the electability thing because I think that you've identified the key issue for Democrats. I don't -- I think Democrats are looking for various lanes and candidates and breakout moments.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But is that a mistake to look for electability?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "But it's all about -- but -- hang on, but it's all about beating Donald Trump. That -- that's the one thing, if you look at the polls, all Democrats buy into. And the question is, how do you do this? And that's why we come to Elizabeth Warren. She may be rising, but can a woman beat Donald Trump? I mean a lot of people are still hurt over what happened with Hillary.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Well, but Hillary Clinton won the -- well, the problem for me with that is when Democrats say a woman can't beat Donald Trump -- Hillary Clinton won the popular vote. She didn't win three key states.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That's right. And who did she lose with? White men, working-class white man in, you know, Michigan, Wisconsin, Pennsylvania. So --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "sentences": "I don't think it's --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "It's not a gender issue.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I wonder. That's what -- that's just the anxiety on the part of Democrats.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "It's an economy -- honestly --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "But I -- I mean her voice -- they'll say, oh, remember, Hillary Clinton's voice is this way. Oh, I don't like the way --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "But that's going to be true -- that's going to be true for -- for any of them. They all know that. Panel, I would love to keep talking to you in the commercial break. We will see you next Sunday. Thank you so much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Up next, our \"Power Player of the Week,\" the master guitar maker turned high-tech guru.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "It's not easy to have fans ranging from world famous musicians to a former chairman of the Joint Chiefs of Staff. As we first saw last April, it takes someone special like our \"Power Player of the Week.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PAUL REED SMITH, FOUNDER, PRS GUITARS AND DIGITAL HARMONIC",
+      "sentences": "I'm rotating parts in my head graphically, like a video game, and the entire thing with digital harmonics is all math, and it was all invented graphically. WALLACE (voice over): Paul Reed Smith is explaining the remarkable work he does in two different worlds, guitars and high tech. He's a big success at both.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "They need a tool to do a job so they can have clarity to make good decisions. It's the same thing. It's a tool to do a job. WALLACE (voice over): Let's start with guitars, because that's where Smith started. PRS is now the third biggest electric guitar manufacturer in the U.S., behind only Fender and Gibson. He showed us one of his top end models.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "I'm not wrecking anything. I'm not wrecking anything. Look how beautiful this is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Oh, my. Oh, my.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "So when it gets it -- it's clear coated, it almost explodes with color. WALLACE (voice over): Smith not only makes them, he plays them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Look, it's art and math mixed and -- and woodworking and spraying and finishing, but, for me, I'm rotating the part in my head. I can see it. WALLACE (voice over): Which brings us to the second part of our story. Almost 20 years ago, Smith and his father, who was a retired Navy mathematician, were working on a synthesizer that turns digital data into sound. They discovered they could make it do a lot more than that, amplifying information you can't hear or see.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "So here's an x-ray that's done with low radiation. It's very, very hazy, all right. And we were able to dig the information out of that file so that doctors can see what's going on in there. And here it is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Because of our math. WALLACE (voice over): Smith set up Digital Harmonic in 2015. It now has almost 100 registered and pending trademarks and almost two dozen patents, and they keep testing its limits.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "For example, we sent up a drone at night, OK, and then we are putting it through the algorithm. Machine learning is deciding what to do with this thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "And you can see detail you just can't see her. The fascinating part for me is, it's in color, it's not in black and white.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, the fascinating thing for me is you can see houses here that you didn't know existed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "The trees and cars and all kinds of things that aren't there. WALLACE (voice over): If you still don't understand how it works, don't worry, neither did I.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "Because it looks at all the numbers and says, oh, that one's higher.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So it's math?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "It's math. It's graphic math. It's almost like tic-tac-toe and chess.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Is it fair to say that the U.S. military and the intelligence community are interested in what you do?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "I think the intelligence community is very interested. WALLACE (voice over): Which brings up one final question.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SMITH",
+      "sentences": "That's not fair. You watching Carlos Santana play on stage, playing a PRS, sorry, that's good. I'm looking at information that I know no one's ever seen before, that's good too. You can't compare the two. That -- both are good. And what's the best interview you ever did? That's not fair.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERINO",
+      "sentences": "Since this story originally aired, Smith has heard from leaders in aerospace, defense, auto manufacturing, and even astronomy, all interested in the technology that he created. And that is it for today. For the latest news, stay with this Fox station and Fox News Channel. You can join me weekdays for \"The Daily Briefing\" at 2:00 p.m. Eastern and on \"The Five\" at 5:00 p.m. Eastern on Fox News Channel. Have a great week, everyone, and Chris will see you next “Fox News Sunday.” Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "Power Player of the Week",
+      "utterance": "Paul Reed Smith explains his remarkable success in two very different worlds. This is a rush transcript from \"Fox News Sunday,\" August 18, 2019. This copy may not be in its final form and may be updated."
+    },
+    {
+      "speaker": "DANA PERINO, ANCHOR",
+      "utterance": "I'm Dana Perino in for Chris Wallace. President Trump delays tariffs on China amid concerns a drawn-out trade war could hit home."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "utterance": "We're doing this for Christmas season, just in case some of the tariffs would have an impact on U.S. customers."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Markets are bouncing back after a plunge but investors are wary as China threatens to retaliate."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I never said China was going to be easy, but it's not tough. And they want to make a deal."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "We'll discuss the president's move and concerns we are headed for a recession with White House economic advisor Larry Kudlow. Then, Montana governor and Democratic presidential candidate Steve Bullock comes out swinging against the DNC. We'll ask the governor about his uphill climb to make the next debate stage. It's a \"FOX News Sunday\" exclusive. Plus, new Fox News polls show Senator Elizabeth Warren surging. President Trump is taking notice."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I did the Pocahontas thing and it looked like she was down and out. But that was too long ago, I should have waited, but don't worry."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "We'll ask our Sunday panel whether Biden's frontrunner status is in jeopardy. All, right now, on \"Fox News Sunday.\""
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And hello again from Fox News in Washington. There are signs of calm after a turbulent week. President Trump announced he'll delay tariffs on Chinese goods in order to save holiday sales. Now, that's a seeming admission the U.S.-China trade war could hurt U.S. consumers. The Dow plunged 800 points Wednesday but recovered some losses. Right now, the president is in Bedminster, New Jersey. In a moment, we'll speak live with White House economic adviser Larry Kudlow about reports the White House is trying to reassure key players that the economy is on firm footing. But first, Kevin Corke is live with is now with the latest -- Kevin."
+    },
+    {
+      "speaker": "KEVIN CORKE, CORRESPONDENT",
+      "utterance": "Dana, thanks to an inverted yield curve, fears of the dreaded \"R\" word, recession, are sweeping from Wall Street to Main Street. But the White House is doubling down on its economic policies, completely convinced the U.S. economy is not just the best in the world, it's the best bet for American voters in 2020."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "If the week that was on Wall Street earned a letter grade, it would get a V for volatility, with the Dow imitating a roller coaster, sliding 1.5 percent. A reaction, say experts, to a number of factors including the U.S.-China trade dispute, ongoing unrest in Hong Kong and the inverted yield curve, with longer notes like the 10-year offering less than shorter treasuries like the two-year period, even as a 30-year yield fell to an all-time record low. And while they're all to are signs of optimism, for example, retail sales have jumped 3.4 percent from a year ago, consumer confidence has fallen, 6.4 percent from July."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I will never, ever let you down, that I can tell you."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "Undaunted, President Trump took his message of economic evangelism on the road to New Hampshire this week, a key 2020 target for the GOP where unemployment is low and Democratic promises of an economic overhaul have been met with skepticism."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "You have no choice but to vote for me because your 401(k)s, down the tubes, everything is going to be down the tubes. So whether you love me or hate me, you've got to vote for me."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "On Friday, the chairman of the Federal Reserve, Jerome Powell will make comments on the economy. Of course, he is a frequent target of the president's ire. They'll give us a chance to measure the impact on the markets and obviously gauge White House reaction as well -- Dana."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "All right. Kevin Corke is reporting live -- Kevin, thank you so much. And joining me now, White House Economic Adviser Larry Kudlow. Welcome to \"FOX News Sunday,\" Larry."
+    },
+    {
+      "speaker": "LARRY KUDLOW, WHITE HOUSE ECONOMIC ADVISER",
+      "utterance": "Thank you, Dana. Appreciate it."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "So, Larry, there's been a mixed bag of economic numbers this week. We were talking just about it. Kevin showed that the Dow dropped, then it bounced back, retail sales are up, job growth continues, manufacturing is slowing down. Is the administration considering any new legislative policies or executive action to stave off what some are saying could be a possible coming recession?"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "Well, first of all I don't see a recession at all. Second of all, the Trump pro-growth program, which I believe has been succeeding lower tax rates, bid rollback of regulations, energy opening, trade reform, we're going to stay with that. We believe that's the heart of the free enterprise. We want an incentive-oriented supply-side economy, providing opportunities for everybody across the board. And as your report mentioned, look, we have blowout retail sales. Let me just pause there. Consumers, first of all, they're working. The employment numbers are terrific. Second of all, they are working at much higher wages. Third of all, they're spending. And fourth of all, interestingly, they are saving, even while their spending. That's about as good as it gets and I notice, at the end of the week, a lot of the Wall Street firms have been marking up their economic growth forecasts. I think we're in pretty good shape and I want to just say you know, we should not be afraid of optimism. I don't know what it is, everybody wants to talk about pessimism, recession --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Is that why the president --"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "There's no recession on the horizon. What's wrong with a little optimism, Dana?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "I -- oh, you know me, I'm an optimist. But I wonder is that why the president called some of the banks on that day on Wednesday when it went down. Is your message from the White House now, there is no recession coming and we're just calling to assure you that we think the economy is on firm footing and no additional measures are needed?"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "I don't think additional measures are needed. Now hang on. I want to talk about the ongoing China negotiations. We'll get to that in a moment, perhaps. We are looking at the USMCA, NAFTA 2.0 trade deal. That would be very important and would add a half a point of GDP and 180,000 new jobs per year if we get that through. Again on the trade front, a good beef deal with the European Union, and finally, making great progress on Japan with respect to agriculture and various telecommunications. So, those -- those are new initiatives."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes, let me --"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "Trade initiatives and we may be doing much better on -- China is a tough one, but we'll get to that."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "We will get to China."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "But I'm just saying, that's -- that's the add-on. The add-ons are these potentially pro-growth trade deals with China -- with Japan and the EU and North America."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And when you talk about beef and a trade deal with beef, you know me. I'm from Wyoming. I love talking about those kind of a deal -- deals. But I do wonder about an idea that President Trump mentioned late last year that would certainly help a lot of people. This is what he said in 2018. Watch."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT",
+      "utterance": "We're going to be putting in a 10 percent tax cut for middle-income families. It's going to be put in next year."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Is that still on the table?"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "Well, we're looking at it. Tax cuts 2.0, we are looking at all that. By the way, Senator Rick Scott of Florida, very smart guy, made an interesting idea -- a proposal on another network last week. He said, look, why don't we take the tariffs from the China trade and turn those back to the taxpayers in the form of tax cuts? That's an idea."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "That's an idea, but right now, isn't all that money going to shore up our farmers?"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "Well, we've got room to do that as well. I mean, look -- let's have -- let's let people keep more of what they earn."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "I'm for that."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "Let's let them keep more of what they invest. That's the supply side of Laffer Curve. We believe in that. I can't say definitively this morning. All I'm saying is there's a lot of good ideas to create more incentives to work, save and invest. Look, President Trump is transforming and rebuilding this economy. We've done very well in our first two years, just short of 3 percent, which is kind of a miracle, Dana, because we face severe monetary restraint from the Fed. Seven rate hikes. I think they are reversing that now, but that was tough going. But no, I want an open economic freedom and opportunity economy for entrepreneurs, large businesses, small businesses. And as I said, again, look at the consumer. Consumers are working. The wages are rising. They are spending and they're saving. A lot of Wall Street firms looked at the numbers last week and they raised their forecast."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "So, you --"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "So, no, there is no recession in sight."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "You said you wanted to talk about the trade war with China, I do too. It's giving some investors, I would say, heartburn. But China is also taking a hit, recording its slowest GDP in 27 years since 1992. Here's what White House trade advisor Peter Navarro said this week about that."
+    },
+    {
+      "speaker": "PETER NAVARRO, WHITE HOUSE TRADE ADVISOR",
+      "utterance": "The end game is clear, to have China stop engaging in these acts of economic aggression that cost us over 70,000 factories."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But China's threshold for pain seems to be pretty high and even President Trump acknowledged this week that tariffs could impact consumers and delay that announcement of additional trade, tariffs. How do you think that this ends? And can you assure us that any deal with China makes it possible for companies to believe that their intellectual and proprietary property won't be taken by them?"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "Well, that's a key point right there. That's a very, very key point. We're in a kind of a technological war with China and we cannot let them steal our family jewels, which is the heart of the American economic growth miracle. We're the only economy growing in the rest of the world. Look, on China, the tariffs have hurt them enormously. And as I think you mentioned, you got a bunch of the numbers, stats, coming out of China last week, all of them down. I think the production number was the worst in 17 years. Business investment is falling, retail sales -- China is in some economic trouble. President Trump is using tariffs in order to put more pressure on the Chinese economy. I think his strategy is, in fact, working. What we did, we gave some relief to big American consumer companies for Christmas because they had already locked in their orders in dollar terms and prices. So, we're going to give them some relief and exclude them, but on December 15th, the 10 percent tariff is likely -- and the rest of $300 billion -- to take place. One other point on China. Look, Kudlow axiom -- better to talk then not talk."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "All right? That's usually the case. So -- so, so -- we had successful teleconference call, Secretary Mnuchin and Ambassador Lighthizer, point number one. Point number two, in that conference call, they agreed with the Chinese team that their deputies will be meeting by teleconference in the next week or ten days. Point -- bullet three, if those deputies meetings pan out, as we hope they will, and we can have a substantive renewal of negotiations, then we are planning to have China come to the USA and meet with our principals to continue the negotiations and the talks. President Trump has said, he's willing to negotiate. He's willing to make a deal. It's got to be the right deal to protect American interests. I've said a million times. The president's goal here, Dana, is very simple. He wants to defend the American economy, and China, which has been stealing intellectual property and forcing technology transfers and cyber hacking, China has got to play by the rules."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "China has got to have lower barriers across the board. No more unlawful practices. Now, this can be done over a period of time if they are willing to do it, we are willing to talk."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Can I ask you --"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "As I said, the phone calls last week actually produced a lot more positive news than has been reported in the media. And I'm hopeful --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "-- in the next week --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "A lot of those calls are in private. But let me --"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "I beg your pardon?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Well, a lot of those calls are in private. So, I take your word that they go better --"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "Right, right."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Of course, we're not there listening, but there are a series of ongoing issues on parallel tracks during this trade war. So, the administration's reportedly going to grant another temporary reprieve for Huawei, and the president has walked a very careful line about the protests in Hong Kong. There's a peaceful one, you know, that took place yesterday. And the United States is poised to sell Taiwan $8 billion in fighter jets, so that surely is going to rankle China either further. And whereas we might be able to separate all of those issues out, do the Chinese?"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "Well, yes, the Chinese are very smart. They know quite well. Look, we have to defend the American interests -- not only our economic interests, but our security interests. That's very, very important. With respect to Hong Kong, you had another weekend, hundreds of thousands of people protesting for freedom --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "-- for voting rights, against arbitrary extradition. We are on the side of freedom and democracy. That's President Trump's view. That's what America does. That's part of our idea. We want to help Hong Kong. The president has said he'd like talk to President Xi about a peaceful and humane solution to the Hong Kong story. Might Hong Kong interfere with the trade deal? Well, I don't really want to get there at this point. All I'll say is, we don't want violence in the United States, we want a humane ending. And if that can happen, of course, that might bolster the trade deal. So, I'll leave that there."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Uh-huh."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "But the Chinese know full well that trade, security, Hong Kong, these things are all part of the general landscape. And by the by, we are protecting our consumer companies. You know, they got stuck. They made their deals with China suppliers months ago."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Uh-huh."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "Their supply chains, their prices. So, we've decided to give our companies -- this is just for the United States -- our companies, some extra time, so they won't have to jack up prices. Our goal here is very simple, we want to minimize any impact on the American consumers. So far, it's been virtually zero."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "I just saw a forecast, Professor Niall Ferguson of Harvard and now (inaudible). He resigned. He said, you know --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes, one of my favorites."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "-- China is paying for these tariffs by a ratio of about 4:1. That's what we expect to happen."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Larry, I've enjoyed having you. I have one last question. If you get asked to go do a site survey about purchasing Greenland, can I go with you?"
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "Well, maybe I'll run the central bank. Look, it's an interesting story. It's developing. We're looking at it. We don't know. Years ago, Harry Truman wanted to buy Greenland. Denmark owns Greenland. Denmark is an ally. Greenland is a strategic place up there and they've got a lot of valuable minerals. I don't want to predict it now. I'm just saying the president, who knows a thing or two about buying real estate, wants to take a look at a potential Greenland purchase."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And all I'm saying is that if you get asked -- all I'm saying is if you get asked to go and do a site survey, I'd love to accompany you on the trip and do an interview out there. Larry Kudlow, thank you for joining us. Happy Sunday."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "You know, I could make that happen."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "OK, thank you."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "I could make that happen. Thank you, Dana. Appreciate it."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Bye-bye. And up next, we'll bring in our center group to discuss how shaky markets and the trade impact Republican plans to run on the economy."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We're doing this for the Christmas season, just in case some of the tariffs would have an impact on U.S. customers. The tariffs have really bitten into China. They haven't bitten into us at all."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "President Trump this week on his handling of the U.S.-China trade war. And it's time now for our Sunday degree. Jason Chaffetz, former Republican congressman, Juan Williams, Fox News political analyst, Anne Gearan of \"The Washington Post.\" and Senator Mitch McConnell's former Chief of Staff, Josh Holmes. Anne, let's go to you how -- you heard Larry Kudlow just now, he doesn't think there's a recession coming. Is that the general view of people inside the White House?"
+    },
+    {
+      "speaker": "ANNE GEARAN, THE WASHINGTON POST",
+      "utterance": "Well, there's a division of opinion within the White House on the economic signs that really have been coming for a couple of months, but crystallized over the last couple of weeks. The inverted yield curve, which we all now know, a term I think none of us probably --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Four more times of someone expanding it to me. I heard inverted yield curve, and I kept thinking of credit default swaps of '08 but --"
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "Right, exactly. We all learned what that was back then and we're learning what this is. I mean, basically, it's just an indicator in the bond markets, which are often an early sign."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "We also know that other countries are not going as well. China is not doing as well."
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "Exactly, exactly."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And the point is that our economy is OK. But are they considering doing anything? I mean, I brought up that middle-class tax cut. Is that on the table?"
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "Right. I mean, you invited him to say what the additional steps might be and he responded with a series of existing proposals for trade deals and trade initiatives, and said they are considering a tax cut, but clearly, if they wanted to do that they could have moved on it already. There's -- that's still under consideration. He's right. Our sources tell us that the White House is looking at other ways they can juice the economy a little bit after the stimulus, but the Trump is running out of options to do that. He's really already used most of the things that are within his immediate executive (inaudible)"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "So, Jason, what do Republicans want the president to do in the economy? They wanted him to talk about it a lot leading into 2018. The economy is good in America. Unemployment is down. Wages are rising, especially for the lower level. So, what would Republicans want him to do now, if anything?"
+    },
+    {
+      "speaker": "JASON CHAFFETZ, CONTRIBUTOR",
+      "utterance": "Well, I think the Republicans in the heartland are actually going after Nancy Pelosi and the Democrats for not passing out --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "The deal."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "-- the USMCA. The deal with Mexico and Canada is moving. It is squarely in Nancy Pelosi's camp and I do think Republicans need to turn up the heat o her and say, look, this deal is here, it's ready to go, farmers want it, business interests want it, and it's really in her camp, not Donald Trump's camp. He's done everything he can to reduce regulation, cut taxes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Can they do anything more to put their -- you know, does the president need to put a shoulder behind his deal even more and say we got to get this done?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Oh, yes, yes. They need to ratchet it up. I mean, I've been watching what Joni Ernst and Kim Reynolds in Iowa have been doing. They've been doing it on the ground. Grassley is going around Iowa doing that, but --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But we all know what has to happen from the White House."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "But presidential candidates also need to be asked the question and somehow the media doesn't even ask them that question."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Juan, the president -- Larry Kudlow really wanted to talk about China. And the president's position is to be tough on China, and the Democrats position for a long time has been to be tough on China. So, can they draw a contrast between what the president is doing and what they would dutifully or should even try or just get behind him?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No, I mean, look, I think most Americans, including Democrats, want to confront China on their trade policies. Clearly, what they've done in terms of stealing intellectual property, the uneven playing field for our goods going into China. There's a need for this. But I think Trump's brutish approach is the problem. I mean, it's not just Democrats who say, hey, this guy is inartful. \"The Wall Street Journal\" has said that -- he's attack \"The Wall Street Journal\" at a rally this week. But I think that what you see here is that Trump's unpredictability, Dana, then risk global recession, and you can do that. I mean, clearly, unpredictability is something that really scares Wall Street, because it depresses the likelihood of capital investment, which is necessary for stock growth."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "So, Josh, is unpredictably an asset or a liability for the president, and also for the Democrats? You know, we recover this pretty closely, what is there compelling economic message as a contrast to that -- that President Trump is providing?"
+    },
+    {
+      "speaker": "JOSH HOLMES, FORMER CHIEF OF STAFF TO SENATOR MITCH MCCONNELL",
+      "utterance": "Yes, well, I will start with that piece. I don't think they have one. As long as the economy is good, everything that Democrats in the 2020 stage are talking about are fundamentally opposed to where the American people are. I mean, you don't want to restructure an economy that's working for most people. On the first piece, unpredictability, I think the answer is both. It is extremely good for negotiation purposes and they've got China basically confused about how they get out of this because, of course, their economy needs a solution to this as much as ours does. But on the market side of things, if not great, right? You can see markets react to the sort of ongoing lack of clarity about where the off-ramp is to China. So, I think they've got to do that. The other thing, to Jason's point earlier, they have a multifaceted approach to what we are doing. Nancy Pelosi is not going to pass tax cuts for the American people, period, but she might under enough pressure, past something like USMCA, which will have a huge impact on American consumers."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "But I think the trade war aspect to this, what I was getting at, is not helping. We are not winning, because, look, the president has had to delay even the tariffs. He firstly says, we're not paying for the tariffs, China is paying. Well, now, he says, I'm delaying the tariffs --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But I think they point --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "-- because, guess what, it's going to drive up consumer costs going into the holiday season. That's not good for Americans economy."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Well, Juan, your premise to your initial comments were that everybody agrees that we got to confront China. Confronting China is not just a clean and easy thing to do, you've got to do it multifaceted --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I agree."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And there's also something else. So, I wanted to ask Jason and Anne on thoughts on this. I -- what I heard Larry Kudlow subtly saying to the Chinese is that we don't want to see violence in Hong Kong. We like -- this would -- we need this to be a peaceful resolution. The president said he's willing to sit down. I feel like the United States has been sending a message to China for the protesters saying don't do anything rash."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "No, the president is in a tight -- I think he's picked the perfect path so far, but that is not going away easily. That is not just going to suddenly everybody dispersed. That is a very tough thing. You couple that with selling $8 billion worth of weaponry to Taiwan -- yes, that gets under the skin of the Chinese leadership. But again, Donald Trump is -- I think he's doing the right thing. I think most people in the country think, all right, we're finally holding our own and taking it to the Chinese and putting pressure on them and I think that's a winning position in a political -- we're in right now."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "What about, just inside baseball a little bit. So, I think when you read stories about divisions within the White House or different opinions, it can sound exaggerated or a little bit overwritten as having worked in one, I kind of remember that. But how real is it and is it a problem, or does it not matter because the president takes all these different points of view and make his own decision?"
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "I actually think that China and Hong Kong example is a good one on that. Because I heard Larry Kudlow say something there but the president has not, and it's not so much that it's a division of opinions. Kudlow said we are on the side of freedom and democracy. President Trump has actually not said. The State Department has. Anonymous administration spokespeople have said it."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes, why does that have to be on background?"
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "Thank you. It shouldn't have to be on background. But the president actually hasn't. And he views saying much in support of the demonstrators as potentially weakening his hand in the China negotiations. And a number of people who work for him disagree with that. But they're not going to make a big federal case out of it. But I think that's the level of --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "That's the level of concern on the Hill about that, like human rights and democracy."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Well, I mean, I think there's almost universal support for what's happening, with the protesters and Hong Kong. But I think people have differentiated this administration's approach to China with our support for human rights. I think we've been very clear about that, but the issue that we are dealing with on the economic front is incredibly complicated. And I -- there's a whole lot of these -- pieces to this negotiation that we frankly we don't know."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Last quick question for you, will Senator McConnell do a big push on the USMCA and try to get that trade deal done?"
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "I think all Republicans -- look, I don't speak for them, but I think all Republicans should, including the president. I think everybody at this point really put their shoulder to the wheel."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Do you think the Democrats will vote for it, Juan?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes. I mean, look, the problem is, it's not that big a difference. I -- you know, from what previously existed. But just to quickly say her, I think that when it comes to the idea of protection is him and nationalism, on both the economic sign and terms of reaching out and spreading democratic ideals, I don't think it works very well and I think that we are seeing the consequences that kind of protectionism and the threat this week on the global economy, global recession."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "All right. We'll give you the last word on that, last word for Juan. We have to take a break. We'll be right back. When we come back, Montana governor and 2020 candidate Steve Bullock joins me for an exclusive interview after this his week taking on the DNC and a billionaire rival candidate and we don't mean President Trump."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Coming up, a 2020 Democratic presidential candidate slams DNC debate qualifications, saying the party risks letting wealthier candidates buy their way onto the debate stage."
+    },
+    {
+      "speaker": "GOV. STEVE BULLOCK, D-MONT., PRESIDENTIAL CANDIDATE",
+      "utterance": "We're getting to the point where we are spending money online as opposed to actually talking to voters."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Montana Governor Steve Bullock joins to discuss right after the break."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "He's the only Democrat presidential candidate who won statewide office in a Trump state in 2016, but that selling point still hasn't launched Montana Governor Steve Bullock into the top tier of the Democratic field, and Bullock is starting to question the DNC approach to this primary. And I have him here with me. Governor Bullock, thank you so much for being here."
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "It's great to be with you, Dana."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "You have this -- you have this lane all to yourself where you are the only one running that won statewide in 2016 and now, since Governor Hickenlooper decided to get out of the presidential race, you're the only western governor there. But even with those distinctions, you're having a difficult time breaking through. What do you think is going on?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Yes, I mean, I think we're still about six months from voters first --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Twenty-four weeks."
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Right. Twenty-four weeks?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Yes, and -- and really I did get in a little bit later than everyone, but what I've seen, both on the debate stage and out in the field -- just got back from New Hampshire, was in Iowa before is, people want to make sure that we can win back places we lost, the Michigans, the Wisconsins, the Pennsylvanians. It also governs with the majority Republican legislature. They want government to actually get stuff done. So some run from outside of the city, like I can't just give plans for press releases or just speeches. So someone that has to get things done off of the coasts. I think that I will break through."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "So some describe you as sort of the Biden understudy, more of the moderate that -- and if -- and there is speculative -- what if Biden doesn't go the distance, is that then a lane that you can move into?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Well, and I think that certainly that's the case. I also think, you know, I often say that the word progressive, at the core of that is progress. I've actually been able to make progress on health care, affordable college, investing in education, kicking dark money out of our elections. So I view myself as kind of in the actual get stuff done that actually matters to people's lives lane. And I think that's what we, as Democrats, need to be focused on."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "So the RCP average has you, I think, at like 0.5 percent. But -- and then there's this question about what's going on with the DNC and the process. You've been critical of Tom Steyer. He's the billionaire. He's thrown his had in the ring. He's on the cusp of making that September debate. He's spent a lot of money in order to make that happen. Are you frustrated by that?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Well, I am -- you know there's -- this week two different poles came out that had me at 2 percent. Still a long way to go. But the thought that you could spend $10 million to get on a debate stage, I don't think that that's really good for democracy. I think well intentioned the Democratic rules were to say, we need to show that we have small donor -- you know and small $1 donors."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Support."
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "But what actually happened then, as more and more money gets shifted to FaceBook ads, Google. So anybody that says spending $10 million to get 130,000 donors demonstrates real grass roots support."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But that's not dark money."
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Oh, no."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Like, you are concerned about dark money."
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "No, it's disclosed money, but we should be actually talking to voters, not spending money just trying to get individual donors."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Does it matter to you if you make it to that debate?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "You know, I'd love to be on it. All of your viewers go to SteveBullock.com. I will. But, either way, as you said, 24 weeks. And it's always the early states that start taking big fields a lot smaller. I have something to offer this field that no one else is in. And I think that we've got to focus on both beating Donald Trump, but also make this economy and things work for everyone."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Let's move on to the issues. This week two congresswoman found themselves in the middle of a lot of controversy over their planned visit to Israel. And one of your competitors, Senator Bernie Sanders, tweeted this about this whole controversy. If Israel doesn't want members of the United States Congress to visit their country, maybe they can respectfully decline the billions of dollars we give to Israel. And then Democratic strategist Aaron Kayak said this. The only person who won and got what they wanted was Trump. No one else was happy about it. He goes over the top in attacking them and Israel goes over the top in responding. And then you force even hawkish Democrats to jump to their defense. Are you frustrated, as a Democrat that finds themselves having to constantly respond of questions of taking something that has been a long time bipartisan issue --"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Support of Israel, and now the Democrats are on the defense?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Well, I think a unfortunate part is -- and Israel is a trusted ally and has been a good friend, but I think that President Trump politicized this more by tweeting and saying there should be any elected member of Congress should have the ability to go to Israel. And Israel should welcome that."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "You know those two congresswomen, they could have gone on the trip the week before. Fifty-one members of Congress went, I think it was 30 Republicans, 20 Democrat. They didn't want to go on that trip."
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "And, either way, at the end of the day, Israel ought to be saying that we welcome members of Congress to come to their countries. I mean this is -- look, I don't agree with the things some of those members of Congress have said about Israel. I don't agree with the approach. But that's also, you know, as a trusted ally, we should -- Israel should be allowed to have that sort of dissension in the country."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Let me move to immigration. The Trump administration made some news this week, although everything -- the news cycles are so fast --"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Because there's a lot of news."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "It felt -- it was just last week, regarding a new rule addressing legal immigrants and welfare benefits. Watch Ken Cuccinelli, at the White House, in one of your competitors, Julian Castro. I'll get your reaction."
+    },
+    {
+      "speaker": "KEN CUCCINELLI, ACTING USCIS DIRECTOR",
+      "utterance": "Through the Public Charge Rule, President Trump's administration is reinforcing the ideals of self- sufficiency and personal responsibility."
+    },
+    {
+      "speaker": "JULIAN CASTRO, D-PRESIDENTIAL CANDIDATE",
+      "utterance": "These are not undocumented. These are legal immigrants that have a visa, basically scaring them from taking part in any kind of government program, even though they're legal and they're paying taxes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Already the state of California has sued the Trump administration over the public -- it's called the Public Charge Rule. And that comes after California had already moved to allow people who are either illegal to get health care benefits. What kind of danger do Democrats face trying to win national elections by taking these positions?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Well, I think there's two different things, one of which -- and I even served with Ken Cuccinelli when he was attorney general. Like putting him in charge of immigration would be like putting Putin in charge of election security, right? This is not the best (inaudible)."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "So you -- so you do you disagree with this Public Charge Rule?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "What I disagree with is we're using immigration to essentially divide this country. No, we need to -- like as a Democrat, I am for border security. I'm for figuring out competence of immigration reform. But I do think that this presidency on (ph) immigration to not only rip families apart, but this country apart."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But this particular rule on legal immigrants and trying to bring people here to this country but not having them be dependent on welfare benefits?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Yes. The idea, I think, behind it is to turn around and say that everyone that comes to this country with documentation wants to make sure that they can succeed and live that American dream. So I think this --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "That would probably poll at around 80 percent in the country."
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "What, living the American dream?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes. Yes. I think --"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Well, hopefully, 100 percent."
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "You sure hope at this point."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But we have some -- we hope so. We have some skeptical. I want to talk about the economy. President Trump has a unique way of recognizing that not everyone loves him. He's at 53 percent approval on the economy. You can see that there. That's in the Gallup poll. His overall approval rating is a little bit lower. Listen to the case he made to voters this week."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "You have no choice but to vote for me, because your 401(k), down the tubes. Everything's going to be down the tubes. So whether you love me or hate me, you've got to vote for me."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "I mean I sort of -- he's up there. He's in New Hampshire. He only lost that state by 2,700 votes. He wants to win it this time around. What is the compelling Democratic argument --"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "That they can keep the economy better -- growing better than he has?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Fewer manufacturing jobs created in Michigan in his first two years then Obama's last two."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "So how would you change that?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Farmers have lost $200 million in profits. How would I change it? How I would change what he's doing with this economy is really it's America first has become America alone. When a farmer in (inaudible) says to me, every time the president tweets, we lose hundreds of thousands of dollars. Look, we need to be tough on China, especially when it comes to tech, but what he's doing is on the back of --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Do you think he's not made those farmers whole with, you know, the payments?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Absolutely not. Absolutely -- and I know that farmers in Montana aren't made hole, but they also -- the payments won't matter if ultimately we do leave -- lose market share. I mean for the president to say Japan doesn't even want to buy our wheat. Well, in Montana, we grow that wheat that goes to Japan. What farmers want is to make sure that they have a market. They want trade, they don't want aid."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But what about the possibility of, for you, and we've talked about this a little bit before, Senator Schumer really wants to take back the United States Senate. If you get to a point, we're 24 weeks out to Iowa, that it looks like this is not going to be possible for you, would you consider running and trying to help the Democrats win back the Senate?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "You know, I will do everything I can to get who we nominate for Montana elected. It won't be me. I also think as we are having this discussion, you know, we talk about Colorado and Texas. We should also be talking about states like North Dakota and Indiana and Missouri. Places that we lost last time. So if we really want to make sure that we can be competitive in red states, it might help to have somebody that's actually won in a red or purple state at the top of the ballot. And that's me."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "You listen to the interview that we had with Larry Kudlow, the White House economic advisor. I asked if I could go on the site survey with him to go see if they're going to purchase Greenland. I mean is it that wild an idea?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Well, I'm guessing not since the Louisiana Purchase that bought the west. It is a wild idea and for him to say yes we're exploring it. I actually put up a website, isgreenlandforsale.com. Folks can look at it and find out. No, you're not -- you're --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And you know that it's not?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "You're not going to be purchasing Greenland."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "You know, as governor you didn't try to purchase anything in Canada?"
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "No, and it's -- another one of these things like, where did this come from?"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Well, I -- well, Harry Truman. That's where he came from. He had the original idea. All right, Governor Steve Bullock, thanks so much for being here. We appreciate it."
+    },
+    {
+      "speaker": "BULLOCK",
+      "utterance": "Thanks for having me."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "All right, up next, \"The New York Times\" is reporting former President Obama told 2020 presidential hopeful Joe Biden, quote, you don't have to do this. Our panel's reaction, next."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Sleepy Joe may be able to limp across the finish line. You've got Pocahontas is rising. I did the Pocahontas thing. I hit her really hard. And it looked like she was down and out. But that was too long ago. I should have waited. But, don't worry, we will revive it."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "President from keeping up attacks on Democratic frontrunner Joe Biden and Elizabeth Warren, who is climbing in the polls. And we're back now with the panel. Jason, take a look at this. Or everybody take a look. This is the Fox News poll showing where the races is right now for Democrats, right, Biden still at the top at 31. I learned a new phrase this week I had never heard before, that Democratic strategists who talk to voters who are only concerned about electability, as in who can beat Donald Trump, they call those pundit voters. And electability has never really been a thing that has driven people to like passionately get out there to the polls. But has President Trump change that calculation for Democrats going into 2020?"
+    },
+    {
+      "speaker": "JASON CHAFFETZ, CONTRIBUTOR",
+      "utterance": "Well, I remember during the Obama years that was the main theme for Republicans, who can actually beat Barack Obama. So I don't think if anything necessarily new. What's interesting is Biden, even in just the last 48 hours, has kind of reached his hand out again to Republicans. But, you know, you're trying to get these very progressive left-wing voters to vote for you. But I tell you, that center of the road, hey, I can get along with everybody, in part I think their strategy is to have a clash of personalities. One that is more -- a little bit more calm, cool, and collective, versus, you know, what Donald Trump represents. But I tell you, people like the fight. They like the energy in Donald Trump. It's contagious."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "I know, when you watch the rally, you can see it."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And like their -- once he gets into campaign mode, he's -- that's like a different level of energy. Juan, weigh in here. We talk about Biden and being in that electability lane. But this week that \"New York Times\" story that said that President Obama has said, gosh, Joe, you know, he said, you don't have to do this. You really don't. Are the Obama folks thinking that Joe Biden doesn't have what it takes to take on President Trump?"
+    },
+    {
+      "speaker": "JUAN WILLIAMS, POLITICAL ANALYST",
+      "utterance": "Well, I think that's a little bit date (ph). I mean clearly everybody's had doubts about his age, about failed prior attempts to run for president. You know, going back to '16, President Obama clearly made it obvious he liked Hillary Clinton to run for the nomination. You know, Biden's son Beau had just died and the like. But what we've seen recently is that the president has met with Biden campaign aides and offered them advice, especially about social media and the like. He just had lunch with Joe Biden last month. So I think a lot of this boils down to sort of leaks, gossip, you know, news stuff. But it's predicated on something that's interesting to me, Dana. Biden is consistent as the frontrunner because of the black vote. And that's predicated on the idea of his ties and service with Barack Obama, the first black president. So now you get all these stories coming that says, well, is -- is Obama really onboard with Biden? Well, we have Elizabeth Warren pumping up, Bernie Sanders. A lot of people taking shots at the frontrunner, and I think that's what you're seeing here."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "What do you know about that, Anne, in terms of the relationship between Obama and Biden's team? Not even about the two men, but even -- sometimes it matters what the teammates think. ANNE GEARAN, \"THE WASHINGTON POST\": Yes, it does -- it does matter. But in this case I really think that it's the relationship between the two men that is more important. That very deeply reported \"New York Times\" piece -- I urge everyone to read it. It's a really thoughtful look at a long relationship that has changed many -- a lot over many years, starting with a mutual distrust and even almost dislike between them when they were primary competitors. And up to now in which the article shows how Obama is on board and has tried to help, has been offering advice, and how his own view shifted from, you don't really have to do this, to being supportive."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Right, like if you're going to do this --"
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "Right. And the big question now is when -- when will he endorse? Will he endorse --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Think that will be -- I don't think that -- I don't think he will."
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "I don't think he will before --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Because he only has one chance to be a kingmaker or a peacemaker, if it comes down to a --"
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "That -- that's a really good way of putting it. I mean it would -- certainly wouldn't be before Iowa and New Hampshire."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Josh, I have to ask you about Elizabeth Warren. Her numbers are going up but now you start to hear, there's a \"New York Times\" piece, you saw Josh Kraushaar's piece this morning, that Democrats are kind of nervous, like, well, what, what if we do nominate her, then does that actually help President Trump's re-election chances?"
+    },
+    {
+      "speaker": "JOSH HOLMES, FORMER CHIEF OF STAFF TO SENATOR MITCH MCCONNELL",
+      "utterance": "Yes, I mean, I think going back to our last discussion, electability is in the eyes of the beholder, right? I mean electability for Joe Biden is one thing, but electability for a more progressive left is another. And I think the bottom line, the one thing you have to conclude is that the heart of the Democratic primary electorate is not with Joe Biden, it's with Bernie Sanders. But you're starting to see voters, after a couple of debates, start to come --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "And she's super organized."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Start to come to the conclusion that perhaps there's a ceiling for Bernie Sanders. And the one candidate that has the absolute best case to make at taking his economic -- progressive economic agenda forward is Elizabeth Warren. I think she's getting a bump out of it."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "What did you want to say, Anne."
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "I was going to say that, you know, Bernie Sanders isn't doing as well at this point in the race this year as he did, you know --"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "Last time out. So that ceiling --"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "But he was -- he was sort of a unicorn --"
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "Well, the ceiling might be here."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "He was a unicorn last time. And the problem for the Democrats is they all rushed and took over Bernie's policies."
+    },
+    {
+      "speaker": "GEARAN",
+      "utterance": "And now everybody's (inaudible)."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "He's not even a registered Democrat."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "I know. In some ways he should have just said, mission accomplished, I got it all done."
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "I did it. But they've -- they've lurched so far to the left, I don't know how they recover in a general election because they've got these crazy, nutty ideas."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "What about Steve Bullock? We just had Steve Bullock, the governor of Montana, on. Not being able to break through. I said he's at 0.5 percent in the RCP average. He put almost all of his eggs in the Iowa basket. He thinks that will bear some fruit if he can stick it out for a while. What did you think?"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "I think he's an exceptionally nice guy, and I -- with all due respect, I think he's, you know, headed towards -- if the Democrat somehow miraculously won, being like the interior secretary. I don't see him going any further than that."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "He -- he has said he won't run for the U.S. Senate. Josh, do you think that Schumer could pressure him?"
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Well, look, I mean I don't know exactly when the filing deadline is, but that full effort for both parties happens all the way to the very end. You see, you know, folks like Mike Pompeo on the Republican side, people going to work right up until June of 2020 to try to get him in. So I have no doubt that they'll try to do that. The problem is for these presidential candidates, what we've seen recently is it don't really translate well to them going back. You see people start to accumulate these massive liabilities. We -- you know, Hickenlooper is a good example of this. Somebody who could have walked into the Democratic nomination for Senate two months ago, now is going to have a real battle on his hands if he wants that."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "After those two debates, probably not."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Yes, absolutely."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "What about --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Can I --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Yes, please, go ahead."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I just wanted to pop in on -- on the electability thing because I think that you've identified the key issue for Democrats. I don't -- I think Democrats are looking for various lanes and candidates and breakout moments."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But is that a mistake to look for electability?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "But it's all about -- but -- hang on, but it's all about beating Donald Trump. That -- that's the one thing, if you look at the polls, all Democrats buy into. And the question is, how do you do this? And that's why we come to Elizabeth Warren. She may be rising, but can a woman beat Donald Trump? I mean a lot of people are still hurt over what happened with Hillary."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Well, but Hillary Clinton won the -- well, the problem for me with that is when Democrats say a woman can't beat Donald Trump -- Hillary Clinton won the popular vote. She didn't win three key states."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That's right. And who did she lose with? White men, working-class white man in, you know, Michigan, Wisconsin, Pennsylvania. So --"
+    },
+    {
+      "speaker": "CHAFFETZ",
+      "utterance": "I don't think it's --"
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "It's not a gender issue."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I wonder. That's what -- that's just the anxiety on the part of Democrats."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "It's an economy -- honestly --"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "But I -- I mean her voice -- they'll say, oh, remember, Hillary Clinton's voice is this way. Oh, I don't like the way --"
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "But that's going to be true -- that's going to be true for -- for any of them. They all know that. Panel, I would love to keep talking to you in the commercial break. We will see you next Sunday. Thank you so much."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Up next, our \"Power Player of the Week,\" the master guitar maker turned high-tech guru."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "It's not easy to have fans ranging from world famous musicians to a former chairman of the Joint Chiefs of Staff. As we first saw last April, it takes someone special like our \"Power Player of the Week.\""
+    },
+    {
+      "speaker": "PAUL REED SMITH, FOUNDER, PRS GUITARS AND DIGITAL HARMONIC",
+      "utterance": "I'm rotating parts in my head graphically, like a video game, and the entire thing with digital harmonics is all math, and it was all invented graphically."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Paul Reed Smith is explaining the remarkable work he does in two different worlds, guitars and high tech. He's a big success at both."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Everyone from Carlos Santana to U.S. special operations command wants your products. Why?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "They need a tool to do a job so they can have clarity to make good decisions. It's the same thing. It's a tool to do a job."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Let's start with guitars, because that's where Smith started. PRS is now the third biggest electric guitar manufacturer in the U.S., behind only Fender and Gibson. He showed us one of his top end models."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Don't wreck your guitar."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "I'm not wrecking anything. I'm not wrecking anything. Look how beautiful this is."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Oh, my. Oh, my."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "So when it gets it -- it's clear coated, it almost explodes with color."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Smith not only makes them, he plays them."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "You're telling me that's mathematics?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Look, it's art and math mixed and -- and woodworking and spraying and finishing, but, for me, I'm rotating the part in my head. I can see it."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Which brings us to the second part of our story. Almost 20 years ago, Smith and his father, who was a retired Navy mathematician, were working on a synthesizer that turns digital data into sound. They discovered they could make it do a lot more than that, amplifying information you can't hear or see."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "So here's an x-ray that's done with low radiation. It's very, very hazy, all right. And we were able to dig the information out of that file so that doctors can see what's going on in there. And here it is."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Now I can see --"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Because of our math."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Smith set up Digital Harmonic in 2015. It now has almost 100 registered and pending trademarks and almost two dozen patents, and they keep testing its limits."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "For example, we sent up a drone at night, OK, and then we are putting it through the algorithm. Machine learning is deciding what to do with this thing."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Whoa."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "And you can see detail you just can't see her. The fascinating part for me is, it's in color, it's not in black and white."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, the fascinating thing for me is you can see houses here that you didn't know existed."
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "The trees and cars and all kinds of things that aren't there."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "If you still don't understand how it works, don't worry, neither did I."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "How can the computer see it?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "Because it looks at all the numbers and says, oh, that one's higher."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So it's math?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "It's math. It's graphic math. It's almost like tic-tac-toe and chess."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Is it fair to say that the U.S. military and the intelligence community are interested in what you do?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "I think the intelligence community is very interested."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Which brings up one final question."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Which is more satisfying for you, the music or the high-tech?"
+    },
+    {
+      "speaker": "SMITH",
+      "utterance": "That's not fair. You watching Carlos Santana play on stage, playing a PRS, sorry, that's good. I'm looking at information that I know no one's ever seen before, that's good too. You can't compare the two. That -- both are good. And what's the best interview you ever did? That's not fair."
+    },
+    {
+      "speaker": "PERINO",
+      "utterance": "Since this story originally aired, Smith has heard from leaders in aerospace, defense, auto manufacturing, and even astronomy, all interested in the technology that he created. And that is it for today. For the latest news, stay with this Fox station and Fox News Channel. You can join me weekdays for \"The Daily Briefing\" at 2:00 p.m. Eastern and on \"The Five\" at 5:00 p.m. Eastern on Fox News Channel. Have a great week, everyone, and Chris will see you next “Fox News Sunday.” Content and Programming Copyright 2017 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2017 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

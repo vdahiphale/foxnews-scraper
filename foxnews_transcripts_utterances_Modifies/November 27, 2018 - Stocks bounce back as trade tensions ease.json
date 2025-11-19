@@ -1,0 +1,1861 @@
+{
+  "date": "November 27, 2018",
+  "headline": "Stocks bounce back as trade tensions ease",
+  "subHeadline": "Guests: Karl Rove, Susan Li, Joe Manchin, Scott Martin, Brad Miller, Lindsey Piegza, Steve Scalise",
+  "url": "https://www.foxnews.com/transcript/stocks-bounce-back-as-trade-tensions-ease",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "NEIL CAVUTO, HOST",
+      "sentences": "All right, well, here is the good news. Shoppers spending. And, man, oh, man, are they spending a lot. Now, the bad news? Maybe not for very long.  Welcome, everybody. I'm Neil Cavuto.  I would like to thank my buddy Charles Payne for filling in while I was out -- a little bit too well, I might point out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Meanwhile, with the president heading into trade talks with China, are these talks getting a little out of control?  We're going to ask House Majority Whip Steve Scalise, who just met with the president. And we have got Fox team coverage with FBN's Susan Li on the retail numbers that Wall Street should be cheering, and John Roberts on the president's tough trade talk that has a lot of investors worrying.  We begin with Susan.   Hey, Susan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SUSAN LI, FOX NEWS CORRESPONDENT",
+      "sentences": "Where have you been, Neil? Welcome back. Americans are spending. They're spending big, a record-breaking Cyber Monday, with spending up 20 percent from last year, and sales close to $8 billion. That's the single biggest day for online spending in history.  And for the first time ever, more than half the shopping was done on mobile, mobile devices.   The best deals of Cyber Monday, according to Adobe Analytics, TVs, a discount of 19 percent, while computers and toys saw price cuts of 17 to 30 percent, respectively. Top products on Cyber Monday, they include Fingerlings. Those are for the kids. LOL Surprise. Little Live Peter Strzok. Laptops from Dell and Apple. LG TVs are very popular and game consoles. Nintendo Switches sold very well. Amazon, which controls over half of the money spent online in the U.S., said that Cyber Monday was the single biggest shopping day in the company's history. Amazon doesn't give us sales numbers. But they did tell us and they did say that they sold millions more items this year than they did last year.  Bestsellers on Amazon, Instant Pot. Yes, they are very, very popular.  Echo Dots as well, which usually is heavily discounted. And DNA test kits.  And fresh numbers, by the way, this afternoon just coming from the National Retail Federation, also confirming the strong sales numbers. Thanksgiving weekend sales jumped 40 percent from last year. And biggest spenders were the older millennials. Older, right? Generation X'ers spending on average over $400.   Now, the average shopper, you and me, spent over $300, $200 of that being holiday gifts for loved ones. And it's not surprising, by the way, that we just got consumer confidence numbers this morning, still hovering at close to 18-year highs in the month of November -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "The DNA test kit, that surprises me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LI",
+      "sentences": "Yes. Does it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "It does.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LI",
+      "sentences": "You need to know where you come from.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "At first, I heard it when you mentioned kids. And I thought, well, that seems right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LI",
+      "sentences": "Same thing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, Susan, thank you very much, Susan Li. All right, the White House is trying to downplay the possibility that all this could end with the escalating trade war with China. John Roberts at the White House with more on that -- John.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOHN ROBERTS, FOX NEWS CHIEF WHITE HOUSE CORRESPONDENT",
+      "sentences": "Neil, good afternoon to. Welcome back, by the way. Where's Charles?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, that's fine.   Oh, oh, good. I guess we cut the feed to you. All right, go ahead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "Boom, there you go.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Boom.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "Hey, we managed to actually have about an hour-long meeting this morning with Larry Kudlow, the president's chief economic adviser, who pointed to December 1, this coming Saturday, as a potential breakthrough in the U.S.-China trade relationship. That's when the president will have dinner with President Xi Jinping of China at the G20 summit in Buenos Aires. President Trump recently had a phone call with Xi that he described as good, and he has reason for optimism that China may be willing to move on some of these big key issues, like intellectual property theft, the forced technology transfer, protective tariffs, as well as ownership of foreign companies in China.   But if there is no movement, the president is ready and willing to put tariffs on another $257 billion worth of goods from China. Here's what Larry Kudlow said at the briefing this afternoon about that. Listen here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LARRY KUDLOW, DIRECTOR, NATIONAL ECONOMIC COUNCIL",
+      "sentences": "The president said there's a good possibility that we can make a deal and he is open to it.  But on the other hand, if these conditions I mentioned a few moments ago are not met and not dealt with, the president has said, look, he's perfectly happy to stand on his tariffs policies.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "Kudlow also said that if it comes down to a tit-for-tat war over tariffs, the U.S. is in a much better position to win that war than China because our economy is strong, whereas the Chinese economy is beginning to run into some trouble. He pointed out that the Shanghai Index is down 20 percent, while our markets are flat. Listen here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KUDLOW",
+      "sentences": "I'm not suggesting that there aren't winners and losers in that game. It's a complicated game. But on the other hand, I think we are in far better shape to whether this than the Chinese are.   You have to ask yourself -- and this is what President Trump has been talking about -- is it free trade, when there's clear evidence of unfair in WTO illegal trading practices by China for several decades? Is that fair?  Is that free? Is it free when intellectual property theft occurs?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROBERTS",
+      "sentences": "In our hour-long meeting with Larry Kudlow, the one word that he kept using, Neil, in talking about the progress of talks in -- between the United States and China over trade was disappointment. It seems that China is completely intransigent about these -- these issues.  But everybody is looking forward to this Saturday as a potential breakthrough moment. But nobody wants to think about the consequences, Neil, if something doesn't shake loose during that meeting on Saturday.   And, really, welcome back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, thank you, my friend, John Roberts at the White House.   As John was pointing out, this is a pivotal issue, not only in Washington, but certainly for the markets. The better things look for trade, the better they look. The worse things look for trade, the worse they look.  It's as simple as that.  So if we get this construct of a deal or even the talk of arranging a deal, would that be enough to keep the markets going one way, up? Stifel chief economist Lindsey Piegza joins us, market watcher Scott Martin, former North Carolina Democratic Congressman Brad Miller.  Lindsey, I'm looking at this and saying the markets always move on whether this trading looks good or bad, bad if it looks bad, good if it looks good.  Is that still the case?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LINDSEY PIEGZA, ECONOMIST",
+      "sentences": "Absolutely.  And this is just going to cause more uncertainty at this point. We have seen the market trade higher when there were starting to be some positive signs of negotiations coming to fruition. And then, of course, the market trading down when we find out that meetings were still -- quote -- \"disappointing\" between the two leaders.  So I do think this is going to continue to perpetuate volatility. Now, we know that the tariffs imposed thus far have had a very minimal impact on the economy as a whole, but more tariffs will have more of an impact on the economy.   And as we expect the economy to begin to lose momentum in 2019, more of this uncertainty, more of this contentious trade environment will compound that weakness, compound that downward pressure on the economy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And that's the threat, right, Scott, I mean, that the president has sort of upped and spread the ante to electronic gadgets and items made in China with a 10 percent tariff on them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCOTT MARTIN, KINGSVIEW ASSET MANAGEMENT",
+      "sentences": "Yes, you run the risk, Neil, of spilling the gambling chips and then having to pick them up when they're spread out everywhere on the table and that's a big mess.  I will tell you what. I mean, after the comments today from Kudlow -- I guess we're on a last- name basis there -- this is turning into a death match. I mean, where is Vince McMahon when you need him? Because China to me is looking to really take this thing as far as they can. And I got to disagree with the notion of who's got more to lose here.  China's economy is already suffering. China's market is already suffering.  Our economy is supposedly in this phenomenal shape, most of which I agree with that. And our market is still flat. So when we take this approach that says, hey, they're the ones that all -- have all this stuff to lose, I'm not so sure if that's correct or a gamble I want to make.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You know, Congressman, I don't know where Democrats or Republicans stand on this, but I know both get very worried when it leads to this type of volatility. What do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRAD MILLER D-N.C., FORMER U.S. CONGRESSMAN",
+      "sentences": "Well, sure. I mean, the volatility of the markets, you mean?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "To everything.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MILLER",
+      "sentences": "Well, I -- yes, sure. Everyone would like everything to be steady and smooth and predictable, so they can plan around it. But life doesn't present us that always. The problems in the economy are not just limited to the trade war. We have got consumers that are now -- household debt is back to what it was pre-crisis. There are a lot of things to worry about in the economy, and not just tariffs and not just holiday sales.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right. There's also government debt, right, which is out of control, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MILLER",
+      "sentences": "That is well down the list for me behind household debt -- as a as a threat to the economy, the household debt and corporate debt, which is also at absurdly high levels.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Go ahead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTIN",
+      "sentences": "Why is that down on the list, though? Because if you think about it, the government doesn't really help the economy. The consumer does. So it's actually a good thing that consumers and corporations are faithful in the future and willing to borrow, willing to reinvest, willing to pay dividends, buy back stock, because they're confident about the future growth of the economy, aren't they?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MILLER",
+      "sentences": "That's the most rose-colored view of what is going on in the economy that I think I have ever heard.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTIN",
+      "sentences": "Reality?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MILLER",
+      "sentences": "Corporations buy back their own debt because they are cashing out.  The corporation, they are borrowing against the future. It manipulates the price of their stock.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTIN",
+      "sentences": "You mean their stock.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MILLER",
+      "sentences": "And a lot of them are paid by stock options. So it's profitable for them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "If we had anyone in Washington, Republican or Democrat, who was serious about getting a handle on their debt, we'd be in a lot better shape, but we're not. But, Lindsey, one of the things I'm worried about is obviously so far consumer sentiment and poll numbers show a huge appetite to buy, buy, buy.  They're buying like crazy, certainly on Cyber Monday, record number, almost $8 billion. So they're inclined right now to maybe lead the way. But I'm wondering if we run into some trade frictions here whether all that stops?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIEGZA",
+      "sentences": "Well, I am concerned about the consumer, because, as we know, the consumer has been levering up, taking on additional debt, as just mentioned, also eating into savings.  And so this puts them on a precarious footing as we go into potentially slower growth next year. And as we look at retail sales, so let's take the holiday spending out of it, and look at the trend of what the consumer has been doing. We have actually seen some very dismal spending reports as of late, August and September, back-to-back months of negative spending. Now, obviously, October rebounded.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, you're with the congressman that things are beginning to sputter a little bit?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIEGZA",
+      "sentences": "Oh, absolutely. Absolutely.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIEGZA",
+      "sentences": "We have seen growth slow. And we do expect it to continue to slow on the heels of a slower consumer, weaker consumer into 2019.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, guys, I want to thank you all. Sorry for the abbreviated time here.  What we do have, though, is a situation where everything's on tenterhooks on -- based on trade, and whether we can get something cobbled together with the Chinese. There's no guarantee of that. And speaking of billions, how about $5 billion for a border wall in the middle of violence along what so far is kind of a wall? The House majority whip, Steve Scalise, on a meeting with the president and what came from that discussion after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, a shutdown over a wall? Don't laugh. House Majority Whip Steve Scalise, just meeting with the president, he will be my guest soon. What are the threats and what's real there? First to Mike Emanuel on Capitol Hill on Senate Majority Leader Mitch McConnell for the time being on what he is saying -- Mike.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS SENIOR POLITICAL CORRESPONDENT",
+      "sentences": "Neil, good afternoon to you. Well, bottom line, part of the government runs out of money a week from Friday. And a serious aspect of that is homeland security. And President Trump and his allies are saying he wants serious funding for the border wall. One idea that being floated is $5 billion for border security over two years. But Senate Democratic Leader Chuck Schumer didn't like that option.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER, D-N.Y., MINORITY LEADER",
+      "sentences": "If there's any shutdown, it's on President Trump's back. First, left to our own devices, the Senate and House could come to an agreement. Second, the Democrats -- the Republicans are in control of the presidency, the House and the Senate. A shutdown is on their back. Stick to the $1.6 billion.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "Schumer also said he's not going to negotiate with the media. Senate Majority Leader Mitch McConnell later came out and said he's trying to work this out with the clock running.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL, R-KY., MAJORITY LEADER",
+      "sentences": "We're trying to get the president the money he would like for the wall. That's part of the year- end funding discussion, which is ongoing. That's one of the many things we have got to wrap up here at the end of the year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EMANUEL",
+      "sentences": "House Republican leaders were just down at the White House for a meeting with President Trump about some of these end-of-the-year issues like government funding and the border wall. No comment from House Speaker Paul Ryan on his way back into the Capitol -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, thank you, my friend, Mike Emanuel. Coming up, the House majority whip, soon to be the House minority whip, the number two Republican in the House, just meeting with the president of the United States on this and a host of other issues. Steve Scalise -- after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, fresh from his meeting with the president of the United States, House Majority Whip Louisiana Congressman Steve Scalise on what came up. What do you think? Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. STEVE SCALISE, R-LA., HOUSE MAJORITY WHIP",
+      "sentences": "Well, Neil, the meeting went very well. Clearly, there's some unfinished business that we're trying to wrap up in these next few weeks. But the president made it very clear that he wants to get border security funded. Obviously, that includes building the wall and all the other things that are involved in keeping our country safe. And, look, I think this president has been very clear how big of a priority is it. And then we agree strongly that this has to get done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right. Well, the two sides are far apart. That is the Democrats, Chuck Schumer, more to the point -- $1.6 billion is it. The president wants five. Ain't going to happen. You say?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, we have already funded $1.5 billion. But President Trump's very clear that $5 billion is the number that needs to be included for this to work. And so these negotiations are ongoing.  But, again, President Trump's made it very clear.  And I think if you see with this caravan, where you have people not trying to come in the legal way, but literally trying to attack our law enforcement personnel at the border, that border security is a top priority of keeping America safe. And I'm glad that President Trump continues to make sure that this is going to be addressed, and it will be.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right. Now, so you're convinced that this will happen. Would you risk a government shutdown to make it happen?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, I guess that's a question Chuck Schumer is going to have to ask. He was in that boat a few years ago, and it didn't work well for Chuck Schumer during the Schumer shutdown. But, ultimately, there's an opportunity for an agreement to be reached here. And it's all about border security, and $5 billion is the number.  And so we...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And where would you get the $5 billion then to offset the deficit getting in even deeper?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, we're negotiating that right now. And, again, the negotiations are ongoing. Both sides are going to have to figure this out. But President Trump's been very clear how this is going to end. It's going to end with $5 billion being put in place, not taking money away from ICE or other agencies that are vital to homeland security, but new money to ensure that we have border security, including the wall, so that we can keep America safe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But you don't think there will be a government shutdown?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, whether or not there is one, we have made sure that our troops are going to be funded. About 70 percent of all of government has already been funded for the entire fiscal year properly through the normal appropriations process. So now we're talking about primarily the Homeland Security agency, which is critically important. But, again, this is where border security happens.  And this is where the $5 billion is going to have to come into play.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Congressman, let me ask you. The president has also warned GM over these surprising job cuts, 15,000 of them, that the company might have to lose its subsidies, first granted in the government rescue. Do you support that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, first of all, I didn't support the government bailout.  But, at the same time, I think President Trump is being very vocal in standing up for American jobs. And if GM is going to close plants because there was one product line that wasn't selling well, what he's asking is, go find a different product line. Obviously, they're going to build a new line of cars to replace the sedans that aren't selling.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But they largely blamed -- Mary Barra largely blamed the trade tariffs for that, and that it's making its business much pricier and tougher. You don't buy that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, we are getting agreements. And Mexico and Canada is almost fully signed. But there is an agreement between Mexico and Canada that's going end some of the tariffs that were going on there. Clearly, China -- the whole world recognizes that China has to stop cheating and stealing intellectual property and dumping products. And so the world's going to recognize that China's got to play by everybody else's rules. But, in the meantime, President Trump was able to negotiate with Canada and Mexico on a new agreement that will be coming to Congress soon, and at least that's going to address some of the tariff problems.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But, Congressman, wouldn't we want a GM being more scrupulous about its bottom line, and the fat and happy days when it didn't do that, and it went to bankruptcy, that we want it to be moving ahead of the curve on problems that could -- that could result in tens of thousands of more people getting laid off?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, if there wasn't an ability for them to be competitive, that's one thing. But with the tax cut bill we just passed -- and, as you know, we had the highest corporate tax rate in the world. So America was one of the worst places to do business. And we fixed that with the dramatic tax cuts that are now bringing jobs back to this country. So if it's about tariffs, there are trade deals that are being agreed to, including Mexico and Canada that just got finalized. So let's go and let the trade deals play out. But if you're going to make a long-term decision on where to build your next line of cars, America is now the best place to do business again. It wasn't just a few years ago, because we had the highest corporate rate in the industrialized world. So that's been resolved. That excuse no longer exists.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, let me ask you about the China talks. And, of course, the president will address this with Xi Jinping when he is in Argentina this weekend for the G20 summit. But he held out the possibility, or at least Larry Kudlow, his top economic adviser, held out the possibility that the two sides could maybe cobble something together.  But he wasn't optimistic. And then the president upping the ante, as you know, sir, by talking about raising tariffs 25 percent, then going beyond the next year to 10 percent tariffs, for example, on laptops and the like that are made in China. Do you fear this is getting out of control?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well you have seen countries taking advantage of America for a long time. Again, that finally got addressed with Canada and with Mexico and the disparities that we saw at least finally be brought to the table there.  China has not been pushed to those limits. They have known that they can take advantage of America and a lot of our other allies around the world. And so, frankly, if you see the United States economy saying, we have open doors to everybody, but there are countries that are closing their doors to us, China is one of them, it's time for you to treat us as fair as we treat you. And if not, there's going to be consequences. I don't think China wants to lose out on the American economy. And I think you're going to see them -- once they realize that we're serious about this, you're going to see them come to better terms and treat America fairly. That's all that is being asked for.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But what if they don't? What if they don't, and we have extended this, Congressman, to, as I say, laptops and other things made in China? It just seems to go up up, up, up, up, you know?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Yes. And, look, none of us want to see that. I surely don't want to see it.  But I also don't want to see countries taking us -- taking advantage of the United States. China has been one of the worst at taking advantage of the United States. Let's finally confront that problem. If you treat us fairly, we're going to have open doors. What's wrong with that? And if they're not willing to do that, then what do they really want to achieve?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But isn't it weird that where -- the states that would benefit most from fair or freer trade, especially in the Rust Belt, where the states handed Republicans some unexpected losses that really stacked up, are you afraid this is a political loser?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, you're assuming that these negotiations aren't going to be successful. And you have seen in so many of the other negotiations, including on very high-stakes negotiations with countries like North Korea, who many presidents walked away from trying to negotiate a denuclearization, President Trump stood up and said, look, we're not going to take this anymore. We're going to actually bring North Korea to the table. They have not only stopped the missile tests. They have also agreed to some other concessions to the United States, including bringing back remains of a lot of our -- of our troops that were killed in North Korea, that now we finally are getting some of those remains back, which is a huge relief to the families. Other presidents failed to deliver that. President Trump talked tough, but the tough talk actually delivered results for the American people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But it didn't deliver a lot of votes for Republicans, not that you should get knee-deep in that. But are you worried that these trade issues just keep boomeranging on you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, again, I don't think anybody wants to see a protracted trade war.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "But, at the same time, do they want to just say, OK, we're just going to take it and let other countries keep taking advantage of us because we're not willing to stand up for ourselves? So if we saw this being successful in Mexico and in Canada, shouldn't at some point people give the president the benefit of the doubt and say, you know, he's actually negotiated some good deals for this country on a number of fronts, both in economic terms on trade and on military and diplomatic terms with countries like North Korea?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right. Soon, you will be in the position from House majority whip to House minority whip, which raises you to the number two Republican in the House. Your Democratic counterparts, upon taking over, sir, have indicated that they want to look into the president's ties with Saudi Arabia to explain his ignoring the CIA and pointing the finger at the crown prince. And I'm wondering whether you think that would be productive, or whether Republicans should go along with that. Some Republicans have raised similar concern, that the president is a little too smitten by the royal family.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Oh, well, you saw Democrats with this infatuation with Russia for the last two years. The American people were looking at that saying, OK, there was no collusion there. They implied all these other things. What's their next country going to be? At some point, the Democrats are going to have to produce on the things that matter to American families in terms of the economy. What are they going to do for the issues that affect people's paychecks? And that's...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But does that trump dealing with the Saudi situation? Do you take them at face value and the president at face value, that he just doesn't believe what he's heard, and he will continue doing business with the Saudis?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Well, Neil, we don't know the negotiations that are going on behind the scenes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "And, clearly, Secretary of State Pompeo is in intense negotiations. This is a very delicate situation. And I think we all ought to be very concerned about the allegations made against the Saudi Arabian government and what kind of involvement they had in this execution. But, at the same time, there are those diplomatic discussions going on that we're not privy to. But we're going to see how this thing plays out. This is still very early in these stages. Saudi would need to be held accountable if they were responsible. And there are a lot of talks going on right now to determine what the next steps are.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Congressman, you have also been busy on a book tour for \"Back in the Game: One Gunman, Countless Heroes, and the Fight for My Life.\" Now, one of the things that has come up is, obviously, you step back and see what's important in life and what is not. Recently, you were asked by The Washington Examiner about whether you have taken it upon yourself or could take it upon himself to forgive the gunman who tried to kill you. And you said: \"At some point, I'm going to have to deal with the issue of forgiveness, but, for now, I'm focused on my recovery. It's something I struggle with. I'm Catholic. I'm probably not there yet. That's something I'm going to have to work with my priest on.\" Do you still feel that way?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Yes, you know, Neil, look, this is a personal issue. I mean, as a Catholic, I believe in forgiveness. No one's asked me for forgiveness. Obviously, he can't. But, at the same time, I still have a lot of work to do in my recovery.  And it takes a lot of energy to resolve an issue like this. I mean, at some point, I know I will have to deal with that. And I'm admitting. I mean, this is -- this is one of those flaws that I -- that I'm going to have to grapple with, as a Catholic. But, hopefully, I get it resolved working with my priest and working to make sure that I can finally get to a place where I deal with that the proper way. I'm not there yet. I admit that. But, at some point, I will confront it.  I'm not saying I'm never going to forgive. But I have other things that are much bigger right in front of me right now, like getting better. And I need to put all of my energy into that. There will be a time to deal with forgiveness. And I hope I can be the bigger man. And that's where my faith and the people that I'm going to rely on will come in.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Congressman Scalise, thank you very much. Good seeing you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SCALISE",
+      "sentences": "Thanks a lot, Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, Congressman Scalise will be in a minority role, the number two Republican in the House. And the Senate, of course, will be safely Republican, and Republicans hope to grab another seat to make it a 53-47 Senate. But that depends on what happens in Mississippi when all the ballots are counted. And we will take a look after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "The bipartisan push to protect Robert Mueller. How does Joe Manchin feel about the effort to enshrine that and make it happen? We will ask him on \"Your World\" after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "It has been a very long time since a Democrat won in Mississippi.  Try 1982. Democrat Mike Espy is fighting to unseat the Republican incumbent, Cindy Hyde-Smith, in what has been normally considered a deeply red state. It might remain that way, but no way of telling. Peter Doocy is in Jackson, Mississippi, with the latest -- Peter.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS CORRESPONDENT",
+      "sentences": "Neil, the Democrat Mike Espy says he knows he's the underdog. But he's been spending the three weeks of this runoff campaign trying to put together a coalition of Democrats, combined with voters who might still have questions about the controversy surrounding Republican Senator Cindy Hyde-Smith and recently unearthed jokes that she made about public hanging and disenfranchising voters.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE ESPY, D-MISS., SENATORIAL CANDIDATE",
+      "sentences": "If only African- Americans come out for me and even if they come out in record numbers, I won't win. I know that. And I have known that all the time. And I have known that throughout my career. So we have to have a good number of crossovers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Mike Espy had help here from Cory Booker and Kamala Harris. But Cindy Hyde-Smith just had President Trump come twice in one day to talk about keeping the majority comfortable.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "sentences": "Together, we have made unbelievable progress, and we are just getting started. But we need every last Republican vote in the U.S. Senate. We need 53. We want to get to that 53 number.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOOCY",
+      "sentences": "Senator Lindsey Graham actually just told our crew up at the Capitol that Cindy Hyde-Smith, if she wins the next two years of this Thad Cochran term, would help Republicans put through criminal justice reform something he doesn't think that she would be eager to do, if she was a racist, as portrayed by some in this race -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, Peter, thank you very, very much. And then there's the presidential race to consider. Never too early to consider that, and what could be upwards of a couple of dozen Democrats vying to be their party's presidential nominee, including the guy who lost to Ted Cruz, but who has all of a sudden become a rock star with presidential ambitions of his own? Remember him? After this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, Texas Democrat Beto O'Rourke is now seriously considering a 2020 presidential run, while Michael Bloomberg, we're told, is going to be visiting Iowa. That's a crowded field already, where upwards of two dozen Democrats, two dozen, could be seriously entertaining a White House run. Karl Rove is here with the implications of all of that. Karl, in a crowded field, who benefits?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARL ROVE, FORMER SENIOR ADVISER TO PRESIDENT GEORGE W. BUSH",
+      "sentences": "Whoever breaks out of the pack and grabs the public attention. But it's going to be hard to do with two dozen competitors with big geographical bases. Think about it. We have got Democrats coming from California and Texas, New York, big states with a big blocks of delegates.  So we're going to have a spirited, confused, long and always exciting contest for the Democratic nomination.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "It was a crowded field that Donald Trump weighed into. What proved the trick for him that may be a Democrat, oddly enough, could learn from?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Well, Trump represented what Republicans wanted to see done by their candidate, which is to reach down, pick up a giant brick and throw it through a plate-glass window. They were so angry at President Obama, that they wanted somebody who would crystallize that antagonism towards the political establishment in Washington and the political elites that they thought looked down upon them. And he did it. And in order to do that, he had to take out people one by one by one through a long series of debates and contests, and did so within about five months. From the beginning of the primary season until May was just about five months. So, each contest is different. This one's not going to be the same as the last one, and there's no model that Trump provided that is going to be available automatically to somebody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "But you got to stand out somehow, some way, some form.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "What about the positioning of the primaries themselves, Karl? If California front-loads, you could make the argument that helps, let's say, a Kamala Harris, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Yes, you could. But there are two ways of looking at it. We're going to have Iowa and New Hampshire beforehand. So does somebody come out of those two and go to California and get and run straight up against Kamala Harris in Northern California, and Eric Garcetti, the mayor of Los Angeles, in Southern California? Or do they come out of the early primary states, the traditional states of Iowa, New Hampshire, and so forth, and go roaring into California with a head of steam and grab a bunch of delegates that might otherwise go to a favorite son? And then we have got the likelihood of a -- by moving that big bloc of delegates early, what we may be doing is, we may be guaranteeing that we have our first Democratic Convention since, well, I don't know, 1960, 1956, 1952 that is really undecided by the time you go into the convention. The Democrats have rules that are more proportional than Republicans. And while the power of the superdelegates was removed on the first ballot, they get to -- if there's nobody chosen on the first ballot, they get to start voting on the second ballot. That could make for a really exciting influence that could swing the convention one way or the other starting on the second ballot.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Maybe it's the post-Barack Obama phenomena for Democrats, but if you're young, I get a sense that they don't want to waste a moment. And maybe that can be a call for Beto O'Rourke to run, just a congressman, but made a valiant effort in Texas, and had a lot of outside money and interest in his candidacy. What do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Well, Robert Francis O'Rourke was a phenom. Let's see if it can translate to the national stage. He had the advantage in the -- in Texas of not having a primary.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "But he will face a spirited primary, and he's going to have to prove his chops. And, again, each election tends to be a reaction to the previous one, not exactly sort of a furtherance of it. So the idea of the outsider with no appreciable record, that may have worked into 2016. I'm not certain that's going to necessarily work in 2020. One of the interesting tests is going to be whether he attempts to take his nickname, Beto, to the national stage, or whether he runs more prosaically as Robert Francis O'Rourke.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "I don't think he goes with Robert Francis, but I...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Yes, don't think so either.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Yes, that would be a tough one. But let me get your take on the president and his dilemma. Obviously, in a lot of the Rust Belt states, those that were vulnerable to trade and obviously tight races, there's a concern that the president would have a tough time repeating the electoral map that won him the White House in 2016. Do you agree with that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Well, I think -- I think it is going to be difficult, not insurmountable. Obviously, he broke the odds once before. But most presidents tend to consolidate their base. Remember, on Election Day in the Fox exit polls, 37 percent of the electorate said they liked the president personally and they liked his policies, and he represented change. And they were voting for him enthusiastically. Nine percent say, I may like some of your policies. But I really don't like you personally. And I don't think you have the temperament and experience to be president. I rate you unfavorably. But I'm still going to vote for you because you aren't her. So the question next time is going to be, first and foremost, do the Democrats nominate somebody who's as bad as Hillary Clinton? And, second of all, what does the president do to keep this change mantle that he had and moved so strongly in his favor in 2016? What does he do to keep that change mantle in hand in order to win in 2020? Remember, if you -- if you thought the country was going in the right direction, which is about 35 percent of the electorate, you voted for her by almost 90 to less than 10. But everybody else, the two-thirds that thought we were going in the wrong direction, they voted for him enough to give him 46 percent of the vote.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, Karl, always good. Thank you, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Thank you, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, Karl. Nancy Pelosi not giving up on her quest to become the next speaker of the House. Who she is wooing and winning -- after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, you're looking live at Capitol Hill right now. That's a pretty shot, isn't it? A crucial vote for Nancy Pelosi and leaders tomorrow. The Federalist's Mollie Hemingway on what's at stake and maybe who's up for grabs. How does it look, Mollie?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MOLLIE HEMINGWAY, THE FEDERALIST",
+      "sentences": "Well, when you think about the campaign, you had so many people saying in the 2018 elections that they wouldn't vote for Nancy Pelosi. You had people on the left saying that, and also people on the right in the Democratic Party saying that they really thought it was time for Democrats to have new leadership. Once they took the House, things got a lot more complicated, in that there isn't a clear person that everyone can rally behind who is different than Nancy Pelosi. She's consolidating her power. And she should be able to eke this out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "She needs 218 votes, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HEMINGWAY",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right. So, these other challengers that was supposed to emerge -- Congresswoman Fudge backed out when she was promised, I guess, a key committee assignment. Do you know of anyone else who is interested? Because, what, there are 17 or 18 who had announced publicly there was no way in heck they were going to support her as their leader. What do they do?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HEMINGWAY",
+      "sentences": "Lots of people were interested, but it's very dangerous to actually get too far out in support or into campaigning...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HEMINGWAY",
+      "sentences": "... because then that means that you have less leverage. I think, in general, this should be viewed as, obviously, this is a time where Democrats are thinking strongly about changing their leadership and their leadership style, but probably not at this moment. So perhaps Nancy is able to -- Ms. -- Representative Pelosi is able to eke out this victory, but then transition into a new phase of leadership. The Democratic Party is really struggling right now with its own identity.  You have -- you saw in the 2018 elections that the big victories came from more moderate figures and not the more progressive figures that were championed by Hollywood and other leftist groups, like Beto O'Rourke and other people of that nature. But this is going to be a big challenge in the year -- in the two years to come. Do you want to lean into the progressive mode that gets so many people excited, or do you want to go with what seems to be working for Democrats, which is a more moderate coalition?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Wow. Just confusing. All right, thank you, Mollie, very, very much, Mollie Hemingway. Well, the president is eying bipartisan support for a border wall event.  And the West Virginia Democratic Senator Manchin wants to help him get it? After this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, West Virginia Democratic Senator Joe Manchin is joining us on the president's demands right now to include $5 billion for a border wall. And we're -- already, Chuck Schumer has indicated that, if there's any shutdown, it's on the president back. Do you agree with that, Senator?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. JOE MANCHIN, D-W.VA.",
+      "sentences": "Well, Neil, I'm not for any shutdown, whether it's a Democrat or a Republican shutdown. There's no reason to shut down. We just got to stay here and work through our differences. That's it. I believe very strongly in border security. I think most Democrats and Republicans believe in border security. They have a different way of coming at it. In 2013, we put a piece of legislation, a major reform, immigration reform, had $42 billion of border security that our Republican colleagues, working together with Democrats, put in that bill, which was a terrific piece of legislation. So, the president asking for the $5 billion, I think, basically, people are asking for accounting and this and that, how it's going to be spent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "They put one-point -- I think 1.3 or 1.9 was put -- was what was requested in the 2019 money, which I thought was put in there. But I'm willing to do whatever it takes to secure our border. Neil, I would like to say this. I truly believe this whole -- the whole thing that we have on asylum needs to be changed in America. We need to be investing money into our -- into our embassies in the country where most of the immigrants are coming from seeking asylum, and basically build out in our embassies, so we can protect the families that are needing protected with their children, and vet them properly to see if they qualify for asylum in the United States, before they make a 2,000-, 3,000- or 4,000- mile trek, and all the hardship they go through.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But, as far as the wall is concerned, just to be clear, the president, of course, did get the $1.6 billion that was -- that he wanted in the beginning.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "He wants $5 billion, but Chuck Schumer seems to be saying there's no wiggle room on that. It's $1.6 billion and move on. Do you -- what do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "I think there's wiggle -- I think, basically, there's no need to be talking shutdown. We should be talking of securing the borders. What can we do? What needs to be done? How's the money been spent? And if it takes $5 billion, then there should be $5 billion.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "If it takes three, then do the three.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, let me ask you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "I understand, sir. But there's a separate move right now to protect Bob Mueller. Your colleagues Senators Flake, Coons and Booker, among others...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "Sure.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "... are trying to force a vote on a measure to protect him. Would you be for that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "Neil, there's already been a vote coming out of Judiciary Committee, which is sitting on Mitch McConnell's desk, which -- that was bipartisan. I do agree with protecting Mueller. I think this investigation is coming to an end. It needs to come to an end. And it needs to be done by the person who started it. If you change now, you change all the credibility of the whole investigation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, Mitch McConnell arguing that it would be a wasted effort, since the president would never sign off on something like that, you say?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "I don't know. I think the president, he keeps saying he wants it to come to an end. He's not involved, he says, in that. And coming to an end and having a conclusion to this thing would show it. And I think -- I don't think that he's objecting. I think he just wants it over with.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Let me ask you. There's a separate move among your colleagues in the House, sir, who want to look at the president's Saudi ties, in light of his standing by the Saudis, even when his CIA is saying that the prince was behind the attack on this Washington Post journalist, Khashoggi. Do you think such an investigation should continue?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "Well, first of all, I believe that we should be sending a very, very strong signal and reprimanding the Saudis for the Khashoggi death. And if the president has clear evidence on that -- the CIA is going to be briefing him on that -- he will have a better insight on that than we will.  We get briefed to a certain level on the Intelligence Committee.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, we have -- we have heard what the CIA ha said, right, at least initially. And it sounds like they have compelling evidence.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "Then I don't think...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "And the president is not accepting that. Now, do you...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "Well, the president has...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "If he stands -- if he stands firm on that, if it comes to that -- and you're right -- they have a lot of things they have to dot and T's crossed and all that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But how would you feel if there's no punishment meted out at all?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "I think there should be punishment, Neil. Here's the thing. We're all entitled to our opinions. We're just not entitled to our own facts. If the facts are clear, and we have 17 different intelligence agencies, basically, that we're intersecting with and making sure that we have the facts correct, then it is what it is. We cannot accept an ally, a person that we rely on, a friend, to be basically treating what we consider the First Amendment and a United States citizen being lured to another country for the sake of murdering him.  There's no way we can accept that, nor should we in a civilized world.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Senator, thank you very, very much. I know we got to you late. It's always good having you, sir. Appreciate it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANCHIN",
+      "sentences": "Thank you, Neil. Good to be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Senator Joe Manchin of West Virginia, one of the few Democrats who went on to fight another day in states that Donald Trump won appreciably. It was a remarkable comeback for someone who was given up for political dead meat. That was then. He's returning to the Senate now. \"The Five\" is now. Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NEIL CAVUTO, HOST",
+      "utterance": "All right, well, here is the good news. Shoppers spending. And, man, oh, man, are they spending a lot. Now, the bad news? Maybe not for very long. Welcome, everybody. I'm Neil Cavuto. I would like to thank my buddy Charles Payne for filling in while I was out -- a little bit too well, I might point out."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Meanwhile, with the president heading into trade talks with China, are these talks getting a little out of control? We're going to ask House Majority Whip Steve Scalise, who just met with the president. And we have got Fox team coverage with FBN's Susan Li on the retail numbers that Wall Street should be cheering, and John Roberts on the president's tough trade talk that has a lot of investors worrying. We begin with Susan. Hey, Susan."
+    },
+    {
+      "speaker": "SUSAN LI, FOX NEWS CORRESPONDENT",
+      "utterance": "Where have you been, Neil? Welcome back. Americans are spending. They're spending big, a record-breaking Cyber Monday, with spending up 20 percent from last year, and sales close to $8 billion. That's the single biggest day for online spending in history.  And for the first time ever, more than half the shopping was done on mobile, mobile devices. The best deals of Cyber Monday, according to Adobe Analytics, TVs, a discount of 19 percent, while computers and toys saw price cuts of 17 to 30 percent, respectively. Top products on Cyber Monday, they include Fingerlings. Those are for the kids. LOL Surprise. Little Live Peter Strzok. Laptops from Dell and Apple. LG TVs are very popular and game consoles. Nintendo Switches sold very well. Amazon, which controls over half of the money spent online in the U.S., said that Cyber Monday was the single biggest shopping day in the company's history. Amazon doesn't give us sales numbers. But they did tell us and they did say that they sold millions more items this year than they did last year.  Bestsellers on Amazon, Instant Pot. Yes, they are very, very popular.  Echo Dots as well, which usually is heavily discounted. And DNA test kits. And fresh numbers, by the way, this afternoon just coming from the National Retail Federation, also confirming the strong sales numbers. Thanksgiving weekend sales jumped 40 percent from last year. And biggest spenders were the older millennials. Older, right? Generation X'ers spending on average over $400. Now, the average shopper, you and me, spent over $300, $200 of that being holiday gifts for loved ones. And it's not surprising, by the way, that we just got consumer confidence numbers this morning, still hovering at close to 18-year highs in the month of November -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "The DNA test kit, that surprises me."
+    },
+    {
+      "speaker": "LI",
+      "utterance": "Yes. Does it?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "It does."
+    },
+    {
+      "speaker": "LI",
+      "utterance": "You need to know where you come from."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "At first, I heard it when you mentioned kids. And I thought, well, that seems right."
+    },
+    {
+      "speaker": "LI",
+      "utterance": "Same thing."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, Susan, thank you very much, Susan Li. All right, the White House is trying to downplay the possibility that all this could end with the escalating trade war with China. John Roberts at the White House with more on that -- John."
+    },
+    {
+      "speaker": "JOHN ROBERTS, FOX NEWS CHIEF WHITE HOUSE CORRESPONDENT",
+      "utterance": "Neil, good afternoon to. Welcome back, by the way. Where's Charles?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, that's fine. Oh, oh, good. I guess we cut the feed to you. All right, go ahead."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "Boom, there you go."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Boom."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "Hey, we managed to actually have about an hour-long meeting this morning with Larry Kudlow, the president's chief economic adviser, who pointed to December 1, this coming Saturday, as a potential breakthrough in the U.S.-China trade relationship. That's when the president will have dinner with President Xi Jinping of China at the G20 summit in Buenos Aires. President Trump recently had a phone call with Xi that he described as good, and he has reason for optimism that China may be willing to move on some of these big key issues, like intellectual property theft, the forced technology transfer, protective tariffs, as well as ownership of foreign companies in China. But if there is no movement, the president is ready and willing to put tariffs on another $257 billion worth of goods from China. Here's what Larry Kudlow said at the briefing this afternoon about that. Listen here."
+    },
+    {
+      "speaker": "LARRY KUDLOW, DIRECTOR, NATIONAL ECONOMIC COUNCIL",
+      "utterance": "The president said there's a good possibility that we can make a deal and he is open to it.  But on the other hand, if these conditions I mentioned a few moments ago are not met and not dealt with, the president has said, look, he's perfectly happy to stand on his tariffs policies."
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "Kudlow also said that if it comes down to a tit-for-tat war over tariffs, the U.S. is in a much better position to win that war than China because our economy is strong, whereas the Chinese economy is beginning to run into some trouble. He pointed out that the Shanghai Index is down 20 percent, while our markets are flat. Listen here."
+    },
+    {
+      "speaker": "KUDLOW",
+      "utterance": "I'm not suggesting that there aren't winners and losers in that game. It's a complicated game. But on the other hand, I think we are in far better shape to whether this than the Chinese are. You have to ask yourself -- and this is what President Trump has been talking about -- is it free trade, when there's clear evidence of unfair in WTO illegal trading practices by China for several decades? Is that fair?  Is that free? Is it free when intellectual property theft occurs?"
+    },
+    {
+      "speaker": "ROBERTS",
+      "utterance": "In our hour-long meeting with Larry Kudlow, the one word that he kept using, Neil, in talking about the progress of talks in -- between the United States and China over trade was disappointment. It seems that China is completely intransigent about these -- these issues.  But everybody is looking forward to this Saturday as a potential breakthrough moment. But nobody wants to think about the consequences, Neil, if something doesn't shake loose during that meeting on Saturday. And, really, welcome back."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, thank you, my friend, John Roberts at the White House. As John was pointing out, this is a pivotal issue, not only in Washington, but certainly for the markets. The better things look for trade, the better they look. The worse things look for trade, the worse they look.  It's as simple as that. So if we get this construct of a deal or even the talk of arranging a deal, would that be enough to keep the markets going one way, up? Stifel chief economist Lindsey Piegza joins us, market watcher Scott Martin, former North Carolina Democratic Congressman Brad Miller. Lindsey, I'm looking at this and saying the markets always move on whether this trading looks good or bad, bad if it looks bad, good if it looks good.  Is that still the case?"
+    },
+    {
+      "speaker": "LINDSEY PIEGZA, ECONOMIST",
+      "utterance": "Absolutely. And this is just going to cause more uncertainty at this point. We have seen the market trade higher when there were starting to be some positive signs of negotiations coming to fruition. And then, of course, the market trading down when we find out that meetings were still -- quote -- \"disappointing\" between the two leaders. So I do think this is going to continue to perpetuate volatility. Now, we know that the tariffs imposed thus far have had a very minimal impact on the economy as a whole, but more tariffs will have more of an impact on the economy.   And as we expect the economy to begin to lose momentum in 2019, more of this uncertainty, more of this contentious trade environment will compound that weakness, compound that downward pressure on the economy."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And that's the threat, right, Scott, I mean, that the president has sort of upped and spread the ante to electronic gadgets and items made in China with a 10 percent tariff on them."
+    },
+    {
+      "speaker": "SCOTT MARTIN, KINGSVIEW ASSET MANAGEMENT",
+      "utterance": "Yes, you run the risk, Neil, of spilling the gambling chips and then having to pick them up when they're spread out everywhere on the table and that's a big mess. I will tell you what. I mean, after the comments today from Kudlow -- I guess we're on a last- name basis there -- this is turning into a death match. I mean, where is Vince McMahon when you need him? Because China to me is looking to really take this thing as far as they can. And I got to disagree with the notion of who's got more to lose here.  China's economy is already suffering. China's market is already suffering.  Our economy is supposedly in this phenomenal shape, most of which I agree with that. And our market is still flat. So when we take this approach that says, hey, they're the ones that all -- have all this stuff to lose, I'm not so sure if that's correct or a gamble I want to make."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You know, Congressman, I don't know where Democrats or Republicans stand on this, but I know both get very worried when it leads to this type of volatility. What do you think?"
+    },
+    {
+      "speaker": "BRAD MILLER D-N.C., FORMER U.S. CONGRESSMAN",
+      "utterance": "Well, sure. I mean, the volatility of the markets, you mean?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "To everything."
+    },
+    {
+      "speaker": "MILLER",
+      "utterance": "Well, I -- yes, sure. Everyone would like everything to be steady and smooth and predictable, so they can plan around it. But life doesn't present us that always. The problems in the economy are not just limited to the trade war. We have got consumers that are now -- household debt is back to what it was pre-crisis. There are a lot of things to worry about in the economy, and not just tariffs and not just holiday sales."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right. There's also government debt, right, which is out of control, right?"
+    },
+    {
+      "speaker": "MILLER",
+      "utterance": "That is well down the list for me behind household debt -- as a as a threat to the economy, the household debt and corporate debt, which is also at absurdly high levels."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Go ahead."
+    },
+    {
+      "speaker": "MARTIN",
+      "utterance": "Why is that down on the list, though? Because if you think about it, the government doesn't really help the economy. The consumer does. So it's actually a good thing that consumers and corporations are faithful in the future and willing to borrow, willing to reinvest, willing to pay dividends, buy back stock, because they're confident about the future growth of the economy, aren't they?"
+    },
+    {
+      "speaker": "MILLER",
+      "utterance": "That's the most rose-colored view of what is going on in the economy that I think I have ever heard."
+    },
+    {
+      "speaker": "MARTIN",
+      "utterance": "Reality?"
+    },
+    {
+      "speaker": "MILLER",
+      "utterance": "Corporations buy back their own debt because they are cashing out.  The corporation, they are borrowing against the future. It manipulates the price of their stock."
+    },
+    {
+      "speaker": "MARTIN",
+      "utterance": "You mean their stock."
+    },
+    {
+      "speaker": "MILLER",
+      "utterance": "And a lot of them are paid by stock options. So it's profitable for them."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "If we had anyone in Washington, Republican or Democrat, who was serious about getting a handle on their debt, we'd be in a lot better shape, but we're not. But, Lindsey, one of the things I'm worried about is obviously so far consumer sentiment and poll numbers show a huge appetite to buy, buy, buy.  They're buying like crazy, certainly on Cyber Monday, record number, almost $8 billion. So they're inclined right now to maybe lead the way. But I'm wondering if we run into some trade frictions here whether all that stops?"
+    },
+    {
+      "speaker": "PIEGZA",
+      "utterance": "Well, I am concerned about the consumer, because, as we know, the consumer has been levering up, taking on additional debt, as just mentioned, also eating into savings. And so this puts them on a precarious footing as we go into potentially slower growth next year. And as we look at retail sales, so let's take the holiday spending out of it, and look at the trend of what the consumer has been doing. We have actually seen some very dismal spending reports as of late, August and September, back-to-back months of negative spending. Now, obviously, October rebounded."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, you're with the congressman that things are beginning to sputter a little bit?"
+    },
+    {
+      "speaker": "PIEGZA",
+      "utterance": "Oh, absolutely. Absolutely."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right."
+    },
+    {
+      "speaker": "PIEGZA",
+      "utterance": "We have seen growth slow. And we do expect it to continue to slow on the heels of a slower consumer, weaker consumer into 2019."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, guys, I want to thank you all. Sorry for the abbreviated time here. What we do have, though, is a situation where everything's on tenterhooks on -- based on trade, and whether we can get something cobbled together with the Chinese. There's no guarantee of that. And speaking of billions, how about $5 billion for a border wall in the middle of violence along what so far is kind of a wall? The House majority whip, Steve Scalise, on a meeting with the president and what came from that discussion after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, a shutdown over a wall? Don't laugh. House Majority Whip Steve Scalise, just meeting with the president, he will be my guest soon. What are the threats and what's real there? First to Mike Emanuel on Capitol Hill on Senate Majority Leader Mitch McConnell for the time being on what he is saying -- Mike."
+    },
+    {
+      "speaker": "MIKE EMANUEL, FOX NEWS SENIOR POLITICAL CORRESPONDENT",
+      "utterance": "Neil, good afternoon to you. Well, bottom line, part of the government runs out of money a week from Friday. And a serious aspect of that is homeland security. And President Trump and his allies are saying he wants serious funding for the border wall. One idea that being floated is $5 billion for border security over two years. But Senate Democratic Leader Chuck Schumer didn't like that option."
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER, D-N.Y., MINORITY LEADER",
+      "utterance": "If there's any shutdown, it's on President Trump's back. First, left to our own devices, the Senate and House could come to an agreement. Second, the Democrats -- the Republicans are in control of the presidency, the House and the Senate. A shutdown is on their back. Stick to the $1.6 billion."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "Schumer also said he's not going to negotiate with the media. Senate Majority Leader Mitch McConnell later came out and said he's trying to work this out with the clock running."
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL, R-KY., MAJORITY LEADER",
+      "utterance": "We're trying to get the president the money he would like for the wall. That's part of the year- end funding discussion, which is ongoing. That's one of the many things we have got to wrap up here at the end of the year."
+    },
+    {
+      "speaker": "EMANUEL",
+      "utterance": "House Republican leaders were just down at the White House for a meeting with President Trump about some of these end-of-the-year issues like government funding and the border wall. No comment from House Speaker Paul Ryan on his way back into the Capitol -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, thank you, my friend, Mike Emanuel. Coming up, the House majority whip, soon to be the House minority whip, the number two Republican in the House, just meeting with the president of the United States on this and a host of other issues. Steve Scalise -- after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, fresh from his meeting with the president of the United States, House Majority Whip Louisiana Congressman Steve Scalise on what came up. What do you think? Take a look."
+    },
+    {
+      "speaker": "REP. STEVE SCALISE, R-LA., HOUSE MAJORITY WHIP",
+      "utterance": "Well, Neil, the meeting went very well. Clearly, there's some unfinished business that we're trying to wrap up in these next few weeks. But the president made it very clear that he wants to get border security funded. Obviously, that includes building the wall and all the other things that are involved in keeping our country safe. And, look, I think this president has been very clear how big of a priority is it. And then we agree strongly that this has to get done."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right. Well, the two sides are far apart. That is the Democrats, Chuck Schumer, more to the point -- $1.6 billion is it. The president wants five. Ain't going to happen. You say?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, we have already funded $1.5 billion. But President Trump's very clear that $5 billion is the number that needs to be included for this to work. And so these negotiations are ongoing.  But, again, President Trump's made it very clear. And I think if you see with this caravan, where you have people not trying to come in the legal way, but literally trying to attack our law enforcement personnel at the border, that border security is a top priority of keeping America safe. And I'm glad that President Trump continues to make sure that this is going to be addressed, and it will be."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right. Now, so you're convinced that this will happen. Would you risk a government shutdown to make it happen?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, I guess that's a question Chuck Schumer is going to have to ask. He was in that boat a few years ago, and it didn't work well for Chuck Schumer during the Schumer shutdown. But, ultimately, there's an opportunity for an agreement to be reached here. And it's all about border security, and $5 billion is the number.  And so we..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And where would you get the $5 billion then to offset the deficit getting in even deeper?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, we're negotiating that right now. And, again, the negotiations are ongoing. Both sides are going to have to figure this out. But President Trump's been very clear how this is going to end. It's going to end with $5 billion being put in place, not taking money away from ICE or other agencies that are vital to homeland security, but new money to ensure that we have border security, including the wall, so that we can keep America safe."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But you don't think there will be a government shutdown?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, whether or not there is one, we have made sure that our troops are going to be funded. About 70 percent of all of government has already been funded for the entire fiscal year properly through the normal appropriations process. So now we're talking about primarily the Homeland Security agency, which is critically important. But, again, this is where border security happens.  And this is where the $5 billion is going to have to come into play."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Congressman, let me ask you. The president has also warned GM over these surprising job cuts, 15,000 of them, that the company might have to lose its subsidies, first granted in the government rescue. Do you support that?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, first of all, I didn't support the government bailout.  But, at the same time, I think President Trump is being very vocal in standing up for American jobs. And if GM is going to close plants because there was one product line that wasn't selling well, what he's asking is, go find a different product line. Obviously, they're going to build a new line of cars to replace the sedans that aren't selling."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But they largely blamed -- Mary Barra largely blamed the trade tariffs for that, and that it's making its business much pricier and tougher. You don't buy that?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, we are getting agreements. And Mexico and Canada is almost fully signed. But there is an agreement between Mexico and Canada that's going end some of the tariffs that were going on there. Clearly, China -- the whole world recognizes that China has to stop cheating and stealing intellectual property and dumping products. And so the world's going to recognize that China's got to play by everybody else's rules. But, in the meantime, President Trump was able to negotiate with Canada and Mexico on a new agreement that will be coming to Congress soon, and at least that's going to address some of the tariff problems."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But, Congressman, wouldn't we want a GM being more scrupulous about its bottom line, and the fat and happy days when it didn't do that, and it went to bankruptcy, that we want it to be moving ahead of the curve on problems that could -- that could result in tens of thousands of more people getting laid off?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, if there wasn't an ability for them to be competitive, that's one thing. But with the tax cut bill we just passed -- and, as you know, we had the highest corporate tax rate in the world. So America was one of the worst places to do business. And we fixed that with the dramatic tax cuts that are now bringing jobs back to this country. So if it's about tariffs, there are trade deals that are being agreed to, including Mexico and Canada that just got finalized. So let's go and let the trade deals play out. But if you're going to make a long-term decision on where to build your next line of cars, America is now the best place to do business again. It wasn't just a few years ago, because we had the highest corporate rate in the industrialized world. So that's been resolved. That excuse no longer exists."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, let me ask you about the China talks. And, of course, the president will address this with Xi Jinping when he is in Argentina this weekend for the G20 summit. But he held out the possibility, or at least Larry Kudlow, his top economic adviser, held out the possibility that the two sides could maybe cobble something together.  But he wasn't optimistic. And then the president upping the ante, as you know, sir, by talking about raising tariffs 25 percent, then going beyond the next year to 10 percent tariffs, for example, on laptops and the like that are made in China. Do you fear this is getting out of control?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well you have seen countries taking advantage of America for a long time. Again, that finally got addressed with Canada and with Mexico and the disparities that we saw at least finally be brought to the table there.  China has not been pushed to those limits. They have known that they can take advantage of America and a lot of our other allies around the world. And so, frankly, if you see the United States economy saying, we have open doors to everybody, but there are countries that are closing their doors to us, China is one of them, it's time for you to treat us as fair as we treat you. And if not, there's going to be consequences. I don't think China wants to lose out on the American economy. And I think you're going to see them -- once they realize that we're serious about this, you're going to see them come to better terms and treat America fairly. That's all that is being asked for."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But what if they don't? What if they don't, and we have extended this, Congressman, to, as I say, laptops and other things made in China? It just seems to go up up, up, up, up, you know?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Yes. And, look, none of us want to see that. I surely don't want to see it.  But I also don't want to see countries taking us -- taking advantage of the United States. China has been one of the worst at taking advantage of the United States. Let's finally confront that problem. If you treat us fairly, we're going to have open doors. What's wrong with that? And if they're not willing to do that, then what do they really want to achieve?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But isn't it weird that where -- the states that would benefit most from fair or freer trade, especially in the Rust Belt, where the states handed Republicans some unexpected losses that really stacked up, are you afraid this is a political loser?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, you're assuming that these negotiations aren't going to be successful. And you have seen in so many of the other negotiations, including on very high-stakes negotiations with countries like North Korea, who many presidents walked away from trying to negotiate a denuclearization, President Trump stood up and said, look, we're not going to take this anymore. We're going to actually bring North Korea to the table. They have not only stopped the missile tests. They have also agreed to some other concessions to the United States, including bringing back remains of a lot of our -- of our troops that were killed in North Korea, that now we finally are getting some of those remains back, which is a huge relief to the families. Other presidents failed to deliver that. President Trump talked tough, but the tough talk actually delivered results for the American people."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But it didn't deliver a lot of votes for Republicans, not that you should get knee-deep in that. But are you worried that these trade issues just keep boomeranging on you?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, again, I don't think anybody wants to see a protracted trade war."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "But, at the same time, do they want to just say, OK, we're just going to take it and let other countries keep taking advantage of us because we're not willing to stand up for ourselves? So if we saw this being successful in Mexico and in Canada, shouldn't at some point people give the president the benefit of the doubt and say, you know, he's actually negotiated some good deals for this country on a number of fronts, both in economic terms on trade and on military and diplomatic terms with countries like North Korea?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right. Soon, you will be in the position from House majority whip to House minority whip, which raises you to the number two Republican in the House. Your Democratic counterparts, upon taking over, sir, have indicated that they want to look into the president's ties with Saudi Arabia to explain his ignoring the CIA and pointing the finger at the crown prince. And I'm wondering whether you think that would be productive, or whether Republicans should go along with that. Some Republicans have raised similar concern, that the president is a little too smitten by the royal family."
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Oh, well, you saw Democrats with this infatuation with Russia for the last two years. The American people were looking at that saying, OK, there was no collusion there. They implied all these other things. What's their next country going to be? At some point, the Democrats are going to have to produce on the things that matter to American families in terms of the economy. What are they going to do for the issues that affect people's paychecks? And that's..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But does that trump dealing with the Saudi situation? Do you take them at face value and the president at face value, that he just doesn't believe what he's heard, and he will continue doing business with the Saudis?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Well, Neil, we don't know the negotiations that are going on behind the scenes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "And, clearly, Secretary of State Pompeo is in intense negotiations. This is a very delicate situation. And I think we all ought to be very concerned about the allegations made against the Saudi Arabian government and what kind of involvement they had in this execution. But, at the same time, there are those diplomatic discussions going on that we're not privy to. But we're going to see how this thing plays out. This is still very early in these stages. Saudi would need to be held accountable if they were responsible. And there are a lot of talks going on right now to determine what the next steps are."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Congressman, you have also been busy on a book tour for \"Back in the Game: One Gunman, Countless Heroes, and the Fight for My Life.\" Now, one of the things that has come up is, obviously, you step back and see what's important in life and what is not. Recently, you were asked by The Washington Examiner about whether you have taken it upon yourself or could take it upon himself to forgive the gunman who tried to kill you."
+    },
+    {
+      "speaker": "And you said",
+      "utterance": "\"At some point, I'm going to have to deal with the issue of forgiveness, but, for now, I'm focused on my recovery. It's something I struggle with. I'm Catholic. I'm probably not there yet. That's something I'm going to have to work with my priest on.\" Do you still feel that way?"
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Yes, you know, Neil, look, this is a personal issue. I mean, as a Catholic, I believe in forgiveness. No one's asked me for forgiveness. Obviously, he can't. But, at the same time, I still have a lot of work to do in my recovery.  And it takes a lot of energy to resolve an issue like this. I mean, at some point, I know I will have to deal with that. And I'm admitting. I mean, this is -- this is one of those flaws that I -- that I'm going to have to grapple with, as a Catholic. But, hopefully, I get it resolved working with my priest and working to make sure that I can finally get to a place where I deal with that the proper way. I'm not there yet. I admit that. But, at some point, I will confront it.  I'm not saying I'm never going to forgive. But I have other things that are much bigger right in front of me right now, like getting better. And I need to put all of my energy into that. There will be a time to deal with forgiveness. And I hope I can be the bigger man. And that's where my faith and the people that I'm going to rely on will come in."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Congressman Scalise, thank you very much. Good seeing you."
+    },
+    {
+      "speaker": "SCALISE",
+      "utterance": "Thanks a lot, Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, Congressman Scalise will be in a minority role, the number two Republican in the House. And the Senate, of course, will be safely Republican, and Republicans hope to grab another seat to make it a 53-47 Senate. But that depends on what happens in Mississippi when all the ballots are counted. And we will take a look after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "The bipartisan push to protect Robert Mueller. How does Joe Manchin feel about the effort to enshrine that and make it happen? We will ask him on \"Your World\" after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "It has been a very long time since a Democrat won in Mississippi.  Try 1982. Democrat Mike Espy is fighting to unseat the Republican incumbent, Cindy Hyde-Smith, in what has been normally considered a deeply red state. It might remain that way, but no way of telling. Peter Doocy is in Jackson, Mississippi, with the latest -- Peter."
+    },
+    {
+      "speaker": "PETER DOOCY, FOX NEWS CORRESPONDENT",
+      "utterance": "Neil, the Democrat Mike Espy says he knows he's the underdog. But he's been spending the three weeks of this runoff campaign trying to put together a coalition of Democrats, combined with voters who might still have questions about the controversy surrounding Republican Senator Cindy Hyde-Smith and recently unearthed jokes that she made about public hanging and disenfranchising voters."
+    },
+    {
+      "speaker": "MIKE ESPY, D-MISS., SENATORIAL CANDIDATE",
+      "utterance": "If only African- Americans come out for me and even if they come out in record numbers, I won't win. I know that. And I have known that all the time. And I have known that throughout my career. So we have to have a good number of crossovers."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Mike Espy had help here from Cory Booker and Kamala Harris. But Cindy Hyde-Smith just had President Trump come twice in one day to talk about keeping the majority comfortable."
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "utterance": "Together, we have made unbelievable progress, and we are just getting started. But we need every last Republican vote in the U.S. Senate. We need 53. We want to get to that 53 number."
+    },
+    {
+      "speaker": "DOOCY",
+      "utterance": "Senator Lindsey Graham actually just told our crew up at the Capitol that Cindy Hyde-Smith, if she wins the next two years of this Thad Cochran term, would help Republicans put through criminal justice reform something he doesn't think that she would be eager to do, if she was a racist, as portrayed by some in this race -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, Peter, thank you very, very much. And then there's the presidential race to consider. Never too early to consider that, and what could be upwards of a couple of dozen Democrats vying to be their party's presidential nominee, including the guy who lost to Ted Cruz, but who has all of a sudden become a rock star with presidential ambitions of his own? Remember him? After this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, Texas Democrat Beto O'Rourke is now seriously considering a 2020 presidential run, while Michael Bloomberg, we're told, is going to be visiting Iowa. That's a crowded field already, where upwards of two dozen Democrats, two dozen, could be seriously entertaining a White House run. Karl Rove is here with the implications of all of that. Karl, in a crowded field, who benefits?"
+    },
+    {
+      "speaker": "KARL ROVE, FORMER SENIOR ADVISER TO PRESIDENT GEORGE W. BUSH",
+      "utterance": "Whoever breaks out of the pack and grabs the public attention. But it's going to be hard to do with two dozen competitors with big geographical bases. Think about it. We have got Democrats coming from California and Texas, New York, big states with a big blocks of delegates.  So we're going to have a spirited, confused, long and always exciting contest for the Democratic nomination."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "It was a crowded field that Donald Trump weighed into. What proved the trick for him that may be a Democrat, oddly enough, could learn from?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Well, Trump represented what Republicans wanted to see done by their candidate, which is to reach down, pick up a giant brick and throw it through a plate-glass window. They were so angry at President Obama, that they wanted somebody who would crystallize that antagonism towards the political establishment in Washington and the political elites that they thought looked down upon them. And he did it. And in order to do that, he had to take out people one by one by one through a long series of debates and contests, and did so within about five months. From the beginning of the primary season until May was just about five months. So, each contest is different. This one's not going to be the same as the last one, and there's no model that Trump provided that is going to be available automatically to somebody."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "But you got to stand out somehow, some way, some form."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "What about the positioning of the primaries themselves, Karl? If California front-loads, you could make the argument that helps, let's say, a Kamala Harris, right?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Yes, you could. But there are two ways of looking at it. We're going to have Iowa and New Hampshire beforehand. So does somebody come out of those two and go to California and get and run straight up against Kamala Harris in Northern California, and Eric Garcetti, the mayor of Los Angeles, in Southern California? Or do they come out of the early primary states, the traditional states of Iowa, New Hampshire, and so forth, and go roaring into California with a head of steam and grab a bunch of delegates that might otherwise go to a favorite son? And then we have got the likelihood of a -- by moving that big bloc of delegates early, what we may be doing is, we may be guaranteeing that we have our first Democratic Convention since, well, I don't know, 1960, 1956, 1952 that is really undecided by the time you go into the convention. The Democrats have rules that are more proportional than Republicans. And while the power of the superdelegates was removed on the first ballot, they get to -- if there's nobody chosen on the first ballot, they get to start voting on the second ballot. That could make for a really exciting influence that could swing the convention one way or the other starting on the second ballot."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Maybe it's the post-Barack Obama phenomena for Democrats, but if you're young, I get a sense that they don't want to waste a moment. And maybe that can be a call for Beto O'Rourke to run, just a congressman, but made a valiant effort in Texas, and had a lot of outside money and interest in his candidacy. What do you think?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Well, Robert Francis O'Rourke was a phenom. Let's see if it can translate to the national stage. He had the advantage in the -- in Texas of not having a primary."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "But he will face a spirited primary, and he's going to have to prove his chops. And, again, each election tends to be a reaction to the previous one, not exactly sort of a furtherance of it. So the idea of the outsider with no appreciable record, that may have worked into 2016. I'm not certain that's going to necessarily work in 2020. One of the interesting tests is going to be whether he attempts to take his nickname, Beto, to the national stage, or whether he runs more prosaically as Robert Francis O'Rourke."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "I don't think he goes with Robert Francis, but I..."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Yes, don't think so either."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Yes, that would be a tough one. But let me get your take on the president and his dilemma. Obviously, in a lot of the Rust Belt states, those that were vulnerable to trade and obviously tight races, there's a concern that the president would have a tough time repeating the electoral map that won him the White House in 2016. Do you agree with that?"
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Well, I think -- I think it is going to be difficult, not insurmountable. Obviously, he broke the odds once before. But most presidents tend to consolidate their base. Remember, on Election Day in the Fox exit polls, 37 percent of the electorate said they liked the president personally and they liked his policies, and he represented change. And they were voting for him enthusiastically. Nine percent say, I may like some of your policies. But I really don't like you personally. And I don't think you have the temperament and experience to be president. I rate you unfavorably. But I'm still going to vote for you because you aren't her. So the question next time is going to be, first and foremost, do the Democrats nominate somebody who's as bad as Hillary Clinton? And, second of all, what does the president do to keep this change mantle that he had and moved so strongly in his favor in 2016? What does he do to keep that change mantle in hand in order to win in 2020? Remember, if you -- if you thought the country was going in the right direction, which is about 35 percent of the electorate, you voted for her by almost 90 to less than 10. But everybody else, the two-thirds that thought we were going in the wrong direction, they voted for him enough to give him 46 percent of the vote."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, Karl, always good. Thank you, sir."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Thank you, sir."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, Karl. Nancy Pelosi not giving up on her quest to become the next speaker of the House. Who she is wooing and winning -- after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, you're looking live at Capitol Hill right now. That's a pretty shot, isn't it? A crucial vote for Nancy Pelosi and leaders tomorrow. The Federalist's Mollie Hemingway on what's at stake and maybe who's up for grabs. How does it look, Mollie?"
+    },
+    {
+      "speaker": "MOLLIE HEMINGWAY, THE FEDERALIST",
+      "utterance": "Well, when you think about the campaign, you had so many people saying in the 2018 elections that they wouldn't vote for Nancy Pelosi. You had people on the left saying that, and also people on the right in the Democratic Party saying that they really thought it was time for Democrats to have new leadership. Once they took the House, things got a lot more complicated, in that there isn't a clear person that everyone can rally behind who is different than Nancy Pelosi. She's consolidating her power. And she should be able to eke this out."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "She needs 218 votes, right?"
+    },
+    {
+      "speaker": "HEMINGWAY",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right. So, these other challengers that was supposed to emerge -- Congresswoman Fudge backed out when she was promised, I guess, a key committee assignment. Do you know of anyone else who is interested? Because, what, there are 17 or 18 who had announced publicly there was no way in heck they were going to support her as their leader. What do they do?"
+    },
+    {
+      "speaker": "HEMINGWAY",
+      "utterance": "Lots of people were interested, but it's very dangerous to actually get too far out in support or into campaigning..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "HEMINGWAY",
+      "utterance": "... because then that means that you have less leverage. I think, in general, this should be viewed as, obviously, this is a time where Democrats are thinking strongly about changing their leadership and their leadership style, but probably not at this moment. So perhaps Nancy is able to -- Ms. -- Representative Pelosi is able to eke out this victory, but then transition into a new phase of leadership. The Democratic Party is really struggling right now with its own identity.  You have -- you saw in the 2018 elections that the big victories came from more moderate figures and not the more progressive figures that were championed by Hollywood and other leftist groups, like Beto O'Rourke and other people of that nature. But this is going to be a big challenge in the year -- in the two years to come. Do you want to lean into the progressive mode that gets so many people excited, or do you want to go with what seems to be working for Democrats, which is a more moderate coalition?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Wow. Just confusing. All right, thank you, Mollie, very, very much, Mollie Hemingway. Well, the president is eying bipartisan support for a border wall event.  And the West Virginia Democratic Senator Manchin wants to help him get it? After this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, West Virginia Democratic Senator Joe Manchin is joining us on the president's demands right now to include $5 billion for a border wall. And we're -- already, Chuck Schumer has indicated that, if there's any shutdown, it's on the president back. Do you agree with that, Senator?"
+    },
+    {
+      "speaker": "SEN. JOE MANCHIN, D-W.VA.",
+      "utterance": "Well, Neil, I'm not for any shutdown, whether it's a Democrat or a Republican shutdown. There's no reason to shut down. We just got to stay here and work through our differences. That's it. I believe very strongly in border security. I think most Democrats and Republicans believe in border security. They have a different way of coming at it. In 2013, we put a piece of legislation, a major reform, immigration reform, had $42 billion of border security that our Republican colleagues, working together with Democrats, put in that bill, which was a terrific piece of legislation. So, the president asking for the $5 billion, I think, basically, people are asking for accounting and this and that, how it's going to be spent."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "They put one-point -- I think 1.3 or 1.9 was put -- was what was requested in the 2019 money, which I thought was put in there. But I'm willing to do whatever it takes to secure our border. Neil, I would like to say this. I truly believe this whole -- the whole thing that we have on asylum needs to be changed in America. We need to be investing money into our -- into our embassies in the country where most of the immigrants are coming from seeking asylum, and basically build out in our embassies, so we can protect the families that are needing protected with their children, and vet them properly to see if they qualify for asylum in the United States, before they make a 2,000-, 3,000- or 4,000- mile trek, and all the hardship they go through."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But, as far as the wall is concerned, just to be clear, the president, of course, did get the $1.6 billion that was -- that he wanted in the beginning."
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "He wants $5 billion, but Chuck Schumer seems to be saying there's no wiggle room on that. It's $1.6 billion and move on. Do you -- what do you think?"
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "I think there's wiggle -- I think, basically, there's no need to be talking shutdown. We should be talking of securing the borders. What can we do? What needs to be done? How's the money been spent? And if it takes $5 billion, then there should be $5 billion."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "If it takes three, then do the three."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, let me ask you."
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "I understand, sir. But there's a separate move right now to protect Bob Mueller. Your colleagues Senators Flake, Coons and Booker, among others..."
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "Sure."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "... are trying to force a vote on a measure to protect him. Would you be for that?"
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "Neil, there's already been a vote coming out of Judiciary Committee, which is sitting on Mitch McConnell's desk, which -- that was bipartisan. I do agree with protecting Mueller. I think this investigation is coming to an end. It needs to come to an end. And it needs to be done by the person who started it. If you change now, you change all the credibility of the whole investigation."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, Mitch McConnell arguing that it would be a wasted effort, since the president would never sign off on something like that, you say?"
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "I don't know. I think the president, he keeps saying he wants it to come to an end. He's not involved, he says, in that. And coming to an end and having a conclusion to this thing would show it. And I think -- I don't think that he's objecting. I think he just wants it over with."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Let me ask you. There's a separate move among your colleagues in the House, sir, who want to look at the president's Saudi ties, in light of his standing by the Saudis, even when his CIA is saying that the prince was behind the attack on this Washington Post journalist, Khashoggi. Do you think such an investigation should continue?"
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "Well, first of all, I believe that we should be sending a very, very strong signal and reprimanding the Saudis for the Khashoggi death. And if the president has clear evidence on that -- the CIA is going to be briefing him on that -- he will have a better insight on that than we will.  We get briefed to a certain level on the Intelligence Committee."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, we have -- we have heard what the CIA ha said, right, at least initially. And it sounds like they have compelling evidence."
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "Then I don't think..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "And the president is not accepting that. Now, do you..."
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "Well, the president has..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "If he stands -- if he stands firm on that, if it comes to that -- and you're right -- they have a lot of things they have to dot and T's crossed and all that."
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But how would you feel if there's no punishment meted out at all?"
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "I think there should be punishment, Neil. Here's the thing. We're all entitled to our opinions. We're just not entitled to our own facts. If the facts are clear, and we have 17 different intelligence agencies, basically, that we're intersecting with and making sure that we have the facts correct, then it is what it is. We cannot accept an ally, a person that we rely on, a friend, to be basically treating what we consider the First Amendment and a United States citizen being lured to another country for the sake of murdering him.  There's no way we can accept that, nor should we in a civilized world."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Senator, thank you very, very much. I know we got to you late. It's always good having you, sir. Appreciate it."
+    },
+    {
+      "speaker": "MANCHIN",
+      "utterance": "Thank you, Neil. Good to be with you."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Senator Joe Manchin of West Virginia, one of the few Democrats who went on to fight another day in states that Donald Trump won appreciably. It was a remarkable comeback for someone who was given up for political dead meat. That was then. He's returning to the Senate now. \"The Five\" is now. Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

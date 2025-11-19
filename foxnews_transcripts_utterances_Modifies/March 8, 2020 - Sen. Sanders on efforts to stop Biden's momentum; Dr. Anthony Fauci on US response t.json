@@ -1,0 +1,2169 @@
+{
+  "date": "March 8, 2020",
+  "headline": "Sen. Sanders on efforts to stop Biden's momentum; Dr. Anthony Fauci on US response to coronavirus",
+  "subHeadline": "Guests: Bernie Sanders, Donna Edwards, Ben Domenech, Anthony Fauci, Jason Riley, Juan Williams",
+  "url": "https://www.foxnews.com/transcript/sen-sanders-on-efforts-to-stop-bidens-momentum-dr-anthony-fauci-on-us-response-to-coronavirus",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "CHRIS WALLACE, ANCHOR",
+      "sentences": "I'm Chris Wallace. President Trump ramps up the federal response to the coronavirus as the outbreak kills more than 3,000 worldwide.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "sentences": "We're prepared. We are really, very highly prepared for anything.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "As the president tries to calm fears, the fallout continuous -- rocking the markets, disrupting travel, and closing schools. We'll discuss where this is headed with Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases.  The 2020 Democratic field narrows to just two -- as Bernie Sanders looks to stop Joe Biden's surging momentum.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, D-PRESIDENTIAL CANDIDATE",
+      "sentences": "They don't call it Super Tuesday for nothing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS, I-VT., PRESIDENTIAL CNADIDATE",
+      "sentences": "We are going to win the Democratic nomination.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "With the next big votes this Tuesday in six states, we'll ask Sanders if he can flip the race for the Democratic nomination one more time. Plus, a Friday night surprise as the president plots his reelection campaign. He replaces Chief of Staff Mick Mulvaney with a key ally, Congressman Mark Meadows. We'll ask our Sunday panel about the West Wing shake-up.   And, our \"Power Player of the Week,\" a former rocket scientist shares her love of STEM as the head of the Girl Scouts.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We want to make sure that girls have those skills to not just be users of technology but the creators, inventors, and designers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All, right now, on \"Fox News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And, hello again from FOX News in Washington. We're following two big stories today, first, the continuing spread of the coronavirus. The U.S. now has more than 400 confirmed cases, 19 deaths, and six states declaring emergencies.  Meanwhile, the Democratic race is down to Bernie Sanders and Joe Biden, we are just two days away from another round of primaries. Six states including Michigan, the first big rust belt state to vote. In a minute, we'll speak with Senator Sanders as he prepares to go head-to- head against Biden for the first time.  But, first, let's bring in Kevin Corke reporting from the president's retreat at Mar-a-Lago with the latest on the coronavirus, Kevin.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEVIN CORKE, FOX NEWS CORRESPONDENT",
+      "sentences": "Chris, overnight, we learned that a marine who recently returned from overseas, this marine is now in Virginia, has tested positive for the virus. He's actually being treated at a hospital there. Just the latest example of the continuing spread of the disease both here at home and abroad.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "From the White House to the Centers for Disease Control in Atlanta, an all-hands response by the Trump administration meant to reassure Americans that its strategy to contain the coronavirus is working.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "We're the only country, in that sense, that's proactive. We're totally proactive and we're totally equipped to handle it. Thank you very much, everybody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "But the White House's preparedness is being both tested and questioned. Critics argue that the administration hasn't adequately produced testing material to detect the true scope of the virus which has now spread to dozens of states and the District of Columbia, causing events like the annual South by Southwest gathering in Texas to be canceled and California officials to delay docking privileges for the virus affected Grand Princess cruise ship.  Globally, the outbreak has sent shockwaves from China, where a hospital meant to house the infirm collapsed yesterday, to Italy where 16 million people have now been placed under quarantine.  Back at the White House, a staff shake-up capped a turbulent week as the president tweeted he'll replace acting Chief of Staff Mick Mulvaney with retiring North Carolina Congressman Mark Meadows, a staunch supporter of the president.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORKE",
+      "sentences": "On Capitol Hill tomorrow, the House is set to set up a special center to prepare infrastructure for possible telework as Capitol Hill becomes the latest front in the fight -- Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Kevin Corke, reporting for Mar-a-Lago -- Kevin, thanks.  We'll have more on the coronavirus later in the program but, first, back to politics.  And joining us from the campaign trail in Michigan, Democratic presidential candidate and senator, Bernie Sanders. Senator, since Super Tuesday, you've been going after Joe Biden pretty hard on a number of issues. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "One of us in this race led the opposition for the war in Iraq. One of us led the opposition to disastrous trade agreements. One of us has spent his entire life fighting against cuts in Social Security.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Senator, now that this is a two-man race and you're going to have a two-man debate next Sunday, how hard do you go after Joe Biden without carving each other up and helping Donald Trump win reelections?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Well, Chris, that's the right question. Joe Biden is a friend of mine. Joe Biden is a decent guy.  What Joe has said is if I win the nomination, he'll be there for me, and I have said if he wins the nomination, I'll be there for him because we both recognize that we have a president who is a pathological liar, and I say that without any joy in my heart, as somebody who's running a corrupt the administration, somebody apparently who has never read the Constitution of the United States and thinks he's above the law.  So, Biden and I, no matter who wins this thing, will be together in defeating Trump, but now that it is a two-way race, it is important for the voters of this country to ask themselves two questions. Number one, which candidate is stronger in terms of being able to defeat Trump. And number two, what are the differences in a record. Joe has been in Washington for a long time as have I. And my point is when people see the records, Joe voted for the war in Iraq, I opposed the war in Iraq. Joe voted for the Wall Street bailout, I vigorously opposed the Wall Street bailout.  When you go to the Midwest -- we're in Michigan right now. You go to Wisconsin, you got to Pennsylvania, people want to know about your views on trade , because disastrous trade agreements like NAFTA and PNTR with China cost this country over 4 million good-paying jobs, decimated communities here in Michigan. I helped lead the oppositions of those trade agreements, Joe voted for them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Senator, Joe Biden is also going after you and here he is on who is better able to help working Americans. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "Now, let's go to Michigan, Bernie, we'll see if that's true. I'm the guy that helped bailout the automobile industry. What did you do, old buddy? Come on.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "He says you got big plans, he gets results.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Well, I think in terms of results, when you support the disastrous war in Iraq, when you support the Wall Street bailout, when you support terrible trade agreements --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, how about the -- but how about the auto bailout, sir?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Well, the auto bailout was done by the Obama administration and it was a step forward. But I think sometimes Joe is taking a little bit of credit as vice president for initiatives that were led by President Obama and by many members of the Congress.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let's take a look at the practical politics here. The big prize on Tuesday -- or the biggest prize -- is Michigan with 125 delegates. You scored a major upset win there in 2016 against Hillary Clinton.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But on Super Tuesday, you lost to Biden among what many people would think would be your base, white, working class voters in a number of states. And Biden taunted you on your lack of support among some other groups. Here he is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "It's is ridiculous. Bernie, you got beaten by overwhelming support I have from the African-American community, Bernie. You got beaten because of suburban women, Bernie.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "If you were to lose in the first industrial Midwest state to vote, Michigan, on Tuesday, how serious is that? How damaging and would you consider dropping out?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Well, no, I certainly would not consider dropping out.  You know, Chris, media asks you, is this state or that state life or death? I was asked that at Iowa. I was asked that in New Hampshire. We won California, the largest state in this country. We are winning among Latino voters big-time. We are winning among young people. You know, when you talk about the future of this country, or the future of the Democratic Party, one might want to look where young people are at. And what young people are saying is that we have got to move aggressively to make sure that health care is a right for all. Young people want to raise that minimum wage to at least $15 an hour. Young people want us to rebuild our crumbling infrastructure, build the affordable housing that we need.  And, by the way, young people understand that we have massive levels of income and wealth inequality. We have three people or more wealth in the bottom half of America. They want changes. They're concerned about climate change. They're concerned about racism and sexism.  So, I think if you look at the general electorate, you look at the future of this country, I think you've got a lot of energy behind this.  Just yesterday, Chris, just yesterday, didn't get a lot of media attention for whatever reason. We have the rally in Grand Park in Chicago. We had 15,000 people out.  So, I'm feeling good about the momentum that we have. I think we're going to do well on Tuesday and I think we're going to beat Biden.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Beat Biden in Michigan?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Yes, I do. Yes. I think the polling -- you know, last time around, as you indicated, it was seen as a big upset –",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "-- because polling has down literally by 20 points one day before the election.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "OK. You talked in your last answer about income inequality and I want to press down on that with you. Here's something that you said last fall: I don't think billionaires should exist. First of all, a few billionaires, let's talk about, Bill Gates, Steve Jobs, Jeff Bezos, have created more than a million jobs, probably more than a million extra in terms of fallout as it -- as it goes from their companies, and created trillions of dollars of wealth.  Why should they share in the wealth that they create, which is helping not just them, but has helped a lot of Americans?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Chris, I have nothing personal against any billionaire. But when you are looking at an economy and an economy today where the top 1 percent owns more wealth than the bottom 92 percent, where over the last 30 years, the top 1 percent has seen a $21 trillion increase in their wealth while the bottom half of America has actually seen a decline, where real wages have potentially been stagnant for the last 45 years, workers in America not making a nickel more in real dollars than they did 45 years ago, when you got a half a million people sleeping out on the streets of America tonight homeless, when the very, very rich are getting richer, when you've got half of our people living paycheck to paycheck, 87 million people uninsured or underinsured, 45 million people dealing with student debt, young people can't afford to go to college -- I'm in Michigan now, go to Detroit. You've got a school district there which is inadequately funded with --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "-- so we've got to get our priorities right. That's what we have to do --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let me -- two questions. First of all, let's just take the case of Bill Gates. He created a whole new way for people to get information, to discuss, to communicate with each other, huge increase in the way we live now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "It's unimaginable not to have Microsoft and the various things that are created. One --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "He deserves great credit for that, Chris, I applaud him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So let me just say this. One, he's created a great economy. He's giving away billions of dollars, some could argue that he's done a lot more with his wealth than any politician would, and my --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Chris, Chris --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "-- which is one question. And the other is, how far would you go as a Democratic Socialist in terms of worker control of businesses?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Good. Well, two questions. No one is denigrating the achievements of Bill Gates or anybody else. But we have to look at culturally what's going on. Do people like the Walton family, for example, that owns Wal-Mart, they're worth well over $100 billion, when their workers are marking $11 or $12 an hour. No one is denigrating people who have made significant achievements but enough really is enough.  Does Mike Bloomberg really need $65 billion? To see his wealth increase by $15 billion in the last --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "-- couple of years.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "What do you about worker control?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Well, in terms of worker control, I believe it is important to put workers on the boards of directors of major corporations. And I'll tell you why, when you do that, corporations are not going to be so quick to shutdown in America and move to China, move to Mexico, and to move to other low wage countries. I want working people to say, you know what, I'm in a job, my ideas matter. I'm just not a cog in a machine. And in Vermont, by the way, and in states all over this country, where you have enterprises where workers, do have significant input into what goes on, absenteeism goes down, productivity goes up.  Democracy to me means not just voting every four years, having a bit of a say in the job that you're working at.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I got --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "I like that argument.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I've got two more questions I want to try to squeeze in here, sir. There's been a lot of talk recently about your support for certain aspects -- and I emphasize that -- aspects of Castro's Cuba. There's a story that came out this week that back in 2014, you were part of a congressional delegation that went to Cuba and that you met with an American political prisoner there named Alan Gross and he says this is the conversation the two of you had.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ALAN GROSS, UNITED STATES GOVERNMENT CONTRACTOR",
+      "sentences": "He said, quote, I don't know what's so wrong with this country. How could he be so insensitive to make that remark to a political hostage -- me.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Senator, did you say that to an American --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "No, I did not --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "-- political prisoner in Cuba?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "I remember that trip -- I remember that trip very well and I remember the terrible conditions that Mr. Gross lived in. His teeth were rotting. I did not make that statement. Why Mr. Gross is saying that, I have no idea. But I did not make that statement.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Look, Cuba is an authoritarian country. Saudi Arabia is an authoritarian country. And, Chris, if you check my record, I happen to be maybe old-fashioned, not like Donald Trump. I don't think Putin is a nice guy. I don't think Kim Jong-un of North Korea is a nice guy. I speak out for democracy all over the world, whether it is in Cuba, whether it's in Saudi Arabia, whether it's in Russia, wherever it is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Finally, there was a fascinating profile of you in \"The New York Times,\" I don't know if you got a chance to read it yesterday. It said that when you're in hotels, you want a room which is far away from the ice machines and the elevators, which I have to tell you, I think is perfectly sensible. It also said that you want your room to be at 60 degrees. And the question I have, sir, is, when you're on the road, do you hang meat in your room?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "I'll tell you, you know, maybe if -- having lived in Vermont for the last 50 years, I just don't sleep well when the room gets very, very warm. And my poor wife has been having to deal with that for decades now. So, I -- you know, and sometimes in hotels, in the night, they turn off the air conditioning and it gets pretty hot and I don't sleep and we're on the road a whole lot. But I do like -- I have to confess, I admit it, I do like cold rooms.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And -- and in 15 seconds, it also said that you like to watch old boxing matches on TV. Who's your favorite fighter, sir?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "I would go with Muhammad Ali, who was not only a great fighter, one of the great heavyweight champs of all time, but he was just an extraordinary human being and was probably the most loved athlete of his time.  WALLACE: Think he could have beaten Joe Louis (ph)?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Yes, I do.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Senator Sanders, thank you. Thanks for --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "You asked.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Incidentally, Joe Louis was from Michigan. You're going to be in trouble on that one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "And, by the way, I know. I just met -- it turns out that Chokwe Lumumba, who's the -- who is the mayor of Jackson, Mississippi, is campaigning for me in Michigan. It turns out his relations, his family, is related directly to Joe Louis, whose real name was Joseph Barrow. Barrow's family here in Michigan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "That's true. You got -- you got some -- some political repair work to do this afternoon.  Senator, thank you. Thanks for your time on this busy weekend. Safe travels on the campaign trail, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SANDERS",
+      "sentences": "Thank you very much, Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Up next, we'll bring in our Sunday group to discuss what's at stake Tuesday. Plus, President Trump's new chief of staff.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "We are very much alive!",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BIDEN",
+      "sentences": "And make no mistake about it, this campaign will send it Donald Trump packing. This campaign is taking off, join us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, what a difference a week makes. A reenergized Joe Biden, as the results from Super Tuesday put him back in the lead for the Democratic nomination. And it's time now for our Sunday group, cofounder of The Federalist, Ben Domenech, Fox News political analyst, Juan Williams, former Democratic congresswoman, Donna Edwards, and Jason Riley of \"The Wall Street Journal.\"  Well, Congresswoman, where is the Democratic race now, how solid is Biden's position as the front runner, and is it possible for Bernie Sanders to flip the script one more time?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONNA EDWARDS, FORMER DEMOCRATIC CONGRESSWOMAN",
+      "sentences": "Well, look, coming out of Super Tuesday, Biden could not have had a better night. I mean, he swept a ton of 14 states, he's in a very solid position, looks like he is pulling together the Democratic coalition it's going to be needed to beat Donald Trump in November. But I think, it is still a race to the finish, and it is possible that there could be some catch up, but Biden is in a very solid, strong position going into the coming Tuesday races.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And we should point out, that just this morning, Kamala Harris, the senator from California, former presidential candidate has now endorsed Joe Biden. Jason, we've been down this road before. Last summer, Biden was unbeatable, then Warren was in the lead. I mean, if we had talked a week ago, certainly ten days ago, we would've been saying that, can anybody stop Bernie Sanders, and now, it's Joe Biden. So, one, how do you see the race? And do you think there's a possibility that were going to see some more twists and turns?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JASON RILEY, FOX NEWS CONTRIBUTOR",
+      "sentences": "We could, I think Biden's lead is real, but I don't think he can get too comfortable. I think that he's benefited from a couple things, one is that Democrats, I think, took a lesson from what happened to Republicans in 2016, and you saw Pete Buttigieg and Amy Klobuchar, and even Beto O'Rourke down in Texas turnaround and indoors an alternative to -- I'm sorry, they got out of the race, and they turned around and they endorsed Biden, and that is something that Republicans, of course, did not do back in 2016, when it came to endorsing an alternative to Donald Trump. I also think that Biden has benefited from Bernie Sanders underperforming this cycle, to the extent that he did four years ago. Yes, he is doing better with young voters, but they are a smaller percentage of the voting public right now than they were four years ago. We talk about how Trump benefited from and say Clinton Senate stomach sentiment four years ago, but so did Clinton in the primary. There was a lot of anti-Hillary sentiment going on last time. Bernie benefited from that, that's out there this time, you're seeing him suffer because of it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, there is another big political story want to get too, that is that Friday night, President Trump announced, there you see them on the screen, he is replacing Mick Mulvaney as White House chief of staff with his fourth chief of staff, and a little over three years, Congressman Mark Meadows of North Carolina. Ben, why the switch, and what you think it says about the president's strategy as he prepares, in earnest, to go into the 2020 election campaign?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEN DOMENECH, THE FEDERALIST",
+      "sentences": "The president had reportedly soured on Mick Mulvaney as his chief of staff months ago. This is something that he wanted to do much earlier, but the impeachment process, as it was playing out, really didn't allow him to do that. Now we get someone who is really kind of a story of the Republican Party, in terms of Mark Meadows, someone who is the founder of the Freedom Caucus, a very ideological conservative, someone who, even reportedly was reluctant to go to the convention in 2016, because he didn't know if he wanted to be there supporting Donald Trump. Now, he is someone who is as loyal as you can be and was a fierce advocate for him on this network and others during the impeachment process. Meadows is someone who, I think, is just a signal to conservatives that Trump knows who he is close to, he's going to stick by them, and he's going to make that case to his Republican base going forward, in what he views to be a base election where he has a lot of things that he can say and advocate for, for reasons as to why he should be returned to the White House (ph).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Juan, the president reportedly told a group of donors on Friday night that mark meadows is going to be his Jim Baker, the very well- regarded first chief of staff to Ronald Reagan. You and I both covered the Reagan White House. Do you think this president really wants a Jim Baker?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS POLITICAL ANALYST",
+      "sentences": "No, because -- I mean, Jim Baker -- first of all, Jim Baker was respected across the political -- a consensus builder, and someone who is a student of government machinery in terms of the way government works. So, he had a deep appreciation of the government's ability to serve the American people. Mark Meadows is known as of firebrand. What you just heard, he's the fire of the Freedom Caucus, but he's also a guy who has mocked up government -- remember, they the shutdown in 2013, that was Freedom Caucus, that was Mark Meadows, And he has a distaste for how government actually operates. To contrary, he thinks the government is a problem, and has gone after bureaucrats and government workers. So, it's the exact opposite. I think it's a base play. I think it says to people who are strong Trump partisans, we've got our guy right next to the president, and I think there was fading confidence in Mick Mulvaney, especially after that press conference, when he talked about quid pro quos, and the like, but secondly, I think there was a low density was in charge. Well, the president is now after impeachment, calling in and pushing at people who he things aren't disloyal, but calling in terms of loyalists. You know, Hope is coming back and he is making a play right now to consolidate before the election.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Jason, your thoughts on the Meadows appointment, and the continued people in this White House.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RILEY",
+      "sentences": "I'm actually reluctant to read too much into the Meadows appointment. I think that, you know, the chief of staff traditionally has been a manager, or a gatekeeper to the Oval Office. I don't think Trump quite views is in that role, I think he sees the chief of staff is another aide, and he's looking for someone who's going to be a fighter for him, particularly in the media and be loyal to him. I think Mark Meadows checks both of those boxes, and he'll do fine.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Congresswoman?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDWARDS",
+      "sentences": "I mean, I agree. I do think that the choice of Meadows is actually a signal to people that there could be coming out as a spokesperson, a little bit more disciplined, I think than Mulvaney had, and thereby, the confidence of the president. But changing another chief of staff, frankly, is not going to make a difference for this president. The president really is his own chief of staff, and Mark Meadows may be a fill in, but this is really about Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, let's hope he's actually makes it to the election, he's not a fill-in to that sort of time. Panel, we have to take a break here. We'll see you a little later. When we come back, the spread of the coronavirus across the world, and here in the U.S. We'll discuss the response with Dr. Anthony Fauci, the nation's top expert on infectious disease.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Coming up, the president defends his ministrations handling of the coronavirus and downplays concerns testing kits were in short supply.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "They have the test and the tests are beautiful. Anybody that needs a test gets a test.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll ask Dr. Anthony Fauci about demands for screening and other public health fears.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "As Americans brace for the medical and economic impacts of the coronavirus, U.S. officials are trying to encourage preparedness without setting off a panic. Joining us now, Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases. Doctor, welcome back to FOX NEWS SUNDAY.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES",
+      "sentences": "Good to be with you, Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "What's the latest on the spread of the coronavirus across the country and the number of deaths here?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Well, we're having obviously an acceleration of cases now. If you look at it, every day we get more and more. We have somewhere around 350 -- 350. Probably going to be close to 400 if it isn't already there. We have at least 18 deaths and they keep coming on every day that goes by. What we're seeing is what -- what is called community spread in certain regions of the country, particularly in the area of Washington state, Seattle. Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So Italy just announced that it is going to lock down an entire region of northern Italy that includes Milan and Venice with a quarter of the population, millions of people, nobody's going to be allowed except under extraordinary circumstances to go in or to go out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Could that happened here?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "You know, we -- we have to be realistic. I -- I don't think it would be as draconian as nobody in a nobody out. But there will be, if we continue to get cases like this, particularly at the community level, there will be what we call mitigation where you'll have to do essentially social distancing, keep people out of crowded places, take a look at seriousness, do you really need to travel? Those kinds of things. And I think it's particularly important among the most venerable. And that's the thing that the CDC and the State Department are going to be making some recommendations about how people who have underlying conditions, those are the most vulnerable, particularly elderly with underlying conditions. Heart disease, chronic lung disease, diabetes. To do right now, not wait, but right now, to sort of take a look at things that are at high risk, crowded places, getting on airplanes, and absolutely don't get on a cruise ship.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So I want to -- I want to press this question, though, of Italy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Could -- could you see a situation, you know, you -- a lot of talk about Seattle and -- and what's going on there, where a city is shut down or a state or a region is shut down and you basically just say, for -- and in the case of Italy, it's till April 3rd, nobody in, nobody out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "It's possible. I think what you need to do on real-time basis, and that's the reason why we evaluated literally every single day. You know, you don't want to alarm people, but given the spread we see, you know, anything is possible. And that's the reason why we've got to be prepared to take whatever action is appropriate to contain and mitigate the outbreak.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "OK, meanwhile, the cruise ship, the Grand Princess --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "The latest call is that it has 3,500 people on it, that it's going to doc perhaps as early as tomorrow at a non-occupied dock in San Francisco Bay. People are then going to be taken off the ship. They're going to be sent to quarantines, California people to a base in California, the others to a base in Georgia. Are you comfortable with that or would you prefer to see those folks stay on that ship?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "No, absolutely not. I recommend very strongly in our meetings that we get those people off that ship. We don't want to have a repeat of what we saw at the Diamond Princess where the ship became almost a hot spot of transition. Now, I feel strongly about getting them off there and getting them under the appropriate quarantine and/or care for those who are sick.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "There has been some confusion about the response in this country to the disease. First of all, when a vaccine will become available. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I've heard very quick numbers, a matter of months, and I've heard pretty much a year would be an outside number.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "What is it going to be deployable? And that is going to be at the earliest a year to a year and a half no matter how fast you go.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Realistically, what's the earliest that a vaccine will be available for Americans to take?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Yes. I think people need to appreciate the difference between a vaccine that you've proven works. That's going to take a year to a year and a half. When you can get it scaled up, and that's the reason why we've met with the pharmaceutical companies, because once you show it works, then you got to scale it up to hundreds of millions of doses. We are talking at least a year to a year and a half. At least, at best.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You sound like you think it's longer than that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Well, you know, it might be with regard -- I mean I -- Chris, the test were doing right now, getting it into phase one trial, is the fastest we've ever done. Don't confuse that with when you can put it in someone's arm in a deployable way. So I think that we really need to be -- realize that, for now, the answer is not going to be a vaccine. If, in fact, we go into a cycle, where we come back next year, then we likely would have some opportunity for a vaccine.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "There have also been contradictions about when and how many people can get tested. Take a look at that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Anybody that needs a test gets the test. We -- they're there. They have the tests. And the tests are beautiful. Anybody that needs a test, get a test.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT",
+      "sentences": "We don't have enough tests today to meet what we anticipate will be the demand going forward.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Can anybody who needs a test get a test now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "The fact is, the tests are out there. There was a misstep early on with regard to the tests, namely a technical difficulty. But right now, about 1.1 million tests are out there now. They'll be an additional about 640,000 on let's say Monday. And then at least another 4 million, particularly now that we're engaging the private sector. Now, when you say that they're out there, if you go to a doctor, it's up to the doctor to order the test. And if that happens, a person should have a test available. But it's no doubt, Chris, you have to be realistic, early on there were some missteps that delayed it, but I think --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I want to -- I want to -- I want to pick up on that, Doctor.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And -- and the question of testing. I want to put some numbers on the screen. As of Thursday, the CDC had tested only 1,583 people in California, only 516 tests. Meanwhile, in South Korea, more than 66,000 people were tested within a week of the first case of community transmission. And they can now tested 10,000 people a day. Why are we so far behind?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "You know, I think -- I mean it gets back to what I said in the beginning, that the -- the CDC made a test, there was a technical glitch there. The CDC provides tests for the public health groups in the state and local. What we really need to do now, which were the numbers that I mentioned to you, is to get the private sector involved so that you could literally flood it with millions and millions of tests. That is happening now, but, in fact, the American people need to realize that in the beginning there was a glitch and we need to overcome that now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You spoke with \"Politico\" recently, and I want to put up part of what you had to say. You said, you should never destroy your own credibility, and you don't want to go to war with the president, but you've got to walk the fine balance of making sure you continue to tell the truth.\" You have had to correct the president a few times, especially on the availability and the schedule for vaccines. Where do you personally draw the line between reassuring people, but staying away from the spin?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Yes, I try as best as possible, and I think I succeed over many years of staying away from spin and just give people the information that you need based on evidence and hard facts. When you have the evidence, you give it as it is. If you don't have all the evidence, because we're in a dynamic situation, you use your best judgment and recommendations and guidelines, but you must always, always be truthful with the American public.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "There's a story today on AP that the White House overruled the CDC, which wanted to warn elderly people and people in physically fragile conditions not to get on commercial airplanes. One, do you know that whether that's true or not. And, two, what would you tell a relative of yours who was in --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Either in that class, either elderly or physically fragile, would you say staff off airplanes?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "No. Well, here's the deal, I can tell you right away, Chris, that no one overruled anybody about saying this. So let me say it loud and clear now. The CDC has a health alert and the State Department has more of a travel alert. Right now, I'm telling the American people, based on everything that's agreed upon in the task force, that if you are an individual who has an underlying condition, particularly an elderly person with an underlying condition, right now, not wait, you should start to distance yourself from the risk, crowds, getting on a plane, on a long plane trip, and, above all, don't get on a cruise ship. That is a health issue. What the State Department is saying from a logistics standpoint, don't get on a cruise ship because you could come out, have a person on there, then all of a sudden you find yourself not being able to get back and quarantine. No one has told us not to say that, and I'm saying it very clearly now on your show.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Finally, I have noticed, you've been all over television the last few days. You have a bit of a raspy voice. Have you tested yourself or had yourself tested for the coronavirus?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "My -- no, because I have not been at risk. My raspy voice is the fact that I'm talking too much on TV shows.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, keep doing it. You are a voice of reason and science and authority. And I think when people hear you, they -- your -- they have reason to think they're getting the straight scoop.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Thank you very much, Doctor.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Thank you for giving me the opportunity, Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Always good to talk with you, sir. Up next, we'll bring back our Sunday group to discuss the president's plan to contain the outbreak. Plus, what would you like to ask the panel about how the spread of the virus could threaten the U.S. economy? Just go to FaceBook or Twitter and FOX NEWS SUNDAY and we may use your question on the air.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "The tests are all perfect, like the letter was perfect. The transcription was perfect.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Trump mixing politics and public health as he discusses the availability of coronavirus tests and tries to reassure the public. And we're back now with the panel. Ben, how do you think President Trump is handling the coronavirus? How do you think his administration is handling the coronavirus?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOMENECH",
+      "sentences": "Well, I think that as your prior guest, the good doctor, said, there were some early glitches in terms of their handling of this. I think the thing that's really on the mind of the president, though, is his broader agenda going into the 2020 election. And I think that that is changing and shifting a little bit of the things that he's saying about this in a way that he should really correct because he shouldn't be viewing this in the context of politics, he should be viewing it in the contest of public health. And there, I think, needs to be a real sticking to the talking points that he has, the facts as we know them, and not shifting the two because he's worried, frankly, about what this is going to do to the economy in a way that he, I think, is responding to questions in the media, which are legitimate, about the kind of economic impact this is going to have.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We asked you for questions for the panel, and on the issue of how the coronavirus could impact, or even threaten the U.S. economy, we got this on Twitter from Texas Guy, has the coverage, media coverage of the coronavirus been overhyped. Juan, how do you answer Texas Guy?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, I think there are alarmists out there, but, you know, the president, I think, has been somewhat partisan, wearing that red hat, calling the government of Washington state, Jay Inslee, a snake and all that. I just don't like it because, like Ben, my preferences, I just want to have trust in government at this critical time. I note that when you get away from media, let's just look at Wall Street, that you get companies like Goldman Sachs downgrading their forecast for the year economically, obviously the stock market has been up-and-down, the uncertainty, producing a great amount of anxiety and fear there. So that's away from media. Clearly people who have skin in the game in terms of money are saying, when you look at Italy, when you look at Greece, what happened in China, were disrupting supply chains, were disrupting travel industry, airplanes, cruise ships and the like. So this is not good. And so I -- you know, it's not what I think, and I don't think it's like the media hype. We've got a stay away from the alarmists. But there's something going on here that's quite serious.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Jason, this is not just a medical story, not just an economic story, it's also very much, as has been suggested by Ben, a political story, because Donald Trump was understandably planning to run on a strong economic record. Record growth, low unemployment, records in the stock market, and now, suddenly, all of that is in jeopardy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RILEY",
+      "sentences": "Yes. How serious a threat does this pose, potentially, we don't know what it's going to be like in the fall, but how serious a threat does this pose, potentially, to the president's re-election?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RILEY",
+      "sentences": "I think it's something that -- that he has to be worried about, frankly. We're in uncharted territory here. This is not just the flu. It's much more serious than the flu. The mortality rate is higher than the flu. It's not as bad as the SARS virus so far, but it is worse than the flu. And we need to work our way through it. And he needs to find a way to reassure people, without being overly dismissive of the seriousness of this. And it is going to affect the economy. It's going to affect the supply chains. Businesses like certainty. This introduces all kinds of uncertainty. We have spring break travel coming up that's being canceled. Conferences are being canceled. So he's going to have to work through this. What he has going for him, and as we found out with the jobs report on Friday, is that this economy is on pretty good footing right now. If you look at what's going on in Japan and China, the second and third largest economies in the world after ours, they're sort of teetering on recession. And this could push them into it. What we know from our jobs report is that our economy right now is pretty solid, which means we're in a pretty good position to absorb whatever shock we get from us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But you do have to wonder, as you talk about all the conferences that are being canceled, and we hear about airlines which are cutting flights by a dramatic amounts, this is going to filter into the -- into the economy --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RILEY",
+      "sentences": "Absolutely.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "You know, as we head into March and April.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RILEY",
+      "sentences": "Absolutely. And, again, he will have to find a way to reassure people, and not overpromise in terms of how quickly we are going to get past this. I think he needs to let the health professionals do their job and not be out there contradicting them or second-guessing them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Congresswoman Edwards, obviously we have no idea where this is going to be in the fall. I mean maybe the president's right, and like the flu, as we get into warmer weather, it will begin to diminish, maybe not. How legitimate do you think it is for Democrats to go after the president on the administration response to the coronavirus?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDWARDS",
+      "sentences": "Well, I think it's legitimate to, you know, to challenge the process and the management of this crisis. And it is a public health crisis. And I think whenever we hear Dr. Fauci and other experts talk about this virus and about what to do and what -- what Americans can do, that it actually is somewhat reassuring. But what we don't get is that kind of reassurance coming directly from the president, because of his contradictions, because, you know, the information that he puts out is just on accurate. I mean he would actually, I think, do better in terms of the public if he just shut up because I don't think people wouldn't necessarily blame the president for something that was out of his control, but if he continues and his administration mismanages the crisis, then I think it's a legitimate point of challenge by anyone who wants to be president saying, I'd manage it better. I mean we saw the impact, for example, that Hurricane Katrina and the response had with President Bush, and I don't think this is, you know, different in that respect. But the president doesn't do himself or the American public any good when he makes assertions that are completely contrary to the scientific evidence.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Ben, the president has literally tweeted this morning, prior to this conversation, that the administration is doing a great job and it's a fake news media that's running him down.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOMENECH",
+      "sentences": "You know, I think we can believe a couple of different things are true here. One is, the panic is overblown. This is not the kind of public health crisis, yet, that people are treating it in the way that they're approaching it in some sections of the media. However, it's very serious. It should result in changes in human behavior for the time being, as we figure out how we have to adjust to live our lives this way. Just to note -- a personal thing here. Bre Paton (ph), who's a former guest on Fox News quite a lot, passed away a little over a year ago, one of our employees, from the flu. And so the flu is very serious. We have a very high level of flu and America right now. And so people should take this seriously. But don't freak out. Don't -- don't panic. Don't -- don't turn into, you know, a -- a, you know, Black Friday mob at the -- at the Costco when you're trying to prepare for this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And on -- quoting the congresswoman, that the president, I'll be gentler, should be quiet?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DOMENECH",
+      "sentences": "I think that the president should, as I said, stick to the talking points that he's given. You know, he's not a medical professional, but he's surrounded by them now. There are a lot of serious people working on this. I think he should just stick to those points and not go off script the way that he does so often.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Yes, I think it hurts them politically. And you can see it, there's a public opinion -- public policy poll out that says 51 percent of Americans at the moment disapprove of the way he's handling this. But I agree with Congresswoman Edwards that if he said nothing, people wouldn't blame him. People might be, you know --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RILEY",
+      "sentences": "No, people look to the present for leadership on things like this. He needs to watch what he says, yes, but I don't think he should stop talking about this. The president --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDWARDS",
+      "sentences": "Well, the president is incapable of doing that. And so I think he should really, you know, defer to the people in his administration --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RILEY",
+      "sentences": "Fine, but -- but -- but he should --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "EDWARDS",
+      "sentences": "Who really have the capacity to make the American public comfortable in where we need to be.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, thank you, panel, see you next Sunday. My guess is, unfortunately, we'll still be talking about this. Up next, our \"Power Player of the Week,\" The Girl Scout who became a rocket scientist and is now leading the organization into the future.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "When you think of the Girl Scouts, you may think about buying thin mints or samoa, but our \"Power Player of the Week\" wants you to know the century old organization offers a lot more.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SYLVIA ACEVEDO, CEO, GIRL SCOUTS USA",
+      "sentences": "The world is changing very rapidly, and we want to make sure that girls have those skills to not just be users of technology, but the creators, the inventors, and the designers.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Sylvia Acevedo is CEO of Girl Scouts USA, a former rocket scientist and tech executive, her goal is to bring science, technology, engineering, and math skills to the Scouts.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ACEVEDO",
+      "sentences": "We have the scale and the reach to teach girls much-needed tech skills.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "We deploy our scissor lift.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ACEVEDO",
+      "sentences": "We've had over 1 million STEM badges earned in 2019.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ACEVEDO",
+      "sentences": "We do have our hand firmly rooted in our traditions, but we always have to be looking also with that hand, looking at the future.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "You're doing about 330 knots. WALLACE (voice over): New programs aimed to make stem accessible for all ages.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "Would you like some cookies?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And even those iconic cookies play a part.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ACEVEDO",
+      "sentences": "It's the largest female entrepreneurship program in the world. WALLACE (voice over): Girl Scouts to sell 200 million boxes each year, bringing in $850 million, that fund local troops, adventures in learning. When Girl Scouts started, girls and women's programs got less than 9 percent of any non-profit dollars or philanthropy dollars. It's the same today. And so the cookie program allows us to continue to provide these cutting-edge programs and amazing experiences for girls.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Juliette Gordon Low formed the Scouts in 1912 to teach girls leadership, self-sufficiency, and outdoor skills.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "There you go.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Today, there are 1.6 million girl scouts despite stiff competition.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ACEVEDO",
+      "sentences": "You know, it provides another competitor in the marketplace. We have many competitors. We are going to continue to stay laser focused on our amazing outcomes and programs. WALLACE (voice over): Acevedo was seven when she joined the Girl Scouts. On a camping trip, a troop leader noticed her looking up at the stars and encouraged her to earn a badge about space.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ACEVEDO",
+      "sentences": "I got my science badge making an SD's (ph) rocket. And I tried and failed quite a few times, but I persisted. And when it finally launched, and I saw it go into that beautiful blue New Mexico sky, I thought, I could do this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "She went on to become a NASA rocket scientist, an IBM engineer, and an Apple executive. She says the confidence she gained in Scouts propelled her and others.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ACEVEDO",
+      "sentences": "It wasn't just me, it was millions of women like me. It's one of the reasons half of all elected officials in America were Girl Scouts and 60 percent of the women in Congress, Girl Scouts, 75 percent of the women senators, Girl Scouts, and so man business leaders, Girl Scouts.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Her plan now to build that same foundation in a changing world for today's girls.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ACEVEDO",
+      "sentences": "I wouldn't have had the opportunities in my life had it not been for the Girl Scouts. That is really our mission, to create girls of courage, confidence, and character, who make the world a better place.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And we have our very own Girl Scout on the panel today. Donna Edwards started as a daisy, and when she was in Congress, served as co- chair of the troop Capitol Hill, made up of all the female members of the House and Senate. Now, this program note. Senator Bernie Sanders will be back again on Fox tomorrow night at 6:30 p.m. Eastern for a town hall live from Detroit. And that's it for today. Have a great week, and we'll see you next \"Fox News Sunday.\" Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, ANCHOR",
+      "utterance": "I'm Chris Wallace. President Trump ramps up the federal response to the coronavirus as the outbreak kills more than 3,000 worldwide."
+    },
+    {
+      "speaker": "PRESIDENT DONALD TRUMP",
+      "utterance": "We're prepared. We are really, very highly prepared for anything."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "As the president tries to calm fears, the fallout continuous -- rocking the markets, disrupting travel, and closing schools. We'll discuss where this is headed with Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases. The 2020 Democratic field narrows to just two -- as Bernie Sanders looks to stop Joe Biden's surging momentum."
+    },
+    {
+      "speaker": "JOE BIDEN, D-PRESIDENTIAL CANDIDATE",
+      "utterance": "They don't call it Super Tuesday for nothing."
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS, I-VT., PRESIDENTIAL CNADIDATE",
+      "utterance": "We are going to win the Democratic nomination."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "With the next big votes this Tuesday in six states, we'll ask Sanders if he can flip the race for the Democratic nomination one more time. Plus, a Friday night surprise as the president plots his reelection campaign. He replaces Chief of Staff Mick Mulvaney with a key ally, Congressman Mark Meadows. We'll ask our Sunday panel about the West Wing shake-up. And, our \"Power Player of the Week,\" a former rocket scientist shares her love of STEM as the head of the Girl Scouts."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "We want to make sure that girls have those skills to not just be users of technology but the creators, inventors, and designers."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All, right now, on \"Fox News Sunday\"."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And, hello again from FOX News in Washington. We're following two big stories today, first, the continuing spread of the coronavirus. The U.S. now has more than 400 confirmed cases, 19 deaths, and six states declaring emergencies. Meanwhile, the Democratic race is down to Bernie Sanders and Joe Biden, we are just two days away from another round of primaries. Six states including Michigan, the first big rust belt state to vote. In a minute, we'll speak with Senator Sanders as he prepares to go head-to- head against Biden for the first time. But, first, let's bring in Kevin Corke reporting from the president's retreat at Mar-a-Lago with the latest on the coronavirus, Kevin."
+    },
+    {
+      "speaker": "KEVIN CORKE, FOX NEWS CORRESPONDENT",
+      "utterance": "Chris, overnight, we learned that a marine who recently returned from overseas, this marine is now in Virginia, has tested positive for the virus. He's actually being treated at a hospital there. Just the latest example of the continuing spread of the disease both here at home and abroad."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "From the White House to the Centers for Disease Control in Atlanta, an all-hands response by the Trump administration meant to reassure Americans that its strategy to contain the coronavirus is working."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "We're the only country, in that sense, that's proactive. We're totally proactive and we're totally equipped to handle it. Thank you very much, everybody."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "But the White House's preparedness is being both tested and questioned. Critics argue that the administration hasn't adequately produced testing material to detect the true scope of the virus which has now spread to dozens of states and the District of Columbia, causing events like the annual South by Southwest gathering in Texas to be canceled and California officials to delay docking privileges for the virus affected Grand Princess cruise ship. Globally, the outbreak has sent shockwaves from China, where a hospital meant to house the infirm collapsed yesterday, to Italy where 16 million people have now been placed under quarantine. Back at the White House, a staff shake-up capped a turbulent week as the president tweeted he'll replace acting Chief of Staff Mick Mulvaney with retiring North Carolina Congressman Mark Meadows, a staunch supporter of the president."
+    },
+    {
+      "speaker": "CORKE",
+      "utterance": "On Capitol Hill tomorrow, the House is set to set up a special center to prepare infrastructure for possible telework as Capitol Hill becomes the latest front in the fight -- Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Kevin Corke, reporting for Mar-a-Lago -- Kevin, thanks. We'll have more on the coronavirus later in the program but, first, back to politics. And joining us from the campaign trail in Michigan, Democratic presidential candidate and senator, Bernie Sanders. Senator, since Super Tuesday, you've been going after Joe Biden pretty hard on a number of issues. Take a look."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "One of us in this race led the opposition for the war in Iraq. One of us led the opposition to disastrous trade agreements. One of us has spent his entire life fighting against cuts in Social Security."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Senator, now that this is a two-man race and you're going to have a two-man debate next Sunday, how hard do you go after Joe Biden without carving each other up and helping Donald Trump win reelections?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Well, Chris, that's the right question. Joe Biden is a friend of mine. Joe Biden is a decent guy. What Joe has said is if I win the nomination, he'll be there for me, and I have said if he wins the nomination, I'll be there for him because we both recognize that we have a president who is a pathological liar, and I say that without any joy in my heart, as somebody who's running a corrupt the administration, somebody apparently who has never read the Constitution of the United States and thinks he's above the law.  So, Biden and I, no matter who wins this thing, will be together in defeating Trump, but now that it is a two-way race, it is important for the voters of this country to ask themselves two questions. Number one, which candidate is stronger in terms of being able to defeat Trump. And number two, what are the differences in a record. Joe has been in Washington for a long time as have I. And my point is when people see the records, Joe voted for the war in Iraq, I opposed the war in Iraq. Joe voted for the Wall Street bailout, I vigorously opposed the Wall Street bailout. When you go to the Midwest -- we're in Michigan right now. You go to Wisconsin, you got to Pennsylvania, people want to know about your views on trade , because disastrous trade agreements like NAFTA and PNTR with China cost this country over 4 million good-paying jobs, decimated communities here in Michigan. I helped lead the oppositions of those trade agreements, Joe voted for them."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Senator, Joe Biden is also going after you and here he is on who is better able to help working Americans. Take a look."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "Now, let's go to Michigan, Bernie, we'll see if that's true. I'm the guy that helped bailout the automobile industry. What did you do, old buddy? Come on."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "He says you got big plans, he gets results."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Well, I think in terms of results, when you support the disastrous war in Iraq, when you support the Wall Street bailout, when you support terrible trade agreements --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, how about the -- but how about the auto bailout, sir?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Well, the auto bailout was done by the Obama administration and it was a step forward. But I think sometimes Joe is taking a little bit of credit as vice president for initiatives that were led by President Obama and by many members of the Congress."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let's take a look at the practical politics here. The big prize on Tuesday -- or the biggest prize -- is Michigan with 125 delegates. You scored a major upset win there in 2016 against Hillary Clinton."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But on Super Tuesday, you lost to Biden among what many people would think would be your base, white, working class voters in a number of states. And Biden taunted you on your lack of support among some other groups. Here he is."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "It's is ridiculous. Bernie, you got beaten by overwhelming support I have from the African-American community, Bernie. You got beaten because of suburban women, Bernie."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "If you were to lose in the first industrial Midwest state to vote, Michigan, on Tuesday, how serious is that? How damaging and would you consider dropping out?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Well, no, I certainly would not consider dropping out.  You know, Chris, media asks you, is this state or that state life or death? I was asked that at Iowa. I was asked that in New Hampshire. We won California, the largest state in this country. We are winning among Latino voters big-time. We are winning among young people. You know, when you talk about the future of this country, or the future of the Democratic Party, one might want to look where young people are at. And what young people are saying is that we have got to move aggressively to make sure that health care is a right for all. Young people want to raise that minimum wage to at least $15 an hour. Young people want us to rebuild our crumbling infrastructure, build the affordable housing that we need.  And, by the way, young people understand that we have massive levels of income and wealth inequality. We have three people or more wealth in the bottom half of America. They want changes. They're concerned about climate change. They're concerned about racism and sexism. So, I think if you look at the general electorate, you look at the future of this country, I think you've got a lot of energy behind this.  Just yesterday, Chris, just yesterday, didn't get a lot of media attention for whatever reason. We have the rally in Grand Park in Chicago. We had 15,000 people out. So, I'm feeling good about the momentum that we have. I think we're going to do well on Tuesday and I think we're going to beat Biden."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Beat Biden in Michigan?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Yes, I do. Yes. I think the polling -- you know, last time around, as you indicated, it was seen as a big upset –"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "-- because polling has down literally by 20 points one day before the election."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "OK. You talked in your last answer about income inequality and I want to press down on that with you. Here's something that you said last fall: I don't think billionaires should exist. First of all, a few billionaires, let's talk about, Bill Gates, Steve Jobs, Jeff Bezos, have created more than a million jobs, probably more than a million extra in terms of fallout as it -- as it goes from their companies, and created trillions of dollars of wealth.  Why should they share in the wealth that they create, which is helping not just them, but has helped a lot of Americans?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Chris, I have nothing personal against any billionaire. But when you are looking at an economy and an economy today where the top 1 percent owns more wealth than the bottom 92 percent, where over the last 30 years, the top 1 percent has seen a $21 trillion increase in their wealth while the bottom half of America has actually seen a decline, where real wages have potentially been stagnant for the last 45 years, workers in America not making a nickel more in real dollars than they did 45 years ago, when you got a half a million people sleeping out on the streets of America tonight homeless, when the very, very rich are getting richer, when you've got half of our people living paycheck to paycheck, 87 million people uninsured or underinsured, 45 million people dealing with student debt, young people can't afford to go to college -- I'm in Michigan now, go to Detroit. You've got a school district there which is inadequately funded with --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But --"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "-- so we've got to get our priorities right. That's what we have to do --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let me -- two questions. First of all, let's just take the case of Bill Gates. He created a whole new way for people to get information, to discuss, to communicate with each other, huge increase in the way we live now."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "It's unimaginable not to have Microsoft and the various things that are created. One --"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "He deserves great credit for that, Chris, I applaud him."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So let me just say this. One, he's created a great economy. He's giving away billions of dollars, some could argue that he's done a lot more with his wealth than any politician would, and my --"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Chris, Chris --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "-- which is one question. And the other is, how far would you go as a Democratic Socialist in terms of worker control of businesses?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Good. Well, two questions. No one is denigrating the achievements of Bill Gates or anybody else. But we have to look at culturally what's going on. Do people like the Walton family, for example, that owns Wal-Mart, they're worth well over $100 billion, when their workers are marking $11 or $12 an hour. No one is denigrating people who have made significant achievements but enough really is enough. Does Mike Bloomberg really need $65 billion? To see his wealth increase by $15 billion in the last --"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "-- couple of years."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "What do you about worker control?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Well, in terms of worker control, I believe it is important to put workers on the boards of directors of major corporations. And I'll tell you why, when you do that, corporations are not going to be so quick to shutdown in America and move to China, move to Mexico, and to move to other low wage countries. I want working people to say, you know what, I'm in a job, my ideas matter. I'm just not a cog in a machine. And in Vermont, by the way, and in states all over this country, where you have enterprises where workers, do have significant input into what goes on, absenteeism goes down, productivity goes up. Democracy to me means not just voting every four years, having a bit of a say in the job that you're working at."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I got --"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "I like that argument."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I've got two more questions I want to try to squeeze in here, sir. There's been a lot of talk recently about your support for certain aspects -- and I emphasize that -- aspects of Castro's Cuba. There's a story that came out this week that back in 2014, you were part of a congressional delegation that went to Cuba and that you met with an American political prisoner there named Alan Gross and he says this is the conversation the two of you had."
+    },
+    {
+      "speaker": "ALAN GROSS, UNITED STATES GOVERNMENT CONTRACTOR",
+      "utterance": "He said, quote, I don't know what's so wrong with this country. How could he be so insensitive to make that remark to a political hostage -- me."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Senator, did you say that to an American --"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "No, I did not --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "-- political prisoner in Cuba?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "I remember that trip -- I remember that trip very well and I remember the terrible conditions that Mr. Gross lived in. His teeth were rotting. I did not make that statement. Why Mr. Gross is saying that, I have no idea. But I did not make that statement."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Look, Cuba is an authoritarian country. Saudi Arabia is an authoritarian country. And, Chris, if you check my record, I happen to be maybe old-fashioned, not like Donald Trump. I don't think Putin is a nice guy. I don't think Kim Jong-un of North Korea is a nice guy. I speak out for democracy all over the world, whether it is in Cuba, whether it's in Saudi Arabia, whether it's in Russia, wherever it is."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Finally, there was a fascinating profile of you in \"The New York Times,\" I don't know if you got a chance to read it yesterday. It said that when you're in hotels, you want a room which is far away from the ice machines and the elevators, which I have to tell you, I think is perfectly sensible. It also said that you want your room to be at 60 degrees. And the question I have, sir, is, when you're on the road, do you hang meat in your room?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "I'll tell you, you know, maybe if -- having lived in Vermont for the last 50 years, I just don't sleep well when the room gets very, very warm. And my poor wife has been having to deal with that for decades now. So, I -- you know, and sometimes in hotels, in the night, they turn off the air conditioning and it gets pretty hot and I don't sleep and we're on the road a whole lot. But I do like -- I have to confess, I admit it, I do like cold rooms."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And -- and in 15 seconds, it also said that you like to watch old boxing matches on TV. Who's your favorite fighter, sir?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "I would go with Muhammad Ali, who was not only a great fighter, one of the great heavyweight champs of all time, but he was just an extraordinary human being and was probably the most loved athlete of his time.  WALLACE: Think he could have beaten Joe Louis (ph)?"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Yes, I do."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Senator Sanders, thank you. Thanks for --"
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "You asked."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Incidentally, Joe Louis was from Michigan. You're going to be in trouble on that one."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "And, by the way, I know. I just met -- it turns out that Chokwe Lumumba, who's the -- who is the mayor of Jackson, Mississippi, is campaigning for me in Michigan. It turns out his relations, his family, is related directly to Joe Louis, whose real name was Joseph Barrow. Barrow's family here in Michigan."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "That's true. You got -- you got some -- some political repair work to do this afternoon.  Senator, thank you. Thanks for your time on this busy weekend. Safe travels on the campaign trail, sir."
+    },
+    {
+      "speaker": "SANDERS",
+      "utterance": "Thank you very much, Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Up next, we'll bring in our Sunday group to discuss what's at stake Tuesday. Plus, President Trump's new chief of staff."
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "We are very much alive!"
+    },
+    {
+      "speaker": "BIDEN",
+      "utterance": "And make no mistake about it, this campaign will send it Donald Trump packing. This campaign is taking off, join us."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, what a difference a week makes. A reenergized Joe Biden, as the results from Super Tuesday put him back in the lead for the Democratic nomination. And it's time now for our Sunday group, cofounder of The Federalist, Ben Domenech, Fox News political analyst, Juan Williams, former Democratic congresswoman, Donna Edwards, and Jason Riley of \"The Wall Street Journal.\" Well, Congresswoman, where is the Democratic race now, how solid is Biden's position as the front runner, and is it possible for Bernie Sanders to flip the script one more time?"
+    },
+    {
+      "speaker": "DONNA EDWARDS, FORMER DEMOCRATIC CONGRESSWOMAN",
+      "utterance": "Well, look, coming out of Super Tuesday, Biden could not have had a better night. I mean, he swept a ton of 14 states, he's in a very solid position, looks like he is pulling together the Democratic coalition it's going to be needed to beat Donald Trump in November. But I think, it is still a race to the finish, and it is possible that there could be some catch up, but Biden is in a very solid, strong position going into the coming Tuesday races."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And we should point out, that just this morning, Kamala Harris, the senator from California, former presidential candidate has now endorsed Joe Biden. Jason, we've been down this road before. Last summer, Biden was unbeatable, then Warren was in the lead. I mean, if we had talked a week ago, certainly ten days ago, we would've been saying that, can anybody stop Bernie Sanders, and now, it's Joe Biden. So, one, how do you see the race? And do you think there's a possibility that were going to see some more twists and turns?"
+    },
+    {
+      "speaker": "JASON RILEY, FOX NEWS CONTRIBUTOR",
+      "utterance": "We could, I think Biden's lead is real, but I don't think he can get too comfortable. I think that he's benefited from a couple things, one is that Democrats, I think, took a lesson from what happened to Republicans in 2016, and you saw Pete Buttigieg and Amy Klobuchar, and even Beto O'Rourke down in Texas turnaround and indoors an alternative to -- I'm sorry, they got out of the race, and they turned around and they endorsed Biden, and that is something that Republicans, of course, did not do back in 2016, when it came to endorsing an alternative to Donald Trump. I also think that Biden has benefited from Bernie Sanders underperforming this cycle, to the extent that he did four years ago. Yes, he is doing better with young voters, but they are a smaller percentage of the voting public right now than they were four years ago. We talk about how Trump benefited from and say Clinton Senate stomach sentiment four years ago, but so did Clinton in the primary. There was a lot of anti-Hillary sentiment going on last time. Bernie benefited from that, that's out there this time, you're seeing him suffer because of it."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, there is another big political story want to get too, that is that Friday night, President Trump announced, there you see them on the screen, he is replacing Mick Mulvaney as White House chief of staff with his fourth chief of staff, and a little over three years, Congressman Mark Meadows of North Carolina. Ben, why the switch, and what you think it says about the president's strategy as he prepares, in earnest, to go into the 2020 election campaign?"
+    },
+    {
+      "speaker": "BEN DOMENECH, THE FEDERALIST",
+      "utterance": "The president had reportedly soured on Mick Mulvaney as his chief of staff months ago. This is something that he wanted to do much earlier, but the impeachment process, as it was playing out, really didn't allow him to do that. Now we get someone who is really kind of a story of the Republican Party, in terms of Mark Meadows, someone who is the founder of the Freedom Caucus, a very ideological conservative, someone who, even reportedly was reluctant to go to the convention in 2016, because he didn't know if he wanted to be there supporting Donald Trump. Now, he is someone who is as loyal as you can be and was a fierce advocate for him on this network and others during the impeachment process. Meadows is someone who, I think, is just a signal to conservatives that Trump knows who he is close to, he's going to stick by them, and he's going to make that case to his Republican base going forward, in what he views to be a base election where he has a lot of things that he can say and advocate for, for reasons as to why he should be returned to the White House (ph)."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Juan, the president reportedly told a group of donors on Friday night that mark meadows is going to be his Jim Baker, the very well- regarded first chief of staff to Ronald Reagan. You and I both covered the Reagan White House. Do you think this president really wants a Jim Baker?"
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX NEWS POLITICAL ANALYST",
+      "utterance": "No, because -- I mean, Jim Baker -- first of all, Jim Baker was respected across the political -- a consensus builder, and someone who is a student of government machinery in terms of the way government works. So, he had a deep appreciation of the government's ability to serve the American people. Mark Meadows is known as of firebrand. What you just heard, he's the fire of the Freedom Caucus, but he's also a guy who has mocked up government -- remember, they the shutdown in 2013, that was Freedom Caucus, that was Mark Meadows, And he has a distaste for how government actually operates. To contrary, he thinks the government is a problem, and has gone after bureaucrats and government workers. So, it's the exact opposite. I think it's a base play. I think it says to people who are strong Trump partisans, we've got our guy right next to the president, and I think there was fading confidence in Mick Mulvaney, especially after that press conference, when he talked about quid pro quos, and the like, but secondly, I think there was a low density was in charge. Well, the president is now after impeachment, calling in and pushing at people who he things aren't disloyal, but calling in terms of loyalists. You know, Hope is coming back and he is making a play right now to consolidate before the election."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Jason, your thoughts on the Meadows appointment, and the continued people in this White House."
+    },
+    {
+      "speaker": "RILEY",
+      "utterance": "I'm actually reluctant to read too much into the Meadows appointment. I think that, you know, the chief of staff traditionally has been a manager, or a gatekeeper to the Oval Office. I don't think Trump quite views is in that role, I think he sees the chief of staff is another aide, and he's looking for someone who's going to be a fighter for him, particularly in the media and be loyal to him. I think Mark Meadows checks both of those boxes, and he'll do fine."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Congresswoman?"
+    },
+    {
+      "speaker": "EDWARDS",
+      "utterance": "I mean, I agree. I do think that the choice of Meadows is actually a signal to people that there could be coming out as a spokesperson, a little bit more disciplined, I think than Mulvaney had, and thereby, the confidence of the president. But changing another chief of staff, frankly, is not going to make a difference for this president. The president really is his own chief of staff, and Mark Meadows may be a fill in, but this is really about Donald Trump."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, let's hope he's actually makes it to the election, he's not a fill-in to that sort of time. Panel, we have to take a break here. We'll see you a little later. When we come back, the spread of the coronavirus across the world, and here in the U.S. We'll discuss the response with Dr. Anthony Fauci, the nation's top expert on infectious disease."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Coming up, the president defends his ministrations handling of the coronavirus and downplays concerns testing kits were in short supply."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "They have the test and the tests are beautiful. Anybody that needs a test gets a test."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll ask Dr. Anthony Fauci about demands for screening and other public health fears."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "As Americans brace for the medical and economic impacts of the coronavirus, U.S. officials are trying to encourage preparedness without setting off a panic. Joining us now, Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases. Doctor, welcome back to FOX NEWS SUNDAY."
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES",
+      "utterance": "Good to be with you, Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "What's the latest on the spread of the coronavirus across the country and the number of deaths here?"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Well, we're having obviously an acceleration of cases now. If you look at it, every day we get more and more. We have somewhere around 350 -- 350. Probably going to be close to 400 if it isn't already there. We have at least 18 deaths and they keep coming on every day that goes by. What we're seeing is what -- what is called community spread in certain regions of the country, particularly in the area of Washington state, Seattle. Yes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So Italy just announced that it is going to lock down an entire region of northern Italy that includes Milan and Venice with a quarter of the population, millions of people, nobody's going to be allowed except under extraordinary circumstances to go in or to go out."
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Could that happened here?"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "You know, we -- we have to be realistic. I -- I don't think it would be as draconian as nobody in a nobody out. But there will be, if we continue to get cases like this, particularly at the community level, there will be what we call mitigation where you'll have to do essentially social distancing, keep people out of crowded places, take a look at seriousness, do you really need to travel? Those kinds of things. And I think it's particularly important among the most venerable. And that's the thing that the CDC and the State Department are going to be making some recommendations about how people who have underlying conditions, those are the most vulnerable, particularly elderly with underlying conditions. Heart disease, chronic lung disease, diabetes. To do right now, not wait, but right now, to sort of take a look at things that are at high risk, crowded places, getting on airplanes, and absolutely don't get on a cruise ship."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So I want to -- I want to press this question, though, of Italy."
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Could -- could you see a situation, you know, you -- a lot of talk about Seattle and -- and what's going on there, where a city is shut down or a state or a region is shut down and you basically just say, for -- and in the case of Italy, it's till April 3rd, nobody in, nobody out."
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "It's possible. I think what you need to do on real-time basis, and that's the reason why we evaluated literally every single day. You know, you don't want to alarm people, but given the spread we see, you know, anything is possible. And that's the reason why we've got to be prepared to take whatever action is appropriate to contain and mitigate the outbreak."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "OK, meanwhile, the cruise ship, the Grand Princess --"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "The latest call is that it has 3,500 people on it, that it's going to doc perhaps as early as tomorrow at a non-occupied dock in San Francisco Bay. People are then going to be taken off the ship. They're going to be sent to quarantines, California people to a base in California, the others to a base in Georgia. Are you comfortable with that or would you prefer to see those folks stay on that ship?"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "No, absolutely not. I recommend very strongly in our meetings that we get those people off that ship. We don't want to have a repeat of what we saw at the Diamond Princess where the ship became almost a hot spot of transition. Now, I feel strongly about getting them off there and getting them under the appropriate quarantine and/or care for those who are sick."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "There has been some confusion about the response in this country to the disease. First of all, when a vaccine will become available. Take a look."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I've heard very quick numbers, a matter of months, and I've heard pretty much a year would be an outside number."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "What is it going to be deployable? And that is going to be at the earliest a year to a year and a half no matter how fast you go."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Realistically, what's the earliest that a vaccine will be available for Americans to take?"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Yes. I think people need to appreciate the difference between a vaccine that you've proven works. That's going to take a year to a year and a half. When you can get it scaled up, and that's the reason why we've met with the pharmaceutical companies, because once you show it works, then you got to scale it up to hundreds of millions of doses. We are talking at least a year to a year and a half. At least, at best."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You sound like you think it's longer than that."
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Well, you know, it might be with regard -- I mean I -- Chris, the test were doing right now, getting it into phase one trial, is the fastest we've ever done. Don't confuse that with when you can put it in someone's arm in a deployable way. So I think that we really need to be -- realize that, for now, the answer is not going to be a vaccine. If, in fact, we go into a cycle, where we come back next year, then we likely would have some opportunity for a vaccine."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "There have also been contradictions about when and how many people can get tested. Take a look at that."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Anybody that needs a test gets the test. We -- they're there. They have the tests. And the tests are beautiful. Anybody that needs a test, get a test."
+    },
+    {
+      "speaker": "MIKE PENCE, VICE PRESIDENT",
+      "utterance": "We don't have enough tests today to meet what we anticipate will be the demand going forward."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Can anybody who needs a test get a test now?"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "The fact is, the tests are out there. There was a misstep early on with regard to the tests, namely a technical difficulty. But right now, about 1.1 million tests are out there now. They'll be an additional about 640,000 on let's say Monday. And then at least another 4 million, particularly now that we're engaging the private sector. Now, when you say that they're out there, if you go to a doctor, it's up to the doctor to order the test. And if that happens, a person should have a test available. But it's no doubt, Chris, you have to be realistic, early on there were some missteps that delayed it, but I think --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I want to -- I want to -- I want to pick up on that, Doctor."
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And -- and the question of testing. I want to put some numbers on the screen. As of Thursday, the CDC had tested only 1,583 people in California, only 516 tests. Meanwhile, in South Korea, more than 66,000 people were tested within a week of the first case of community transmission. And they can now tested 10,000 people a day. Why are we so far behind?"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "You know, I think -- I mean it gets back to what I said in the beginning, that the -- the CDC made a test, there was a technical glitch there. The CDC provides tests for the public health groups in the state and local. What we really need to do now, which were the numbers that I mentioned to you, is to get the private sector involved so that you could literally flood it with millions and millions of tests. That is happening now, but, in fact, the American people need to realize that in the beginning there was a glitch and we need to overcome that now."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You spoke with \"Politico\" recently, and I want to put up part of what you had to say. You said, you should never destroy your own credibility, and you don't want to go to war with the president, but you've got to walk the fine balance of making sure you continue to tell the truth.\" You have had to correct the president a few times, especially on the availability and the schedule for vaccines. Where do you personally draw the line between reassuring people, but staying away from the spin?"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Yes, I try as best as possible, and I think I succeed over many years of staying away from spin and just give people the information that you need based on evidence and hard facts. When you have the evidence, you give it as it is. If you don't have all the evidence, because we're in a dynamic situation, you use your best judgment and recommendations and guidelines, but you must always, always be truthful with the American public."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "There's a story today on AP that the White House overruled the CDC, which wanted to warn elderly people and people in physically fragile conditions not to get on commercial airplanes. One, do you know that whether that's true or not. And, two, what would you tell a relative of yours who was in --"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Either in that class, either elderly or physically fragile, would you say staff off airplanes?"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "No. Well, here's the deal, I can tell you right away, Chris, that no one overruled anybody about saying this. So let me say it loud and clear now. The CDC has a health alert and the State Department has more of a travel alert. Right now, I'm telling the American people, based on everything that's agreed upon in the task force, that if you are an individual who has an underlying condition, particularly an elderly person with an underlying condition, right now, not wait, you should start to distance yourself from the risk, crowds, getting on a plane, on a long plane trip, and, above all, don't get on a cruise ship. That is a health issue. What the State Department is saying from a logistics standpoint, don't get on a cruise ship because you could come out, have a person on there, then all of a sudden you find yourself not being able to get back and quarantine. No one has told us not to say that, and I'm saying it very clearly now on your show."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Finally, I have noticed, you've been all over television the last few days. You have a bit of a raspy voice. Have you tested yourself or had yourself tested for the coronavirus?"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "My -- no, because I have not been at risk. My raspy voice is the fact that I'm talking too much on TV shows."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, keep doing it. You are a voice of reason and science and authority. And I think when people hear you, they -- your -- they have reason to think they're getting the straight scoop."
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Thank you very much, Doctor."
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Thank you for giving me the opportunity, Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Always good to talk with you, sir. Up next, we'll bring back our Sunday group to discuss the president's plan to contain the outbreak. Plus, what would you like to ask the panel about how the spread of the virus could threaten the U.S. economy? Just go to FaceBook or Twitter and FOX NEWS SUNDAY and we may use your question on the air."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "The tests are all perfect, like the letter was perfect. The transcription was perfect."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Trump mixing politics and public health as he discusses the availability of coronavirus tests and tries to reassure the public. And we're back now with the panel. Ben, how do you think President Trump is handling the coronavirus? How do you think his administration is handling the coronavirus?"
+    },
+    {
+      "speaker": "DOMENECH",
+      "utterance": "Well, I think that as your prior guest, the good doctor, said, there were some early glitches in terms of their handling of this. I think the thing that's really on the mind of the president, though, is his broader agenda going into the 2020 election. And I think that that is changing and shifting a little bit of the things that he's saying about this in a way that he should really correct because he shouldn't be viewing this in the context of politics, he should be viewing it in the contest of public health. And there, I think, needs to be a real sticking to the talking points that he has, the facts as we know them, and not shifting the two because he's worried, frankly, about what this is going to do to the economy in a way that he, I think, is responding to questions in the media, which are legitimate, about the kind of economic impact this is going to have."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We asked you for questions for the panel, and on the issue of how the coronavirus could impact, or even threaten the U.S. economy, we got this on Twitter from Texas Guy, has the coverage, media coverage of the coronavirus been overhyped. Juan, how do you answer Texas Guy?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, I think there are alarmists out there, but, you know, the president, I think, has been somewhat partisan, wearing that red hat, calling the government of Washington state, Jay Inslee, a snake and all that. I just don't like it because, like Ben, my preferences, I just want to have trust in government at this critical time. I note that when you get away from media, let's just look at Wall Street, that you get companies like Goldman Sachs downgrading their forecast for the year economically, obviously the stock market has been up-and-down, the uncertainty, producing a great amount of anxiety and fear there. So that's away from media. Clearly people who have skin in the game in terms of money are saying, when you look at Italy, when you look at Greece, what happened in China, were disrupting supply chains, were disrupting travel industry, airplanes, cruise ships and the like. So this is not good. And so I -- you know, it's not what I think, and I don't think it's like the media hype. We've got a stay away from the alarmists. But there's something going on here that's quite serious."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Jason, this is not just a medical story, not just an economic story, it's also very much, as has been suggested by Ben, a political story, because Donald Trump was understandably planning to run on a strong economic record. Record growth, low unemployment, records in the stock market, and now, suddenly, all of that is in jeopardy."
+    },
+    {
+      "speaker": "RILEY",
+      "utterance": "Yes. How serious a threat does this pose, potentially, we don't know what it's going to be like in the fall, but how serious a threat does this pose, potentially, to the president's re-election?"
+    },
+    {
+      "speaker": "RILEY",
+      "utterance": "I think it's something that -- that he has to be worried about, frankly. We're in uncharted territory here. This is not just the flu. It's much more serious than the flu. The mortality rate is higher than the flu. It's not as bad as the SARS virus so far, but it is worse than the flu. And we need to work our way through it. And he needs to find a way to reassure people, without being overly dismissive of the seriousness of this. And it is going to affect the economy. It's going to affect the supply chains. Businesses like certainty. This introduces all kinds of uncertainty. We have spring break travel coming up that's being canceled. Conferences are being canceled. So he's going to have to work through this. What he has going for him, and as we found out with the jobs report on Friday, is that this economy is on pretty good footing right now. If you look at what's going on in Japan and China, the second and third largest economies in the world after ours, they're sort of teetering on recession. And this could push them into it. What we know from our jobs report is that our economy right now is pretty solid, which means we're in a pretty good position to absorb whatever shock we get from us."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But you do have to wonder, as you talk about all the conferences that are being canceled, and we hear about airlines which are cutting flights by a dramatic amounts, this is going to filter into the -- into the economy --"
+    },
+    {
+      "speaker": "RILEY",
+      "utterance": "Absolutely."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "You know, as we head into March and April."
+    },
+    {
+      "speaker": "RILEY",
+      "utterance": "Absolutely. And, again, he will have to find a way to reassure people, and not overpromise in terms of how quickly we are going to get past this. I think he needs to let the health professionals do their job and not be out there contradicting them or second-guessing them."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Congresswoman Edwards, obviously we have no idea where this is going to be in the fall. I mean maybe the president's right, and like the flu, as we get into warmer weather, it will begin to diminish, maybe not. How legitimate do you think it is for Democrats to go after the president on the administration response to the coronavirus?"
+    },
+    {
+      "speaker": "EDWARDS",
+      "utterance": "Well, I think it's legitimate to, you know, to challenge the process and the management of this crisis. And it is a public health crisis. And I think whenever we hear Dr. Fauci and other experts talk about this virus and about what to do and what -- what Americans can do, that it actually is somewhat reassuring. But what we don't get is that kind of reassurance coming directly from the president, because of his contradictions, because, you know, the information that he puts out is just on accurate. I mean he would actually, I think, do better in terms of the public if he just shut up because I don't think people wouldn't necessarily blame the president for something that was out of his control, but if he continues and his administration mismanages the crisis, then I think it's a legitimate point of challenge by anyone who wants to be president saying, I'd manage it better. I mean we saw the impact, for example, that Hurricane Katrina and the response had with President Bush, and I don't think this is, you know, different in that respect. But the president doesn't do himself or the American public any good when he makes assertions that are completely contrary to the scientific evidence."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Ben, the president has literally tweeted this morning, prior to this conversation, that the administration is doing a great job and it's a fake news media that's running him down."
+    },
+    {
+      "speaker": "DOMENECH",
+      "utterance": "You know, I think we can believe a couple of different things are true here. One is, the panic is overblown. This is not the kind of public health crisis, yet, that people are treating it in the way that they're approaching it in some sections of the media. However, it's very serious. It should result in changes in human behavior for the time being, as we figure out how we have to adjust to live our lives this way. Just to note -- a personal thing here. Bre Paton (ph), who's a former guest on Fox News quite a lot, passed away a little over a year ago, one of our employees, from the flu. And so the flu is very serious. We have a very high level of flu and America right now. And so people should take this seriously. But don't freak out. Don't -- don't panic. Don't -- don't turn into, you know, a -- a, you know, Black Friday mob at the -- at the Costco when you're trying to prepare for this."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And on -- quoting the congresswoman, that the president, I'll be gentler, should be quiet?"
+    },
+    {
+      "speaker": "DOMENECH",
+      "utterance": "I think that the president should, as I said, stick to the talking points that he's given. You know, he's not a medical professional, but he's surrounded by them now. There are a lot of serious people working on this. I think he should just stick to those points and not go off script the way that he does so often."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Yes, I think it hurts them politically. And you can see it, there's a public opinion -- public policy poll out that says 51 percent of Americans at the moment disapprove of the way he's handling this. But I agree with Congresswoman Edwards that if he said nothing, people wouldn't blame him. People might be, you know --"
+    },
+    {
+      "speaker": "RILEY",
+      "utterance": "No, people look to the present for leadership on things like this. He needs to watch what he says, yes, but I don't think he should stop talking about this. The president --"
+    },
+    {
+      "speaker": "EDWARDS",
+      "utterance": "Well, the president is incapable of doing that. And so I think he should really, you know, defer to the people in his administration --"
+    },
+    {
+      "speaker": "RILEY",
+      "utterance": "Fine, but -- but -- but he should --"
+    },
+    {
+      "speaker": "EDWARDS",
+      "utterance": "Who really have the capacity to make the American public comfortable in where we need to be."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, thank you, panel, see you next Sunday. My guess is, unfortunately, we'll still be talking about this. Up next, our \"Power Player of the Week,\" The Girl Scout who became a rocket scientist and is now leading the organization into the future."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "When you think of the Girl Scouts, you may think about buying thin mints or samoa, but our \"Power Player of the Week\" wants you to know the century old organization offers a lot more."
+    },
+    {
+      "speaker": "SYLVIA ACEVEDO, CEO, GIRL SCOUTS USA",
+      "utterance": "The world is changing very rapidly, and we want to make sure that girls have those skills to not just be users of technology, but the creators, the inventors, and the designers."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Sylvia Acevedo is CEO of Girl Scouts USA, a former rocket scientist and tech executive, her goal is to bring science, technology, engineering, and math skills to the Scouts."
+    },
+    {
+      "speaker": "ACEVEDO",
+      "utterance": "We have the scale and the reach to teach girls much-needed tech skills."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "We deploy our scissor lift."
+    },
+    {
+      "speaker": "ACEVEDO",
+      "utterance": "We've had over 1 million STEM badges earned in 2019."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "This is no longer your grandma's Girl Scouts?"
+    },
+    {
+      "speaker": "ACEVEDO",
+      "utterance": "We do have our hand firmly rooted in our traditions, but we always have to be looking also with that hand, looking at the future."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "You're doing about 330 knots."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "New programs aimed to make stem accessible for all ages."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "Would you like some cookies?"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And even those iconic cookies play a part."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "How big is the Girl Scout cookie business?"
+    },
+    {
+      "speaker": "ACEVEDO",
+      "utterance": "It's the largest female entrepreneurship program in the world."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Girl Scouts to sell 200 million boxes each year, bringing in $850 million, that fund local troops, adventures in learning. When Girl Scouts started, girls and women's programs got less than 9 percent of any non-profit dollars or philanthropy dollars. It's the same today. And so the cookie program allows us to continue to provide these cutting-edge programs and amazing experiences for girls."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Juliette Gordon Low formed the Scouts in 1912 to teach girls leadership, self-sufficiency, and outdoor skills."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "There you go."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Today, there are 1.6 million girl scouts despite stiff competition."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "What did you think when the Boy Scouts started admitting girls?"
+    },
+    {
+      "speaker": "ACEVEDO",
+      "utterance": "You know, it provides another competitor in the marketplace. We have many competitors. We are going to continue to stay laser focused on our amazing outcomes and programs."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Acevedo was seven when she joined the Girl Scouts. On a camping trip, a troop leader noticed her looking up at the stars and encouraged her to earn a badge about space."
+    },
+    {
+      "speaker": "ACEVEDO",
+      "utterance": "I got my science badge making an SD's (ph) rocket. And I tried and failed quite a few times, but I persisted. And when it finally launched, and I saw it go into that beautiful blue New Mexico sky, I thought, I could do this."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "She went on to become a NASA rocket scientist, an IBM engineer, and an Apple executive. She says the confidence she gained in Scouts propelled her and others."
+    },
+    {
+      "speaker": "ACEVEDO",
+      "utterance": "It wasn't just me, it was millions of women like me. It's one of the reasons half of all elected officials in America were Girl Scouts and 60 percent of the women in Congress, Girl Scouts, 75 percent of the women senators, Girl Scouts, and so man business leaders, Girl Scouts."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Her plan now to build that same foundation in a changing world for today's girls."
+    },
+    {
+      "speaker": "ACEVEDO",
+      "utterance": "I wouldn't have had the opportunities in my life had it not been for the Girl Scouts. That is really our mission, to create girls of courage, confidence, and character, who make the world a better place."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And we have our very own Girl Scout on the panel today. Donna Edwards started as a daisy, and when she was in Congress, served as co- chair of the troop Capitol Hill, made up of all the female members of the House and Senate. Now, this program note. Senator Bernie Sanders will be back again on Fox tomorrow night at 6:30 p.m. Eastern for a town hall live from Detroit. And that's it for today. Have a great week, and we'll see you next \"Fox News Sunday.\" Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

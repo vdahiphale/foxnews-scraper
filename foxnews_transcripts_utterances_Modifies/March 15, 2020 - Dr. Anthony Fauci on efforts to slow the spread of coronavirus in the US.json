@@ -1,0 +1,1705 @@
+{
+  "date": "March 15, 2020",
+  "headline": "Dr. Anthony Fauci on efforts to slow the spread of coronavirus in the US",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/dr-anthony-fauci-on-efforts-to-slow-the-spread-of-coronavirus-in-the-us",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "sentences": "I'm Chris Wallace.   President Trump and Congress act to provide relief and to slow the spread of the coronavirus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "We're using the full power of the federal government to defeat the virus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "sentences": "We did what we said we are going to do, put families first.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "As the country grapples with how to handle the health crisis, clearing store shelves, shutting down sporting events, workplaces, even Broadway and Disneyland and hospitals prepare for the onslaught --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, NIH",
+      "sentences": "Bottom line, it's going to get worse.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll discuss where this is headed with Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases. Then, Wall Street rallies after the president's announcement, but it's still down 19 percent for the year.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEVEN MNUCHIN, TREASURY SECRETARY",
+      "sentences": "This is not like the financial crisis, this is about providing proper tools and liquidity to get through the next few months.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll discuss what the president and Congress will do next to contain the financial fallout with Treasury Secretary Steven Mnuchin, live, only on \"FOX News Sunday.\" Plus, we'll ask our Sunday panel how the coronavirus is reshaping the race for president. And our power player of the week, a 100-year-old hat maker, she and her designs are one-of-a-kind.   All, right now, on \"FOX News Sunday.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And hello again from FOX News in Washington.  The spread of the coronavirus here in the U.S. has dramatically changed the way Americans live. It's shaking the markets and left Washington scrambling to provide care for the sick and ease the financial fallout.   Here is the latest. The president's doctor announced Mr. Trump tested negative for the virus after coming into contact with several people who tested positive. The president also expanded the European travel ban to now include the U.K. and Ireland. In a moment, we'll speak with the government's top expert on infectious disease, Dr. Anthony Fauci, and Treasury Secretary Steven Mnuchin.  But first, let's bring in Kristin Fisher reporting from the White House with the latest on the effort to stem the outbreak -- Kristin.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KRISTIN FISHER, FOX NEWS CORRESPONDENT",
+      "sentences": "Chris, life is changing across the country and here at the White House.  Just yesterday, journalists were required to have their temperature taken before they were allowed into a briefing with President Trump and other senior administration officials. Even President Trump decided it was time that he should be tested for the coronavirus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I also took the test last night.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FISHER",
+      "sentences": "The test came back negative, according to a letter released last night from the White House physician, but nearly 3,000 other Americans have tested positive and that number is only expected to rise as the country's ability to test for the virus accelerates.   So far, more than 50 Americans have died, millions of students are out of school and 39 states plus the District of Columbia have declared a state of emergency. President Trump declared a national emergency on Friday and yesterday, he expanded the travel restrictions he placed on most of Europe to include Ireland and the United Kingdom. As Americans racing to get home, face lines that stretched for hours at U.S. airports for enhanced health screenings, the president also confirmed that he was considering implementing domestic travel restrictions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "Specifically from certain areas, yes, we are. And we're working with the states and we are considering other restrictions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FISHER",
+      "sentences": "And on Capitol Hill, House Speaker Nancy Pelosi and Treasury Secretary Steven Mnuchin hammered out a release deal which includes free coronavirus testing and two weeks of paid sick leave for workers. That bill is now heading to the Senate and it could be taken up as early as tomorrow -- Chris.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Kristin Fisher reporting from the White House -- Kristin, thanks. And joining us now Dr. Anthony Fauci, the government's top official on infectious diseases.  And, Doctor, welcome back to \"FOX News Sunday\".  DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY & INFECTIOUS DISEASES: Good to be with you Chris.  WALLACE: I want to start with those videos that Kristin Fisher just showed of those thousands of people at airports over night rushing to beat the travel ban, waiting on line for hours, you can see them here in close proximity. One assumes, coming back from Europe, some of them have the coronavirus.  As an infectious disease doctor, are you troubled seeing this?  FAUCI: Yes, I mean we'd like to not see crowds like that. I think what people need to understand, if you're an American citizen, if you are a family member, that you can get back. You don't need to rush back. You'll be able to get back. But it's understandable how when people see a travel ban they immediately want to hunker and get home. Hopefully, we don't have more of that but I think we probably unfortunately will see that.  WALLACE: And is that a problem in terms of the spread of the disease?  FAUCI: Obviously. Whenever you have crowds -- I mean, that's the thing we've been talking about and that we really want to implement is to have that kind of social separation. That is countermanding that and hopefully that people will understand that you don't have to rush back.  WALLACE: And to what degree is it on the airports to prevent that and not have those big crowds of people waiting for hours?  FAUCI: I don't know, Chris, what the airports can do about that to try and encourage people -- to tell them that if you are an American citizen you will be able to get back. It's not going to be a problem.  WALLACE: You testified before Congress this week and you made I think what most people would consider some pretty chilling comments. Here they are.  (BEGIN CLIP)  FAUCI: Bottom line it's going to get worse. The flu has a mortality of 0.1 percent. This has a mortality of 10 times that.  (END CLIP)  WALLACE: What's different about this virus? What's different in how contagious it is and how lethal it is?  FAUCI: Well, the -- I would say three things, Chris. One it's brand new so we don't have any prior experience about what it's going to do, what it's dynamics are going to be.   Number two, it spreads very easily. There's no doubt about that. It isn't like some of the other outbreaks that we had that just didn't adapt itself to spread among humans.  And number three, it's very serious in the sense of morbidity and mortality particularly among -- and very heavily weighted towards individuals who are more susceptible, the elderly and those with underlying conditions.  WALLACE: And in terms of contagiousness and lethality, worse than the flu?  FAUCI: Well, yes. I mean, it just is. And we've got to face that fact. We've got to be realistic. I mean, we've got to realize -- and I said that at the hearing, that things are going to get worse before they get better but the kinds of things we're doing now will hopefully mitigate that. I showed that curve --  (CROSSTALK)  FAUCI: But that's important because to think that right now, everything is going to be OK if you don't do anything that's absolutely incorrect. We've got a really always be ahead of the curve. I mean, I was -- I say now in a way that people can understand, I'd like to be -- the fact that we're criticized for being over reactive because when you're dealing with a virus outbreak, you are always behind where you think you are. So, therefore, you've got to jump ahead and stay ahead of the curve.  WALLACE: I want to ask you about this, on Friday both you and the president at one point mentioned eight weeks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Now, you weren't saying it's all going to be over in eight weeks, but are you suggesting that if we do everything right that we could be on the other side of the curve in eight weeks?  FAUCI: Yes, the -- first of all, we have to say that people don't misunderstand. We are not sure what the duration is going to be, number one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FAUCI",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "-- in fact, is just starting and is just in a pilot program for the Bay Area, and that it's going to take over time, they said, for it to be applied nationally.  And while the president made it sound like mass testing is going to start very soon, there are a lot of experts who say that whether it's staffing, public health staffing, or the products, or the chemicals needed for mass testing, that we're very behind the curve on that.  So I guess my question is, how soon can people across the country expect mass drive-thru testing?  FAUCI: OK. So there are two issues here, Chris. There's a website and when it's going to be fully open versus the availability of testing. They really are somewhat separate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "The coronavirus pandemic is not just a threat to the nation's health, but also our economy. Joining us now to discuss that is Treasury Secretary Steven Mnuchin.   Mr. Secretary, welcome back to \"FOX News Sunday.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "STEVEN MNUCHIN, TREASURY SECRETARY",
+      "sentences": "Thank you. Great to be you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "A growing number of financial experts say now that the U.S. and the world are headed into a recession this year and they talk about an expanding hit both on the demand side and the supply side.  Are they right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Well, Chris, what I would say is I wouldn't focus on the technical issue of where -- whether we're going to be in a recession or not. What I'd focus on is, one, what do we need to do right now? Because it's clear we need to get economic relief to the economy. And, two, where are we going to be later this year?  If the medical professionals are correct, and we're doing all the things, I expect we'll have a big rebound later in the year. So, this isn't like the financial crisis as I've said. This will have an end to it as we confront the virus.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I'm going to press a little bit on this and then we'll move on, but you've got disruptions to the global supply chain, and even more important, you've got consumers who have been the main drivers of this economy, and their consumer spending is grinding to a halt.  I understand, as a secretary of the treasury, you don't want to predict a recession. But it could happen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Chris, what I'd focus on is that we need to get economic relief to the people that are impacted by this and as I've kind of described this, we're in the second inning.  The first inning was the $8 billion, the second inning we passed bipartisan legislation to make sure that workers that need to be home and small and medium-size businesses will get paid. We are now going back to Congress, and focusing this week on the airlines industry, the hotel industry, the cruise ship -- there's no question that the travel industry has been impacted like we've never seen before. The president is absolutely determined that we will use whatever tools we have and whatever tools we need, we will go to Congress and get, and there's a lot of bipartisan support.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "That's an important message and we're going to get into that in detail. But, you know, people are living in the here and now, and I have to ask you -- people looking at their 401(k)s, we look at that number in the corner of the screen, and the Dow Jones dropping. According to one estimate, the market has lost almost $8 trillion in value from its record high, which was just a month ago. How much further are the markets going to drop?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "You know, I've always been one to say I can't predict where the market is today, this week. What I can tell you is people who bought stocks after the crash in '87, people who bought stocks after the financial crisis did really well.  So, in terms of long-term investors, I have every confidence that this market is going to be higher down the road and the U.S. is still the greatest place to invest.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But you talk about who bought after the crash, when is after the crash?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Chris, we can -- we can never predict the bottom of the market or the top of the market. And that's why investors need to focus on the long- term.  But, again, let me go back and say, there's no question, they are businesses that will be severely impacted, we are focused on helping those businesses that need liquidity. There are some businesses that are booming. I mean, you look at the stores and people who are buying certain consumer products -- what we've seen from the credit card data is travel is down, extraordinary. Almost corresponding is an increase in purchases of food, pharmacy good and supplies. And, again, what we're focused on and the president wants us to look at a big stimulus program because we need to help American workers now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let's talk -- you'd be happy to know now -- about some of the things that you were doing to try to alleviate the issue.   Early Saturday morning, the House passed a relief bill and I want to put up on the screen some of the measures that it includes. Free coronavirus testing, two weeks of paid sick leave for workers. It extends unemployment insurance and it expands food assistance. It also provides aid to small businesses. Two questions for you. First of all, any idea -- because no one seems to have figured this out yet -- how much is that bill going to cost the federal government? Well, let me ask you that first.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Well, Chris, as you know, it's hard to model some of these things because you don't know how many workers are going to be home. So I want to be careful of throwing out numbers. I think, based upon the numbers that we're going to see, it's going to have costs that are significant but not huge. But --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Can you give us a ballpark?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Again, I think -- you know, this -- again, just let's focus -- this focuses on employees that are -- employers that are 500 and less people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "That's a portion of the economy, but that's the economy that is going to be hit the hardest. Obviously, big companies can afford these things for health care workers.  So I want to be careful to throw out a number. We are modeling it. We will have it this week. But the important issue is, whatever we need, we are going to get from Congress.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right. Well, that's what I want to pick up on next. The president tweeted Friday evening that he will sign this bill that the House passed. How confident are you that the Senate will pass this bill this week and send it to the president?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Well, let me just say the president tweeted that because we kept the president and the vice president involved in all of the details of this. And the president drafted the tweet a little bit earlier but we asked them not to send it out until we had the final language that we were working on. I've been speaking to senators all day yesterday. We had conversations with Mitch McConnell and team along the way. One of the things I will tell you is we are hearing feedback that certain small businesses are concerned about the burden of this. We were very focused we need to get the money to people quickly. We don't want them to have to deal with big bureaucracy. And one of the things I put out a statement last night, that small businesses will be able to go to the IRS and use the deposits that they put with the IRS. And if they need a cash advance, they'll get it from the IRS.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But what I'm getting at is the Senate you think likely to pass this bill or pass a different version and then we're back in legislative sausage-making on Capitol Hill?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "I'm speaking to senators, I -- I don't want to predict, OK? I think there's a lot of bipartisan support. We hope they pass this bill. If not, we'll work with the center on whatever minor changes we need.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right. You said --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "But, Chris, let me just say --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Yes?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "-- again, you know, we're going back to the Senate this week on other things. Airlines, very focused on airlines, hotels, cruise ships, workers for these industries. So, we're going to get this bill done and we're going to get more bills done on a bipartisan basis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let me ask you about that. The help for specific industries that are obviously going to be hard hit. You keep saying it's not a bailout. How is it different then what the Bush and Obama administrations did for the banking and auto industry in 2008 and ‘09?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Well, the good news is the banks are extraordinary conditions in both capital and liquidity. There were concerns at the time because of the housing crisis that banks weren't going to make it through. I mean, there - -",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I guess my question is, those were -- those were bailouts. Why aren't these bailouts?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Again, what I would describe is, if you're providing liquidity to good businesses that just need liquidity for three to six months where you're taking collateral and you have security, that's not a bailout. To the extent that we need to support different businesses that are impacted - - again, our focus is going to be on stimulus for the workers and getting money to the workers that impacted.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Let's talk about one of the controversial parts of a possible plan, a relief plan, the third effort by your administration and the Congress. There's been a lot of talk -- you and the president have both pushed the idea of a payroll tax holiday, a payroll tax suspension until the end of the year, which according to one estimate would cost somewhere between 800 and a trillion -- $800 billion and a trillion dollars. But you're getting pushback from Democrats and Republicans in Congress who say it's not helping the people who need it most who are going to be thrown out of work or who work in the gig economy and don't pay payroll taxes. Given that pushback, are you considering instead of the payroll tax suspension, another tax measure?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Chris, the president wants to get economic relief to the right people. The payroll tax is one way of doing it, and he likes that. The president is also willing to consider refundable tax credits which in essence are another way of getting money to people, that has certain advantages of we can inject money really quickly. But the president is focused that we work on a bipartisan basis to make sure we combat the economic situation that is here and now but that we expect, as we do the medical things to combat this virus, the economy will bounce back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "So, you're not locked in to the payroll tax?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Again, the president likes that idea. But if there's other ways, working with Congress, we can get money to people, the president will absolutely consider that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Finally, there was a report that you met with the president and some other people on Monday and that he erupted and he urged you to go to Jay Powell, the Federal Reserve chairman, and do more to stop the stock market from declining and to stimulate the economy. First of all, did that happen? And, secondly, have you asked the Fed Reserve chairman to do more, for instance, cutting interest rates more?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Chris, let me just comment, first of all, I knew the president before I came into work for him. I worked for him on the campaign. I've known him for 15 years. No, the president didn't erupt at me, OK? The president and I -- I give him my honest opinions and I respect that he tells me what he wants us to do. So, no, there wasn't erupt (ph). Now, as it relates to the Fed chair -- just a matter of policy, I don't comment on my conversations with the Fed chair. I can tell you, I am in daily conversations with Jay Powell. We're looking at the tools we have. They're looking at the tools they have. Certain tools were taken away from both of us after the financial crisis with Dodd-Frank. If we need more tools, we'll go back to Congress and get bipartisan support to get that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And in 30 seconds, very quickly, when people are scared to go out to a restaurant or to get on an airplane, if you were to cut the interest rate half a point, is that going to make any difference?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Well, let me just say again -- and I want to be careful because I don't comment on specific Fed actions -- but the market has already reacted. So, as an example, our treasury borrowing cost on a short-term basis is down to 25 basis points. So we have a lot of flexibility to inject things in. People are focused on interest rates. People are also focused on other actions. The Fed putting the trillion and a half dollars into short-term liquidity was obviously an extraordinary move.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We're going to leave it there. Secretary Mnuchin, thank you so much. Obviously, people concerned, as I say, about the economic, as well as the public health aspects of this. Thank you for coming in today and sharing your time with us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Great to always be with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Thank you, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MNUCHIN",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Up next, we'll bring in our Sunday group to discuss how the White House and Congress are responding to the crisis.  Plus, what would you like to ask the panel about how the pandemic will impact the nation's health and economy? Just go to Facebook -- 930 CHRIS WALLACE, FOX NEWS ANCHOR: House and Congress are responding to the crisis. Plus, what would you like to ask the panel about how the pandemic will impact the nation's health and economy. Just go to FaceBook or Twitter at Fox News Sunday and we may use your question on the air.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Coming up, the Democratic candidates for president look to show leadership at a time of crisis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS (I-VT), PRESIDENTIAL CANDIDATE",
+      "sentences": "We must prepare for this response in an unprecedented way.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "sentences": "We have to get to work immediately.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "We'll ask our Sunday panel how the coronavirus is changing the race for the White House.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "sentences": "To unleash the full power of the federal government to this effort today, I am officially declaring a national emergency.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "President Trump, on Friday, stepping up his administration's response to the spread of the coronavirus in the U.S. And it's time now for our Sunday group. Senator Mitch McConnell's former chief of staff, Josh Holmes, Charles Lane from \"The Washington Post,\" Fox News correspondent Gillian Turner, and executive director of the Serve America PAC, Marie Harf. Gillian, 52 days, more than seven weeks after the first coronavirus case was diagnosed in this country, the president, on Friday, declared a national emergency. How do you assess the administration's response over those seven weeks and how do you assess it in the last few days?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GILLIAN TURNER, FOX NEWS CORRESPONDENT",
+      "sentences": "Well, I think the first thing that bears repeating again and again its, 50 plus days into this, there's still a widespread testing shortage across the nation. We're not saying that that's President Trump's fault, absolutely. We're not putting the blame on any one government agency. But it's a reality that needs to be repeated. At the end of the day, every country in the world, Chris, is going to get a coronavirus report card, right? They're going to get a grade on how their government responded to this public health crisis. If that report card was happening today, we would look at the fact that I think there are now almost 130 countries that have been infected. In most cases clustering mount Italy, China, and Iran. They each have 10,000 plus, so they would fail. We don't know how the U.S. would do if we had to grade them today because, again, without widespread testing, the epidemiologists say they don't know the real numbers so they can't model future accurate predictions. So it's still a big question mark. We'll hopefully know in a couple of weeks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Marie, I think it's fair to say there have been some strong points in the government's response, like the early decision to ban travel to and from China, and there have been some weak points, as Gillian suggested, like the really quite remarkable lag in testing in this country. You know, they say that there are 3,000 cases in the U.S. We don't know if that's true or not because no -- almost nobody has been tested. Only 13,000 test so far. How do you assess the administration's response so far?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARIE HARF, FOX NEWS CONTRIBUTOR",
+      "sentences": "Dr. Fauci said several interesting things -- well, many interesting things with you this morning, but two that stuck out to me, one is that you are always behind where you think you are when it comes to fighting these outbreaks of disease. And the second, when you pressed him on the regulations that perhaps prevented the tests from being more widely used early on, he said, yes, we could have changed those regulations on day one. We're now several months into this. There has been a lag in parts of the administration. And I think for the general public, when you talk about the reactions of the administration, President Trump has the bully pulpit and he, for months, was saying this isn't anything to worry about. There's only a few cases. It will go away. Now you see the private sector and governors taking on responsibility for cancellations, for social distancing, and you're still getting a little bit of a mixed message out of the White House. People are looking for leadership from the top about what exactly they should be doing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "As we have been saying, the pandemic is not only a threat to our health, but also to our economy. We asked you for questions for the panel and on this issue of -- of the threat, the dual threat, we got this on FaceBook from John Shulfer, does President Trump deserve any blame for the new bear market? Did he deserve any credit for the bull market? Should and the answers for both questions be the same? Josh, how do you answer John?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOSH HOLMES, FORMER CHIEF OF STAFF TO SEN. MITCH MCCONNELL",
+      "sentences": "Well, look, I think there's a really low tolerance for partisanship at this point. I think, as Gillian said in the opener, that there will be a time and a place for report cards on all of this and this isn't it. We are at the opening stages here of a pandemic in this country. We've seen what it's done to the economies of China. We see what's happening currently in Europe. This is a huge problem without which you can legislate, right? I mean you can't just pass a bill and make a pandemic go away. What we're looking at is a government that is trying to respond proactively to stop not only the health crisis that -- that could be affecting this country, but the economic impact over a period of time. You heard Secretary Mnuchin talk about, we're in the second inning. The first inning was an $8 billion bill that tried to get as many tests out there as possible. The second was all of this that you've seen being negotiated with Speaker Pelosi over the last week about proactively making sure that people who are in small businesses, employees have paid medical leave. All these things kind of things that can help kind of bridge the gap where hopefully we come out and emerge out of the back end of this with an economy that we can kick-start repeatedly through more action. So I don't think anybody is to blame for this. I -- what I think is, we've got -- all got to pull together to try to figure out how you, as a country, get from what is potentially a huge problem to, you know, hopefully this summer an economy that resembles the one we went in with.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Chuck, how big a threat do you see now? It was interesting, the Treasury secretary, understandably, didn't want to predict a recession. He didn't want to predict there wouldn't be a recession. He didn't, it seemed to me, want to come down on either side of that. How big a threat is this pandemic right now to the economy of this country and how would you assess, not finding blame, just trying to understand, how would you assess the government's response, the White House and Congress, to the economic threat so far?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHARLES LANE, FOX NEWS CONTRIBUTOR",
+      "sentences": "So it's been remarkable to watch this threat assessment evolve over the last seven to ten days. Very specifically, we had two business leaders visit \"The Washington Post\" in the week before this from Silicon Valley and Wall Street. This issue barely came up in those conversations, hour-long conversations. And by Wednesday, we were receiving phone calls from people who were in high levels in both the Bush and Obama administrations telling us, hey, guys, this is getting terrible. This could be a hit of like 5 percent to GDP. You guys need to be writing about this. So it evolved. The threat assessment evolved very, very suddenly. And I spent a long time on the phone yesterday with an investment advisors who I think presented a very realistic picture, which is, we could have a very, very short, sharp, bad, as he said, ugly quarter as we're -- as we're sitting here right now. But if all goes well on the public health side, that could then be a v-shaped recovery. So what a lot of economic experts are telling me is actually it's the public health response that will determine how well we do economically.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Oh, absolutely. I mean this is all -- it is, as the Treasury secretary said, this isn't a financial crisis, this is a public health crisis leading to economic problems. Final question for you, Josh, which I was trying to press the Treasury secretary on. From your experience with Mitch McConnell and the Senate, will the Senate passed the bill the House passed on -- on early Saturday morning to provide relief to -- to people who are thrown out of work, people that need expanded food aid? Or do you think they're going to pass something else and this is going to ping-pong back and forth?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Oh, I think the vast majority of what was in the House passed bill will pass the Senate. I don't know if there will be some slight tweaks. You know there's a technical correction bill that also needs to be passed in the House on Monday as well. So, look, I -- this is a little different legislative environment and the one we've been used to over the last 15 years. When you have a crisis, like think of TARP with the financial crisis or Budget Control Act, all of these various things had a hard deadline and your economy was basically -- we were told in 2008, if you didn't pass a bill in 72 hours, you wouldn't have an economy on Monday. We're not in that situation. We are in the situation that Secretary Mnuchin just lined out, which is, we have to take this step-by-step. We have to get the help for the middle class, which is the next step. The third step, what he was talking about with travel industry, airlines, things of that nature. This is going to go on for a while. And I imagine they're going to address each of these incrementally over a period of time.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And in ten seconds, will they pass a payroll tax suspension or something else? He was talking no (ph) about tax rebates.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Yes, I don't -- I don't think that's clear. What is clear is that there is a broad bipartisan views that when you get to the back end of this health crisis to restart, to jump-start the economy, to make sure that people have more money in their pockets, something there needs to be done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right, panel, we have to take a break here, but when we come back, the coronavirus turns the race for the White House into a debate over who's best prepared to lead the nation in crisis. That's next.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "sentences": "I want to thank Bernie Sanders and his supporters for their tireless energy and their passion. We share a common goal and together we we'll defeat Donald Trump.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS (I-VT), PRESIDENTIAL CANDIDATE",
+      "sentences": "Joe, what are you going to do for the 500,000 people who will go bankrupt in our country because of medically related debt?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Joe Biden trying to wrap up the Democratic race after another string of primary victories on Tuesday, but Bernie Sanders making it clear, this race is not over yet. And we're back now with the panel. Marie, a lot of Democrats, not just Joe Biden, want this race to be over. But, in fact, there's going to be a debate on CNN tonight. One-on-one, Sanders and Biden. Sanders has made it clear he's going to push, at least ideologically, the things he believes in. And I think it's fair to day that Joe Biden has not been a strong debater so far in this cycle over a series of debates. How do you expect tonight to go?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "Crisis situations, like we're in right now, I think, show voters that they want someone statesman like, they want a steady hand, and that's what Joe Biden will be focusing on tonight. He gave that speech about coronavirus this week and I think tonight you will see him say, look, Bernie has some good ideas, but right now we need someone who can come in on day one and handle what we are seeing in this country. Joe Biden also adopting Elizabeth Warren's plan on bankruptcy just this week. So he is taking on some of the ideological left. He's adapting some of it. But he's going to come out tonight and say, in every poll, I beat Donald Trump, Bernie doesn't. And right now, when we see a president lying about a website, saying he takes no responsibility, I'm the one who can beat him, that electability argument will be an even sharper relief tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Chuck, Marie makes the point about a steady hand, but I think we have to admit and acknowledge the fact that Joe Biden is not always a steady hand in these debates.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "You know, he is a gaffe machine and always has been throughout his career. That is a known liability and I assume one reason Bernie Sanders insisted on having this debate and staying in the campaign was just to try his luck and see if Joe Biden could somehow blunder and help Bernie revive his campaign. But I think what the big picture here is that the whole campaign has been completely transformed. I mean the whole subject of this campaign is now this virus and its economic fallout, which is like nothing everybody was expecting the campaign to be about two weeks ago. And so --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I mean we're even seeing states postpone their primaries. Louisiana did it. Georgia did it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "Correct. Correct.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "I mean literally putting the primary contest on hold, or at least postponing it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "And so I guess the way Bernie wants to play that is say, see, now is the time for Medicare for all. What this reveals is we need that transformation in health and Biden will say, no, no, no, it's a crisis, we need a steady hand. But what I'm thinking also is it's going to focus attention on the fact that both of them are very old and both of them are literally in the risk group for this virus. And I think that it may cause, in that sense, some downside risk to both of them. And -- and, furthermore, I think --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But there's nobody else in the race.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LANE",
+      "sentences": "Exactly. And this whole process has -- has now sort of left us in a point where it's completely scrambled and a month from now it could all look completely different.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Josh, we talked about the economic impact of the coronavirus in the last segment. There's also, though, obviously a political component because Donald Trump was planning to run, and quite rightly on a pretty strong economy, strong growth, low unemployment, record stock market, now all of that is gone. If we were to end up in a recession, how much would that compromise, challenge Donald Trump's prospects for re-election?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Well, that's certainly a big hypothetical, right? I mean it --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Well, it's not such a crazy hypothetical.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "No, it's not. I mean, clearly, this is going to have a huge economic impact. There are two ways of looking at it. The first -- both relate, by the way, to how we ultimately emerge. If we ultimately emerge with an economy that looks anywhere nearly like the one we went in with, I think you mitigate a lot of those problems. The second thing -- way to look at it is, did we have a healthy -- healthy enough economy to absorb something like this? And I think, for the first time in a long time, you can say the American economy was positioned in a place where we have resources and the capabilities of actually undergirding the systemic problem that we're going to have as a result of this virus. So, look, I think that the argument changes significantly because you're not walking in -- waltzing into an election with these huge employment numbers and huge GDP growth. We're not going to have that. What we may well have is a reminder to the American people that our -- the strength of our economy can rebound under this administration, even under the most unprecedented crisis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Gillian, it's interesting, \"Axios\" reported I think yesterday about a focus group in Minnesota of swing voters who said that even if there is a recession, that because of the coronavirus, they wouldn't blame that on President Trump. The only, it seems to me, hiccup there is, we don't know where we're going to be six months from now, which is when we're going to have this election. Now, you know, it -- if we've rebounded, obviously that would redound to the benefit of President Trump. But if things are bad, you wonder how people are going to feel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TURNER",
+      "sentences": "I suspect that a lot of American voters, not just this focus group, but folks all across the country, view this virus as like an act of God and politics is not really very closely related to it. Maybe six months from now they'll start thinking about how Donald Trump's administration responded to it. A quick note on what you and Chuck just talked about a minute ago. When it comes to age, there's a million dollar question in this election cycle that I don't think anybody wants to ask, and that is, what if all top three presidential contenders contract this virus over the coming months? It's not a crazy question. We're in this unique cycle where all three, Trump, Biden and Sanders, are 70 plus. One source pointed out to me the other day, we know at least one of them has an underlying health condition. Sanders has had heart issue so far. It's not unreasonable given the amount of people they interact with every day that they might all contract this virus and, at some point, maybe overlap at the same time. What does that look like? This becomes a national security concern very quickly.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Marie, are the effects of this virus, both in terms of public health, in terms of the economy, are they fair game politically for Democrats?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "They are fair game because who we have leading our country during a crisis is the most important question you can ask voters. And you don't have to politicize it. You don't have to take cheap shots. But I think a lot of Americans are looking at how President Trump has handled this, downplaying it, not telling the truth, not giving clear guidance on whether you should go out, when and where you can get a test, and they look at that and all this notion that his voters had of blowing the system up, of discarding the expertise and the government, that's coming home to roost right now. And I think that's how voters are going to look at this as a leadership test in a crisis. That is fair game across the board.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Josh, you have 45 seconds for a rebuttal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "As I said at the outset, I think there is an extremely low tolerance for partisanship at this point.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But there's been partisanship on both sides.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "There sure has. And I think the American people are going to take a look at that and think, boy, oh, boy, are these folks out of touch. I think any -- any -- you look at the behavior of Speaker Pelosi, of Mitch McConnell and --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "But don't you think -- don't you think it's going to be a legitimate question, was this handled well or wasn't it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "Absolutely.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HARF",
+      "sentences": "(INAUDIBLE) in a crisis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOLMES",
+      "sentences": "In the back end of this, when the country recovers, absolutely. But when President Bush is standing on the -- the burning towers and declaring that we will -- we will make these people pay, that's not the point to question our intelligence, right? You've got -- at this point, we have to get through this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "All right. And we have to get through this segment. Thank you, panel. See you next Sunday. Up next, our special \"Power Player of the Week.\" She's tops in her craft, creating stylish hats and still going strong at the century mark. WALLACE (voice over): She's 100 years old, the hat maker for generations of style conscious Washington women. And she has no intention of slowing down. Here is our \"Power Player of the Week.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "VANILLA BEANE, BENE MILLINERY OWNER",
+      "sentences": "This is my home. My second home. Let's try this one.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Vanilla Beane's second home is her famed hat shop, a special part of Washington for 40 years.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "Cause it completes the outfit. WALLACE (voice over): Her creations are beautiful and intricate, no two are alike, and each one makes a statement.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "Well, any hat that's not too fancy, not too wide. Look at that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Beane's hats completed the look for famous customers like civil rights leader Dorothy Height, whose hats were so iconic, then President Obama singled them out at her funeral.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BARACK OBAMA, FORMER U.S. PRESIDENT",
+      "sentences": "And we loved those hats that she wore like a crown.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "She would come in when she needed something to match the outfit.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "That she's wearing there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "It feels good. WALLACE (voice over): Hats became Beane's hobby in the 1950s when she worked as an elevator operator in a building with a hat shop.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "Like all the encouragement. So I kept going.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "She opened Bene Millinery when she retired. Today, her works can run upwards of $500. They've been featured in the National Museum of African-American History and Culture and in paintings by artist Ben Ferry. When she turned 100 last fall, D.C. Mayor Muriel Bowser declared it Vanilla Beane Day, an occasion which, of course, called for a new hat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "It was a quick job.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Last minute.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "For your 100th birthday?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "sentences": "(INAUDIBLE) Vanilla Beane! WALLACE (voice over): But it's not just her hats that make a statement.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "I was in the drugstore and the pharmacy said, do you know there is a vanilla bean?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "And what did you think when you realize (INAUDIBLE)?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "I said I guess it was meant to be. WALLACE (voice over): Vanilla Beane is still creating and still taking inspiration from advice she got as a child.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "Love many, trust few, learn to power your own canoe.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Why not?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "Because I -- this is my life.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Are you happy with where life has taken you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BEANE",
+      "sentences": "It's been good. I can't complain.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WALLACE",
+      "sentences": "Oh, boy. At the end of a week when so much of our lives has been upended, it's nice to know there are some constants in the world, like Vanilla Beane. And that's it for today. Have a great week and we'll see you next FOX NEWS SUNDAY. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHRIS WALLACE, FOX NEWS ANCHOR",
+      "utterance": "I'm Chris Wallace. President Trump and Congress act to provide relief and to slow the spread of the coronavirus."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "We're using the full power of the federal government to defeat the virus."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "utterance": "We did what we said we are going to do, put families first."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "As the country grapples with how to handle the health crisis, clearing store shelves, shutting down sporting events, workplaces, even Broadway and Disneyland and hospitals prepare for the onslaught --"
+    },
+    {
+      "speaker": "DR. ANTHONY FAUCI, NIH",
+      "utterance": "Bottom line, it's going to get worse."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll discuss where this is headed with Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases. Then, Wall Street rallies after the president's announcement, but it's still down 19 percent for the year."
+    },
+    {
+      "speaker": "STEVEN MNUCHIN, TREASURY SECRETARY",
+      "utterance": "This is not like the financial crisis, this is about providing proper tools and liquidity to get through the next few months."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll discuss what the president and Congress will do next to contain the financial fallout with Treasury Secretary Steven Mnuchin, live, only on \"FOX News Sunday.\" Plus, we'll ask our Sunday panel how the coronavirus is reshaping the race for president. And our power player of the week, a 100-year-old hat maker, she and her designs are one-of-a-kind. All, right now, on \"FOX News Sunday.\""
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And hello again from FOX News in Washington. The spread of the coronavirus here in the U.S. has dramatically changed the way Americans live. It's shaking the markets and left Washington scrambling to provide care for the sick and ease the financial fallout. Here is the latest. The president's doctor announced Mr. Trump tested negative for the virus after coming into contact with several people who tested positive. The president also expanded the European travel ban to now include the U.K. and Ireland. In a moment, we'll speak with the government's top expert on infectious disease, Dr. Anthony Fauci, and Treasury Secretary Steven Mnuchin. But first, let's bring in Kristin Fisher reporting from the White House with the latest on the effort to stem the outbreak -- Kristin."
+    },
+    {
+      "speaker": "KRISTIN FISHER, FOX NEWS CORRESPONDENT",
+      "utterance": "Chris, life is changing across the country and here at the White House. Just yesterday, journalists were required to have their temperature taken before they were allowed into a briefing with President Trump and other senior administration officials. Even President Trump decided it was time that he should be tested for the coronavirus."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I also took the test last night."
+    },
+    {
+      "speaker": "FISHER",
+      "utterance": "The test came back negative, according to a letter released last night from the White House physician, but nearly 3,000 other Americans have tested positive and that number is only expected to rise as the country's ability to test for the virus accelerates. So far, more than 50 Americans have died, millions of students are out of school and 39 states plus the District of Columbia have declared a state of emergency. President Trump declared a national emergency on Friday and yesterday, he expanded the travel restrictions he placed on most of Europe to include Ireland and the United Kingdom. As Americans racing to get home, face lines that stretched for hours at U.S. airports for enhanced health screenings, the president also confirmed that he was considering implementing domestic travel restrictions."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "Specifically from certain areas, yes, we are. And we're working with the states and we are considering other restrictions."
+    },
+    {
+      "speaker": "FISHER",
+      "utterance": "And on Capitol Hill, House Speaker Nancy Pelosi and Treasury Secretary Steven Mnuchin hammered out a release deal which includes free coronavirus testing and two weeks of paid sick leave for workers. That bill is now heading to the Senate and it could be taken up as early as tomorrow -- Chris."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Kristin Fisher reporting from the White House -- Kristin, thanks. And joining us now Dr. Anthony Fauci, the government's top official on infectious diseases. And, Doctor, welcome back to \"FOX News Sunday\".  DR. ANTHONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY & INFECTIOUS DISEASES: Good to be with you Chris.  WALLACE: I want to start with those videos that Kristin Fisher just showed of those thousands of people at airports over night rushing to beat the travel ban, waiting on line for hours, you can see them here in close proximity. One assumes, coming back from Europe, some of them have the coronavirus. As an infectious disease doctor, are you troubled seeing this?  FAUCI: Yes, I mean we'd like to not see crowds like that. I think what people need to understand, if you're an American citizen, if you are a family member, that you can get back. You don't need to rush back. You'll be able to get back."
+    },
+    {
+      "speaker": "But it's understandable how when people see a travel ban they immediately want to hunker and get home. Hopefully, we don't have more of that but I think we probably unfortunately will see that.  WALLACE",
+      "utterance": "And is that a problem in terms of the spread of the disease?  FAUCI: Obviously. Whenever you have crowds -- I mean, that's the thing we've been talking about and that we really want to implement is to have that kind of social separation. That is countermanding that and hopefully that people will understand that you don't have to rush back.  WALLACE: And to what degree is it on the airports to prevent that and not have those big crowds of people waiting for hours?  FAUCI: I don't know, Chris, what the airports can do about that to try and encourage people -- to tell them that if you are an American citizen you will be able to get back. It's not going to be a problem.  WALLACE: You testified before Congress this week and you made I think what most people would consider some pretty chilling comments."
+    },
+    {
+      "speaker": "Here they are.  (BEGIN CLIP)  FAUCI",
+      "utterance": "Bottom line it's going to get worse. The flu has a mortality of 0.1 percent. This has a mortality of 10 times that.  (END CLIP)  WALLACE: What's different about this virus? What's different in how contagious it is and how lethal it is?  FAUCI: Well, the -- I would say three things, Chris. One it's brand new so we don't have any prior experience about what it's going to do, what it's dynamics are going to be. Number two, it spreads very easily. There's no doubt about that. It isn't like some of the other outbreaks that we had that just didn't adapt itself to spread among humans."
+    },
+    {
+      "speaker": "And number three, it's very serious in the sense of morbidity and mortality particularly among -- and very heavily weighted towards individuals who are more susceptible, the elderly and those with underlying conditions.  WALLACE",
+      "utterance": "And in terms of contagiousness and lethality, worse than the flu?  FAUCI: Well, yes. I mean, it just is. And we've got to face that fact. We've got to be realistic."
+    },
+    {
+      "speaker": "I mean, we've got to realize -- and I said that at the hearing, that things are going to get worse before they get better but the kinds of things we're doing now will hopefully mitigate that. I showed that curve --  (CROSSTALK)  FAUCI",
+      "utterance": "But that's important because to think that right now, everything is going to be OK if you don't do anything that's absolutely incorrect. We've got a really always be ahead of the curve. I mean, I was -- I say now in a way that people can understand, I'd like to be -- the fact that we're criticized for being over reactive because when you're dealing with a virus outbreak, you are always behind where you think you are. So, therefore, you've got to jump ahead and stay ahead of the curve.  WALLACE: I want to ask you about this, on Friday both you and the president at one point mentioned eight weeks."
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Now, you weren't saying it's all going to be over in eight weeks, but are you suggesting that if we do everything right that we could be on the other side of the curve in eight weeks?  FAUCI: Yes, the -- first of all, we have to say that people don't misunderstand. We are not sure what the duration is going to be, number one. Number two, if you look at what happened in China, where they had that peak and then they are coming down, there were only 11 new cases in China, they dominated the new cases just a few months ago.  So it started off China, you know, two or three months ago, they started coming down within a two-month period. So if you're talking about reflecting what went on there, it's going to be about that time that we hopefully in the next couple of months are going to see the direction it's going to go.  Hopefully, what we're doing, in a very aggressive way of containment and mitigation, we'll be able to not only flatten it in the sense of not as many cases, but also diminish the duration.  WALLACE: President Trump announced a public/private partnership on Friday, and made it sound like the serious testing around the country, that we'll be seeing it soon. First, there was this.  (BEGIN VIDEO CLIP)  TRUMP: I want to thank Google. Google is helping to develop a website. It's going to be very quickly done, unlike websites of the past.  (END VIDEO CLIP)  WALLACE: But Google's sister company, Verily, put out a statement later that said this test, which, according to him and other officials, first of all, will let you sort of check whether your symptoms indicate you have it, and two, if you do seem to have it, will tell you where you can get testing --"
+    },
+    {
+      "speaker": "FAUCI",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "-- in fact, is just starting and is just in a pilot program for the Bay Area, and that it's going to take over time, they said, for it to be applied nationally.  And while the president made it sound like mass testing is going to start very soon, there are a lot of experts who say that whether it's staffing, public health staffing, or the products, or the chemicals needed for mass testing, that we're very behind the curve on that.  So I guess my question is, how soon can people across the country expect mass drive-thru testing?  FAUCI: OK. So there are two issues here, Chris. There's a website and when it's going to be fully open versus the availability of testing. They really are somewhat separate. So put aside the website and how it's going to be fully operational. The CEOs of the companies that we had at the White House, that the president met with, it's very clear that when I specifically asked them, when can we get started to start doing this where you can really have availability in a much easier way implementing, not just saying that it's out there? They're telling us that that will be starting up within the next week or so that it's going to go up.  Now, in the reality, there are going to be people a week from now who are going to say, I tried to get a test but I couldn't get it. But the totality of the picture is going to be infinitely better than it was a few weeks ago.  WALLACE: I want to talk to you about a few weeks ago, because there are continuing questions about why other countries, South Korea maybe the best example, are testing thousands of people a day. And so far, the CDC says that it and state labs total, the whole crisis, have tested 13,000 people.  Here's how you and the president answered questions about the testing lag this week.  (BEGIN VIDEO CLIP)  FAUCI: The idea of anybody getting it easily the way people in other countries are doing it, we're not set up for that. Do I think we should be? Yes. But we're not.  TRUMP: No, I don't take responsibility at all because we were given a -- a set of circumstances and we were given rules, regulations, and specifications from a different time.  (END VIDEO CLIP)  WALLACE: The president says the Obama administration set up rules and regulations that made it impossible to do testing. You were in the same position under the Obama administration. Is that true? Is that what stopped it?  FAUCI: You know, Chris, to be honest with you, I'm not sure what regulations or what it was that they're talking about. I really mean that. I mean, I'm trying to figure out what it is that these things were in place that were able to or inhibiting."
+    },
+    {
+      "speaker": "But one thing that I do know now is that the ability to get a test had some regulatory and other restrictions on it that the FDA now has just gotten rid of.  WALLACE",
+      "utterance": "I mean, they could have done that day one.  FAUCI: Well, yes, they could have. But the fact is it wasn't. So I tend to -- like to -- instead of looking back, look at where we're going.  WALLACE: All right. You talk about slowing the virus down. You talk a lot, and I've very used to this now, you can either have a bump like this of cases or you could make it maybe the same total cases, but it's a much more gradual and slower and longer curve.  I want to put up some numbers. We have in this country about 950,000 hospital beds, and about 45,000 beds in Intensive Care Unit. How worried are you that this virus is going to overwhelm hospitals, not just beds, but ventilators? We only have 160,000 ventilators. And could we be in a situation where you have to ration who gets the bed, who gets the ventilator?  FAUCI: OK. So let me put it in a way that it doesn't get taken out of context. When people talk about modeling where outbreaks are going, the modeling is only as good as the assumptions you put into the model. And what they do, they have a worst-case scenario, a best-case scenario, and likely where it's going to be.  If we have a worst-case scenario, we've got to admit it, we could be overwhelmed. Are we going to have a worst-case scenario? I don't think so. I hope not. What are we doing to not have that worst-case scenario? That's when you get into the things that we're doing.  We're preventing infections from going in with some rather stringent travel restrictions. And we're doing containment and mitigation from within. So, at a worst-case scenario, anywhere in the world, no matter what country you are, you won't be prepared. So our job is to not let that worst-case scenario happen.  WALLACE: And final question. Three countries now in Europe -- Italy, Spain, and France are basically in total lock-down. People not allowed out. And in Italy, I think only pharmacies and grocery stores are open. You see people on their balconies singing songs and banging pots.  Could that happen here, either nationally or in some regions? And what about the possibility that we might have to have travel bans inside the country?  FAUCI: Well, a couple of questions there. So let me take one at a time.  WALLACE: Yes.  FAUCI: The idea, what's going on in Europe is that they have been -- they got into that escalation phase. So what they're doing now is playing catch- up. We feel that with rather stringent mitigation and containment, without necessarily complete lock-down, we would be able to prevent ourselves from getting to where, unfortunately, Italy is now.  With regard to domestic travel bans, we always talk about it, consider everything. But I can tell you that has not been seriously considered, doing travel bans in the country. Would it might be some time? We always leave an open mind.  WALLACE: Dr. Fauci, thank you. Thanks for coming in. An awful lot of people are relying on what you have to say. And, of course, we'll be tracking what the president's task force does this week. Thank you, sir.  FAUCI: Thank you. Good to be with you, Chris.  WALLACE: Up next, the threat to the U.S. economy as parts of everyday life shut down to contain the outbreak. Treasury Secretary Steven Mnuchin joins us live, next."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "The coronavirus pandemic is not just a threat to the nation's health, but also our economy. Joining us now to discuss that is Treasury Secretary Steven Mnuchin. Mr. Secretary, welcome back to \"FOX News Sunday.\""
+    },
+    {
+      "speaker": "STEVEN MNUCHIN, TREASURY SECRETARY",
+      "utterance": "Thank you. Great to be you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "A growing number of financial experts say now that the U.S. and the world are headed into a recession this year and they talk about an expanding hit both on the demand side and the supply side. Are they right?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Well, Chris, what I would say is I wouldn't focus on the technical issue of where -- whether we're going to be in a recession or not. What I'd focus on is, one, what do we need to do right now? Because it's clear we need to get economic relief to the economy. And, two, where are we going to be later this year? If the medical professionals are correct, and we're doing all the things, I expect we'll have a big rebound later in the year. So, this isn't like the financial crisis as I've said. This will have an end to it as we confront the virus."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I'm going to press a little bit on this and then we'll move on, but you've got disruptions to the global supply chain, and even more important, you've got consumers who have been the main drivers of this economy, and their consumer spending is grinding to a halt. I understand, as a secretary of the treasury, you don't want to predict a recession. But it could happen."
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Chris, what I'd focus on is that we need to get economic relief to the people that are impacted by this and as I've kind of described this, we're in the second inning. The first inning was the $8 billion, the second inning we passed bipartisan legislation to make sure that workers that need to be home and small and medium-size businesses will get paid. We are now going back to Congress, and focusing this week on the airlines industry, the hotel industry, the cruise ship -- there's no question that the travel industry has been impacted like we've never seen before. The president is absolutely determined that we will use whatever tools we have and whatever tools we need, we will go to Congress and get, and there's a lot of bipartisan support."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "That's an important message and we're going to get into that in detail. But, you know, people are living in the here and now, and I have to ask you -- people looking at their 401(k)s, we look at that number in the corner of the screen, and the Dow Jones dropping. According to one estimate, the market has lost almost $8 trillion in value from its record high, which was just a month ago. How much further are the markets going to drop?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "You know, I've always been one to say I can't predict where the market is today, this week. What I can tell you is people who bought stocks after the crash in '87, people who bought stocks after the financial crisis did really well. So, in terms of long-term investors, I have every confidence that this market is going to be higher down the road and the U.S. is still the greatest place to invest."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But you talk about who bought after the crash, when is after the crash?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Chris, we can -- we can never predict the bottom of the market or the top of the market. And that's why investors need to focus on the long- term. But, again, let me go back and say, there's no question, they are businesses that will be severely impacted, we are focused on helping those businesses that need liquidity. There are some businesses that are booming. I mean, you look at the stores and people who are buying certain consumer products -- what we've seen from the credit card data is travel is down, extraordinary. Almost corresponding is an increase in purchases of food, pharmacy good and supplies. And, again, what we're focused on and the president wants us to look at a big stimulus program because we need to help American workers now."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let's talk -- you'd be happy to know now -- about some of the things that you were doing to try to alleviate the issue. Early Saturday morning, the House passed a relief bill and I want to put up on the screen some of the measures that it includes. Free coronavirus testing, two weeks of paid sick leave for workers. It extends unemployment insurance and it expands food assistance. It also provides aid to small businesses. Two questions for you. First of all, any idea -- because no one seems to have figured this out yet -- how much is that bill going to cost the federal government? Well, let me ask you that first."
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Well, Chris, as you know, it's hard to model some of these things because you don't know how many workers are going to be home. So I want to be careful of throwing out numbers. I think, based upon the numbers that we're going to see, it's going to have costs that are significant but not huge. But --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Can you give us a ballpark?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Again, I think -- you know, this -- again, just let's focus -- this focuses on employees that are -- employers that are 500 and less people."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "That's a portion of the economy, but that's the economy that is going to be hit the hardest. Obviously, big companies can afford these things for health care workers. So I want to be careful to throw out a number. We are modeling it. We will have it this week. But the important issue is, whatever we need, we are going to get from Congress."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right. Well, that's what I want to pick up on next. The president tweeted Friday evening that he will sign this bill that the House passed. How confident are you that the Senate will pass this bill this week and send it to the president?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Well, let me just say the president tweeted that because we kept the president and the vice president involved in all of the details of this. And the president drafted the tweet a little bit earlier but we asked them not to send it out until we had the final language that we were working on. I've been speaking to senators all day yesterday. We had conversations with Mitch McConnell and team along the way. One of the things I will tell you is we are hearing feedback that certain small businesses are concerned about the burden of this. We were very focused we need to get the money to people quickly. We don't want them to have to deal with big bureaucracy. And one of the things I put out a statement last night, that small businesses will be able to go to the IRS and use the deposits that they put with the IRS. And if they need a cash advance, they'll get it from the IRS."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But what I'm getting at is the Senate you think likely to pass this bill or pass a different version and then we're back in legislative sausage-making on Capitol Hill?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "I'm speaking to senators, I -- I don't want to predict, OK? I think there's a lot of bipartisan support. We hope they pass this bill. If not, we'll work with the center on whatever minor changes we need."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right. You said --"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "But, Chris, let me just say --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Yes?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "-- again, you know, we're going back to the Senate this week on other things. Airlines, very focused on airlines, hotels, cruise ships, workers for these industries. So, we're going to get this bill done and we're going to get more bills done on a bipartisan basis."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let me ask you about that. The help for specific industries that are obviously going to be hard hit. You keep saying it's not a bailout. How is it different then what the Bush and Obama administrations did for the banking and auto industry in 2008 and ‘09?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Well, the good news is the banks are extraordinary conditions in both capital and liquidity. There were concerns at the time because of the housing crisis that banks weren't going to make it through. I mean, there - -"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I guess my question is, those were -- those were bailouts. Why aren't these bailouts?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Again, what I would describe is, if you're providing liquidity to good businesses that just need liquidity for three to six months where you're taking collateral and you have security, that's not a bailout. To the extent that we need to support different businesses that are impacted - - again, our focus is going to be on stimulus for the workers and getting money to the workers that impacted."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Let's talk about one of the controversial parts of a possible plan, a relief plan, the third effort by your administration and the Congress. There's been a lot of talk -- you and the president have both pushed the idea of a payroll tax holiday, a payroll tax suspension until the end of the year, which according to one estimate would cost somewhere between 800 and a trillion -- $800 billion and a trillion dollars. But you're getting pushback from Democrats and Republicans in Congress who say it's not helping the people who need it most who are going to be thrown out of work or who work in the gig economy and don't pay payroll taxes. Given that pushback, are you considering instead of the payroll tax suspension, another tax measure?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Chris, the president wants to get economic relief to the right people. The payroll tax is one way of doing it, and he likes that. The president is also willing to consider refundable tax credits which in essence are another way of getting money to people, that has certain advantages of we can inject money really quickly. But the president is focused that we work on a bipartisan basis to make sure we combat the economic situation that is here and now but that we expect, as we do the medical things to combat this virus, the economy will bounce back."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "So, you're not locked in to the payroll tax?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Again, the president likes that idea. But if there's other ways, working with Congress, we can get money to people, the president will absolutely consider that."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Finally, there was a report that you met with the president and some other people on Monday and that he erupted and he urged you to go to Jay Powell, the Federal Reserve chairman, and do more to stop the stock market from declining and to stimulate the economy. First of all, did that happen? And, secondly, have you asked the Fed Reserve chairman to do more, for instance, cutting interest rates more?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Chris, let me just comment, first of all, I knew the president before I came into work for him. I worked for him on the campaign. I've known him for 15 years. No, the president didn't erupt at me, OK? The president and I -- I give him my honest opinions and I respect that he tells me what he wants us to do. So, no, there wasn't erupt (ph). Now, as it relates to the Fed chair -- just a matter of policy, I don't comment on my conversations with the Fed chair. I can tell you, I am in daily conversations with Jay Powell. We're looking at the tools we have. They're looking at the tools they have. Certain tools were taken away from both of us after the financial crisis with Dodd-Frank. If we need more tools, we'll go back to Congress and get bipartisan support to get that."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And in 30 seconds, very quickly, when people are scared to go out to a restaurant or to get on an airplane, if you were to cut the interest rate half a point, is that going to make any difference?"
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Well, let me just say again -- and I want to be careful because I don't comment on specific Fed actions -- but the market has already reacted. So, as an example, our treasury borrowing cost on a short-term basis is down to 25 basis points. So we have a lot of flexibility to inject things in. People are focused on interest rates. People are also focused on other actions. The Fed putting the trillion and a half dollars into short-term liquidity was obviously an extraordinary move."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We're going to leave it there. Secretary Mnuchin, thank you so much. Obviously, people concerned, as I say, about the economic, as well as the public health aspects of this. Thank you for coming in today and sharing your time with us."
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Great to always be with you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Thank you, sir."
+    },
+    {
+      "speaker": "MNUCHIN",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Up next, we'll bring in our Sunday group to discuss how the White House and Congress are responding to the crisis. Plus, what would you like to ask the panel about how the pandemic will impact the nation's health and economy? Just go to Facebook -- 930 CHRIS WALLACE, FOX NEWS ANCHOR: House and Congress are responding to the crisis. Plus, what would you like to ask the panel about how the pandemic will impact the nation's health and economy. Just go to FaceBook or Twitter at Fox News Sunday and we may use your question on the air."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Coming up, the Democratic candidates for president look to show leadership at a time of crisis."
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS (I-VT), PRESIDENTIAL CANDIDATE",
+      "utterance": "We must prepare for this response in an unprecedented way."
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "utterance": "We have to get to work immediately."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "We'll ask our Sunday panel how the coronavirus is changing the race for the White House."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES",
+      "utterance": "To unleash the full power of the federal government to this effort today, I am officially declaring a national emergency."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "President Trump, on Friday, stepping up his administration's response to the spread of the coronavirus in the U.S. And it's time now for our Sunday group. Senator Mitch McConnell's former chief of staff, Josh Holmes, Charles Lane from \"The Washington Post,\" Fox News correspondent Gillian Turner, and executive director of the Serve America PAC, Marie Harf. Gillian, 52 days, more than seven weeks after the first coronavirus case was diagnosed in this country, the president, on Friday, declared a national emergency. How do you assess the administration's response over those seven weeks and how do you assess it in the last few days?"
+    },
+    {
+      "speaker": "GILLIAN TURNER, FOX NEWS CORRESPONDENT",
+      "utterance": "Well, I think the first thing that bears repeating again and again its, 50 plus days into this, there's still a widespread testing shortage across the nation. We're not saying that that's President Trump's fault, absolutely. We're not putting the blame on any one government agency. But it's a reality that needs to be repeated. At the end of the day, every country in the world, Chris, is going to get a coronavirus report card, right? They're going to get a grade on how their government responded to this public health crisis. If that report card was happening today, we would look at the fact that I think there are now almost 130 countries that have been infected. In most cases clustering mount Italy, China, and Iran. They each have 10,000 plus, so they would fail. We don't know how the U.S. would do if we had to grade them today because, again, without widespread testing, the epidemiologists say they don't know the real numbers so they can't model future accurate predictions. So it's still a big question mark. We'll hopefully know in a couple of weeks."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Marie, I think it's fair to say there have been some strong points in the government's response, like the early decision to ban travel to and from China, and there have been some weak points, as Gillian suggested, like the really quite remarkable lag in testing in this country. You know, they say that there are 3,000 cases in the U.S. We don't know if that's true or not because no -- almost nobody has been tested. Only 13,000 test so far. How do you assess the administration's response so far?"
+    },
+    {
+      "speaker": "MARIE HARF, FOX NEWS CONTRIBUTOR",
+      "utterance": "Dr. Fauci said several interesting things -- well, many interesting things with you this morning, but two that stuck out to me, one is that you are always behind where you think you are when it comes to fighting these outbreaks of disease. And the second, when you pressed him on the regulations that perhaps prevented the tests from being more widely used early on, he said, yes, we could have changed those regulations on day one. We're now several months into this. There has been a lag in parts of the administration. And I think for the general public, when you talk about the reactions of the administration, President Trump has the bully pulpit and he, for months, was saying this isn't anything to worry about. There's only a few cases. It will go away. Now you see the private sector and governors taking on responsibility for cancellations, for social distancing, and you're still getting a little bit of a mixed message out of the White House. People are looking for leadership from the top about what exactly they should be doing."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "As we have been saying, the pandemic is not only a threat to our health, but also to our economy. We asked you for questions for the panel and on this issue of -- of the threat, the dual threat, we got this on FaceBook from John Shulfer, does President Trump deserve any blame for the new bear market? Did he deserve any credit for the bull market? Should and the answers for both questions be the same? Josh, how do you answer John?"
+    },
+    {
+      "speaker": "JOSH HOLMES, FORMER CHIEF OF STAFF TO SEN. MITCH MCCONNELL",
+      "utterance": "Well, look, I think there's a really low tolerance for partisanship at this point. I think, as Gillian said in the opener, that there will be a time and a place for report cards on all of this and this isn't it. We are at the opening stages here of a pandemic in this country. We've seen what it's done to the economies of China. We see what's happening currently in Europe. This is a huge problem without which you can legislate, right? I mean you can't just pass a bill and make a pandemic go away. What we're looking at is a government that is trying to respond proactively to stop not only the health crisis that -- that could be affecting this country, but the economic impact over a period of time. You heard Secretary Mnuchin talk about, we're in the second inning. The first inning was an $8 billion bill that tried to get as many tests out there as possible. The second was all of this that you've seen being negotiated with Speaker Pelosi over the last week about proactively making sure that people who are in small businesses, employees have paid medical leave. All these things kind of things that can help kind of bridge the gap where hopefully we come out and emerge out of the back end of this with an economy that we can kick-start repeatedly through more action. So I don't think anybody is to blame for this. I -- what I think is, we've got -- all got to pull together to try to figure out how you, as a country, get from what is potentially a huge problem to, you know, hopefully this summer an economy that resembles the one we went in with."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Chuck, how big a threat do you see now? It was interesting, the Treasury secretary, understandably, didn't want to predict a recession. He didn't want to predict there wouldn't be a recession. He didn't, it seemed to me, want to come down on either side of that. How big a threat is this pandemic right now to the economy of this country and how would you assess, not finding blame, just trying to understand, how would you assess the government's response, the White House and Congress, to the economic threat so far?"
+    },
+    {
+      "speaker": "CHARLES LANE, FOX NEWS CONTRIBUTOR",
+      "utterance": "So it's been remarkable to watch this threat assessment evolve over the last seven to ten days. Very specifically, we had two business leaders visit \"The Washington Post\" in the week before this from Silicon Valley and Wall Street. This issue barely came up in those conversations, hour-long conversations. And by Wednesday, we were receiving phone calls from people who were in high levels in both the Bush and Obama administrations telling us, hey, guys, this is getting terrible. This could be a hit of like 5 percent to GDP. You guys need to be writing about this. So it evolved. The threat assessment evolved very, very suddenly. And I spent a long time on the phone yesterday with an investment advisors who I think presented a very realistic picture, which is, we could have a very, very short, sharp, bad, as he said, ugly quarter as we're -- as we're sitting here right now. But if all goes well on the public health side, that could then be a v-shaped recovery. So what a lot of economic experts are telling me is actually it's the public health response that will determine how well we do economically."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Oh, absolutely. I mean this is all -- it is, as the Treasury secretary said, this isn't a financial crisis, this is a public health crisis leading to economic problems. Final question for you, Josh, which I was trying to press the Treasury secretary on. From your experience with Mitch McConnell and the Senate, will the Senate passed the bill the House passed on -- on early Saturday morning to provide relief to -- to people who are thrown out of work, people that need expanded food aid? Or do you think they're going to pass something else and this is going to ping-pong back and forth?"
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Oh, I think the vast majority of what was in the House passed bill will pass the Senate. I don't know if there will be some slight tweaks. You know there's a technical correction bill that also needs to be passed in the House on Monday as well. So, look, I -- this is a little different legislative environment and the one we've been used to over the last 15 years. When you have a crisis, like think of TARP with the financial crisis or Budget Control Act, all of these various things had a hard deadline and your economy was basically -- we were told in 2008, if you didn't pass a bill in 72 hours, you wouldn't have an economy on Monday. We're not in that situation. We are in the situation that Secretary Mnuchin just lined out, which is, we have to take this step-by-step. We have to get the help for the middle class, which is the next step. The third step, what he was talking about with travel industry, airlines, things of that nature. This is going to go on for a while. And I imagine they're going to address each of these incrementally over a period of time."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And in ten seconds, will they pass a payroll tax suspension or something else? He was talking no (ph) about tax rebates."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Yes, I don't -- I don't think that's clear. What is clear is that there is a broad bipartisan views that when you get to the back end of this health crisis to restart, to jump-start the economy, to make sure that people have more money in their pockets, something there needs to be done."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right, panel, we have to take a break here, but when we come back, the coronavirus turns the race for the White House into a debate over who's best prepared to lead the nation in crisis. That's next."
+    },
+    {
+      "speaker": "JOE BIDEN (D), PRESIDENTIAL CANDIDATE",
+      "utterance": "I want to thank Bernie Sanders and his supporters for their tireless energy and their passion. We share a common goal and together we we'll defeat Donald Trump."
+    },
+    {
+      "speaker": "SEN. BERNIE SANDERS (I-VT), PRESIDENTIAL CANDIDATE",
+      "utterance": "Joe, what are you going to do for the 500,000 people who will go bankrupt in our country because of medically related debt?"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Joe Biden trying to wrap up the Democratic race after another string of primary victories on Tuesday, but Bernie Sanders making it clear, this race is not over yet. And we're back now with the panel. Marie, a lot of Democrats, not just Joe Biden, want this race to be over. But, in fact, there's going to be a debate on CNN tonight. One-on-one, Sanders and Biden. Sanders has made it clear he's going to push, at least ideologically, the things he believes in. And I think it's fair to day that Joe Biden has not been a strong debater so far in this cycle over a series of debates. How do you expect tonight to go?"
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "Crisis situations, like we're in right now, I think, show voters that they want someone statesman like, they want a steady hand, and that's what Joe Biden will be focusing on tonight. He gave that speech about coronavirus this week and I think tonight you will see him say, look, Bernie has some good ideas, but right now we need someone who can come in on day one and handle what we are seeing in this country. Joe Biden also adopting Elizabeth Warren's plan on bankruptcy just this week. So he is taking on some of the ideological left. He's adapting some of it. But he's going to come out tonight and say, in every poll, I beat Donald Trump, Bernie doesn't. And right now, when we see a president lying about a website, saying he takes no responsibility, I'm the one who can beat him, that electability argument will be an even sharper relief tonight."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Chuck, Marie makes the point about a steady hand, but I think we have to admit and acknowledge the fact that Joe Biden is not always a steady hand in these debates."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "You know, he is a gaffe machine and always has been throughout his career. That is a known liability and I assume one reason Bernie Sanders insisted on having this debate and staying in the campaign was just to try his luck and see if Joe Biden could somehow blunder and help Bernie revive his campaign. But I think what the big picture here is that the whole campaign has been completely transformed. I mean the whole subject of this campaign is now this virus and its economic fallout, which is like nothing everybody was expecting the campaign to be about two weeks ago. And so --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I mean we're even seeing states postpone their primaries. Louisiana did it. Georgia did it."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "Correct. Correct."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "I mean literally putting the primary contest on hold, or at least postponing it."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "And so I guess the way Bernie wants to play that is say, see, now is the time for Medicare for all. What this reveals is we need that transformation in health and Biden will say, no, no, no, it's a crisis, we need a steady hand. But what I'm thinking also is it's going to focus attention on the fact that both of them are very old and both of them are literally in the risk group for this virus. And I think that it may cause, in that sense, some downside risk to both of them. And -- and, furthermore, I think --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But there's nobody else in the race."
+    },
+    {
+      "speaker": "LANE",
+      "utterance": "Exactly. And this whole process has -- has now sort of left us in a point where it's completely scrambled and a month from now it could all look completely different."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Josh, we talked about the economic impact of the coronavirus in the last segment. There's also, though, obviously a political component because Donald Trump was planning to run, and quite rightly on a pretty strong economy, strong growth, low unemployment, record stock market, now all of that is gone. If we were to end up in a recession, how much would that compromise, challenge Donald Trump's prospects for re-election?"
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Well, that's certainly a big hypothetical, right? I mean it --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Well, it's not such a crazy hypothetical."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "No, it's not. I mean, clearly, this is going to have a huge economic impact. There are two ways of looking at it. The first -- both relate, by the way, to how we ultimately emerge. If we ultimately emerge with an economy that looks anywhere nearly like the one we went in with, I think you mitigate a lot of those problems. The second thing -- way to look at it is, did we have a healthy -- healthy enough economy to absorb something like this? And I think, for the first time in a long time, you can say the American economy was positioned in a place where we have resources and the capabilities of actually undergirding the systemic problem that we're going to have as a result of this virus. So, look, I think that the argument changes significantly because you're not walking in -- waltzing into an election with these huge employment numbers and huge GDP growth. We're not going to have that. What we may well have is a reminder to the American people that our -- the strength of our economy can rebound under this administration, even under the most unprecedented crisis."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Gillian, it's interesting, \"Axios\" reported I think yesterday about a focus group in Minnesota of swing voters who said that even if there is a recession, that because of the coronavirus, they wouldn't blame that on President Trump. The only, it seems to me, hiccup there is, we don't know where we're going to be six months from now, which is when we're going to have this election. Now, you know, it -- if we've rebounded, obviously that would redound to the benefit of President Trump. But if things are bad, you wonder how people are going to feel."
+    },
+    {
+      "speaker": "TURNER",
+      "utterance": "I suspect that a lot of American voters, not just this focus group, but folks all across the country, view this virus as like an act of God and politics is not really very closely related to it. Maybe six months from now they'll start thinking about how Donald Trump's administration responded to it. A quick note on what you and Chuck just talked about a minute ago. When it comes to age, there's a million dollar question in this election cycle that I don't think anybody wants to ask, and that is, what if all top three presidential contenders contract this virus over the coming months? It's not a crazy question. We're in this unique cycle where all three, Trump, Biden and Sanders, are 70 plus. One source pointed out to me the other day, we know at least one of them has an underlying health condition. Sanders has had heart issue so far. It's not unreasonable given the amount of people they interact with every day that they might all contract this virus and, at some point, maybe overlap at the same time. What does that look like? This becomes a national security concern very quickly."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Marie, are the effects of this virus, both in terms of public health, in terms of the economy, are they fair game politically for Democrats?"
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "They are fair game because who we have leading our country during a crisis is the most important question you can ask voters. And you don't have to politicize it. You don't have to take cheap shots. But I think a lot of Americans are looking at how President Trump has handled this, downplaying it, not telling the truth, not giving clear guidance on whether you should go out, when and where you can get a test, and they look at that and all this notion that his voters had of blowing the system up, of discarding the expertise and the government, that's coming home to roost right now. And I think that's how voters are going to look at this as a leadership test in a crisis. That is fair game across the board."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Josh, you have 45 seconds for a rebuttal."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "As I said at the outset, I think there is an extremely low tolerance for partisanship at this point."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But there's been partisanship on both sides."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "There sure has. And I think the American people are going to take a look at that and think, boy, oh, boy, are these folks out of touch. I think any -- any -- you look at the behavior of Speaker Pelosi, of Mitch McConnell and --"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "But don't you think -- don't you think it's going to be a legitimate question, was this handled well or wasn't it?"
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "Absolutely."
+    },
+    {
+      "speaker": "HARF",
+      "utterance": "(INAUDIBLE) in a crisis."
+    },
+    {
+      "speaker": "HOLMES",
+      "utterance": "In the back end of this, when the country recovers, absolutely. But when President Bush is standing on the -- the burning towers and declaring that we will -- we will make these people pay, that's not the point to question our intelligence, right? You've got -- at this point, we have to get through this."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "All right. And we have to get through this segment. Thank you, panel. See you next Sunday. Up next, our special \"Power Player of the Week.\" She's tops in her craft, creating stylish hats and still going strong at the century mark."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "She's 100 years old, the hat maker for generations of style conscious Washington women. And she has no intention of slowing down. Here is our \"Power Player of the Week.\""
+    },
+    {
+      "speaker": "VANILLA BEANE, BENE MILLINERY OWNER",
+      "utterance": "This is my home. My second home. Let's try this one."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Vanilla Beane's second home is her famed hat shop, a special part of Washington for 40 years."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Why do you think hats are important for women?"
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "Cause it completes the outfit."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Her creations are beautiful and intricate, no two are alike, and each one makes a statement."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "What's a proper church hat?"
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "Well, any hat that's not too fancy, not too wide. Look at that."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Beane's hats completed the look for famous customers like civil rights leader Dorothy Height, whose hats were so iconic, then President Obama singled them out at her funeral."
+    },
+    {
+      "speaker": "BARACK OBAMA, FORMER U.S. PRESIDENT",
+      "utterance": "And we loved those hats that she wore like a crown."
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "She would come in when she needed something to match the outfit."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "There's a famous picture of Dorothy Height that is now a U.S. stamp. It's your hat that was --"
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "That she's wearing there."
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "It feels good."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Hats became Beane's hobby in the 1950s when she worked as an elevator operator in a building with a hat shop."
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "Like all the encouragement. So I kept going."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "She opened Bene Millinery when she retired. Today, her works can run upwards of $500. They've been featured in the National Museum of African-American History and Culture and in paintings by artist Ben Ferry. When she turned 100 last fall, D.C. Mayor Muriel Bowser declared it Vanilla Beane Day, an occasion which, of course, called for a new hat."
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "It was a quick job."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "A quick job."
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Last minute."
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "For your 100th birthday?"
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "UNIDENTIFIED FEMALE",
+      "utterance": "(INAUDIBLE) Vanilla Beane!"
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "But it's not just her hats that make a statement."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "When did you realize that your married name was Vanilla Beane?"
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "I was in the drugstore and the pharmacy said, do you know there is a vanilla bean?"
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "And what did you think when you realize (INAUDIBLE)?"
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "I said I guess it was meant to be."
+    },
+    {
+      "speaker": "WALLACE (voice over)",
+      "utterance": "Vanilla Beane is still creating and still taking inspiration from advice she got as a child."
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "Love many, trust few, learn to power your own canoe."
+    },
+    {
+      "speaker": "WALLACE (on camera)",
+      "utterance": "Any thoughts about retiring?"
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "No."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Why not?"
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "Because I -- this is my life."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Are you happy with where life has taken you?"
+    },
+    {
+      "speaker": "BEANE",
+      "utterance": "It's been good. I can't complain."
+    },
+    {
+      "speaker": "WALLACE",
+      "utterance": "Oh, boy. At the end of a week when so much of our lives has been upended, it's nice to know there are some constants in the world, like Vanilla Beane. And that's it for today. Have a great week and we'll see you next FOX NEWS SUNDAY. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

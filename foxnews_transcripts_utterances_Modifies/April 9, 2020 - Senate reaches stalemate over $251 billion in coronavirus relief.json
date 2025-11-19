@@ -1,0 +1,941 @@
+{
+  "date": "April 9, 2020",
+  "headline": "Senate reaches stalemate over $251 billion in coronavirus relief",
+  "subHeadline": "No sub-headline found",
+  "url": "https://www.foxnews.com/transcript/senate-reaches-stalemate-over-251-billion-in-coronavirus-relief",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "NEIL CAVUTO, FOX NEWS ANCHOR",
+      "sentences": "Thank you very much, Bill. We had a good day for the markets, and obviously one of the best weeks we have seen since 1938 for the Dow.  Now, what was driving that -- and details are to come -- growing optimism that maybe the arc is turning positive on this. That includes hospitalizations in New York state. More to that in a second.  Suffice it to say, when we heard Larry Kudlow tell Charles Payne on FOX Business, which, if you don't get, you should demand -- anyway, one of the things he brought up was this idea, yes, it is doable to see a slow rollout to getting back to work within four to eight weeks.  There are a lot of caveats to that, a lot of details to that, a lot of nuances to that. But the bottom line was that people were looking forward enough to virus arcing or improving, hospitalizations improving, to the point where we could say the trend is the friend, and stimulus is the backdrop. To David Lee Miller in New York with what's happening there that had some folks encouraged -- David Lee.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DAVID LEE MILLER, FOX NEWS CORRESPONDENT",
+      "sentences": "Neil, more grim news from Governor Andrew Cuomo today, but, at the same time, there was some hope that things are going to improve in the future. Nevertheless, for the third straight day, a record number of New Yorkers, 799, lost their life to the virus. The devastating state death toll since the crisis began is more than double 9/11. Reinforcements are needed to cope with the number of dead.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. ANDREW CUOMO (D-NY)",
+      "sentences": "It's gotten to the point, frankly, that we're going to come to bring in additional funeral directors to deal with the number of people who have passed. If you ever told me that, as governor, I would have to take these factions, I couldn't even contemplate where we are now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MILLER",
+      "sentences": "On the positive side, the number of hospitalizations continues to flatten. There are also fewer admissions to ICUs. And Mount Sinai Hospital today canceled plans to build a field hospital at the Cathedral of St. John the Divine on Manhattan's West Side. Governor Cuomo warns that whatever progress has been made can be lost, though, if New Yorkers fail to continue social distancing -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "David Lee Miller, thank you very, very much, my friend.   With us right now was the former FDA commissioner, who is kind enough to talk to us, Dr. Mark McClellan. Doctor, great to have you.  This four-to-eight-week goal or parameter that Larry Kudlow was raising, there are a lot of details to that, a lot of details and nuances that even he laid out with my friend Charles Payne. But, having said that, is it premature to talk that way? Is it good that we look at a way to roll people back to work? How would you describe it?  Commissioner, can you hear us?  All right, I apologize for that. We hope to get that working here. But one of the things that has come up is this idea that markets certainly were focusing on any pocket of good news, that four-to-eight-week time frame, coupled with the good news out of New York, I stress better than expected on the hospitalization front, not on the death front, but there was that.  There was also this going on halfway across the world, across the Atlantic Ocean, on news that Boris Johnson is out of intensive care in a London hospital.   Benjamin Hall has the latest on that -- Benjamin.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENJAMIN HALL, FOX NEWS CORRESPONDENT",
+      "sentences": "Yes, Neil, very good news over here in the U.K., not least because no one knew exactly what the condition of Boris Johnson was over the last few days. And there had been reports a couple days ago that he was very seriously ill. So, suddenly, this is a good thing, a positive thing for the country.  And we found out about an hour or so ago, when Downing Street released this statement, saying: \"The prime minister has been moved this evening from intensive care back to the ward, where he will receive close monitoring during the early phase of his recovery. He is in extremely good spirits.\"  A few things to note that. It says Johnson will be moving back to a ward at St. Thomas' Hospital, so he will not be in a private room, at a time when the country, the U.K. is celebrating the National Health Service, Johnson clearly making the decision to be among other patients. Also important to note that it refers to the early stage of recovery. And experts still say that even the best outcome from here will likely see amount of action for at least a couple of weeks.   And just in the last hour, President Trump has also tweeted about this, saying: \"Great news. Prime Minister Boris Johnson has been moved out of intensive care.\" And it really is an important time for the U.K. The U.K. is just hitting the apex of the pandemic, 8,000 already dead, about 1,000 new deaths a day, so they are looking for strong leadership. They're looking for Boris Johnson to come back and take control of the task force and the coronavirus response.  The big question, how long until he can be back at Downing Street, back at his desk doing his job, Neil?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Benjamin Hall, thank you very, very much, my friend. We're going to take another crack again at Dr. Mark McClellan, the former FDA commissioner. Commissioner, can you hear me now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. MARK MCCLELLAN, FORMER MEDICARE AND MEDICAID ADMINISTRATOR",
+      "sentences": "I can hear you just fine. Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, I apologize for that, Commissioner. What do you think? What I was getting into before is this notion of people thinking, all right, not to do -- rush it, but to think about how we slowly weigh in to getting ourselves out of this lockdown, piece by piece.  A four-to-eight-week time figure has come out of the administration, particularly Larry Kudlow on FOX Business. Where do you stand on that? What would be the kind of things you would like to see, Doctor, that would warrant, all right, yes, let's discuss this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCLELLAN",
+      "sentences": "You know, we are still really busy right now just dealing with the peak in cases, and we need to focus on getting through that. But it's also time to look ahead. I think it is possible to think about reopening in four to eight weeks if some key milestones are present, not just naming a date, but looking for some key things to be accomplished.  Number one is getting that caseload way down, so that our health care systems are never overstressed again, and (AUDIO GAP) is making sure that we are stronger, have the capacity to test and trace contacts of people who develop the virus in the future, so that we can really tamp down an outbreak well before it grows into the kind of epidemic crisis that we're facing today. I think that's very feasible, using the diagnostic tests and with support from the states and the federal government.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "What about these tests? Like you, in our country, I think right now, Commissioner, one at every 300 individuals is tested for the virus.  In places like Germany and other locales in Europe, it's about one out of 100. I have talked to a lot of professionals who say they want to see that testing beefed up dramatically. Why is that important?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCLELLAN",
+      "sentences": "It's very important so that, if anyone has symptoms, or if anyone is working or interacting in a high-risk setting, like a nursing home or a place where they might transmit the virus, we can identify a problem early, before a lot of transmission occurs. The good news is that our testing capacity is increasing. The number of tests and the quality of those tests, the ease of performing them is getting better. There now are tests available by Abbott Labs and others that can get results at a point of care in only 15 or 20 minutes.   So the testing is getting a lot better. The big challenge now is getting those tests out to where they're needed, so that they can be used health care organizations, in the community, in any place where there's a risk of a transmission. And then the other challenge is making sure that, if there is a positive test, we can help that person get isolated, we can trace their contacts, and really tamp down on any new outbreak before it spreads.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You know, another feature about getting people to think about going back to work, Doctor, is this notion of consistency on declining cases.   And that includes just the number of cases and deaths, that where you might still see an increase, but that the rate of increase is slowing for 14 days, that there's something about this 14-day figure where experts want to see it consistently pan out.  We have not seen that yet. I mean, but that wouldn't be the only detail for you. But why is that so significant?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCCLELLAN",
+      "sentences": "Well, it's really important to know that our distancing steps, all of these extreme steps that we have put in place, are actually working.  And there's a lag. The cases that we're seeing today are the result of infections that spread weeks ago. So we need to have enough time to make sure that we are way on the downward curve, not just getting past the peak, but we are in a position where our health care systems are never going to be threatened again, that they can manage -- if there are a limited number of cases, they can manage those. But going along with that, to make sure the number doesn't just go right back up when people start spending more time out and about, when businesses open back up more, we need this surveillance testing, this rapid testing to make sure, if there are any new outbreaks, we can identify them quickly and contain them before they spread again.  So, it's two parts. It's getting the cases down now, and then making sure that the number of cases doesn't go back up, through a new ability to test and trace contacts and contain any future outbreaks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Commissioner, Doctor, thank you very, very much.  Again, I apologize for those snafus at the outset, but very good having you on. I learned a lot. To the commissioner's point, by the way, this idea of how long before you wait to slowly bring people back or unwind these lockdown provisions, Louisiana Governor John Bel Edwards is right now saying, some of these mitigating measures that they have taken in places like Louisiana, they should be in place through the end of May, not just by the national standard right now, where we're keeping them in place through the end of this month, April, that, if he had his druthers, through the end of May.  He's looking into it. It's among the things he's looking into. Stay with us. Now we have got word that they have indeed reached a sort of a decision on cutting, but it's not going to be 20 million barrels a day. It's going to start out with 2.5 million barrels a day for each of them, so five million barrels a day in total.  That is far less than the production cut that many on the Street there wanted to see, that the president himself was looking to see, and that the two kingdoms -- that is, the Saudi kingdom and Russia -- had intimated might be in the offing here.  So, a cut, a rein-back at production at a time when there's certainly no demand for oil, and those prices have been collapsing. So, some closure here might be welcome, if they follow through, but it's a lot less than people thought we would see. In the meantime, there's stimulus at home to think about, and Mitch McConnell has a plan, if only Democrats, he says, would go along. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL (R-KY)",
+      "sentences": "One hundred billion dollars in loans have already been committed. That is 30 percent of the total funding spoken for in just the first few days. We need more funding, and we need it fast.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, to Chad Pergram on this, on where this is going.   The two sides are apart on this. Democrats obviously want to pour more into this in the House. Where do you think this goes, Chad?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CHAD PERGRAM, FOX NEWS CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Well, Anthony Fauci said a couple of weeks ago the virus makes the timeline. But when it comes to coronavirus legislation, consensus makes the timeline, Neil, and there was no consensus on Capitol Hill today. Mitch McConnell was trying to approve this bill by unanimous consent to a virtually empty chamber, going from $350 billion for small business up to $600 billion. That's a jump of $250 billion. To give you a sense of the size of that, that is one-fifth of all money that Congress appropriates every fiscal year. And Democrats objected, notably Chris Van Hollen, a Democrat from Maryland. Listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHRIS VAN HOLLEN (D-MD)",
+      "sentences": "A complete political stunt here on the floor of the United States Senate, something that doesn't have bipartisan support, something that is go it alone, take it or leave it, and totally violates the spirit all of us have been working on during this crisis.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PERGRAM",
+      "sentences": "Democrats blocked the bill because they want to devote more money to community-based lenders, so those in inner cities, farmers and Indian tribes can get help. House Speaker Nancy Pelosi says there is a -- quote -- \"disparity of access to capital in the country, and we do not want coronavirus to exacerbate it.\" Now, Neil, behind the scenes, they continue to start work on the coronavirus phase four bill. We think that's weeks away. There are some who are reluctant to move that fast, because they want to see how phase three is doing, and maybe just fill in, in the next step here with legislative grout -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Chad, thank you very much, my friend. With us now is Senator John Cornyn of the Senate Intelligence Committee. He joins us to talk about this and where this all goes. Senator, everyone appears to be at an impasse. We have seen impasses before, but it's just about whether we want to devote it to this -- this purpose, increase the small business funding mechanism or expand it. Where do you think this goes?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. JOHN CORNYN (R-TX)",
+      "sentences": "Well, we will work it out.  But, initially, the ink is hardly dry on the largest spending package, certainly in my time in Washington, and maybe ever, $2.2 trillion. And we know that just because Congress flips a switch doesn't mean that it's actually delivered to the people that we intend it to be delivered to. That's people out of work, small businesses, so they can sustain their business and be ready to open their doors back up when the economy picks up again. But I guess some people view this as an opportunity to spend more money, before we even know how the third tranche, the CARES Act, actually is going to work. I think it makes more sense to try to fill the gaps, try to fix unintended consequences than it does to just pile on more cash.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You know, Senator, obviously, this met huge demand. And the $350- $360 billion committed to it, the paycheck protection plan and everything wrapped around it, had an overwhelming response. I'm wondering, do you think the $250 billion extra you want will cut it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORNYN",
+      "sentences": "Well, I think it's just replenishing what we believe will be depleted accounts.  And it's probably an interim step. We all know that we can't keep doing this forever, that we have to figure out first how to defeat this virus, and -- by developing treatments and a vaccine. That's going to take a while. And then, in the interim, we will have to observe the protocols that the -- Dr. Fauci and others have recommended, like social distancing, washing your hands and the like. But the only way we're going to defeat this virus in the long run is to get our economy back up and moving again. And I know we're all anxious to figure out how to do that safely, but in a way that puts America back to work.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, you're right. The job issue is a big issue. The economy is a big issue, 6.6 million more Americans filing for jobless claims, as you know, Senator, in the latest period, that close to 17 million over the last three weeks. Are you worried that, even with his aid and federal help on the way, and the Federal Reserve applying $2.3 trillion in stimulus just today on what it's doing, that it will do little to mitigate these numbers, at least in the near term, that we could rocket up, some have told me, more than 40 million unemployed as a result? Where are you on this? What do you think?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CORNYN",
+      "sentences": "Well, I'm hoping that people like J.P. Morgan and others are right that we're going to see a recession for the second and third quarters, the third -- excuse me -- first and second -- second and -- yes, the first and second -- or second and third quarter. The problem is, we need to get this economy to bounce back. And that means not dismantling the infrastructure of where these jobs are being created. So, who knows what -- what the future holds. I think we're all beginning to be hopeful at some of the bending of the curve of infection rates and that we're getting smarter about how to mitigate it, as we're trying to do these clinical trials on treatments and ultimately a vaccine. But we -- we -- we're -- this isn't -- fiscal debts and -- deficits and debt are not the most urgent thing we're dealing with now, but they are not unimportant. So, we need to get through this emergency as soon as we can and be able to get our economy back on track.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Senator John Cornyn, thank you very, very much. And the senator is quite right. The period that these investment banks are talking about setting into recession is the quarter we're now and the third quarter. But a lot of these same firms are expecting a strong rebound once everyone is back to work, or most everyone.  And that 30 percent drop in the GDP -- that's what some are predicting -- and unemployment that could take into 40 to 50 million Americans, that will quickly reverse itself, not -- not overnight, but enough, they think, that the final quarter of the year will be positive. We shall see. More after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Well, if you think the World Health Organization was dragging its interest on the coronavirus situation, we should tell you about what's happening in the United Nations. By the way, this is South Dakota Governor Kristi Noem outlining her state's plans for this limited lockdown they have in effect. But first to this story. This is a very, very big story, because whatever problems we have had with the World Health Organization, it is much more important to think that, only today, only today, is the United States Security Council taking up the COVID-19 issue at all.  Maybe better late than never? I don't know. But Claudia Rosett, who follows this very closely, that's a head-scratcher. What's going on?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CLAUDIA ROSETT, FOREIGN POLICY FELLOW, INDEPENDENT WOMEN'S FORUM",
+      "sentences": "They can't do anything, Neil. Expect absolutely nothing. They're going to have a virtual conference. The big debate is, will they mention that it came from China, if they manage to produce a resolution? They really need to. It's important to remember that it came from China. But it came from the Communist Party's failure to contain what was obviously a threat. But this -- we are seeing right now a dramatic failure of the U.N. on every front. I mean, the WHO has been both catastrophic and repulsive. And expect nothing of use from the Security Council.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, what would happen to this? It's a little late. We have reached this apex, or we hope, in a lot of states, a lot of countries.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROSETT",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "I don't know where it all pans out. But it's seeming like they're coming in after the fire to say there's a fire.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROSETT",
+      "sentences": "Well, that would be very U.N., exactly. Look, what they're going to try and do out of this is what the WHO has done, which is raise money. And the whole sort of political logjam over the conflicting interests of the member states, while the director general of the World Health Organization denounces anyone who is not standing in favor of complete unity, and then attacks Taiwan himself. The performances coming out of the U.N. at this point is, to give a bottom line to it, really the most catastrophic and disgusting performance I can remember them putting on. And, Neil, that's a lot -- that's a high bar.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You know, the U.N., I was reading -- and you know far more about this than I do -- has a poor track record on addressing viruses and pandemics. And this continues that theme. I mean, they must have a medical staffs, medical contingencies and committees and groups that follow this sort of stuff, because that is an issue that links us around the world, because it all shares our DNA.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROSETT",
+      "sentences": "Yes.  Well, look, the World Health Organization has an annual budget well over $2 billion, and that's before the $800 million they now have pledged for their coronavirus initiative. So there are enormous resources. And other agencies have further resources, UNICEF, U.N. Development Program, and so on. But the problem is, you can give them lots of resources. They enjoy it. They like business class travel, especially at the World Health Organization. But that doesn't mean that you get any good effect. And the resounding lesson of this is, we need to go around the U.N. We need to be dealing with countries, for instance, Taiwan, which really did early on see this and respond in a way that is what the United Nations should have done. Instead, the U.N. is attacking Taiwan, because China doesn't like Taiwan. We discovered the World Health Organization is completely in China's pocket. That is an accurate description. And they're right now just making a lot of fuss over words. A Security Council meeting, it will do nothing. That's the problem.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Scary stuff.  Claudia, thank you very, very much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROSETT",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "It is the nature of the beast, obviously, when following something like this, a pandemic like this, that the rules and even the guidelines can change. The CDC first sort of dismissing face masks, for example, and then saying, maybe they're a good idea, the CDC at first saying, you know, when you get back to work, you do it carefully, you're very careful about the people who go back to work, and then advising slightly differently today. But it was what it had to say about gatherings, family gatherings, particularly at Passover and Easter, that might be the most startling of all. Listen up before you gather up. Hear him -- after this. But the CDC will have a lot riding on how we go about doing so, and how quickly. Jonathan Serrie on what the CDC might be thinking -- Jonathan.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JONATHAN SERRIE, FOX NEWS CORRESPONDENT",
+      "sentences": "Hi there, Neil. Throughout this pandemic, we have been learning just how crucial food service workers are, and we need to keep them healthy, or else we're all going to be in a whole lot of trouble. Today, Smithfield Foods announced it will temporarily close its Sioux Falls plant to enhance additional social distancing measures to protect its 3,700 employees, that after more than 80 employees there tested positive for coronavirus. The closing will only last three days. The company's CEO explains, people have to eat. This comes after the CDC announced those new guidelines for returning critical employees to work after a potential exposure to COVID-19. They must pass regular temperature checks, wear face masks in the workplace, and practice social distancing, avoiding crowded break rooms and other spaces. They shouldn't share headsets or other objects that touch their face. And anyone who becomes sick must go home immediately. Neil, right now, these guidelines apply to workers in critical infrastructure, but I have a feeling this is going to serve as a blueprint for other employees when other workers start returning to their workplaces -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Jonathan, I'm curious, though. A lot of people live in pretty confine, tight workplaces, where it's not six feet, in a lot of places, more like six inches apart. How do they recommend that be addressed?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SERRIE",
+      "sentences": "Yes. Well, they're saying that these workers have to be able to maintain social distancing, in addition to the masks. If the workplace can't accommodate that, then you probably don't need to be bringing those workers back. Just an example of our own social distancing, I'm broadcasting outside, instead of inside our Atlanta bureau. And I will continue to do that until things become safer to go back indoors -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Yes, I want you to keep doing that. We like you safe and healthy and everyone around you. Thank you very much, my friend.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SERRIE",
+      "sentences": "Thank you. Thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Let's get the read on all of this, whether it's justified, whether we're getting -- thank you. I apologize for that. Dr. Bob Lahita, St. Joseph University Hospital, chairman of medicine, New York Medical College professor, real smarty-pants, so he can help us out with this. Doctor, thank you for taking the time. What do you think of that? Still practice social distancing rules, which, for now, are six feet, in what are generally in office buildings around the country and elsewhere pretty tight working spaces. How do you finagle that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DR. BOB LAHITA, ST. JOSEPH UNIVERSITY HOSPITAL",
+      "sentences": "Yes. Yes, got to do it. And, unfortunately, we used to say there are only 10 people allowed in the proximity of a single individual, but now you have got to distance yourself. You have got to wear a mask. I wear a mask all over the place. I'm not wearing a mask in my office right now, but a mask is exceedingly important. And I was asked by patients about Passover seders. And I'm saying, well, just have the immediate family, like one or two people, and distance yourself at the table. You can do Zoom or Skype or whatever you want. But don't come into proximity. A lot of families get infected when they come together for dinners and such. And the same thing, we will see on Easter, where people are asking me, can we get together with our 15 relatives and the grandkids and everything else? And I say absolutely not. You have got to keep your social distancing. Very important now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, how do you do that, Doctor? I mean, if you want to keep the social distances, let's say, and you want to limit it to 10 or fewer people...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAHITA",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "... then those 10 or fewer people have to be spread out, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAHITA",
+      "sentences": "Spread out. That's right, and preferably not 10 people. I mean, that was what we said three weeks ago, but now we're in a much more critical stage. So I'm advising everyone. I have a mask here which I run around wearing, a cloth mask, outside, in the supermarket, in the store, along with gloves. I don't have the gloves on right now. In the hospital, I wear an N95. But this is very serious stuff. And I have seen three and four family members infect each other. They will go to a gathering. And then, before you know it, five people are infected, and three of them are intubated and are on respirator. And we don't want that. And for this one year, I plead with people, please keep your distancing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You know what I worry about, Doctor? And I -- when people -- and, obviously, it's understandable. The president, a lot of people want to get back to work. They want to return to normal, whatever that will be.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAHITA",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "But I worry about the rush to do that, even if we're doing it in the face of declining cases and deaths, or at least the rate of increase declines, that we will fester something up all over again. I was reading a little bit about the Spanish Flu back in 1918-1919, where everything -- everyone was told was to go back to normal. Cities like Saint Louis opened themselves up, and then shut down quickly to realize, we're going to keep what were lockdown provisions then in effect. Philadelphia, cities like that, didn't. Philadelphia went out of control, spiraled out of control. Deaths increased.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAHITA",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "How do you prevent a recurrence like that? And how aggressively should you police it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAHITA",
+      "sentences": "Well, this is really important. And I'm glad you brought this up. The governors of the various states have been left by the president to do this. And, frankly, the self-quarantine, the shelter-in-place rule is very, very important. And you should enforce it. And I have to tell you, I went to an emergency event the other night, and I saw 300 people watching this event. It happened to be a building fire. And I went to support the fire department. And none of these people -- maybe two people out of the 300 had masks on. And I said to the police officer, what is going on here? And these people have no idea that they have to keep their distance and also to wear a mask. And so I really think it should be enforced. Now, the good news is, we have an antibody test coming. And once we have the antibody test, it's a game- changer, because then I can test everybody, and find out who's been infected and didn't know it, and who's got immunoglobulins, or antibodies, against the virus. And that will change everything. That will be a major game-changer. We will know who's vulnerable and who's not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "I like it. Thank you, Doctor, Dr. Lahita. We will watch this very, very closely. And good health to you, sir.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LAHITA",
+      "sentences": "Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, we have a lot more coming up, including with these new guidelines, what can we do ourselves, privately, much more than government, maybe a lot more? How Howie Mandel is doing it, yes, Howie Mandel, to help a lot of folks -- after this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "You know, he's known to be a tough judge on \"America's Got Talent,\" but he's a big softy when it comes to helping, well, America, period. And what Howie Mandel is doing for small businesses in particular is not only novel. It's unique. And, right now, it's pretty nice. Take a look.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HOWIE MANDEL, COMEDIAN",
+      "sentences": "If you go to my channel on TalkShopLive and submit a 60-pitch of you, your business and your product this week, because I want to get more than just one, I'm going to go back to my game show routes and do something called sold out. And I will have two order -- maybe even more than that -- businesses on at the same time. And we will -- nobody loses, but we will see who could sell the most goods the fastest and just have some fun with it. So I want -- I want to do more than just one business at a time. So, every couple of weeks, I will be doing that, and it's my own stimulus package, if you will.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "No, it's not bad. You know, Howie, I have a sense that you had a sense of the approaching severity of this coronavirus long before most folks. I could date back to an \"America's Got Talent\" taping, when you came there, I think, in a hazmat suit, before anyone was really mentioning this. You're a known germaphobe. You're obviously very aware of that. And I'm wondering whether, in all seriousness, with these stunts or whatever people want to call them, you were sending a very serious message out, or were you?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANDEL",
+      "sentences": "Oh, yes. I saw it coming. And I was warning the world. Nobody listened. No, I have obsessive compulsive disorder and mental health issues. And I have been living with this fear in my own -- this is my, like, worst nightmare. And this is -- a nightmare is a dream, and this is a dream come true. It's not. It's horrible. And I didn't foresee anything. And I didn't know. I'm just so neurotic. And it's so weird that now the world is, by law, living like I live every day of my last 64 years on this Earth.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "So, do you -- you have never -- you're not big on shaking hands, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANDEL",
+      "sentences": "No. And I have always -- I have been a proponent...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "I mean, and I thought of that because Dr. Fauci now is saying, we might come to a point we don't do it, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MANDEL",
+      "sentences": "I want that -- I have always felt there was no reason to shake hands, just during a normal cold and flu season. I mean, I always think of this as just a petri dish. And there's no -- and we say, nice to see you, and then extend your hands. It's not nice to touch you. I -- we don't need to touch. And then I kind of started using the fist bump. That's gone away. I want to -- I hope we come up the other side of this with some better habits that will be better for everyone's safety.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Howie Mandel, he's doing a lot of good for small businesses that he features about the twice a month. And they can sell, and -- their products right on his social media site, and their businesses are thriving. Doing a lot of good. In the meantime, you ever around the grocery store and you go, where's the milk? Where's the milk? I can't get milk. It's been hoarded out of control. Do you know farmers have more milk than they know what to do with it? And you know what they're doing because of this? They're throwing a lot of it out. Something's wrong with this picture -- after this. Well, in this country, yes, we have plenty of it. You wouldn't know it. When you go to grocery stores, it's among the first items that they're all out. But it's not a problem with enough milk being out there. A lot of dairy farmers are saying, we have got plenty of it. But, unfortunately, we have had to throw a lot of it out. And I don't understand, for the life of me, why that's happening. But Grady Trimble does. He's been following it very, very closely, and joins us right now with an update -- Grady.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GRADY TRIMBLE, FOX NEWS CORRESPONDENT",
+      "sentences": "Hey, Neil. They milk 2,400 cows every single day here at Golden E Dairy Farm. And usually that milk ends up in these trucks, and then they ship it out to the processor. But, instead, for the past week, this is the fate that their milk is meeting. They're literally dumping 25,000 pounds of it every single day. That amounts to about 25,000 gallons. And the reason for this is, there's not a lot of demand right now. There are so many schools and grocery stores closed. And that makes up a huge percentage of sales for dairy farmers. You would think they could send them to the grocery store, but the processors can't just flip switch and bottle it and change their whole supply chain. So, instead, sadly, this is the fate it's meeting. And the farmers wish there was something else they could do. Listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RYAN ELBE, GOLDEN E DAIRY FARM",
+      "sentences": "I would love for this to be distributed to people that need it. This has been happening for over a week now, since the evening of March 31. And this is a lot of fresh, delicious, nutritious milk that could be going to households or communities nearby that is not right now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRIMBLE",
+      "sentences": "And it's not just here in Wisconsin. Dairy farmers from New York to California are dumping millions of gallons of this every single day. They're calling on the USDA to buy it in bulk, so they can send it to food banks and make use of it, instead of dumping money down the drain -- Neil.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "Grady, I still don't understand, what is stopping them from getting it to the locations that need it?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRIMBLE",
+      "sentences": "They -- the processors have a certain process that they follow, and they can't just bottle it and send it to grocery stores, because it usually goes in different forms to restaurants and schools and that kind of thing. And it comes in a different form if you want it at a grocery store, if that makes sense.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "No, it's just sad. But, Grady, thank you, great reporting on this. There's got to be a way to fix that. Grady Trimble, you. You get the read from the CDC, keep mitigating, keep social distancing, that will do the trick. In Arkansas, though, that is not the case, one of the few states in the country that doesn't have these stay-at-home provisions. Why is that? We will talk to the state's governor -- after this. You know the drill. You have to stick close to home. You have to social distance. Only if you're urgently needed personnel can you venture out into the roads. But, in eight states, that is not the case, including Arkansas. Its governor, Asa Hutchinson, with us right now. Governor, I'm curious. Welcome, first. But you don't have these orders in effect. Why not?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. ASA HUTCHINSON (R-AR)",
+      "sentences": "Well, Neil, first of all, it's good to be with you. But your setup wasn't exactly right, because we do have social distancing in Arkansas. We also were one of the first states to encourage wearing of masks. If you go to a store in Arkansas now, probably three-fourths will have masks that are on. And so if you can't social distance, you protect yourself and others by wearing a mask. That's what we're doing in Arkansas. And you're right. Some of the stay-at-home orders are very effective in places, but every state should do what works well in their state. In our state, we have -- some of our actions have been more successful than other states that have actually had shelter-at-home orders in place. And, as you have pointed out, even everywhere that they have a shelter-at- home order in place, you get to go to work because you're an essential industry, the truck drivers, the store that provides the food, and on and on down the list. Our approach is more targeted. We have shut down some state parks, our National Scenic River Park is shut down, so we won't attract out-of-state visitors. We have closed our motels to out-of-state recreational travelers. We have closed gyms, bars, restaurants. So we have taken all of those steps, including our schools. And a targeted restart response can be successful, while still maintaining some ability to work and produce, which we're all going to have to do when we get out of this. And so look at our success rate here. Look where we are in terms of our hospitalization rates. Very pleased with where we are, in the sense of our growth is being slow. Now, every death is tragic. Every hospitalization, you worry about, but we're beating that curve. And what we're doing in our targeted response will hopefully continue to do that. If it doesn't, we will adjust and put in more stringent measures as necessary.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right, and you have heard what the doctors and the medical community say about stay-at-home provisions. Onerous and over-the-top sometimes they can be, they do mitigate this, or they do ease the number of new cases or eventually slow them down. Now, you mentioned that Arkansas -- and you're quite right -- is certainly not one of the hot spots, but little more than a few weeks ago, as you know, Governor, neither was Louisiana. So, are you afraid, with the best of intentions, you're putting your people in danger?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "No, I'm worried about some of those hot spots putting our people in danger. I just talked to one of our state representatives today that was exposed to COVID-19 because they had some someone, an employee, that had been down to Louisiana. So we're trying to control those things. But we encourage wearing masks. You can mitigate against it. The social distancing is critically important. We're closing those face-to-face-type businesses. And people -- and we're encouraging people to stay home. So we are mitigating, as we should, in Arkansas. And I love what they're doing in New York. I think they're making good judgments, the governors in different states. But measure our results, measure what we're doing, and I think that you will see that we're beating what many states are doing with our measured response that we have.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "CAVUTO",
+      "sentences": "All right. All right, I hope that continues. Governor, thank you very much for taking the time. As the governor pointed out, he is one of eight states that have this posture, but he does have a number of other tougher postures, the social distancing and other aspects, that are so crucial. We might get some sense of where the administration is going on these rules, whether the stay-at-home provisions that are supposed to technically end, or at least be reconsidered at the end of this month. Others are saying, stretch it out a little longer. We will find out very soon. FOX continues now. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NEIL CAVUTO, FOX NEWS ANCHOR",
+      "utterance": "Thank you very much, Bill. We had a good day for the markets, and obviously one of the best weeks we have seen since 1938 for the Dow. Now, what was driving that -- and details are to come -- growing optimism that maybe the arc is turning positive on this. That includes hospitalizations in New York state. More to that in a second. Suffice it to say, when we heard Larry Kudlow tell Charles Payne on FOX Business, which, if you don't get, you should demand -- anyway, one of the things he brought up was this idea, yes, it is doable to see a slow rollout to getting back to work within four to eight weeks. There are a lot of caveats to that, a lot of details to that, a lot of nuances to that. But the bottom line was that people were looking forward enough to virus arcing or improving, hospitalizations improving, to the point where we could say the trend is the friend, and stimulus is the backdrop. To David Lee Miller in New York with what's happening there that had some folks encouraged -- David Lee."
+    },
+    {
+      "speaker": "DAVID LEE MILLER, FOX NEWS CORRESPONDENT",
+      "utterance": "Neil, more grim news from Governor Andrew Cuomo today, but, at the same time, there was some hope that things are going to improve in the future. Nevertheless, for the third straight day, a record number of New Yorkers, 799, lost their life to the virus. The devastating state death toll since the crisis began is more than double 9/11. Reinforcements are needed to cope with the number of dead."
+    },
+    {
+      "speaker": "GOV. ANDREW CUOMO (D-NY)",
+      "utterance": "It's gotten to the point, frankly, that we're going to come to bring in additional funeral directors to deal with the number of people who have passed. If you ever told me that, as governor, I would have to take these factions, I couldn't even contemplate where we are now."
+    },
+    {
+      "speaker": "MILLER",
+      "utterance": "On the positive side, the number of hospitalizations continues to flatten. There are also fewer admissions to ICUs. And Mount Sinai Hospital today canceled plans to build a field hospital at the Cathedral of St. John the Divine on Manhattan's West Side. Governor Cuomo warns that whatever progress has been made can be lost, though, if New Yorkers fail to continue social distancing -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "David Lee Miller, thank you very, very much, my friend. With us right now was the former FDA commissioner, who is kind enough to talk to us, Dr. Mark McClellan. Doctor, great to have you. This four-to-eight-week goal or parameter that Larry Kudlow was raising, there are a lot of details to that, a lot of details and nuances that even he laid out with my friend Charles Payne. But, having said that, is it premature to talk that way? Is it good that we look at a way to roll people back to work? How would you describe it? Commissioner, can you hear us? All right, I apologize for that. We hope to get that working here. But one of the things that has come up is this idea that markets certainly were focusing on any pocket of good news, that four-to-eight-week time frame, coupled with the good news out of New York, I stress better than expected on the hospitalization front, not on the death front, but there was that. There was also this going on halfway across the world, across the Atlantic Ocean, on news that Boris Johnson is out of intensive care in a London hospital. Benjamin Hall has the latest on that -- Benjamin."
+    },
+    {
+      "speaker": "BENJAMIN HALL, FOX NEWS CORRESPONDENT",
+      "utterance": "Yes, Neil, very good news over here in the U.K., not least because no one knew exactly what the condition of Boris Johnson was over the last few days. And there had been reports a couple days ago that he was very seriously ill. So, suddenly, this is a good thing, a positive thing for the country."
+    },
+    {
+      "speaker": "And we found out about an hour or so ago, when Downing Street released this statement, saying",
+      "utterance": "\"The prime minister has been moved this evening from intensive care back to the ward, where he will receive close monitoring during the early phase of his recovery. He is in extremely good spirits.\" A few things to note that. It says Johnson will be moving back to a ward at St. Thomas' Hospital, so he will not be in a private room, at a time when the country, the U.K. is celebrating the National Health Service, Johnson clearly making the decision to be among other patients. Also important to note that it refers to the early stage of recovery. And experts still say that even the best outcome from here will likely see amount of action for at least a couple of weeks."
+    },
+    {
+      "speaker": "And just in the last hour, President Trump has also tweeted about this, saying",
+      "utterance": "\"Great news. Prime Minister Boris Johnson has been moved out of intensive care.\" And it really is an important time for the U.K. The U.K. is just hitting the apex of the pandemic, 8,000 already dead, about 1,000 new deaths a day, so they are looking for strong leadership. They're looking for Boris Johnson to come back and take control of the task force and the coronavirus response. The big question, how long until he can be back at Downing Street, back at his desk doing his job, Neil?"
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Benjamin Hall, thank you very, very much, my friend. We're going to take another crack again at Dr. Mark McClellan, the former FDA commissioner. Commissioner, can you hear me now?"
+    },
+    {
+      "speaker": "DR. MARK MCCLELLAN, FORMER MEDICARE AND MEDICAID ADMINISTRATOR",
+      "utterance": "I can hear you just fine. Thank you."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, I apologize for that, Commissioner. What do you think? What I was getting into before is this notion of people thinking, all right, not to do -- rush it, but to think about how we slowly weigh in to getting ourselves out of this lockdown, piece by piece. A four-to-eight-week time figure has come out of the administration, particularly Larry Kudlow on FOX Business. Where do you stand on that? What would be the kind of things you would like to see, Doctor, that would warrant, all right, yes, let's discuss this?"
+    },
+    {
+      "speaker": "MCCLELLAN",
+      "utterance": "You know, we are still really busy right now just dealing with the peak in cases, and we need to focus on getting through that. But it's also time to look ahead. I think it is possible to think about reopening in four to eight weeks if some key milestones are present, not just naming a date, but looking for some key things to be accomplished. Number one is getting that caseload way down, so that our health care systems are never overstressed again, and (AUDIO GAP) is making sure that we are stronger, have the capacity to test and trace contacts of people who develop the virus in the future, so that we can really tamp down an outbreak well before it grows into the kind of epidemic crisis that we're facing today. I think that's very feasible, using the diagnostic tests and with support from the states and the federal government."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "What about these tests? Like you, in our country, I think right now, Commissioner, one at every 300 individuals is tested for the virus. In places like Germany and other locales in Europe, it's about one out of 100. I have talked to a lot of professionals who say they want to see that testing beefed up dramatically. Why is that important?"
+    },
+    {
+      "speaker": "MCCLELLAN",
+      "utterance": "It's very important so that, if anyone has symptoms, or if anyone is working or interacting in a high-risk setting, like a nursing home or a place where they might transmit the virus, we can identify a problem early, before a lot of transmission occurs. The good news is that our testing capacity is increasing. The number of tests and the quality of those tests, the ease of performing them is getting better. There now are tests available by Abbott Labs and others that can get results at a point of care in only 15 or 20 minutes. So the testing is getting a lot better. The big challenge now is getting those tests out to where they're needed, so that they can be used health care organizations, in the community, in any place where there's a risk of a transmission. And then the other challenge is making sure that, if there is a positive test, we can help that person get isolated, we can trace their contacts, and really tamp down on any new outbreak before it spreads."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You know, another feature about getting people to think about going back to work, Doctor, is this notion of consistency on declining cases. And that includes just the number of cases and deaths, that where you might still see an increase, but that the rate of increase is slowing for 14 days, that there's something about this 14-day figure where experts want to see it consistently pan out. We have not seen that yet. I mean, but that wouldn't be the only detail for you. But why is that so significant?"
+    },
+    {
+      "speaker": "MCCLELLAN",
+      "utterance": "Well, it's really important to know that our distancing steps, all of these extreme steps that we have put in place, are actually working. And there's a lag. The cases that we're seeing today are the result of infections that spread weeks ago. So we need to have enough time to make sure that we are way on the downward curve, not just getting past the peak, but we are in a position where our health care systems are never going to be threatened again, that they can manage -- if there are a limited number of cases, they can manage those. But going along with that, to make sure the number doesn't just go right back up when people start spending more time out and about, when businesses open back up more, we need this surveillance testing, this rapid testing to make sure, if there are any new outbreaks, we can identify them quickly and contain them before they spread again. So, it's two parts. It's getting the cases down now, and then making sure that the number of cases doesn't go back up, through a new ability to test and trace contacts and contain any future outbreaks."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Commissioner, Doctor, thank you very, very much. Again, I apologize for those snafus at the outset, but very good having you on. I learned a lot. To the commissioner's point, by the way, this idea of how long before you wait to slowly bring people back or unwind these lockdown provisions, Louisiana Governor John Bel Edwards is right now saying, some of these mitigating measures that they have taken in places like Louisiana, they should be in place through the end of May, not just by the national standard right now, where we're keeping them in place through the end of this month, April, that, if he had his druthers, through the end of May. He's looking into it. It's among the things he's looking into. Stay with us. Now we have got word that they have indeed reached a sort of a decision on cutting, but it's not going to be 20 million barrels a day. It's going to start out with 2.5 million barrels a day for each of them, so five million barrels a day in total. That is far less than the production cut that many on the Street there wanted to see, that the president himself was looking to see, and that the two kingdoms -- that is, the Saudi kingdom and Russia -- had intimated might be in the offing here. So, a cut, a rein-back at production at a time when there's certainly no demand for oil, and those prices have been collapsing. So, some closure here might be welcome, if they follow through, but it's a lot less than people thought we would see. In the meantime, there's stimulus at home to think about, and Mitch McConnell has a plan, if only Democrats, he says, would go along. Take a look."
+    },
+    {
+      "speaker": "SEN. MITCH MCCONNELL (R-KY)",
+      "utterance": "One hundred billion dollars in loans have already been committed. That is 30 percent of the total funding spoken for in just the first few days. We need more funding, and we need it fast."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, to Chad Pergram on this, on where this is going. The two sides are apart on this. Democrats obviously want to pour more into this in the House. Where do you think this goes, Chad?"
+    },
+    {
+      "speaker": "CHAD PERGRAM, FOX NEWS CONGRESSIONAL CORRESPONDENT",
+      "utterance": "Well, Anthony Fauci said a couple of weeks ago the virus makes the timeline. But when it comes to coronavirus legislation, consensus makes the timeline, Neil, and there was no consensus on Capitol Hill today. Mitch McConnell was trying to approve this bill by unanimous consent to a virtually empty chamber, going from $350 billion for small business up to $600 billion. That's a jump of $250 billion. To give you a sense of the size of that, that is one-fifth of all money that Congress appropriates every fiscal year. And Democrats objected, notably Chris Van Hollen, a Democrat from Maryland. Listen."
+    },
+    {
+      "speaker": "SEN. CHRIS VAN HOLLEN (D-MD)",
+      "utterance": "A complete political stunt here on the floor of the United States Senate, something that doesn't have bipartisan support, something that is go it alone, take it or leave it, and totally violates the spirit all of us have been working on during this crisis."
+    },
+    {
+      "speaker": "PERGRAM",
+      "utterance": "Democrats blocked the bill because they want to devote more money to community-based lenders, so those in inner cities, farmers and Indian tribes can get help. House Speaker Nancy Pelosi says there is a -- quote -- \"disparity of access to capital in the country, and we do not want coronavirus to exacerbate it.\" Now, Neil, behind the scenes, they continue to start work on the coronavirus phase four bill. We think that's weeks away. There are some who are reluctant to move that fast, because they want to see how phase three is doing, and maybe just fill in, in the next step here with legislative grout -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Chad, thank you very much, my friend. With us now is Senator John Cornyn of the Senate Intelligence Committee. He joins us to talk about this and where this all goes. Senator, everyone appears to be at an impasse. We have seen impasses before, but it's just about whether we want to devote it to this -- this purpose, increase the small business funding mechanism or expand it. Where do you think this goes?"
+    },
+    {
+      "speaker": "SEN. JOHN CORNYN (R-TX)",
+      "utterance": "Well, we will work it out. But, initially, the ink is hardly dry on the largest spending package, certainly in my time in Washington, and maybe ever, $2.2 trillion. And we know that just because Congress flips a switch doesn't mean that it's actually delivered to the people that we intend it to be delivered to. That's people out of work, small businesses, so they can sustain their business and be ready to open their doors back up when the economy picks up again. But I guess some people view this as an opportunity to spend more money, before we even know how the third tranche, the CARES Act, actually is going to work. I think it makes more sense to try to fill the gaps, try to fix unintended consequences than it does to just pile on more cash."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You know, Senator, obviously, this met huge demand. And the $350- $360 billion committed to it, the paycheck protection plan and everything wrapped around it, had an overwhelming response. I'm wondering, do you think the $250 billion extra you want will cut it?"
+    },
+    {
+      "speaker": "CORNYN",
+      "utterance": "Well, I think it's just replenishing what we believe will be depleted accounts. And it's probably an interim step. We all know that we can't keep doing this forever, that we have to figure out first how to defeat this virus, and -- by developing treatments and a vaccine. That's going to take a while. And then, in the interim, we will have to observe the protocols that the -- Dr. Fauci and others have recommended, like social distancing, washing your hands and the like. But the only way we're going to defeat this virus in the long run is to get our economy back up and moving again. And I know we're all anxious to figure out how to do that safely, but in a way that puts America back to work."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, you're right. The job issue is a big issue. The economy is a big issue, 6.6 million more Americans filing for jobless claims, as you know, Senator, in the latest period, that close to 17 million over the last three weeks. Are you worried that, even with his aid and federal help on the way, and the Federal Reserve applying $2.3 trillion in stimulus just today on what it's doing, that it will do little to mitigate these numbers, at least in the near term, that we could rocket up, some have told me, more than 40 million unemployed as a result? Where are you on this? What do you think?"
+    },
+    {
+      "speaker": "CORNYN",
+      "utterance": "Well, I'm hoping that people like J.P. Morgan and others are right that we're going to see a recession for the second and third quarters, the third -- excuse me -- first and second -- second and -- yes, the first and second -- or second and third quarter. The problem is, we need to get this economy to bounce back. And that means not dismantling the infrastructure of where these jobs are being created. So, who knows what -- what the future holds. I think we're all beginning to be hopeful at some of the bending of the curve of infection rates and that we're getting smarter about how to mitigate it, as we're trying to do these clinical trials on treatments and ultimately a vaccine. But we -- we -- we're -- this isn't -- fiscal debts and -- deficits and debt are not the most urgent thing we're dealing with now, but they are not unimportant. So, we need to get through this emergency as soon as we can and be able to get our economy back on track."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Senator John Cornyn, thank you very, very much. And the senator is quite right. The period that these investment banks are talking about setting into recession is the quarter we're now and the third quarter. But a lot of these same firms are expecting a strong rebound once everyone is back to work, or most everyone. And that 30 percent drop in the GDP -- that's what some are predicting -- and unemployment that could take into 40 to 50 million Americans, that will quickly reverse itself, not -- not overnight, but enough, they think, that the final quarter of the year will be positive. We shall see. More after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Well, if you think the World Health Organization was dragging its interest on the coronavirus situation, we should tell you about what's happening in the United Nations. By the way, this is South Dakota Governor Kristi Noem outlining her state's plans for this limited lockdown they have in effect. But first to this story. This is a very, very big story, because whatever problems we have had with the World Health Organization, it is much more important to think that, only today, only today, is the United States Security Council taking up the COVID-19 issue at all. Maybe better late than never? I don't know. But Claudia Rosett, who follows this very closely, that's a head-scratcher. What's going on?"
+    },
+    {
+      "speaker": "CLAUDIA ROSETT, FOREIGN POLICY FELLOW, INDEPENDENT WOMEN'S FORUM",
+      "utterance": "They can't do anything, Neil. Expect absolutely nothing. They're going to have a virtual conference. The big debate is, will they mention that it came from China, if they manage to produce a resolution? They really need to. It's important to remember that it came from China. But it came from the Communist Party's failure to contain what was obviously a threat. But this -- we are seeing right now a dramatic failure of the U.N. on every front. I mean, the WHO has been both catastrophic and repulsive. And expect nothing of use from the Security Council."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, what would happen to this? It's a little late. We have reached this apex, or we hope, in a lot of states, a lot of countries."
+    },
+    {
+      "speaker": "ROSETT",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "I don't know where it all pans out. But it's seeming like they're coming in after the fire to say there's a fire."
+    },
+    {
+      "speaker": "ROSETT",
+      "utterance": "Well, that would be very U.N., exactly. Look, what they're going to try and do out of this is what the WHO has done, which is raise money. And the whole sort of political logjam over the conflicting interests of the member states, while the director general of the World Health Organization denounces anyone who is not standing in favor of complete unity, and then attacks Taiwan himself. The performances coming out of the U.N. at this point is, to give a bottom line to it, really the most catastrophic and disgusting performance I can remember them putting on. And, Neil, that's a lot -- that's a high bar."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You know, the U.N., I was reading -- and you know far more about this than I do -- has a poor track record on addressing viruses and pandemics. And this continues that theme. I mean, they must have a medical staffs, medical contingencies and committees and groups that follow this sort of stuff, because that is an issue that links us around the world, because it all shares our DNA."
+    },
+    {
+      "speaker": "ROSETT",
+      "utterance": "Yes. Well, look, the World Health Organization has an annual budget well over $2 billion, and that's before the $800 million they now have pledged for their coronavirus initiative. So there are enormous resources. And other agencies have further resources, UNICEF, U.N. Development Program, and so on. But the problem is, you can give them lots of resources. They enjoy it. They like business class travel, especially at the World Health Organization. But that doesn't mean that you get any good effect. And the resounding lesson of this is, we need to go around the U.N. We need to be dealing with countries, for instance, Taiwan, which really did early on see this and respond in a way that is what the United Nations should have done. Instead, the U.N. is attacking Taiwan, because China doesn't like Taiwan. We discovered the World Health Organization is completely in China's pocket. That is an accurate description. And they're right now just making a lot of fuss over words. A Security Council meeting, it will do nothing. That's the problem."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Scary stuff. Claudia, thank you very, very much."
+    },
+    {
+      "speaker": "ROSETT",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "It is the nature of the beast, obviously, when following something like this, a pandemic like this, that the rules and even the guidelines can change. The CDC first sort of dismissing face masks, for example, and then saying, maybe they're a good idea, the CDC at first saying, you know, when you get back to work, you do it carefully, you're very careful about the people who go back to work, and then advising slightly differently today. But it was what it had to say about gatherings, family gatherings, particularly at Passover and Easter, that might be the most startling of all. Listen up before you gather up. Hear him -- after this. But the CDC will have a lot riding on how we go about doing so, and how quickly. Jonathan Serrie on what the CDC might be thinking -- Jonathan."
+    },
+    {
+      "speaker": "JONATHAN SERRIE, FOX NEWS CORRESPONDENT",
+      "utterance": "Hi there, Neil. Throughout this pandemic, we have been learning just how crucial food service workers are, and we need to keep them healthy, or else we're all going to be in a whole lot of trouble. Today, Smithfield Foods announced it will temporarily close its Sioux Falls plant to enhance additional social distancing measures to protect its 3,700 employees, that after more than 80 employees there tested positive for coronavirus. The closing will only last three days. The company's CEO explains, people have to eat. This comes after the CDC announced those new guidelines for returning critical employees to work after a potential exposure to COVID-19. They must pass regular temperature checks, wear face masks in the workplace, and practice social distancing, avoiding crowded break rooms and other spaces. They shouldn't share headsets or other objects that touch their face. And anyone who becomes sick must go home immediately. Neil, right now, these guidelines apply to workers in critical infrastructure, but I have a feeling this is going to serve as a blueprint for other employees when other workers start returning to their workplaces -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Jonathan, I'm curious, though. A lot of people live in pretty confine, tight workplaces, where it's not six feet, in a lot of places, more like six inches apart. How do they recommend that be addressed?"
+    },
+    {
+      "speaker": "SERRIE",
+      "utterance": "Yes. Well, they're saying that these workers have to be able to maintain social distancing, in addition to the masks. If the workplace can't accommodate that, then you probably don't need to be bringing those workers back. Just an example of our own social distancing, I'm broadcasting outside, instead of inside our Atlanta bureau. And I will continue to do that until things become safer to go back indoors -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Yes, I want you to keep doing that. We like you safe and healthy and everyone around you. Thank you very much, my friend."
+    },
+    {
+      "speaker": "SERRIE",
+      "utterance": "Thank you. Thanks."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Let's get the read on all of this, whether it's justified, whether we're getting -- thank you. I apologize for that. Dr. Bob Lahita, St. Joseph University Hospital, chairman of medicine, New York Medical College professor, real smarty-pants, so he can help us out with this. Doctor, thank you for taking the time. What do you think of that? Still practice social distancing rules, which, for now, are six feet, in what are generally in office buildings around the country and elsewhere pretty tight working spaces. How do you finagle that?"
+    },
+    {
+      "speaker": "DR. BOB LAHITA, ST. JOSEPH UNIVERSITY HOSPITAL",
+      "utterance": "Yes. Yes, got to do it. And, unfortunately, we used to say there are only 10 people allowed in the proximity of a single individual, but now you have got to distance yourself. You have got to wear a mask. I wear a mask all over the place. I'm not wearing a mask in my office right now, but a mask is exceedingly important. And I was asked by patients about Passover seders. And I'm saying, well, just have the immediate family, like one or two people, and distance yourself at the table. You can do Zoom or Skype or whatever you want. But don't come into proximity. A lot of families get infected when they come together for dinners and such. And the same thing, we will see on Easter, where people are asking me, can we get together with our 15 relatives and the grandkids and everything else? And I say absolutely not. You have got to keep your social distancing. Very important now."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, how do you do that, Doctor? I mean, if you want to keep the social distances, let's say, and you want to limit it to 10 or fewer people..."
+    },
+    {
+      "speaker": "LAHITA",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "... then those 10 or fewer people have to be spread out, right?"
+    },
+    {
+      "speaker": "LAHITA",
+      "utterance": "Spread out. That's right, and preferably not 10 people. I mean, that was what we said three weeks ago, but now we're in a much more critical stage. So I'm advising everyone. I have a mask here which I run around wearing, a cloth mask, outside, in the supermarket, in the store, along with gloves. I don't have the gloves on right now. In the hospital, I wear an N95. But this is very serious stuff. And I have seen three and four family members infect each other. They will go to a gathering. And then, before you know it, five people are infected, and three of them are intubated and are on respirator. And we don't want that. And for this one year, I plead with people, please keep your distancing."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You know what I worry about, Doctor? And I -- when people -- and, obviously, it's understandable. The president, a lot of people want to get back to work. They want to return to normal, whatever that will be."
+    },
+    {
+      "speaker": "LAHITA",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "But I worry about the rush to do that, even if we're doing it in the face of declining cases and deaths, or at least the rate of increase declines, that we will fester something up all over again. I was reading a little bit about the Spanish Flu back in 1918-1919, where everything -- everyone was told was to go back to normal. Cities like Saint Louis opened themselves up, and then shut down quickly to realize, we're going to keep what were lockdown provisions then in effect. Philadelphia, cities like that, didn't. Philadelphia went out of control, spiraled out of control. Deaths increased."
+    },
+    {
+      "speaker": "LAHITA",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "How do you prevent a recurrence like that? And how aggressively should you police it?"
+    },
+    {
+      "speaker": "LAHITA",
+      "utterance": "Well, this is really important. And I'm glad you brought this up. The governors of the various states have been left by the president to do this. And, frankly, the self-quarantine, the shelter-in-place rule is very, very important. And you should enforce it. And I have to tell you, I went to an emergency event the other night, and I saw 300 people watching this event. It happened to be a building fire. And I went to support the fire department. And none of these people -- maybe two people out of the 300 had masks on. And I said to the police officer, what is going on here? And these people have no idea that they have to keep their distance and also to wear a mask. And so I really think it should be enforced. Now, the good news is, we have an antibody test coming. And once we have the antibody test, it's a game- changer, because then I can test everybody, and find out who's been infected and didn't know it, and who's got immunoglobulins, or antibodies, against the virus. And that will change everything. That will be a major game-changer. We will know who's vulnerable and who's not."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "I like it. Thank you, Doctor, Dr. Lahita. We will watch this very, very closely. And good health to you, sir."
+    },
+    {
+      "speaker": "LAHITA",
+      "utterance": "Thank you."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, we have a lot more coming up, including with these new guidelines, what can we do ourselves, privately, much more than government, maybe a lot more? How Howie Mandel is doing it, yes, Howie Mandel, to help a lot of folks -- after this."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "You know, he's known to be a tough judge on \"America's Got Talent,\" but he's a big softy when it comes to helping, well, America, period. And what Howie Mandel is doing for small businesses in particular is not only novel. It's unique. And, right now, it's pretty nice. Take a look."
+    },
+    {
+      "speaker": "HOWIE MANDEL, COMEDIAN",
+      "utterance": "If you go to my channel on TalkShopLive and submit a 60-pitch of you, your business and your product this week, because I want to get more than just one, I'm going to go back to my game show routes and do something called sold out. And I will have two order -- maybe even more than that -- businesses on at the same time. And we will -- nobody loses, but we will see who could sell the most goods the fastest and just have some fun with it. So I want -- I want to do more than just one business at a time. So, every couple of weeks, I will be doing that, and it's my own stimulus package, if you will."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "No, it's not bad. You know, Howie, I have a sense that you had a sense of the approaching severity of this coronavirus long before most folks. I could date back to an \"America's Got Talent\" taping, when you came there, I think, in a hazmat suit, before anyone was really mentioning this. You're a known germaphobe. You're obviously very aware of that. And I'm wondering whether, in all seriousness, with these stunts or whatever people want to call them, you were sending a very serious message out, or were you?"
+    },
+    {
+      "speaker": "MANDEL",
+      "utterance": "Oh, yes. I saw it coming. And I was warning the world. Nobody listened. No, I have obsessive compulsive disorder and mental health issues. And I have been living with this fear in my own -- this is my, like, worst nightmare. And this is -- a nightmare is a dream, and this is a dream come true. It's not. It's horrible. And I didn't foresee anything. And I didn't know. I'm just so neurotic. And it's so weird that now the world is, by law, living like I live every day of my last 64 years on this Earth."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "So, do you -- you have never -- you're not big on shaking hands, right?"
+    },
+    {
+      "speaker": "MANDEL",
+      "utterance": "No. And I have always -- I have been a proponent..."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "I mean, and I thought of that because Dr. Fauci now is saying, we might come to a point we don't do it, right?"
+    },
+    {
+      "speaker": "MANDEL",
+      "utterance": "I want that -- I have always felt there was no reason to shake hands, just during a normal cold and flu season. I mean, I always think of this as just a petri dish. And there's no -- and we say, nice to see you, and then extend your hands. It's not nice to touch you. I -- we don't need to touch. And then I kind of started using the fist bump. That's gone away. I want to -- I hope we come up the other side of this with some better habits that will be better for everyone's safety."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Howie Mandel, he's doing a lot of good for small businesses that he features about the twice a month. And they can sell, and -- their products right on his social media site, and their businesses are thriving. Doing a lot of good. In the meantime, you ever around the grocery store and you go, where's the milk? Where's the milk? I can't get milk. It's been hoarded out of control. Do you know farmers have more milk than they know what to do with it? And you know what they're doing because of this? They're throwing a lot of it out. Something's wrong with this picture -- after this. Well, in this country, yes, we have plenty of it. You wouldn't know it. When you go to grocery stores, it's among the first items that they're all out. But it's not a problem with enough milk being out there. A lot of dairy farmers are saying, we have got plenty of it. But, unfortunately, we have had to throw a lot of it out. And I don't understand, for the life of me, why that's happening. But Grady Trimble does. He's been following it very, very closely, and joins us right now with an update -- Grady."
+    },
+    {
+      "speaker": "GRADY TRIMBLE, FOX NEWS CORRESPONDENT",
+      "utterance": "Hey, Neil. They milk 2,400 cows every single day here at Golden E Dairy Farm. And usually that milk ends up in these trucks, and then they ship it out to the processor. But, instead, for the past week, this is the fate that their milk is meeting. They're literally dumping 25,000 pounds of it every single day. That amounts to about 25,000 gallons. And the reason for this is, there's not a lot of demand right now. There are so many schools and grocery stores closed. And that makes up a huge percentage of sales for dairy farmers. You would think they could send them to the grocery store, but the processors can't just flip switch and bottle it and change their whole supply chain. So, instead, sadly, this is the fate it's meeting. And the farmers wish there was something else they could do. Listen."
+    },
+    {
+      "speaker": "RYAN ELBE, GOLDEN E DAIRY FARM",
+      "utterance": "I would love for this to be distributed to people that need it. This has been happening for over a week now, since the evening of March 31. And this is a lot of fresh, delicious, nutritious milk that could be going to households or communities nearby that is not right now."
+    },
+    {
+      "speaker": "TRIMBLE",
+      "utterance": "And it's not just here in Wisconsin. Dairy farmers from New York to California are dumping millions of gallons of this every single day. They're calling on the USDA to buy it in bulk, so they can send it to food banks and make use of it, instead of dumping money down the drain -- Neil."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "Grady, I still don't understand, what is stopping them from getting it to the locations that need it?"
+    },
+    {
+      "speaker": "TRIMBLE",
+      "utterance": "They -- the processors have a certain process that they follow, and they can't just bottle it and send it to grocery stores, because it usually goes in different forms to restaurants and schools and that kind of thing. And it comes in a different form if you want it at a grocery store, if that makes sense."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "No, it's just sad. But, Grady, thank you, great reporting on this. There's got to be a way to fix that. Grady Trimble, you. You get the read from the CDC, keep mitigating, keep social distancing, that will do the trick. In Arkansas, though, that is not the case, one of the few states in the country that doesn't have these stay-at-home provisions. Why is that? We will talk to the state's governor -- after this. You know the drill. You have to stick close to home. You have to social distance. Only if you're urgently needed personnel can you venture out into the roads. But, in eight states, that is not the case, including Arkansas. Its governor, Asa Hutchinson, with us right now. Governor, I'm curious. Welcome, first. But you don't have these orders in effect. Why not?"
+    },
+    {
+      "speaker": "GOV. ASA HUTCHINSON (R-AR)",
+      "utterance": "Well, Neil, first of all, it's good to be with you. But your setup wasn't exactly right, because we do have social distancing in Arkansas. We also were one of the first states to encourage wearing of masks. If you go to a store in Arkansas now, probably three-fourths will have masks that are on. And so if you can't social distance, you protect yourself and others by wearing a mask. That's what we're doing in Arkansas. And you're right. Some of the stay-at-home orders are very effective in places, but every state should do what works well in their state. In our state, we have -- some of our actions have been more successful than other states that have actually had shelter-at-home orders in place. And, as you have pointed out, even everywhere that they have a shelter-at- home order in place, you get to go to work because you're an essential industry, the truck drivers, the store that provides the food, and on and on down the list. Our approach is more targeted. We have shut down some state parks, our National Scenic River Park is shut down, so we won't attract out-of-state visitors. We have closed our motels to out-of-state recreational travelers. We have closed gyms, bars, restaurants. So we have taken all of those steps, including our schools. And a targeted restart response can be successful, while still maintaining some ability to work and produce, which we're all going to have to do when we get out of this. And so look at our success rate here. Look where we are in terms of our hospitalization rates. Very pleased with where we are, in the sense of our growth is being slow. Now, every death is tragic. Every hospitalization, you worry about, but we're beating that curve. And what we're doing in our targeted response will hopefully continue to do that. If it doesn't, we will adjust and put in more stringent measures as necessary."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right, and you have heard what the doctors and the medical community say about stay-at-home provisions. Onerous and over-the-top sometimes they can be, they do mitigate this, or they do ease the number of new cases or eventually slow them down. Now, you mentioned that Arkansas -- and you're quite right -- is certainly not one of the hot spots, but little more than a few weeks ago, as you know, Governor, neither was Louisiana. So, are you afraid, with the best of intentions, you're putting your people in danger?"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "No, I'm worried about some of those hot spots putting our people in danger. I just talked to one of our state representatives today that was exposed to COVID-19 because they had some someone, an employee, that had been down to Louisiana. So we're trying to control those things. But we encourage wearing masks. You can mitigate against it. The social distancing is critically important. We're closing those face-to-face-type businesses. And people -- and we're encouraging people to stay home. So we are mitigating, as we should, in Arkansas. And I love what they're doing in New York. I think they're making good judgments, the governors in different states. But measure our results, measure what we're doing, and I think that you will see that we're beating what many states are doing with our measured response that we have."
+    },
+    {
+      "speaker": "CAVUTO",
+      "utterance": "All right. All right, I hope that continues. Governor, thank you very much for taking the time. As the governor pointed out, he is one of eight states that have this posture, but he does have a number of other tougher postures, the social distancing and other aspects, that are so crucial. We might get some sense of where the administration is going on these rules, whether the stay-at-home provisions that are supposed to technically end, or at least be reconsidered at the end of this month. Others are saying, stretch it out a little longer. We will find out very soon. FOX continues now. Content and Programming Copyright 2020 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2020 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

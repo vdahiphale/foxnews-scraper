@@ -1,0 +1,2173 @@
+{
+  "date": "June 12, 2022",
+  "headline": "'Fox News Sunday' on June 12, 2022",
+  "subHeadline": "'Fox News Sunday' welcomed guests Sen. Chris Coons, Gov. Asa Hutchinson, and more.",
+  "url": "https://www.foxnews.com/transcript/fox-news-sunday-june-12-2022",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "BRET BAIER, FOX NEWS ANCHOR",
+      "sentences": "I'm Bret Baier. A nation divided over some of the biggest issues of our time raises questions about the future of Americans' freedom, security, and democracy itself.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. BENNIE THOMPSON (D-MS)",
+      "sentences": "January 6th was the culmination of an attempted coup. The violence was no accident.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. KEVIN MCCARTHY (R-KY)",
+      "sentences": "It has permanently damaged the House and divided this country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Divided over guns.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Our everyday problems.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "As the country faces mass shootings at schools, supermarkets, and workplaces, divided over abortion -- as Congress considers what action to take after a threat on Supreme Court Justice Brett Kavanaugh's life escalates fears of violence. We'll ask Democratic Senator Chris Coons, a close ally of President Biden, about the bill he is sponsoring to extend security and protection for justices' families. Then, Arkansas Republican Governor Asa Hutchinson joins us to discuss the prospects for finding common ground on guns and abortion. And, we'll ask our Sunday panel what it will take to raise the level of political discourse in this country. Plus, \"FOX News Sunday\" is on the road to the midterms in the pivotal swing state of Nevada, ahead of another round of primaries. All, right now, on \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And hello again from FOX News in Washington. It was a week of major challenges for everyday Americans and the elected officials responsible for steering the ship of state. Hearings about the Capitol riot of January 6 brought back memories of a mob of protesters attacking police and trying to stop the certification of a lawful election. Marchers gathered in Washington to push for control in response to the massacre at a Texas elementary school. Inflation rose again and the average price of gas hit a painful $5 a gallon nationwide. The challenges facing the nation hitting the White House hard as President Biden struggles to push his agenda midway through the primary season. In a moment, we will speak with Democratic Senator Chris Coons about his party's struggles. But, first, let's turn to Lucas Tomlinson live at the White House for a look at how the Biden administration is responding -- Lucas.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LUCAS TOMLINSON, FOX NEWS CORRESPONDENT",
+      "sentences": "Bret, President Biden wants to make gun control a central issue in the upcoming midterm elections. Protesters around the country want action now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We're just simply here to say enough is enough.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "Thousands gathered on the National Mall and in cities across the country following mass shootings in Buffalo, Uvalde, Chattanooga, and Philadelphia. So far, no agreement has been reached on Capitol Hill for new gun control legislation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "They're still mildly optimistic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "Also unfinished, a final bill of protections for Supreme Court justices and their families. House Speaker Nancy Pelosi under new pressure to pass the measure after an armed man was arrested for saying he wanted to kill Associate Justice Brett Kavanaugh.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "sentences": "There will be a bill, but nobody is in danger over the weekend, because of our not having a bill.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "And the long-awaited hearing investigating the violence of the U.S. Capitol on January 6th aired in primetime with millions watching. Republican Committee Vice Chair Liz Cheney saying Trump bears responsibility and pressed lawmakers who have stood by him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. LIZ CHENEY (R-WY)",
+      "sentences": "I say this to my Republican colleagues who are defending the indefensible: there will come a day when Donald Trump is gone, but your dishonor will remain.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "All this against the backdrop of crushing inflation. The Labor Department saying it jumped to 8.6 percent in May.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARINE JEAN-PIERRE, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "The economy is in a better place than it has been historically.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TOMLINSON",
+      "sentences": "It's a tough sell. The gas prices now the highest in American history, crossing the $5 threshold early Saturday. In contrast, Biden's approval numbers now tying his record low at 33 percent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Lucas Tomlinson reporting from the White House -- Lucas, thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Joining us now, Democratic Senator Chris Coons of Delaware, the president -- the president's home state. Senator, welcome back to \"FOX News Sunday\".",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHRIS COONS (D-DE)",
+      "sentences": "Great to be on with you, Bret. Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You heard in Lucas' piece, this week, a man called police on himself saying he wanted to kill Supreme Court Justice Brett Kavanaugh. He did that outside Kavanaugh's home, armed and prepared to do it. You cosponsor this bill last month to beef up security for Supreme Court justices and their family, but the House has not moved on the bill for 30 days. You heard House Speaker Nancy Pelosi in Lucas' piece reference -- there's no problem here, there's protection for the justices, nobody is going to get harmed over the weekend. But what about that and what is the hold up?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "Well, Bret, I was grateful for the chance to work with Senator Cornyn. We got the bill unanimously through the United States Senate. And as you know these days, not enough things get through the Senate with the kind of uniform universal support that that bill enjoyed. The House is working to add a provision that would allow the marshal of the Supreme Court to decide to extend protection to staff and families of staff of the Supreme Court. I think that's appropriate, that's an acceptable compromise. More than anything, I think the House needs to take it up and pass it early next week. And I'm optimistic after several conversations with House leadership that they will. Frankly, as you also referenced in the introduction, Bret, the January 6th hearing that just took place was a riveting reminder of the dangers of politically motivated violence in our country. And the gun massacres, the shootings that happened at a grocery store in Buffalo and at an elementary school in Uvalde, are also a call to action. And I'm grateful to be working with Senator Cornyn as a part of a broad bipartisan group that's working to address mental health and gun safety as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Going to get to both of those other things in just a minute. But staying on this particular thing, there is already a federal statute on the books that makes it illegal to protest in front of a judge's home. It is Title 18, Section 1507. These groups published the conservative justices' addresses online. They've been protesting nightly. Should they be arrested?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "Look, Bret, we have to strike the right balance here between protecting freedom of speech in this country and ensuring that our justices and judges are safe. We passed a bill through the Senate months and months ago that would also provide further protections obscuring the addresses, for example, of justices and judges. That's something we took up in the wake of a horrifying attack on the family of a federal court judge in New Jersey where her son was killed. I do think we need to take stronger action to make sure that our federal judiciary is safe because that's part of making sure our democracy is safe, which really is the core issue of the January 6th hearings, is how do we make sure that the fundamentals of our democracy, the safety and security of Congress, the peaceful transfer of power, and I would also at the safety and security of our federal judiciary is insured. We should act.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Senator, we're getting ready for this ruling. It's going to be controversial no matter what happens. If it matches the draft -- leaked draft opinion or not, there is this law on the books. I'm just asking, should they follow the law? Should the attorney general say, yes, arrest those people before something happens?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "Well, Bret, I think if the leaked version of the opinion is matched by what would be a remarkable act of judicial activism, conservative judicial activism, there will be understandable anger across the nation. As an elected official, I've certainly had protests out front of my house. Many of us have who serve in Congress and other elected offices. But we need to make sure that all appropriate actions are being taken to ensure the safety of members of our federal judiciary, including Supreme Court justices.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Okay, so don't arrest the protesters based on the title, I got it. That's what you're saying. The president this --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "Bret, let's be clear. I didn't say don't arrest protesters. I'm simply saying that all appropriate action should be taken to ensure the safety of the Supreme Court justices. And I'm not going to say this protester or that protester ought to be arrested. I just think that that's a judgment call to be made by law enforcement, not by a senator on a Sunday show.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Understood, but they haven't been arrested yet and nobody has for protesting outside these judges' homes that were published online, only the conservative justices. What -- I want to also ask you, is the president hasn't said anything publicly about this specific threat about Supreme Court Justice Kavanaugh. The White House press secretary said a couple of things in a gaggle to reporters that the president condemns violence of any kind. But should the president have said something publicly about this?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "Bret, the president has repeatedly spoken out against politically motivated violence in our country, the risk of politically motivated violence in our country. And as you well know, presidents often speak more through their press secretaries to events of the day. I certainly have denounced this latest threat against Justice Kavanaugh. But it's important that we remember there are threats of political violence of many kinds and types. Folks who are watching this morning who didn't watch the January 6th hearing should take a few moments and review what Congresswoman Liz Cheney, an unimpeachable he conservative from Wyoming, had to say in her opening statement. I think there are risks of political violence we should all be speaking out against and acting to ensure we control, manage, and reduce.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I -- we're going to talk about January 6th in just a moment. But don't you think Democrats and the media would possibly, Senator, be making more about a threat like this, a specific threat, if it was happening to liberal justices?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "Well, Bret, you have in front of the Democratic senator who cosponsored with Senator Cornyn a bill that would provide greater security --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I'm just saying publicly, Senator.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "-- for the families of justices. I don't know how more publicly I can say that I think threats of violence against Supreme Court justices, their families, their clerks are reprehensible, unacceptable, and we should take action to secure the federal judiciary.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All right. Last thing before we get to January 6. The law has been made this week about words, how much they matter, how much stirring the pot, giving the green light to violence in any way, shape, or form is unacceptable. Take a listen to this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER (D-NY)",
+      "sentences": "I want to tell you, Gorsuch, I want to tell you, Kavanaugh, you have released the whirlwind and you will pay the price. You won't know what hit you if you go forward with these awful decisions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "On the steps of the Supreme Court, did those words qualify, Senator?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "So here's a key distinction. What Senator Schumer was saying was that he was upset. He was alarmed, he was concerned at the prospect that justices would reverse decades of a well-established fundamental constitutional right in our country. What he did not say was let's go attack them. The point of the January 6th hearing is to prove that that is in fact what President Trump did, that he, in the words of Congresswoman Cheney, summoned the mob, stirred up the mob and then lit the fuse that sent them storming the Capitol of the United States. I do think there's a distinguishable difference between what we just heard from Senator Schumer and the actions taken by former President Trump and his circle of advisors in the days before January 6th.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "And the results were clear and I think catastrophic. The physical assault of officers that led to several officer deaths and the shattering of the Capitol perimeter. Frankly, as one of the members of the Senate who had to be escorted out along with the vice president by Capitol police just feet ahead of an angry mob, I do think that we are at risk of a season of political violence in this country, and all of us should reduce the temper and level of our rhetoric.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Including Senator Schumer, who has said the justices released a whirlwind and you will pay the price. You don't see any problem with that kind of language on the Supreme Court?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "That's not what I said. What I just said, Bret, was I think all of us need to reduce the level of our rhetoric --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "-- and be mindful of the fact that stirring up potential violence is not a good or constructive thing to be doing at this moment in our country by any political leader.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "You mentioned the prime time hearings and made the case about January 6 and the importance. The committee obviously had this presentation. \"The New York Times\" said they praised it for its sober approach. There will be many committee hearings to come. But this is also \"The New York Times\": It is clear that the hearings, coming five months before midterm elections in which Democrats are bracing for big losses, carry high political stakes. Are there concerns of politicization here in your mind, Senator?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "Look, I think what impressed me about those January 6th hearings, about the first hearing that I watched, was how clear and nonpartisan and thoughtful and directed it was. I certainly don't think the Congresswoman Cheney or Congressman Kinzinger were trying to impact the midterm election chances of Democrats. I think the point here has been to take a hard and clear-eyed look at what happened on January 6, and new evidence that they've uncovered about the role of the former president's close advisors in how they shaped the events that led to that really critical moment in our modern American history. We've never had our Capitol stormed by Americans. We've never had an attempt through an insurrection, through a riot to try and interrupt the peaceful transfer of power. And, Bret, right now, I'm working with a bipartisan group of senators to try to make reforms to the Electoral Count Act to make it clear that Vice President Pence did the right thing on the night of January 6th, that no vice president has the power, nor should they, to unilaterally overturn the will of the American people.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Speaking of \"The New York Times,\" the paper also had a detailed piece this weekend entitled \"Should Biden Run in 2024? Democratic whispers of `no' start to rise\". In which the paper states they have interviews of dozens of Democratic officials and members of Congress who backed Biden in 2020, quote, reveal a party alarmed about Republicans' rising strength and extraordinarily pessimistic about an immediate path forward. One DNC committee member is actually quoted as saying: Mr. Biden should announce his intent not to seek reelection in '24 right after the midterms. You're a close ally. Is President Biden running in '24, and should he?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "Yes, he is, and I'll tell you, Bret, it is my understanding -- let me be clear. I'm not speaking on his behalf or announcing a candidacy. I'm just saying that as of now, it's my understanding that the president intends to seek a second term, and I understand why. His leadership on the world stage has been impressive. He's just returned from a successful Summit of the Americas. He's pulled together four critical partners in the Indo Pacific in a new organization called the Quad, a new partnership with allies. And in the face of Russia's brutal invasion, their aggression against Ukraine, President Biden has shown a masterful skill at pulling together the E.U. and NATO in order to push back, in order to support Ukraine's brave resistance to Russian aggression. Here at home, his predecessor talked about infrastructure over and over, was never able to get a bill on infrastructure to the floor, and to his desk. President Biden signed into law one of the biggest investments in infrastructure in American history. And President Biden and Democrats in the Senate have a plan for how to reduce prescription drug prices, how to tackle health care costs that I remain optimistic we will get done.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Yeah.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "The deficit is coming do. He's got clear plans for how to tackle inflation, and he's helping lead the United States to a position of strength on the world stage. I can understand why he might think running for reelection is a good idea.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Okay. Last thing, obviously, the deficit numbers, Republicans point out, they went way up and COVID, it took a dip because of that. But the other thing is Saudi Arabia. It's being reported now that the president is going to visit Saudi Arabia. How, Senator, can that not look like a blatant effort just try to get gas prices down?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "Well, the president is going to the GCC. This is a summit that's being hosted by the Saudi Kingdom that will allow him a chance at one time at one place to meet with a whole range of heads of state from the Persian Gulf, from the Middle East. The president, as you know, has decades of experience in foreign policy, and I trust his firm hand, his leadership, in this moment. We do need to improve the supply of oil and gas to our Western European partners in order to help sustain their support for Ukraine's fierce resistance against Russia's invasion. And I do expect the president will be addressing both the human rights record of the leadership of Saudi Arabia and our shared security concerns. Our concerns about Iran, our concerns about the war in Yemen, our concerns about oil a gas supply. But I think this is another moment where the president may well make significant steps forward in terms of supporting the security of our vital partner, Israel, in the region, and of addressing the real threat to security posed by Iran and Iran's nuclear program. So I'm optimistic that this will be another productive step forward on the world stage by one of America's most seasoned foreign policy leaders, President Biden.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Thank you, Senator Coons. Always nice to speak with you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "COONS",
+      "sentences": "Thank you, Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Up next, we'll sit down with Arkansas Republican Governor Asa Hutchinson to discuss the efforts to try to find agreement on gun reform legislation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Americans have faced many difficult headlines in recent weeks: a mass shooting at an elementary school; the arrest of a man, as we mentioned, threatening to kill a member of the Supreme Court; and prime time hearings revisiting the dark day of January 6th, 2021 on Capitol Hill. It is that kind of moment that puts political leadership to the test. Joining us now from Arkansas, chair of the National Governors Association, Asa Hutchinson. Governor, welcome back to \"FOX News Sunday.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GOV. ASA HUTCHINSON (R), ARKANSAS",
+      "sentences": "Always good to be with you, Bret.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "January 6th Committee this week revealed some of their findings in that prime time hearing. They played new clips from depositions of some of President Trump's inner circle.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BILL BARR, FORMER ATTORNEY GENERAL",
+      "sentences": "I made it clear I did not agree with the idea of saying the election was stolen and putting out this stuff, which I told the president was (EXPLETIVE DELETED).",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "IVANKA TRUMP, FORMER TRUMP WHITE HOUSE SENIOR ADVISER",
+      "sentences": "It affected my perspective. I respect Attorney General Barr. So I accepted what he was saying.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "They suggest that the former president knew he had lost the 2020 election but was still trying to hold on to power. What's your reaction to the hearing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "My reaction to the hearing is that it's an important review as to what happened on January 6th. I've always said we need to do this. This is not the most bipartisan effort in it, but it is a review that is important. Obviously, as they present the case, Americans see this, and they want to hold the people who are responsible for the January 6th attack accountable. Now, the whole premise of the hearing is that President Trump is criminally responsible, and that's the case that they're trying to make. As Bill Barr has said, I think that is a heavy lift. I don't see the factual basis for that. You can make the case, and I would agree, that he is politically, and morally responsible but much of what has happened. But in terms of criminal liability, I think the committee has a long way to go before they could establish that. I think the key thing politically is that the American public does not want us to focus on the past. It's an important review, but I think the Democrats make a mistake if they simply want to relitigate what they did in the impeachment. It's about the future always and solving problems. We have enough problems to address and that's what the American people want us to focus on to a greater extent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Yes, you've said this, something like this, before in which you said it's important. Republicans have to make sure we are clear that President Trump did have some responsibility for that. Congresswoman Liz Cheney was a little bit more pointed on Thursday night about Republicans and their role. Take a listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. LIZ CHENEY (R-WY)",
+      "sentences": "I say this to my Republican colleagues who are defending the indefensible. There will come a day when Donald Trump is gone. But your dishonor will remain.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "\"The Wall Street Journal\" put it this way: Mr. Trump betrayed his supporters by conning them on January 6th, and he is still doing it. \"The Wall Street Journal\" editorial board. So, my question, Senator -- Governor, is what is the future of the Republican Party on this, and on Republican leadership?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "Well, I hope that the future of the Republican Party is different than former President Trump's leadership. I hope we move in a different direction. I believe that what happened on January 6th is a lot at his feet. It was wrong for our country and for him to continue to push that theory I agree is the wrong direction for the Republican Party. I think there's many Republicans that are looking for an off-ramp, new opportunities to find leadership in the future. Obviously, what President Trump -- there's a lot of things that he did that were very good, that the base and I agree with. But he got off track in January 6th and that was a costly error for our democracy. And I agree with a lot of the comments. He is -- he has a responsibility there. We need to make sure that's clear. I think Republicans need to do a lot of soul-searching as to what is the right thing here, what is the right thing to say for our party and our democracy and our future, and not simply appeal to the basest instincts of some of our base.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Let's talk policy. Up on Capitol Hill, Senate negotiators are in the middle of trying to find some compromise on finalizing bipartisan agreement on a narrow set of goals for gun control proposals. Here's what they're looking at, we're told: enhanced school safety, federal support for meal health programs, state incentive red flag laws, expansion to federal background checks and raising the minimum purchase age for an AR-15 or the like to 21. Arkansas' minimum age to purchase is currently at 18. There are no red flag laws. What about this effort on Capitol Hill, Governor?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "Well, I applaud the senators for trying to look at this from a bipartisan way and find out, is there a narrow path that we can better protect our children. It's a discussion that we absolutely need to have and I applaud them for doing it. As you know, I joined a letter from the National Governors Association to create a bipartisan review by governors and part of it is to evaluate what's going to be coming out of the Senate, making comments because the governors are going to be the one to implement mental health policy and strengthening that, it's going to be responsible for school safety. So I hope that there are some positive things that can come out of this. When you look at the age of 21 or 18, there's constitutional issues there, but that has to be part of this discussion. But it's difficult. It's going to be a narrow path but it's a conversation that is important and governors are willing to engage in that and particularly look at what comes out of the Senate side.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Governor, we've seen Florida, Washington, Vermont, California, Illinois and Hawaii all raise the age to purchase a long gun from 18 to 21. If there's no deal up on Capitol Hill federally, would you consider doing that in the state of Arkansas?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "No, I would not, because you called it a long gun and I believe that somebody that's 18 ought to be able to go out there and shoot ducks with a long gun and to be able to purchase that. But -- and so to me, it's an issue --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Do you want me to clarify more? An AR-15 or --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "Yeah, AR-15 style is something that should be part of the conversation versus simply a long gun. And that's the challenge that we face. First, a California federal judge struck that limitation down as constitutional and then secondly, the definitions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Yeah.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "And that's what you've got to really listen to each other and come down -- but, yes, the AR-15 style military weapons ought to be a part of the conversation before they actually raise to 21.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "And to my point, if they don't do it here on Capitol Hill, you would consider the raising of the age from 18 to 21 on an AR-15 in Arkansas?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "I haven't seen a definition that works yet, but we will look at that. But I think that what you're going to see coming out of the Senate is something that we need to respond to us governors and I think that's how we would approach it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK. Moving to the economy quickly. Inflation hit another 4-decade high last month. Gas prices as you know continue to soar. Take a listen to what the president had to say about all that this week.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "sentences": "Today's inflation report confirmed what America's already know. Putin's price hike is hitting America hard. Gas prices at the pump, energy and food prices account for half of the monthly price increases since May.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "What do you make of the president's messaging and leadership on this issue?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "Well, I listened to his remarks at the port of Los Angeles and they were, in fact, disappointing. He was engaging in blaming everyone from Senator Scott to Putin, he was blaming corporate America, and really did not provide the leadership that is needed during this time. Americans want a leader that will lay out challenge that we face, what is the solutions and the directions we need to go. And what we are going to be looking at in October and November of this year. And so, I thought the blame game is not presidential. I don't think that's what we needed. Arkansans right now are paying $500 more per month than they did in January of 2021 simply because of inflation. This hurts the pocketbook of hardworking Americans and what we've heard so far is not sufficient. Energy is a big driver in this. Gas prices, and that impacts our agriculture, that impacts our production in every commodity, really. And that's where this president has failed us in effective energy policy that America produces and is independent.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Governor Hutchinson, thanks for your time this morning.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "sentences": "Good to be with you, Bret, thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Up next we will bring in our Sunday group on the fallout the first primetime January 6th hearing with more to come. REP. LIZ CHENEY (R-WY), JANUARY 6TH SELECT COMMITTEE VICE CHAIR: President Trump summoned the mob, assembled the mob, and lit the flame of this attack.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Republican Congresswoman Liz Cheney, vice chair the select committee investigating January 6th, bluntly blaming former President Trump. It's time now for our Sunday group: NPR national political correspondent Mara Liasson; former Bush White House adviser, FOX News contributor Karl Rove; FOX News political analyst Juan Williams; and Josh Kraushaar of the National Journal. Mara, what's the fallout from this first primetime hearing?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARA LIASSON, NATIONAL POLITICAL CORRESPONDENT, NPR",
+      "sentences": "I think the fallout is that the committee is laying out a pretty clear case about Trump's responsibility, about the fact that many of the participants were set on breaching the Capitol even before President Trump spoke. You had that pretty compelling video of the Proud Boys going up before he gave the speech. There has also been some new information about members of Congress seeking pardons, about what President Trump said about hanging Mike Pence. So I think it has been pretty compelling. How it affects public opinion is unclear, but I think for the historical record, they are laying down a pretty compelling case.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Obviously what's clear, Karl, is that there is no opposition side. There is no other side of the story to this committee.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KARL ROVE, FOX CONTRBITOR",
+      "sentences": "Yes, so far. I'm with Mara. I'm not certain how much it's going to impact public opinion. We did learn some new things. But I think we are going to learn the most important things from the trials of the Oath Keepers and Proud Boys. If they were in communication in advance of January 6th with the Willard command center, Bernie Kerik, Rudy Giuliani, Steve Bannon, John Eastman, we know that they -- the command center was in communication with the White House. If the Oath Keepers and Proud Boys were in communication with the command center, then it will raise the question of what did the president know and when did he know it. That's going to be, I think, the key moment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Chairman Bennie Thompson has said in an interview that they have testimony coming that's going to link to the Trump inner circle. But, Juan, what about the American public's perception of this, going back to that day and what it means now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX POLITICAL ANALYST",
+      "sentences": "Well, I think you can just break it down. We are such a highly polarized country, Bret, that if you were to say 40 percent of the American people just aren't going to change their mind, they are just locked in their perception, high number of Republicans continue to say that, you know, Trump is the likely nominee next time going around. And there's a high percentage of Democrats who say Trump clearly was a cancer on the American body politic. But in between you might have let's say 20 percent who might be persuadable and who are people -- and this comes a little bit from the discussion you were having with Senator Coons, who are saying, well, what's going on in my life now, what about gas prices, what about food prices, inflation, immigration, guns? But nonetheless, those are people who might hear in these hearings, and they had 20 million people apparently tuning in, might hear things and say, you know, this is an attack on democracy itself. Democracy was under attack on January 6th. We now have people who are running for office who continue to perpetrate the big lie. And you know what, it's a little unsettling. And that my drive people who would turn out or not turn out in the midterms.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Josh, are we clear what the blueprint is, where they want to go, whether it's criminal charges or just preventing former President Trump from running again?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JOSH KRAUSHAAR, NATIONAL JOURNAL",
+      "sentences": "Well, there wasn't a whole lot new, and I think that is both significant on the substance and on the politics. We learned a few details about the Proud Boys and their planning. But this was more of a documentary. We are reminded of the pain that everyone followed on January 6th. And that isn't going to move the political needle a whole lot. People are feeling more pain economically, as Juan was just talking about, then want to focus on the past, a painful moment in our past. So I don't think there's going to be a whole -- there may be a pretext for the DoJ to make a move, but I think this was more a P.R. display more than a pretext for legal action by the White House.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I was struck, and I said this to Senator Coons, about the lack of talking about this threat to Justice Kavanaugh in the coverage of it as compared to if this had been a liberal justice with a Trump supporter gone wacko outside their house.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Absolutely. I mean, this is -- look, this is sort of personal. I know Ashley and Brett Kavanaugh personally from our time together in the White House. And I -- it's amazing to me. The law is clear, you quoted it. It goes on to say \"with the intent of influencing any judge.\" And I love it, the American Civil Liberties Union says, yes, this is the statue but we interpret it the following way. We point to a Supreme Court case that suggests that as long as they keep moving in front of the house -- if they are stationary, they should be arrested but if they are moving in front of the house they have a right to try and influence a Supreme Court justice. And that is ridiculous. And if it is true, I didn't see Senator Schumer moving very much behind that microphone in front of the U.S. Supreme Court where he had a clear intent of influencing a Supreme Court justice. So we either ought to apply the law or we ought to just simply say it's open season judges, because that's what we're doing.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, I think you have a right to protest. I think you have...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Yes, but not in front of their house.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Wait, you have a right to protest anywhere in America. Now clearly these people should not be violent and they should not threaten. But the idea that they are influencing -- I don't think it's about the influence. I think it's about a Supreme Court that has become radical and extremist and activist and is going to put out a decision that's going to, believe me, polarize this country...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "So because...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "... undo 50 years of law.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "So because you disagree with a prospective decision, you think they have -- people have a right to show up in front of a house and then try and intimidate a judge to change their opinion?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I -- no.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "And how about any case in America?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Would you defend everybody...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I didn't see the...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "... in front of every judge and say, my God...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Karl...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "... if you decide one way or the other...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Karl...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "... you know, you deserve my -- me protesting in front of your house? Forget it, that's intimidation.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Karl, no, it's not.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "That's banana-style republic.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Karl, first of all, this guy was suicidal and is there is no excusing him. And he's...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "No, no, I'm not talking about him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "What we're talking about...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "I'm talking about those people who were up in front of...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No, Karl, wait a second.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "... attempting to intimidate a judge.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Karl...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Karl, just a second. But I'm saying that we as Americans all have a right to express our upset with undoing 50 years of law with regard to abortion. It's an attack on rights. Rights.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "OK. But for the groups that published the addresses of the conservative justices...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "That's unnecessary. And, you know what, I think everyone sitting at this table has had people demonstrate or come to their door and it's unsettling, nobody is defending it. But the right to protest is essential to America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Fine, but not in front of their house. Go have them protest in...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I'm just telling you in politics that's a reality.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "Yes, well, it's not a good reality.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "No.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "This should be a wake-up call to get this bill out of the House.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Yes, I think the bill will be passed. Look, Supreme Court justices deserve security, and they deserve just the safety of being able to live in their house without fear. However, there was a case where a judge -- judge's husband and son were shot, killed, the guy who did it did have a dossier on Sonia Sotomayor, that got very little coverage. So for conservatives who ask, oh, if this was a liberal judge it would become a much bigger deal, wrong.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "All right. Panel, thank you. We will have to take a break here. When we come back we take you on the road to the midterms in the Silver State where there's a major shift under way in voters' party registration.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "\"FOX News Sunday\" is on the road to the midterms ahead of primaries in four states this Tuesday. In the swing state of Nevada, hit hard by pandemic economy, more and more voters are leaving their political party, registering instead as independents. Democrats have lost the most ground in that move so far. FOX News congressional correspondent Aishah Hasnie takes us to Clark County, where inflation and that scorching summer heat are hitting service workers hard.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNKNOWN",
+      "sentences": "And the excessive heat is here to stay as we head into the weekend, it's 84 degrees outside this morning as temperatures are running... : You want to go walk?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "AISHAH HASNIE, FOX CONGRESSIONAL CORRESPONDENT",
+      "sentences": "Let's go for a walk. It's hot.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SALVADOR MUNOZ, NEVADA VOTER",
+      "sentences": "I never dreamed that I would have to work two jobs to make 32.50 an hour, never.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "The 36-year-old is a single dad working two jobs, including the graveyard shift at a McDonald's. Today, he doesn't know how he will get to work.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MUNOZ",
+      "sentences": "I wasn't able to make it to my second job today because of gas prices. That one thing stopped me. I do still have my night shift coming up that I'm going to be going to work locally, that's only a mile away so even without the car I can make that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MUNOZ",
+      "sentences": "If I had to walk, yes, I could definitely do that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNKNOWN",
+      "sentences": "He's a really great little person.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "What do you think about when you put him to bed at night and go to your shift?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MUNOZ",
+      "sentences": "Getting back to him in the morning.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TANYA CARTER, NEVADA VOTER",
+      "sentences": "He paid $7 for toothpaste at a grocery store? Like, what just went up so drastically on toothpaste to produce it, to ship it, what?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "He and his wife Tanya don't blame Democrats for their problems, they blame corporate America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KEVIN CARTER, NEVADA VOTER",
+      "sentences": "That's grocery stores doing that, gas stations. How does gas go up every day or every three or four days, 2 cents, 3 cents...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "T. CARTER",
+      "sentences": "Yes, 5 cents.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "K. CARTER",
+      "sentences": "It's insane.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "T. CARTER",
+      "sentences": "It's ridiculous.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "Nevada has become increasingly competitive... DONALD TRUMP, 45TH PRESIDENT OF THE UNITED STATES: Hello, Nevada.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "... often drawing in huge names during presidential campaigns. In midterms right now, it's a race to the middle with independent and unaffiliated voters becoming the majority. We tried to catch up with incumbent Democrat Congresswoman Susie Lee...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. SUSIE LEE (D), NEVADA",
+      "sentences": "Nevada Democrats know how to win the tough fights.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "... who represents the Third to ask her about all of this.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "AUTOMATED VOICE GREETING",
+      "sentences": "The mailbox is full and cannot accept any messages at this time. Goodbye.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "But we never could lock down an interview. In a statement, though, Lee told us: \"I'm fighting every day to bring costs down for our families and ensure that they thrive as our economy bounces back and we continue to recover.\"",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RANDY HYNES (D), NEVADA CONGRESSIONAL CANDIDATE",
+      "sentences": "They're not making good decisions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "We did, however, speak with her Democratic primary challenger, Randy Hines, who doesn't even want to call himself a Democrat.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HYNES",
+      "sentences": "The only thing that makes you a Democrat or makes you a Republican in this state is putting Democrat or Republican on your voter registration.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HYNES",
+      "sentences": "Yes, that's it. That's what I did in order to be on -- be on the primary ballot.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "So what are you? What would you call yourself? How do you identify?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HYNES",
+      "sentences": "I am a physical -- fiscal conservative, a little bit right of center, but I see all of the things that -- you know, all the social programs that we have already...",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HASNIE",
+      "sentences": "You would run as a centrist if you could?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "HYNES",
+      "sentences": "If I could. If I could.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MUNOZ",
+      "sentences": "Essentially make the costs come down for us a little bit.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MUNOZ",
+      "sentences": "I mean, what can they do? Spend more wisely so that we don't end up paying the price at the end of the day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Aishah Hasnie reporting from Nevada. We are back now with the panel. Josh, that piece tells a big story. We have primaries in Nevada, Maine, North Dakota, South Carolina, a Texas special election, but Democrats are facing headwinds this election. You have this new poll out showing the president's job approval for everybody sits at 33 percent approve, disapprove 55 percent. But then you look at independents, this is the Quinnipiac poll, 25 percent approval for President Biden. That is not just a headwind, that's a gust.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KRAUSHAAR",
+      "sentences": "These are red wave numbers and any Democrat in a swing district, a swing state like Nevada has got to be watching their back. And look, if I had a white board here, I'd say Nevada, Nevada, Nevada is going to be the big bellwether in November. You've got a Senate race, a governor's race, three of the four Democratic numbers of congress in tough races that we heard on the segment by Aishah. It could be a sweep for Republicans in a state they haven't won, at least at the presidential level, since 2004. So there's a lot of headwinds the Democratic Party is facing, the economy is the biggest issue, a lot of Nevadans having trouble making ends meet.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Since the whiteboard was mentioned, you get a rebuttal.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "No rebuttal. There's a reason why the number is 33, and it goes back to something that Senator Coons said when he said this inflation is all on Putin. Inflation was running at 1.4 percent in January of 2021. It was running at 7.871 percent in February. And when Putin invaded Ukraine four days before the end of the month, it's now 8.582 percent in May. That means that 90 percent of the inflation that we have had since the time that Joe Biden took office occurred before Putin invaded Ukraine, 90 percent. And people feel that. They know that this is not Putin. They know this is bad decisions that were made in 2021 by this administration with the America Rescue Plan and too much spending. I mean, I quote my favorite current Democrat economist, quote: \"Over the last 75 years, every time inflation has exceeded 4 percent and unemployment has been below 5 percent, the U.S. economy has gone into recession within two years.\" Today inflation is north of 6 percent, when he wrote it, it's now north of 8.5. And unemployment is south of 4 percent, Larry Summers. And we've got a recession coming and it will be coming before the 2024 election in all likelihood.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Mara, FedEx founder and CEO Fred Smith told me that President Obama once told him that his approval ratings tracked opposite of gas prices, almost diametrically, I mean, just right there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Inflation defeats presidents. And inflation is one of those things, I actually disagree with Karl, the American Rescue Plan might have contributed, but inflation is global. The reasons for it are about supply chains, a whole bunch of other things. But, the problem is that there are a lot of things that aren't the president's fault but they are his problem, and inflation, which is the single economic indicator that affects people the most every single day. So what if hiring is really on fire, they still have to fill their car up with gas and inflation is eating away all those wage gains that the White House likes to talk about. So it is a problem, there's very little the president can do. It's up to the Fed. Oftentimes when the Fed tightens we get a recession, 85 percent of Americans, I think, in the latest Quinnipiac poll said that they expect there's going to be a recession, so it's a real problem.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But to Karl's point, there were red flags and warning signs and flares going up from Larry Summers and others.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "LIASSON",
+      "sentences": "Yes. There's no -- Larry Summers all along has said the American Rescue Plan was too big and was potentially inflationary, and the Fed maybe didn't do enough sooner.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Juan, besides the economy, the inflation, there are also issues like crime, and you have this recall in San Francisco of the district attorney, Chesa Boudin, getting recalled in San Francisco because of how he's dealing with crime. Similar to other places, you may see that in Los Angeles as well.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "Well, I think crime, again, especially violent crime and guns are a huge issue right. We talk about inflation. We talk about abortion and the potential for anger over that decision. But I think there's a lot of frustration with the inability of the political class to do anything when you see children being slaughtered and people in the afternoon supermarket being slaughtered. And so right now there's a sense that there has to be some change, that people are looking for change. There's a lot of resentment out there. I think, you know, we've been talking about midterm politics. Well, you know, you look at -- you go back to, well, you know, go back even to Bill Clinton in '92. You go to -- you know, come forward, President Obama in '10, President Trump in '18. All of them lost big in midterms. That's the historical model. And I think the reason -- a lot of the reason for that is there's frustration, resentment in the direction of the country, and people are speaking out in frustration against the elected class, the party in power.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "But the question is, if they do lose, like if it was held tomorrow, it would be a big red wave, would they do like Bill Clinton did in '94 and change and kind of use some Republican policies to their own? Do you see that or do you still see progressives running the Democratic Party?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "WILLIAMS",
+      "sentences": "I think progressives right now are the energy. But let me just say, Joe Biden is a moderate, and he's the head of the party for now, even the people who may have skepticism about his future. He's the head of the party and he models sort of reasonableness, decency, empathy. And I think that that's the drive. But people on the Democratic side oftentimes want him to be more aggressive because they see the Republicans as the aggressors and Biden is not fighting back, saying that Mitch McConnell is his buddy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "I see a \"we'll see\" look on your face.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ROVE",
+      "sentences": "No. The look is he has claimed to be a moderate but he has not governed as one. And he's not going to change after this election, no ifs, ands, or buts. He's going to go -- he's going to stay stuck where he is, which is unfortunate for him and unfortunate for the country.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Panel, thank you very much. We'll see you next Sunday. Up next, a final word on the week ahead and a special debate I'm moderating tomorrow between two of the nation's most well-known senators.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BAIER",
+      "sentences": "Well, it's called the Senate Project. It's a live Oxford-style debate. I'll moderate between senators Lindsey Graham and Bernie Sanders. Two different sides of the ideological spectrum where you can watch the debate tomorrow streaming live, 12:00 p.m. Eastern on Fox Nation. I'll bring you the highlights from the debate tomorrow night at 6:00 p.m. on \"Special Report\" from Boston. Hope you will join us. That's it for today. I'm Bret Baier. Make it a great week. And we'll see you next \"FOX News Sunday.\" Copy: Content and Programming Copyright 2022 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2022 VIQ Media Transcription, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRET BAIER, FOX NEWS ANCHOR",
+      "utterance": "I'm Bret Baier. A nation divided over some of the biggest issues of our time raises questions about the future of Americans' freedom, security, and democracy itself."
+    },
+    {
+      "speaker": "REP. BENNIE THOMPSON (D-MS)",
+      "utterance": "January 6th was the culmination of an attempted coup. The violence was no accident."
+    },
+    {
+      "speaker": "BAIER (voice-over)",
+      "utterance": "On Capitol Hill, a House panel laying the blame for what happened at the U.S. Capitol on January 6th on Donald Trump, while Republicans claim the committee lacks credibility."
+    },
+    {
+      "speaker": "REP. KEVIN MCCARTHY (R-KY)",
+      "utterance": "It has permanently damaged the House and divided this country."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Divided over guns."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Our everyday problems."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "As the country faces mass shootings at schools, supermarkets, and workplaces, divided over abortion -- as Congress considers what action to take after a threat on Supreme Court Justice Brett Kavanaugh's life escalates fears of violence. We'll ask Democratic Senator Chris Coons, a close ally of President Biden, about the bill he is sponsoring to extend security and protection for justices' families. Then, Arkansas Republican Governor Asa Hutchinson joins us to discuss the prospects for finding common ground on guns and abortion. And, we'll ask our Sunday panel what it will take to raise the level of political discourse in this country. Plus, \"FOX News Sunday\" is on the road to the midterms in the pivotal swing state of Nevada, ahead of another round of primaries. All, right now, on \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And hello again from FOX News in Washington. It was a week of major challenges for everyday Americans and the elected officials responsible for steering the ship of state. Hearings about the Capitol riot of January 6 brought back memories of a mob of protesters attacking police and trying to stop the certification of a lawful election. Marchers gathered in Washington to push for control in response to the massacre at a Texas elementary school. Inflation rose again and the average price of gas hit a painful $5 a gallon nationwide. The challenges facing the nation hitting the White House hard as President Biden struggles to push his agenda midway through the primary season. In a moment, we will speak with Democratic Senator Chris Coons about his party's struggles. But, first, let's turn to Lucas Tomlinson live at the White House for a look at how the Biden administration is responding -- Lucas."
+    },
+    {
+      "speaker": "LUCAS TOMLINSON, FOX NEWS CORRESPONDENT",
+      "utterance": "Bret, President Biden wants to make gun control a central issue in the upcoming midterm elections. Protesters around the country want action now."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "We're just simply here to say enough is enough."
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "Thousands gathered on the National Mall and in cities across the country following mass shootings in Buffalo, Uvalde, Chattanooga, and Philadelphia. So far, no agreement has been reached on Capitol Hill for new gun control legislation."
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "utterance": "They're still mildly optimistic."
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "Also unfinished, a final bill of protections for Supreme Court justices and their families. House Speaker Nancy Pelosi under new pressure to pass the measure after an armed man was arrested for saying he wanted to kill Associate Justice Brett Kavanaugh."
+    },
+    {
+      "speaker": "REP. NANCY PELOSI (D-CA)",
+      "utterance": "There will be a bill, but nobody is in danger over the weekend, because of our not having a bill."
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "And the long-awaited hearing investigating the violence of the U.S. Capitol on January 6th aired in primetime with millions watching. Republican Committee Vice Chair Liz Cheney saying Trump bears responsibility and pressed lawmakers who have stood by him."
+    },
+    {
+      "speaker": "REP. LIZ CHENEY (R-WY)",
+      "utterance": "I say this to my Republican colleagues who are defending the indefensible: there will come a day when Donald Trump is gone, but your dishonor will remain."
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "All this against the backdrop of crushing inflation. The Labor Department saying it jumped to 8.6 percent in May."
+    },
+    {
+      "speaker": "KARINE JEAN-PIERRE, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "The economy is in a better place than it has been historically."
+    },
+    {
+      "speaker": "TOMLINSON",
+      "utterance": "It's a tough sell. The gas prices now the highest in American history, crossing the $5 threshold early Saturday. In contrast, Biden's approval numbers now tying his record low at 33 percent."
+    },
+    {
+      "speaker": "TOMLINSON (on camera)",
+      "utterance": "President Biden confirmed he will be going to Saudi Arabia next month. He claims it's not because of oil, but for national security -- Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Lucas Tomlinson reporting from the White House -- Lucas, thank you."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Joining us now, Democratic Senator Chris Coons of Delaware, the president -- the president's home state. Senator, welcome back to \"FOX News Sunday\"."
+    },
+    {
+      "speaker": "SEN. CHRIS COONS (D-DE)",
+      "utterance": "Great to be on with you, Bret. Thank you."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You heard in Lucas' piece, this week, a man called police on himself saying he wanted to kill Supreme Court Justice Brett Kavanaugh. He did that outside Kavanaugh's home, armed and prepared to do it. You cosponsor this bill last month to beef up security for Supreme Court justices and their family, but the House has not moved on the bill for 30 days. You heard House Speaker Nancy Pelosi in Lucas' piece reference -- there's no problem here, there's protection for the justices, nobody is going to get harmed over the weekend. But what about that and what is the hold up?"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "Well, Bret, I was grateful for the chance to work with Senator Cornyn. We got the bill unanimously through the United States Senate. And as you know these days, not enough things get through the Senate with the kind of uniform universal support that that bill enjoyed. The House is working to add a provision that would allow the marshal of the Supreme Court to decide to extend protection to staff and families of staff of the Supreme Court. I think that's appropriate, that's an acceptable compromise. More than anything, I think the House needs to take it up and pass it early next week. And I'm optimistic after several conversations with House leadership that they will. Frankly, as you also referenced in the introduction, Bret, the January 6th hearing that just took place was a riveting reminder of the dangers of politically motivated violence in our country. And the gun massacres, the shootings that happened at a grocery store in Buffalo and at an elementary school in Uvalde, are also a call to action. And I'm grateful to be working with Senator Cornyn as a part of a broad bipartisan group that's working to address mental health and gun safety as well."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Going to get to both of those other things in just a minute. But staying on this particular thing, there is already a federal statute on the books that makes it illegal to protest in front of a judge's home. It is Title 18, Section 1507. These groups published the conservative justices' addresses online. They've been protesting nightly. Should they be arrested?"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "Look, Bret, we have to strike the right balance here between protecting freedom of speech in this country and ensuring that our justices and judges are safe. We passed a bill through the Senate months and months ago that would also provide further protections obscuring the addresses, for example, of justices and judges. That's something we took up in the wake of a horrifying attack on the family of a federal court judge in New Jersey where her son was killed. I do think we need to take stronger action to make sure that our federal judiciary is safe because that's part of making sure our democracy is safe, which really is the core issue of the January 6th hearings, is how do we make sure that the fundamentals of our democracy, the safety and security of Congress, the peaceful transfer of power, and I would also at the safety and security of our federal judiciary is insured. We should act."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Senator, we're getting ready for this ruling. It's going to be controversial no matter what happens. If it matches the draft -- leaked draft opinion or not, there is this law on the books. I'm just asking, should they follow the law? Should the attorney general say, yes, arrest those people before something happens?"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "Well, Bret, I think if the leaked version of the opinion is matched by what would be a remarkable act of judicial activism, conservative judicial activism, there will be understandable anger across the nation. As an elected official, I've certainly had protests out front of my house. Many of us have who serve in Congress and other elected offices. But we need to make sure that all appropriate actions are being taken to ensure the safety of members of our federal judiciary, including Supreme Court justices."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Okay, so don't arrest the protesters based on the title, I got it. That's what you're saying. The president this --"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "Bret, let's be clear. I didn't say don't arrest protesters. I'm simply saying that all appropriate action should be taken to ensure the safety of the Supreme Court justices. And I'm not going to say this protester or that protester ought to be arrested. I just think that that's a judgment call to be made by law enforcement, not by a senator on a Sunday show."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Understood, but they haven't been arrested yet and nobody has for protesting outside these judges' homes that were published online, only the conservative justices. What -- I want to also ask you, is the president hasn't said anything publicly about this specific threat about Supreme Court Justice Kavanaugh. The White House press secretary said a couple of things in a gaggle to reporters that the president condemns violence of any kind. But should the president have said something publicly about this?"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "Bret, the president has repeatedly spoken out against politically motivated violence in our country, the risk of politically motivated violence in our country. And as you well know, presidents often speak more through their press secretaries to events of the day. I certainly have denounced this latest threat against Justice Kavanaugh. But it's important that we remember there are threats of political violence of many kinds and types. Folks who are watching this morning who didn't watch the January 6th hearing should take a few moments and review what Congresswoman Liz Cheney, an unimpeachable he conservative from Wyoming, had to say in her opening statement. I think there are risks of political violence we should all be speaking out against and acting to ensure we control, manage, and reduce."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I -- we're going to talk about January 6th in just a moment. But don't you think Democrats and the media would possibly, Senator, be making more about a threat like this, a specific threat, if it was happening to liberal justices?"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "Well, Bret, you have in front of the Democratic senator who cosponsored with Senator Cornyn a bill that would provide greater security --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I'm just saying publicly, Senator."
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "-- for the families of justices. I don't know how more publicly I can say that I think threats of violence against Supreme Court justices, their families, their clerks are reprehensible, unacceptable, and we should take action to secure the federal judiciary."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All right. Last thing before we get to January 6. The law has been made this week about words, how much they matter, how much stirring the pot, giving the green light to violence in any way, shape, or form is unacceptable. Take a listen to this."
+    },
+    {
+      "speaker": "SEN. CHUCK SCHUMER (D-NY)",
+      "utterance": "I want to tell you, Gorsuch, I want to tell you, Kavanaugh, you have released the whirlwind and you will pay the price. You won't know what hit you if you go forward with these awful decisions."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "On the steps of the Supreme Court, did those words qualify, Senator?"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "So here's a key distinction. What Senator Schumer was saying was that he was upset. He was alarmed, he was concerned at the prospect that justices would reverse decades of a well-established fundamental constitutional right in our country. What he did not say was let's go attack them. The point of the January 6th hearing is to prove that that is in fact what President Trump did, that he, in the words of Congresswoman Cheney, summoned the mob, stirred up the mob and then lit the fuse that sent them storming the Capitol of the United States. I do think there's a distinguishable difference between what we just heard from Senator Schumer and the actions taken by former President Trump and his circle of advisors in the days before January 6th."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "And the results were clear and I think catastrophic. The physical assault of officers that led to several officer deaths and the shattering of the Capitol perimeter. Frankly, as one of the members of the Senate who had to be escorted out along with the vice president by Capitol police just feet ahead of an angry mob, I do think that we are at risk of a season of political violence in this country, and all of us should reduce the temper and level of our rhetoric."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Including Senator Schumer, who has said the justices released a whirlwind and you will pay the price. You don't see any problem with that kind of language on the Supreme Court?"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "That's not what I said. What I just said, Bret, was I think all of us need to reduce the level of our rhetoric --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK."
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "-- and be mindful of the fact that stirring up potential violence is not a good or constructive thing to be doing at this moment in our country by any political leader."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "You mentioned the prime time hearings and made the case about January 6 and the importance. The committee obviously had this presentation. \"The New York Times\" said they praised it for its sober approach. There will be many committee hearings to come. But this is also \"The New York Times\": It is clear that the hearings, coming five months before midterm elections in which Democrats are bracing for big losses, carry high political stakes. Are there concerns of politicization here in your mind, Senator?"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "Look, I think what impressed me about those January 6th hearings, about the first hearing that I watched, was how clear and nonpartisan and thoughtful and directed it was. I certainly don't think the Congresswoman Cheney or Congressman Kinzinger were trying to impact the midterm election chances of Democrats. I think the point here has been to take a hard and clear-eyed look at what happened on January 6, and new evidence that they've uncovered about the role of the former president's close advisors in how they shaped the events that led to that really critical moment in our modern American history. We've never had our Capitol stormed by Americans. We've never had an attempt through an insurrection, through a riot to try and interrupt the peaceful transfer of power. And, Bret, right now, I'm working with a bipartisan group of senators to try to make reforms to the Electoral Count Act to make it clear that Vice President Pence did the right thing on the night of January 6th, that no vice president has the power, nor should they, to unilaterally overturn the will of the American people."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Speaking of \"The New York Times,\" the paper also had a detailed piece this weekend entitled \"Should Biden Run in 2024? Democratic whispers of `no' start to rise\". In which the paper states they have interviews of dozens of Democratic officials and members of Congress who backed Biden in 2020, quote, reveal a party alarmed about Republicans' rising strength and extraordinarily pessimistic about an immediate path forward."
+    },
+    {
+      "speaker": "One DNC committee member is actually quoted as saying",
+      "utterance": "Mr. Biden should announce his intent not to seek reelection in '24 right after the midterms. You're a close ally. Is President Biden running in '24, and should he?"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "Yes, he is, and I'll tell you, Bret, it is my understanding -- let me be clear. I'm not speaking on his behalf or announcing a candidacy. I'm just saying that as of now, it's my understanding that the president intends to seek a second term, and I understand why. His leadership on the world stage has been impressive. He's just returned from a successful Summit of the Americas. He's pulled together four critical partners in the Indo Pacific in a new organization called the Quad, a new partnership with allies. And in the face of Russia's brutal invasion, their aggression against Ukraine, President Biden has shown a masterful skill at pulling together the E.U. and NATO in order to push back, in order to support Ukraine's brave resistance to Russian aggression. Here at home, his predecessor talked about infrastructure over and over, was never able to get a bill on infrastructure to the floor, and to his desk. President Biden signed into law one of the biggest investments in infrastructure in American history. And President Biden and Democrats in the Senate have a plan for how to reduce prescription drug prices, how to tackle health care costs that I remain optimistic we will get done."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Yeah."
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "The deficit is coming do. He's got clear plans for how to tackle inflation, and he's helping lead the United States to a position of strength on the world stage. I can understand why he might think running for reelection is a good idea."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Okay. Last thing, obviously, the deficit numbers, Republicans point out, they went way up and COVID, it took a dip because of that. But the other thing is Saudi Arabia. It's being reported now that the president is going to visit Saudi Arabia. How, Senator, can that not look like a blatant effort just try to get gas prices down?"
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "Well, the president is going to the GCC. This is a summit that's being hosted by the Saudi Kingdom that will allow him a chance at one time at one place to meet with a whole range of heads of state from the Persian Gulf, from the Middle East. The president, as you know, has decades of experience in foreign policy, and I trust his firm hand, his leadership, in this moment. We do need to improve the supply of oil and gas to our Western European partners in order to help sustain their support for Ukraine's fierce resistance against Russia's invasion. And I do expect the president will be addressing both the human rights record of the leadership of Saudi Arabia and our shared security concerns. Our concerns about Iran, our concerns about the war in Yemen, our concerns about oil a gas supply. But I think this is another moment where the president may well make significant steps forward in terms of supporting the security of our vital partner, Israel, in the region, and of addressing the real threat to security posed by Iran and Iran's nuclear program. So I'm optimistic that this will be another productive step forward on the world stage by one of America's most seasoned foreign policy leaders, President Biden."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Thank you, Senator Coons. Always nice to speak with you."
+    },
+    {
+      "speaker": "COONS",
+      "utterance": "Thank you, Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Up next, we'll sit down with Arkansas Republican Governor Asa Hutchinson to discuss the efforts to try to find agreement on gun reform legislation."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Americans have faced many difficult headlines in recent weeks: a mass shooting at an elementary school; the arrest of a man, as we mentioned, threatening to kill a member of the Supreme Court; and prime time hearings revisiting the dark day of January 6th, 2021 on Capitol Hill. It is that kind of moment that puts political leadership to the test. Joining us now from Arkansas, chair of the National Governors Association, Asa Hutchinson. Governor, welcome back to \"FOX News Sunday.\""
+    },
+    {
+      "speaker": "GOV. ASA HUTCHINSON (R), ARKANSAS",
+      "utterance": "Always good to be with you, Bret."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "January 6th Committee this week revealed some of their findings in that prime time hearing. They played new clips from depositions of some of President Trump's inner circle."
+    },
+    {
+      "speaker": "BILL BARR, FORMER ATTORNEY GENERAL",
+      "utterance": "I made it clear I did not agree with the idea of saying the election was stolen and putting out this stuff, which I told the president was (EXPLETIVE DELETED)."
+    },
+    {
+      "speaker": "IVANKA TRUMP, FORMER TRUMP WHITE HOUSE SENIOR ADVISER",
+      "utterance": "It affected my perspective. I respect Attorney General Barr. So I accepted what he was saying."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "They suggest that the former president knew he had lost the 2020 election but was still trying to hold on to power. What's your reaction to the hearing?"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "My reaction to the hearing is that it's an important review as to what happened on January 6th. I've always said we need to do this. This is not the most bipartisan effort in it, but it is a review that is important. Obviously, as they present the case, Americans see this, and they want to hold the people who are responsible for the January 6th attack accountable. Now, the whole premise of the hearing is that President Trump is criminally responsible, and that's the case that they're trying to make. As Bill Barr has said, I think that is a heavy lift. I don't see the factual basis for that. You can make the case, and I would agree, that he is politically, and morally responsible but much of what has happened. But in terms of criminal liability, I think the committee has a long way to go before they could establish that. I think the key thing politically is that the American public does not want us to focus on the past. It's an important review, but I think the Democrats make a mistake if they simply want to relitigate what they did in the impeachment. It's about the future always and solving problems. We have enough problems to address and that's what the American people want us to focus on to a greater extent."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Yes, you've said this, something like this, before in which you said it's important. Republicans have to make sure we are clear that President Trump did have some responsibility for that. Congresswoman Liz Cheney was a little bit more pointed on Thursday night about Republicans and their role. Take a listen."
+    },
+    {
+      "speaker": "REP. LIZ CHENEY (R-WY)",
+      "utterance": "I say this to my Republican colleagues who are defending the indefensible. There will come a day when Donald Trump is gone. But your dishonor will remain."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "\"The Wall Street Journal\" put it this way: Mr. Trump betrayed his supporters by conning them on January 6th, and he is still doing it. \"The Wall Street Journal\" editorial board. So, my question, Senator -- Governor, is what is the future of the Republican Party on this, and on Republican leadership?"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "Well, I hope that the future of the Republican Party is different than former President Trump's leadership. I hope we move in a different direction. I believe that what happened on January 6th is a lot at his feet. It was wrong for our country and for him to continue to push that theory I agree is the wrong direction for the Republican Party. I think there's many Republicans that are looking for an off-ramp, new opportunities to find leadership in the future. Obviously, what President Trump -- there's a lot of things that he did that were very good, that the base and I agree with. But he got off track in January 6th and that was a costly error for our democracy. And I agree with a lot of the comments. He is -- he has a responsibility there. We need to make sure that's clear. I think Republicans need to do a lot of soul-searching as to what is the right thing here, what is the right thing to say for our party and our democracy and our future, and not simply appeal to the basest instincts of some of our base."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Let's talk policy. Up on Capitol Hill, Senate negotiators are in the middle of trying to find some compromise on finalizing bipartisan agreement on a narrow set of goals for gun control proposals. Here's what they're looking at, we're told: enhanced school safety, federal support for meal health programs, state incentive red flag laws, expansion to federal background checks and raising the minimum purchase age for an AR-15 or the like to 21. Arkansas' minimum age to purchase is currently at 18. There are no red flag laws. What about this effort on Capitol Hill, Governor?"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "Well, I applaud the senators for trying to look at this from a bipartisan way and find out, is there a narrow path that we can better protect our children. It's a discussion that we absolutely need to have and I applaud them for doing it. As you know, I joined a letter from the National Governors Association to create a bipartisan review by governors and part of it is to evaluate what's going to be coming out of the Senate, making comments because the governors are going to be the one to implement mental health policy and strengthening that, it's going to be responsible for school safety. So I hope that there are some positive things that can come out of this. When you look at the age of 21 or 18, there's constitutional issues there, but that has to be part of this discussion. But it's difficult. It's going to be a narrow path but it's a conversation that is important and governors are willing to engage in that and particularly look at what comes out of the Senate side."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Governor, we've seen Florida, Washington, Vermont, California, Illinois and Hawaii all raise the age to purchase a long gun from 18 to 21. If there's no deal up on Capitol Hill federally, would you consider doing that in the state of Arkansas?"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "No, I would not, because you called it a long gun and I believe that somebody that's 18 ought to be able to go out there and shoot ducks with a long gun and to be able to purchase that. But -- and so to me, it's an issue --"
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Do you want me to clarify more? An AR-15 or --"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "Yeah, AR-15 style is something that should be part of the conversation versus simply a long gun. And that's the challenge that we face. First, a California federal judge struck that limitation down as constitutional and then secondly, the definitions."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Yeah."
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "And that's what you've got to really listen to each other and come down -- but, yes, the AR-15 style military weapons ought to be a part of the conversation before they actually raise to 21."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "And to my point, if they don't do it here on Capitol Hill, you would consider the raising of the age from 18 to 21 on an AR-15 in Arkansas?"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "I haven't seen a definition that works yet, but we will look at that. But I think that what you're going to see coming out of the Senate is something that we need to respond to us governors and I think that's how we would approach it."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK. Moving to the economy quickly. Inflation hit another 4-decade high last month. Gas prices as you know continue to soar. Take a listen to what the president had to say about all that this week."
+    },
+    {
+      "speaker": "JOE BIDEN, PRESIDENT OF THE UNITED STATES",
+      "utterance": "Today's inflation report confirmed what America's already know. Putin's price hike is hitting America hard. Gas prices at the pump, energy and food prices account for half of the monthly price increases since May."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "What do you make of the president's messaging and leadership on this issue?"
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "Well, I listened to his remarks at the port of Los Angeles and they were, in fact, disappointing. He was engaging in blaming everyone from Senator Scott to Putin, he was blaming corporate America, and really did not provide the leadership that is needed during this time. Americans want a leader that will lay out challenge that we face, what is the solutions and the directions we need to go. And what we are going to be looking at in October and November of this year. And so, I thought the blame game is not presidential. I don't think that's what we needed. Arkansans right now are paying $500 more per month than they did in January of 2021 simply because of inflation. This hurts the pocketbook of hardworking Americans and what we've heard so far is not sufficient. Energy is a big driver in this. Gas prices, and that impacts our agriculture, that impacts our production in every commodity, really. And that's where this president has failed us in effective energy policy that America produces and is independent."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Governor Hutchinson, thanks for your time this morning."
+    },
+    {
+      "speaker": "HUTCHINSON",
+      "utterance": "Good to be with you, Bret, thank you."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Up next we will bring in our Sunday group on the fallout the first primetime January 6th hearing with more to come. REP. LIZ CHENEY (R-WY), JANUARY 6TH SELECT COMMITTEE VICE CHAIR: President Trump summoned the mob, assembled the mob, and lit the flame of this attack."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Republican Congresswoman Liz Cheney, vice chair the select committee investigating January 6th, bluntly blaming former President Trump. It's time now for our Sunday group: NPR national political correspondent Mara Liasson; former Bush White House adviser, FOX News contributor Karl Rove; FOX News political analyst Juan Williams; and Josh Kraushaar of the National Journal. Mara, what's the fallout from this first primetime hearing?"
+    },
+    {
+      "speaker": "MARA LIASSON, NATIONAL POLITICAL CORRESPONDENT, NPR",
+      "utterance": "I think the fallout is that the committee is laying out a pretty clear case about Trump's responsibility, about the fact that many of the participants were set on breaching the Capitol even before President Trump spoke. You had that pretty compelling video of the Proud Boys going up before he gave the speech. There has also been some new information about members of Congress seeking pardons, about what President Trump said about hanging Mike Pence. So I think it has been pretty compelling. How it affects public opinion is unclear, but I think for the historical record, they are laying down a pretty compelling case."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Obviously what's clear, Karl, is that there is no opposition side. There is no other side of the story to this committee."
+    },
+    {
+      "speaker": "KARL ROVE, FOX CONTRBITOR",
+      "utterance": "Yes, so far. I'm with Mara. I'm not certain how much it's going to impact public opinion. We did learn some new things. But I think we are going to learn the most important things from the trials of the Oath Keepers and Proud Boys. If they were in communication in advance of January 6th with the Willard command center, Bernie Kerik, Rudy Giuliani, Steve Bannon, John Eastman, we know that they -- the command center was in communication with the White House. If the Oath Keepers and Proud Boys were in communication with the command center, then it will raise the question of what did the president know and when did he know it. That's going to be, I think, the key moment."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Chairman Bennie Thompson has said in an interview that they have testimony coming that's going to link to the Trump inner circle. But, Juan, what about the American public's perception of this, going back to that day and what it means now?"
+    },
+    {
+      "speaker": "JUAN WILLIAMS, FOX POLITICAL ANALYST",
+      "utterance": "Well, I think you can just break it down. We are such a highly polarized country, Bret, that if you were to say 40 percent of the American people just aren't going to change their mind, they are just locked in their perception, high number of Republicans continue to say that, you know, Trump is the likely nominee next time going around. And there's a high percentage of Democrats who say Trump clearly was a cancer on the American body politic. But in between you might have let's say 20 percent who might be persuadable and who are people -- and this comes a little bit from the discussion you were having with Senator Coons, who are saying, well, what's going on in my life now, what about gas prices, what about food prices, inflation, immigration, guns? But nonetheless, those are people who might hear in these hearings, and they had 20 million people apparently tuning in, might hear things and say, you know, this is an attack on democracy itself. Democracy was under attack on January 6th. We now have people who are running for office who continue to perpetrate the big lie. And you know what, it's a little unsettling. And that my drive people who would turn out or not turn out in the midterms."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Josh, are we clear what the blueprint is, where they want to go, whether it's criminal charges or just preventing former President Trump from running again?"
+    },
+    {
+      "speaker": "JOSH KRAUSHAAR, NATIONAL JOURNAL",
+      "utterance": "Well, there wasn't a whole lot new, and I think that is both significant on the substance and on the politics. We learned a few details about the Proud Boys and their planning. But this was more of a documentary. We are reminded of the pain that everyone followed on January 6th. And that isn't going to move the political needle a whole lot. People are feeling more pain economically, as Juan was just talking about, then want to focus on the past, a painful moment in our past. So I don't think there's going to be a whole -- there may be a pretext for the DoJ to make a move, but I think this was more a P.R. display more than a pretext for legal action by the White House."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I was struck, and I said this to Senator Coons, about the lack of talking about this threat to Justice Kavanaugh in the coverage of it as compared to if this had been a liberal justice with a Trump supporter gone wacko outside their house."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Absolutely. I mean, this is -- look, this is sort of personal. I know Ashley and Brett Kavanaugh personally from our time together in the White House. And I -- it's amazing to me. The law is clear, you quoted it. It goes on to say \"with the intent of influencing any judge.\" And I love it, the American Civil Liberties Union says, yes, this is the statue but we interpret it the following way. We point to a Supreme Court case that suggests that as long as they keep moving in front of the house -- if they are stationary, they should be arrested but if they are moving in front of the house they have a right to try and influence a Supreme Court justice. And that is ridiculous. And if it is true, I didn't see Senator Schumer moving very much behind that microphone in front of the U.S. Supreme Court where he had a clear intent of influencing a Supreme Court justice. So we either ought to apply the law or we ought to just simply say it's open season judges, because that's what we're doing."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, I think you have a right to protest. I think you have..."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Yes, but not in front of their house."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Wait, you have a right to protest anywhere in America. Now clearly these people should not be violent and they should not threaten. But the idea that they are influencing -- I don't think it's about the influence. I think it's about a Supreme Court that has become radical and extremist and activist and is going to put out a decision that's going to, believe me, polarize this country..."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "So because..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "... undo 50 years of law."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "So because you disagree with a prospective decision, you think they have -- people have a right to show up in front of a house and then try and intimidate a judge to change their opinion?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I -- no."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "And how about any case in America?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Would you defend everybody..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I didn't see the..."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "... in front of every judge and say, my God..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Karl..."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "... if you decide one way or the other..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Karl..."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "... you know, you deserve my -- me protesting in front of your house? Forget it, that's intimidation."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Karl, no, it's not."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "That's banana-style republic."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Karl, first of all, this guy was suicidal and is there is no excusing him. And he's..."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "No, no, I'm not talking about him."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "What we're talking about..."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "I'm talking about those people who were up in front of..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No, Karl, wait a second."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "... attempting to intimidate a judge."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Karl..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Karl, just a second. But I'm saying that we as Americans all have a right to express our upset with undoing 50 years of law with regard to abortion. It's an attack on rights. Rights."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "OK. But for the groups that published the addresses of the conservative justices..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "That's unnecessary. And, you know what, I think everyone sitting at this table has had people demonstrate or come to their door and it's unsettling, nobody is defending it. But the right to protest is essential to America."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Fine, but not in front of their house. Go have them protest in..."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I'm just telling you in politics that's a reality."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "Yes, well, it's not a good reality."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "No."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "This should be a wake-up call to get this bill out of the House."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Yes, I think the bill will be passed. Look, Supreme Court justices deserve security, and they deserve just the safety of being able to live in their house without fear. However, there was a case where a judge -- judge's husband and son were shot, killed, the guy who did it did have a dossier on Sonia Sotomayor, that got very little coverage. So for conservatives who ask, oh, if this was a liberal judge it would become a much bigger deal, wrong."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "All right. Panel, thank you. We will have to take a break here. When we come back we take you on the road to the midterms in the Silver State where there's a major shift under way in voters' party registration."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "\"FOX News Sunday\" is on the road to the midterms ahead of primaries in four states this Tuesday. In the swing state of Nevada, hit hard by pandemic economy, more and more voters are leaving their political party, registering instead as independents. Democrats have lost the most ground in that move so far. FOX News congressional correspondent Aishah Hasnie takes us to Clark County, where inflation and that scorching summer heat are hitting service workers hard."
+    },
+    {
+      "speaker": "UNKNOWN",
+      "utterance": "And the excessive heat is here to stay as we head into the weekend, it's 84 degrees outside this morning as temperatures are running... : You want to go walk?"
+    },
+    {
+      "speaker": "AISHAH HASNIE, FOX CONGRESSIONAL CORRESPONDENT",
+      "utterance": "Let's go for a walk. It's hot."
+    },
+    {
+      "speaker": "SALVADOR MUNOZ, NEVADA VOTER",
+      "utterance": "I never dreamed that I would have to work two jobs to make 32.50 an hour, never."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "The 36-year-old is a single dad working two jobs, including the graveyard shift at a McDonald's. Today, he doesn't know how he will get to work."
+    },
+    {
+      "speaker": "MUNOZ",
+      "utterance": "I wasn't able to make it to my second job today because of gas prices. That one thing stopped me. I do still have my night shift coming up that I'm going to be going to work locally, that's only a mile away so even without the car I can make that."
+    },
+    {
+      "speaker": "HASNIE (on camera)",
+      "utterance": "What do you mean, without the car you can make that? You would walk?"
+    },
+    {
+      "speaker": "MUNOZ",
+      "utterance": "If I had to walk, yes, I could definitely do that."
+    },
+    {
+      "speaker": "UNKNOWN",
+      "utterance": "He's a really great little person."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "What do you think about when you put him to bed at night and go to your shift?"
+    },
+    {
+      "speaker": "MUNOZ",
+      "utterance": "Getting back to him in the morning."
+    },
+    {
+      "speaker": "HASNIE (voice-over)",
+      "utterance": "Nevada Democrats need voters like Salvador. They already have voters like Kevin Carter, a culinary worker at the MGM Grand and proud union member."
+    },
+    {
+      "speaker": "TANYA CARTER, NEVADA VOTER",
+      "utterance": "He paid $7 for toothpaste at a grocery store? Like, what just went up so drastically on toothpaste to produce it, to ship it, what?"
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "He and his wife Tanya don't blame Democrats for their problems, they blame corporate America."
+    },
+    {
+      "speaker": "KEVIN CARTER, NEVADA VOTER",
+      "utterance": "That's grocery stores doing that, gas stations. How does gas go up every day or every three or four days, 2 cents, 3 cents..."
+    },
+    {
+      "speaker": "T. CARTER",
+      "utterance": "Yes, 5 cents."
+    },
+    {
+      "speaker": "K. CARTER",
+      "utterance": "It's insane."
+    },
+    {
+      "speaker": "T. CARTER",
+      "utterance": "It's ridiculous."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "Nevada has become increasingly competitive... DONALD TRUMP, 45TH PRESIDENT OF THE UNITED STATES: Hello, Nevada."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "... often drawing in huge names during presidential campaigns. In midterms right now, it's a race to the middle with independent and unaffiliated voters becoming the majority. We tried to catch up with incumbent Democrat Congresswoman Susie Lee..."
+    },
+    {
+      "speaker": "REP. SUSIE LEE (D), NEVADA",
+      "utterance": "Nevada Democrats know how to win the tough fights."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "... who represents the Third to ask her about all of this."
+    },
+    {
+      "speaker": "AUTOMATED VOICE GREETING",
+      "utterance": "The mailbox is full and cannot accept any messages at this time. Goodbye."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "But we never could lock down an interview."
+    },
+    {
+      "speaker": "In a statement, though, Lee told us",
+      "utterance": "\"I'm fighting every day to bring costs down for our families and ensure that they thrive as our economy bounces back and we continue to recover.\""
+    },
+    {
+      "speaker": "RANDY HYNES (D), NEVADA CONGRESSIONAL CANDIDATE",
+      "utterance": "They're not making good decisions."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "We did, however, speak with her Democratic primary challenger, Randy Hines, who doesn't even want to call himself a Democrat."
+    },
+    {
+      "speaker": "HYNES",
+      "utterance": "The only thing that makes you a Democrat or makes you a Republican in this state is putting Democrat or Republican on your voter registration."
+    },
+    {
+      "speaker": "HASNIE (on camera)",
+      "utterance": "Really?"
+    },
+    {
+      "speaker": "HYNES",
+      "utterance": "Yes, that's it. That's what I did in order to be on -- be on the primary ballot."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "So what are you? What would you call yourself? How do you identify?"
+    },
+    {
+      "speaker": "HYNES",
+      "utterance": "I am a physical -- fiscal conservative, a little bit right of center, but I see all of the things that -- you know, all the social programs that we have already..."
+    },
+    {
+      "speaker": "HASNIE",
+      "utterance": "You would run as a centrist if you could?"
+    },
+    {
+      "speaker": "HYNES",
+      "utterance": "If I could. If I could."
+    },
+    {
+      "speaker": "MUNOZ",
+      "utterance": "Essentially make the costs come down for us a little bit."
+    },
+    {
+      "speaker": "HASNIE (voice-over)",
+      "utterance": "For Salvador, it's not about who's a Democrat or a Republican. It's about who can deliver."
+    },
+    {
+      "speaker": "MUNOZ",
+      "utterance": "I mean, what can they do? Spend more wisely so that we don't end up paying the price at the end of the day."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Aishah Hasnie reporting from Nevada. We are back now with the panel. Josh, that piece tells a big story. We have primaries in Nevada, Maine, North Dakota, South Carolina, a Texas special election, but Democrats are facing headwinds this election. You have this new poll out showing the president's job approval for everybody sits at 33 percent approve, disapprove 55 percent. But then you look at independents, this is the Quinnipiac poll, 25 percent approval for President Biden. That is not just a headwind, that's a gust."
+    },
+    {
+      "speaker": "KRAUSHAAR",
+      "utterance": "These are red wave numbers and any Democrat in a swing district, a swing state like Nevada has got to be watching their back. And look, if I had a white board here, I'd say Nevada, Nevada, Nevada is going to be the big bellwether in November. You've got a Senate race, a governor's race, three of the four Democratic numbers of congress in tough races that we heard on the segment by Aishah. It could be a sweep for Republicans in a state they haven't won, at least at the presidential level, since 2004. So there's a lot of headwinds the Democratic Party is facing, the economy is the biggest issue, a lot of Nevadans having trouble making ends meet."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Since the whiteboard was mentioned, you get a rebuttal."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "No rebuttal. There's a reason why the number is 33, and it goes back to something that Senator Coons said when he said this inflation is all on Putin. Inflation was running at 1.4 percent in January of 2021. It was running at 7.871 percent in February. And when Putin invaded Ukraine four days before the end of the month, it's now 8.582 percent in May. That means that 90 percent of the inflation that we have had since the time that Joe Biden took office occurred before Putin invaded Ukraine, 90 percent. And people feel that. They know that this is not Putin. They know this is bad decisions that were made in 2021 by this administration with the America Rescue Plan and too much spending."
+    },
+    {
+      "speaker": "I mean, I quote my favorite current Democrat economist, quote",
+      "utterance": "\"Over the last 75 years, every time inflation has exceeded 4 percent and unemployment has been below 5 percent, the U.S. economy has gone into recession within two years.\" Today inflation is north of 6 percent, when he wrote it, it's now north of 8.5. And unemployment is south of 4 percent, Larry Summers. And we've got a recession coming and it will be coming before the 2024 election in all likelihood."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Mara, FedEx founder and CEO Fred Smith told me that President Obama once told him that his approval ratings tracked opposite of gas prices, almost diametrically, I mean, just right there."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Inflation defeats presidents. And inflation is one of those things, I actually disagree with Karl, the American Rescue Plan might have contributed, but inflation is global. The reasons for it are about supply chains, a whole bunch of other things. But, the problem is that there are a lot of things that aren't the president's fault but they are his problem, and inflation, which is the single economic indicator that affects people the most every single day. So what if hiring is really on fire, they still have to fill their car up with gas and inflation is eating away all those wage gains that the White House likes to talk about. So it is a problem, there's very little the president can do. It's up to the Fed. Oftentimes when the Fed tightens we get a recession, 85 percent of Americans, I think, in the latest Quinnipiac poll said that they expect there's going to be a recession, so it's a real problem."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But to Karl's point, there were red flags and warning signs and flares going up from Larry Summers and others."
+    },
+    {
+      "speaker": "LIASSON",
+      "utterance": "Yes. There's no -- Larry Summers all along has said the American Rescue Plan was too big and was potentially inflationary, and the Fed maybe didn't do enough sooner."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Juan, besides the economy, the inflation, there are also issues like crime, and you have this recall in San Francisco of the district attorney, Chesa Boudin, getting recalled in San Francisco because of how he's dealing with crime. Similar to other places, you may see that in Los Angeles as well."
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "Well, I think crime, again, especially violent crime and guns are a huge issue right. We talk about inflation. We talk about abortion and the potential for anger over that decision. But I think there's a lot of frustration with the inability of the political class to do anything when you see children being slaughtered and people in the afternoon supermarket being slaughtered. And so right now there's a sense that there has to be some change, that people are looking for change. There's a lot of resentment out there. I think, you know, we've been talking about midterm politics. Well, you know, you look at -- you go back to, well, you know, go back even to Bill Clinton in '92. You go to -- you know, come forward, President Obama in '10, President Trump in '18. All of them lost big in midterms. That's the historical model. And I think the reason -- a lot of the reason for that is there's frustration, resentment in the direction of the country, and people are speaking out in frustration against the elected class, the party in power."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "But the question is, if they do lose, like if it was held tomorrow, it would be a big red wave, would they do like Bill Clinton did in '94 and change and kind of use some Republican policies to their own? Do you see that or do you still see progressives running the Democratic Party?"
+    },
+    {
+      "speaker": "WILLIAMS",
+      "utterance": "I think progressives right now are the energy. But let me just say, Joe Biden is a moderate, and he's the head of the party for now, even the people who may have skepticism about his future. He's the head of the party and he models sort of reasonableness, decency, empathy. And I think that that's the drive. But people on the Democratic side oftentimes want him to be more aggressive because they see the Republicans as the aggressors and Biden is not fighting back, saying that Mitch McConnell is his buddy."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "I see a \"we'll see\" look on your face."
+    },
+    {
+      "speaker": "ROVE",
+      "utterance": "No. The look is he has claimed to be a moderate but he has not governed as one. And he's not going to change after this election, no ifs, ands, or buts. He's going to go -- he's going to stay stuck where he is, which is unfortunate for him and unfortunate for the country."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Panel, thank you very much. We'll see you next Sunday. Up next, a final word on the week ahead and a special debate I'm moderating tomorrow between two of the nation's most well-known senators."
+    },
+    {
+      "speaker": "BAIER",
+      "utterance": "Well, it's called the Senate Project. It's a live Oxford-style debate. I'll moderate between senators Lindsey Graham and Bernie Sanders. Two different sides of the ideological spectrum where you can watch the debate tomorrow streaming live, 12:00 p.m. Eastern on Fox Nation. I'll bring you the highlights from the debate tomorrow night at 6:00 p.m. on \"Special Report\" from Boston. Hope you will join us. That's it for today. I'm Bret Baier. Make it a great week. And we'll see you next \"FOX News Sunday.\""
+    },
+    {
+      "speaker": "Copy",
+      "utterance": "Content and Programming Copyright 2022 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2022 VIQ Media Transcription, Inc. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of VIQ Media Transcription, Inc. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}

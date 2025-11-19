@@ -1,0 +1,1637 @@
+{
+  "date": "March 5, 2018",
+  "headline": "Rep. Devin Nunes on developments in the Russia probe",
+  "subHeadline": "Chairman of the House Intelligence Committee Devin Nunes wants to know what top ranking Obama officials knew about the anti-Trump dossier.",
+  "url": "https://www.foxnews.com/transcript/rep-devin-nunes-on-developments-in-the-russia-probe",
+  "isInterview": false,
+  "utterances": [
+    {
+      "speaker": "MARTHA MACCALLUM, FOX NEWS CHANNEL HOST",
+      "sentences": "Hello there, Shannon, good to see you tonight. Breaking tonight on THE STORY, the Chairman of the House Intelligence Committee, Devin Nunes, is about to us exclusively here what he has learned from James Clapper and John Brennan and company, about how they learned the back story of the dossier and who paid for it, when? All of those questions he asked in a Q and A for those answers to be submitted on Friday. They have been going through them today in his -- among his group and he will join us with that. Breaking news in just a moment, that as a blockbuster piece in the New Yorker says the Obama White House was basically frozen in their response when they learned of Russian meddling in the weeks before the election. The Nunes report may shed some light on the timing and truth of all that. As the man behind the Trump dossier, Christopher Steele, begins to speaks out in his own defense. Also, tonight, could there be a looming bombshell Mueller's investigation? That, according to a former Trump aide who is now refusing to comply with a subpoena from the special counsel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SAM NUNBURG, FORMER TRUMP AIDE",
+      "sentences": "They know something on him. And Jake, I don't know what it is.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "JAKE TAPPER, CNN HOST",
+      "sentences": "They know something on?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNBURG",
+      "sentences": "And perhaps I'm wrong, but he did something.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And it's only Monday, folks. Chief National Correspondent, Ed Henry, with the breaking news live tonight from the White House. Ed, what are you learning there? Good evening.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHANNEL CHIEF NATIONAL CORRESPONDENT",
+      "sentences": "Well, Martha, it's good to see you. And the point is that Christopher Steele wrote the dossier that helped trigger the entire special counsel investigation that has put Sam Nunburg and many other in the cross hairs. And now, the New Yorker report that, in fact, Steele turned over more information to Robert Mueller and his team that they're digging into. So, there may be all kinds of avenues we don't know about tonight that they're looking at, which begs various question about Steele and his dossier in this New Yorker piece.   The story reveals a few months after he signed on with Fusion GPS. He learned his work was being funded by the DNC and the Clinton Camp even though that infamous FISA application said he did not know who was paying for it. And another question is if Vladimir Putin was trying to impact the election, as you noted at the top, why didn't President Obama and his team stop him? Well, the article says of Steele, \"Liking it to the attack on Pearl Harbor, he thought President Obama needed to make a speech to alert the country. He also thought that Obama should privately warn Putin unless he stops meddling. The U.S. will retaliate with a cyberattack so devastating, it would shut Russia down.\" Yet the story notes, in August 2016, the U.S. Intel Community sent a bombshell warning to Obama that Putin was directly involved in the cyber campaign, and the president and his team were unsure how to respond and could not get bipartisan leaders in Congress to sign a joint letter warning Russia. Well, the New Yorker suggests part of the problem was complacency, that everyone from Fusion GPS Co-Founder, Glenn Simpson, to various Obama White House officials believed Hillary Clinton was going to win so there was not an urgency to stop Russia. But the story also adds a shocking detail about Obama and Vice President Joe Biden, that it was not until after the election, January 5th, 2017, that in a top secret oval office meeting, they were finally briefed about the Steele dossier which is either a spin to try to make it seem like they didn't know about the dossier during the campaign or it's a reminder of the failure of Former FBI Director James Comey and others to be transparent about the dossier's role, since, remember, he and other officials initially did not tell the FISA judge about the dossier before getting an authorization to spy on a former Trump advisor.   On that very point, the New Yorker Reporter, Jane Mayer reveals, she was one of the reporters who was briefed at the direction of Fusion GPS, in the summer of 2016, by Christopher Steele on an off-the-record basis. She says, it now seems very clear that these sessions were sanctioned by the Clinton Campaign and the DNC, but the reporters were not clear on that. So, transparency about who was paying for this dossier was never a fine point there, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Ed, thank you very much. Ed Henry, reporting from the White House tonight. Joining me now for an exclusive interview, House Intelligence Committee Chairman, Devin Nunes. Chairman, good to see you tonight. Thank you very much for being with us.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "REP. DEVIN NUNES (R-CA), CHAIRMAN OF THE HOUSE INTELLIGENCE COMMITTEE",
+      "sentences": "Great to be on. Thank you.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I want to start first with the question, very simple question and answers that you requested from James Clapper, the Director of National Intelligence; and John Brennan, the Head of the CIA at the time of the Obama administration before the changing of the guard at the White House. Did you get answers from them to the questions? And remind everybody what you wanted to know.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "So, what we did is, a couple of weeks, we've sent out to about a dozen people, we have another dozen people that are on the list who will probably end up being about two dozen folks that are going to get this questionnaire. The questionnaire really asks them simple questions. When did you know the Democrats paid for the dossier and who did you tell? There's ten questions in all, but that's the bottom line. Thankfully, we have received -- most of the people have responded, getting the information back to us promptly and on time. There a few people who have asked for an additional week which we went ahead and granted that time. There are few people, though, that are not responding; they seem to have went dark. However, if they did not respond, they will be getting a subpoena to appear before Congress to be treated with a deposition.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And did James -- did John Brennan and James Clapper respond to your questions?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "Yes, they did.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "And what were their responses about when they knew and what they knew?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "Well, one of the things is as we continue to do this, Martha, I hope you understand that we have to compile all of this, and we have to check it with their past testimony, we have to talk about it amongst our committee members. So, I'm not dodging the question, but I just don't think it would be appropriate to say anything other than the fact that they did cooperate, they did answer all the questions.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Let me ask you this, because you, of course, remember Trey Gowdy asking Brennan when he first learned about the dossier and who had paid for it? He said he didn't know who had paid for it. Is there anything in his response to you that contradicts that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "Well, I think the interesting thing just going back to public statements that were made about that is that John Brennan recently let out that he had heard, from folks in the press, questions about the dossier. Anything further than that, we're going to have to wait until we have the - - until the appropriate time to talk about what the answers are.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. Just to go to this New Yorker piece which is extensive by Jane Mayer. And in the story, it says that President Obama was sent a 'intelligence bombshell by the CIA in August', and that would be John Brennan, saying that the Russians and Putin himself are directly involved in a cyber campaign against our elections. You know, so where was -- what was the crux of that information because it says that it came from the head of the U.K. Intelligence Arm, Robert Hannigan, and then it included a stream of elicit communications between the Trump team and Moscow that they had intercepted. We still haven't seen the information that was in any of that, have we?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "No, and I would also -- I would also make sure your viewers know that the New Yorker is known as left-wing magazine. They've gotten a lot of things wrong. They refused to make retractions when they do get things wrong. The main take away that I would take from this is, is that, that, you know, stating the obvious that the Russians are trying to interfere with our elections, that were -- that was myself and Republicans who warned of that way before the election. So -- we knew the Russians, what they were up to, but this is nothing new. And that's why people are going a little bit overboard with this, and they're taking things totally out of context. The Russians had an operation against us, but they've always had an operation against the United States of America -- going back from many, many years and many elections. So, the one thing that I took from the New Yorker piece today, and I haven't gotten through the whole thing because it's so long, and you have to kind of wind your way through it, so to speak. But I just think this is just more evidence about how dirty this dossier is. So, my guess is -- is this is a rehabilitation project to rehabilitate Christopher Steele who we know was supposedly working with Russians to get information.  And this is what continues to perplex me: we know exactly who was getting information from the Russians. It was the Hillary Clinton Campaign that -- they were getting information from the Russians, dirt on Trump to use in a campaign. That's the very thing that for a year and a half, we've been trying to investigate on whether the Trump Campaign was trying to get dirt against Hillary Clinton on the Russia -- from the Russians.  We have no evidence of that. But yet here we have another example, even if the story is not, you know, completely accurate. We know that the Democrats were trying to get information from Russians to use against the Trump campaign.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, in terms of the spreading of the information that was in the dossier, there's a discussion about a meeting in the summer that Steele had with a number of national security reporters. And the author of this piece said, \"Yes, I was among them\". So, he's out there. He's been paid by, you know, through Coy Perkins, by the DNC and the Hillary Clinton Campaign. But so, he is out there spreading this information to these reporters, and John Brennan is not aware of who paid for the dossier at that point? Because he says, he learned about it in press circles.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "Yes, right, he did say that early on. But I think this is, this is just more of an example of how outrageous the press coverage of this has become, right? So, many people in the press, not just this writer that wrote this piece today, many writers were briefed by Christopher Steele, many of them have the dossier way before the election.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "The dossier, on the face of it is ridiculous. I mean, this is something that said that they were going to give some guy -- Carter Page was going to get 20 percent of Gazprom, which will be billions and billions of dollars. If the FBI really believes that, we've got a bigger problem in the FBI with just basic credibility.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. Let me ask you this because Sam Nunburg, I'm sure you've seen the headlines today, and we're going to talk about this one in just a moment. He says, yes, he's sure, actually, that Carter Page was engaging in some kind of relationship with the Russians, some kind of collusion with the Russians. Your thoughts on that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "Well, this is the first time I heard of that. It sounds a little wild to me. I don't think there's any -- Carter Page will tell you himself that he was talking to Russians; he's a Putin apologist. We don't -- we don't agree with anything that Carter Page believes, at least Republicans and the House don't. We've long been on the record about making any apologies for Putin. We know that Putin is up to bad things, and we know that Carter Page is an apologist for Putin. But I don't know that there's anything earth-shattering there.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. Before I let you go, the discussion today that there's $120 million that's supposed to be spent on making sure that the Russians can't be deeply involved in the midterm elections and elections going forward that that money hasn't been spent. The accusation that the Trump Administration is not taking this whole thing seriously when it comes to elections going forward. What do you say to that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "Well, I'll say two things. One, there were millions and millions of dollars that went unspent by our intelligence agencies during the Obama administration, even as they were being warned by myself and others back in 2014, 15, 16. Unspent. So, this coming out of the State Department, about money, I mean, I don't know. Look, if you're going to go against the Russians, against a foreign adversary, the first thing you do is don't talk about it.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. I mean, if you are concerned that they weren't spending the money then, are you concerned that they're not spending the money now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "Well, I know -- I know for a fact that our intelligence agencies, at least, what we control, they are spending the money.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "OK. Good to see you tonight, chairman. And as you continue to go through that information, I get your questions and answers back. I hope you'll join us again and about it some more.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNES",
+      "sentences": "Thank you, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Thank you. Good to see you tonight. So, coming up next, new reports tonight that the Mueller investigation is looking into Trump ties for possible influence from the UAE, but there's still no investigation into Clinton Foundation influence from other countries. So, that raises a few questions. And it comes, as this ousted Trump campaign aide says that he will not obey a grand jury's subpoena. Have you seen all this today? Listen.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNBURG",
+      "sentences": "Granted Donald Trump caused this because he's an idiot.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Kat Pierson, Former Spokesperson for President Trump's 2016 Campaign, and Judge Andrew Napolitano join us on that next. Plus, why the father of one of the 17 victims of the Parkland shooting says gun control is not the answer. It is not what he wants talk about now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "We got to airport, I can't get on the plane with a bottle of water, but we leave it -- some animal to walk into a school and shoot our children.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Breaking tonight, several big new developments, including about the special counsel's investigation into Russia. Sam Nunburg, a fired former Trump campaign aide, and you will learn why shortly, saying that he will defy a grand jury subpoena and refuse to testify. It comes as Mueller's so-called hit list is revealed, which includes President Trump and nine former employees. And there are new reports that the probe is exploring whether other countries besides Russia managed to get influence inside the Trump presidential campaign. Trace Gallagher, live in our West Coast Newsroom with the story tonight. Hi, Trace.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS CHANNEL HOST",
+      "sentences": "Hi, Martha, during a series of interviews today, Former Trump Aide, Sam Nunburg, was adamant about two things. One, he does not like President Trump, at one point saying he hates the man, and two, that he will not comply with Robert Mueller grand jury subpoena, even taunting Mueller to arrest him. But when it comes to possible Russian collusion, Nunburg's assessment tends to fluctuate. Here's what he said today. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNBURG",
+      "sentences": "When I get a subpoena like this, what I do is, right, it's a witch-hunt. I mean, Mr. Trump's right, the president is right, it's a witch hunt. And I'm not going to cooperate.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "But last month, Sam Nunberg spent five hours talking with Robert Mueller's investigators, and today when he was asked about that questioning, Nunburg made an about face saying he thinks Mueller may have something on the president. Here's the White House response to that comment.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "SARAH HUCKABEE SANDERS, WHITE HOUSE PRESS SECRETARY",
+      "sentences": "As we've said many times before, there was no collusion with the Trump campaign. Anything further on what his actions are, he hasn't worked at the White House. So, I certainly can't speak to him or the lack of knowledge that he clearly has.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "GALLAGHER",
+      "sentences": "Late last year, Trump Attorney Ty Cobb said the Mueller probe would wrap up early this year, that would be a long shot considering the scope of the investigation now includes information about numerous Trump associates, including Hope Hicks, Steve Bannon, Corey Lewandowski, and Roger Stone among others. Investigators want e-mails, text messages, phone logs, and other communications dating back to November of 2015.  Today, Roger Stone said, 'He would expect that Mueller's team would at some point ask for documents or emails sent or written by me, but let me reiterate, I have no involvement in Russian collusion or any other inappropriate act.' And the investigation may also be widening beyond Russian election interference. The New York Times is reporting that Mueller's team has interviewed Lebanese-America businessman, George Nader, who was a frequent White House visitor last year, and an advisor to Abu Dhabi Crown Prince, Mohammed bin Zayed. The Times says, the focus appears to be possible UAE efforts to buy political influence with the Trump administration. The White House has not yet commented. Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Trace, thank you very much. Here now Katrina Pierson, Former National Spokesperson for Trump's 2016 Presidential Campaign and now Spokesperson for the America First Action Pack. Kat, good to see you tonight. KATRINA PIERSON, FORMER NATIONAL SPOKESPERSON FOR TRUMP'S 2016 PRESIDENTIAL CAMPAIGN AND SPOKESPERSON FOR THE AMERICA FIRST ACTION PACK: Glad to be here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Do you see all of those pictures flashed across the screen of the people that you worked side by side with during the course of this campaign, and today these explosive and, you know, at times vial assessments by Sam Nunburg. What did you make of what you heard from him today?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIERSON",
+      "sentences": "Well, you know, Martha, A disgruntled employee acts like disgruntled employee. You know, Sam was fired from the campaign in the fall of 2015, and he's really never recovered from that. But I do understand his frustration. When I look at my other colleagues having to deal with such nonsense of this witch-hunt because that's exactly what it is. We are no longer even talking about collusion with Russia at this point. Trace just mentioned in his reporting, we're talking about so many other things that are just out there. The investigation is continuing to broaden its scope. They just need to admit there was no Russia collusion, and then try to get on with the day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "It doesn't look like that's going to happen anytime soon. Today, Sam Nunburg said that he thought that it was possible that the president had done something bad during the course of the campaign. What's your reaction to that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIERSON",
+      "sentences": "Well, I don't really have a reaction to that. I think that part of the reason why this continues to go on particularly in the left-leaning media, because I want people to think there's something. They keep saying if there's indictments, there must be something there and that's simply not true. There is no Russia collusion. These individuals that have been swept up in this investigation are just casualties from a war of a swamp that simply doesn't want to be drained.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Why was Sam Nunburg fired from the campaign?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIERSON",
+      "sentences": "Well, he had made a series of comments on social media that were considered extreme and even racist to a point. The president actually -- Mr. Trump actually fired him when he used to work for him outside of the campaign. So, this is not unusual behavior from Sam but I will say that I do understand his frustration. To spend that time, energy, effort, and money because he's going to have to hire a lawyer to deal with this type of this of thing is simply uncalled for. And all of these individuals are wrapped up into this, Martha, just because they took the job.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. Here's a sound bite from him today, and I want to just get your thoughts on this, Kat. Let's put it up.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNBURG",
+      "sentences": "Carter Page? Never met the guy in my life. I never met him.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "sentences": "Do you think Carter Page as criminal exposure?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNBURG",
+      "sentences": "I think Carter Page colluded with the Russians. And I've told you that before. I told you that privately, I think he colluded with the Russians.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Kat, what's your reaction to that?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIERSON",
+      "sentences": "He's never met him before but he's sure he colluded. You know, this is another reason that we know there was no collusion, Martha, because they keep trying to associate Carter Page with the campaign. He was never an employee of the campaign, he volunteered to sit on a board and didn't even show up to the meeting. But I'll also say that why is Carter Page still walking around if he was the key to all of this, if he was purpose for the FISA warrant, if he was the guy that colluded with the Russians?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You can find him just about anywhere.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIERSON",
+      "sentences": "Why is he still walking around?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "He's been everywhere. No, they're not even looking at him anymore. Kat, thank you very much. Good to have you here tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "PIERSON",
+      "sentences": "Glad to be here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, here now, Judge Andrew Napolitano, Fox News Senior Judicial Analyst. Judge, first of all, Mr. Nunburg -- I mean, what a performance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANDREW NAPOLITANO, FOX NEWS SENIOR JUDICIAL ANALYST",
+      "sentences": "What a performance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All over every cable channel today except this one. Does he have any credibility, first of all?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "sentences": "Well, he is diminishing his credibility. This is a lawyer, this is a licensed lawyer in the state of New York publicly announcing he's going to defy a grand jury subpoena. The procedure will be for them to bring him before the judge who is supervising the grand jury and the judge will say, hey, you're a lawyer, you have to explain. You have no choice but to show up and answer questions, you have privilege? Claim privilege, but you haven't told us you're going to claim any privilege. And if he then refuses, I do believe he will incarcerated.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right. Here's another sound bite from him. I want to get your thoughts on this judge. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNBURG",
+      "sentences": "But they did tell me was, I wasn't going to be a subject or target, that I wasn't going to get the same kind of immunity. But they wanted something. Now, Ari, let me just say something.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ARI MELBER, MSNBC HOST",
+      "sentences": "They offered you immunity?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NUNBURG",
+      "sentences": "Yes.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "This is the first I've heard, although you told before we began the show that you are going to run a tape of him saying \"they offered me immunity\". Immunity can be given against the will of the immunized person, which then forces you to testify. You have no privileges, you have no rights not to testify. Again, as a lawyer, I can only assume that he knows that. What is striking me as interesting and fascinating is that late last month, Bob Mueller, his team, including prosecutors and FBI agents, interrogated Sam Nunburg for 5-1/2 hours. Then, late last week, whatever he told them, they decided they wanted to tell a grand jury. So, he willingly spoke to him on his own. There's no compulsion to go to the interview. He went on his own. Now, he doesn't want to regurgitate the same materials to the grand jury but --",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Well, he said he's tired of spending his money, tired of hiring lawyers to go through all of this stuff. He thinks it's a witch-hunt, as he said. It looks like they're trying to corroborate what they've heard from other witnesses, because they now want all of these e-mails, any text messages that maybe they couldn't already find. We'll assume they have most of this stuff. A lot of this has been turned over to them. What does it tell you on the whole, judge, about where this investigation is right now?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "sentences": "It is not going to be over soon. Bob Mueller is not only not winding down, he's gearing up. And I think more indictments should be expected. What's interesting is the list of people who are not on that list have of, of who he wanted e-mails from, he already has them. Jared Kushner, Ivanka Trump, General Flynn, he already has them -- Nunburg himself, he already has those e-mails and he knows how to utilize them.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "What about this UAE part of the story, quickly, if you can. We'll get more into it on another day.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "sentences": "I think it's very serious. But I can't -- again, it came out of the blue. I suspect came from Rick Gates, who's now providing a treasure trove of information. That's like, co-indicted with Paul Manafort pleaded guilty now becoming Bob Mueller's bet witness.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Judge Napolitano, always good to see you, sir. Thank you for being here.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "sentences": "A pleasure, of course.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So, coming up next, a strong show of force today as Trump welcomes Israeli Prime Minister, Benjamin Netanyahu, to the White House. His message for America, after the break.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BENJAMIN NENTANYAHU, PRIME MINISTER OF ISRAEL",
+      "sentences": "If I had to say what is our greatest challenge in the Middle East, to both our countries, to our Arab neighbors, it's incapsulated in one word -- Iran.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "Iran has not given up its nuclear ambitions. It is -- it came out of this nuclear deal emboldens and enriched. It's practicing aggression. We were including on our own borders. And I think we have to stop this country that chants death to Israel, death to America. Iran must be stopped.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That was Israeli Prime Minister, Benjamin Netanyahu, earlier today at the White House, directly calling out Iran for not holding up its end of the nuclear deal. It comes as President Trump has threatened to pull out of that 2015 deal. He's been saying that since the campaign, as the country continues to test missiles. Joining me now, Tammy Bruce, Washington Times columnist, and Mo Elleithee, executive director of the Georgetown Institute of Politics and Public Service, both are Fox News contributors. Good to see both of you tonight. Obviously, this is one of the most important relationships that the United States has. It has improved greatly over the course of the Trump administration. But Tammy, the amount of firepower that is required with the Iran question of all fronts is what Benjamin Netanyahu was clearly pressing the president for today.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TAMMY BRUCE, FOX NEWS CONTRIBUTORS",
+      "sentences": "Yeah. And this is also though a very important statement overall for the messaging internationally that the United States is standing very strongly with Israel. There's no question here at this stage. Obviously, the moving of the embassy to Jerusalem is another statement that we're going to even go further than we have in the past. So this is a message after Barack Obama whose message was the opposite to our enemies and our friends was whether or not we would stick with our friends and really backed them up. Here we're saying so and being particularly aggressive with Israel, so that can't be denied. Also, the discussion that the president may go to Israel for the opening of the embassy would be a remarkable statement. But especially since the armed drone development out of Iran which we believe may have come from when they had shot down one of our drones, of course, to use in Israel and against Israel. The bombing then of the side in Syria by Israel, the shooting down of one of their jets. You know, they've been at war with Syria, technically. They've only been under a cease fire, I think, since 1967. So this is really still the world preparing for, certainly the Middle East preparing. And the United States is saying we're going to be there for our friend Israel.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Here's a quote from the Iranian armed forces, Iran's missile program will continue, non-stop, and foreign powers have no right to intervene on this issue. That's coming from the news agency in Iran. Mo, your thoughts?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MO ELLEITHEE, FOX NEWS CONTRIBUTOR",
+      "sentences": "You know, that I think is a kind of bluster you expect and acknowledge from the Iranian government. The reality is, however, they actually have by most indicators held true to the terms of the Iran deal. Look, I think today is, kind of, important day for both the prime minister and the president. Both are facing increased challenges at home. The prime minister facing legal challenges back in Israel. The president, obviously, with a lot of stuff we've been talking about here tonight, problems here at home. So this is a good opportunity for them both to try to focus attention elsewhere in a show of strength and a show of mutual force. The challenge will be, one, that a lot of the rest of the world isn't there with them. The world's largest, biggest atomic watchdog agency today urged the United States not to back out of this Iran deal because it will have devastating consequences. And secondly, the president hasn't really laid out a broader Middle East strategy, and the person he task in doing so just lost his security clearance.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "All right.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ELLEITHEE",
+      "sentences": "So there's going to be -- this is all fought in peril right now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I want to ask you about trade because I've got only a couple of minutes left. And I want to play this from the president because, obviously, he's gotten a lot of push back on this. The market rebounded today. But here's what he had to say.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "sentences": "No, we're not backing down.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "TRUMP",
+      "sentences": "I don't think so. I don't think you're going to have a trade war.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So the markets like that statement, but the president said, you know, we're not going to open individual negotiations. But he did mention that with NAFTA, discussions reopening with Canada and Mexico. Here's an opening for them. I mean, this is classic President Trump negotiating tactics, Tammy.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "BRUCE",
+      "sentences": "It is. But he said specifically on twitter that the tariffs effectively would come off if we did a good deal with NAFTA. Stating, effectively, this point literary that I've been saying this in order to get, you know, some good maneuvering here. But still the issue though is not just Canada and Mexico. It really is about China. We want to be able to be friends with our friends, but then deal with the nature of what's happening out of China. And he could have both. And we're going to see another tremendous negotiation in this regard.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "The status quo had not worked well, and we have $800 billion trade deficit. And he, clearly, does not want to live in that world right now.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ELLEITHEE",
+      "sentences": "He talks about our, quote, unquote, trade deficit with Canada. We actually have a trade surplus with Canada according to his own trade representative. But look, right now, we run the risk of our allies imposing retaliatory measures, targeting U.S. agricultural industry, targeting and -- if we impose these tariffs on steel, steel consumers are going to be the hardest hit. In the past, they have had to lay people off when these types of tariffs go through and raise prices. That is not good for anybody.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Individuals have been targeted in the past, that why he wants to do, I think, this blanket statement at least at the outset. We got to leave it there though, guys. Thank you so much. Good to see you both tonight.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ELLEITHEE",
+      "sentences": "Thanks.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "So still to come, a moving tribute to our armed forces, but Oscar audience has, pretty much, no reaction. And the father of Meadow Pollack, one of the 17 victims of the Parkland shooting joins me with his message, next. Some big news out of the Florida senate tonight, the powerful message for lawmakers there and he says he's not stopping there. He is going all the way to the Pacific Ocean with what he wants to change in America.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "The Department of Education that I walked in today, that has a security guard in the elevator, how do you think that makes me feel?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Developing tonight, the Florida state senate had just passed landmark gun legislation in the wake of the Parkland school shooting. This bill raises the minimum age to 21 for a rifle. It pours millions into making school safer and into mental health programs. It gives districts the option to arm certain personnel. It stops short of arming classroom teachers. My next guest says he will not stop until this bill is sign. His 18-year-old daughter, Meadow, was killed in the Parkland shooting. And he has been fighting for change every minute of every day since then. Since he took his message and you all remember seeing him days after at the White House. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "I'm very angry that this happened because it keeps happening, 9/11 happened once, and they fixed everything. How many schools, how many children have to get shot? It stops here with this administration and me. I'm not going to sleep until it's fixed.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Andrew Pollack joins me now. Andrew, good evening. And I think you have stuck to that. I can't imagine when you sleep, sir. I see you out there day in and day out. I think so many parents look at you and they wonder how you are doing this. You just lost your beautiful daughter. And we're going to put a picture of her up, 18-year-old Meadow. How are you managing to find the strength to do what you're doing when you must be so devastated, sir?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "ANDREW POLLACK, DAUGHTER KILLED IN FLORIDA SHOOTING",
+      "sentences": "I could tell you it's easy because what happens is -- it's hard to explain it because I hope no one has to feel what I have to feel. But when someone murders your kid, shoots them nine times, it kind of empowers you. And my blood boils and that's the energy that drives me every day. That's my empowering to keep me focused on what I need to do to spread this awareness of school safety.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I think that your voice, sir, you got the attention of so many people when you stood up at the White House. You talked about 911. You talked about the fact that in the elevator at the Department of Education there was a person there with a gun, a security guard protecting you. And you said, imagine how that makes me feel. You want our schools to be hardened in the same way, right?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLACK",
+      "sentences": "Correct. And I want everyone out there that wants to help me on my crusade, they could go to remembermeadow.com. And there's strength in numbers. So you're going to help me after I finish this -- the next vote is going to be, I think, on Wednesday in the house in Florida, and that's very important to make sure that the safety bill gets passed. And there's a lot of good things in that bill.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "When you talk about -- you get -- upset when people start talking about gun control, because you firmly believe that that is not a winning route in terms of achieving your goal, correct?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLACK",
+      "sentences": "Well, I -- it just takes -- you just look at history. There's been over 200 school shootings, Martha. And every focus on -- right after the shooting is gun control, the media focuses on gun control. And it doesn't work. That's a big issue. So my issue is, let's change it this time. My daughter was murdered and I'm going to do something different than no other parent ever done. I'm going to focus on what I could do can and what we could do as a nation and what we could do without -- without being in any political party is to take care of our kids because that's easy. That's easy out there. Let's just get together and fix our schools.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Do you believe that this time is different. I know you do personally. And you want to build momentum across the country. You know, I would love to see us get through one year without a school shooting. Just as a starting point in all of this. Do you think that's possible, Andrew?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLACK",
+      "sentences": "I don't think -- you know what I mean -- you can't -- why think? What we should do? We need to act. We need to be proactive. It's like, are we going to leave a courthouse open for someone who just walked in? Should we take a chance there? Should we take a chance of if we go to a Dolphin game? OK, this time we're going to see if people could walk in with no metal detectors. There's metal detectors at coliseums. There's metal detectors into Federal building. That has to be the new norm. That's what we need. We owe it to our kids to do that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "But I'm saying, do you think that you could get that leverage? Do you think you can pass this vote in Florida? And you think you could start adding state after state after state as you try to move this movement forward?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLACK",
+      "sentences": "Let me tell you what I got going on the next two days.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLACK",
+      "sentences": "The next two days I'm going to be in the capital when the house is going to be voting. So all of my friend and everyone that knows me they -- they know I'm going to be on the floor talking with the people that are going to be voting. So I'm pretty confident that I'm going to be able to get this bill passed. If it doesn't pass, then no one could have got it done, because I'm going down there with all of the energy and I got this lion inside of me, so they're going to have to face me at the capital tomorrow and Wednesday, and I want to know why they don't want our kids safe if they this bill. I want to know. You tell me when I'm in the capital tomorrow. And tell me -- and all these other kids that go to school that are worried someone is going to walk through the hallway. How could you not vote for this bill?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Andrew Pollack, we will be watching and we will be supporting. And we thank you very much for making time for us tonight. And we want to get your word out along with your help. Thank you sir, thank you so much.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLACK",
+      "sentences": "Thanks, Martha.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You take care.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "POLLACK",
+      "sentences": "Anytime.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "we'll be in touch. We'll take a quick break here, and we'll be right back with more of The Story.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Hollywood's biggest night last night, making some headlines for kind of the wrong reasons. Native-American actor, Wes Studi, this was an interesting moment. He took the stage to honor our troops, and as he spoke about his own military service, it appeared that he kind of left the crowd a bit uncomfortable.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "I volunteered to go to Vietnam. Now, I'm proud to have served there for 12 months with alpha company, third of the 39 infantry.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "Anyone else?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Watch what happens after the Oscar showed a highlight reel of some of the best military blockbusters. Watch.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "I'm going to get you home.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "sentences": "When you found me, I was here. And I was with the only brothers that I have left.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I thought it was a really nice moment. There was not a lot of jumping up on your feet and standing ovation like we saw for many of the other strong moments in the awards ceremony last night. Kayleigh McEnany is a Republican National Committee spokesperson, Richard Fowler is nationally syndicated radio talk show host and a Fox News contributor. I actually watched the Oscars beginning to end for the first time in a long time last night. I thought that they were trying, you know. And I thought with that moment they were kind of trying to reach out to the military members, and I thought that was a very striking moment, Richard, when he said anybody else? You know, I thought that would have been a great moment for everyone to get on their feet and applaud him and applaud his service.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "RICHARD FOWLER, FOX NEWS CONTRIBUTOR",
+      "sentences": "I completely agree with you. I think it's sad that they didn't.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Why not? Why is that hard?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FOWLER",
+      "sentences": "Like my mom would say, you know, sometimes a broke clock is wrong sometimes. And I think this is exactly one of those examples. But I think there's a larger story here. If you think about the people who put on the Oscars, the fact they had this individual be the presenter and talk about military service, and the fact that he is one of the few indigenous people to ever grace the Oscar stage, speaks to the fact that, you know, veterans comes from all walks of lives and they all serve our country, and they deserve our respect, and they deserve our admiration.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "I just see him as an American, an American member of the United States military. I would imagine that that's primarily how he sees himself.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FOWLER",
+      "sentences": "I agree.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "There's a great history -- Jimmy Stewart was a fighter pilot. There was a great history of military involvement among people in Hollywood that they should be very, very proud of.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FOWLER",
+      "sentences": "I agree. I think -- he actually spoke in Cherokee at the end of the presentation to shout out his indigenous people history. I think that was powerful.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Kayleigh, what did you think about that moment?",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "KAYLEIGH MCENANY, RNC SPOKESPERSON",
+      "sentences": "Yeah. And Hollywood could barely applaud that. You saw this hesitation to applaud. You could almost picture someone in the audience with a cue card saying, now you're supposed to clap, because they did so so hesitantly. But Martha, this just shows that Hollywood is entirely divorced from the heartland. This is why the Oscars got the lowest ratings they ever had in history last night. Why the Grammys have a low rating. It's why the Golden Globes do. It's why the Super Bowl did. You know, these Hollywood elites, they dress up, they give each other awards, self-congratulatory pat at the back, and they can't even stand for the men and women who fought, bled and died to give them that opportunity.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "You know, I also thought there was another weird moment. Did you guys see the moment when they went with the hot dog shooting machine and the candy? So they all traipse over in their tuxedos and in their gowns over to the other part of the theater where the real people are watching. And they get all excited that the celebrities are walking in. They started shooting hot dogs at them. Remember that moment, Richard, when everyone criticized President Trump because he was throwing the paper towels out.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FOWLER",
+      "sentences": "Oh, no, I know that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That's what it looks like.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "FOWLER",
+      "sentences": "Here's the thing, the Oscars has always been problematic. Remember there was a hashtag started a couple of years ago by a colleague of mine, April Reign, and she said the Oscars are so white. So the Oscars have always been problematic, right? So I'm not going to sit here and defend bad behavior, and the Oscars is known for that.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Kayleigh, final thoughts.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MCENANY",
+      "sentences": "They have to contrite being relatable. It's actually quite hilarious, you know, shooting out the hot dogs into the crowd, and thinking this is what the everyday American wants to see and relate to. It's just completely off base. They clap for the greatest showmen and their cast, but they can't clap for our heroes and our military men and women who deserve to be stood for.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "Yeah. It's like people are going to be grateful that somebody threw some starburst at them in a long gown. Thanks you guys. Richard, Kayleigh, good to see you both. Quick break, more of The Story when we come right back.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MACCALLUM",
+      "sentences": "That is our story for tonight. Thanks for being here everybody. We will see you back here tomorrow night at 7:00. Don't go away, Tucker Carlson in Washington, D.C., is up next. Copy: Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content.",
+      "timeStamp": "",
+      "isLastSentenceInterrupted": false,
+      "isQuestion": false,
+      "isAnswer": false
+    },
+    {
+      "speaker": "MARTHA MACCALLUM, FOX NEWS CHANNEL HOST",
+      "utterance": "Hello there, Shannon, good to see you tonight. Breaking tonight on THE STORY, the Chairman of the House Intelligence Committee, Devin Nunes, is about to us exclusively here what he has learned from James Clapper and John Brennan and company, about how they learned the back story of the dossier and who paid for it, when? All of those questions he asked in a Q and A for those answers to be submitted on Friday. They have been going through them today in his -- among his group and he will join us with that. Breaking news in just a moment, that as a blockbuster piece in the New Yorker says the Obama White House was basically frozen in their response when they learned of Russian meddling in the weeks before the election. The Nunes report may shed some light on the timing and truth of all that. As the man behind the Trump dossier, Christopher Steele, begins to speaks out in his own defense. Also, tonight, could there be a looming bombshell Mueller's investigation? That, according to a former Trump aide who is now refusing to comply with a subpoena from the special counsel."
+    },
+    {
+      "speaker": "SAM NUNBURG, FORMER TRUMP AIDE",
+      "utterance": "They know something on him. And Jake, I don't know what it is."
+    },
+    {
+      "speaker": "JAKE TAPPER, CNN HOST",
+      "utterance": "They know something on?"
+    },
+    {
+      "speaker": "NUNBURG",
+      "utterance": "And perhaps I'm wrong, but he did something."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And it's only Monday, folks. Chief National Correspondent, Ed Henry, with the breaking news live tonight from the White House. Ed, what are you learning there? Good evening."
+    },
+    {
+      "speaker": "ED HENRY, FOX NEWS CHANNEL CHIEF NATIONAL CORRESPONDENT",
+      "utterance": "Well, Martha, it's good to see you. And the point is that Christopher Steele wrote the dossier that helped trigger the entire special counsel investigation that has put Sam Nunburg and many other in the cross hairs. And now, the New Yorker report that, in fact, Steele turned over more information to Robert Mueller and his team that they're digging into. So, there may be all kinds of avenues we don't know about tonight that they're looking at, which begs various question about Steele and his dossier in this New Yorker piece. The story reveals a few months after he signed on with Fusion GPS. He learned his work was being funded by the DNC and the Clinton Camp even though that infamous FISA application said he did not know who was paying for it. And another question is if Vladimir Putin was trying to impact the election, as you noted at the top, why didn't President Obama and his team stop him? Well, the article says of Steele, \"Liking it to the attack on Pearl Harbor, he thought President Obama needed to make a speech to alert the country. He also thought that Obama should privately warn Putin unless he stops meddling. The U.S. will retaliate with a cyberattack so devastating, it would shut Russia down.\" Yet the story notes, in August 2016, the U.S. Intel Community sent a bombshell warning to Obama that Putin was directly involved in the cyber campaign, and the president and his team were unsure how to respond and could not get bipartisan leaders in Congress to sign a joint letter warning Russia. Well, the New Yorker suggests part of the problem was complacency, that everyone from Fusion GPS Co-Founder, Glenn Simpson, to various Obama White House officials believed Hillary Clinton was going to win so there was not an urgency to stop Russia. But the story also adds a shocking detail about Obama and Vice President Joe Biden, that it was not until after the election, January 5th, 2017, that in a top secret oval office meeting, they were finally briefed about the Steele dossier which is either a spin to try to make it seem like they didn't know about the dossier during the campaign or it's a reminder of the failure of Former FBI Director James Comey and others to be transparent about the dossier's role, since, remember, he and other officials initially did not tell the FISA judge about the dossier before getting an authorization to spy on a former Trump advisor. On that very point, the New Yorker Reporter, Jane Mayer reveals, she was one of the reporters who was briefed at the direction of Fusion GPS, in the summer of 2016, by Christopher Steele on an off-the-record basis. She says, it now seems very clear that these sessions were sanctioned by the Clinton Campaign and the DNC, but the reporters were not clear on that. So, transparency about who was paying for this dossier was never a fine point there, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Ed, thank you very much. Ed Henry, reporting from the White House tonight. Joining me now for an exclusive interview, House Intelligence Committee Chairman, Devin Nunes. Chairman, good to see you tonight. Thank you very much for being with us."
+    },
+    {
+      "speaker": "REP. DEVIN NUNES (R-CA), CHAIRMAN OF THE HOUSE INTELLIGENCE COMMITTEE",
+      "utterance": "Great to be on. Thank you."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I want to start first with the question, very simple question and answers that you requested from James Clapper, the Director of National Intelligence; and John Brennan, the Head of the CIA at the time of the Obama administration before the changing of the guard at the White House. Did you get answers from them to the questions? And remind everybody what you wanted to know."
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "So, what we did is, a couple of weeks, we've sent out to about a dozen people, we have another dozen people that are on the list who will probably end up being about two dozen folks that are going to get this questionnaire. The questionnaire really asks them simple questions. When did you know the Democrats paid for the dossier and who did you tell? There's ten questions in all, but that's the bottom line. Thankfully, we have received -- most of the people have responded, getting the information back to us promptly and on time. There a few people who have asked for an additional week which we went ahead and granted that time. There are few people, though, that are not responding; they seem to have went dark. However, if they did not respond, they will be getting a subpoena to appear before Congress to be treated with a deposition."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And did James -- did John Brennan and James Clapper respond to your questions?"
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "Yes, they did."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "And what were their responses about when they knew and what they knew?"
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "Well, one of the things is as we continue to do this, Martha, I hope you understand that we have to compile all of this, and we have to check it with their past testimony, we have to talk about it amongst our committee members. So, I'm not dodging the question, but I just don't think it would be appropriate to say anything other than the fact that they did cooperate, they did answer all the questions."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Let me ask you this, because you, of course, remember Trey Gowdy asking Brennan when he first learned about the dossier and who had paid for it? He said he didn't know who had paid for it. Is there anything in his response to you that contradicts that?"
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "Well, I think the interesting thing just going back to public statements that were made about that is that John Brennan recently let out that he had heard, from folks in the press, questions about the dossier. Anything further than that, we're going to have to wait until we have the - - until the appropriate time to talk about what the answers are."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. Just to go to this New Yorker piece which is extensive by Jane Mayer. And in the story, it says that President Obama was sent a 'intelligence bombshell by the CIA in August', and that would be John Brennan, saying that the Russians and Putin himself are directly involved in a cyber campaign against our elections. You know, so where was -- what was the crux of that information because it says that it came from the head of the U.K. Intelligence Arm, Robert Hannigan, and then it included a stream of elicit communications between the Trump team and Moscow that they had intercepted. We still haven't seen the information that was in any of that, have we?"
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "No, and I would also -- I would also make sure your viewers know that the New Yorker is known as left-wing magazine. They've gotten a lot of things wrong. They refused to make retractions when they do get things wrong. The main take away that I would take from this is, is that, that, you know, stating the obvious that the Russians are trying to interfere with our elections, that were -- that was myself and Republicans who warned of that way before the election. So -- we knew the Russians, what they were up to, but this is nothing new. And that's why people are going a little bit overboard with this, and they're taking things totally out of context. The Russians had an operation against us, but they've always had an operation against the United States of America -- going back from many, many years and many elections. So, the one thing that I took from the New Yorker piece today, and I haven't gotten through the whole thing because it's so long, and you have to kind of wind your way through it, so to speak. But I just think this is just more evidence about how dirty this dossier is. So, my guess is -- is this is a rehabilitation project to rehabilitate Christopher Steele who we know was supposedly working with Russians to get information."
+    },
+    {
+      "speaker": "And this is what continues to perplex me",
+      "utterance": "we know exactly who was getting information from the Russians. It was the Hillary Clinton Campaign that -- they were getting information from the Russians, dirt on Trump to use in a campaign. That's the very thing that for a year and a half, we've been trying to investigate on whether the Trump Campaign was trying to get dirt against Hillary Clinton on the Russia -- from the Russians. We have no evidence of that. But yet here we have another example, even if the story is not, you know, completely accurate. We know that the Democrats were trying to get information from Russians to use against the Trump campaign."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, in terms of the spreading of the information that was in the dossier, there's a discussion about a meeting in the summer that Steele had with a number of national security reporters. And the author of this piece said, \"Yes, I was among them\". So, he's out there. He's been paid by, you know, through Coy Perkins, by the DNC and the Hillary Clinton Campaign. But so, he is out there spreading this information to these reporters, and John Brennan is not aware of who paid for the dossier at that point? Because he says, he learned about it in press circles."
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "Yes, right, he did say that early on. But I think this is, this is just more of an example of how outrageous the press coverage of this has become, right? So, many people in the press, not just this writer that wrote this piece today, many writers were briefed by Christopher Steele, many of them have the dossier way before the election."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Right."
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "The dossier, on the face of it is ridiculous. I mean, this is something that said that they were going to give some guy -- Carter Page was going to get 20 percent of Gazprom, which will be billions and billions of dollars. If the FBI really believes that, we've got a bigger problem in the FBI with just basic credibility."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. Let me ask you this because Sam Nunburg, I'm sure you've seen the headlines today, and we're going to talk about this one in just a moment. He says, yes, he's sure, actually, that Carter Page was engaging in some kind of relationship with the Russians, some kind of collusion with the Russians. Your thoughts on that."
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "Well, this is the first time I heard of that. It sounds a little wild to me. I don't think there's any -- Carter Page will tell you himself that he was talking to Russians; he's a Putin apologist. We don't -- we don't agree with anything that Carter Page believes, at least Republicans and the House don't. We've long been on the record about making any apologies for Putin. We know that Putin is up to bad things, and we know that Carter Page is an apologist for Putin. But I don't know that there's anything earth-shattering there."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. Before I let you go, the discussion today that there's $120 million that's supposed to be spent on making sure that the Russians can't be deeply involved in the midterm elections and elections going forward that that money hasn't been spent. The accusation that the Trump Administration is not taking this whole thing seriously when it comes to elections going forward. What do you say to that?"
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "Well, I'll say two things. One, there were millions and millions of dollars that went unspent by our intelligence agencies during the Obama administration, even as they were being warned by myself and others back in 2014, 15, 16. Unspent. So, this coming out of the State Department, about money, I mean, I don't know. Look, if you're going to go against the Russians, against a foreign adversary, the first thing you do is don't talk about it."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. I mean, if you are concerned that they weren't spending the money then, are you concerned that they're not spending the money now?"
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "Well, I know -- I know for a fact that our intelligence agencies, at least, what we control, they are spending the money."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "OK. Good to see you tonight, chairman. And as you continue to go through that information, I get your questions and answers back. I hope you'll join us again and about it some more."
+    },
+    {
+      "speaker": "NUNES",
+      "utterance": "Thank you, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Thank you. Good to see you tonight. So, coming up next, new reports tonight that the Mueller investigation is looking into Trump ties for possible influence from the UAE, but there's still no investigation into Clinton Foundation influence from other countries. So, that raises a few questions. And it comes, as this ousted Trump campaign aide says that he will not obey a grand jury's subpoena. Have you seen all this today? Listen."
+    },
+    {
+      "speaker": "NUNBURG",
+      "utterance": "Granted Donald Trump caused this because he's an idiot."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Kat Pierson, Former Spokesperson for President Trump's 2016 Campaign, and Judge Andrew Napolitano join us on that next. Plus, why the father of one of the 17 victims of the Parkland shooting says gun control is not the answer. It is not what he wants talk about now."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "We got to airport, I can't get on the plane with a bottle of water, but we leave it -- some animal to walk into a school and shoot our children."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Breaking tonight, several big new developments, including about the special counsel's investigation into Russia. Sam Nunburg, a fired former Trump campaign aide, and you will learn why shortly, saying that he will defy a grand jury subpoena and refuse to testify. It comes as Mueller's so-called hit list is revealed, which includes President Trump and nine former employees. And there are new reports that the probe is exploring whether other countries besides Russia managed to get influence inside the Trump presidential campaign. Trace Gallagher, live in our West Coast Newsroom with the story tonight. Hi, Trace."
+    },
+    {
+      "speaker": "TRACE GALLAGHER, FOX NEWS CHANNEL HOST",
+      "utterance": "Hi, Martha, during a series of interviews today, Former Trump Aide, Sam Nunburg, was adamant about two things. One, he does not like President Trump, at one point saying he hates the man, and two, that he will not comply with Robert Mueller grand jury subpoena, even taunting Mueller to arrest him. But when it comes to possible Russian collusion, Nunburg's assessment tends to fluctuate. Here's what he said today. Watch."
+    },
+    {
+      "speaker": "NUNBURG",
+      "utterance": "When I get a subpoena like this, what I do is, right, it's a witch-hunt. I mean, Mr. Trump's right, the president is right, it's a witch hunt. And I'm not going to cooperate."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "But last month, Sam Nunberg spent five hours talking with Robert Mueller's investigators, and today when he was asked about that questioning, Nunburg made an about face saying he thinks Mueller may have something on the president. Here's the White House response to that comment."
+    },
+    {
+      "speaker": "SARAH HUCKABEE SANDERS, WHITE HOUSE PRESS SECRETARY",
+      "utterance": "As we've said many times before, there was no collusion with the Trump campaign. Anything further on what his actions are, he hasn't worked at the White House. So, I certainly can't speak to him or the lack of knowledge that he clearly has."
+    },
+    {
+      "speaker": "GALLAGHER",
+      "utterance": "Late last year, Trump Attorney Ty Cobb said the Mueller probe would wrap up early this year, that would be a long shot considering the scope of the investigation now includes information about numerous Trump associates, including Hope Hicks, Steve Bannon, Corey Lewandowski, and Roger Stone among others. Investigators want e-mails, text messages, phone logs, and other communications dating back to November of 2015. Today, Roger Stone said, 'He would expect that Mueller's team would at some point ask for documents or emails sent or written by me, but let me reiterate, I have no involvement in Russian collusion or any other inappropriate act.' And the investigation may also be widening beyond Russian election interference. The New York Times is reporting that Mueller's team has interviewed Lebanese-America businessman, George Nader, who was a frequent White House visitor last year, and an advisor to Abu Dhabi Crown Prince, Mohammed bin Zayed. The Times says, the focus appears to be possible UAE efforts to buy political influence with the Trump administration. The White House has not yet commented. Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Trace, thank you very much. Here now Katrina Pierson, Former National Spokesperson for Trump's 2016 Presidential Campaign and now Spokesperson for the America First Action Pack. Kat, good to see you tonight. KATRINA PIERSON, FORMER NATIONAL SPOKESPERSON FOR TRUMP'S 2016 PRESIDENTIAL CAMPAIGN AND SPOKESPERSON FOR THE AMERICA FIRST ACTION PACK: Glad to be here."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Do you see all of those pictures flashed across the screen of the people that you worked side by side with during the course of this campaign, and today these explosive and, you know, at times vial assessments by Sam Nunburg. What did you make of what you heard from him today?"
+    },
+    {
+      "speaker": "PIERSON",
+      "utterance": "Well, you know, Martha, A disgruntled employee acts like disgruntled employee. You know, Sam was fired from the campaign in the fall of 2015, and he's really never recovered from that. But I do understand his frustration. When I look at my other colleagues having to deal with such nonsense of this witch-hunt because that's exactly what it is. We are no longer even talking about collusion with Russia at this point. Trace just mentioned in his reporting, we're talking about so many other things that are just out there. The investigation is continuing to broaden its scope. They just need to admit there was no Russia collusion, and then try to get on with the day."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "It doesn't look like that's going to happen anytime soon. Today, Sam Nunburg said that he thought that it was possible that the president had done something bad during the course of the campaign. What's your reaction to that?"
+    },
+    {
+      "speaker": "PIERSON",
+      "utterance": "Well, I don't really have a reaction to that. I think that part of the reason why this continues to go on particularly in the left-leaning media, because I want people to think there's something. They keep saying if there's indictments, there must be something there and that's simply not true. There is no Russia collusion. These individuals that have been swept up in this investigation are just casualties from a war of a swamp that simply doesn't want to be drained."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Why was Sam Nunburg fired from the campaign?"
+    },
+    {
+      "speaker": "PIERSON",
+      "utterance": "Well, he had made a series of comments on social media that were considered extreme and even racist to a point. The president actually -- Mr. Trump actually fired him when he used to work for him outside of the campaign. So, this is not unusual behavior from Sam but I will say that I do understand his frustration. To spend that time, energy, effort, and money because he's going to have to hire a lawyer to deal with this type of this of thing is simply uncalled for. And all of these individuals are wrapped up into this, Martha, just because they took the job."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. Here's a sound bite from him today, and I want to just get your thoughts on this, Kat. Let's put it up."
+    },
+    {
+      "speaker": "NUNBURG",
+      "utterance": "Carter Page? Never met the guy in my life. I never met him."
+    },
+    {
+      "speaker": "UNIDENTIFIED MALE",
+      "utterance": "Do you think Carter Page as criminal exposure?"
+    },
+    {
+      "speaker": "NUNBURG",
+      "utterance": "I think Carter Page colluded with the Russians. And I've told you that before. I told you that privately, I think he colluded with the Russians."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Kat, what's your reaction to that?"
+    },
+    {
+      "speaker": "PIERSON",
+      "utterance": "He's never met him before but he's sure he colluded. You know, this is another reason that we know there was no collusion, Martha, because they keep trying to associate Carter Page with the campaign. He was never an employee of the campaign, he volunteered to sit on a board and didn't even show up to the meeting. But I'll also say that why is Carter Page still walking around if he was the key to all of this, if he was purpose for the FISA warrant, if he was the guy that colluded with the Russians?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You can find him just about anywhere."
+    },
+    {
+      "speaker": "PIERSON",
+      "utterance": "Why is he still walking around?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "He's been everywhere. No, they're not even looking at him anymore. Kat, thank you very much. Good to have you here tonight."
+    },
+    {
+      "speaker": "PIERSON",
+      "utterance": "Glad to be here."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, here now, Judge Andrew Napolitano, Fox News Senior Judicial Analyst. Judge, first of all, Mr. Nunburg -- I mean, what a performance."
+    },
+    {
+      "speaker": "ANDREW NAPOLITANO, FOX NEWS SENIOR JUDICIAL ANALYST",
+      "utterance": "What a performance."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All over every cable channel today except this one. Does he have any credibility, first of all?"
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "utterance": "Well, he is diminishing his credibility. This is a lawyer, this is a licensed lawyer in the state of New York publicly announcing he's going to defy a grand jury subpoena. The procedure will be for them to bring him before the judge who is supervising the grand jury and the judge will say, hey, you're a lawyer, you have to explain. You have no choice but to show up and answer questions, you have privilege? Claim privilege, but you haven't told us you're going to claim any privilege. And if he then refuses, I do believe he will incarcerated."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right. Here's another sound bite from him. I want to get your thoughts on this judge. Watch."
+    },
+    {
+      "speaker": "NUNBURG",
+      "utterance": "But they did tell me was, I wasn't going to be a subject or target, that I wasn't going to get the same kind of immunity. But they wanted something. Now, Ari, let me just say something."
+    },
+    {
+      "speaker": "ARI MELBER, MSNBC HOST",
+      "utterance": "They offered you immunity?"
+    },
+    {
+      "speaker": "NUNBURG",
+      "utterance": "Yes."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "This is the first I've heard, although you told before we began the show that you are going to run a tape of him saying \"they offered me immunity\". Immunity can be given against the will of the immunized person, which then forces you to testify. You have no privileges, you have no rights not to testify. Again, as a lawyer, I can only assume that he knows that. What is striking me as interesting and fascinating is that late last month, Bob Mueller, his team, including prosecutors and FBI agents, interrogated Sam Nunburg for 5-1/2 hours. Then, late last week, whatever he told them, they decided they wanted to tell a grand jury. So, he willingly spoke to him on his own. There's no compulsion to go to the interview. He went on his own. Now, he doesn't want to regurgitate the same materials to the grand jury but --"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Well, he said he's tired of spending his money, tired of hiring lawyers to go through all of this stuff. He thinks it's a witch-hunt, as he said. It looks like they're trying to corroborate what they've heard from other witnesses, because they now want all of these e-mails, any text messages that maybe they couldn't already find. We'll assume they have most of this stuff. A lot of this has been turned over to them. What does it tell you on the whole, judge, about where this investigation is right now?"
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "utterance": "It is not going to be over soon. Bob Mueller is not only not winding down, he's gearing up. And I think more indictments should be expected. What's interesting is the list of people who are not on that list have of, of who he wanted e-mails from, he already has them. Jared Kushner, Ivanka Trump, General Flynn, he already has them -- Nunburg himself, he already has those e-mails and he knows how to utilize them."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "What about this UAE part of the story, quickly, if you can. We'll get more into it on another day."
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "utterance": "I think it's very serious. But I can't -- again, it came out of the blue. I suspect came from Rick Gates, who's now providing a treasure trove of information. That's like, co-indicted with Paul Manafort pleaded guilty now becoming Bob Mueller's bet witness."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Judge Napolitano, always good to see you, sir. Thank you for being here."
+    },
+    {
+      "speaker": "NAPOLITANO",
+      "utterance": "A pleasure, of course."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So, coming up next, a strong show of force today as Trump welcomes Israeli Prime Minister, Benjamin Netanyahu, to the White House. His message for America, after the break."
+    },
+    {
+      "speaker": "BENJAMIN NENTANYAHU, PRIME MINISTER OF ISRAEL",
+      "utterance": "If I had to say what is our greatest challenge in the Middle East, to both our countries, to our Arab neighbors, it's incapsulated in one word -- Iran."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "Iran has not given up its nuclear ambitions. It is -- it came out of this nuclear deal emboldens and enriched. It's practicing aggression. We were including on our own borders. And I think we have to stop this country that chants death to Israel, death to America. Iran must be stopped."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That was Israeli Prime Minister, Benjamin Netanyahu, earlier today at the White House, directly calling out Iran for not holding up its end of the nuclear deal. It comes as President Trump has threatened to pull out of that 2015 deal. He's been saying that since the campaign, as the country continues to test missiles. Joining me now, Tammy Bruce, Washington Times columnist, and Mo Elleithee, executive director of the Georgetown Institute of Politics and Public Service, both are Fox News contributors. Good to see both of you tonight. Obviously, this is one of the most important relationships that the United States has. It has improved greatly over the course of the Trump administration. But Tammy, the amount of firepower that is required with the Iran question of all fronts is what Benjamin Netanyahu was clearly pressing the president for today."
+    },
+    {
+      "speaker": "TAMMY BRUCE, FOX NEWS CONTRIBUTORS",
+      "utterance": "Yeah. And this is also though a very important statement overall for the messaging internationally that the United States is standing very strongly with Israel. There's no question here at this stage. Obviously, the moving of the embassy to Jerusalem is another statement that we're going to even go further than we have in the past. So this is a message after Barack Obama whose message was the opposite to our enemies and our friends was whether or not we would stick with our friends and really backed them up. Here we're saying so and being particularly aggressive with Israel, so that can't be denied. Also, the discussion that the president may go to Israel for the opening of the embassy would be a remarkable statement. But especially since the armed drone development out of Iran which we believe may have come from when they had shot down one of our drones, of course, to use in Israel and against Israel. The bombing then of the side in Syria by Israel, the shooting down of one of their jets. You know, they've been at war with Syria, technically. They've only been under a cease fire, I think, since 1967. So this is really still the world preparing for, certainly the Middle East preparing. And the United States is saying we're going to be there for our friend Israel."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Here's a quote from the Iranian armed forces, Iran's missile program will continue, non-stop, and foreign powers have no right to intervene on this issue. That's coming from the news agency in Iran. Mo, your thoughts?"
+    },
+    {
+      "speaker": "MO ELLEITHEE, FOX NEWS CONTRIBUTOR",
+      "utterance": "You know, that I think is a kind of bluster you expect and acknowledge from the Iranian government. The reality is, however, they actually have by most indicators held true to the terms of the Iran deal. Look, I think today is, kind of, important day for both the prime minister and the president. Both are facing increased challenges at home. The prime minister facing legal challenges back in Israel. The president, obviously, with a lot of stuff we've been talking about here tonight, problems here at home. So this is a good opportunity for them both to try to focus attention elsewhere in a show of strength and a show of mutual force. The challenge will be, one, that a lot of the rest of the world isn't there with them. The world's largest, biggest atomic watchdog agency today urged the United States not to back out of this Iran deal because it will have devastating consequences. And secondly, the president hasn't really laid out a broader Middle East strategy, and the person he task in doing so just lost his security clearance."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "All right."
+    },
+    {
+      "speaker": "ELLEITHEE",
+      "utterance": "So there's going to be -- this is all fought in peril right now."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I want to ask you about trade because I've got only a couple of minutes left. And I want to play this from the president because, obviously, he's gotten a lot of push back on this. The market rebounded today. But here's what he had to say."
+    },
+    {
+      "speaker": "DONALD TRUMP, PRESIDENT OF THE UNITED STATES OF AMERICA",
+      "utterance": "No, we're not backing down."
+    },
+    {
+      "speaker": "TRUMP",
+      "utterance": "I don't think so. I don't think you're going to have a trade war."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So the markets like that statement, but the president said, you know, we're not going to open individual negotiations. But he did mention that with NAFTA, discussions reopening with Canada and Mexico. Here's an opening for them. I mean, this is classic President Trump negotiating tactics, Tammy."
+    },
+    {
+      "speaker": "BRUCE",
+      "utterance": "It is. But he said specifically on twitter that the tariffs effectively would come off if we did a good deal with NAFTA. Stating, effectively, this point literary that I've been saying this in order to get, you know, some good maneuvering here. But still the issue though is not just Canada and Mexico. It really is about China. We want to be able to be friends with our friends, but then deal with the nature of what's happening out of China. And he could have both. And we're going to see another tremendous negotiation in this regard."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "The status quo had not worked well, and we have $800 billion trade deficit. And he, clearly, does not want to live in that world right now."
+    },
+    {
+      "speaker": "ELLEITHEE",
+      "utterance": "He talks about our, quote, unquote, trade deficit with Canada. We actually have a trade surplus with Canada according to his own trade representative. But look, right now, we run the risk of our allies imposing retaliatory measures, targeting U.S. agricultural industry, targeting and -- if we impose these tariffs on steel, steel consumers are going to be the hardest hit. In the past, they have had to lay people off when these types of tariffs go through and raise prices. That is not good for anybody."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Individuals have been targeted in the past, that why he wants to do, I think, this blanket statement at least at the outset. We got to leave it there though, guys. Thank you so much. Good to see you both tonight."
+    },
+    {
+      "speaker": "ELLEITHEE",
+      "utterance": "Thanks."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "So still to come, a moving tribute to our armed forces, but Oscar audience has, pretty much, no reaction. And the father of Meadow Pollack, one of the 17 victims of the Parkland shooting joins me with his message, next. Some big news out of the Florida senate tonight, the powerful message for lawmakers there and he says he's not stopping there. He is going all the way to the Pacific Ocean with what he wants to change in America."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "The Department of Education that I walked in today, that has a security guard in the elevator, how do you think that makes me feel?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Developing tonight, the Florida state senate had just passed landmark gun legislation in the wake of the Parkland school shooting. This bill raises the minimum age to 21 for a rifle. It pours millions into making school safer and into mental health programs. It gives districts the option to arm certain personnel. It stops short of arming classroom teachers. My next guest says he will not stop until this bill is sign. His 18-year-old daughter, Meadow, was killed in the Parkland shooting. And he has been fighting for change every minute of every day since then. Since he took his message and you all remember seeing him days after at the White House. Watch."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "I'm very angry that this happened because it keeps happening, 9/11 happened once, and they fixed everything. How many schools, how many children have to get shot? It stops here with this administration and me. I'm not going to sleep until it's fixed."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Andrew Pollack joins me now. Andrew, good evening. And I think you have stuck to that. I can't imagine when you sleep, sir. I see you out there day in and day out. I think so many parents look at you and they wonder how you are doing this. You just lost your beautiful daughter. And we're going to put a picture of her up, 18-year-old Meadow. How are you managing to find the strength to do what you're doing when you must be so devastated, sir?"
+    },
+    {
+      "speaker": "ANDREW POLLACK, DAUGHTER KILLED IN FLORIDA SHOOTING",
+      "utterance": "I could tell you it's easy because what happens is -- it's hard to explain it because I hope no one has to feel what I have to feel. But when someone murders your kid, shoots them nine times, it kind of empowers you. And my blood boils and that's the energy that drives me every day. That's my empowering to keep me focused on what I need to do to spread this awareness of school safety."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I think that your voice, sir, you got the attention of so many people when you stood up at the White House. You talked about 911. You talked about the fact that in the elevator at the Department of Education there was a person there with a gun, a security guard protecting you. And you said, imagine how that makes me feel. You want our schools to be hardened in the same way, right?"
+    },
+    {
+      "speaker": "POLLACK",
+      "utterance": "Correct. And I want everyone out there that wants to help me on my crusade, they could go to remembermeadow.com. And there's strength in numbers. So you're going to help me after I finish this -- the next vote is going to be, I think, on Wednesday in the house in Florida, and that's very important to make sure that the safety bill gets passed. And there's a lot of good things in that bill."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "When you talk about -- you get -- upset when people start talking about gun control, because you firmly believe that that is not a winning route in terms of achieving your goal, correct?"
+    },
+    {
+      "speaker": "POLLACK",
+      "utterance": "Well, I -- it just takes -- you just look at history. There's been over 200 school shootings, Martha. And every focus on -- right after the shooting is gun control, the media focuses on gun control. And it doesn't work. That's a big issue. So my issue is, let's change it this time. My daughter was murdered and I'm going to do something different than no other parent ever done. I'm going to focus on what I could do can and what we could do as a nation and what we could do without -- without being in any political party is to take care of our kids because that's easy. That's easy out there. Let's just get together and fix our schools."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Do you believe that this time is different. I know you do personally. And you want to build momentum across the country. You know, I would love to see us get through one year without a school shooting. Just as a starting point in all of this. Do you think that's possible, Andrew?"
+    },
+    {
+      "speaker": "POLLACK",
+      "utterance": "I don't think -- you know what I mean -- you can't -- why think? What we should do? We need to act. We need to be proactive. It's like, are we going to leave a courthouse open for someone who just walked in? Should we take a chance there? Should we take a chance of if we go to a Dolphin game? OK, this time we're going to see if people could walk in with no metal detectors. There's metal detectors at coliseums. There's metal detectors into Federal building. That has to be the new norm. That's what we need. We owe it to our kids to do that."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "But I'm saying, do you think that you could get that leverage? Do you think you can pass this vote in Florida? And you think you could start adding state after state after state as you try to move this movement forward?"
+    },
+    {
+      "speaker": "POLLACK",
+      "utterance": "Let me tell you what I got going on the next two days."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah."
+    },
+    {
+      "speaker": "POLLACK",
+      "utterance": "The next two days I'm going to be in the capital when the house is going to be voting. So all of my friend and everyone that knows me they -- they know I'm going to be on the floor talking with the people that are going to be voting. So I'm pretty confident that I'm going to be able to get this bill passed. If it doesn't pass, then no one could have got it done, because I'm going down there with all of the energy and I got this lion inside of me, so they're going to have to face me at the capital tomorrow and Wednesday, and I want to know why they don't want our kids safe if they this bill. I want to know. You tell me when I'm in the capital tomorrow. And tell me -- and all these other kids that go to school that are worried someone is going to walk through the hallway. How could you not vote for this bill?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Andrew Pollack, we will be watching and we will be supporting. And we thank you very much for making time for us tonight. And we want to get your word out along with your help. Thank you sir, thank you so much."
+    },
+    {
+      "speaker": "POLLACK",
+      "utterance": "Thanks, Martha."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You take care."
+    },
+    {
+      "speaker": "POLLACK",
+      "utterance": "Anytime."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "we'll be in touch. We'll take a quick break here, and we'll be right back with more of The Story."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Hollywood's biggest night last night, making some headlines for kind of the wrong reasons. Native-American actor, Wes Studi, this was an interesting moment. He took the stage to honor our troops, and as he spoke about his own military service, it appeared that he kind of left the crowd a bit uncomfortable."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "I volunteered to go to Vietnam. Now, I'm proud to have served there for 12 months with alpha company, third of the 39 infantry."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "Anyone else?"
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Watch what happens after the Oscar showed a highlight reel of some of the best military blockbusters. Watch."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "I'm going to get you home."
+    },
+    {
+      "speaker": "UNINDENTIFIED MALE",
+      "utterance": "When you found me, I was here. And I was with the only brothers that I have left."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I thought it was a really nice moment. There was not a lot of jumping up on your feet and standing ovation like we saw for many of the other strong moments in the awards ceremony last night. Kayleigh McEnany is a Republican National Committee spokesperson, Richard Fowler is nationally syndicated radio talk show host and a Fox News contributor. I actually watched the Oscars beginning to end for the first time in a long time last night. I thought that they were trying, you know. And I thought with that moment they were kind of trying to reach out to the military members, and I thought that was a very striking moment, Richard, when he said anybody else? You know, I thought that would have been a great moment for everyone to get on their feet and applaud him and applaud his service."
+    },
+    {
+      "speaker": "RICHARD FOWLER, FOX NEWS CONTRIBUTOR",
+      "utterance": "I completely agree with you. I think it's sad that they didn't."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Why not? Why is that hard?"
+    },
+    {
+      "speaker": "FOWLER",
+      "utterance": "Like my mom would say, you know, sometimes a broke clock is wrong sometimes. And I think this is exactly one of those examples. But I think there's a larger story here. If you think about the people who put on the Oscars, the fact they had this individual be the presenter and talk about military service, and the fact that he is one of the few indigenous people to ever grace the Oscar stage, speaks to the fact that, you know, veterans comes from all walks of lives and they all serve our country, and they deserve our respect, and they deserve our admiration."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "I just see him as an American, an American member of the United States military. I would imagine that that's primarily how he sees himself."
+    },
+    {
+      "speaker": "FOWLER",
+      "utterance": "I agree."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "There's a great history -- Jimmy Stewart was a fighter pilot. There was a great history of military involvement among people in Hollywood that they should be very, very proud of."
+    },
+    {
+      "speaker": "FOWLER",
+      "utterance": "I agree. I think -- he actually spoke in Cherokee at the end of the presentation to shout out his indigenous people history. I think that was powerful."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Kayleigh, what did you think about that moment?"
+    },
+    {
+      "speaker": "KAYLEIGH MCENANY, RNC SPOKESPERSON",
+      "utterance": "Yeah. And Hollywood could barely applaud that. You saw this hesitation to applaud. You could almost picture someone in the audience with a cue card saying, now you're supposed to clap, because they did so so hesitantly. But Martha, this just shows that Hollywood is entirely divorced from the heartland. This is why the Oscars got the lowest ratings they ever had in history last night. Why the Grammys have a low rating. It's why the Golden Globes do. It's why the Super Bowl did. You know, these Hollywood elites, they dress up, they give each other awards, self-congratulatory pat at the back, and they can't even stand for the men and women who fought, bled and died to give them that opportunity."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "You know, I also thought there was another weird moment. Did you guys see the moment when they went with the hot dog shooting machine and the candy? So they all traipse over in their tuxedos and in their gowns over to the other part of the theater where the real people are watching. And they get all excited that the celebrities are walking in. They started shooting hot dogs at them. Remember that moment, Richard, when everyone criticized President Trump because he was throwing the paper towels out."
+    },
+    {
+      "speaker": "FOWLER",
+      "utterance": "Oh, no, I know that."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That's what it looks like."
+    },
+    {
+      "speaker": "FOWLER",
+      "utterance": "Here's the thing, the Oscars has always been problematic. Remember there was a hashtag started a couple of years ago by a colleague of mine, April Reign, and she said the Oscars are so white. So the Oscars have always been problematic, right? So I'm not going to sit here and defend bad behavior, and the Oscars is known for that."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Kayleigh, final thoughts."
+    },
+    {
+      "speaker": "MCENANY",
+      "utterance": "They have to contrite being relatable. It's actually quite hilarious, you know, shooting out the hot dogs into the crowd, and thinking this is what the everyday American wants to see and relate to. It's just completely off base. They clap for the greatest showmen and their cast, but they can't clap for our heroes and our military men and women who deserve to be stood for."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "Yeah. It's like people are going to be grateful that somebody threw some starburst at them in a long gown. Thanks you guys. Richard, Kayleigh, good to see you both. Quick break, more of The Story when we come right back."
+    },
+    {
+      "speaker": "MACCALLUM",
+      "utterance": "That is our story for tonight. Thanks for being here everybody. We will see you back here tomorrow night at 7:00. Don't go away, Tucker Carlson in Washington, D.C., is up next."
+    },
+    {
+      "speaker": "Copy",
+      "utterance": "Content and Programming Copyright 2018 Fox News Network, LLC. ALL RIGHTS RESERVED. Copyright 2018 ASC Services II Media, LLC. All materials herein are protected by United States copyright law and may not be reproduced, distributed, transmitted, displayed, published or broadcast without the prior written permission of ASC Services II Media, LLC. You may not alter or remove any trademark, copyright or other notice from copies of the content."
+    }
+  ]
+}
