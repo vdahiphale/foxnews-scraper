@@ -2,8 +2,8 @@ import os
 import json
 import ollama
 import re
-import time
-import argparse  # <--- Added to handle command line arguments
+import argparse
+import datetime
 
 # --- CONFIGURATION ---
 # MODEL_NAME = "deepseek-r1:7b"
@@ -15,6 +15,19 @@ OUTPUT_FOLDER = "foxnews_transcripts_utterances_Modifies_Processed"
 
 # Ensure output directory exists
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+def log_message(message, end="\n"):
+    """
+    Prints to console (stdout) with a timestamp. 
+    Shell redirection (>) will handle saving this to your specific log file.
+    """
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    
+    # Handle carriage return for progress bars (overwrite line)
+    if end == "\r":
+        print(message, end=end, flush=True)
+    else:
+        print(f"[{timestamp}] {message}", end=end, flush=True)
 
 def extract_json_from_response(response_text):
     """
@@ -50,6 +63,7 @@ def chat_with_retry(messages, max_retries=3):
     """
     for attempt in range(1, max_retries + 1):
         try:
+            # The ollama library automatically picks up the OLLAMA_HOST env var
             response = ollama.chat(model=MODEL_NAME, messages=messages)
             content = response['message']['content']
             
@@ -58,12 +72,11 @@ def chat_with_retry(messages, max_retries=3):
             if data is not None:
                 return data
             
-            # Only print retry warning if it's not the last attempt
             if attempt < max_retries:
-                print(f"    [!] JSON parse failed (Attempt {attempt}/{max_retries}). Retrying...")
+                log_message(f"    [!] JSON parse failed (Attempt {attempt}/{max_retries}). Retrying...")
             
         except Exception as e:
-            print(f"    [!] Ollama API Error (Attempt {attempt}/{max_retries}): {e}")
+            log_message(f"    [!] Ollama API Error (Attempt {attempt}/{max_retries}): {e}")
         
     return None
 
@@ -76,11 +89,16 @@ def determine_is_interview(headline, utterances):
         sample_text += f"Speaker {u.get('speaker', 'Unknown')}: {u.get('sentences', '')}\n"
 
     prompt = f"""
-    Analyze the following transcript start. Determine if this is a formal Interview (Host vs Guest) or just a report/monologue.
+    You are an expert linguistic data processor. I am providing a sample of a transcript.
     
     HEADLINE: {headline}
     TRANSCRIPT SAMPLE:
     {sample_text}
+
+    Your Task:
+    Analyze the text context and determine the "isInterview" status based on this rule:
+    - Set to true if the transcript represents a conversation/interview (Host vs Guest).
+    - Set to false if it is a monologue or report.
 
     Return ONLY a valid JSON object, no markdown, no extra text:
     {{ "isInterview": true }}
@@ -91,23 +109,31 @@ def determine_is_interview(headline, utterances):
     if data and "isInterview" in data:
         return data["isInterview"]
     
-    print("    [!] Failed to determine interview status after retries. Defaulting to False.")
+    log_message("    [!] Failed to determine interview status after retries. Defaulting to False.")
     return False 
 
-def analyze_utterance(prev_speaker, prev_text, curr_speaker, curr_text):
+def analyze_utterance(pp_speak, pp_text, p_speak, p_text, c_speak, c_text, n_speak, n_text):
     """
-    Asks LLM to analyze a specific utterance pair for flags.
+    Asks LLM to analyze a specific utterance pair using a 4-utterance window.
     """
     prompt = f"""
-    Analyze this conversation flow.
+    You are an expert linguistic data processor. Analyze this conversation flow centered on the CURRENT SPEAKER.
     
-    PREVIOUS SPEAKER ({prev_speaker}): "{prev_text}"
-    CURRENT SPEAKER ({curr_speaker}): "{curr_text}"
+    --- CONTEXT WINDOW ---
+    1. PRE-PREVIOUS SPEAKER ({pp_speak}): "{pp_text}"
+    2. PREVIOUS SPEAKER ({p_speak}): "{p_text}"
+    
+    >>> 3. CURRENT SPEAKER ({c_speak}) [ANALYZE THIS]: "{c_text}" <<<
+    
+    4. NEXT SPEAKER ({n_speak}): "{n_text}"
+    ----------------------
 
-    Task:
-    1. Is CURRENT SPEAKER asking a question? (isQuestion)
-    2. Is CURRENT SPEAKER answering a previous question? (isAnswer)
-    3. Did CURRENT SPEAKER interrupt? (didInterrupt)
+    Your Task:
+    Analyze the "CURRENT SPEAKER" text based on the surrounding context and return a JSON object with booleans updated correctly based on these rules:
+    
+    1. "isQuestion": Set to true if the CURRENT SPEAKER is asking a question.
+    2. "isAnswer": Set to true if the CURRENT SPEAKER is responding to a question posed by the PREVIOUS or PRE-PREVIOUS speaker.
+    3. "didInterrupt": Set to true ONLY if the CURRENT SPEAKER cut off or interrupted the PREVIOUS SPEAKER (implying the PREVIOUS SPEAKER's sentence was left incomplete).
 
     Return ONLY a valid JSON object. Do not write explanations.
     Example format:
@@ -120,101 +146,116 @@ def analyze_utterance(prev_speaker, prev_text, curr_speaker, curr_text):
 
     return chat_with_retry([{'role': 'user', 'content': prompt}], max_retries=3)
 
-def process_single_file(filename):
+def process_single_file(filename, current_idx, total_count):
     input_path = os.path.join(INPUT_FOLDER, filename)
     output_path = os.path.join(OUTPUT_FOLDER, filename)
 
-    # Optional: Skip if already exists to allow restarting interrupted jobs easily
-    # if os.path.exists(output_path):
-    #     print(f"Skipping {filename} (already processed).")
-    #     return
-
-    print(f"Reading {filename}...")
+    log_message(f"Reading [{current_idx}/{total_count}] {filename}...")
     
     try:
         with open(input_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
     except Exception as e:
-        print(f"  [!] Error reading input file: {e}")
+        log_message(f"  [!] Error reading input file: {e}")
         return
 
     utterances = data.get('utterances', [])
     headline = data.get('headline', '')
 
-    print("  - Analyzing Interview Status...")
+    log_message("  - Analyzing Interview Status...")
     data['isInterview'] = determine_is_interview(headline, utterances)
-    print(f"  - isInterview set to: {data['isInterview']}")
+    log_message(f"  - isInterview set to: {data['isInterview']}")
 
-    print(f"  - Processing {len(utterances)} utterances...")
+    log_message(f"  - Processing {len(utterances)} utterances...")
     
     for i in range(len(utterances)):
         curr_u = utterances[i]
         curr_text = curr_u.get('sentences', '')
         curr_speaker = curr_u.get('speaker', 'Unknown')
 
-        prev_text = ""
-        prev_speaker = ""
-        if i > 0:
-            prev_u = utterances[i-1]
-            prev_text = prev_u.get('sentences', '')
-            prev_speaker = prev_u.get('speaker', 'Unknown')
+        # --- Context Retrieval ---
+        # Defaults for Pre-Prev (i-2)
+        pp_text, pp_speaker = "N/A", "N/A"
+        if i >= 2:
+            pp_u = utterances[i-2]
+            pp_text = pp_u.get('sentences', '')
+            pp_speaker = pp_u.get('speaker', 'Unknown')
 
-        result = analyze_utterance(prev_speaker, prev_text, curr_speaker, curr_text)
+        # Defaults for Prev (i-1)
+        p_text, p_speaker = "N/A", "N/A"
+        if i >= 1:
+            p_u = utterances[i-1]
+            p_text = p_u.get('sentences', '')
+            p_speaker = p_u.get('speaker', 'Unknown')
+
+        # Defaults for Next (i+1)
+        n_text, n_speaker = "N/A", "N/A"
+        if i < len(utterances) - 1:
+            n_u = utterances[i+1]
+            n_text = n_u.get('sentences', '')
+            n_speaker = n_u.get('speaker', 'Unknown')
+
+        # --- Analyze ---
+        result = analyze_utterance(
+            pp_speaker, pp_text, 
+            p_speaker, p_text, 
+            curr_speaker, curr_text, 
+            n_speaker, n_text
+        )
 
         if result:
             curr_u['isQuestion'] = result.get('isQuestion', False)
             curr_u['isAnswer'] = result.get('isAnswer', False)
+            
             if result.get('didInterrupt', False) and i > 0:
                 utterances[i-1]['isLastSentenceInterrupted'] = True
         else:
             curr_u['isQuestion'] = False
             curr_u['isAnswer'] = False
 
-        if i % 10 == 0 or i == len(utterances) - 1:
-            print(f"    Processed {i + 1}/{len(utterances)}", end='\r')
-
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
     
-    print(f"\n  [✓] Saved processed file to {output_path}\n")
+    log_message(f"  [✓] Saved processed file to {output_path}")
 
 def main():
-    # --- ARGUMENT PARSING ---
     parser = argparse.ArgumentParser(description="Process transcripts with Ollama")
     parser.add_argument("--start", type=int, default=0, help="Start index of files to process")
     parser.add_argument("--end", type=int, default=None, help="End index of files to process")
     args = parser.parse_args()
 
     if not os.path.exists(INPUT_FOLDER):
-        print(f"Error: Input folder '{INPUT_FOLDER}' not found.")
+        log_message(f"Error: Input folder '{INPUT_FOLDER}' not found.")
         return
 
-    # Get all files and sort them to ensure consistent order across terminals
+    # Sort files for consistency across terminals
     files = [f for f in os.listdir(INPUT_FOLDER) if f.endswith('.json')]
     files.sort() 
     
     total_files = len(files)
-    
-    # Calculate slice
     start_index = args.start
     end_index = args.end if args.end is not None else total_files
 
-    # Validation
     if start_index >= total_files:
-        print(f"Start index ({start_index}) is larger than total files ({total_files}). Nothing to do.")
+        log_message(f"Start index ({start_index}) is larger than total files ({total_files}). Nothing to do.")
         return
 
-    # Slice the file list
     files_to_process = files[start_index:end_index]
+    batch_size = len(files_to_process)
     
-    print(f"--- WORKER CONFIGURATION ---")
-    print(f"Total Files Available: {total_files}")
-    print(f"Processing Range:      {start_index} to {end_index}")
-    print(f"Files in this batch:   {len(files_to_process)}")
-    print(f"----------------------------")
+    # Check Environment Variable for OLLAMA_HOST
+    # This confirms which GPU/Port this script instance is actually hitting.
+    current_host = os.environ.get('OLLAMA_HOST', 'localhost:11434 (default)')
+
+    log_message(f"--- WORKER CONFIGURATION ---")
+    log_message(f"Target Ollama Host:    {current_host}")
+    log_message(f"Total Files Available: {total_files}")
+    log_message(f"Processing Range:      {start_index} to {end_index}")
+    log_message(f"Files in this batch:   {batch_size}")
+    log_message(f"----------------------------")
     
-    for filename in files_to_process:
-        process_single_file(filename)
+    for idx, filename in enumerate(files_to_process, start=1):
+        process_single_file(filename, idx, batch_size)
 
 if __name__ == "__main__":
     main()
